@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infrastructure Project Inquiry Form
+    pages:
+    - id: 1
+      name: project_inquiry
+      label: Project Inquiry
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: Project Location
+      hint: Enter project location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 7
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: true
+    - id: 8
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_multiple
+      options:
+      - infrastructure
+      - building
+      - transportation
+      required: true
+    - id: 9
+      name: project_submitter
+      label: Project Submitter
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: project_notes
+      label: Project Notes
+      hint: Additional notes about the project
+      type: text
+      options: []
+      required: false

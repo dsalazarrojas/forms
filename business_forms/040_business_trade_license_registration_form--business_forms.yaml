@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Trade License Registration Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: applicant_address
+      label: Personal Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Legal name of the business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Type of Business
+      hint: What type of business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_description
+      label: Business Description
+      hint: Detailed description of activities
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: Physical location of business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_phone
+      label: Business Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_email
+      label: Business Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: business_website
+      label: Business Website
+      hint: Website URL if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: government_id_type
+      label: Government ID Type
+      hint: Type of identification
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - Government ID
+      - Business License
+      - Tax ID
+      required: true
+    - id: 15
+      name: government_id_number
+      label: Government ID Number
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years of Experience in Trade
+      hint: Business experience
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: employees_count
+      label: Number of Employees
+      hint: How many people will you employ
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: startup_date
+      label: Business Startup Date
+      hint: When will the business start
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: estimated_revenue
+      label: Estimated Annual Revenue
+      hint: Projected first year revenue
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: registration_date
+      label: Application Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

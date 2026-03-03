@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Claim Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Your manager's name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: Date of this claim
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: expense_period
+      label: Expense Period
+      hint: When were expenses incurred?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expense_details
+      label: -- Expense Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expense_category
+      label: Primary Expense Category
+      hint: What type of expense?
+      type: select_one
+      options:
+      - Travel
+      - Meals and Entertainment
+      - Accommodation
+      - Office Supplies
+      - Professional Services
+      - Training
+      - Equipment
+      - Other
+      required: true
+    - id: 10
+      name: project_code
+      label: Project Code or Cost Center
+      hint: Associated project
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purpose
+      label: Purpose of Expenses
+      hint: Why were these expenses incurred?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_justification
+      label: Business Justification
+      hint: How does this benefit company?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expense_list
+      label: -- Expense List --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: expense_date_1
+      label: Expense 1 - Date
+      hint: Date of expense
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: expense_desc_1
+      label: Expense 1 - Description
+      hint: What was purchased?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expense_amount_1
+      label: Expense 1 - Amount
+      hint: Amount in currency
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: expense_date_2
+      label: Expense 2 - Date
+      hint: Date of expense
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: expense_desc_2
+      label: Expense 2 - Description
+      hint: What was purchased?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expense_amount_2
+      label: Expense 2 - Amount
+      hint: Amount in currency
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Claim Amount
+      hint: Sum of all expenses
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: receipts_attached
+      label: Receipts Attached
+      hint: Are all receipts included?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 23
+      name: reimbursement_method
+      label: Reimbursement Method
+      hint: How to reimburse?
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Credit Card Adjustment
+      - Petty Cash
+      required: true

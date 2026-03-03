@@ -1,0 +1,279 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contract Review Checklist Form
+    pages:
+      - id: 1
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reviewer_title
+        label: Reviewer Title
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: review_date
+        label: Review Date
+        hint: Date of review
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: contract_number
+        label: Contract Number
+        hint: Contract reference
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: contract_title
+        label: Contract Title
+        hint: Name of contract
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: contract_type
+        label: Contract Type
+        hint: Category
+        type: select_one
+        options:
+          - Service agreement
+          - Vendor contract
+          - Employment contract
+          - Partnership agreement
+          - Licensing agreement
+          - Lease agreement
+          - Purchase agreement
+          - Other
+        required: true
+      - id: 8
+        name: parties_identified
+        label: Parties Identified
+        hint: Are all parties clearly identified?
+        type: select_one
+        options:
+          - Yes, complete
+          - Yes, with minor issues
+          - No, needs revision
+        required: true
+      - id: 9
+        name: scope_defined
+        label: Scope Defined
+        hint: Is scope clear?
+        type: select_one
+        options:
+          - Yes, clearly defined
+          - Mostly clear
+          - Needs clarification
+          - Not defined
+        required: true
+      - id: 10
+        name: deliverables_specified
+        label: Deliverables Specified
+        hint: Are deliverables listed?
+        type: select_one
+        options:
+          - Yes, detailed
+          - Yes, general
+          - Needs more detail
+          - Not specified
+        required: true
+      - id: 11
+        name: payment_terms_clear
+        label: Payment Terms Clear
+        hint: Are payment terms clear?
+        type: select_one
+        options:
+          - Yes, complete
+          - Mostly clear
+          - Needs revision
+          - Not specified
+        required: true
+      - id: 12
+        name: timeline_defined
+        label: Timeline Defined
+        hint: Are dates and deadlines clear?
+        type: select_one
+        options:
+          - Yes, all dates specified
+          - Mostly clear
+          - Needs revision
+          - Not defined
+        required: true
+      - id: 13
+        name: termination_clause
+        label: Termination Clause
+        hint: Is termination addressed?
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, basic
+          - Needs revision
+          - Not included
+        required: true
+      - id: 14
+        name: liability_provisions
+        label: Liability Provisions
+        hint: Are liability terms included?
+        type: select_one
+        options:
+          - Yes, adequate
+          - Yes, needs revision
+          - No
+          - Not applicable
+        required: true
+      - id: 15
+        name: indemnification_clause
+        label: Indemnification Clause
+        hint: Is indemnification included?
+        type: select_one
+        options:
+          - Yes, mutual
+          - Yes, one-way
+          - Needs revision
+          - Not included
+        required: true
+      - id: 16
+        name: confidentiality_terms
+        label: Confidentiality Terms
+        hint: Are confidentiality terms included?
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, basic
+          - Needs revision
+          - Not included
+        required: true
+      - id: 17
+        name: intellectual_property
+        label: Intellectual Property
+        hint: Are IP rights addressed?
+        type: select_one
+        options:
+          - Yes, clear ownership
+          - Yes, needs clarification
+          - No
+          - Not applicable
+        required: true
+      - id: 18
+        name: dispute_resolution
+        label: Dispute Resolution
+        hint: Is dispute process defined?
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, basic
+          - Needs revision
+          - Not included
+        required: true
+      - id: 19
+        name: governing_law
+        label: Governing Law
+        hint: Is governing law specified?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: insurance_requirements
+        label: Insurance Requirements
+        hint: Are insurance terms included?
+        type: select_one
+        options:
+          - Yes, adequate
+          - Yes, needs revision
+          - No
+          - Not applicable
+        required: true
+      - id: 21
+        name: compliance_requirements
+        label: Compliance Requirements
+        hint: Are compliance terms included?
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, basic
+          - Needs revision
+          - Not included
+        required: true
+      - id: 22
+        name: force_majeure
+        label: Force Majeure
+        hint: Is force majeure included?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 23
+        name: amendment_process
+        label: Amendment Process
+        hint: Is amendment process defined?
+        type: select_one
+        options:
+          - Yes, clear process
+          - Yes, basic
+          - Needs revision
+          - Not included
+        required: true
+      - id: 24
+        name: signatures_required
+        label: Signatures Required
+        hint: Are signature blocks included?
+        type: select_one
+        options:
+          - Yes, all parties
+          - Yes, some parties
+          - No
+        required: true
+      - id: 25
+        name: overall_assessment
+        label: Overall Assessment
+        hint: Final assessment
+        type: select_one
+        options:
+          - Approved as is
+          - Approved with minor revisions
+          - Needs major revisions
+          - Not approved
+        required: true
+      - id: 26
+        name: reviewer_comments
+        label: Reviewer Comments
+        hint: Additional notes
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: reviewer_signature
+        label: Reviewer Signature
+        hint: Type name as signature
+        type: text
+        options: []
+        required: true

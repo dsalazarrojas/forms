@@ -1,0 +1,57 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_chemical_inspection_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chemical_levels
+      label: Chemical Levels
+      hint: null
+      type: select_multiple
+      options:
+      - pH
+      - Alkalinity
+      - Total Alkalinity
+      - Stabilizer
+      - Calcium Hardness
+      - Cyanuric Acid
+      - Chlorine
+      - Chlorine Free
+      required: false
+    - id: 3
+      name: maintenance_actions
+      label: Maintenance Actions
+      hint: null
+      type: select_one
+      options:
+      - Water Test Kit
+      - Visual Inspection
+      - Test Kit Calibration
+      - Additional Actions
+      - Other
+      required: false
+    - id: 4
+      name: maintenance_actions_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

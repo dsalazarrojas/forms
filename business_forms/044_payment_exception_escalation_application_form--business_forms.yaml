@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_exception_escalation_application_form
+    pages:
+    - id: 1
+      name: payment_exception_details
+      label: Payment Exception Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: date_of_exception
+      label: date_of_exception
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount_of_exception
+      label: amount_of_exception
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 9
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: chatjimmy
+      label: chatjimmy
+      hint: null
+      type: text
+      options: []
+      required: false

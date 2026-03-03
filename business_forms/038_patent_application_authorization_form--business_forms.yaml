@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: patent_application_authorization_form
+    pages:
+    - id: 1
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: representative_type
+      label: Representative Type
+      hint: null
+      type: select_one
+      options:
+      - Inventor
+      - Agent
+      - Law Firm
+      - University
+      - Other
+      required: true
+    - id: 5
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: authorization_note
+      label: Authorization Note
+      hint: null
+      type: note
+      options: []
+      required: false

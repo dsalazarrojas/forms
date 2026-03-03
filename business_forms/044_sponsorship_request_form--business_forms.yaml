@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsorship_type
+      label: Sponsorship Type
+      hint: null
+      type: select_one
+      options:
+      - Sponsor
+      - Donator
+      - Contributor
+      required: false

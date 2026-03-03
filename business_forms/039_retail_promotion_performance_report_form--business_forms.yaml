@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Promotion Performance Report Form
+    pages:
+    - id: 1
+      name: campaign_results
+      label: Campaign Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: promotion_name
+      label: Promotion Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: promotion_type
+      label: Promotion Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: actual_budget
+      label: Actual Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: target_budget
+      label: Target Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: results
+      label: Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: result_type
+      label: Result Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: result_value
+      label: Result Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: total_budget
+      label: Total Budget
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 15
+      name: promotion_duration
+      label: Promotion Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - More than 4 weeks
+      required: false

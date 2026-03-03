@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Advisor Referral Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 5
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - web
+      - social
+      - word_of mouth
+      required: true
+    - id: 6
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - text
+      required: true
+    - id: 7
+      name: follow_up_schedule
+      label: Follow Up Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: additional_referrals
+      label: Additional Referrals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false

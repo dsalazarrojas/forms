@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loading And Delivery Acknowledgment Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_delivered
+      label: Date Delivered
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_note
+      label: Delivery Note
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - Loading
+      - Delivery
+      - Pickup
+      - Other
+      required: false
+    - id: 7
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Transit
+      - Delivered
+      - Received
+      - On Hold
+      - On Site
+      - Cancelled
+      - Pending Pickup
+      required: false
+    - id: 8
+      name: customer_signature
+      label: Customer Signature
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false

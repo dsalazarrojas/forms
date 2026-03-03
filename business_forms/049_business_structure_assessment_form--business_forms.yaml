@@ -1,0 +1,185 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Structure Assessment Form
+    pages:
+      - id: 1
+        name: section_respondent_info
+        label: -- Respondent Information --
+        type: note
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: For tracking
+        type: text
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Your Role
+        hint: Position in organization
+        type: text
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        required: false
+      - id: 5
+        name: company_name
+        label: Company Name
+        hint: Your organization
+        type: text
+        required: true
+      - id: 6
+        name: assessment_date
+        label: Assessment Date
+        hint: Today's date
+        type: date
+        required: true
+      - id: 7
+        name: section_structure_clarity
+        label: -- Structure Clarity and Understanding --
+        type: note
+        required: false
+      - id: 8
+        name: organization_structure_clarity
+        label: Clarity of Organization Structure
+        hint: How well do you understand the structure
+        type: select_one
+        options:
+          - Very unclear
+          - Unclear
+          - Somewhat clear
+          - Clear
+          - Very clear
+        required: true
+      - id: 9
+        name: role_clarity
+        label: Clarity of Roles and Responsibilities
+        hint: Do you know who does what
+        type: select_one
+        options:
+          - Very unclear
+          - Unclear
+          - Somewhat clear
+          - Clear
+          - Very clear
+        required: true
+      - id: 10
+        name: reporting_relationships
+        label: Understanding of Reporting Relationships
+        hint: Do you know the chain of command
+        type: select_one
+        options:
+          - Very unclear
+          - Unclear
+          - Somewhat clear
+          - Clear
+          - Very clear
+        required: true
+      - id: 11
+        name: section_effectiveness
+        label: -- Structural Effectiveness --
+        type: note
+        required: false
+      - id: 12
+        name: structure_effectiveness
+        label: Effectiveness of Current Structure
+        hint: How well does the structure work
+        type: select_one
+        options:
+          - Very ineffective
+          - Ineffective
+          - Adequate
+          - Effective
+          - Very effective
+        required: true
+      - id: 13
+        name: decision_making_speed
+        label: Decision-Making Speed
+        hint: Are decisions made efficiently
+        type: select_one
+        options:
+          - Very slow
+          - Slow
+          - Reasonable
+          - Fast
+          - Very fast
+        required: true
+      - id: 14
+        name: communication_flow
+        label: Cross-Department Communication
+        hint: How well do departments communicate
+        type: select_one
+        options:
+          - Very poor
+          - Poor
+          - Adequate
+          - Good
+          - Excellent
+        required: true
+      - id: 15
+        name: section_problems
+        label: -- Structural Problems --
+        type: note
+        required: false
+      - id: 16
+        name: main_structural_issues
+        label: Main Structural Issues
+        hint: What problems exist with current structure
+        type: text
+        required: true
+      - id: 17
+        name: duplication_overlap
+        label: Duplication or Overlap Issues
+        hint: Are there overlapping responsibilities
+        type: text
+        required: false
+      - id: 18
+        name: communication_barriers
+        label: Communication Barriers
+        hint: What prevents good communication
+        type: text
+        required: false
+      - id: 19
+        name: bottlenecks
+        label: Identified Bottlenecks
+        hint: Where do things get stuck
+        type: text
+        required: false
+      - id: 20
+        name: section_improvements
+        label: -- Improvement Opportunities --
+        type: note
+        required: false
+      - id: 21
+        name: suggested_improvements
+        label: Suggested Structure Improvements
+        hint: What should be changed
+        type: text
+        required: false
+      - id: 22
+        name: priority_changes
+        label: Priority Changes
+        hint: What should be addressed first
+        type: text
+        required: false
+      - id: 23
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other observations
+        type: text
+        required: false

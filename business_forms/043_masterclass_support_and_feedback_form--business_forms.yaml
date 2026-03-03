@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Masterclass Support And Feedback Form
+    pages:
+    - id: 1
+      name: business_form
+      label: Business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachment_file
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support
+      label: Support
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''yes''}'
+      - '{''label'': False, ''value'': ''no''}'
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''via phone'', ''value'': ''phone''}'
+      - '{''label'': ''via email'', ''value'': ''email''}'
+      - '{''label'': ''via mail'', ''value'': ''mail''}'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

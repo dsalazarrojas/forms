@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: void_items_record_form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: item_details
+      label: item_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: select_one
+      options:
+      - item not found
+      - customer request
+      - store stock error
+      - item damaged
+      required: false
+    - id: 4
+      name: actions_taken
+      label: actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false

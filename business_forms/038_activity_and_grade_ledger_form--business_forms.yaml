@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity And Grade Ledger Form
+    pages:
+    - id: 1
+      name: date_recorded
+      label: Date
+      hint: Date when the activity was performed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of the FES business being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_owner
+      label: Business Owner
+      hint: Name of the person responsible for the business activities
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: activity_type
+      label: Type of Activity
+      hint: What type of business activity was performed
+      type: select_one
+      options:
+      - Lead Generation
+      - Client Outreach
+      - Follow-up Calls
+      - Content Creation
+      - Social Media Management
+      - Networking
+      - Administrative Tasks
+      - Other
+      required: true
+    - id: 5
+      name: activity_description
+      label: Activity Description
+      hint: Brief description of the specific activity performed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: time_spent
+      label: Time Spent (Hours)
+      hint: How many hours were spent on this activity
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quality_score
+      label: Quality Score
+      hint: Rate the quality of the activity performed (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: impact_score
+      label: Impact Score
+      hint: Rate the potential impact of this activity (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: completion_status
+      label: Completion Status
+      hint: How complete was the activity
+      type: select_one
+      options:
+      - Not Started
+      - Partially Completed
+      - Completed
+      - Exceeded Expectations
+      required: true
+    - id: 10
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: What challenges did you face while performing this activity
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What did you learn from this activity
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_action_plan
+      label: Next Action Plan
+      hint: What will you do differently next time
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_grade
+      label: Overall Grade
+      hint: Assign an overall grade for the day's activities (A-F)
+      type: select_one
+      options:
+      - A+
+      - A
+      - A-
+      - B+
+      - B
+      - B-
+      - C+
+      - C
+      - C-
+      - D+
+      - D
+      - F
+      required: true

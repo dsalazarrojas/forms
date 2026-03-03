@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: transaction_record_access_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Accounting''}'
+      - '{''name'': ''HR''}'
+      - '{''name'': ''Finance''}'
+      - '{''name'': ''IT''}'
+      - '{''name'': ''Sales''}'
+      - '{''name'': ''Marketing''}'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Approve''}'
+      - '{''name'': ''Reject''}'
+      - '{''name'': ''Hold''}'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

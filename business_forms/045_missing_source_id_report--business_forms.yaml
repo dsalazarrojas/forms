@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: missing_source_id_report
+    pages:
+    - id: 1
+      name: page_1
+      label: missing_source_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: source_id
+      label: source_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: source_id_type
+      label: source_id_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''type_a''}'
+      - '{''id'': 2, ''label'': ''type_b''}'
+      - '{''id'': 3, ''label'': ''type_c''}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false

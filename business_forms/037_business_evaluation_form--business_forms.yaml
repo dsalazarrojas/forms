@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_details
+      label: -- Evaluation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_period
+      label: Evaluation Period
+      hint: What period does this cover?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of person evaluating
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_title
+      label: Evaluator Title
+      hint: Position of evaluator
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: Name of employee being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_position
+      label: Employee Position
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_duration
+      label: Duration of Employment
+      hint: How long employed?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_metrics
+      label: -- Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: job_knowledge
+      label: Job Knowledge and Skills
+      hint: Rate their knowledge
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 10
+      name: quality_of_work
+      label: Quality of Work
+      hint: Rate work quality
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 11
+      name: productivity
+      label: Productivity
+      hint: Rate productivity level
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 12
+      name: communication
+      label: Communication Skills
+      hint: Rate communication
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 13
+      name: teamwork
+      label: Teamwork and Collaboration
+      hint: Rate teamwork
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 14
+      name: reliability
+      label: Reliability and Attendance
+      hint: Rate attendance
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 15
+      name: initiative
+      label: Initiative and Problem Solving
+      hint: Rate initiative
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 16
+      name: professionalism
+      label: Professionalism and Conduct
+      hint: Rate professionalism
+      type: select_one
+      options:
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 17
+      name: strengths
+      label: Employee Strengths
+      hint: What does employee do well?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: development_plan
+      label: Development Plan
+      hint: How will they improve?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: Overall rating
+      type: select_one
+      options:
+      - Unsatisfactory
+      - Needs Improvement
+      - Satisfactory
+      - Exceeds Standards
+      - Outstanding
+      required: true

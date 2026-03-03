@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_metrics_monitoring_form
+    pages:
+    - id: 1
+      name: performance_metrics
+      label: performance_metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: metric_name
+      label: metric_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: metric_value
+      label: metric_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: metric_type
+      label: metric_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''metric_type1''}'
+      - '{''value'': ''metric_type2''}'
+      - '{''value'': ''metric_type3''}'
+      required: false
+    - id: 5
+      name: metric_target
+      label: metric_target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: metric_target_value
+      label: metric_target_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: metric_frequency
+      label: metric_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      required: false
+    - id: 8
+      name: metric_unit
+      label: metric_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''unit1''}'
+      - '{''value'': ''unit2''}'
+      - '{''value'': ''unit3''}'
+      required: false
+    - id: 9
+      name: metric_note
+      label: metric_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: metric_email
+      label: metric_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: metric_phone
+      label: metric_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: performance_indicators
+      label: performance_indicators
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''indicator1''}'
+      - '{''value'': ''indicator2''}'
+      - '{''value'': ''indicator3''}'
+      required: false

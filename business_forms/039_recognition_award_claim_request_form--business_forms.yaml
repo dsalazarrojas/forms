@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: recognition_award_claim_request_form
+    pages:
+    - id: 1
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: justification
+      label: Justification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Drag-and-drop files and add notes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_email
+      label: Manager E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: manager_location
+      label: Manager Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: manager_team
+      label: Manager Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: recognition_award
+      label: Recognition Award
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: recognition_date
+      label: Recognition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: recognition_status
+      label: Recognition Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

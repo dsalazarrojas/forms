@@ -1,0 +1,127 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: risk_assessment_approval_application_form
+    pages:
+    - id: 1
+      name: risk_assessment_form
+      label: risk_assessment_form
+      hint: null
+      type: select_multiple
+      options:
+      - Mitigation Plans
+      - Risk Description
+      - Severity
+      - Risk Owner
+      - Risk Type
+      - Risk Level
+      required: false
+    - id: 2
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: risk_owner
+      label: risk_owner
+      hint: null
+      type: select_one
+      options:
+      - Owner 1
+      - Owner 2
+      - Owner 3
+      required: false
+    - id: 4
+      name: risk_type
+      label: risk_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mitigation_plans
+      label: mitigation_plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment_status
+      label: risk_assessment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 8
+      name: internal_approval
+      label: internal_approval
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_team
+      label: assigned_team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 13
+      name: assigned_note
+      label: assigned_note
+      hint: null
+      type: note
+      options: []
+      required: false

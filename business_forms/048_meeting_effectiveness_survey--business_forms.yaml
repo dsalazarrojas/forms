@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Effectiveness Survey
+    pages:
+    - id: 1
+      name: meeting_effectiveness_survey
+      label: Meeting Effectiveness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_id
+      label: meeting_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: attendee_id
+      label: attendee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: effectiveness_scale
+      label: Effectiveness Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Somewhat''}'
+      - '{''id'': 2, ''label'': ''Very''}'
+      - '{''id'': 3, ''label'': ''Not At All''}'
+      required: true
+    - id: 5
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''Annually''}'
+      required: true
+    - id: 6
+      name: effectiveness_scale_comment
+      label: Effectiveness Scale Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: will_meet_again
+      label: Will Meet Again
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 8
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

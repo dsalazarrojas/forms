@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Approval Authorization Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 9
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

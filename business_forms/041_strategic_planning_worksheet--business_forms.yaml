@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Planning Worksheet
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objective
+      label: objective
+      hint: What is the main objective of this project?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: strategy_title
+      label: Strategy Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals_list
+      label: Goals
+      hint: List all specific, measurable goals
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vision_statement
+      label: Vision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mission_statement
+      label: Mission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress_tracker
+      label: Progress Tracker
+      hint: Track progress and changes in your goals and progress over time
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: target_date
+      label: Target Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: Describe the next steps to be taken
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: resources_required
+      label: Resources Required
+      hint: List all resources required to achieve your objectives
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: obstacles
+      label: Obstacles
+      hint: List potential obstacles and challenges that might hinder your objectives
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: risk_factors
+      label: Risk Factors
+      hint: List all potential risk factors that might hinder your objectives
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Assess the risks and potential consequences of taking action
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: review_schedule
+      label: Review Schedule
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: team_members
+      label: Team Members
+      hint: List all team members involved in this planning cycle
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

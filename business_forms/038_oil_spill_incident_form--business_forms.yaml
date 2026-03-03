@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oil Spill Incident Form
+    pages:
+    - id: 1
+      name: oil_spill_incident_form_header
+      label: Oil Spill Incident Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_id
+      label: incident id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spill_quantity
+      label: spill quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: spill_type
+      label: spill type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 101, ''name'': ''oil spill'', ''text'': ''oil spill''}'
+      - '{''id'': 102, ''name'': ''chemical spill'', ''text'': ''chemical spill''}'
+      - '{''id'': 103, ''name'': ''other'', ''text'': ''other''}'
+      required: false
+    - id: 9
+      name: spill_location
+      label: spill location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spill_quantity_chemical
+      label: spill quantity chemical
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: spill_quantity_oil
+      label: spill quantity oil
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: spill_quantity_other
+      label: spill quantity other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: report_date
+      label: report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: report_time
+      label: report time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_organization
+      label: contact organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: report_source
+      label: report source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 201, ''name'': ''environmental agency'', ''text'': ''environmental
+        agency''}'
+      - '{''id'': 202, ''name'': ''oil company'', ''text'': ''oil company''}'
+      - '{''id'': 203, ''name'': ''other'', ''text'': ''other''}'
+      required: false
+    - id: 18
+      name: report_date_note
+      label: report date note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_email
+      label: submitted by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_phone
+      label: submitted by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_department
+      label: submitted by department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_position
+      label: submitted by position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_organization
+      label: submitted by organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_notes
+      label: submitted by notes
+      hint: null
+      type: text
+      options: []
+      required: false

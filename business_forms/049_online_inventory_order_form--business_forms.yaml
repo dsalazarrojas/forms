@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Inventory Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_items
+      label: Order Items
+      hint: Enter all items you wish to order
+      type: select_multiple
+      options:
+      - Item A
+      - Item B
+      - Item C
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false

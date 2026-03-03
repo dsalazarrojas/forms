@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Delivery Cost Calculator
+    pages:
+    - id: 1
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: delivery_cost
+      label: Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_weight
+      label: Order Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_distance
+      label: Delivery Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_surcharge
+      label: Fuel Surcharge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: estimated_delivery_time
+      label: Estimated Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: estimated_delivery_cost
+      label: Estimated Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

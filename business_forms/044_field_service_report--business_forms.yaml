@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Service Report
+    pages:
+    - id: 1
+      name: address
+      label: street_address
+      hint: Address of location
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: None
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer
+      label: customer_name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service
+      label: service_provided
+      hint: Select one of the following services
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: notes
+      label: additional_notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone_number
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: None
+      type: email
+      options: []
+      required: false

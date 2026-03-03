@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: dynamic_partner_leads_collection
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''CEO''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Entry Level''}'
+      - '{''value'': ''Mid-Level''}'
+      - '{''value'': ''Senior''}'
+      - '{''value'': ''C-Level''}'
+      required: false
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Part-time''}'
+      - '{''value'': ''Freelance''}'
+      - '{''value'': ''Intern''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: desired_job_type
+      label: Desired Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Operations''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': "Bachelor''s"}'
+      - '{''value'': "Master''s"}'
+      - '{''value'': ''Doctorate''}'
+      - '{''value'': ''Some college''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 21
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Google Analytics''}'
+      - '{''value'': ''HubSpot''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 22
+      name: languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Mandarin''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 23
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

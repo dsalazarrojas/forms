@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Strategy Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Email address of client
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_address
+      label: Client Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agency_name
+      label: Agency Name
+      hint: Name of agency providing services
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agency_email
+      label: Agency Email
+      hint: Email address of agency
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: agreement_type
+      label: Agreement Type
+      hint: What type of agreement is this?
+      type: select_one
+      options:
+      - Content Strategy Development
+      - Content Marketing Services
+      - Content Creation Services
+      - Full-Service Content Management
+      - Consulting Services
+      required: true
+    - id: 9
+      name: project_scope
+      label: Project Scope
+      hint: Describe the scope of work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: deliverables
+      label: Deliverables
+      hint: What will be delivered?
+      type: select_multiple
+      options:
+      - Content Strategy Document
+      - Content Calendar
+      - Blog Posts
+      - Social Media Content
+      - Video Content
+      - Email Campaigns
+      - SEO Optimization
+      - Analytics Reports
+      - Brand Guidelines
+      required: true
+    - id: 11
+      name: content_types
+      label: Content Types
+      hint: What types of content will be created?
+      type: select_multiple
+      options:
+      - Blog Articles
+      - Social Media Posts
+      - Videos
+      - Infographics
+      - White Papers
+      - Case Studies
+      - E-books
+      - Podcasts
+      - Email Newsletters
+      required: true
+    - id: 12
+      name: target_platforms
+      label: Target Platforms
+      hint: Where will content be published?
+      type: select_multiple
+      options:
+      - Company Website
+      - Company Blog
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
+      - YouTube
+      - TikTok
+      - Email
+      required: true
+    - id: 13
+      name: content_frequency
+      label: Content Frequency
+      hint: How often will content be published?
+      type: select_one
+      options:
+      - Daily
+      - 3 times per week
+      - Twice weekly
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 14
+      name: agreement_duration
+      label: Agreement Duration
+      hint: How long is this agreement?
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - 18 Months
+      - 24 Months
+      - Ongoing
+      required: true
+    - id: 15
+      name: start_date
+      label: Start Date
+      hint: When does work begin?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: End Date
+      hint: When does agreement end?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: monthly_fee
+      label: Monthly Fee
+      hint: Monthly retainer amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_contract_value
+      label: Total Contract Value
+      hint: Total value of agreement
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payments be made?
+      type: select_one
+      options:
+      - Monthly in Advance
+      - Monthly in Arrears
+      - Quarterly
+      - 50% Upfront, 50% on Completion
+      - Milestone-Based
+      required: true
+    - id: 20
+      name: additional_costs
+      label: Additional Costs
+      hint: Are there any additional costs?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: revision_policy
+      label: Revision Policy
+      hint: How many revisions are included?
+      type: select_one
+      options:
+      - 1 Round of Revisions
+      - 2 Rounds of Revisions
+      - 3 Rounds of Revisions
+      - Unlimited Revisions
+      - Revisions at Additional Cost
+      required: true
+    - id: 22
+      name: approval_process
+      label: Approval Process
+      hint: How will content be approved?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: ownership_rights
+      label: Ownership Rights
+      hint: Who owns the content?
+      type: select_one
+      options:
+      - Client Owns All Content
+      - Agency Retains Some Rights
+      - Shared Ownership
+      - Work for Hire
+      required: true
+    - id: 24
+      name: confidentiality
+      label: Confidentiality
+      hint: Confidentiality agreement
+      type: select_one
+      options:
+      - Yes, Strict Confidentiality
+      - Yes, Standard Confidentiality
+      - false
+      required: true
+    - id: 25
+      name: termination_clause
+      label: Termination Clause
+      hint: Conditions for termination
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date of client signature
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: agency_signature_date
+      label: Agency Signature Date
+      hint: Date of agency signature
+      type: date
+      options: []
+      required: true

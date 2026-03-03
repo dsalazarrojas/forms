@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_development_skills_assessment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: project-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: project-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_size
+      label: team-size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_location
+      label: team-location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New York''}'
+      - '{''id'': 2, ''label'': ''Los Angeles''}'
+      - '{''id'': 3, ''label'': ''Chicago''}'
+      required: true
+    - id: 9
+      name: skill_1
+      label: skills-1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      - '{''id'': 4, ''label'': ''Project Management''}'
+      - '{''id'': 5, ''label'': ''Product Design''}'
+      required: true
+    - id: 10
+      name: skill_2
+      label: skills-2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: true
+    - id: 11
+      name: skill_3
+      label: skills-3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: false
+    - id: 12
+      name: skill_4
+      label: skills-4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: false
+    - id: 13
+      name: time_spent
+      label: time-spent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: skill_5
+      label: skills-5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: true
+    - id: 15
+      name: skill_6
+      label: skills-6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: false
+    - id: 16
+      name: product_type
+      label: product-type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Software Product''}'
+      - '{''id'': 2, ''label'': ''Hardware Product''}'
+      - '{''id'': 3, ''label'': ''Service Product''}'
+      required: false
+    - id: 17
+      name: product_description
+      label: product-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_lead
+      label: team-lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 19
+      name: project_lead
+      label: project-lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 20
+      name: skill_7
+      label: skills-7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: false
+    - id: 21
+      name: skill_8
+      label: skills-8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: false
+    - id: 22
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: skill_9
+      label: skills-9
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Management''}'
+      - '{''id'': 2, ''label'': ''Product Design''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: false
+    - id: 24
+      name: project_status
+      label: project-status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''On Hold''}'
+      - '{''id'': 3, ''label'': ''Done''}'
+      required: false
+    - id: 25
+      name: project_lead_email
+      label: project-lead-email
+      hint: null
+      type: email
+      options: []
+      required: false

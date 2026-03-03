@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Limit Settings
+    pages:
+    - id: 1
+      name: administrator_name
+      label: Administrator Name
+      hint: Full name of person setting limits
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: administrator_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department or Cost Center
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fiscal_year
+      label: Fiscal Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: overall_budget_limit
+      label: Overall Budget Limit
+      hint: Total spending cap for period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: budget_period
+      label: Budget Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Custom Period
+      required: true
+    - id: 7
+      name: budget_category
+      label: Budget Category
+      hint: Personnel, operations, travel, etc
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: category_limit
+      label: Category Spending Limit
+      hint: Cap for this specific category
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: per_transaction_limit
+      label: Per-Transaction Limit
+      hint: Maximum single purchase amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: daily_limit
+      label: Daily Spending Limit
+      hint: Maximum per day
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: responsible_party
+      label: Responsible Party
+      hint: Who manages this budget
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_approver
+      label: Authorized Approver for Exceptions
+      hint: Who approves over-limit spending
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: escalation_threshold
+      label: Escalation Threshold
+      hint: Amount requiring additional approval
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: override_approval_process
+      label: Override Approval Process
+      hint: How are limits exceeded
+      type: select_one
+      options:
+      - Department Head Approval Required
+      - Finance Director Approval Required
+      - Executive Sign-Off Required
+      - Not Permitted
+      required: true
+    - id: 15
+      name: alert_notifications
+      label: Alert Notifications
+      hint: Send alerts when threshold reached
+      type: select_one
+      options:
+      - At 50 percent
+      - At 75 percent
+      - At 90 percent
+      - At 100 percent
+      required: true
+    - id: 16
+      name: alert_recipients
+      label: Alert Recipients
+      hint: Who receives notifications
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: rollover_policy
+      label: Unused Budget Rollover
+      hint: What happens to unused funds
+      type: select_one
+      options:
+      - Rolls over to next period
+      - Reverts to general fund
+      - Forfeited
+      - Other
+      required: true
+    - id: 18
+      name: review_date
+      label: Budget Limit Review Date
+      hint: When should limits be reviewed
+      type: date
+      options: []
+      required: true

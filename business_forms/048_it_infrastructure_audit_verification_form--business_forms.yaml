@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_infrastructure_audit_verification_form
+    pages:
+    - id: 1
+      name: it_infrastructure_audit_verification_form
+      label: it_infrastructure_audit_verification_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: it_infrastructure_status
+      label: it_infrastructure_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: compliance_requirements
+      label: compliance_requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: infrastructure_components
+      label: infrastructure_components
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''server''}'
+      - '{''value'': ''network''}'
+      - '{''value'': ''database''}'
+      - '{''value'': ''storage''}'
+      - '{''value'': ''security''}'
+      required: false
+    - id: 6
+      name: server_status
+      label: server_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''running''}'
+      - '{''value'': ''not_running''}'
+      - '{''value'': ''not_installed''}'
+      required: false
+    - id: 7
+      name: network_status
+      label: network_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''connected''}'
+      - '{''value'': ''not_connected''}'
+      - '{''value'': ''not_installed''}'
+      required: false
+    - id: 8
+      name: database_status
+      label: database_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''online''}'
+      - '{''value'': ''offline''}'
+      - '{''value'': ''not_configured''}'
+      required: false
+    - id: 9
+      name: storage_status
+      label: storage_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''sufficient''}'
+      - '{''value'': ''insufficient''}'
+      - '{''value'': ''not_configured''}'
+      required: false
+    - id: 10
+      name: security_status
+      label: security_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''secure''}'
+      - '{''value'': ''not_secure''}'
+      - '{''value'': ''not_configured''}'
+      required: false

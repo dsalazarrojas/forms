@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Counseling Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resolution_plan
+      label: Resolution Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_note
+      label: Employee Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: performance_issues
+      label: Performance Issues
+      hint: null
+      type: select_one
+      options:
+      - Poor attendance
+      - Lack of motivation
+      - Poor communication skills
+      - Other
+      required: true
+    - id: 14
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - In Progress
+      - Not Applicable
+      required: true
+    - id: 15
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - Not Applicable
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Brokerage Agreement Form
+    pages:
+    - id: 1
+      name: broker_name
+      label: Broker name
+      hint: Brokerage firm or individual
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Buyer or seller represented
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: aircraft_description
+      label: Aircraft description
+      hint: Make, model, year, and registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: listing_price
+      label: Listing price
+      hint: Proposed sale price or valuation
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: commission_terms
+      label: Commission terms
+      hint: Agreed commission percentage or fee
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exclusivity_period
+      label: Exclusivity period
+      hint: Timeframe for exclusive brokerage
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_obligations
+      label: Client obligations
+      hint: Client responsibilities under agreement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dispute_resolution
+      label: Dispute resolution method
+      hint: Agreed method for resolving disputes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signatures
+      label: Signatures and date
+      hint: Broker and client acknowledgement
+      type: note
+      options: []
+      required: true

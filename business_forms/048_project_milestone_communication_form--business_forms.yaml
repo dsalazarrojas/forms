@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Milestone Communication Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: update_status
+      label: Update Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - On Hold
+      - Not Started
+      required: false
+    - id: 5
+      name: update_notes
+      label: Update Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Team Member 1
+      - Team Member 2
+      - Team Member 3
+      required: false
+    - id: 7
+      name: update_priority
+      label: Update Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Archived
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      required: false
+    - id: 13
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      required: false
+    - id: 14
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - Customer 1
+      - Customer 2
+      required: false
+    - id: 15
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: files
+      label: Files
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Attachment 1
+      - Attachment 2
+      required: false
+    - id: 20
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 25
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: true

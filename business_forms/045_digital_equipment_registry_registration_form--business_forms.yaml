@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Equipment Registry Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Apple iPhone 13''}'
+      - '{''label'': ''Samsung Galaxy 22''}'
+      - '{''label'': ''Dell Laptop''}'
+      required: false
+    - id: 3
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false

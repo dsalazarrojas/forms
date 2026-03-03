@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Service Requisition Form
+    pages:
+    - id: 1
+      name: business_form_1
+      label: Business Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: service_type_options
+      label: Service Type Options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''LTL'', ''value'': ''1''}'
+      - '{''label'': ''TL'', ''value'': ''2''}'
+      required: false
+    - id: 7
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipment_details_ltl
+      label: LTL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_details_tl
+      label: TL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipment_details_tl_options
+      label: Shipment Details Tl Options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1'', ''value'': ''1''}'
+      - '{''label'': ''2'', ''value'': ''2''}'
+      required: false
+    - id: 11
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipment_length
+      label: Shipment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shipment_width
+      label: Shipment Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipment_height
+      label: Shipment Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: shipment_volume
+      label: Shipment Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shipment_count
+      label: Shipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shipment_service_type
+      label: Shipment Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: shipment_service_type_options
+      label: Shipment Service Type Options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Ground'', ''value'': ''1''}'
+      - '{''label'': ''Air'', ''value'': ''2''}'
+      - '{''label'': ''Express'', ''value'': ''3''}'
+      required: false
+    - id: 19
+      name: ship_to_address
+      label: Ship To Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ship_to_address_1
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ship_to_address_2
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ship_to_address_3
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ship_from_address
+      label: Ship From Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ship_from_address_1
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ship_from_address_2
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false

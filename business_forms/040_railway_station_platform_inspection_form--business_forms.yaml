@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railway Station Platform Inspection Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section1
+      label: Section 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: platform_condition
+      label: Platform Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: safety_inspection
+      label: Safety Inspection
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pass with comments
+      required: true
+    - id: 5
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

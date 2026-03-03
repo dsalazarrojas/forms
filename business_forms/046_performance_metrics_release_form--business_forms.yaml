@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_metrics_release_form
+    pages:
+    - id: 1
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_period
+      label: Review Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_status_update
+      label: Project Status Update
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

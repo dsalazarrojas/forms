@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Group Membership Application Form
+    pages:
+    - id: 1
+      name: applicant_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of main applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Title/Position
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: What type of business?
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit
+      - Cooperative
+      required: true
+    - id: 9
+      name: years_established
+      label: Years in Business
+      hint: How long has the business existed?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Primary business location
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: industry
+      label: Industry Classification
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 15
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: false
+    - id: 16
+      name: membership_section
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: membership_type
+      label: Membership Type
+      hint: What level of membership?
+      type: select_one
+      options:
+      - Regular Member
+      - Premium Member
+      - Corporate Member
+      - Sustaining Member
+      required: true
+    - id: 18
+      name: membership_goals
+      label: Membership Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: previous_member
+      label: Previously a member?
+      hint: Have you been a member before?
+      type: select_one
+      options:
+      - No, first time
+      - Yes, in the past
+      - Returning member
+      required: true
+    - id: 20
+      name: referral_source
+      label: How did you hear about us?
+      hint: Who or what referred you?
+      type: select_one
+      options:
+      - Word of mouth
+      - Website
+      - Social media
+      - Event or conference
+      - Member referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: involvement_section
+      label: -- Involvement and Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: committee_interest
+      label: Committee or working group interest
+      hint: Are you interested in participating?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_interest
+      label: Volunteer participation interest
+      hint: Would you volunteer?
+      type: select_one
+      options:
+      - 'No'
+      - Maybe
+      - 'Yes'
+      required: false
+    - id: 24
+      name: payment_section
+      label: -- Membership Dues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay dues?
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Monthly Billing
+      required: true

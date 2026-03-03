@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milk Distribution Tracker
+    pages:
+    - id: 1
+      name: milk_distribution_tracker_form
+      label: milk_distribution_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: milk_delivered
+      label: milk_delivered_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: milk_date_delivered
+      label: milk_date_delivered_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: milk_date_received
+      label: milk_date_received_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: milk_location
+      label: milk_location_label
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Cheese
+      - Butter
+      required: false
+    - id: 6
+      name: milk_location_details
+      label: milk_location_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: milk_temperature
+      label: milk_temperature_label
+      hint: Temperature in degrees C
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: milk_quantity
+      label: milk_quantity_label
+      hint: Quantity delivered (liters)
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: milk_delivery_details
+      label: milk_delivery_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to_label
+      hint: null
+      type: select_multiple
+      options:
+      - Logistics Team
+      - Dairy Farm
+      - NGO
+      required: false
+    - id: 11
+      name: assigned_at
+      label: assigned_at_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: milk_price
+      label: milk_price_label
+      hint: Price per liter
+      type: number
+      options: []
+      required: false

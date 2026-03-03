@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Stakeholder
+      - Key personnel
+      - Other
+      required: true
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - IT
+      - Other
+      required: false
+    - id: 10
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: stakeholder_details
+      label: Stakeholder details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: other_details
+      label: Other details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      - Other
+      required: false
+    - id: 15
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Conference
+      - Seminar
+      - Workshop
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_attendees
+      label: Event attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Stakeholder
+      - Key personnel
+      - Other
+      required: false
+    - id: 23
+      name: event_organizer
+      label: Event organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stakeholder_type
+      label: Stakeholder type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      - Group
+      required: false
+    - id: 25
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Admin
+      - User
+      required: false

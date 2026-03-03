@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: meeting_room_reservation_form
+    pages:
+    - id: 1
+      name: name
+      label: meeting_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: id_number
+      label: meeting_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: room
+      label: select_room
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: topic
+      label: meeting_topic
+      hint: null
+      type: text
+      options: []
+      required: false

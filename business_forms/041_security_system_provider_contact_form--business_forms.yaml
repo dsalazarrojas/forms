@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_system_provider_contact_form
+    pages:
+    - id: 1
+      name: security_system_provider_contact_form_1
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Security System Provider Inquiries
+      - Quotes
+      - Support
+      required: true
+    - id: 6
+      name: service_details
+      label: service_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true

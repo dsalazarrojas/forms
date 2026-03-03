@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maritime Accident Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: A detailed description of the incident, including any injuries or damages
+        sustained.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_cause
+      label: Incident Cause
+      hint: The cause of the incident, if known.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parties_involved
+      label: Parties Involved
+      hint: A list of parties involved in the incident, including their roles and
+        affiliations.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: damages_description
+      label: Damages Description
+      hint: A detailed description of the damages sustained.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false

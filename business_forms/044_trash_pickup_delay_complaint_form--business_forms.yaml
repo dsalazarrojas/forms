@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trash Pickup Delay Complaint Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: trash_type
+      label: Type Of Trash Affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: delay_date
+      label: Delay Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delay_time
+      label: Delay Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

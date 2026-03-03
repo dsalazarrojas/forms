@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Performance Report Form
+    pages:
+    - id: 1
+      name: investment_performance_report_form
+      label: Investment Performance Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investment_period
+      label: Investment Period
+      hint: null
+      type: select_one
+      options:
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: false
+    - id: 4
+      name: performance_metric
+      label: Performance Metric
+      hint: null
+      type: select_multiple
+      options:
+      - Return on Investment (ROI)
+      - Return on Equity (ROE)
+      - Return on Sales (ROS)
+      required: false
+    - id: 5
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - Stocks
+      - Bonds
+      - Mutual Funds
+      - Real Estate
+      required: false
+    - id: 6
+      name: investment_status
+      label: Investment Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 7
+      name: investment_date
+      label: Investment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: investment_value
+      label: Investment Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

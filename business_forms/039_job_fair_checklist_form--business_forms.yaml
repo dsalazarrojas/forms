@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Fair Checklist Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_role
+      label: job-role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: job-type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: event_description
+      label: event-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_description
+      label: job-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_responsibilities
+      label: job-responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_link
+      label: company-link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_link
+      label: job-link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_notes
+      label: event-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: job_notes
+      label: job-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: job_status
+      label: job-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Rejected
+      required: true
+    - id: 19
+      name: job_requirements
+      label: job-requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_requirements_list
+      label: job-requirements-list
+      hint: null
+      type: select_multiple
+      options:
+      - Requirement 1
+      - Requirement 2
+      - Requirement 3
+      required: false
+    - id: 21
+      name: event_status
+      label: event-status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 22
+      name: event_notes
+      label: event-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: job_notes
+      label: job-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: company_notes
+      label: company-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: true

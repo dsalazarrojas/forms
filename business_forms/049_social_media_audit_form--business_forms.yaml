@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_audit_form
+    pages:
+    - id: 1
+      name: page_1
+      label: page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engagement_metrics
+      label: engagement_metrics_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''likes''}'
+      - '{''value'': ''shares''}'
+      - '{''value'': ''comments''}'
+      required: false
+    - id: 3
+      name: audience_demographics
+      label: audience_demographics_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''unknown''}'
+      required: false
+    - id: 4
+      name: email_address
+      label: email_address_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: time_zone_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes_label
+      hint: null
+      type: note
+      options: []
+      required: false

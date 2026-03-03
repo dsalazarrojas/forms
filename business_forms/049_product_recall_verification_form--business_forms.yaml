@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Recall Verification Form
+    pages:
+    - id: 1
+      name: product_recall_info
+      label: Product Recall Information
+      hint: Provide details about the recalled product
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer's email address
+      type: email
+      options: []
+      required: false

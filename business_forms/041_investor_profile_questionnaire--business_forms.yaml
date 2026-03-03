@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Profile Questionnaire
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: risk_tolerance
+      label: Risk tolerance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: investment_preferences
+      label: Investment preferences
+      hint: Please select your preferred investment options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: financial_goals
+      label: Financial goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: financial_institution
+      label: Financial institution
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: investment_profile
+      label: Investment profile
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: contact_frequency
+      label: Contact frequency
+      hint: How often would you like to be contacted?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: communication_channels
+      label: Communication channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_level
+      label: Risk level
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: investment_institution
+      label: Investment institution
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

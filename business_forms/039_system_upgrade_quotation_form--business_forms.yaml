@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Upgrade Quotation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: system_upgrade_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_details
+      label: system_upgrades
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_info
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upgrade_date
+      label: upgrade_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: total_hours
+      label: total_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: labor_costs
+      label: labor_costs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment_costs
+      label: equipment_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: material_costs
+      label: material_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_costs
+      label: other_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_company
+      label: customer_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_position
+      label: customer_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_job_title
+      label: customer_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: drawing_slips_for_presentation
+    pages:
+    - id: 1
+      name: drawing_slips_for_presentation
+      label: drawing_slips_for_presentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description_1
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

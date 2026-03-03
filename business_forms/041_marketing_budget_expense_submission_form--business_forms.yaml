@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketing_budget_expense_submission_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Advertising
+      - Social Media
+      - Other
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Travel
+      - Entertainment
+      - Training
+      - Other
+      - Miscellaneous
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false

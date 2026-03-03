@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Equipment Restock Request Form
+    pages:
+    - id: 1
+      name: team_equipment_restock_request_form
+      label: Team Equipment Restock Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Equipment 1'', ''value'': ''1''}'
+      - '{''label'': ''Equipment 2'', ''value'': ''2''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_requested
+      label: Time Requested
+      hint: null
+      type: time
+      options: []
+      required: false

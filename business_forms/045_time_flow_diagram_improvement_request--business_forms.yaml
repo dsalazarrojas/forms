@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Flow Diagram Improvement Request
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: process_id
+      label: process_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_request
+      label: improvement_request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: improvement_priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: impact
+      label: impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_reason
+      label: why_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: change_request
+      label: change_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expected_date
+      label: expected_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

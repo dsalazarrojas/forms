@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: private_investigator_interview_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Other
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investigator_info
+      label: Investigator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Background Check
+      - Surveillance
+      - Witness Interview
+      - Other
+      required: false
+    - id: 7
+      name: case_info
+      label: Case Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: Current status of the case (e.g. 'Active', 'Closed', 'Suspended')
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: investigator_name
+      label: Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: investigation_start_date
+      label: Investigation Start Date
+      hint: Date the investigation started
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: investigation_end_date
+      label: Investigation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: total_hours_worked
+      label: Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      - Pending
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Other
+      required: false
+    - id: 17
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: investigator_signature
+      label: Investigator Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_status_notes
+      label: Case Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: services_additional
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: services_additional_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: services_additional_cost
+      label: Additional Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: services_additional_notes
+      label: Additional Services Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: Final review status (e.g. 'Approved', 'Rejected', 'Needs Revision')
+      type: text
+      options: []
+      required: false

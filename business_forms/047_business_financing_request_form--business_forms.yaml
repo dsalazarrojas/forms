@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Financing Request Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_last_four
+      label: SSN (Last 4 Digits)
+      hint: For identification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: Type of structure
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Startup
+      required: true
+    - id: 10
+      name: business_stage
+      label: Business Stage
+      hint: Where are you?
+      type: select_one
+      options:
+      - Planning
+      - Pre-Launch
+      - Startup (Less than 1 year)
+      - Early Stage (1-3 years)
+      - Growth Stage (3+ years)
+      required: true
+    - id: 11
+      name: industry
+      label: Industry
+      hint: Your industry
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: financing_request
+      label: -- Financing Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: amount_requested
+      label: Amount of Financing Requested
+      hint: Total amount needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: financing_type
+      label: Type of Financing Requested
+      hint: What kind?
+      type: select_one
+      options:
+      - Debt Financing
+      - Equity Financing
+      - Grant
+      - Loan
+      - Credit Line
+      - Other
+      required: true
+    - id: 16
+      name: use_of_funds
+      label: Use of Funds
+      hint: How will you use the money?
+      type: select_multiple
+      options:
+      - Startup Costs
+      - Equipment Purchase
+      - Marketing
+      - Working Capital
+      - Inventory
+      - Expansion
+      - Debt Repayment
+      - Operations
+      required: true
+    - id: 17
+      name: use_description
+      label: Detailed Use of Funds Description
+      hint: Explain how you will use funds
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: repayment_timeline
+      label: Proposed Repayment Timeline
+      hint: In how many months?
+      type: select_one
+      options:
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - 36 Months
+      - 5 Years
+      - Not Applicable
+      required: true
+    - id: 19
+      name: financial_projections
+      label: -- Financial Projections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: projected_revenue
+      label: Year 1 Projected Revenue
+      hint: Expected revenue
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: current_capital
+      label: Current Personal Capital
+      hint: Amount you will invest
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: credit_score
+      label: Estimated Credit Score
+      hint: Approximate score
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (below 650)
+      - Unsure
+      required: false

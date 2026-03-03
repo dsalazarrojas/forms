@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liquidation Information Collection
+    pages:
+    - id: 1
+      name: liquidation_date
+      label: Liquidation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_liquidation
+      label: reason_for_liquidation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: documents
+      label: Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_1
+      label: Document 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_2
+      label: Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount_liquidated
+      label: Amount Liquidated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: amount_liquidated_reasons
+      label: Amount Liquidated Reasons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: asset_liquidated
+      label: Asset Liquidated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: asset_location
+      label: Asset Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: asset_value_reasons
+      label: Asset Value Reasons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: asset_use
+      label: Asset Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: asset_use_reasons
+      label: Asset Use Reasons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: asset_status_reasons
+      label: Asset Status Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_status_description
+      label: Asset Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_status_code
+      label: Asset Status Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: asset_status_notes
+      label: Asset Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: asset_class
+      label: Asset Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: asset_class_reasons
+      label: Asset Class Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: asset_use_location
+      label: Asset Use Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_value_use
+      label: Asset Value Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: asset_value_use_reasons
+      label: Asset Value Use Reasons
+      hint: null
+      type: text
+      options: []
+      required: false

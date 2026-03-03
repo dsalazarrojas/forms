@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: spa_operations_licensing_form
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_info
+      label: Location Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: license_info
+      label: License Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: license_type
+      label: License Type
+      hint: Select a License Type
+      type: select_one
+      options:
+      - General Business License
+      - Special Business License
+      - Other
+      required: false
+    - id: 6
+      name: license_number
+      label: License Number
+      hint: Enter a valid License Number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: license_date
+      label: License Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: business_hours
+      label: Business Hours
+      hint: Enter a 24-hour clock format
+      type: select_multiple
+      options:
+      - 06:00
+      - 07:00
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      required: false
+    - id: 9
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_email
+      label: Owner Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: business_email
+      label: Business Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: business_address
+      label: Business Address
+      hint: Enter a full address, including street, city, state, and zip.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_location
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_location_description
+      label: Business Location Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_services
+      label: Services Offered
+      hint: Select all applicable services
+      type: select_multiple
+      options:
+      - Massage Therapy
+      - Skincare
+      - Haircutting
+      - Other
+      required: false
+    - id: 17
+      name: business_name
+      label: Business Name
+      hint: Enter your Business Name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_type
+      label: Business Type
+      hint: Select a Business Type
+      type: select_one
+      options:
+      - Service-Based
+      - Product-Based
+      - Mixed
+      required: false
+    - id: 19
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: spa_services
+      label: Spa Services
+      hint: Select all applicable spa services
+      type: select_multiple
+      options:
+      - Massage
+      - Skincare
+      - Haircutting
+      - Other
+      required: false
+    - id: 21
+      name: owner_name
+      label: Owner Name
+      hint: Enter your Name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_address
+      label: Owner Address
+      hint: Enter a full address, including street, city, state, and zip.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: owner_email
+      label: Owner Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Digital Signature
+      hint: null
+      type: note
+      options: []
+      required: false

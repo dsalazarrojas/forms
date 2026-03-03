@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Upward Feedback Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback_to
+      label: Feedback To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Manager''}'
+      - '{''label'': ''Director''}'
+      - '{''label'': ''Department Head''}'
+      required: true
+    - id: 4
+      name: feedback_description
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_suggestion
+      label: Feedback Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false

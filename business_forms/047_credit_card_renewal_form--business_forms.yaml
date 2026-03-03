@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_renewal_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exp_month
+      label: Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exp_year
+      label: Expiration Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cvv
+      label: CVV (Card Verification Value)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cvc
+      label: CVV (Card Verification Code)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_country
+      label: Billing Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_address_1
+      label: Billing Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_address_2
+      label: Billing Address 2
+      hint: null
+      type: text
+      options: []
+      required: false

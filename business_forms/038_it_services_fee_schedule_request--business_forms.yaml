@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_services_fee_schedule_request
+    pages:
+    - id: 1
+      name: provider_services
+      label: Select Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pricing_info
+      label: Pricing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: schedule_service
+      label: Schedule Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_options
+      label: Service Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_days
+      label: Service Days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: billing_amount
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: service_priority
+      label: Service Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

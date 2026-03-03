@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_testing_unit_order_form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_code
+      label: product_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: unit_price_currency
+      label: unit_price_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      required: false
+    - id: 10
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: test_unit_status
+      label: test_unit_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - shipped
+      - delivered
+      - returned
+      required: false
+    - id: 12
+      name: shipping_status
+      label: shipping_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - shipped
+      - delivered
+      - returned
+      required: false
+    - id: 13
+      name: test_unit_request_id
+      label: test_unit_request_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - completed
+      - cancelled
+      required: false

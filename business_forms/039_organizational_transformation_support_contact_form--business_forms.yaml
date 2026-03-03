@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Transformation Support Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transformation_type
+      label: What kind of transformation are you looking for?
+      hint: Please specify the kind of transformation you need help with
+      type: select_multiple
+      options:
+      - Business Model
+      - Digital Transformation
+      - Organizational Design
+      - Operational
+      - Other
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - IT Forms
+      - Operational Forms
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenny
+      - other
+      required: false
+    - id: 9
+      name: transformation_status
+      label: Transformation Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Cancelled
+      - On Hold
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

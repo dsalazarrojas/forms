@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_privacy_compliance_assessment_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: data_types
+      label: data_types
+      hint: null
+      type: select_one
+      options:
+      - Data types
+      - Sensitive data
+      - Personal data
+      - Special Category data
+      - Special Category data
+      required: true
+    - id: 4
+      name: data_subjects
+      label: data_subjects
+      hint: null
+      type: select_multiple
+      options:
+      - Data subjects
+      - Special Category subjects
+      - Sensitive data subjects
+      - Personal data subjects
+      required: true
+    - id: 5
+      name: data_handling
+      label: data_handling
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: data_protection
+      label: data_protection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: output
+      label: output
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true

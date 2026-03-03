@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Work Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_description
+      label: work_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      - Partnership
+      required: false
+    - id: 4
+      name: services_provided
+      label: Services Provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One Time
+      - On-going
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cheque
+      - Cash
+      required: false
+    - id: 9
+      name: agreement_duration
+      label: Agreement Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 13
+      name: third_party
+      label: Third Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

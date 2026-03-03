@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Option Agreement Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_role
+      label: participant_role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_acceptance
+      label: participant_acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: participant_sign
+      label: participant_sign
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: number
+      options: []
+      required: false

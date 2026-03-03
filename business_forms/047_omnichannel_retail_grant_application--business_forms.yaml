@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Omnichannel Retail Grant Application
+    pages:
+    - id: 1
+      name: retailer_project_proposals
+      label: Retailer Project Proposals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: retailer_contact_info
+      label: Retailer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_requests
+      label: Funding Requests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: This form is for collecting grant data for a specific project. By submitting
+        this form, you are granting permission for the grantor to collect your data
+        for the purpose of the project.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

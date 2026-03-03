@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phase Agreement Confirmation
+    pages:
+    - id: 1
+      name: project_phase_details
+      label: project_phase_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_informations
+      label: participant_informations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: electronic_signatures
+      label: electronic_signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_phase_status
+      label: project_phase_status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_note
+      label: participant_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Requisition History Overview
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: requisition_id
+      label: Requisition ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requisition_status
+      label: Requisition Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: requisition_type
+      label: Requisition Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: department_id
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: requisition_history_notes
+      label: Requisition History Notes
+      hint: null
+      type: text
+      options: []
+      required: false

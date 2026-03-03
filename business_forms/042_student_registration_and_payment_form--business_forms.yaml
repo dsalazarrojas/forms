@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Registration And Payment Form
+    pages:
+    - id: 1
+      name: student_registration
+      label: student_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_details
+      label: parent_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: admission_message
+      label: admission_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: form_submission_id
+      label: form_submission_id
+      hint: null
+      type: number
+      options: []
+      required: false

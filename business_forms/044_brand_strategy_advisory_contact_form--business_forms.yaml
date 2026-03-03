@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Strategy Advisory Contact Form
+    pages:
+    - id: 1
+      name: basic_info_header
+      label: -- Basic Contact Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name_val
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: brand_inq_header
+      label: -- Brand Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: brand_status_desc
+      label: Briefly describe your current brand situation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: challenges_select
+      label: What are your primary brand challenges?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of Differentiation
+      - Inconsistent Messaging
+      - Outdated Visuals
+      - Low Awareness
+      - Negative Perception
+      required: true
+    - id: 9
+      name: goal_list
+      label: What are your top 3 goals for a brand strategy advisory?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: proj_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: revenue_range
+      label: Approximate Annual Revenue
+      hint: helps tailor advice
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: urgency_select
+      label: Desired Timeframe for Implementation
+      hint: null
+      type: select_one
+      options:
+      - Immediate - 1 Month
+      - 3 Months
+      - 6 Months
+      - Just Researching
+      required: true
+    - id: 13
+      name: next_steps_header
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: call_interest_select
+      label: Are you ready to book a 15-minute discovery call?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Send me the link
+      - Not yet - Please email more info
+      required: true
+    - id: 15
+      name: extra_context
+      label: Anything else we should know before we talk?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inq_dt
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true

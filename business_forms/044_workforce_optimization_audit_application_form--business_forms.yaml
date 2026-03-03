@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Optimization Audit Application Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audit_request
+      label: Audit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: key_details
+      label: Key Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: audit_dates
+      label: Audit Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monday to Friday''}'
+      - '{''id'': 2, ''label'': ''Monday to Friday 9-5''}'
+      - '{''id'': 3, ''label'': ''Flexible''}'
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: false

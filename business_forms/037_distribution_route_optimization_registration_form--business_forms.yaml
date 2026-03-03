@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Route Optimization Registration Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: route_starting_point
+      label: Route Starting Point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: route_destination
+      label: Route Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: route_distance
+      label: Route Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: route_duration
+      label: Route Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: route_vehicle_type
+      label: Route Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Truck
+      - Van
+      - Car
+      - Motorcycle
+      required: false
+    - id: 11
+      name: route_notes
+      label: Route Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

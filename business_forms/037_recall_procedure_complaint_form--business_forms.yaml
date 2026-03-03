@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: recall-procedure-complaint-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: select_one
+      options:
+      - No longer needed
+      - Incorrect product received
+      - Damaged or defective
+      - Defective product
+      required: false
+    - id: 7
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: method_of_return
+      label: Method of Return
+      hint: null
+      type: select_one
+      options:
+      - In-store return
+      - Online return
+      - Refund only
+      required: false
+    - id: 9
+      name: customer_photos
+      label: Customer Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In progress
+      - Closed
+      required: false
+    - id: 12
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      required: false
+    - id: 13
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: return_receipt_date
+      label: Return Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: shipping_tracking_number
+      label: Shipping Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_sku
+      label: Product SKU
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: return_reason_detail
+      label: Reason for Return
+      hint: null
+      type: select_multiple
+      options:
+      - No longer needed
+      - Incorrect product received
+      - Damaged or defective
+      - Defective product
+      required: false
+    - id: 20
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: Order Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: return_method
+      label: Return Method
+      hint: null
+      type: select_one
+      options:
+      - In-store return
+      - Online return
+      - Refund only
+      required: false
+    - id: 24
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: itw inventory form
+    pages:
+    - id: 1
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_quantity
+      label: item quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: item_price
+      label: item price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_category
+      label: item category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: item_subcategory
+      label: item subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: item_description
+      label: item description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_added
+      label: date added
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_modified
+      label: date modified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: item_status
+      label: item status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: item_image
+      label: item image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: item_tags
+      label: item tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

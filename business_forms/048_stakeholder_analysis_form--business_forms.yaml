@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Analysis Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stakeholder_list
+      label: Stakeholder List
+      hint: null
+      type: select_multiple
+      options:
+      - Stakeholder A
+      - Stakeholder B
+      - Stakeholder C
+      required: true
+    - id: 4
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: Enter the name of the stakeholder
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: stakeholder_role
+      label: Stakeholder Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stakeholder_organisation
+      label: Stakeholder Organisation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: stakeholder_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholder_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: stakeholder_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stakeholder_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stakeholder_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stakeholder_influence
+      label: Influence
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 13
+      name: stakeholder_interest
+      label: Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stakeholder_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true

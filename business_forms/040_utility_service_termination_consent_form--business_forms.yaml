@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Termination Consent Form
+    pages:
+    - id: 1
+      name: utility_service_termination_consent_form
+      label: utility_service_termination_consent_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: account_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: utility_service_type
+      label: utility_service_type
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Other
+      required: true
+    - id: 7
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: termination_method
+      label: termination_method
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Email
+      - In-person
+      - Phone
+      required: true
+    - id: 9
+      name: termination_effective_date
+      label: termination_effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: termination_effective_time
+      label: termination_effective_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: termination_reason
+      label: termination_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: utility_company_name
+      label: utility_company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: customer_date
+      label: customer_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: customer_time
+      label: customer_time
+      hint: null
+      type: time
+      options: []
+      required: false

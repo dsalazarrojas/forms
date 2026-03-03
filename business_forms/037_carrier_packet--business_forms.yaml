@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Packet
+    pages:
+    - id: 1
+      name: section_profile
+      label: -- Carrier Profile Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_legal_name
+      label: Company Legal Name
+      hint: as registered with the FMCSA
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mc_dot_number
+      label: MC and DOT Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact
+      label: Authorized Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_email
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone
+      label: Primary Business Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_operational
+      label: -- Operational Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_in_operation
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_equipment_units
+      label: Total Number of Units
+      hint: current active trucks
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fleet_specialty
+      label: Fleet Specialty
+      hint: select your main focus
+      type: select_one
+      options:
+      - Flatbed
+      - Dry Van
+      - Reefer
+      - Specialized
+      - Intermodal
+      required: true
+    - id: 11
+      name: states_authorized
+      label: States of Operation
+      hint: list all states where you are authorized to operate
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_compliance
+      label: -- Compliance and Documentation --
+      hint: verify each requirement
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: authority_doc_status
+      label: Operating Authority document available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 14
+      name: insurance_cert_status
+      label: Certificate of Insurance (COI) available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Request COI
+      required: true
+    - id: 15
+      name: w9_doc_status
+      label: Current W-9 available?
+      hint: must be signed within the last 12 months
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_safety
+      label: -- Safety Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: safstat_rating
+      label: Latest FMCSA Safety Rating
+      hint: select the best description
+      type: select_one
+      options:
+      - Satisfactory
+      - Conditional
+      - Unsatisfactory
+      - Unrated
+      required: true
+    - id: 18
+      name: accident_history_ack
+      label: Carrier confirms no major safety violations in the last 12 months
+      hint: including serious crashes or Hazmat violations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: section_financial
+      label: -- Financial and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: quickpay_interest
+      label: Are you interested in QuickPay (1.5 to 5 percent)?
+      hint: accelerated payment for a small fee
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: bank_account_type
+      label: Bank Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business
+      - Factor Account
+      required: true
+    - id: 22
+      name: factoring_company
+      label: Factoring Company Name (if applicable)
+      hint: leave blank if not factoring
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_final
+      label: -- Agreement and Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: packet_acknowledgment
+      label: I certify that all documents in this packet are current and accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: digital_signature
+      label: Digital Signature of Authorized Officer
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

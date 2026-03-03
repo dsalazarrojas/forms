@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_leader_feedback_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_date
+      label: feedback_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback_details
+      label: Feedback Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_given_to
+      label: Feedback Given To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: given_by
+      label: Given By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership
+      - Management
+      - Team Management
+      required: true
+    - id: 8
+      name: department_id
+      label: Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_status
+      label: Feedback Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      required: true
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

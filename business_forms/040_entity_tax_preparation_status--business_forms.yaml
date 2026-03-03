@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entity Tax Preparation Status
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 4
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: followup_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 6
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_updated_at
+      label: Last Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

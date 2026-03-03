@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Supplies Tracking Form
+    pages:
+    - id: 1
+      name: office_supplies_tracking_form
+      label: office_supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_levels
+      label: inventory_levels
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 3
+      name: usage_track
+      label: usage_track
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: wastage_reduction
+      label: wastage_reduction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: productivity_impact
+      label: productivity_impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: office_supplies_usage_tracking_note
+      label: office_supplies_usage_tracking_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manual_paperwork_reduction
+      label: manual_paperwork_reduction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: office_supplies_tracking_form_completion_date
+      label: office_supplies_tracking_form_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false

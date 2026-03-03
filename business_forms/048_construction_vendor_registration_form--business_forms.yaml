@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Vendor Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_type
+      label: Company Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_name
+      label: Primary Contact Name
+      hint: Main contact person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vendor_category
+      label: Vendor Category
+      hint: What do you supply
+      type: select_one
+      options:
+      - Building Materials
+      - Equipment Rental
+      - Tools and Hardware
+      - Electrical Supplies
+      - Plumbing Supplies
+      - HVAC Equipment
+      - Safety Equipment
+      - Concrete and Masonry
+      - Lumber and Wood
+      - Steel and Metal
+      - Roofing Materials
+      - Flooring Materials
+      - Paint and Finishes
+      - Landscaping
+      - Other
+      required: true
+    - id: 13
+      name: products_services
+      label: Products or Services Offered
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 to 15 years
+      - More than 15 years
+      required: true
+    - id: 15
+      name: tax_id
+      label: Tax ID Number
+      hint: EIN or SSN
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_license
+      label: Business License Number
+      hint: License number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: license_state
+      label: License State
+      hint: State of issuance
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: license_expiry
+      label: License Expiration
+      hint: When does it expire
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: insurance_policy_number
+      label: Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: liability_coverage
+      label: Liability Coverage Amount
+      hint: Coverage limit
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: insurance_expiry
+      label: Insurance Expiration
+      hint: When does insurance expire
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: workers_compensation
+      label: Workers Compensation
+      hint: Do you have coverage
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 24
+      name: bonding_capacity
+      label: Bonding Capacity
+      hint: Maximum bond amount
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certifications
+      label: Certifications
+      hint: List any certifications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: references
+      label: References
+      hint: List client references
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: payment_terms
+      label: Payment Terms
+      hint: Your standard terms
+      type: select_one
+      options:
+      - Net 15 Days
+      - Net 30 Days
+      - Net 45 Days
+      - Net 60 Days
+      - Due on Receipt
+      - COD
+      required: true
+    - id: 28
+      name: delivery_areas
+      label: Delivery Areas
+      hint: Where do you deliver
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: delivery_lead_time
+      label: Delivery Lead Time
+      hint: Typical delivery time
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: minority_owned
+      label: Minority-Owned Business
+      hint: Certification status
+      type: select_one
+      options:
+      - Yes, Certified
+      - false
+      required: false
+    - id: 31
+      name: woman_owned
+      label: Woman-Owned Business
+      hint: Certification status
+      type: select_one
+      options:
+      - Yes, Certified
+      - false
+      required: false
+    - id: 32
+      name: veteran_owned
+      label: Veteran-Owned Business
+      hint: Certification status
+      type: select_one
+      options:
+      - Yes, Certified
+      - false
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

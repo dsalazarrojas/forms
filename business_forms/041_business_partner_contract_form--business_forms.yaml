@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Contract Form
+    pages:
+    - id: 1
+      name: partner_manager_name
+      label: Partner Manager Name
+      hint: Full legal name of partner manager
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_manager_email
+      label: Partner Manager Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: partner_manager_phone
+      label: Partner Manager Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Legal name of company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_registration
+      label: Company Registration Number
+      hint: Registration or tax ID number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_start_date
+      label: Contract Start Date
+      hint: When does contract begin
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_end_date
+      label: Contract End Date
+      hint: When does contract end
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contract_type
+      label: Contract Type
+      hint: Type of partnership contract
+      type: select_one
+      options:
+      - Exclusive partnership
+      - Non-exclusive partnership
+      - Distribution agreement
+      - Reseller agreement
+      - Commission-based
+      - Revenue share
+      required: true
+    - id: 10
+      name: commission_rate
+      label: Commission Rate
+      hint: Percentage of commission
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: When are payments made
+      type: select_one
+      options:
+      - Net 15 days
+      - Net 30 days
+      - Net 45 days
+      - Net 60 days
+      - Upon receipt
+      - Monthly
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: How will payments be made
+      type: select_one
+      options:
+      - Bank transfer
+      - Check
+      - PayPal
+      - Wire transfer
+      - Other
+      required: true
+    - id: 13
+      name: territory
+      label: Territory Coverage
+      hint: Geographic area covered
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: performance_targets
+      label: Performance Targets
+      hint: Describe sales or performance targets
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contract_terms_description
+      label: Contract Terms Description
+      hint: Describe key terms and conditions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: exclusivity_clause
+      label: Exclusivity Clause
+      hint: Is this an exclusive arrangement
+      type: select_one
+      options:
+      - Yes - fully exclusive
+      - Yes - partially exclusive
+      - No - non-exclusive
+      required: true
+    - id: 17
+      name: termination_clause
+      label: Termination Clause
+      hint: Termination notice period
+      type: select_one
+      options:
+      - 30 days notice
+      - 60 days notice
+      - 90 days notice
+      - Immediate termination allowed
+      - As per mutual agreement
+      required: true
+    - id: 18
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to confidentiality terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 19
+      name: non_compete_agreement
+      label: Non-Compete Agreement
+      hint: Do you agree to non-compete terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 20
+      name: governing_law
+      label: Governing Law
+      hint: Which jurisdiction governs contract
+      type: select_one
+      options:
+      - State law
+      - Federal law
+      - International law
+      - As specified in agreement
+      required: true
+    - id: 21
+      name: authorized_signatory
+      label: Authorized Signatory Name
+      hint: Name of person signing
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signatory_title
+      label: Signatory Title
+      hint: Title of person signing
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_terms
+      label: Additional Terms
+      hint: Any additional terms or conditions
+      type: text
+      options: []
+      required: false

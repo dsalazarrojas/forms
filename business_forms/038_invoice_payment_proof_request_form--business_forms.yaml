@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Payment Proof Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: payment_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_2
+      label: date_of_payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: amount_paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: form_4
+      label: method_of_payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_6
+      label: proof_type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1 'Payment Confirmation'
+      - option_2 'Voided Payment'
+      - option_3 'Partial Payment'
+      required: true
+    - id: 7
+      name: form_7
+      label: uploaded_proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: proof
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_13
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: form_14
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: true

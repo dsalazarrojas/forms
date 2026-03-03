@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_equipment_inspection_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Equipment A''}'
+      - '{''id'': 2, ''label'': ''Equipment B''}'
+      - '{''id'': 3, ''label'': ''Equipment C''}'
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Business Forms''}'
+      - '{''id'': 2, ''label'': ''Other Forms''}'
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''chatjimmy2''}'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deleted_by
+      label: deleted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false

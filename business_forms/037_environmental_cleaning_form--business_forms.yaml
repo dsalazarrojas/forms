@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_cleaning_form
+    pages:
+    - id: 1
+      name: cleaning_details
+      label: Cleaning Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: clean_time
+      label: Clean Time
+      hint: Time worked in minutes
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_type
+      label: work type
+      hint: null
+      type: select_one
+      options:
+      - Cleaning Crew
+      - Janitorial Services
+      - Disposal Services
+      required: false
+    - id: 5
+      name: clean_location
+      label: clean location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false

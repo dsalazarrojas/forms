@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Profit Donation Template WorldPay US
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Frequency of Giving
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - One-time
+      required: false
+    - id: 4
+      name: donation_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Account
+      - PayPal
+      required: false
+    - id: 5
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_donation
+      label: Confirm Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Cancel
+      required: false
+    - id: 11
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Cancel
+      required: false
+    - id: 12
+      name: confirm_card
+      label: Confirm Card
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm
+      - Cancel
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: onsite_service_log_form
+    pages:
+    - id: 1
+      name: onsite_engineer
+      label: onsite_engineer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: onsite_clinic
+      label: onsite_clinic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: onsite_date
+      label: onsite_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: onsite_time
+      label: onsite_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: onsite_actions
+      label: actions_taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: onsite_note
+      label: onsite_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: onsite_email
+      label: onsite_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: onsite_phone
+      label: onsite_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: onsite_service_status
+      label: onsite_service_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

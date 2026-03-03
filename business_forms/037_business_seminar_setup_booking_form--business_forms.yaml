@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Seminar Setup Booking Form
+    pages:
+    - id: 1
+      name: section_organizer_info
+      label: -- Organizer Information --
+      type: note
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Organizer Name
+      hint: Person organizing the seminar
+      type: text
+      required: true
+    - id: 3
+      name: organizer_company
+      label: Company or Organization
+      hint: Your business affiliation
+      type: text
+      required: true
+    - id: 4
+      name: organizer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: true
+    - id: 5
+      name: organizer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      required: true
+    - id: 6
+      name: section_seminar_details
+      label: -- Seminar Details --
+      type: note
+      required: false
+    - id: 7
+      name: seminar_title
+      label: Seminar Title
+      hint: Name of the seminar event
+      type: text
+      required: true
+    - id: 8
+      name: seminar_date
+      label: Seminar Date
+      hint: When will the seminar be held
+      type: date
+      required: true
+    - id: 9
+      name: seminar_start_time
+      label: Start Time
+      hint: What time does it begin
+      type: time
+      required: true
+    - id: 10
+      name: seminar_duration
+      label: Duration in Hours
+      hint: How long is the seminar
+      type: number
+      required: true
+    - id: 11
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: How many people will attend
+      type: number
+      required: true
+    - id: 12
+      name: section_venue
+      label: -- Venue Details --
+      type: note
+      required: false
+    - id: 13
+      name: venue_name
+      label: Venue Name
+      hint: Location where seminar will be held
+      type: text
+      required: true
+    - id: 14
+      name: room_type
+      label: Room Type Needed
+      hint: Classroom, auditorium, conference room, etc.
+      type: select_one
+      options:
+      - Classroom
+      - Conference Room
+      - Auditorium
+      - Banquet Hall
+      - Theater Style
+      - Hybrid Space
+      - Other
+      required: true
+    - id: 15
+      name: room_setup_style
+      label: Room Setup Style
+      hint: How should the room be arranged
+      type: select_one
+      options:
+      - Theater Style
+      - Classroom Style
+      - U-Shape
+      - Boardroom
+      - Banquet
+      - Cocktail Reception
+      - Custom
+      required: true
+    - id: 16
+      name: section_equipment
+      label: -- Equipment and Setup --
+      type: note
+      required: false
+    - id: 17
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Select all required equipment
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Sound System
+      - Microphone
+      - Video Conference Equipment
+      - Flip Charts
+      - Tables and Chairs
+      - WiFi Access
+      - Recording Equipment
+      required: true
+    - id: 18
+      name: technology_requirements
+      label: Special Technology Requirements
+      hint: Any specific tech needs
+      type: text
+      required: false
+    - id: 19
+      name: section_catering
+      label: -- Catering and Refreshments --
+      type: note
+      required: false
+    - id: 20
+      name: catering_needed
+      label: Catering Needed
+      hint: Do you need food and beverages
+      type: select_one
+      options:
+      - No catering
+      - Coffee and light snacks
+      - Breakfast
+      - Lunch
+      - Full day catering
+      - Custom arrangement
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions to Accommodate
+      hint: Any allergies or preferences
+      type: text
+      required: false
+    - id: 22
+      name: section_additional
+      label: -- Additional Requirements --
+      type: note
+      required: false
+    - id: 23
+      name: signage_needs
+      label: Signage Requirements
+      hint: What signage do you need
+      type: text
+      required: false
+    - id: 24
+      name: parking_requirement
+      label: Parking Required
+      hint: How many parking spaces needed
+      type: number
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any other special requirements
+      type: text
+      required: false

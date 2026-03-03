@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: spec_creation
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service'', ''value'': ''service''}'
+      - '{''id'': 2, ''label'': ''Product'', ''value'': ''product''}'
+      required: true
+    - id: 3
+      name: spec_name
+      label: Spec Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: spec_description
+      label: Spec Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: spec_status
+      label: Spec Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''id'': 2, ''label'': ''Complete'', ''value'': ''complete''}'
+      - '{''id'': 3, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: true
+    - id: 6
+      name: spec_priority
+      label: Spec Priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: spec_version
+      label: Spec Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: created_at_utc
+      label: Created At (UTC)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: updated_at_utc
+      label: Updated At (UTC)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: spec_created_at
+      label: Spec Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: spec_updated_at
+      label: Spec Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: spec_status
+      label: Spec Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''id'': 2, ''label'': ''Complete'', ''value'': ''complete''}'
+      - '{''id'': 3, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: true
+    - id: 22
+      name: spec_description
+      label: Spec Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: spec_name
+      label: Spec Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true

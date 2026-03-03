@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRA Business Consent Authorization
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_registration_number
+      label: Business Registration or CRA Number
+      hint: Government identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_email
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Type of Business
+      hint: Sole proprietor, corporation, partnership etc.
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-profit
+      - Other
+      required: true
+    - id: 8
+      name: primary_contact_name
+      label: Primary Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_title
+      label: Contact Person Title
+      hint: Owner, manager, authorized representative
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_contact_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_contact_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: authorization_purpose
+      label: Purpose of Authorization
+      hint: What is this consent for
+      type: select_one
+      options:
+      - Data access
+      - Information disclosure
+      - Tax representation
+      - Government inquiry
+      - Service provision
+      - Other
+      required: true
+    - id: 13
+      name: authorization_scope
+      label: Scope of Authorization
+      hint: Extent of authorized activities
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorized_parties
+      label: Authorized Parties
+      hint: Who is being authorized
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: effective_date
+      label: Effective Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: expiration_date
+      label: Authorization Expiration Date
+      hint: When authorization ends
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: consent_acknowledgment
+      label: Business Acknowledges and Consents
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 18
+      name: signature
+      label: Authorized Representative Signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: authorization_notes
+      label: Additional Terms or Conditions
+      hint: Special restrictions or requirements
+      type: text
+      options: []
+      required: false

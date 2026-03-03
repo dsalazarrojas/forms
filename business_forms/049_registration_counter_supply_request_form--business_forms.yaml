@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: registration_counter_supply_request_form
+    pages:
+    - id: 1
+      name: supply_request
+      label: Supply Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: counter_id
+      label: Counter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supply_type
+      label: Supply Type
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: intercompany_relationship_declaration_form
+    pages:
+    - id: 1
+      name: company_a
+      label: Company A
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: company_b
+      label: Company B
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: declaration_time
+      label: Declaration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: declaration_details
+      label: Declaration Details
+      hint: null
+      type: note
+      options: []
+      required: false

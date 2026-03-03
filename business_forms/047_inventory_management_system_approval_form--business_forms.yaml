@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_management_system_approval_form
+    pages:
+    - id: 1
+      name: inventory_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: item_number
+      label: item_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver_signature
+      label: approver_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_name
+      label: submitters_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_signature
+      label: submitters_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_name
+      label: managers_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_email
+      label: managers_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: manager_phone
+      label: managers_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_signature
+      label: managers_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_comments
+      label: approver_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: status_update
+      label: status_update
+      hint: null
+      type: text
+      options: []
+      required: false

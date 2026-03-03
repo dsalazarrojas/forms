@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets_dispatch_instruction_form
+    pages:
+    - id: 1
+      name: dispatch_instruction_form
+      label: dispatch_instruction_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: points_of_service
+      label: points_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: items_received
+      label: items_received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: customer_signature
+      hint: Please sign to acknowledge receipt of this document.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_id
+      label: business_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_dispatched
+      label: date_dispatched
+      hint: null
+      type: date
+      options: []
+      required: false

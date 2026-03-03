@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nepotism Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nepotism_level
+      label: nepotism_level
+      hint: null
+      type: select_one
+      options:
+      - First Level
+      - Second Level
+      - Third Level
+      required: false
+    - id: 6
+      name: nepotism_type
+      label: nepotism_type
+      hint: null
+      type: select_multiple
+      options:
+      - Nepotism
+      - Conflict of Interest
+      - Other
+      required: false
+    - id: 7
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_incident
+      label: time_of_incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: details_of_incident
+      label: details_of_incident
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

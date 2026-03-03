@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Dining Application Form
+    pages:
+    - id: 1
+      name: outdoor_dining_application_form_1
+      label: Application Information
+      hint: Please provide all required information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: Form of Payment
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Other (Specify)
+      required: false
+    - id: 3
+      name: reservation_time
+      label: Reservation Time
+      hint: Please select a time
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reservation_date
+      label: Reservation Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: establishment_name
+      label: Establishment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: establishment_address
+      label: Establishment Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Birthday
+      - Anniversary
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter_name
+      label: Form Submitter's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter_email
+      label: Form Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: form_submitter_phone
+      label: Form Submitter's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: credit_card_number
+      label: Credit Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_payment_method
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_payment_details
+      label: Other Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions_2
+      label: Special Instructions 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Food Allergies
+      - Dietary Restrictions
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_capacity
+      label: Event Capacity
+      hint: Number of guests
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: select_one
+      options:
+      - Half Hour
+      - One Hour
+      - Two Hours
+      required: false
+    - id: 24
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false

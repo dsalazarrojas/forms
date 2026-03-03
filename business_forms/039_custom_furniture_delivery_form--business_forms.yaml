@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Furniture Delivery Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: delivery_service
+      label: Delivery Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_instructions
+      label: Customer Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_signature
+      label: Delivery Signature
+      hint: null
+      type: text
+      options: []
+      required: false

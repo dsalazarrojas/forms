@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Workflow Initiation Form
+    pages:
+    - id: 1
+      name: header_section
+      label: Project Intake Form
+      hint: Tell us about your new project or request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_id
+      label: Client ID
+      hint: If returning client
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_type_section
+      label: -- Request Type and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: request_type
+      label: Type of Request
+      hint: null
+      type: select_one
+      options:
+      - New Project
+      - Change Request
+      - Enhancement
+      - Support Request
+      - Maintenance
+      - Other
+      required: true
+    - id: 10
+      name: project_name
+      label: Project Name
+      hint: What should we call this project?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Detailed description of what you need
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_scope
+      label: Project Scope
+      hint: What is included in this project?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: priority_section
+      label: -- Priority and Importance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      - Critical
+      required: true
+    - id: 15
+      name: priority_reason
+      label: Reason for Priority Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_impact
+      label: Impact of Not Completing This Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: timeline_section
+      label: -- Timeline and Deadlines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: desired_start_date
+      label: Desired Start Date
+      hint: When can we begin?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: project_deadline
+      label: Project Completion Deadline
+      hint: When is this needed?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: milestone_dates
+      label: Key Milestone Dates
+      hint: Important checkpoints or deliverables
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resources_section
+      label: -- Resources and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: budget_approved
+      label: Has budget been approved?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending Approval
+      required: false
+    - id: 24
+      name: team_requirements
+      label: Team Resources Needed
+      hint: Designers, developers, project manager, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: specialized_skills
+      label: Specialized Skills or Expertise Required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: approval_section
+      label: -- Approval and Stakeholders --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: internal_stakeholders
+      label: Internal Stakeholders or Approvers
+      hint: Names and titles
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: external_dependencies
+      label: External Dependencies or Constraints
+      hint: Third-party integrations, approvals, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: approvals_needed
+      label: Approvals Needed Before Starting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: documentation_section
+      label: -- Documentation and Assets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: supporting_documents
+      label: Attach Supporting Documents or Files
+      hint: Requirements, designs, references, etc.
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: existing_assets
+      label: Existing Assets or Documentation Available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: success_criteria
+      label: Success Criteria
+      hint: How will we know this is complete?
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: additional_notes
+      label: Additional Notes or Specifications
+      hint: null
+      type: text
+      options: []
+      required: false

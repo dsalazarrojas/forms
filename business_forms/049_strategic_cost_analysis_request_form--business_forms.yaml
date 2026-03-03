@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Cost Analysis Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cost_category
+      label: Cost Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: cost_type
+      label: Cost Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: cost_location
+      label: Cost Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cost_date
+      label: Cost Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: cost_amount
+      label: Cost Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: cost_frequency
+      label: Cost Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cost_currency
+      label: Cost Currency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 20
+      name: cost_currency_symbol
+      label: Cost Currency Symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cost_currency_precision
+      label: Cost Currency Precision
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 22
+      name: cost_rounding
+      label: Cost Rounding
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 23
+      name: cost_rounding_precision
+      label: Cost Rounding Precision
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 24
+      name: cost_rounding_symbol
+      label: Cost Rounding Symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

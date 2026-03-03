@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Inspection Declaration Form
+    pages:
+    - id: 1
+      name: company_id
+      label: Company Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tool_id
+      label: Tool Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Tool 1''}'
+      - '{''id'': 2, ''label'': ''Tool 2''}'
+      - '{''id'': 3, ''label'': ''Tool 3''}'
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 9
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Condition 1''}'
+      - '{''id'': 2, ''label'': ''Condition 2''}'
+      - '{''id'': 3, ''label'': ''Condition 3''}'
+      required: false
+    - id: 10
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tool_location
+      label: Tool Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Certified''}'
+      - '{''id'': 2, ''label'': ''Not Certified''}'
+      required: false
+    - id: 22
+      name: certified_on
+      label: Certified On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: inspector_note
+      label: Inspector Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: tool_owner
+      label: Tool Owner
+      hint: null
+      type: text
+      options: []
+      required: false

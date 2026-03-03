@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Review Form
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_title
+      label: Reviewer Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Legal
+      - Finance
+      - Operations
+      - Sales
+      - Procurement
+      - Human Resources
+      - IT
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_type
+      label: Contract Type
+      hint: Category
+      type: select_one
+      options:
+      - Service agreement
+      - Vendor contract
+      - Employment contract
+      - Partnership agreement
+      - Licensing agreement
+      - Lease agreement
+      - Purchase agreement
+      - Sales agreement
+      - Other
+      required: true
+    - id: 8
+      name: other_party
+      label: Other Party
+      hint: Counterparty name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contract_value
+      label: Contract Value
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: contract_duration
+      label: Contract Duration
+      hint: Length of agreement
+      type: select_one
+      options:
+      - One-time
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      - Ongoing
+      required: true
+    - id: 11
+      name: business_terms_review
+      label: Business Terms Review
+      hint: Rate the business terms
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: legal_terms_review
+      label: Legal Terms Review
+      hint: Rate the legal terms
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: financial_terms_review
+      label: Financial Terms Review
+      hint: Rate the financial terms
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: risk_level_assessment
+      label: Risk Level Assessment
+      hint: Overall risk
+      type: select_one
+      options:
+      - Low risk
+      - Medium risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 15
+      name: identified_risks
+      label: Identified Risks
+      hint: List any risks
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: compliance_status
+      label: Compliance Status
+      hint: Is it compliant?
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Partially compliant
+      - Not compliant
+      required: true
+    - id: 17
+      name: required_changes
+      label: Required Changes
+      hint: Mandatory revisions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recommended_changes
+      label: Recommended Changes
+      hint: Suggested revisions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: negotiation_points
+      label: Negotiation Points
+      hint: Items to negotiate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: deal_breakers
+      label: Deal Breakers
+      hint: Non-negotiable items
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_recommendation
+      label: Approval Recommendation
+      hint: Your recommendation
+      type: select_one
+      options:
+      - Approve as is
+      - Approve with minor changes
+      - Approve with major changes
+      - Do not approve
+      - Requires further review
+      required: true
+    - id: 22
+      name: conditions_for_approval
+      label: Conditions for Approval
+      hint: What must happen first?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true

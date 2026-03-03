@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Privilege Assignment
+    pages:
+    - id: 1
+      name: property_management_privilege_assignment_form
+      label: property_management_privilege_assignment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_title
+      label: property_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_description
+      label: property_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      - '{''id'': 4, ''label'': ''Deleted''}'
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

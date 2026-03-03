@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Entry Pass Request Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visitor_email
+      label: Visitor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: visitor_phone
+      label: Visitor Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visit_date
+      label: Visit Date
+      hint: When will you visit
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: visit_time
+      label: Visit Time
+      hint: Expected arrival time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: duration
+      label: Expected Duration
+      hint: How long will you stay
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - Half Day
+      - Full Day
+      - Multiple Days
+      required: true
+    - id: 9
+      name: building_name
+      label: Building Name
+      hint: Which building
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: floor_or_suite
+      label: Floor or Suite
+      hint: Specific location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: host_name
+      label: Host Name
+      hint: Who are you visiting
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: host_department
+      label: Host Department
+      hint: Department name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: visit_purpose
+      label: Purpose of Visit
+      hint: Why are you visiting
+      type: select_one
+      options:
+      - Business Meeting
+      - Interview
+      - Delivery
+      - Maintenance Service
+      - Vendor Meeting
+      - Tour
+      - Event Attendance
+      - Personal Appointment
+      - Other
+      required: true
+    - id: 15
+      name: visit_description
+      label: Visit Description
+      hint: Describe the purpose
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Make, model, license plate
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking_needed
+      label: Parking Needed
+      hint: Do you need parking
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: items_brought
+      label: Items Being Brought
+      hint: Equipment or materials
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: identification_type
+      label: Identification Type
+      hint: ID you will present
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - State ID
+      - Military ID
+      - Company ID
+      - Other
+      required: true
+    - id: 21
+      name: previous_visitor
+      label: Previous Visitor
+      hint: Have you visited before
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Time
+      required: true
+    - id: 22
+      name: background_check
+      label: Background Check Status
+      hint: If required
+      type: select_one
+      options:
+      - Not Required
+      - Already Completed
+      - Pending
+      - Will Complete
+      required: false
+    - id: 23
+      name: health_screening
+      label: Health Screening
+      hint: If required
+      type: select_one
+      options:
+      - Not Required
+      - Completed
+      - Will Complete on Arrival
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: I agree to follow all rules
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 25
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false

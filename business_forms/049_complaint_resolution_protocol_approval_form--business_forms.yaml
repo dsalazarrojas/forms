@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Protocol Approval Form
+    pages:
+    - id: 1
+      name: protocol_approval_header
+      label: -- Resolution Protocol Internal Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: protocol_case_ref
+      label: Complaint Case Reference
+      hint: Case ID for which the protocol is being designed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposed_resolution_strategy_text
+      label: Proposed Resolution Strategy
+      hint: Detail the steps to be taken to resolve the complaint
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: estimated_cost_of_protocol
+      label: Estimated Total Cost of Resolution
+      hint: Include refunds, replacement costs, and labor
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: required_internal_resources
+      label: Internal Resources Required
+      hint: e.g., IT support, Legal review, Logistics team
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: identified_protocol_risks
+      label: Identified Risks or Potential Complications
+      hint: What could go wrong with this protocol?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_compliance_review_status
+      label: Legal and Compliance Review Status
+      hint: Has the protocol been vetted for compliance?
+      type: select_one
+      options:
+      - Fully Approved by Legal
+      - Approved with Conditions
+      - Not Required for this Case Level
+      - Pending Review
+      required: true
+    - id: 8
+      name: approver_full_name_protocol
+      label: Approving Manager Name
+      hint: Person authorized to sign off on this cost/strategy
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approver_job_role
+      label: Approver Role / Title
+      hint: e.g., Operations Director, Customer Success Lead
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: protocol_approval_date_final
+      label: Date of Approval
+      hint: Date the protocol was officially authorized
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: protocol_approval_digital_sign
+      label: I authorize the implementation of this resolution protocol
+      hint: Formal authorization acknowledgement
+      type: select_one
+      options:
+      - I so authorize
+      - Other
+      required: true
+    - id: 12
+      name: digital_sign_ack_protocol
+      label: This authorization has been logged in the system.
+      hint: Final notification
+      type: note
+      options: []
+      required: false

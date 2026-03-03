@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Septic Inspection Form
+    pages:
+    - id: 1
+      name: septic_system
+      label: septic_system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: septic_inspection_date
+      label: septic_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: septic_system_type
+      label: septic_system_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Institutional
+      required: false
+    - id: 5
+      name: septic_inspection_result
+      label: septic_inspection_result
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: septic_system_age
+      label: septic_system_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: septic_inspection_cost
+      label: septic_inspection_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: septic_inspection_cost_frequency
+      label: septic_inspection_cost_frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 1 year
+      - Every 2 years
+      - Every 3 years
+      - Every 4 years
+      - Never
+      required: false
+    - id: 10
+      name: septic_inspection_last_update
+      label: septic_inspection_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: septic_inspection_next_update
+      label: septic_inspection_next_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: septic_inspection_previous_result
+      label: septic_inspection_previous_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: septic_inspection_previous_result_result
+      label: septic_inspection_previous_result_result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 14
+      name: septic_inspection_previous_result_date
+      label: septic_inspection_previous_result_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: septic_inspection_previous_result_cost
+      label: septic_inspection_previous_result_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: septic_inspection_previous_result_frequency
+      label: septic_inspection_previous_result_frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 1 year
+      - Every 2 years
+      - Every 3 years
+      - Every 4 years
+      - Never
+      required: false
+    - id: 17
+      name: septic_inspection_result_comment
+      label: septic_inspection_result_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: septic_inspection_next_result_comment
+      label: septic_inspection_next_result_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: septic_inspection_previous_result_comment
+      label: septic_inspection_previous_result_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: septic_inspection_previous_result_last_update
+      label: septic_inspection_previous_result_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: septic_inspection_next_result_last_update
+      label: septic_inspection_next_result_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: septic_inspection_previous_result_next_update
+      label: septic_inspection_previous_result_next_update
+      hint: null
+      type: select_one
+      options:
+      - Next year
+      - In 2 years
+      - In 3 years
+      - In 4 years
+      - Never
+      required: false
+    - id: 23
+      name: septic_inspection_next_result_next_update
+      label: septic_inspection_next_result_next_update
+      hint: null
+      type: select_one
+      options:
+      - Next year
+      - In 2 years
+      - In 3 years
+      - In 4 years
+      - Never
+      required: false
+    - id: 24
+      name: septic_inspection_last_result_last_update
+      label: septic_inspection_last_result_last_update
+      hint: null
+      type: date
+      options: []
+      required: false

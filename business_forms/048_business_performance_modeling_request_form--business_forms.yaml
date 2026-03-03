@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Performance Modeling Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional services
+      - Other
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: modeling_objectives
+      label: Modeling Objectives
+      hint: What do you want to achieve with performance modeling
+      type: select_multiple
+      options:
+      - Revenue forecasting
+      - Cost optimization
+      - Resource planning
+      - Risk assessment
+      - Scenario analysis
+      - Growth planning
+      - Investment analysis
+      - Operational efficiency
+      required: true
+    - id: 9
+      name: current_metrics_available
+      label: Current Metrics Available
+      hint: Select all metrics you currently track
+      type: select_multiple
+      options:
+      - Revenue
+      - Profit margins
+      - Customer acquisition cost
+      - Customer lifetime value
+      - Employee productivity
+      - Operational costs
+      - Cash flow
+      - Inventory turnover
+      - None currently
+      required: true
+    - id: 10
+      name: data_availability
+      label: Data Availability
+      hint: How much historical data do you have
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - 5 plus years
+      - No historical data
+      required: true
+    - id: 11
+      name: key_business_drivers
+      label: Key Business Drivers
+      hint: What drives your business performance
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: modeling_scope
+      label: Modeling Scope
+      hint: What areas need modeling
+      type: select_multiple
+      options:
+      - Financial performance
+      - Sales performance
+      - Operational performance
+      - Marketing performance
+      - HR performance
+      - Customer performance
+      - Full business model
+      required: true
+    - id: 13
+      name: specific_questions
+      label: Specific Questions to Answer
+      hint: What questions should the model answer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: timeline_expectations
+      label: Timeline Expectations
+      hint: When do you need the model
+      type: select_one
+      options:
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Flexible
+      required: true
+    - id: 15
+      name: target_completion_date
+      label: Target Completion Date
+      hint: Desired completion date
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Available budget for modeling
+      type: select_one
+      options:
+      - Under $10K
+      - $10K to $25K
+      - $25K to $50K
+      - $50K to $100K
+      - Over $100K
+      required: false
+    - id: 17
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who will use the model
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: technical_capability
+      label: Technical Capability
+      hint: How comfortable is your team with models
+      type: select_one
+      options:
+      - Very comfortable - advanced users
+      - Comfortable - intermediate users
+      - Somewhat comfortable - basic users
+      - Not comfortable - need training
+      required: true
+    - id: 19
+      name: software_preferences
+      label: Software Preferences
+      hint: Preferred tools or platforms
+      type: select_multiple
+      options:
+      - Excel
+      - Google Sheets
+      - Tableau
+      - Power BI
+      - Python
+      - R
+      - Custom solution
+      - No preference
+      required: false
+    - id: 20
+      name: documentation_needs
+      label: Documentation Needs
+      hint: What documentation do you need
+      type: select_multiple
+      options:
+      - User guide
+      - Technical documentation
+      - Training materials
+      - Video tutorials
+      - Executive summary
+      - Minimal documentation
+      required: true
+    - id: 21
+      name: ongoing_support
+      label: Ongoing Support Needs
+      hint: Will you need ongoing support
+      type: select_one
+      options:
+      - Yes - regular updates
+      - Yes - occasional support
+      - Yes - one-time training
+      - No - self-sufficient
+      required: true
+    - id: 22
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false

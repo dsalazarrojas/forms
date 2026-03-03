@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_agent_or_broker_application_form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mr'', ''value'': ''Mr''}'
+      - '{''id'': 2, ''name'': ''Ms'', ''value'': ''Ms''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 3
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: broker_info
+      label: Broker Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: broker_experience
+      label: Broker Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: broker_specialty
+      label: Broker Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Commercial'', ''value'': ''Commercial''}'
+      - '{''id'': 2, ''name'': ''Residential'', ''value'': ''Residential''}'
+      - '{''id'': 3, ''name'': ''Both'', ''value'': ''Both''}'
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: broker_licenses
+      label: Broker Licenses
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: broker_status
+      label: Broker Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive'', ''value'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Suspended'', ''value'': ''Suspended''}'
+      required: true
+    - id: 14
+      name: additional_licenses
+      label: Additional Licenses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Series 3'', ''value'': ''Series 3''}'
+      - '{''id'': 2, ''name'': ''Series 4'', ''value'': ''Series 4''}'
+      - '{''id'': 3, ''name'': ''Series 6'', ''value'': ''Series 6''}'
+      required: false
+    - id: 15
+      name: broker_agency
+      label: Broker Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: broker_agency_status
+      label: Broker Agency Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive'', ''value'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''New'', ''value'': ''New''}'
+      required: true
+    - id: 17
+      name: broker_agency_type
+      label: Broker Agency Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Individual'', ''value'': ''Individual''}'
+      - '{''id'': 2, ''name'': ''Partnership'', ''value'': ''Partnership''}'
+      - '{''id'': 3, ''name'': ''Corporation'', ''value'': ''Corporation''}'
+      required: true
+    - id: 18
+      name: broker_termination_date
+      label: Broker Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: broker_renewal_date
+      label: Broker Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: broker_termination_reason
+      label: Broker Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_documentation
+      label: Additional Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: broker_agency_address
+      label: Broker Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: broker_agency_phone
+      label: Broker Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: broker_agency_email
+      label: Broker Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: broker_agency_license_number
+      label: Broker Agency License Number
+      hint: null
+      type: text
+      options: []
+      required: false

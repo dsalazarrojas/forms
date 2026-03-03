@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_initiative_request_form
+    pages:
+    - id: 1
+      name: new_initiative_details
+      label: New initiative details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: initiative_name
+      label: initiative_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: initiative_description
+      label: initiative description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: initiative_start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: initiative_end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: initiative_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - active
+      - cancelled
+      required: true
+    - id: 7
+      name: business_owner
+      label: Business owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: true
+    - id: 9
+      name: initiative_budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: initiative_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: initiative_contacts
+      label: Contacts
+      hint: null
+      type: text
+      options: []
+      required: false

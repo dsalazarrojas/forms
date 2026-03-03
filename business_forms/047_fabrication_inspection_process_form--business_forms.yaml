@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fabrication Inspection Process Form
+    pages:
+    - id: 1
+      name: production_plan
+      label: production plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_schedule
+      label: inspection schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_notes
+      label: inspector notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: defect_list
+      label: defect list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: action_plan
+      label: action plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_action_taken
+      label: corrective action taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: production_status
+      label: production status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_date
+      label: production date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: inspection_frequency
+      label: inspection frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: production_frequency
+      label: production frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: inspection_interval
+      label: inspection interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_interval
+      label: production interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspection_status
+      label: inspection status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: production_status
+      label: production status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_inspection_due_date
+      label: next inspection due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_inspection_due_time
+      label: next inspection due time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: previous_inspection_results
+      label: previous inspection results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_actions_taken
+      label: previous actions taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: certification_date
+      label: certification date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: production_lot
+      label: production lot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspection_location
+      label: inspection location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inspector_id
+      label: inspector id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certification_status
+      label: certification status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

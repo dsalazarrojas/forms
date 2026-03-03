@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loyalty Program Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Silver'', ''value'': ''silver''}'
+      - '{''id'': 2, ''label'': ''Gold'', ''value'': ''gold''}'
+      - '{''id'': 3, ''label'': ''Diamond'', ''value'': ''diamond''}'
+      required: false
+    - id: 6
+      name: points_balance
+      label: Points Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: points_earned
+      label: Points Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: membership_expiration_date
+      label: Membership Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_update
+      label: Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: points_balance_verification
+      label: Points Balance Verification
+      hint: null
+      type: number
+      options: []
+      required: false

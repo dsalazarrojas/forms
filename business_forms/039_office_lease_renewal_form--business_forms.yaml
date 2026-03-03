@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Lease Renewal Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: lease_term_length
+      label: lease_term_length
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 24 months
+      required: false
+    - id: 6
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: select_multiple
+      options:
+      - month-to-month
+      - year-to-year
+      - other (specify)
+      required: false
+    - id: 7
+      name: rental_amount
+      label: rental_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: renewal_reason
+      label: renewal_reason
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Agreement Authorization Form
+    pages:
+    - id: 1
+      name: vendor_agreement_form
+      label: vendor_agreement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_details
+      label: vendor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: agreement_start_date
+      label: agreement_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agreement_end_date
+      label: agreement_end_date
+      hint: null
+      type: date
+      options: []
+      required: false

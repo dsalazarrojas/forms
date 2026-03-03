@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agile Retrospective Form
+    pages:
+    - id: 1
+      name: sprint_iteration_name
+      label: Sprint/Iteration Name
+      hint: Enter the name or number of the sprint/iteration being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: retrospective_date
+      label: Retrospective Date
+      hint: Enter the date of the retrospective meeting
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: Enter the name of the team conducting the retrospective
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facilitator_name
+      label: Facilitator Name
+      hint: Enter the name of the person facilitating the retrospective
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sprint_duration
+      label: Sprint Duration
+      hint: Enter the duration of the sprint/iteration
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sprint_goals_review_header
+      label: -- Sprint Goals Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sprint_goals_met
+      label: Sprint Goals Met
+      hint: What percentage of sprint goals were met?
+      type: select_one
+      options: ["0-25%", "26-50%", "51-75%", "76-100%"]
+      required: true
+    - id: 8
+      name: sprint_goal_achievements
+      label: Sprint Goal Achievements
+      hint: What goals were successfully achieved during the sprint?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sprint_goal_shortfalls
+      label: Sprint Goal Shortfalls
+      hint: What goals were not met and why?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: what_went_well_header
+      label: -- What Went Well --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: successful_practices
+      label: Successful Practices
+      hint: What practices worked well during the sprint?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_collaboration_highlights
+      label: Team Collaboration Highlights
+      hint: What aspects of team collaboration were particularly effective?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: individual_contributions
+      label: Individual Contributions
+      hint: What individual contributions stood out positively?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: what_did_not_go_well_header
+      label: -- What Did Not Go Well --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: What challenges did the team face during the sprint?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: impediments_identified
+      label: Impediments Identified
+      hint: What impediments hindered the team's progress?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lessons_learned_header
+      label: -- Lessons Learned --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: key_lessons_learned
+      label: Key Lessons Learned
+      hint: What key lessons did the team learn during this sprint?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: What opportunities for improvement were identified?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_items_header
+      label: -- Action Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: action_items_for_next_sprint
+      label: Action Items for Next Sprint
+      hint: What specific action items will be implemented in the next sprint?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: responsible_team_members
+      label: Responsible Team Members
+      hint: Who will be responsible for each action item?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: target_completion_dates
+      label: Target Completion Dates
+      hint: When should each action item be completed?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or observations about the sprint
+      type: text
+      options: []
+      required: false

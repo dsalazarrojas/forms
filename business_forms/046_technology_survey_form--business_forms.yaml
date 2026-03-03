@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Survey Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Technology survey form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: computer_specs
+      label: Computer Specs
+      hint: Enter computer specifications
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applications_used
+      label: Applications Used
+      hint: null
+      type: select_one
+      options:
+      - Application A
+      - Application B
+      - Application C
+      required: false
+    - id: 4
+      name: technology_techniques
+      label: Technology Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - Technology 1
+      - Technology 2
+      - Technology 3
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_two
+      label: Technology Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Assessment Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_weight
+      label: Current Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: goal_weight
+      label: Goal Weight
+      hint: Target weight
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: skin_type
+      label: Skin Type
+      hint: Select your skin type
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Mature
+      required: true
+    - id: 11
+      name: skin_concerns
+      label: Skin Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne
+      - Wrinkles
+      - Fine Lines
+      - Dark Spots
+      - Uneven Tone
+      - Dryness
+      - Oiliness
+      - Large Pores
+      - Sagging
+      - Cellulite
+      - Scarring
+      - None
+      required: true
+    - id: 12
+      name: body_concerns
+      label: Body Concerns
+      hint: Areas of concern
+      type: select_multiple
+      options:
+      - Abdomen
+      - Thighs
+      - Buttocks
+      - Arms
+      - Back
+      - Neck
+      - Face
+      - Legs
+      - None
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any relevant conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_treatments
+      label: Previous Treatments
+      hint: Have you had similar treatments?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: treatment_goals
+      label: Treatment Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Diet, exercise, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sun_exposure
+      label: Sun Exposure
+      hint: How much sun exposure?
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - High
+      - Use Sunscreen Regularly
+      required: false
+    - id: 20
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Non-Smoker
+      - Former Smoker
+      - Current Smoker
+      required: false
+    - id: 21
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you pregnant or nursing?
+      type: select_one
+      options:
+      - false
+      - Yes, Pregnant
+      - Yes, Nursing
+      - Not Applicable
+      required: false
+    - id: 22
+      name: consultation_needed
+      label: Consultation Needed
+      hint: Do you need a consultation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 24
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_donation_form
+    pages:
+    - id: 1
+      name: donator_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purpose_of_donation
+      label: Purpose of Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Company Donation
+      - Personal Use
+      - Other
+      required: false
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donator_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donator_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donator_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: donator_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      required: false

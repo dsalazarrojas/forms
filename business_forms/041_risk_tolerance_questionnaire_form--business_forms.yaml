@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Tolerance Questionnaire Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: investment_goal
+      label: investment_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time_horizon
+      label: time_hozon
+      hint: null
+      type: select_one
+      options:
+      - 1 year
+      - 5 years
+      - 10 years
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: asset_allocation
+      label: asset_allocation
+      hint: null
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      required: false
+    - id: 6
+      name: investment_style
+      label: investment_style
+      hint: null
+      type: select_one
+      options:
+      - Aggressive
+      - Conservative
+      - Moderate
+      required: false
+    - id: 7
+      name: return_expectation
+      label: return_expectation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: liquidity_requirement
+      label: liquidity_requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: risk_free_return
+      label: risk_free_return
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 10
+      name: investment_experience
+      label: investment_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false

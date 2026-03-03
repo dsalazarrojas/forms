@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Supply Requisition Form
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requisition_number
+      label: Requisition Number
+      hint: Unique reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: Name of requester
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_department
+      label: Requester Department
+      hint: Department or crew
+      type: select_one
+      options:
+      - General Labor
+      - Carpentry
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Equipment Operations
+      - Site Management
+      - Other
+      required: true
+    - id: 7
+      name: supplier_name
+      label: Preferred Supplier
+      hint: Supplier company name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_contact
+      label: Supplier Contact
+      hint: Contact person
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_phone
+      label: Supplier Phone
+      hint: Supplier phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When materials are needed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: delivery_location
+      label: Delivery Location
+      hint: Where to deliver on site
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: item_1_description
+      label: Item 1 Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_1_specifications
+      label: Item 1 Specifications
+      hint: Size, grade, model, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: Amount needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: item_1_unit
+      label: Item 1 Unit
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Bundle
+      - Foot
+      - Square Foot
+      - Cubic Yard
+      - Pound
+      - Gallon
+      - Other
+      required: true
+    - id: 16
+      name: item_1_unit_cost
+      label: Item 1 Unit Cost
+      hint: Cost per unit if known
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: item_1_total_cost
+      label: Item 1 Total Cost
+      hint: Quantity times unit cost
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_2_description
+      label: Item 2 Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_2_specifications
+      label: Item 2 Specifications
+      hint: Size, grade, model
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: Amount needed
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: item_2_unit
+      label: Item 2 Unit
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Bundle
+      - Foot
+      - Square Foot
+      - Cubic Yard
+      - Pound
+      - Gallon
+      - Other
+      required: false
+    - id: 22
+      name: item_2_unit_cost
+      label: Item 2 Unit Cost
+      hint: Cost per unit
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: item_2_total_cost
+      label: Item 2 Total Cost
+      hint: Line total
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: item_3_description
+      label: Item 3 Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: Amount needed
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: item_3_unit_cost
+      label: Item 3 Unit Cost
+      hint: Cost per unit
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: item_3_total_cost
+      label: Item 3 Total Cost
+      hint: Line total
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all items
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: tax_amount
+      label: Tax Amount
+      hint: Estimated tax
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: total_amount
+      label: Total Amount
+      hint: Total requisition value
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon is this needed
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Emergency
+      required: true
+    - id: 32
+      name: purpose
+      label: Purpose
+      hint: What is this for
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: budget_code
+      label: Budget Code
+      hint: Cost code or account
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: requester_signature
+      label: Requester Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: approval_signature
+      label: Approval Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false

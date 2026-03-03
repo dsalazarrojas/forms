@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labour Registration Form
+    pages:
+    - id: 1
+      name: labor_records
+      label: labour_records
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: labor_type
+      label: labor_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: false
+    - id: 3
+      name: labor_date
+      label: labor_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: labor_time
+      label: labor_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: laborer_name
+      label: laborer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: laborer_count
+      label: laborer_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: laborer_salary
+      label: laborer_salary
+      hint: null
+      type: number
+      options: []
+      required: false

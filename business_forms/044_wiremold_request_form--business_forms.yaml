@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: wiremold_request_form
+    pages:
+    - id: 1
+      name: product_code
+      label: Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - Wiremold
+      - Another Option
+      - Option 3
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_shed_order_form
+    pages:
+    - id: 1
+      name: custom_shed_size
+      label: What is the size of your shed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material
+      label: What material would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Oak
+      - Pine
+      - Cedar
+      required: false
+    - id: 3
+      name: color
+      label: What color would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 4
+      name: style
+      label: What style would you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Modern
+      - Traditional
+      - Rustic
+      required: false
+    - id: 5
+      name: door_style
+      label: What type of door would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Sliding
+      - Hinged
+      - Double
+      required: false
+    - id: 6
+      name: roof_style
+      label: What type of roof would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Gable
+      - Hip
+      - Shed
+      required: false
+    - id: 7
+      name: windows
+      label: How many windows?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false

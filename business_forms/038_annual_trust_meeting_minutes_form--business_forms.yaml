@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Trust Meeting Minutes Form
+    pages:
+      - id: 1
+        name: meeting_date
+        label: Meeting Date
+        hint: Date of the trust meeting
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: meeting_time
+        label: Meeting Time
+        hint: Start time of meeting
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: meeting_location
+        label: Meeting Location
+        hint: Physical location or virtual details
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: organization_name
+        label: Trust or Organization Name
+        hint: Official name of organization
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: minutes_recorder
+        label: Minutes Recorder Name
+        hint: Person documenting the meeting
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: recorder_title
+        label: Recorder Title
+        hint: Position or role
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: recorder_email
+        label: Recorder Email
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: chairperson
+        label: Meeting Chairperson
+        hint: Who presided over the meeting
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: attendees
+        label: Attendees Present
+        hint: Names of those present
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: absences
+        label: Authorized Absences
+        hint: Names of those excused
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: quorum_status
+        label: Quorum Status
+        hint: Was quorum present
+        type: select_one
+        options:
+          - "Quorum present"
+          - "Quorum not present"
+        required: true
+      - id: 12
+        name: meeting_called_to_order
+        label: Time Called to Order
+        hint: Actual start time
+        type: time
+        options: []
+        required: false
+      - id: 13
+        name: prior_minutes_approval
+        label: Prior meeting minutes approved
+        hint: Approval of previous meeting minutes
+        type: select_one
+        options:
+          - "Approved as written"
+          - "Approved with corrections"
+          - "Tabled for review"
+          - "Deferred"
+        required: false
+      - id: 14
+        name: agenda_items
+        label: Agenda Items Discussed
+        hint: List of topics covered
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: key_decisions
+        label: Key Decisions Made
+        hint: Important resolutions or votes
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: discussion_highlights
+        label: Discussion Highlights
+        hint: Summary of major discussions
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: financial_report
+        label: Financial Report Presented
+        hint: null
+        type: select_one
+        options:
+          - "Yes - approved"
+          - "Yes - under review"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 18
+        name: financial_status
+        label: Financial Status
+        hint: Summary of financial health
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: action_items
+        label: Action Items Assigned
+        hint: Tasks assigned with responsible parties
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: action_deadlines
+        label: Deadlines for Action Items
+        hint: Due dates for assigned tasks
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: next_meeting_date
+        label: Next Meeting Date
+        hint: Date of next scheduled meeting
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: meeting_adjourned
+        label: Meeting Adjourned Time
+        hint: Time meeting ended
+        type: time
+        options: []
+        required: false
+      - id: 23
+        name: minutes_approval_note
+        label: Approval process for these minutes
+        hint: How minutes will be approved
+        type: select_one
+        options:
+          - "Approved in next meeting"
+          - "Approved electronically"
+          - "For review only"
+          - "Other"
+        required: false
+      - id: 24
+        name: additional_notes
+        label: Additional Notes or Attachments
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

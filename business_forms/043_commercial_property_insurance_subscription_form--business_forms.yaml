@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Property Insurance Subscription Form
+    pages:
+    - id: 1
+      name: section_business_profile
+      label: -- Business and Entity Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: insured_business_name
+      label: Legal Name of Insured Business
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nature_of_business
+      label: Nature of Business Activities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_property_risk
+      label: -- Property Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: building_address
+      label: Building Address to be Insured
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: year_built
+      label: Year Building was Constructed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: construction_type
+      label: Primary Construction Type
+      hint: null
+      type: select_one
+      options:
+      - Frame
+      - Masonry
+      - Non-Combustible
+      - Fire Resistive
+      - Mixed
+      required: true
+    - id: 8
+      name: square_feet_total
+      label: Total Building Square Footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fire_protection_status
+      label: Fire Protection Systems Present
+      hint: null
+      type: select_multiple
+      options:
+      - Full Sprinkler System
+      - Partial Sprinkler System
+      - Fire Alarm (Monitored)
+      - Smoke Detectors
+      - Fire Extinguishers
+      required: true
+    - id: 10
+      name: proximity_to_fire_hydrant
+      label: Is there a fire hydrant within 500 feet?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_coverage_needs
+      label: -- Coverage Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: replacement_cost_value
+      label: Desired Building Coverage Limit (Replacement Cost)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: business_personal_property_limit
+      label: Business Personal Property Limit (Inventory/Equip)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: general_liability_limit
+      label: Desired General Liability Limit
+      hint: null
+      type: select_one
+      options:
+      - $1M / $2M
+      - $2M / $4M
+      - Higher (Specify in notes)
+      required: true
+    - id: 15
+      name: previous_loss_history
+      label: Have you had any property losses in the last 3 years?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: loss_history_description
+      label: If yes, please describe losses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_contact
+      label: -- Agent Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_agent_email
+      label: Contact Email for Quote Delivery
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: additional_insurance_notes
+      label: Additional Risks or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

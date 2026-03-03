@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Checklist Form
+    pages:
+    - id: 1
+      name: expense_reimbursement_checklist_form_pages_1
+      label: expense_reimbursement_checklist_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_reimbursement_checklist_form_pages_2
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expense_reimbursement_checklist_form_pages_3
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - James
+      required: false
+    - id: 4
+      name: expense_reimbursement_checklist_form_pages_4
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false

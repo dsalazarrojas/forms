@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Perfume Box
+    pages:
+    - id: 1
+      name: life_situations
+      label: Life situations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_type
+      label: Subscription type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''one-time'', ''label'': ''One time''}'
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''subscription'', ''label'': ''Subscription''}'
+      - '{''value'': ''payment'', ''label'': ''Payment''}'
+      required: false
+    - id: 4
+      name: perfume_selection
+      label: Perfume selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confidence
+      label: Confidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: perfect_fit
+      label: Perfect fit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: moment_to_moment
+      label: Moment to moment
+      hint: null
+      type: text
+      options: []
+      required: false

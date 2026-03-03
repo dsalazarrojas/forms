@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_governance_quotation_form
+    pages:
+    - id: 1
+      name: company_id
+      label: company_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''service_type_1''}'
+      - '{''id'': 2, ''label'': ''service_type_2''}'
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quote_price
+      label: quote_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quote_terms
+      label: quote_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false

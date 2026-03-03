@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Accident Incident Form
+    pages:
+    - id: 1
+      name: vehicle_accident_form
+      label: vehicle_accident_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accident_type
+      label: accident_type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Collision
+      - Other
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Truck Trailer
+      - Other
+      required: false
+    - id: 4
+      name: accident_location
+      label: accident_location
+      hint: null
+      type: select_multiple
+      options:
+      - City
+      - Country Road
+      - Freeway
+      - Highway
+      - Parking Lot
+      - Private Road
+      required: false
+    - id: 5
+      name: involved_parties
+      label: involved_parties
+      hint: null
+      type: select_multiple
+      options:
+      - Driver
+      - Passenger
+      - Pedestrian
+      - Vehicle
+      required: false
+    - id: 6
+      name: injury_severity
+      label: injury_severity
+      hint: null
+      type: select_multiple
+      options:
+      - Minor
+      - Major
+      required: false
+    - id: 7
+      name: vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accident_description
+      label: accident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_description
+      label: witness_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: investigator_notes
+      label: investigator_notes
+      hint: null
+      type: text
+      options: []
+      required: false

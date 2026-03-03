@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Liquidation Inquiry Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sell_off_request
+      label: Sell-Off Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: schedule_inspection
+      label: Schedule Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: asset_description
+      label: Asset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: inspection_duration
+      label: Inspection Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Off-site
+      - Other
+      required: false
+    - id: 21
+      name: inspection_method
+      label: Inspection Method
+      hint: null
+      type: select_multiple
+      options:
+      - On-site inspection
+      - Off-site inspection
+      - Online inspection
+      required: false
+    - id: 22
+      name: sell_off_type
+      label: Sell-Off Type
+      hint: null
+      type: select_multiple
+      options:
+      - Asset
+      - Non-Asset
+      - Other
+      required: false
+    - id: 23
+      name: sell_off_date
+      label: Sell-Off Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_multiple
+      options:
+      - Asset
+      - Non-Asset
+      - Other
+      required: false
+    - id: 25
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false

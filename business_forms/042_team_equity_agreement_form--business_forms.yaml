@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Equity Agreement Form
+    pages:
+    - id: 1
+      name: role
+      label: Team Member Role
+      hint: null
+      type: select_one
+      options:
+      - Founder
+      - Employee
+      - Advisor
+      - None
+      required: false
+    - id: 2
+      name: equity_percentage
+      label: Equity Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: agreement_signed
+      label: Agreement Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Team Member Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_lead_signature
+      label: Team Lead Signature
+      hint: null
+      type: note
+      options: []
+      required: false

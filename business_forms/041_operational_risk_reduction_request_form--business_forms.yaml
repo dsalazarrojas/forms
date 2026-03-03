@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Risk Reduction Request Form
+    pages:
+    - id: 1
+      name: operational_risk_request_form
+      label: operational_risk_request_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - Request for risk assessment
+      - Request for risk mitigation
+      - Other
+      required: false
+    - id: 3
+      name: risk_category
+      label: risk_category
+      hint: null
+      type: select_multiple
+      options:
+      - Operational
+      - Strategic
+      - Financial
+      - Regulatory
+      - Technical
+      - Security
+      required: false
+    - id: 4
+      name: risk_description
+      label: risk_description
+      hint: Provide a brief description of the risk
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_impact
+      label: risk_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: impact_frequency
+      label: impact_frequency
+      hint: How often does this risk occur?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_priority
+      label: risk_priority
+      hint: What is the risk priority?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: risk_responsible
+      label: risk_responsible
+      hint: null
+      type: select_one
+      options:
+      - Risk Management Team
+      - Department
+      - Individual
+      required: false
+    - id: 9
+      name: risk_suggestion
+      label: risk_suggestion
+      hint: Suggest a possible solution to address this risk
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: risk_comments
+      label: risk_comments
+      hint: Additional comments on this risk
+      type: note
+      options: []
+      required: false

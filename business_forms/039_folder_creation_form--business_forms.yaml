@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Folder Creation Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Folder name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: folder_category
+      label: Folder Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category-a''}'
+      - '{''id'': 2, ''name'': ''category-b''}'
+      required: false
+    - id: 3
+      name: folder_description
+      label: Folder Description
+      hint: Briefly describe your folder.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: folder_tags
+      label: Folder Tags
+      hint: Enter tags to organize your folder.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: folder_owner
+      label: Folder Owner
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: folder_creator
+      label: Folder Creator
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: folder_share
+      label: Share with others
+      hint: Enter email addresses separated by commas.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: folder_status
+      label: Folder Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''status-a''}'
+      - '{''id'': 2, ''name'': ''status-b''}'
+      required: false
+    - id: 9
+      name: folder_created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: folder_created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''created-by-a''}'
+      - '{''id'': 2, ''name'': ''created-by-b''}'
+      required: false

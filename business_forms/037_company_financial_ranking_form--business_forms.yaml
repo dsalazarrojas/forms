@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Financial Ranking Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fiscal_year
+      label: Fiscal year
+      hint: Year for reported figures
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: annual_revenue
+      label: Annual revenue
+      hint: Report annual revenue in local currency
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: net_income
+      label: Net income
+      hint: Net income for the reporting period
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employees_count
+      label: Number of employees
+      hint: Full time equivalents if available
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: industry_sector
+      label: Industry sector
+      hint: Primary sector of operations
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rating_criteria_comments
+      label: Comments for ranking
+      hint: Any notes to support ranking decisions
+      type: text
+      options: []
+      required: false

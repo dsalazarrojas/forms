@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Mentor Referral Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mentorship_program
+      label: Mentorship Program
+      hint: Please enter the name of your mentorship program
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_description
+      label: Organization Description
+      hint: A brief description of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_confirmation
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mentor_name
+      label: Mentor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mentor_position
+      label: Mentor Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bio
+      label: Bio
+      hint: A brief bio of the mentor
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skills_and_expertise
+      label: Skills and Expertise
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: mentorship_experience
+      label: Mentorship Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mentor_education
+      label: Mentor Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: mentor_interests
+      label: Mentor Interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: mentor_location
+      label: Mentor Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: mentor_language
+      label: Mentor Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: preferred_hours
+      label: Preferred Hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: availability_time_frame
+      label: Availability Time Frame
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: preferred_days
+      label: Preferred Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 24
+      name: mentorship_type
+      label: Type of Mentorship
+      hint: null
+      type: select_multiple
+      options:
+      - One-to-One
+      - Group
+      - Panel
+      required: false
+    - id: 25
+      name: referral_agreement
+      label: Referral Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

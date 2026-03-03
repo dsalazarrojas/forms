@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bid Opportunity Assessment
+    pages:
+    - id: 1
+      name: section_header_opportunity
+      label: -- Opportunity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: opportunity_name
+      label: RFP/Tender Opportunity Name
+      hint: Project or contract title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: opportunity_id
+      label: RFP ID or Tender Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client or Agency Name
+      hint: Who is issuing the RFP?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: opportunity_value
+      label: Opportunity Value
+      hint: Estimated contract value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - Other
+      required: true
+    - id: 7
+      name: section_header_assessment
+      label: -- Strategic Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: strategic_fit
+      label: Strategic Fit with Company
+      hint: How aligned is this with our strategy?
+      type: select_one
+      options:
+      - Excellent fit
+      - Good fit
+      - Moderate fit
+      - Poor fit
+      - Not aligned
+      required: true
+    - id: 9
+      name: market_position
+      label: Position in Target Market
+      hint: Does this help our market position?
+      type: select_one
+      options:
+      - Strengthens position significantly
+      - Strengthens position
+      - Neutral
+      - Weakens position
+      - Not relevant
+      required: true
+    - id: 10
+      name: competitive_advantage
+      label: Our Competitive Advantage
+      hint: Do we have an edge?
+      type: select_one
+      options:
+      - Significant advantage
+      - Moderate advantage
+      - Equal to competitors
+      - Slight disadvantage
+      - Major disadvantage
+      required: true
+    - id: 11
+      name: section_header_financial
+      label: -- Financial Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: estimated_cost
+      label: Estimated Cost to Win
+      hint: Bid preparation and sales costs
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: win_probability
+      label: Estimated Win Probability
+      hint: Percentage chance of winning
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: gross_margin
+      label: Estimated Gross Margin
+      hint: Expected profit margin
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: roi_calculation
+      label: ROI or Financial Return
+      hint: Expected return on investment
+      type: select_one
+      options:
+      - Excellent return
+      - Good return
+      - Acceptable return
+      - Poor return
+      - Negative return
+      required: true
+    - id: 16
+      name: section_header_resources
+      label: -- Resource Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: resource_availability
+      label: Resource Availability
+      hint: Do we have resources available?
+      type: select_one
+      options:
+      - Fully available
+      - Mostly available
+      - Some constraints
+      - Significant constraints
+      - Unable to commit
+      required: true
+    - id: 18
+      name: team_capability
+      label: Internal Team Capability
+      hint: Can our team deliver?
+      type: select_one
+      options:
+      - Fully capable
+      - Mostly capable
+      - Some gaps
+      - Significant gaps
+      - Not capable
+      required: true
+    - id: 19
+      name: external_resources
+      label: Need External Resources or Partnerships
+      hint: Will we need outside help?
+      type: select_one
+      options:
+      - No additional resources needed
+      - Minor external help required
+      - Significant partnerships needed
+      - Major partnerships critical
+      - Dependent on external parties
+      required: true
+    - id: 20
+      name: section_header_timeline
+      label: -- Timeline and Deadlines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: bid_deadline
+      label: Bid Submission Deadline
+      hint: When is the bid due?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: decision_deadline
+      label: Internal Decision Deadline
+      hint: When must we decide to bid?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time_to_prepare
+      label: Time Available to Prepare Bid
+      hint: Days available
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: timeline_feasibility
+      label: Bid Timeline Feasibility
+      hint: Can we meet the deadline?
+      type: select_one
+      options:
+      - Plenty of time
+      - Adequate time
+      - Tight schedule
+      - Very tight schedule
+      - Insufficient time
+      required: true
+    - id: 25
+      name: section_header_risks
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: risk_factors
+      label: Key Risk Factors
+      hint: What could go wrong?
+      type: select_multiple
+      options:
+      - Strong competitor presence
+      - Unclear requirements
+      - Price competition
+      - Resource constraints
+      - Technology risks
+      - Regulatory complexity
+      - Scope creep
+      - Client instability
+      required: false
+    - id: 27
+      name: risk_level
+      label: Overall Risk Level
+      hint: What is the risk exposure?
+      type: select_one
+      options:
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Very high risk
+      - Unacceptable risk
+      required: true
+    - id: 28
+      name: section_header_decision
+      label: -- Bid Decision --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: recommendation
+      label: Recommendation
+      hint: Should we pursue this?
+      type: select_one
+      options:
+      - Strong go - pursue immediately
+      - Go - recommend bidding
+      - Conditional - depends on factors
+      - No go - do not recommend
+      - Strong no go - recommend declining
+      required: true
+    - id: 30
+      name: decision_rationale
+      label: Decision Rationale
+      hint: Why this recommendation?
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: assessed_by
+      label: Assessment Completed By
+      hint: Name of decision maker
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: assessment_date
+      label: Assessment Date
+      hint: When was this assessment done?
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: additional_notes
+      label: Additional Comments or Considerations
+      hint: Any other relevant factors?
+      type: text
+      options: []
+      required: false

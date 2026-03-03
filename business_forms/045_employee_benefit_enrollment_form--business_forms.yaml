@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefit Enrollment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: benefit_type
+      label: Benefit Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Medical'', ''value'': ''medical''}'
+      - '{''label'': ''Dental'', ''value'': ''dental''}'
+      - '{''label'': ''Vision'', ''value'': ''vision''}'
+      required: false
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Aetna'', ''value'': ''Aetna''}'
+      - '{''label'': ''Blue Cross'', ''value'': ''Blue Cross''}'
+      - '{''label'': ''Cigna'', ''value'': ''Cigna''}'
+      required: false
+    - id: 5
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: benefit_start_date
+      label: Benefit Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: benefit_end_date
+      label: Benefit End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: benefit_status
+      label: Benefit Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 9
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_group
+      label: Employee Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''label'': ''Customer Support'', ''value'': ''customer_support''}'
+      required: false
+    - id: 16
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_title
+      label: Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: note
+      options: []
+      required: false

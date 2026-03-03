@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Safety Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Unvaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      required: true
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiologist
+      - Endocrinologist
+      - General Practitioner
+      - Neurologist
+      - Oncologist
+      - Pulmonologist
+      - Radiologist
+      - Urologist
+      required: true
+    - id: 11
+      name: hospitalization
+      label: Hospitalization
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: next_visit
+      label: Next Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Report Form
+    pages:
+    - id: 1
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales Report'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Inventory Report'', ''value'': ''2''}'
+      - '{''id'': 3, ''label'': ''Product Report'', ''value'': ''3''}'
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inventory_level
+      label: inventory_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stock_levels
+      label: stock_levels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stock_units
+      label: stock_units
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 8
+      name: stock_status
+      label: stock_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''2''}'
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''1''}'
+      - Other
+      required: false
+    - id: 10
+      name: report_frequency
+      label: report_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Quarterly'', ''value'': ''2''}'
+      - '{''id'': 3, ''label'': ''Yearly'', ''value'': ''3''}'
+      required: false

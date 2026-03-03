@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subcontractor Details Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: subcontractor_type
+      label: Subcontractor Type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 9
+      name: subcontractor_name
+      label: Subcontractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contract_amount
+      label: Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: false

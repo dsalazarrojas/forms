@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Process Compliance Contact Form
+    pages:
+    - id: 1
+      name: contact_date
+      label: Contact Date
+      hint: Date of this submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitter_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitter_role
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Direct Manager
+      hint: Supervisor's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is this about?
+      type: select_one
+      options:
+      - Policy Clarification
+      - Compliance Question
+      - Process Question
+      - Concern or Issue
+      - Suggestion
+      - Other
+      required: true
+    - id: 9
+      name: policy_area
+      label: Policy Area
+      hint: Which policy/process?
+      type: select_one
+      options:
+      - HR Policies
+      - Financial Policies
+      - IT Security
+      - Data Privacy
+      - Health and Safety
+      - Quality Assurance
+      - Other
+      required: true
+    - id: 10
+      name: specific_policy
+      label: Specific Policy or Process
+      hint: Name the specific policy
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inquiry_description
+      label: Detailed Description
+      hint: Explain your question or concern
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_impact
+      label: Business Impact
+      hint: How does this affect operations?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: relevant_documentation
+      label: Relevant Documentation Attached
+      hint: Do you have supporting docs?
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Provide Later
+      required: false
+    - id: 15
+      name: regulatory_reference
+      label: Related Regulation or Standard
+      hint: Any regulatory reference?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: proposed_solution
+      label: Proposed Solution
+      hint: Do you have a suggestion?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_similar_issues
+      label: Previous Similar Issues
+      hint: Has this happened before?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      - Video Call
+      required: false
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information?
+      type: text
+      options: []
+      required: false

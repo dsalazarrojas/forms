@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: field-services-job-registration
+    pages:
+    - id: 1
+      name: client_info
+      label: client-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_info
+      label: service-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_details
+      label: service-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: service-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: requested_by
+      label: requested-by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: requested_by_date
+      label: requested-by-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assigned_representative
+      label: assigned-representative
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_status
+      label: service-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

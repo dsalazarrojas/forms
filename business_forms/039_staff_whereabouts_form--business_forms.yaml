@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Whereabouts Form
+    pages:
+    - id: 1
+      name: form_1
+      label: form1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: location_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: location_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: staff_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: true
+    - id: 5
+      name: form_5
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Collaboration Request Form
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - request_type
+      - Other
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_request
+      label: Resource Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaboration_request
+      label: Collaboration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

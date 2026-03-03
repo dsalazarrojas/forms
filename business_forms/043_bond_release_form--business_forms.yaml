@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bond Release Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: release_time
+      label: Time of Release
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: released_individual_name
+      label: Name of Released Individual
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: booking_number
+      label: Booking Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: charges
+      label: Original Charges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: arrest_date
+      label: Date of Arrest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: custody_duration
+      label: Duration in Custody
+      hint: Days or hours
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_name
+      label: Facility Name
+      hint: Where detained
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: release_reason
+      label: Reason for Release
+      hint: null
+      type: select_one
+      options:
+      - Bond Posted
+      - Released on Recognizance
+      - Bail Reduced and Paid
+      - Charges Dropped
+      - Case Dismissed
+      - Awaiting Trial
+      - Court Order
+      - Other
+      required: true
+    - id: 12
+      name: bond_amount
+      label: Bond Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bond_conditions
+      label: Bond Conditions
+      hint: Restrictions or requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: personal_property_returned
+      label: Personal Property Returned
+      hint: List items returned
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_signature_date
+      label: Date Property Inventory Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: releasing_officer_name
+      label: Releasing Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: releasing_officer_badge
+      label: Officer Badge Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: next_court_date
+      label: Next Court Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: supervision_required
+      label: Supervision Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - Probation
+      - Yes - Parole
+      - Yes - Electronic Monitoring
+      - No Supervision Required
+      - Pending Determination
+      required: true
+    - id: 20
+      name: supervision_officer_assignment
+      label: Assigned Supervision Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mental_health_referral
+      label: Mental Health Referral
+      hint: null
+      type: select_one
+      options:
+      - Yes - Referred
+      - No - Not Referred
+      - Already in Treatment
+      - Declined Services
+      required: true
+    - id: 22
+      name: substance_abuse_referral
+      label: Substance Abuse Referral
+      hint: null
+      type: select_one
+      options:
+      - Yes - Referred
+      - No - Not Referred
+      - Already in Treatment
+      - Declined Services
+      required: true
+    - id: 23
+      name: released_individual_acknowledgment
+      label: Released Individual Acknowledges Receipt
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 24
+      name: released_individual_signature_date
+      label: Released Individual Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: instructions_provided
+      label: Release Instructions Provided
+      hint: null
+      type: select_one
+      options:
+      - Yes - Written and Verbal
+      - Yes - Written Only
+      - Yes - Verbal Only
+      - false
+      required: true

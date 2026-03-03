@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Review Session Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: audit_name
+      label: Audit Name
+      hint: Name of audit to be reviewed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: audit_period
+      label: Audit Period
+      hint: Period covered by the audit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_type
+      label: Review Type
+      hint: What type of review is requested?
+      type: select_one
+      options:
+      - Preliminary Review
+      - Final Review
+      - Quality Review
+      - Peer Review
+      - Management Review
+      - External Review
+      required: true
+    - id: 10
+      name: review_objectives
+      label: Review Objectives
+      hint: What are the objectives of this review?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_review_dates
+      label: Preferred Review Dates
+      hint: When would you like the review?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: review_duration
+      label: Review Duration
+      hint: Expected duration of review
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - Half day
+      - Full day
+      - Multiple days
+      required: true
+    - id: 13
+      name: participants
+      label: Participants
+      hint: Who will participate in the review?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: materials_to_review
+      label: Materials to Review
+      hint: What materials will be reviewed?
+      type: select_multiple
+      options:
+      - Audit report
+      - Working papers
+      - Evidence documentation
+      - Management responses
+      - Prior audit findings
+      - Risk assessments
+      required: true
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements for the review
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_format
+      label: Review Format
+      hint: Preferred format for review
+      type: select_one
+      options:
+      - In-person meeting
+      - Video conference
+      - Phone conference
+      - Document review only
+      - Hybrid
+      required: true
+    - id: 17
+      name: technology_needs
+      label: Technology Needs
+      hint: What technology is needed?
+      type: select_multiple
+      options:
+      - Projector
+      - Screen sharing
+      - Document sharing
+      - Recording capability
+      - None
+      required: true
+    - id: 18
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What outcomes are expected?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Will follow-up be needed?
+      type: select_one
+      options:
+      - Yes, definite follow-up
+      - Possibly
+      - No, not expected
+      required: true
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: Has your manager approved this request?
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not required
+      required: true
+    - id: 21
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true

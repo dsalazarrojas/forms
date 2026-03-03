@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Lighting System Check Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: check_request
+      label: Check Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: report_location
+      label: Report Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_notes
+      label: Report Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

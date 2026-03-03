@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Enquiry Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: Your website URL if available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: enquiry_details
+      label: -- Enquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: enquiry_type
+      label: Type of Enquiry
+      hint: What is your enquiry about
+      type: select_one
+      options:
+      - Product Information
+      - Service Inquiry
+      - Partnership Opportunity
+      - Pricing Inquiry
+      - General Question
+      - Support Request
+      - Feedback
+      - Other
+      required: true
+    - id: 10
+      name: interest_area
+      label: Area of Interest
+      hint: Specific area or product you inquire about
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: enquiry_description
+      label: Detailed Description
+      hint: Full description of your enquiry
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: Your budget if applicable
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-10000
+      - 10000-25000
+      - 25000-50000
+      - 50000+
+      - Not Specified
+      required: false
+    - id: 13
+      name: timeline
+      label: Timeline for Decision
+      hint: When do you need to decide
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Future consideration
+      required: true
+    - id: 14
+      name: company_profile
+      label: -- Company Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: industry_sector
+      label: Industry Sector
+      hint: Your industry
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (251-1000)
+      - Enterprise (1000+)
+      required: true
+    - id: 17
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Company annual revenue range
+      type: select_one
+      options:
+      - Under 1 million
+      - 1-10 million
+      - 10-50 million
+      - 50-100 million
+      - 100+ million
+      - Not Specified
+      required: false
+    - id: 18
+      name: preference
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How you prefer to be contacted
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Video Call
+      - In-person Meeting
+      - No Preference
+      required: true
+    - id: 20
+      name: contact_time
+      label: Best Time to Contact
+      hint: When should we reach out
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: true
+    - id: 21
+      name: followup_frequency
+      label: Follow-up Frequency
+      hint: How often should we follow up
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Where did you find our information
+      type: text
+      options: []
+      required: false

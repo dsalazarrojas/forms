@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Data Flow Documentation
+    pages:
+    - id: 1
+      name: product_data_flow
+      label: product_data_flow
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: data_source
+      label: data_source
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: transfer_method
+      label: data_transfer_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: data_owner
+      label: data_owner
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_flow
+      label: data_flow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transfer_frequency
+      label: data_transfer_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: transfer_time
+      label: data_transfer_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_cycle
+      label: review_cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: engineering_team
+      label: engineering_team
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

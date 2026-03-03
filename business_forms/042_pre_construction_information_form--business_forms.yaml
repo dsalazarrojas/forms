@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Construction Information Form
+    pages:
+    - id: 1
+      name: pre_construction_information_form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pre_construction_information_form_contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pre_construction_information_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pre_construction_information_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: pre_construction_information_form_project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pre_construction_information_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pre_construction_information_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pre_construction_information_form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: pre_construction_information_form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pre_construction_information_form_project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Construction
+      - Renovation
+      - Remodeling
+      required: true
+    - id: 11
+      name: pre_construction_information_form_project_size
+      label: Project Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 12
+      name: pre_construction_information_form_project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - In Progress
+      - On Hold
+      - Completed
+      required: false
+    - id: 13
+      name: pre_construction_information_form_contractor_details
+      label: Contractor Details
+      hint: Please provide the details of the contractor
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: pre_construction_information_form_contractor_license
+      label: Contractor License
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      - NA
+      required: true
+    - id: 15
+      name: pre_construction_information_form_contractor_insurance
+      label: Contractor Insurance
+      hint: Please provide details of the contractor's insurance
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - NA
+      required: false
+    - id: 16
+      name: pre_construction_information_form_contractor_experience
+      label: Contractor Experience
+      hint: years
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: pre_construction_information_form_contractor_vehicles
+      label: Contractor Vehicle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: pre_construction_information_form_contractor_equipment
+      label: Contractor Equipment
+      hint: Please list any equipment the contractor will be bringing on site
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: pre_construction_information_form_contractor_supervise
+      label: Supervise
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: pre_construction_information_form_contractor_supervision
+      label: Supervision
+      hint: Please indicate the number of supervisors
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: pre_construction_information_form_contractor_supervision_2
+      label: Supervision 2
+      hint: Please indicate the second supervision detail
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pre_construction_information_form_contractor_supervision_3
+      label: Supervision 3
+      hint: Please indicate the third supervision detail
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pre_construction_information_form_insurance
+      label: Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: pre_construction_information_form_owners_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: pre_construction_information_form_owners_contact_details
+      label: Owner Contact Details
+      hint: Please provide owner contact details
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Registration Form
+    pages:
+    - id: 1
+      name: event_registration_form_data
+      label: Event Registration Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registrants
+      label: Registrants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: registrant_name
+      label: Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registrant_email
+      label: Registrant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: registrant_phone
+      label: Registrant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_registration_form_submitted
+      label: Event Registration Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 13
+      name: event_registration_form_declined
+      label: Event Registration Form Declined
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 14
+      name: event_registration_form_pending
+      label: Event Registration Form Pending
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false

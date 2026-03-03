@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_complaint_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_description
+      label: Complaint Description
+      hint: Describe your issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attach_files
+      label: Attach Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: select_complaint_type
+      label: Select Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: select_complaint_category
+      label: Select Complaint Category
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: select_complaint_subcategory
+      label: Select Complaint Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: retailer_signature
+      label: Retailer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment And Income Calculator
+    pages:
+    - id: 1
+      name: income_section_1
+      label: Income and expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: Risk factors
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 3
+      name: income_1
+      label: Annual income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_2
+      label: Annual income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expenses_1
+      label: Monthly expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expenses_2
+      label: Monthly expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_factors_2
+      label: Risk level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 8
+      name: review_date
+      label: Review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_time
+      label: Review time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: review_note
+      label: Review note
+      hint: Additional review notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_address
+      label: Submitter address
+      hint: null
+      type: text
+      options: []
+      required: false

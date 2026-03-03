@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_missions_form
+    pages:
+    - id: 1
+      name: mission_details
+      label: Mission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mission_date
+      label: Mission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mission_time
+      label: Mission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: mission_location
+      label: Mission Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mission_description
+      label: Mission Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mission_goals
+      label: Mission Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

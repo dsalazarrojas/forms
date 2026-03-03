@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: utility_bill_verification_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bill_date
+      label: bill date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: bill_amount
+      label: bill amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_provider
+      label: service provider
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Cable
+      - Internet
+      - Phone
+      required: true
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: billing address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_address
+      label: service address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bill_details
+      label: bill details
+      hint: null
+      type: note
+      options: []
+      required: false

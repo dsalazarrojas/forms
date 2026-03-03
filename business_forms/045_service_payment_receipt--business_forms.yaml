@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Payment Receipt
+    pages:
+    - id: 1
+      name: service_payment_receipt_form
+      label: Service Payment Receipt Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_client_name
+      label: service_client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_client_address
+      label: service_client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit/Debit Card''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Declined''}'
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

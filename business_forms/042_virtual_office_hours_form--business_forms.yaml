@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Office Hours Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Virtual Office Hours Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other Forms
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 5
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Professor
+      - Other
+      required: true
+    - id: 10
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

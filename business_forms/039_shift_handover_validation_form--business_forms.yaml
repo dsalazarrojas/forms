@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handover Validation Form
+    pages:
+    - id: 1
+      name: staff_member_1
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: staff_member_1_signed_in
+      label: staff_signed_in_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: staff_member_2
+      label: staff_member_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: staff_member_2_signed_in
+      label: staff_member_2_signed_in_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: staff_member_1_shift_end
+      label: staff_member_1_shift_end
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: staff_member_1_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: staff_member_2_notes
+      label: staff_member_2_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: staff_member_1_signed_in_time_delta
+      label: staff_signed_in_time_delta
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: staff_member_1_signed_in_reason
+      label: staff_signed_in_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: staff_member_2_signed_in_reason
+      label: staff_signed_in_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: handover_type
+      label: handover_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,55 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Service Cancellation Request Form
+    pages:
+    - id: 1
+      name: service_cancellation_request_form
+      label: Service Cancellation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Cancellation Due to Dissatisfaction
+      - Cancellation Due to Unreliability
+      - Cancellation Due to Miscommunication
+      - Other
+      required: true
+    - id: 3
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cancellation_time
+      label: Cancellation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_cancellation_details
+      label: Reason for Cancellation Details
+      hint: null
+      type: text
+      options: []
+      required: false

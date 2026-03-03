@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: policy_impact_assessment_application_form
+    pages:
+    - id: 1
+      name: new_policies
+      label: New Policies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impacts
+      label: Impacts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: policy_category
+      label: Policy Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: review_note
+      label: Review Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_name
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_organization
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_address
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: policy_version
+      label: Policy Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: policy_version_date
+      label: Policy Version Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitter_dedication
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

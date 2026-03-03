@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Premises Photo Upload
+    pages:
+    - id: 1
+      name: upload_date
+      label: Upload Date
+      hint: Date of this upload
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: uploader_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: uploader_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: uploader_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_name
+      label: Property Name
+      hint: Name of the location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: Type of premises
+      type: select_one
+      options:
+      - Office
+      - Warehouse
+      - Retail Store
+      - Manufacturing Facility
+      - Mixed Use
+      - Other
+      required: true
+    - id: 8
+      name: inspection_type
+      label: Type of Inspection
+      hint: Purpose of photos
+      type: select_one
+      options:
+      - Insurance Documentation
+      - Property Inspection
+      - Routine Review
+      - Damage Assessment
+      - Pre-lease Inspection
+      - Post-maintenance Check
+      - Other
+      required: true
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: When was property inspected?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: exterior_photos
+      label: Exterior Photos Provided
+      hint: Are exterior photos included?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 11
+      name: interior_photos
+      label: Interior Photos Provided
+      hint: Are interior photos included?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 12
+      name: roof_condition_photos
+      label: Roof Condition Photos
+      hint: Roof images included?
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: false
+    - id: 13
+      name: hvac_photos
+      label: HVAC System Photos
+      hint: System images included?
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: false
+    - id: 14
+      name: electrical_photos
+      label: Electrical System Photos
+      hint: Electrical images included?
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: false
+    - id: 15
+      name: damage_observed
+      label: Any Damage Observed?
+      hint: Was damage noted?
+      type: select_one
+      options:
+      - true
+      - false
+      - Minor Issues
+      required: true
+    - id: 16
+      name: damage_description
+      label: Damage Description
+      hint: If damage found, describe
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_needed
+      label: Maintenance Needed
+      hint: Any repairs required?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: number_of_photos
+      label: Total Number of Photos
+      hint: How many photos uploaded?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: photo_quality
+      label: Photo Quality
+      hint: Quality of images
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations?
+      type: text
+      options: []
+      required: false

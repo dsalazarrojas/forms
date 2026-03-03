@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: declination_response_form
+    pages:
+    - id: 1
+      name: reason
+      label: declined_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: is_confirmed
+      label: is_confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm_date
+      label: confirm_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_details
+      label: reason_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Business Development
+      - Marketing
+      - Operations
+      - Sales
+      required: false
+    - id: 8
+      name: reason_category
+      label: reason_category
+      hint: null
+      type: select_one
+      options:
+      - Declination
+      - Request
+      - Invitation
+      - Offer
+      required: false
+    - id: 9
+      name: reason_subcategory
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Request
+      - Invitation
+      - Offer
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_by
+      label: confirm_by
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

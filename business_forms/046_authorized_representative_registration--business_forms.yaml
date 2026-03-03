@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorized Representative Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company or Organization Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_registration_number
+      label: Company Registration Number
+      hint: Business or tax ID number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_address
+      label: Company Address
+      hint: Principal business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: representative_name
+      label: Representative Full Name
+      hint: Legal name of representative
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: representative_title
+      label: Representative Title
+      hint: Official title or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: representative_email
+      label: Representative Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: representative_phone
+      label: Representative Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorization_type
+      label: Type of Authorization
+      hint: What is representative authorized for
+      type: select_one
+      options:
+      - General Authorization
+      - Financial Authority
+      - Legal Representation
+      - Regulatory Compliance
+      - Insurance Claims
+      - Contract Negotiation
+      - Multi-Purpose
+      required: true
+    - id: 10
+      name: authorization_scope
+      label: Scope of Authorization
+      hint: Describe authority boundaries
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: financial_limit
+      label: Financial Authority Limit
+      hint: Maximum amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: prior_authorization
+      label: Is This an Update to Prior Authorization
+      hint: Replacing previous authorization
+      type: select_one
+      options:
+      - No - New Authorization
+      - Yes - Updating Previous
+      - Yes - Adding New Authority
+      - Yes - Revoking Previous
+      required: true
+    - id: 13
+      name: previous_representative_name
+      label: Previous Representative Name
+      hint: If updating authorization
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_authority
+      label: Authority to Sign Documents
+      hint: Can representative sign on behalf
+      type: select_one
+      options:
+      - No Signing Authority
+      - Limited Signing - Specific Documents
+      - Broad Signing Authority
+      - Unlimited Signing Authority
+      required: true
+    - id: 15
+      name: contract_negotiation_authority
+      label: Contract Negotiation Authority
+      hint: Can negotiate and approve contracts
+      type: select_one
+      options:
+      - No Authority
+      - Limited - Under $50k
+      - Limited - Under $250k
+      - Limited - Under $1M
+      - Full Authority
+      required: false
+    - id: 16
+      name: banking_authority
+      label: Banking and Account Authority
+      hint: Bank account authority granted
+      type: select_one
+      options:
+      - No Banking Authority
+      - View Only
+      - Transaction Authority - Limited
+      - Full Account Authority
+      required: false
+    - id: 17
+      name: regulatory_authority
+      label: Regulatory Compliance Authority
+      hint: Government/regulatory authority
+      type: select_one
+      options:
+      - No Regulatory Authority
+      - Limited Reporting
+      - Full Compliance Authority
+      - Authorized Signatory
+      required: false
+    - id: 18
+      name: validity_start_date
+      label: Validity Start Date
+      hint: When does authorization begin
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: validity_end_date
+      label: Validity End Date
+      hint: When does it expire
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: duration_type
+      label: Authorization Duration Type
+      hint: How long authorization is valid
+      type: select_one
+      options:
+      - Fixed Term
+      - Indefinite - Until Revoked
+      - One-Time/Single Transaction
+      - Annual - Renewal Required
+      required: true
+    - id: 21
+      name: background_check_completed
+      label: Background Check Completed
+      hint: Verification completed
+      type: select_one
+      options:
+      - Yes - Completed
+      - In Progress
+      - Not Required
+      - Pending
+      required: true
+    - id: 22
+      name: board_approval
+      label: Board or Management Approval
+      hint: Has leadership approved
+      type: select_one
+      options:
+      - Yes - Approved
+      - Pending Approval
+      - No - Not Approved
+      - N/A
+      required: true
+    - id: 23
+      name: notarization_required
+      label: Notarization Required
+      hint: Does this need notarization
+      type: select_one
+      options:
+      - Yes - Notarized
+      - Yes - Will Be Notarized
+      - No - Not Required
+      required: true
+    - id: 24
+      name: revocation_clause
+      label: Revocation Authority
+      hint: Who can revoke this authorization
+      type: text
+      options: []
+      required: false

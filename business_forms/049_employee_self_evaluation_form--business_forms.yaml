@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Self Evaluation Form
+    pages:
+    - id: 1
+      name: employee_self_evaluation_form
+      label: Employee Self Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - HR
+      - Marketing
+      - Sales
+      - IT
+      required: false
+    - id: 4
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: performance_area
+      label: performance_area
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting and Finance
+      - HR
+      - Marketing and Sales
+      - IT
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_comments_2
+      label: evaluation_comments_2
+      hint: null
+      type: note
+      options: []
+      required: false

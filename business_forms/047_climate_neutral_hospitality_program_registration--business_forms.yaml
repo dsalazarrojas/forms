@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Neutral Hospitality Program Registration
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Neutral Hospitality Program Registration
+      hint: Join our commitment to sustainable hospitality
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: property_name
+      label: Property Name
+      hint: Hotel, inn, or guesthouse name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Bed and Breakfast
+      - Inn
+      - Resort
+      - Hostel
+      - Guesthouse
+      - Vacation Rental
+      - Boutique Property
+      - Other
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_of_rooms
+      label: Number of Guest Rooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary manager or owner
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: operations_section
+      label: -- Operations and Facilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: annual_guests
+      label: Approximate Annual Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: has_restaurant
+      label: On-Site Restaurant or Food Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: has_spa
+      label: Spa or Wellness Facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: has_conference
+      label: Conference or Event Spaces
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: sustainability_section
+      label: -- Current Sustainability Efforts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_initiatives
+      label: Current Sustainability Initiatives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Renewable Energy
+      - Energy Efficiency
+      - Water Conservation
+      - Waste Reduction
+      - Organic or Local Food
+      - Green Cleaning
+      - Eco-Friendly Transportation
+      - Green Building Certification
+      - Other
+      required: true
+    - id: 19
+      name: energy_source
+      label: Primary Energy Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: waste_management
+      label: Waste Management Practices
+      hint: Recycling, composting, reduction, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certifications
+      label: Environmental Certifications or Standards
+      hint: ISO, Green Key, LEED, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: goals_section
+      label: -- Climate Neutral Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: carbon_footprint_known
+      label: Have You Calculated Your Carbon Footprint?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 24
+      name: carbon_reduction_target
+      label: Target Year for Carbon Neutrality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: reduction_percentage
+      label: Target Carbon Reduction Percentage
+      hint: Percentage by target year
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: climate_goal
+      label: Primary Climate Goal
+      hint: null
+      type: select_one
+      options:
+      - Carbon Neutral by 2030
+      - Carbon Neutral by 2040
+      - Carbon Neutral by 2050
+      - Climate Positive
+      - Other Timeline
+      required: true
+    - id: 27
+      name: investments
+      label: Willing to Invest in Sustainability Improvements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 28
+      name: support_section
+      label: -- Support and Collaboration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: support_type
+      label: What Type of Support Would Be Most Helpful?
+      hint: null
+      type: select_multiple
+      options:
+      - Technical Guidance
+      - Financial Incentives
+      - Training and Education
+      - Networking with Other Properties
+      - Carbon Offset Programs
+      - Green Marketing Support
+      - Certification Support
+      - Other
+      required: false
+    - id: 30
+      name: additional_info
+      label: Additional Information or Commitments
+      hint: null
+      type: text
+      options: []
+      required: false

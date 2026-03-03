@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Vendor Access Form
+    pages:
+    - id: 1
+      name: third_party_vendor_access_form_1_page
+      label: Third Party Vendor Access Form 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: Enter contact information for the vendor
+      type: select_multiple
+      options:
+      - Vendor Manager
+      - Vendor Contact
+      - Account Owner
+      required: false
+    - id: 3
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 4
+      name: access_expiration_date
+      label: Access Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_expiration_time
+      label: Access Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 11
+      name: notes_for_assigned_tool
+      label: Notes for Assigned Tool
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

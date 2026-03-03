@@ -1,0 +1,374 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Management Cloud Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Building Management Cloud Registration --
+      hint: Register your property for cloud-based management
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Property manager or owner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: manager_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_name
+      label: Property name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_state_zip
+      label: City, state, and ZIP code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Multi-family apartment
+      - Office building
+      - Commercial retail
+      - Industrial facility
+      - Mixed-use building
+      - Government building
+      - Educational facility
+      - Healthcare facility
+      - Other
+      required: true
+    - id: 12
+      name: property_size
+      label: Total square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_units
+      label: Number of units or spaces (if applicable)
+      hint: Apartments, offices, etc.
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: year_built
+      label: Year built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: management_setup
+      label: -- Current Management Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_systems
+      label: Current management systems in use
+      hint: null
+      type: select_multiple
+      options:
+      - Spreadsheets
+      - Dedicated property software
+      - Email-based
+      - Paper-based
+      - BMS/building automation
+      - Mobile apps
+      - Custom system
+      - None - starting fresh
+      required: true
+    - id: 17
+      name: staff_count
+      label: Management staff count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: management_needs
+      label: -- Management Needs and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pain_points
+      label: Current pain points or challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Data scattered across systems
+      - Manual reporting is time-consuming
+      - Lack of real-time visibility
+      - Difficulty tracking maintenance
+      - Poor communication with tenants
+      - Inefficient work order management
+      - Compliance tracking difficult
+      - Limited access to information
+      - Slow response times
+      - Other
+      required: true
+    - id: 20
+      name: primary_goals
+      label: Primary goals for cloud management
+      hint: null
+      type: select_multiple
+      options:
+      - Centralize property data
+      - Improve operational efficiency
+      - Better maintenance tracking
+      - Tenant communication
+      - Financial management
+      - Compliance and reporting
+      - Remote access capability
+      - Automate workflows
+      - Reduce costs
+      - Improved decision-making
+      required: true
+    - id: 21
+      name: service_interests
+      label: -- Service and Feature Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: interested_features
+      label: Services and features of interest
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance management
+      - Work order tracking
+      - Tenant portal
+      - Financial tracking
+      - Lease management
+      - Document management
+      - Mobile app
+      - Reporting and analytics
+      - Integration with other systems
+      - API access
+      - Mobile inspections
+      - Preventive maintenance scheduling
+      required: true
+    - id: 23
+      name: integration_needs
+      label: Need to integrate with existing systems
+      hint: null
+      type: select_one
+      options:
+      - Yes - critical
+      - Yes - helpful
+      - Maybe
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: integration_systems
+      label: Systems needing integration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_access
+      label: -- User Access and Team --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: primary_user
+      label: Primary user name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: primary_user_email
+      label: Primary user email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 28
+      name: additional_users
+      label: Number of additional users needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: user_roles
+      label: Types of user roles needed
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Manager
+      - Maintenance staff
+      - Tenant
+      - Accountant
+      - Read-only
+      - Other
+      required: false
+    - id: 30
+      name: implementation
+      label: -- Implementation and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: timeline_preference
+      label: Preferred implementation timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 2 weeks
+      - Quick - within 1 month
+      - Standard - 1-3 months
+      - Flexible - no specific timeline
+      required: true
+    - id: 32
+      name: training_needs
+      label: Training and support needed
+      hint: null
+      type: select_multiple
+      options:
+      - On-site training
+      - Remote training
+      - Video tutorials
+      - Documentation
+      - Dedicated support person
+      - 24/7 support
+      - Other
+      required: false
+    - id: 33
+      name: data_migration
+      label: Need help migrating existing data
+      hint: null
+      type: select_one
+      options:
+      - Yes, full migration help
+      - Yes, partial help
+      - No, will handle internally
+      - Unsure
+      required: false
+    - id: 34
+      name: budget_range
+      label: -- Budget and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: budget_info
+      label: Budget range for cloud management
+      hint: null
+      type: select_one
+      options:
+      - Under 500/month
+      - 500-1000/month
+      - 1000-5000/month
+      - 5000+/month
+      - Flexible
+      - Undecided
+      required: false
+    - id: 36
+      name: roi_expectations
+      label: Expected ROI or benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: compliance_requirements
+      label: -- Compliance and Security --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: compliance_needs
+      label: Compliance requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Data privacy (GDPR, CCPA)
+      - Industry specific
+      - SOC 2 certification
+      - HIPAA
+      - None specific
+      - Unsure
+      required: false
+    - id: 39
+      name: security_concerns
+      label: Security and data protection concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_info
+      label: Additional information or comments
+      hint: null
+      type: text
+      options: []
+      required: false

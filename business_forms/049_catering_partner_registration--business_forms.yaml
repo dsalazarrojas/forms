@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Partner Registration
+    pages:
+    - id: 1
+      name: business_basics_header
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_title
+      label: Contact Person and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_address_full
+      label: Primary Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_bus
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone_bus
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_compliance
+      label: -- Compliance and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: food_handler_license_num
+      label: Food Handler/Catering License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: liability_insurance_provider
+      label: Liability Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_coverage_amt
+      label: Coverage Amount (General Liability)
+      hint: e.g. 1 Million
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: health_dept_permit_exp
+      label: Health Department Permit Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_capability
+      label: -- Service Capability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_cuisine_styles
+      label: Primary Cuisine Styles
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Continental
+      - Asian
+      - Latin/Hispanic
+      - American/BBQ
+      - Fusion
+      - Specialty/Health-focused
+      required: true
+    - id: 14
+      name: maximum_guest_capacity
+      label: Maximum Guest Capacity for Single Event
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: transportation_owned
+      label: Do you own refrigerated transport
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - No - We rent/contract
+      required: true
+    - id: 16
+      name: references_summary
+      label: Professional References
+      hint: List 2 names and contact numbers
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: partner_agreement_ack
+      label: I agree to follow the partner code of conduct and safety standards
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: registrant_signature
+      label: Registrant Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

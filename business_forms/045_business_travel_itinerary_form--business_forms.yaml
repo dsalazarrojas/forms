@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Itinerary Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of traveler
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Your direct manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trip_purpose
+      label: Trip Purpose
+      hint: Why are you traveling
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: trip_start_date
+      label: Trip Start Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: trip_end_date
+      label: Trip End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: primary_destination
+      label: Primary Destination
+      hint: Main city or location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_destinations
+      label: Additional Destinations
+      hint: Other cities to visit
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: departure_city
+      label: Departure City
+      hint: Where you're leaving from
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: flight_departure_date
+      label: Flight Departure Date
+      hint: Date of outbound flight
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: flight_departure_time
+      label: Flight Departure Time
+      hint: Time of departure
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: airline_name
+      label: Airline Name
+      hint: Which airline
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: flight_number
+      label: Flight Number
+      hint: Outbound flight number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: flight_return_date
+      label: Return Flight Date
+      hint: Date of return flight
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: flight_return_time
+      label: Return Flight Time
+      hint: Time of return flight
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: return_flight_number
+      label: Return Flight Number
+      hint: Return flight number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hotel_name
+      label: Hotel Name
+      hint: Lodging accommodation
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: hotel_address
+      label: Hotel Address
+      hint: Complete hotel address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hotel_phone
+      label: Hotel Phone Number
+      hint: Hotel contact number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: check_in_date
+      label: Check-in Date
+      hint: Hotel check-in date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: check_out_date
+      label: Check-out Date
+      hint: Hotel check-out date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: daily_activities
+      label: Daily Activities and Schedule
+      hint: Planned meetings and activities
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact Person
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: special_requirements
+      label: Special Requirements or Needs
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: itinerary_submission_date
+      label: Itinerary Submission Date
+      hint: Date submitted to manager
+      type: date
+      options: []
+      required: true

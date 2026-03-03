@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call For Abstract
+    pages:
+    - id: 1
+      name: author_header
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affiliation
+      label: Organizational Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position
+      label: Position or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: abstract_header
+      label: -- Abstract Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: abstract_title
+      label: Title of Abstract
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: abstract_text
+      label: Abstract Text
+      hint: Maximum 500 words
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: keywords
+      label: Keywords
+      hint: Comma separated, up to 5 keywords
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: track_category
+      label: Track or Category
+      hint: null
+      type: select_one
+      options:
+      - Research
+      - Practice
+      - Innovation
+      - Case Study
+      - Other
+      required: true
+    - id: 14
+      name: presentation_header
+      label: -- Presentation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: presentation_format
+      label: Preferred Presentation Format
+      hint: null
+      type: select_one
+      options:
+      - Oral presentation
+      - Poster
+      - Workshop
+      - Panel discussion
+      - No preference
+      required: true
+    - id: 16
+      name: presentation_duration
+      label: Preferred Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - Other
+      required: false
+    - id: 17
+      name: audio_visual_needs
+      label: Audio-Visual Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Projector and screen
+      - Microphone
+      - Audio equipment
+      - None
+      required: false
+    - id: 18
+      name: coauthors_header
+      label: -- Co-Authors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: coauthor_names
+      label: Names of Co-Authors
+      hint: Comma separated
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agreement_header
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: confirm_original
+      label: I confirm this is original, unpublished work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: agree_to_terms
+      label: I agree to present if accepted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

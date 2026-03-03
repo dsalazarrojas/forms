@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Functional Task Request Form
+    pages:
+    - id: 1
+      name: cross_functional_task_request_form_page_1
+      label: Cross Functional Task Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cross_functional_task_request_form_page_2
+      label: Task Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

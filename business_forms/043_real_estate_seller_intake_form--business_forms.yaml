@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Seller Intake Form
+    pages:
+    - id: 1
+      name: real_estate_seller_intake_form_page_1
+      label: real_estate_seller
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''single_family''}'
+      - '{''value'': ''multi_family''}'
+      - '{''value'': ''commercial''}'
+      required: false
+    - id: 5
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''sold''}'
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_address_2
+      label: property_address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_city
+      label: property_city
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''new_york''}'
+      - '{''value'': ''san_francisco''}'
+      - '{''value'': ''los_angeles''}'
+      required: false
+    - id: 12
+      name: property_state
+      label: property_state
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ca''}'
+      - '{''value'': ''ny''}'
+      - '{''value'': ''tx''}'
+      required: false
+    - id: 13
+      name: property_zip
+      label: property_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: property_sqft
+      label: property_sqft
+      hint: null
+      type: number
+      options: []
+      required: false

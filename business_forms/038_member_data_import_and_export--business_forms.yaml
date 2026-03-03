@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Data Import And Export
+    pages:
+    - id: 1
+      name: member_data_import
+      label: Member Data Import
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: member_data_export
+      label: Member Data Export
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: export_format
+      label: Export Format
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - JSON
+      required: false
+    - id: 4
+      name: file_path
+      label: File Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_source
+      label: Data Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: import_method
+      label: Import Method
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Auto
+      required: false
+    - id: 7
+      name: import_frequency
+      label: Import Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: data_columns
+      label: Data Columns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_format
+      label: Data Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: import_date
+      label: Import Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: export_date
+      label: Export Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: export_time
+      label: Export Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: member_notes
+      label: Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 17
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - JSON
+      required: false
+    - id: 18
+      name: import_method_status
+      label: Import Method Status
+      hint: null
+      type: select_one
+      options:
+      - Success
+      - Error
+      required: false

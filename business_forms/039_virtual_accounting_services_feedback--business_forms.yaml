@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Accounting Services Feedback
+    pages:
+    - id: 1
+      name: business_form
+      label: Accounting Services Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Financial Planning
+      - Tax Planning
+      - Audit and Accounting Services
+      - Accounting and.reporting
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Joe
+      - Jane
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false

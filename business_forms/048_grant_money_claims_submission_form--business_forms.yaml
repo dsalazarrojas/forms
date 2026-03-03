@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grant Money Claims Submission Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Submission Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

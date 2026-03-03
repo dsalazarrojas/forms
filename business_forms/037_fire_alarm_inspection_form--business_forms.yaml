@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Inspection Form
+    pages:
+    - id: 1
+      name: fire_alarm_inspection
+      label: fire_alarm_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_info
+      label: building_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fire_alarm_system_info
+      label: fire_alarm_system_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_alarm_inspection_result
+      label: fire_alarm_inspection_result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

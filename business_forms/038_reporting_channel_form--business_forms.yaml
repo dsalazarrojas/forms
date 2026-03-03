@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: reporting_channel_form
+    pages:
+    - id: 1
+      name: reporting_channel
+      label: Reporting Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_channel_id
+      label: Reporting Channel ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reporting_channel_type
+      label: Reporting Channel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 5
+      name: reporting_channel_email
+      label: Reporting Channel Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: reporting_channel_phone
+      label: Reporting Channel Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bug''}'
+      - '{''value'': ''feature''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_reported_by
+      label: Issue Reported By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: issue_reported
+      label: Issue Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''new''}'
+      - '{''value'': ''in_progress''}'
+      - '{''value'': ''done''}'
+      required: false
+    - id: 12
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''low''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''high''}'
+      required: false
+    - id: 13
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_comments
+      label: Issue Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: issue_attachments
+      label: Issue Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reporting_channel_other
+      label: Reporting Channel Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issue_attachment_url
+      label: Issue Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_attachment_filename
+      label: Issue Attachment Filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issue_attachment_type
+      label: Issue Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''image''}'
+      - '{''value'': ''document''}'
+      - '{''value'': ''audio''}'
+      required: false
+    - id: 20
+      name: issue_attachment_data
+      label: Issue Attachment Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reporting_channel_other_other
+      label: Reporting Channel Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reporting_channel_other_other_other
+      label: Reporting Channel Other Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_comments_other
+      label: Issue Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issue_comments_other_other
+      label: Issue Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: issue_comments_other_other_other
+      label: Issue Comments Other Other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_purchase_approval_form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_contact_name
+      label: Owner Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Land
+      - Other
+      required: false
+    - id: 4
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Cheque
+      - Online Banking
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: realtor_fee
+      label: Realtor Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Inactive
+      required: false

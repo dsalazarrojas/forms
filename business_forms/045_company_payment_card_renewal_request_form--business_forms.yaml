@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Payment Card Renewal Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Name on the card
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: card_number_last4
+      label: Card last 4 digits
+      hint: For identification of card to renew
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_renewal
+      label: Reason for renewal
+      hint: Lost, expired, damaged, other
+      type: select_one
+      options:
+      - Expired
+      - Damaged
+      - Lost
+      - Change of employee
+      required: true
+    - id: 4
+      name: requested_limit
+      label: Requested card limit
+      hint: New proposed limit if applicable
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manager_approval
+      label: Manager approval name
+      hint: Approval required for renewal
+      type: text
+      options: []
+      required: true

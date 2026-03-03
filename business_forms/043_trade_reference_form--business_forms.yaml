@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Reference Form
+    pages:
+    - id: 1
+      name: trade_reference_form
+      label: trade_reference_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trade_reference_form_business
+      label: Trade Reference Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reference_id
+      label: reference_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference_type
+      label: Reference Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_status
+      label: Reference Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

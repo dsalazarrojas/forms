@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overbooking Complaint Form
+    pages:
+    - id: 1
+      name: overbooking_complaint_form
+      label: Overbooking Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_service
+      label: complaint_service
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 4
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: complaint_status
+      label: complaint_status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      required: false
+    - id: 8
+      name: complaint_date
+      label: complaint_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_by
+      label: follow_up_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resolution_notes
+      label: resolution_notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Transfer Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Who is requesting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_id
+      label: Requester ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assignment_title
+      label: Assignment Title
+      hint: Name of task
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_id
+      label: Assignment ID
+      hint: Task identifier
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assignment_description
+      label: Assignment Description
+      hint: What is the task
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_assignee
+      label: Current Assignee
+      hint: Who has it now
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: proposed_new_assignee
+      label: Proposed New Assignee
+      hint: Who should take over
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_assignee_department
+      label: New Assignee Department
+      hint: Their department
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_assignee_email
+      label: New Assignee Email
+      hint: Their email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: transfer_reason
+      label: Reason for Transfer
+      hint: Why transfer
+      type: select_one
+      options:
+      - Workload Redistribution
+      - Employee Leaving
+      - Skill Set Match
+      - Priority Change
+      - Department Reorganization
+      - Employee Request
+      - Management Decision
+      - Other
+      required: true
+    - id: 15
+      name: transfer_details
+      label: Detailed Explanation
+      hint: Describe reason
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: transfer_type
+      label: Transfer Type
+      hint: Permanent or temporary
+      type: select_one
+      options:
+      - Permanent Transfer
+      - Temporary - Coverage
+      - Temporary - Training
+      - Shared Responsibility
+      required: true
+    - id: 17
+      name: transfer_duration
+      label: Transfer Duration
+      hint: If temporary
+      type: select_one
+      options:
+      - Permanent
+      - Less than 1 week
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 3 months
+      - Over 3 months
+      required: true
+    - id: 18
+      name: expected_return_date
+      label: Expected Return to Original Assignee
+      hint: If temporary
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assignment_priority
+      label: Assignment Priority
+      hint: How urgent
+      type: select_one
+      options:
+      - High - Urgent
+      - Medium - Standard
+      - Low - Can Wait
+      required: true
+    - id: 20
+      name: assignment_deadline
+      label: Assignment Deadline
+      hint: When due
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: current_status
+      label: Current Assignment Status
+      hint: Progress state
+      type: select_one
+      options:
+      - Not Started
+      - In Progress - 0-25%
+      - In Progress - 26-50%
+      - In Progress - 51-75%
+      - In Progress - 76-99%
+      - Pending Review
+      required: true
+    - id: 22
+      name: work_completed_summary
+      label: Summary of Work Completed
+      hint: What is done
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: remaining_work
+      label: Description of Remaining Work
+      hint: What is left
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: documents_to_transfer
+      label: Documents to Transfer
+      hint: Files and resources
+      type: select_multiple
+      options:
+      - Project Files
+      - Documentation
+      - Client Communications
+      - Research Data
+      - Code Repository Access
+      - Login Credentials
+      - None
+      required: true
+    - id: 25
+      name: knowledge_transfer_needed
+      label: Is Knowledge Transfer Needed
+      hint: Training required
+      type: select_one
+      options:
+      - Yes - Formal Handover Meeting
+      - Yes - Documentation Review
+      - Yes - Shadowing Period
+      - No - Self Explanatory
+      required: true
+    - id: 26
+      name: handover_meeting_date
+      label: Proposed Handover Meeting Date
+      hint: When to meet
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: requester_manager_approval
+      label: Requester Manager Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 28
+      name: new_assignee_manager_approval
+      label: New Assignee Manager Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 29
+      name: new_assignee_acceptance
+      label: Does New Assignee Accept
+      hint: Agreement to take
+      type: select_one
+      options:
+      - Yes - Accepted
+      - No - Declined
+      - Pending Review
+      required: true
+    - id: 30
+      name: transfer_effective_date
+      label: Transfer Effective Date
+      hint: When it happens
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: requester_signature
+      label: Requester Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

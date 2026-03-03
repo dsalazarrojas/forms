@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Product Distributor Application Form
+    pages:
+    - id: 1
+      name: company_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_registration
+      label: Business Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: company_phone
+      label: Company Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_type_header
+      label: -- Business Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Wholesale
+      - Online
+      - Salon/Spa
+      - Department Store
+      - Pharmacy
+      - Other
+      required: true
+    - id: 9
+      name: years_operating
+      label: Years in Operation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_customers
+      label: Current Customer Base Size
+      hint: Approximate number
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: market_coverage
+      label: Geographic Market Coverage
+      hint: Cities, states, or countries
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location_header
+      label: -- Business Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: headquarters_address
+      label: Headquarters Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state_country
+      label: State/Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: warehouse_locations
+      label: Warehouse or Distribution Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: distribution_header
+      label: -- Distribution Capacity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: order_frequency
+      label: Estimated Order Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-monthly
+      - Quarterly
+      - As Needed
+      required: true
+    - id: 19
+      name: order_volume
+      label: Estimated Monthly Order Volume
+      hint: Units or dollars
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Online, retail stores, salons, etc.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: experience_header
+      label: -- Beauty Industry Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: beauty_industry_experience
+      label: Beauty Industry Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_brands
+      label: Current Brand Portfolio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: sales_staff
+      label: Sales Staff Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: finance_header
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: annual_revenue
+      label: Approximate Annual Revenue
+      hint: null
+      type: select_one
+      options:
+      - Under 100k
+      - 100k-500k
+      - 500k-1m
+      - 1m-5m
+      - 5m+
+      required: true
+    - id: 27
+      name: credit_references
+      label: Banking and Credit References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: agreement
+      label: I Agree to Distributor Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Date Calculation Form
+    pages:
+    - id: 1
+      name: date1
+      label: date1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: date2
+      label: date2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: calculation_type
+      label: calculation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Days between''}'
+      - '{''text'': ''Plus''}'
+      - '{''text'': ''Minus''}'
+      required: false
+    - id: 4
+      name: calculate
+      label: calculate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: result
+      label: result
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date1_label
+      label: date1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date2_label
+      label: date2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: result_label
+      label: result_label
+      hint: null
+      type: text
+      options: []
+      required: false

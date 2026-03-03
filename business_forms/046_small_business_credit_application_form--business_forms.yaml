@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_business_credit_application_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: owner_phone_number
+      label: Owner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: owner_dob
+      label: Owner's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: owner_ss_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: bank_routing_number
+      label: Bank Routing Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: business_years_in_industry
+      label: Business Years in Industry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: owner_employer_id
+      label: Owner's Employer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: owner_credit_score
+      label: Owner Credit Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bank_account_holder
+      label: Bank Account Holder
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Business Name
+      required: false
+    - id: 22
+      name: bank_account_type
+      label: Bank Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      required: false
+    - id: 23
+      name: owner_credit_authorized
+      label: Owner Credit Authorized
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: owner_employment_status
+      label: Owner Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self Employed
+      - Retired
+      required: true
+    - id: 25
+      name: owner_income
+      label: Owner Income
+      hint: null
+      type: number
+      options: []
+      required: true

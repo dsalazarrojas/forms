@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enablement Partner Contact Form
+    pages:
+    - id: 1
+      name: enablement_partner_contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: enablement_partner
+      label: Enablement Partner
+      hint: null
+      type: select_one
+      options:
+      - Partner 1
+      - Partner 2
+      - Partner 3
+      required: false
+    - id: 7
+      name: enablement_partner_other
+      label: Other (if not listed)
+      hint: If the enablement partner is not listed, enter the partner name here.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Support
+      - Other
+      required: false
+    - id: 9
+      name: inquiry_description
+      label: Description of Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

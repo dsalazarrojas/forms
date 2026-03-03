@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: fuels_and_emissions_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Truck''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_fuel_type
+      label: Vehicle Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Petrol''}'
+      - '{''id'': 2, ''label'': ''Diesel''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: vehicle_fuel_consumption
+      label: Vehicle Fuel Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Petrol''}'
+      - '{''id'': 2, ''label'': ''Diesel''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: fuel_consumption
+      label: Fuel Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: emissions
+      label: Emissions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_name_2
+      label: Company Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

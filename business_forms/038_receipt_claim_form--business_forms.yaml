@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receipt Claim Form
+    pages:
+    - id: 1
+      name: receipt_claim_form_business_forms
+      label: receipt_claim_form_business_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: receipt_date
+      label: receipt_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

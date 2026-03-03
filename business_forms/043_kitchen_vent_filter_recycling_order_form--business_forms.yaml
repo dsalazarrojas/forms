@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Vent Filter Recycling Order Form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: filter_model
+      label: Filter Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: filter_size
+      label: Filter Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: filter_materials
+      label: Filter Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_weight
+      label: Total Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

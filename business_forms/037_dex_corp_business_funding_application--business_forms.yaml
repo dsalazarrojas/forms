@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: dex_corp_business_funding_application
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_website
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_owner_name
+      label: business_owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_owner_email
+      label: business_owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: business_owner_phone
+      label: business_owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_owner_website
+      label: business_owner_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_multiple
+      options:
+      - Retail
+      - Service
+      - Manufacturing
+      - Technology
+      - Other
+      required: false
+    - id: 10
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: funding_amount
+      label: funding_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: funding_term
+      label: funding_term
+      hint: null
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      required: false
+    - id: 13
+      name: business_description
+      label: business_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: funding_source
+      label: funding_source
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Investor
+      - Friend
+      - Family
+      required: false
+    - id: 15
+      name: bank_name
+      label: bank_name
+      hint: null
+      type: text
+      options: []
+      required: false

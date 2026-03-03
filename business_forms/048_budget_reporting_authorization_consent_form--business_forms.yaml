@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Reporting Authorization Consent Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_access_type
+      label: Type of Budget Reports to Access
+      hint: null
+      type: select_one
+      options:
+      - View Own Department Budget
+      - View Multiple Departments
+      - View All Company Budgets
+      - Management and Approvals
+      - Executive Dashboard
+      required: true
+    - id: 8
+      name: data_sensitivity
+      label: Acknowledge Data Sensitivity Level
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Internal Use Only
+      - Confidential
+      - Highly Confidential
+      required: true
+    - id: 9
+      name: confidentiality_agreement
+      label: Confidentiality Agreement Understood
+      hint: Will keep data confidential
+      type: select_one
+      options:
+      - Yes, understood
+      - No, need clarification
+      required: true
+    - id: 10
+      name: authorized_use_only
+      label: Agree to Authorized Use Only
+      hint: Will only use for job-related purposes
+      type: select_one
+      options:
+      - Yes, agree
+      - false
+      required: true
+    - id: 11
+      name: no_sharing_clause
+      label: No Sharing or Distribution Clause
+      hint: Will not share with unauthorized parties
+      type: select_one
+      options:
+      - Yes, understood
+      - false
+      required: true
+    - id: 12
+      name: approval_authority
+      label: Manager Approval for Access
+      hint: Manager has authorized this access
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not applicable
+      required: true
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_completed
+      label: Budget Reporting Training Completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed
+      - Scheduled
+      - Not required
+      required: true
+    - id: 15
+      name: security_practices
+      label: Agree to Security Best Practices
+      hint: Password protection, logout, etc
+      type: select_one
+      options:
+      - Yes, agree
+      - false
+      required: true
+    - id: 16
+      name: audit_acknowledgment
+      label: Acknowledge Access Will Be Audited
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - false
+      required: true
+    - id: 17
+      name: consent_signature_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

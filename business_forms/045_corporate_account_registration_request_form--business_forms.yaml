@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Account Registration Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - Corporate
+      - Partnership
+      - LLC
+      required: false
+    - id: 8
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 11
+      name: company_sector
+      label: Company Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Data Analytics Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_organization
+      label: Contact Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_analytics
+      label: Contact Analytics
+      hint: null
+      type: select_one
+      options:
+      - Analytics Partner A
+      - Analytics Partner B
+      - Analytics Partner C
+      required: false
+    - id: 8
+      name: contact_preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 9
+      name: contact_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

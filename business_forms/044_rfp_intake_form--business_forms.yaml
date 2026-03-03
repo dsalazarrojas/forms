@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: RFP Intake Form
+    pages:
+    - id: 1
+      name: rfp_bid_no_bid_general_review_form
+      label: rfp_bid_no_bid_general_review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone_number
+      label: contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rfp_number
+      label: rfp_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: bid_or_no_bid
+      label: bid_or_no_bid
+      hint: null
+      type: select_one
+      options:
+      - No Bid
+      - Bid
+      required: false
+    - id: 8
+      name: general_review
+      label: general_review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: review_type
+      label: review_type
+      hint: null
+      type: select_one
+      options:
+      - Review
+      - Bid and Review
+      required: false
+    - id: 10
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false

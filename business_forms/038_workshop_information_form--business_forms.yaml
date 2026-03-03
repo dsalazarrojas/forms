@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Information Form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Enter the name of the workshop.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_type
+      label: Type of Workshop
+      hint: null
+      type: select_one
+      options:
+      - Presentation
+      - Training
+      - Workshop
+      required: false
+    - id: 4
+      name: workshop_start_time
+      label: Workshop Start Time
+      hint: "Enter time in 24 hour format (HH:MM)"
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: workshop_end_time
+      label: Workshop End Time
+      hint: "Enter time in 24 hour format (HH:MM)"
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer
+      label: Event Organizer
+      hint: Enter the name of the event organizer.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: Enter phone number of event organizer.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Content Request Form
+    pages:
+    - id: 1
+      name: website_manager_name
+      label: Website Manager Name
+      hint: Name of the website manager requesting the content
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: content_type
+      label: Content Type
+      hint: Type of content being requested
+      type: select_one
+      options:
+      - text
+      - image
+      - video
+      - audio
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Description of the content
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: Phone number and email address of the website manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: Date the content is needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

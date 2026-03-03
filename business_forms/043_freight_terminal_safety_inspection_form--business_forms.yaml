@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: freight_terminal_safety_inspection_form
+    pages:
+    - id: 1
+      name: terminal_info
+      label: terminal_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: terminal_name
+      label: terminal_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_info
+      label: inspector_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sections_to_inspect
+      label: sections_to_inspect
+      hint: null
+      type: select_multiple
+      options:
+      - Yard Area
+      - Terminal Operations
+      - Terminal Equipment
+      - Terminal Access
+      - Security
+      required: false
+    - id: 6
+      name: section_inspection_status
+      label: section_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      required: false
+    - id: 7
+      name: observation_and_comments
+      label: observation_and_comments
+      hint: Please provide any observations or comments regarding the inspection.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: terminal_inspector
+      label: terminal_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: terminal_signature
+      label: terminal_signature
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: eco_logistics_certification_registration_form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: eco_practice_description
+      label: Eco Practice Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

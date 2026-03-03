@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_planning_review_report_form
+    pages:
+    - id: 1
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: review_location
+      label: review_location
+      hint: null
+      type: text
+      options: []
+      required: false

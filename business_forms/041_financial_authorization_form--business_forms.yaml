@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_authorization_form
+    pages:
+    - id: 1
+      name: transaction_type
+      label: transaction_type
+      hint: null
+      type: select_one
+      options:
+      - transaction_type
+      - transaction_type
+      - transaction_type
+      required: false
+    - id: 2
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false

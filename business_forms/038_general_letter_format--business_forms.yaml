@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Letter Format
+    pages:
+    - id: 1
+      name: form_letter
+      label: Form Letter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_written
+      label: Date Written
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: salutation
+      label: Salutation
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Ms.
+      - Dr.
+      - Prof.
+      - Hon.
+      - Sir
+      - Madam
+      - Other
+      required: false
+    - id: 5
+      name: salutation_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_received
+      label: Name Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: body
+      label: Body
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - docx
+      - doc
+      - xls
+      - csv
+      - txt
+      - other
+      required: false
+    - id: 19
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: uploaded_date
+      label: Uploaded Date
+      hint: null
+      type: date
+      options: []
+      required: false

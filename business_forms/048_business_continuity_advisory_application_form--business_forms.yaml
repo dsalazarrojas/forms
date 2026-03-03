@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Advisory Application Form
+    pages:
+    - id: 1
+      name: organization_info
+      label: Organization Information
+      hint: Your business details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Energy
+      - Transportation
+      - Government
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - More than 1000 employees
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$10M
+      - $10M-$50M
+      - $50M-$100M
+      - More than $100M
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: continuity_status
+      label: Continuity Status
+      hint: Current state of continuity planning
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_plan
+      label: Do You Have a Continuity Plan
+      hint: Current planning status
+      type: select_one
+      options:
+      - Yes - Comprehensive
+      - Yes - Basic
+      - In Progress
+      - No - Need Help
+      required: true
+    - id: 13
+      name: last_review
+      label: When Was Plan Last Reviewed
+      hint: Date of last review
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: plan_gaps
+      label: Known Plan Gaps
+      hint: What areas need improvement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: advisory_needs
+      label: Advisory Needs
+      hint: What help do you need
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_need
+      label: Primary Need
+      hint: Main reason for seeking advisory
+      type: select_one
+      options:
+      - Plan Development
+      - Plan Review
+      - Risk Assessment
+      - Testing and Exercises
+      - Training
+      - Compliance
+      - Crisis Management
+      - Other
+      required: true
+    - id: 17
+      name: specific_challenges
+      label: Specific Challenges
+      hint: What challenges do you face
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: risk_concerns
+      label: Top Risk Concerns
+      hint: What risks worry you most
+      type: select_multiple
+      options:
+      - Natural Disasters
+      - Cyber Attacks
+      - Supply Chain Disruption
+      - Pandemic
+      - Power Outages
+      - Data Loss
+      - Key Personnel Loss
+      - Regulatory Changes
+      - Other
+      required: true
+    - id: 19
+      name: regulatory_requirements
+      label: Regulatory Requirements
+      hint: Are there compliance requirements
+      type: select_one
+      options:
+      - Yes - Strict Requirements
+      - Yes - Some Requirements
+      - No - Voluntary
+      - Not Sure
+      required: true
+    - id: 20
+      name: timeline
+      label: Timeline
+      hint: When do you need help
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Planning Ahead
+      required: true
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: Expected investment
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,000-$100,000
+      - $100,000-$250,000
+      - More than $250,000
+      - Not Determined
+      required: false
+    - id: 22
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who should be involved
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_incidents
+      label: Previous Disruption Incidents
+      hint: Have you experienced disruptions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

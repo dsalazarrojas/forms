@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Utilization Report Form
+    pages:
+    - id: 1
+      name: raw_material_utilization_report_form
+      label: Material Utilization Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_category_id
+      label: Category
+      hint: Select material category
+      type: select_one
+      options:
+      - Material A
+      - Material B
+      - Material C
+      required: false
+    - id: 3
+      name: material_type_id
+      label: Material Type
+      hint: Select material type
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 4
+      name: production_details
+      label: Production Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: material_used
+      label: Material Used
+      hint: Enter material quantity
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wastage_amount
+      label: Wastage Amount
+      hint: Enter wastage amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

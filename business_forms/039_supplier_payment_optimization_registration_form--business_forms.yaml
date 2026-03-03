@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Payment Optimization Registration Form
+    pages:
+    - id: 1
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Check
+      - Wire Transfer
+      - Online Payment Portal
+      required: false
+    - id: 3
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_status
+      label: Supplier Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Bi-Weekly
+      - Monthly
+      required: false

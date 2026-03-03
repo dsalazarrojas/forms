@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_data_accuracy_report_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_discrepancy_type
+      label: Discrepancy Type
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: severity_rating
+      label: Severity Rating
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Moderate
+      - Minor
+      required: false
+    - id: 4
+      name: data_discrepancy_description
+      label: Data Discrepancy Description
+      hint: Please describe the discrepancy.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evidence_attachment
+      label: Evidence Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 8
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_completed_date
+      label: Form Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false

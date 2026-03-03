@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: trading_plan_form
+    pages:
+    - id: 1
+      name: trading_plan_form
+      label: Trading Plan Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trading_behavior
+      label: Trading Behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: profit_goal
+      label: Profit Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: investment_strategy
+      label: Investment Strategy
+      hint: null
+      type: select_one
+      options:
+      - Select one
+      - Other
+      required: false
+    - id: 7
+      name: asset_allocation
+      label: Asset Allocation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_free_rate
+      label: Risk Free Rate
+      hint: null
+      type: number
+      options: []
+      required: false

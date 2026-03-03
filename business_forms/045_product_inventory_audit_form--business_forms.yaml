@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_inventory_audit_form
+    pages:
+    - id: 1
+      name: product_inventory
+      label: Product_Inventory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_level
+      label: Inventory_Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: last_audit_date
+      label: Last_Audit_Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: audit_frequency
+      label: Audit_Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: audit_method
+      label: Audit_Method
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Count
+      - Cycle Count
+      - Periodic Count
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

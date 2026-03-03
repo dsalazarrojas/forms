@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Project Assessment
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_number
+      label: Project Number
+      hint: Reference code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Institutional
+      - Mixed-use
+      - Other
+      required: true
+    - id: 6
+      name: section_scope
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_area_sf
+      label: Total Project Area (Square Feet)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: scope_description
+      label: Scope of Work Description
+      hint: What work is included?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_phases
+      label: Number of Project Phases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_budget
+      label: -- Budget Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: estimated_budget
+      label: Estimated Project Budget
+      hint: Total project cost
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: design_budget
+      label: Design Budget
+      hint: Architecture and engineering costs
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: construction_budget
+      label: Construction Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contingency_percentage
+      label: Contingency Percentage
+      hint: Percentage for unexpected costs
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: project_end_date
+      label: Project End Date
+      hint: Expected completion
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: design_duration_weeks
+      label: Design Duration (Weeks)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: construction_duration_weeks
+      label: Construction Duration (Weeks)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_team
+      label: -- Team Composition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: architect_firm
+      label: Architect Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: key_consultants
+      label: Key Consultants (if any)
+      hint: Structural, MEP, etc
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

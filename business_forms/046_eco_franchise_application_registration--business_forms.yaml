@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Franchise Application Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sustainability_experience
+      label: Sustainability Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_model
+      label: Business Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: franchise_fee
+      label: Franchise Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: franchise_fee_frequency
+      label: Franchise Fee Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: franchise_fee_status
+      label: Franchise Fee Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
+      name: franchise_fee_notes
+      label: Franchise Fee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: franchise_fee_date
+      label: Franchise Fee Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: franchise_fee_time
+      label: Franchise Fee Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: franchise_fee_amount
+      label: Franchise Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: franchise_fee_currency
+      label: Franchise Fee Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 16
+      name: franchise_fee_terms
+      label: Franchise Fee Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Lease Renewal Form
+    pages:
+    - id: 1
+      name: renewal_request_date
+      label: Renewal Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tenant_name
+      label: Tenant Full Name
+      hint: Primary tenant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: tenant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: additional_tenants
+      label: Additional Tenants
+      hint: Other occupants
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Rental Property Address
+      hint: Current apartment address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: unit_number
+      label: Unit Number
+      hint: Apartment number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_lease_start
+      label: Current Lease Start Date
+      hint: When did current lease begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_lease_end
+      label: Current Lease End Date
+      hint: When does current lease end
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_monthly_rent
+      label: Current Monthly Rent
+      hint: Current rent amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: renewal_intent
+      label: Do you intend to renew
+      hint: Your intention
+      type: select_one
+      options:
+      - Yes, definitely renew
+      - Yes, likely to renew
+      - Undecided
+      - Probably not renew
+      - No, will not renew
+      required: true
+    - id: 12
+      name: preferred_lease_term
+      label: Preferred Lease Term
+      hint: Length of new lease
+      type: select_one
+      options:
+      - 6 months
+      - 9 months
+      - 12 months
+      - 18 months
+      - 24 months
+      - Month-to-month
+      - Other
+      required: true
+    - id: 13
+      name: proposed_move_in_date
+      label: Proposed Renewal Start Date
+      hint: When should new lease begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: rent_increase_acceptable
+      label: What rent increase is acceptable
+      hint: Maximum percentage
+      type: select_one
+      options:
+      - No increase
+      - Up to 3 percent
+      - Up to 5 percent
+      - Up to 7 percent
+      - Up to 10 percent
+      - Market rate
+      - Other
+      required: true
+    - id: 15
+      name: desired_changes
+      label: Desired Changes to Lease
+      hint: What would you like changed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: requested_improvements
+      label: Requested Improvements
+      hint: Upgrades or repairs needed
+      type: select_multiple
+      options:
+      - None
+      - New appliances
+      - Updated flooring
+      - Fresh paint
+      - Bathroom updates
+      - Kitchen updates
+      - HVAC upgrade
+      - Security upgrade
+      - Parking addition
+      - Storage addition
+      - Other
+      required: true
+    - id: 17
+      name: improvements_details
+      label: Improvement Details
+      hint: Describe requested improvements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: satisfaction_with_property
+      label: Satisfaction with Current Property
+      hint: Overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: satisfaction_with_management
+      label: Satisfaction with Management
+      hint: Rate property management
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 20
+      name: issues_during_lease
+      label: Did you experience any issues
+      hint: During current lease
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Moderate issues
+      - Significant issues
+      - Major issues
+      required: true
+    - id: 21
+      name: issues_description
+      label: Issues Description
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issues_resolved
+      label: Were issues resolved
+      hint: If you had issues
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, partially
+      - No, not resolved
+      - Not applicable
+      required: false
+    - id: 23
+      name: payment_history
+      label: Payment History
+      hint: Rent payment record
+      type: select_one
+      options:
+      - Always on time
+      - Occasionally late
+      - Sometimes late
+      - Frequently late
+      - Had payment issues
+      required: true
+    - id: 24
+      name: property_condition
+      label: How have you maintained the property
+      hint: Condition of unit
+      type: select_one
+      options:
+      - Excellent condition
+      - Good condition
+      - Fair condition
+      - Some damage
+      - Significant damage
+      required: true
+    - id: 25
+      name: neighbors_feedback
+      label: Any neighbor complaints
+      hint: Noise or other issues
+      type: select_one
+      options:
+      - No complaints
+      - One complaint
+      - A few complaints
+      - Multiple complaints
+      - Ongoing issues
+      required: true
+    - id: 26
+      name: pets_during_lease
+      label: Did you have pets during lease
+      hint: Pet ownership
+      type: select_one
+      options:
+      - No pets
+      - Yes, approved pets
+      - Yes, unapproved pets
+      required: true
+    - id: 27
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Parking needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: reason_for_renewing
+      label: Why do you want to renew
+      hint: Your reasons
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: reason_for_not_renewing
+      label: Why might you not renew
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: alternative_housing
+      label: Are you considering other options
+      hint: Looking elsewhere
+      type: select_one
+      options:
+      - No, committed to renewing
+      - Maybe, exploring options
+      - Yes, actively looking
+      - Yes, found alternative
+      required: true
+    - id: 31
+      name: landlord_response_needed
+      label: When do you need a response
+      hint: Deadline for decision
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: For discussion
+      type: select_one
+      options:
+      - Morning
+      - Midday
+      - Afternoon
+      - Evening
+      - Weekend
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: tenant_signature
+      label: Tenant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: landlord_section
+      label: -- For Landlord Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: renewal_approved
+      label: Renewal Approved
+      hint: Approval status
+      type: select_one
+      options:
+      - Yes, approved
+      - Approved with conditions
+      - Denied
+      - Pending review
+      required: false
+    - id: 38
+      name: new_rent_amount
+      label: New Rent Amount
+      hint: Proposed rent
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: new_lease_terms
+      label: New Lease Terms
+      hint: Any changes to terms
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: landlord_signature
+      label: Landlord Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: landlord_signature_date
+      label: Landlord Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: false

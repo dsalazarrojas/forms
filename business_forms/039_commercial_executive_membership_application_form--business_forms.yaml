@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Executive Membership Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: professional_title
+      label: Professional Title
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Current employer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_professional_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Finance
+      - Technology
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Services
+      - Government
+      - Education
+      - Other
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Experience
+      hint: Professional experience
+      type: select_one
+      options:
+      - 5-10 years
+      - 10-15 years
+      - 15-20 years
+      - 20-25 years
+      - 25+ years
+      required: true
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: Highest degree
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - MBA
+      - Doctorate
+      - Professional Certification
+      - Other
+      required: true
+    - id: 11
+      name: section_header_membership_details
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: membership_type
+      label: Membership Type
+      hint: Select membership level
+      type: select_one
+      options:
+      - Executive Member
+      - Senior Executive
+      - C-Suite Executive
+      - Corporate Executive
+      - Lifetime Executive
+      required: true
+    - id: 13
+      name: membership_reason
+      label: Reason for Applying
+      hint: Why do you want to join
+      type: select_one
+      options:
+      - Networking
+      - Professional Development
+      - Business Opportunities
+      - Industry Recognition
+      - Access to Resources
+      - Mentorship
+      - Other
+      required: true
+    - id: 14
+      name: referred_by
+      label: Referred By
+      hint: Member who referred you
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_business_info
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: true
+    - id: 17
+      name: annual_revenue
+      label: Company Annual Revenue
+      hint: Revenue range
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$10M
+      - $10M-$50M
+      - $50M-$100M
+      - $100M-$500M
+      - $500M+
+      required: true
+    - id: 18
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_professional_affiliations
+      label: -- Professional Affiliations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_memberships
+      label: Current Professional Memberships
+      hint: List other memberships
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: board_positions
+      label: Board Positions
+      hint: Current or past board roles
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certifications
+      label: Professional Certifications
+      hint: List certifications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_commitment
+      label: -- Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Willing to volunteer
+      type: select_one
+      options:
+      - Yes Very Interested
+      - Yes Somewhat
+      - Maybe
+      - false
+      required: true
+    - id: 25
+      name: committee_preference
+      label: Committee Preference
+      hint: Which committees interest you
+      type: select_multiple
+      options:
+      - Membership
+      - Programs
+      - Events
+      - Communications
+      - Government Relations
+      - Community Outreach
+      - None
+      required: false
+    - id: 26
+      name: event_attendance
+      label: Expected Event Attendance
+      hint: How many events per year
+      type: select_one
+      options:
+      - 1-5 events
+      - 6-10 events
+      - 11-15 events
+      - 16+ events
+      - As Available
+      required: true
+    - id: 27
+      name: section_header_payment
+      label: -- Membership Dues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay dues
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Wire Transfer
+      - Check
+      - Company Invoice
+      required: true
+    - id: 29
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Dues payment schedule
+      type: select_one
+      options:
+      - Annual
+      - Semi-Annual
+      - Quarterly
+      - Monthly
+      required: true
+    - id: 30
+      name: section_header_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: code_of_ethics
+      label: Code of Ethics Agreement
+      hint: I agree to abide by the code
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 32
+      name: bylaws_accepted
+      label: Bylaws Acceptance
+      hint: I have read the bylaws
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 33
+      name: background_check
+      label: Background Check Authorization
+      hint: I authorize background check
+      type: select_one
+      options:
+      - Yes I Authorize
+      - No I Do Not Authorize
+      required: true
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

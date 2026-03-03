@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Employee Timesheet Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: week_end_date
+      label: Week End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: task_name
+      label: Task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: task_start_time
+      label: Task Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: task_end_time
+      label: Task End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shift_id
+      label: Shift Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: shift_name
+      label: Shift Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: weekly_salary
+      label: Weekly Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      required: false
+    - id: 13
+      name: share_with_manager
+      label: Share With Manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

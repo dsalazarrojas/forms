@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Authorization For Earnings Calculation
+    pages:
+    - id: 1
+      name: authorization_header
+      label: -- Authorization for Earnings Calculation --
+      hint: Consent for financial assessment and income verification.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id_number
+      label: Social Security or Tax ID (Last 4 digits)
+      hint: For identity verification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address_on_file
+      label: Current Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: calculation_purpose_header
+      label: -- Purpose of Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: calculation_purpose
+      label: Purpose for Earnings Verification
+      hint: null
+      type: select_one
+      options:
+      - Loan/Credit Application
+      - Financial Planning
+      - Tax Preparation
+      - Benefit Eligibility
+      - Internal Payroll Review
+      - Legal/Divorce Proceeding
+      required: true
+    - id: 8
+      name: calculation_period_start
+      label: Start Date for Earnings Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: calculation_period_end
+      label: End Date for Earnings Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: data_sources_header
+      label: -- Authorized Data Sources --
+      hint: I authorize access to the following information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: authorize_tax_returns
+      label: Access to Federal and State Tax Returns
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: authorize_pay_stubs
+      label: Access to Pay Stubs and W2/1099 Forms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: authorize_bank_statements
+      label: Access to Bank Statements and Deposit Records
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: professional_access_header
+      label: -- Release to Professional --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: professional_name
+      label: Name of Authorized Accountant/Advisor
+      hint: Person or firm performing the calculation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: professional_firm
+      label: Firm/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: revocation_right_ack
+      label: I understand I may revoke this authorization in writing at any time
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 18
+      name: electronic_signature
+      label: Digital Signature of Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_of_authorization
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: expiration_date
+      label: This authorization expires on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: footer_note
+      label: -- Secure Financial Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false

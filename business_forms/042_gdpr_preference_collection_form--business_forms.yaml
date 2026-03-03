@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: gdpr-preference-collection-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Do you consent to the collection of your personal data
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I consent''}'
+      - '{''label'': ''I do not consent''}'
+      required: true
+    - id: 3
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Contact''}'
+      - '{''label'': ''Location''}'
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Order history''}'
+      - '{''label'': ''Payment information''}'
+      required: false
+    - id: 4
+      name: contact
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false
+    - id: 5
+      name: contact_address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Street 1''}'
+      - '{''label'': ''Street 2''}'
+      - '{''label'': ''Country''}'
+      - '{''label'': ''City''}'
+      - '{''label'': ''Zip code''}'
+      required: false
+    - id: 6
+      name: contact_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      - '{''label'': ''Third Party''}'
+      required: false
+    - id: 9
+      name: data_storage
+      label: Data Storage
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''EU''}'
+      - '{''label'': ''Non EU''}'
+      required: false
+    - id: 10
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Internal''}'
+      - '{''label'': ''External''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 11
+      name: data_removal
+      label: Data Removal
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Anytime''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 12
+      name: data_access
+      label: Data Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false
+    - id: 13
+      name: contact_consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false
+    - id: 14
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_birth_date
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: contact_birth_month
+      label: Birth Month
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''January''}'
+      - '{''label'': ''February''}'
+      - '{''label'': ''March''}'
+      - '{''label'': ''April''}'
+      - '{''label'': ''May''}'
+      - '{''label'': ''June''}'
+      - '{''label'': ''July''}'
+      - '{''label'': ''August''}'
+      - '{''label'': ''September''}'
+      - '{''label'': ''October''}'
+      - '{''label'': ''November''}'
+      - '{''label'': ''December''}'
+      required: false
+    - id: 20
+      name: contact_birth_day
+      label: Birth Day
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''First''}'
+      - '{''label'': ''Second''}'
+      - '{''label'': ''Third''}'
+      - '{''label'': ''Fourth''}'
+      - '{''label'': ''Fifth''}'
+      - '{''label'': ''Sixth''}'
+      - '{''label'': ''Seventh''}'
+      - '{''label'': ''Eighth''}'
+      - '{''label'': ''Ninth''}'
+      - '{''label'': ''Tenth''}'
+      - '{''label'': ''Eleventh''}'
+      - '{''label'': ''Twelfth''}'
+      required: false
+    - id: 21
+      name: contact_birth_year
+      label: Birth Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_address1
+      label: Street 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_address2
+      label: Street 2
+      hint: null
+      type: text
+      options: []
+      required: false

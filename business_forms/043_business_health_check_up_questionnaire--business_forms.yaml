@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Check Up Questionnaire
+    pages:
+    - id: 1
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Type of business
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_section
+      label: -- Health Check Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vision_clarity
+      label: Clear business vision and goals
+      hint: Are goals clearly defined?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 9
+      name: revenue_stable
+      label: Revenue is stable and predictable
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 10
+      name: profit_margins
+      label: Healthy profit margins
+      hint: Are margins adequate?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 11
+      name: customer_satisfaction
+      label: High customer satisfaction
+      hint: Are customers happy?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 12
+      name: market_competitive
+      label: Competitive in the market
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 13
+      name: employee_engagement
+      label: Strong employee engagement
+      hint: Are staff engaged?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 14
+      name: systems_processes
+      label: Efficient systems and processes
+      hint: Are operations smooth?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 15
+      name: innovation_focus
+      label: Focus on innovation
+      hint: Do you innovate?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 16
+      name: financial_health
+      label: Strong financial health
+      hint: Financially sound?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 17
+      name: strategic_planning
+      label: Solid strategic planning
+      hint: Well planned?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 18
+      name: risk_management
+      label: Effective risk management
+      hint: Risks managed well?
+      type: select_one
+      options:
+      - 'No'
+      - Somewhat
+      - Mostly
+      - 'Yes'
+      - Fully
+      required: true
+    - id: 19
+      name: strengths_section
+      label: -- Strengths and Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: key_strengths
+      label: Your Business's Key Strengths
+      hint: What are you best at?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: competitive_advantages
+      label: Competitive Advantages
+      hint: What sets you apart?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: growth_opportunities
+      label: Growth Opportunities
+      hint: Where can you grow?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: improvement_section
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: improvement_areas
+      label: Top Areas Needing Improvement
+      hint: What needs work?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: support_needed
+      label: Type of Support You Need
+      hint: What help would be most valuable?
+      type: text
+      options: []
+      required: false

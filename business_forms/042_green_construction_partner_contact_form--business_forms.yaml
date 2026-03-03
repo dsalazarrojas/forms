@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expertise
+      label: Expertise
+      hint: null
+      type: select_one
+      options:
+      - Sustainable Building
+      - Green Building
+      - Energy Efficiency
+      required: true
+    - id: 8
+      name: collaboration_interest
+      label: Collaboration Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Partnership
+      - Collaboration
+      - Opportunity
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jane Smith
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Construction
+      - Engineering
+      required: true
+    - id: 12
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: partner_type
+      label: Partner Type
+      hint: null
+      type: select_one
+      options:
+      - Partner
+      - Collaborator
+      - Associate
+      required: true
+    - id: 14
+      name: partner_location
+      label: Partner Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: partner_website
+      label: Partner Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Grant Application
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: staff_count
+      label: Staff Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: retention_pledge
+      label: Retention Pledge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': None, ''label'': ''3 months''}'
+      - '{''value'': ''6 months''}'
+      - '{''value'': ''12 months''}'
+      required: true
+    - id: 8
+      name: program_impact
+      label: Program Impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: grant_start_date
+      label: Grant Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: grant_end_date
+      label: Grant End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': None, ''label'': ''chatjimmy''}'
+      - '{''value'': None}'
+      - '{''value'': None}'
+      required: true
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': None, ''label'': ''John Doe''}'
+      - '{''value'': None}'
+      - '{''value'': None}'
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

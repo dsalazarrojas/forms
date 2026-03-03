@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clubhouse Speaker Request Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Event Organizer Name
+      hint: Person coordinating the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Institution Name
+      hint: School, club, business, etc
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event or Seminar Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Proposed Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: speaking_duration
+      label: Speaking Duration Needed
+      hint: How long should the presentation be
+      type: select_one
+      options:
+      - 15-20 Minutes
+      - 30 Minutes
+      - 45 Minutes
+      - 1 Hour
+      - 90 Minutes
+      - 2+ Hours
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Where the event will be held
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: topic_preference
+      label: Preferred Topic or Subject
+      hint: What should the speaker cover
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: speaker_qualifications
+      label: Speaker Qualifications or Expertise Needed
+      hint: What qualifications are important
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: audience_type
+      label: Target Audience Type
+      hint: Select the audience
+      type: select_one
+      options:
+      - Students
+      - Professionals
+      - General Public
+      - Students and Faculty
+      - Corporate Employees
+      - Mixed
+      required: true
+    - id: 14
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Approximate number of people
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: honorarium_available
+      label: Speaker Honorarium Available
+      hint: Can you pay the speaker
+      type: select_one
+      options:
+      - true
+      - false
+      - TBD
+      required: true
+    - id: 16
+      name: honorarium_amount
+      label: Honorarium Amount
+      hint: Budget available for speaker
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Engagement Metrics Report Form
+    pages:
+    - id: 1
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      required: false
+    - id: 2
+      name: engagement_metrics
+      label: Engagement Metrics
+      hint: null
+      type: select_one
+      options:
+      - likes
+      - shares
+      - comments
+      - clicks
+      - saves
+      - reactions
+      required: false
+    - id: 3
+      name: time_range
+      label: Time Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: form_output
+      label: Form Output
+      hint: Please select an option below for form output.
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - JSON
+      - Google Sheets
+      required: false
+    - id: 5
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Please enter a valid phone number.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: email_notification_frequency
+      label: Email Notification Frequency
+      hint: Please select an option below for email notification frequency.
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 11
+      name: email_notification_time
+      label: Email Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: report_frequency_details
+      label: Report Frequency Details
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

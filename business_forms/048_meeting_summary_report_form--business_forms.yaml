@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Summary Report Form
+    pages:
+    - id: 1
+      name: meeting_summary_report_form
+      label: Meeting Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discussion_points
+      label: Discussion Points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: meeting_outcomes
+      label: Meeting Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_tasks
+      label: Follow Up Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: meeting_schedule
+      label: Meeting Schedule
+      hint: null
+      type: date
+      options: []
+      required: false

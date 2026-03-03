@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Project Proposal Request Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - on_hold
+      required: false
+    - id: 9
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false

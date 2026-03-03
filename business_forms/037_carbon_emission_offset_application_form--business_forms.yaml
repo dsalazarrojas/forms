@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Emission Offset Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- APPLICANT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_type
+      label: Applicant type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Small Business
+      - Large Corporation
+      - Non-profit
+      - Government Entity
+      - Other
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_state_zip
+      label: City, state, zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emission_information
+      label: -- CARBON EMISSION INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: annual_emissions
+      label: Estimated annual carbon emissions (metric tons CO2e)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emission_sources
+      label: Primary emission sources (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Energy Use
+      - Transportation
+      - Manufacturing
+      - Waste
+      - Agriculture
+      - Supply Chain
+      - Travel
+      - Commuting
+      - Other
+      required: true
+    - id: 12
+      name: emission_reporting_period
+      label: Emission reporting period
+      hint: null
+      type: select_one
+      options:
+      - Calendar Year
+      - Fiscal Year
+      - Other Period
+      - Not Specified
+      required: true
+    - id: 13
+      name: offset_requirements
+      label: -- OFFSET REQUIREMENTS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: offset_amount
+      label: Amount of carbon emissions to offset (metric tons CO2e)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: offset_percentage
+      label: Percentage of emissions to offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: offset_timeline
+      label: Timeline for achieving offset
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Year
+      - Within 2 Years
+      - Within 5 Years
+      - Custom Timeline
+      required: true
+    - id: 17
+      name: offset_project_preference
+      label: Preferred offset project type
+      hint: null
+      type: select_multiple
+      options:
+      - Renewable Energy
+      - Reforestation
+      - Methane Capture
+      - Energy Efficiency
+      - Carbon Sequestration
+      - Conservation
+      - Community Projects
+      required: false
+    - id: 18
+      name: geographic_preference
+      label: Geographic preference for offset projects
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - No Preference
+      required: false
+    - id: 19
+      name: certification_requirements
+      label: -- CERTIFICATION AND VERIFICATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: certification_standards
+      label: Preferred certification standards
+      hint: null
+      type: select_multiple
+      options:
+      - Gold Standard
+      - VCS
+      - CDM
+      - CAR
+      - ACR
+      - ISO 14064
+      - Other
+      required: false
+    - id: 21
+      name: verification_type
+      label: Verification type preferred
+      hint: null
+      type: select_one
+      options:
+      - Third-Party Verified
+      - Self-Certified
+      - Audit Ready
+      - Other
+      required: false
+    - id: 22
+      name: budget_allocated
+      label: Budget allocated for carbon offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: implementation_strategy
+      label: Implementation strategy
+      hint: How will offsets be achieved and tracked?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: monitoring_plan
+      label: Do you have a monitoring and reporting plan?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In Development
+      - false
+      - Will Develop Later
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional information or comments
+      hint: null
+      type: text
+      options: []
+      required: false

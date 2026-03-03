@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Template Support Questionnaire
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: What type of support do you need
+      type: select_one
+      options:
+      - Template Download Issue
+      - Editing Problem
+      - Printing Issue
+      - Design Customization
+      - File Format Question
+      - Billing Question
+      - Other
+      required: true
+    - id: 7
+      name: template_info
+      label: Template Information
+      hint: About the template
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: template_name
+      label: Template Name or ID
+      hint: Which template are you using
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: template_source
+      label: Where Did You Get Template
+      hint: Source of template
+      type: select_one
+      options:
+      - Website Download
+      - Email Attachment
+      - Purchase
+      - Free Resource
+      - Other
+      required: true
+    - id: 10
+      name: software_used
+      label: Software Used
+      hint: What software are you using
+      type: select_one
+      options:
+      - Adobe Photoshop
+      - Adobe Illustrator
+      - Microsoft Word
+      - Canva
+      - Google Docs
+      - Other
+      - Not Sure
+      required: true
+    - id: 11
+      name: issue_description
+      label: Issue Description
+      hint: Describe your problem in detail
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: when_occurred
+      label: When Did Issue Occur
+      hint: When did you first notice the problem
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: steps_taken
+      label: Steps Already Taken
+      hint: What have you tried so far
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: error_messages
+      label: Error Messages
+      hint: Are you seeing any error messages
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: template_usage
+      label: Template Usage
+      hint: How are you using the template
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: intended_use
+      label: Intended Use
+      hint: What is the template for
+      type: select_one
+      options:
+      - Personal Business Cards
+      - Company Business Cards
+      - Client Work
+      - Event
+      - Other
+      required: true
+    - id: 17
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many cards do you need
+      type: select_one
+      options:
+      - 1-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - More than 1000
+      required: false
+    - id: 18
+      name: customization_needs
+      label: Customization Needs
+      hint: What changes do you need
+      type: select_multiple
+      options:
+      - Logo Addition
+      - Color Change
+      - Font Change
+      - Layout Modification
+      - Text Changes
+      - Size Adjustment
+      - None
+      required: false
+    - id: 19
+      name: technical_skill
+      label: Technical Skill Level
+      hint: How comfortable are you with design software
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 20
+      name: deadline
+      label: Deadline
+      hint: When do you need this resolved
+      type: select_one
+      options:
+      - Immediately
+      - Within 24 Hours
+      - Within 3 Days
+      - Within 1 Week
+      - Flexible
+      required: true
+    - id: 21
+      name: preferred_support
+      label: Preferred Support Method
+      hint: How should we help you
+      type: select_one
+      options:
+      - Email Support
+      - Phone Call
+      - Video Call
+      - Screen Share Session
+      - Written Instructions
+      - Video Tutorial
+      required: true
+    - id: 22
+      name: availability
+      label: Best Time to Contact
+      hint: When can we reach you
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any Time
+      required: false
+    - id: 23
+      name: previous_experience
+      label: Previous Experience with Templates
+      hint: Have you used templates before
+      type: select_one
+      options:
+      - First Time
+      - Some Experience
+      - Regular User
+      - Very Experienced
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

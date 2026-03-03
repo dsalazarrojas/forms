@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Policy Review Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: -- Attendee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: role_type
+      label: Role Type
+      hint: What is your role?
+      type: select_one
+      options:
+      - Manager
+      - Employee
+      - Finance
+      - HR
+      - Executive
+      - Other
+      required: true
+    - id: 10
+      name: registration_details
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: session_date
+      label: Preferred Session Date
+      hint: Which date works best?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: session_time
+      label: Preferred Session Time
+      hint: Morning or afternoon?
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (1pm-4pm)
+      - Full Day
+      - No Preference
+      required: true
+    - id: 13
+      name: delivery_format
+      label: Delivery Format
+      hint: How would you prefer?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 14
+      name: policy_review_topics
+      label: Policy Topics of Interest
+      hint: What topics interest you?
+      type: select_multiple
+      options:
+      - Expense Policy Overview
+      - Travel Expenses
+      - Meal and Entertainment
+      - Reimbursement Process
+      - Technology Tools
+      - Compliance and Auditing
+      - Fraud Prevention
+      required: true
+    - id: 15
+      name: policy_experience
+      label: Experience with Expense Policies
+      hint: Your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 16
+      name: budget_responsibility
+      label: Budget Responsibility
+      hint: Do you manage budgets?
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial Responsibility
+      required: false
+    - id: 17
+      name: special_needs
+      label: Special Accommodations
+      hint: Any accessibility needs?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_attendees
+      label: Additional Attendees from Company
+      hint: How many more people?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: For catered meals
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - None
+      required: false

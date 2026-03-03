@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Energy Audit Inspection Form
+    pages:
+    - id: 1
+      name: auditor_name
+      label: Auditor Name
+      hint: Name of energy auditor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Business being audited
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_address
+      label: Facility Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_type
+      label: Facility Type
+      hint: Type of business
+      type: select_one
+      options:
+      - Office
+      - Retail
+      - Warehouse
+      - Manufacturing
+      - Restaurant
+      - Hotel
+      - Mixed Use
+      required: true
+    - id: 6
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Facility size
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_header_electrical_systems
+      label: -- Electrical Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: electrical_panel_condition
+      label: Electrical Panel Condition
+      hint: Rate panel condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Hazardous
+      required: true
+    - id: 9
+      name: lighting_assessment
+      label: Lighting Assessment
+      hint: Overall lighting efficiency
+      type: select_one
+      options:
+      - Very Efficient
+      - Efficient
+      - Average
+      - Inefficient
+      - Very Inefficient
+      required: true
+    - id: 10
+      name: led_percentage
+      label: LED Lighting Percentage
+      hint: What percent is LED
+      type: select_one
+      options:
+      - 0-25%
+      - 26-50%
+      - 51-75%
+      - 76-100%
+      required: true
+    - id: 11
+      name: section_header_hvac_inspection
+      label: -- HVAC Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hvac_system_age
+      label: HVAC System Age
+      hint: Age of system
+      type: select_one
+      options:
+      - 0-5 years
+      - 6-10 years
+      - 11-15 years
+      - 16-20 years
+      - 20+ years
+      required: true
+    - id: 13
+      name: hvac_efficiency
+      label: HVAC Efficiency Rating
+      hint: Current efficiency
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: filter_condition
+      label: Air Filter Condition
+      hint: Current filter state
+      type: select_one
+      options:
+      - Clean
+      - Slightly Dirty
+      - Dirty
+      - Very Dirty
+      - Needs Replacement
+      required: true
+    - id: 15
+      name: thermostat_settings
+      label: Thermostat Settings
+      hint: Are settings optimal
+      type: select_one
+      options:
+      - Optimal
+      - Acceptable
+      - Needs Adjustment
+      - Poor
+      required: true
+    - id: 16
+      name: section_header_building_envelope
+      label: -- Building Envelope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: insulation_condition
+      label: Insulation Condition
+      hint: Rate insulation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Inadequate
+      required: true
+    - id: 18
+      name: window_efficiency
+      label: Window Efficiency
+      hint: Rate window performance
+      type: select_one
+      options:
+      - High Efficiency
+      - Moderate Efficiency
+      - Low Efficiency
+      - Very Low Efficiency
+      required: true
+    - id: 19
+      name: air_leaks_detected
+      label: Air Leaks Detected
+      hint: Are there air leaks
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Significant
+      - Severe
+      required: true
+    - id: 20
+      name: door_seals
+      label: Door Seals Condition
+      hint: Rate door seals
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Missing
+      required: true
+    - id: 21
+      name: section_header_equipment
+      label: -- Equipment Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: equipment_energy_star
+      label: Energy Star Equipment
+      hint: Percentage of efficient equipment
+      type: select_one
+      options:
+      - 0-25%
+      - 26-50%
+      - 51-75%
+      - 76-100%
+      required: true
+    - id: 23
+      name: equipment_maintenance
+      label: Equipment Maintenance
+      hint: Is maintenance regular
+      type: select_one
+      options:
+      - Regular
+      - Occasional
+      - Rare
+      - Never
+      required: true
+    - id: 24
+      name: phantom_load
+      label: Phantom Load Observed
+      hint: Standby power waste
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Moderate
+      - Significant
+      required: true
+    - id: 25
+      name: section_header_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: energy_efficiency_rating
+      label: Overall Energy Rating
+      hint: Current facility rating
+      type: select_one
+      options:
+      - A - Excellent
+      - B - Good
+      - C - Average
+      - D - Below Average
+      - F - Poor
+      required: true
+    - id: 27
+      name: priority_improvements
+      label: Priority Improvements
+      hint: List top priorities
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: estimated_payback_period
+      label: Estimated Payback Period
+      hint: Years for ROI
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: false
+    - id: 29
+      name: estimated_annual_savings
+      label: Estimated Annual Savings
+      hint: Potential dollar savings
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: additional_recommendations
+      label: Additional Recommendations
+      hint: Other suggestions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Resources Optimization Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 4
+      name: hr_priorities
+      label: HR Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - hr_technology
+      - hr_process_improvement
+      - recruitment
+      required: false
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

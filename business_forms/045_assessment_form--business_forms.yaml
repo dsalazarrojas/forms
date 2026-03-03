@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Form
+    pages:
+    - id: 1
+      name: department_assessed_name
+      label: Department or Team Being Assessed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_officer_name
+      label: Assessment Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date_val
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: productivity_metric_rating
+      label: Productivity and Output Rating
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: quality_compliance_rating
+      label: Quality Standards Compliance
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: team_collaboration_rating
+      label: Team Collaboration and Communication
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: deadline_adherence_rating
+      label: Adherence to Deadlines and Timelines
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: key_strengths_identified
+      label: Key Strengths Identified
+      hint: Describe what the team is doing well
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: improvement_opportunities
+      label: Primary Opportunities for Improvement
+      hint: Identify areas for growth
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: required_resources_better_perf
+      label: Resources Required for Enhanced Performance
+      hint: e.g. Training, software, additional staff
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_assessment_score_pct
+      label: Overall Assessment Score - Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: officer_signature_confirm
+      label: Assessment Certified and Signed
+      hint: null
+      type: select_one
+      options:
+      - Yes, Certified
+      - Other
+      required: true

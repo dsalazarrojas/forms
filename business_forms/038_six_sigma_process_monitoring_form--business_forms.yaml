@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Six Sigma Process Monitoring Form
+    pages:
+    - id: 1
+      name: form_1_page
+      label: six_sigma_process_monitoring_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2_page
+      label: business_processes
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manufacturing''}'
+      - '{''value'': ''Logistics''}'
+      - '{''value'': ''Operations''}'
+      - '{''value'': ''Finance''}'
+      required: false
+    - id: 3
+      name: form_3_page
+      label: quality_assurance_metrics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''On-time Delivery''}'
+      - '{''value'': ''On-budget''}'
+      - '{''value'': ''On-quality''}'
+      - '{''value'': ''On-schedule''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: form_4_page
+      label: process_vulnerabilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Equipment Failure''}'
+      - '{''value'': ''Human Error''}'
+      - '{''value'': ''Process Design''}'
+      - '{''value'': ''Resource Constraints''}'
+      required: false
+    - id: 5
+      name: form_5_page
+      label: root_cause_analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6_page
+      label: corrective_action_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7_page
+      label: performance_monitoring
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Production Time''}'
+      - '{''value'': ''Cost''}'
+      - '{''value'': ''Quality''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: form_8_page
+      label: performance_target_metrics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Throughput''}'
+      - '{''value'': ''Lead Time''}'
+      - '{''value'': ''Inventory''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: form_9_page
+      label: performance_target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_10_page
+      label: performance_target_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11_page
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_12_page
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

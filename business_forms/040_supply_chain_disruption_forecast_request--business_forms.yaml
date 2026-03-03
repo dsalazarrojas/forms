@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Disruption Forecast Request
+    pages:
+    - id: 1
+      name: supply_chain_disruption_forecast_request
+      label: Supply Chain Disruption Forecast Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: segment
+      label: segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: region
+      label: region
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expected_resolution_date
+      label: expected_resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: impact
+      label: impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cause
+      label: cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: affected_segment
+      label: affected_segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: affected_region
+      label: affected_region
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

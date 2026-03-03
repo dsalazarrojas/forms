@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Simulation Input Form
+    pages:
+    - id: 1
+      name: building_type
+      label: Building Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_size
+      label: Building Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: climate_zone
+      label: Climate Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Zone 1'', ''value'': ''Zone 1''}'
+      - '{''label'': ''Zone 2'', ''value'': ''Zone 2''}'
+      - '{''label'': ''Zone 3'', ''value'': ''Zone 3''}'
+      required: false
+    - id: 4
+      name: energy_use
+      label: Energy Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: simulation_type
+      label: Simulation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: building_direction
+      label: Building Direction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: climate_data
+      label: Climate Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: simulation_duration
+      label: Simulation Duration
+      hint: null
+      type: number
+      options: []
+      required: false

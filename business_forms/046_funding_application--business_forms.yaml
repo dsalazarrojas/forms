@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: funding-application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - mortgage
+      - investment
+      required: false
+    - id: 8
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - short
+      - medium
+      - long
+      required: false
+    - id: 10
+      name: loan_rate
+      label: Loan Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - unemployed
+      required: false
+    - id: 13
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - salary
+      - investment
+      required: false
+    - id: 17
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - full-time
+      - part-time
+      required: false
+    - id: 18
+      name: years_employed
+      label: Years Employed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - high-school
+      - college
+      required: false
+    - id: 21
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - residential
+      - commercial
+      required: false
+    - id: 22
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: loan_amount_recommended
+      label: Loan Amount Recommended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: loan_rate_recommended
+      label: Loan Rate Recommended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

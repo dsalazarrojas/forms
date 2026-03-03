@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee End Of Day Report
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: employee_progress
+      label: Employee Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: completed_tasks
+      label: Completed Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes_for_manager
+      label: Notes for Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_hours
+      label: Employee Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: time_spent_on_task
+      label: Time Spent on Task
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_time_spent
+      label: Total Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: task_completion_status
+      label: Task Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: task_completion_comments
+      label: Task Completion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: task_completion_notes
+      label: Task Completion Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_completion_notes
+      label: Employee Completion Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_completion_comments
+      label: Employee Completion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: task_completion_status
+      label: Task Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: notes_for_employee
+      label: Notes for Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: completed_tasks_count
+      label: Completed Tasks Count
+      hint: null
+      type: number
+      options: []
+      required: false

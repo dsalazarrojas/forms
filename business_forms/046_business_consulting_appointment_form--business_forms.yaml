@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Consulting Appointment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Other
+      required: false
+    - id: 8
+      name: appointment_info
+      label: Appointment Information
+      hint: Scheduling details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consulting_type
+      label: Consulting Type
+      hint: What type of consultation do you need
+      type: select_one
+      options:
+      - Business Strategy
+      - Financial Advisory
+      - Operations
+      - Marketing
+      - Human Resources
+      - IT Consulting
+      - Legal
+      - Other
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any Time
+      required: true
+    - id: 12
+      name: meeting_format
+      label: Meeting Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person
+      - Video Call
+      - Phone Call
+      - Flexible
+      required: true
+    - id: 13
+      name: meeting_duration
+      label: Meeting Duration
+      hint: How long do you need
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - 2 Hours
+      required: true
+    - id: 14
+      name: location_preference
+      label: Location Preference
+      hint: Where should we meet
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: topic
+      label: Consultation Topic
+      hint: What do you want to discuss
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: goals
+      label: Consultation Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_challenges
+      label: Current Challenges
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: urgency
+      label: Urgency
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Low - No Rush
+      - Medium - Within 2 Weeks
+      - High - Within 1 Week
+      - Urgent - Within 48 Hours
+      required: true
+    - id: 19
+      name: previous_consulting
+      label: Previous Consulting Experience
+      hint: Have you worked with consultants before
+      type: select_one
+      options:
+      - Yes - Positive
+      - Yes - Mixed
+      - Yes - Negative
+      - No - First Time
+      required: false
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Social Media
+      - Advertisement
+      - Conference or Event
+      - Other
+      required: false
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: Expected investment
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$15,000
+      - $15,000-$50,000
+      - $50,000-$100,000
+      - More than $100,000
+      - Not Determined
+      required: false
+    - id: 22
+      name: decision_maker
+      label: Are You the Decision Maker
+      hint: Can you approve engagement
+      type: select_one
+      options:
+      - true
+      - false
+      - Part of Committee
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

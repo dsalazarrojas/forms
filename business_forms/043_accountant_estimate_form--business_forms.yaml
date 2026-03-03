@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accountant Estimate Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Individual or sole proprietor
+      - LLC
+      - Partnership
+      - Corporation (S-Corp)
+      - Corporation (C-Corp)
+      - Non-profit
+      - Other
+      required: true
+    - id: 7
+      name: section_service_request
+      label: -- Service Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: services_needed
+      label: Accounting Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tax preparation (individual)
+      - Tax preparation (business)
+      - Bookkeeping
+      - Payroll processing
+      - Financial statements
+      - Audit or review
+      - Tax planning and consulting
+      - Business formation
+      - Other
+      required: true
+    - id: 9
+      name: frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      - Ongoing as needed
+      required: true
+    - id: 10
+      name: annual_revenue
+      label: Approximate Annual Revenue or Income
+      hint: null
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - $500,000 - $1 million
+      - Over $1 million
+      required: true
+    - id: 11
+      name: number_of_employees
+      label: Number of Employees (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: current_accounting_software
+      label: Current Accounting Software
+      hint: null
+      type: select_one
+      options:
+      - QuickBooks
+      - Xero
+      - FreshBooks
+      - Wave
+      - Sage
+      - None
+      - Other
+      required: false
+    - id: 13
+      name: section_timeline
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      - Not sure yet
+      required: false
+    - id: 16
+      name: urgency
+      label: How Urgent Is This Request
+      hint: null
+      type: select_one
+      options:
+      - Not urgent
+      - Within a month
+      - Within two weeks
+      - Urgent - Within a week
+      required: true
+    - id: 17
+      name: additional_details
+      label: Additional Details or Special Requirements
+      hint: Any other information that would help us prepare your estimate
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Google search
+      - Referral
+      - Social media
+      - Online directory
+      - Other
+      required: false

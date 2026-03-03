@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Proposal Submission
+    pages:
+    - id: 1
+      name: section_proposer_info
+      label: -- Proposing Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposing_company_name
+      label: Legal Name of Proposing Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposer_address
+      label: Company Headquarters Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_project_ref
+      label: -- Project Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rfp_project_title
+      label: Project Title or RFP Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposal_category
+      label: Proposal Category
+      hint: null
+      type: select_one
+      options:
+      - Construction Services
+      - IT Infrastructure
+      - Marketing and PR
+      - Logistics and Supply Chain
+      - Professional Consulting
+      - Facility Management
+      required: true
+    - id: 8
+      name: section_proposal_content
+      label: -- Proposal Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: proposal_executive_summary
+      label: Executive Summary of Proposal
+      hint: Concise overview of the proposed solution
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: estimated_project_budget
+      label: Total Proposed Budget (USD)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: proposed_completion_timeline
+      label: Estimated Project Duration (Weeks/Months)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supporting_docs_check
+      label: Have you attached the required technical documentation?
+      hint: null
+      type: select_one
+      options:
+      - Yes - All Required Documents Attached
+      - No - Documents to be Sent Separately
+      required: true
+    - id: 13
+      name: section_proposal_contact
+      label: -- Lead Contact Person --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: lead_contact_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lead_contact_email
+      label: Professional Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: submission_acknowledgment
+      label: I certify that I am authorized to submit this proposal on behalf of the
+        company
+      hint: null
+      type: select_one
+      options:
+      - I Certify and Submit
+      - Other
+      required: true

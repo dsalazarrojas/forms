@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stylist Monthly Check In Form
+    pages:
+    - id: 1
+      name: month
+      label: Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: total_services
+      label: Total Services
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: services_rendered
+      label: Services Rendered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: next_check_in
+      label: Next Check-in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: next_check_in_time
+      label: Next Check-in Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false

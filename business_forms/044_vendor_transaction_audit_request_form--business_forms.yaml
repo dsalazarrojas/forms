@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Transaction Audit Request Form
+    pages:
+    - id: 1
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_details
+      label: Reasons for Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - In Review
+      - Approved
+      - Rejected
+      required: false
+    - id: 5
+      name: contact_vendor
+      label: Contact Vendor
+      hint: null
+      type: text
+      options: []
+      required: false

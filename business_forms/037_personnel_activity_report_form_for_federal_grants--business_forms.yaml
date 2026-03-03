@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: personnel_activity_report_form_for_federal_grants
+    pages:
+    - id: 1
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grant_number
+      label: grant_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: name
+      label: grant_administrator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: effort_type
+      label: effort_type
+      hint: null
+      type: select_one
+      options:
+      - Personnel
+      - Equipment
+      - Supplies
+      required: true
+    - id: 8
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rate_per_hour
+      label: rate_per_hour
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: personnel_affected
+      label: personnel_affected
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true

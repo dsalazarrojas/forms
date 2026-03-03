@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Order System Assessment
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department prophets
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Maintenance''}'
+      - '{''id'': 2, ''name'': ''Facilities''}'
+      - '{''id'': 3, ''name'': ''IT''}'
+      required: false
+    - id: 3
+      name: feedback_form
+      label: Feedback form
+      hint: Please provide detailed.report and feedback
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction_rating
+      label: How do you feel about this work order platform?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction_department
+      label: What department do you usually contact?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Maintenance''}'
+      - '{''id'': 2, ''name'': ''Facilities''}'
+      - '{''id'': 3, ''name'': ''IT''}'
+      required: true
+    - id: 6
+      name: issue_description
+      label: What issues do you have with this work order platform?
+      hint: Provide detailed description of issue(s)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: improvement_ideas
+      label: Do you have any improvement ideas?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

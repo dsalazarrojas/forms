@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: logistics_quotation_form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Air''}'
+      - '{''option2'': ''Land''}'
+      - '{''option3'': ''Sea''}'
+      required: false
+    - id: 3
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''New Shipment''}'
+      - '{''option2'': ''In Progress''}'
+      - '{''option3'': ''On Hold''}'
+      - '{''option4'': ''Cancelled''}'
+      required: false
+    - id: 5
+      name: shipment_service_charge
+      label: Shipment Service Charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipment_handling
+      label: Shipment Handling
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipment_distance
+      label: Shipment Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''John Doe''}'
+      - '{''option2'': ''Jane Doe''}'
+      - '{''option3'': ''Joe Doe''}'
+      required: false
+    - id: 11
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

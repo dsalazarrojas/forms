@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Planning Efficiency Registration Form
+    pages:
+    - id: 1
+      name: production_planning_efficiency_form
+      label: Production Planning Efficiency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: workflow_description
+      label: Workflow Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workflow_status
+      label: Workflow Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: workcenter_id
+      label: Workcenter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_capacity
+      label: Production Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: production_capacity_units
+      label: Production Capacity Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: production_capacity_notes
+      label: Production Capacity Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: planning_efficiency
+      label: Planning Efficiency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: planning_efficiency_units
+      label: Planning Efficiency Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: planning_efficiency_notes
+      label: Planning Efficiency Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workcenter_capacity
+      label: Workcenter Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: workcenter_capacity_units
+      label: Workcenter Capacity Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: workcenter_capacity_notes
+      label: Workcenter Capacity Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: planning_cycle_length
+      label: Planning Cycle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: cycle_length_notes
+      label: Cycle Length Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: efficiency_score
+      label: Efficiency Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: efficiency_score_units
+      label: Efficiency Score Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: efficiency_score_notes
+      label: Efficiency Score Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: efficiency_score_1
+      label: Efficiency Score 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: efficiency_score_1_units
+      label: Efficiency Score 1 Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: efficiency_score_1_notes
+      label: Efficiency Score 1 Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: efficiency_score_2
+      label: Efficiency Score 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: efficiency_score_2_units
+      label: Efficiency Score 2 Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: efficiency_score_2_notes
+      label: Efficiency Score 2 Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: efficiency_score_3
+      label: Efficiency Score 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: efficiency_score_3_units
+      label: Efficiency Score 3 Units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: efficiency_score_3_notes
+      label: Efficiency Score 3 Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

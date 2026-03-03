@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Franchise Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of franchise application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_experience
+      label: Years of Business Experience
+      hint: Total business experience
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: barbering_experience
+      label: Years of Barbering Experience
+      hint: How long in barbering?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: previous_business_ownership
+      label: Previous Business Ownership
+      hint: Have you owned a business before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial Ownership
+      required: true
+    - id: 10
+      name: previous_business_details
+      label: Previous Business Details
+      hint: Describe prior business
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_location
+      label: Preferred Location for Franchise
+      hint: City or region preferred
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Desired Franchise Start Date
+      hint: When would you like to open?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: investment_capital
+      label: Available Investment Capital
+      hint: Total funds available to invest
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: financing_plan
+      label: Financing Plan
+      hint: How will you finance the franchise?
+      type: select_one
+      options:
+      - All Cash
+      - Bank Loan
+      - SBA Loan
+      - Investor Partnership
+      - Mixed Financing
+      - Still Planning
+      required: true
+    - id: 15
+      name: credit_score_range
+      label: Credit Score Range
+      hint: Approximate credit score
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (below 650)
+      - Prefer Not to Say
+      required: false
+    - id: 16
+      name: existing_debt
+      label: Existing Business Debt
+      hint: Do you have outstanding debt?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Minor Amount
+      required: true
+    - id: 17
+      name: debt_amount
+      label: If Yes, Approximate Debt Amount
+      hint: Total outstanding debt
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: management_team
+      label: Management Team in Place
+      hint: Do you have team members identified?
+      type: select_one
+      options:
+      - Yes - Full Team
+      - Partially
+      - No - Need to Hire
+      required: true
+    - id: 19
+      name: team_details
+      label: Management Team Details
+      hint: Names and roles of team members
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: marketing_experience
+      label: Marketing and Sales Experience
+      hint: Experience level in marketing?
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 21
+      name: commitment_level
+      label: Commitment to Brand Standards
+      hint: Will you follow franchise standards?
+      type: select_one
+      options:
+      - Fully Committed
+      - Committed
+      - Will Discuss
+      - Unsure
+      required: true
+    - id: 22
+      name: multiple_locations
+      label: Interest in Multiple Locations
+      hint: Plan to expand?
+      type: select_one
+      options:
+      - Single Location Only
+      - Possible Future Expansion
+      - Yes - Multiple Units Planned
+      required: false
+    - id: 23
+      name: legal_issues
+      label: Any Legal or Regulatory Issues
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Prefer Not to Disclose
+      required: true
+    - id: 24
+      name: issue_description
+      label: Issue Description (if applicable)
+      hint: Explain if there are issues
+      type: text
+      options: []
+      required: false

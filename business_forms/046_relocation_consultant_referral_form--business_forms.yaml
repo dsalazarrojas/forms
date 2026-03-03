@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relocation Consultant Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultant_company
+      label: Consultant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consultant_location
+      label: Consultant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consultant_notes
+      label: Consultant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_email
+      label: Client Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_company
+      label: Client Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_location
+      label: Client Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_referral_notes
+      label: Client Referral Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: referral_comments
+      label: Referral Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consultant_referral_comments
+      label: Consultant Referral Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consultant_referral_source
+      label: Consultant Referral Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: consultant_referral_notes
+      label: Consultant Referral Notes
+      hint: null
+      type: text
+      options: []
+      required: false

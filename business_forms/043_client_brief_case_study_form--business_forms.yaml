@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Brief Case Study Form
+    pages:
+      - id: 1
+        name: case_study_header
+        label: -- Project Case Study Intake --
+        hint: Help us document the success of your project.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: project_title
+        label: Project Title/Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_completion_date
+        label: Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: the_challenge_header
+        label: -- The Challenge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: initial_problem
+        label: What was the primary problem or challenge you faced?
+        hint: Describe the situation before the project started
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: goals_set
+        label: What were the specific goals for this project?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: the_solution_header
+        label: -- The Solution --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: solution_description
+        label: Briefly describe the solution or service provided
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: key_deliverables
+        label: Key Deliverables
+        hint: List main products or services delivered
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: the_results_header
+        label: -- The Results --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: quantitative_results
+        label: Tangible Results (Metrics, ROI, Savings)
+        hint: Please be as specific as possible with numbers
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: qualitative_results
+        label: Intangible Benefits (Efficiency, Satisfaction, Brand Growth)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: client_testimonial
+        label: Short Quote or Testimonial
+        hint: A one-sentence summary of your satisfaction
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: publication_consent
+        label: Do we have permission to publish this case study publicly?
+        hint: null
+        type: select_one
+        options:
+          - Yes, with company name
+          - Yes, but anonymized
+          - Internal use only
+        required: true
+      - id: 16
+        name: contact_person
+        label: Contact Person for approval
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: contact_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 18
+        name: footer_note
+        label: -- Thank you for sharing your success story! --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: submission_date
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 20
+        name: external_asset_link
+        label: Link to project photos or assets
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: industry_category
+        label: Industry Category
+        hint: null
+        type: text
+        options: []
+        required: false

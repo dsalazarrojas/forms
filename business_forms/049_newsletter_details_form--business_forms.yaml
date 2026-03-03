@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Details Form
+    pages:
+    - id: 1
+      name: user_interest
+      label: User Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: newsletter_frequency
+      label: newsletter_frequency
+      hint: null
+      type: select_one
+      options:
+      - Interested
+      - Not interested
+      - Not sure
+      required: false
+    - id: 5
+      name: newsletter_format
+      label: newsletter_format
+      hint: null
+      type: select_multiple
+      options:
+      - HTML Newsletter
+      - Plain Text
+      - RSS
+      - Audio
+      - Video
+      required: false
+    - id: 6
+      name: newsletter_category
+      label: newsletter_category
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Entertainment
+      - Sports
+      - Technology
+      - Lifestyle
+      - Finance
+      - Health and wellness
+      - Travel
+      - Other
+      required: false
+    - id: 7
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false

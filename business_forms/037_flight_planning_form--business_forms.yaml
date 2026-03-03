@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Planning Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Flight Plan Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route_1
+      label: Route Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: route_1_1
+      label: Start Point
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: route_2
+      label: Route End
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flight_plan_1
+      label: Flight Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flight_plan_2
+      label: Flight Plan Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: flight_planning_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: flight_planning_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_users
+      label: Assigned Users
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

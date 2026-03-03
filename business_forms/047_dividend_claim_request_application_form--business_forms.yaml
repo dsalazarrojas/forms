@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dividend Claim Request Application Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shareholding_date
+      label: Shareholding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: dividend_period
+      label: Dividend Period
+      hint: null
+      type: select_one
+      options:
+      - 12/31/2022
+      - 01/01/2023
+      required: false
+    - id: 4
+      name: dividend_amount
+      label: Dividend Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tax_identification_number
+      label: Tax Identification Number
+      hint: null
+      type: select_multiple
+      options:
+      - TIN (W-9)
+      - TIN (SSA)
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      required: false

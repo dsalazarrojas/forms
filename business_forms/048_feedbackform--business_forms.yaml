@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedbackform
+    pages:
+    - id: 1
+      name: feedback_form
+      label: feedback_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_category
+      label: feedback_category
+      hint: null
+      type: select_one
+      options:
+      - Feedback on Product
+      - Feedback on Service
+      required: false
+    - id: 3
+      name: feedback_message
+      label: feedback_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

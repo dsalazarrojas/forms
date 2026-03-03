@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Model Troubleshooting Guide
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: Please enter a detailed description of the problem
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: model_version
+      label: Model Version
+      hint: Specify the current model version
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: urgency
+      label: Urgency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_files
+      label: Support Files
+      hint: Add any supporting files or documents
+      type: select_multiple
+      options:
+      - CSV
+      - PDF
+      - Excel
+      - ZIP
+      required: false
+    - id: 6
+      name: issue_type
+      label: Type of issue
+      hint: Specify the type of issue (e.g. data discrepancy, calculation error)
+      type: select_one
+      options:
+      - Data Discrepancy
+      - Calculation Error
+      - Other
+      required: false
+    - id: 7
+      name: issue_priority
+      label: Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: text
+      options: []
+      required: false

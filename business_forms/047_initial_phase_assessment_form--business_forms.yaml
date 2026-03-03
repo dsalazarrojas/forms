@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Phase Assessment Form
+    pages:
+    - id: 1
+      name: initial_phase_assessment_form_businesses
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - ongoing
+      - completed
+      required: false
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_challenges
+      label: Project Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

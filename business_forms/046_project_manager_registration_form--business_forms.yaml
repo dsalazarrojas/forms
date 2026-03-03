@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Manager Registration Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Project Lead
+      hint: Enter the Project Lead
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Smith''}'
+      - '{''label'': ''Joe''}'
+      required: false
+    - id: 3
+      name: project_team
+      label: Project Team
+      hint: List of participants
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 8
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Account Consolidation Consent Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: customer_authorization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_3
+      label: Account to Merge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: form_4
+      label: Utility Account 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: Utility Account 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Utility Account 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Utility Account 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Date Merged
+      hint: null
+      type: date
+      options: []
+      required: false

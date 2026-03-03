@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Release Form
+    pages:
+    - id: 1
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vin
+      label: Vehicle Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_sale
+      label: Date of Sale
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Leased
+      required: true
+    - id: 8
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: release_price
+      label: Release Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: released_to
+      label: Released To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: printed_name
+      label: Printed Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: printed_title
+      label: Printed Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: printed_date
+      label: Printed Date
+      hint: null
+      type: date
+      options: []
+      required: true

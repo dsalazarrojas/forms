@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_phone
+      label: Company Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional services
+      - Hospitality
+      - Other
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate gross revenue
+      type: select_one
+      options:
+      - Under $500K
+      - $500K to $1M
+      - $1M to $5M
+      - $5M to $10M
+      - $10M to $50M
+      - Over $50M
+      required: true
+    - id: 12
+      name: partnership_type_sought
+      label: Partnership Type Sought
+      hint: What type of partnership do you want
+      type: select_one
+      options:
+      - Strategic alliance
+      - Distribution partnership
+      - Technology partnership
+      - Joint venture
+      - Reseller agreement
+      - Licensing agreement
+      - Other
+      required: true
+    - id: 13
+      name: partnership_goals
+      label: Partnership Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Market expansion
+      - Revenue growth
+      - Technology access
+      - Resource sharing
+      - Cost reduction
+      - Innovation
+      - Brand enhancement
+      required: true
+    - id: 14
+      name: value_proposition
+      label: Your Value Proposition
+      hint: What value do you bring
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_markets
+      label: Target Markets
+      hint: Which markets do you serve
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia Pacific
+      - Latin America
+      - Middle East
+      - Africa
+      - Global
+      required: true
+    - id: 16
+      name: relevant_experience
+      label: Relevant Experience
+      hint: Describe your relevant experience
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_partnerships
+      label: Previous Partnership Experience
+      hint: Have you had partnerships before
+      type: select_one
+      options:
+      - Yes - multiple successful
+      - Yes - some experience
+      - No - first partnership
+      required: true
+    - id: 18
+      name: resources_available
+      label: Resources Available
+      hint: What resources can you contribute
+      type: select_multiple
+      options:
+      - Capital investment
+      - Technical expertise
+      - Market access
+      - Distribution channels
+      - Manufacturing capacity
+      - Brand recognition
+      - Human resources
+      required: true
+    - id: 19
+      name: timeline
+      label: Partnership Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Flexible
+      required: true
+    - id: 20
+      name: decision_maker
+      label: Decision Maker Status
+      hint: Are you the decision maker
+      type: select_one
+      options:
+      - Yes - final authority
+      - Yes - recommend to leadership
+      - No - influence decisions
+      - No - gathering information
+      required: true
+    - id: 21
+      name: proposal_summary
+      label: Partnership Proposal Summary
+      hint: Briefly describe your proposal
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: references
+      label: Professional References
+      hint: List 2-3 professional references
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

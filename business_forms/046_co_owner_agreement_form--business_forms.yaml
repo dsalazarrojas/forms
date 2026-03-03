@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co-Owner Agreement Form
+    pages:
+    - id: 1
+      name: co_owner_1_name
+      label: Co-Owner 1 Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: co_owner_2_name
+      label: Co-Owner 2 Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_entity_name
+      label: Business Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_ownership
+      label: -- Ownership Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ownership_percentage_1
+      label: Ownership Percentage - Co-Owner 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ownership_percentage_2
+      label: Ownership Percentage - Co-Owner 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: capital_contribution_1
+      label: Initial Capital Contribution - Co-Owner 1
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: capital_contribution_2
+      label: Initial Capital Contribution - Co-Owner 2
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_roles
+      label: -- Roles and Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: role_description_1
+      label: Primary Role and Responsibilities of Co-Owner 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: role_description_2
+      label: Primary Role and Responsibilities of Co-Owner 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: voting_rights
+      label: Description of Voting Rights and Decision-Making Authority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_exit_disputes
+      label: -- Exit Strategy and Disputes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: buy_sell_provision
+      label: Do you agree to the standard Buy-Sell Provision?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: dispute_resolution
+      label: Preferred Dispute Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Mediation
+      - Arbitration
+      - Litigation
+      required: true
+    - id: 16
+      name: section_execution
+      label: -- Execution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature_1
+      label: Signature of Co-Owner 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature_2
+      label: Signature of Co-Owner 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

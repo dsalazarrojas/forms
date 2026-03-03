@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Activation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: Password
+      hint: Enter a strong password
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date of Birth
+      hint: Enter your date of birth in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time of Registration
+      hint: Enter your time of registration in 24-hour format
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: Enter your address
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: select_one
+      label: Select one of the options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: select_multiple
+      label: Select multiple options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

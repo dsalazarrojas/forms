@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Management Checklist
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Resource A
+      - Resource B
+      - Resource C
+      required: false
+    - id: 5
+      name: resource_status
+      label: Resource Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: resource_level
+      label: Resource Level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: allocated_date
+      label: Allocated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: allocated_time
+      label: Allocated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: resource_utilization
+      label: Resource Utilization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: resource_manager
+      label: Resource Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

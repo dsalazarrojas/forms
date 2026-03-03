@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Kit Issue Form Template
+    pages:
+    - id: 1
+      name: volunteer_kit_id
+      label: Volunteer Kit ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: kit_location
+      label: Kit Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_contact
+      label: Volunteer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: kit_distribution_channel
+      label: Kit Distribution Channel
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Pickup
+      - Mailing
+      - Email
+      - Phone
+      required: true
+    - id: 9
+      name: kit_reciever
+      label: Kit Reciever
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_manager
+      label: Volunteer Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: true
+    - id: 12
+      name: issue_reason
+      label: Issue Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Lost
+      - Damaged
+      - Stolen
+      required: false
+    - id: 13
+      name: kit_condition
+      label: Kit Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: kit_quantity
+      label: Kit Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: volunteer_rate
+      label: Volunteer Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: kit_location_lat
+      label: Kit Location Lat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: kit_location_long
+      label: Kit Location Long
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: volunteer_location_lat
+      label: Volunteer Location Lat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: volunteer_location_long
+      label: Volunteer Location Long
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: volunteer_location_alt
+      label: Volunteer Location Alt
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: kit_location_alt
+      label: Kit Location Alt
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: volunteer_location_elevation
+      label: Volunteer Location Elevation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: kit_location_elevation
+      label: Kit Location Elevation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: assigned
+      label: Assigned
+      hint: null
+      type: text
+      options: []
+      required: false

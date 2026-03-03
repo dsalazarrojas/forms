@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Merge Request Form
+    pages:
+    - id: 1
+      name: customer_loyalty_form
+      label: customer_loyalty_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: customer_id
+      hint: Enter customer ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: merge_reason
+      label: merge_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_name
+      label: account_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: existing_id
+      label: existing_id
+      hint: Enter existing ID
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: existing_name
+      label: existing_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_merge
+      label: confirm_merge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Merge''}'
+      - '{''value'': ''Do not merge''}'
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: merge_notes
+      label: merge_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Cancel''}'
+      required: true

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Profile Form
+    pages:
+    - id: 1
+      name: section_company_profile
+      label: -- Carrier Company Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dot_mc_number
+      label: DOT and MC Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tax_id_number
+      label: Tax ID or EIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scac_code
+      label: SCAC Code
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_contact
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_contact_name
+      label: Main Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dispatch_contact
+      label: Dispatch Contact
+      hint: person in charge of truck scheduling
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dispatch_phone
+      label: Dispatch Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_fleet
+      label: -- Fleet and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tractor_count
+      label: Number of Tractors
+      hint: total number of power units
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: trailer_count
+      label: Number of Trailers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: equipment_specialties
+      label: Equipment Specialties
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Flatbed
+      - Dry Van
+      - Reefer
+      - Step Deck
+      - RGN
+      - Intermodal
+      - Auto Hauler
+      required: true
+    - id: 16
+      name: trailer_features
+      label: Trailer Features
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Air Ride
+      - E-Track
+      - Vented
+      - Lift Gate
+      - Logs
+      - Straps
+      required: false
+    - id: 17
+      name: section_operational
+      label: -- Operational Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_lanes
+      label: Preferred Lanes and Corridors
+      hint: list major routes or states
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: home_terminal
+      label: Home Terminal Location
+      hint: city and state
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: ltl_offered
+      label: Do you offer LTL (Less Than Truckload) services?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: section_compliance
+      label: -- Safety and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: safety_rating
+      label: Latest Safety Rating
+      hint: from FMCSA
+      type: select_one
+      options:
+      - Satisfactory
+      - Conditional
+      - Unsatisfactory
+      - Unrated
+      required: true
+    - id: 23
+      name: smartway_partner
+      label: Are you a SmartWay partner?
+      hint: environmental program participation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: section_final
+      label: -- Final Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: digital_signature
+      label: Signature of Representative
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Non Renewal Notice Form
+    pages:
+    - id: 1
+      name: sender_name
+      label: Sender Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sender_title
+      label: Sender Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: notice_date
+      label: Notice Date
+      hint: Date of notice
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_start_date
+      label: Contract Start Date
+      hint: Original start date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_end_date
+      label: Contract End Date
+      hint: Current expiration date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: other_party_name
+      label: Other Party Name
+      hint: Counterparty name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: other_party_address
+      label: Other Party Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: non_renewal_reason
+      label: Non Renewal Reason
+      hint: Why not renewing?
+      type: select_one
+      options:
+      - Business decision
+      - Cost considerations
+      - Performance issues
+      - Change in needs
+      - Found alternative
+      - Budget constraints
+      - Strategic direction change
+      - Other
+      required: true
+    - id: 12
+      name: reason_details
+      label: Reason Details
+      hint: Explain the reason
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notice_period_compliance
+      label: Notice Period Compliance
+      hint: Are you meeting notice requirements?
+      type: select_one
+      options:
+      - Yes, fully compliant
+      - Yes, with waiver
+      - No, shortened notice
+      - Unsure
+      required: true
+    - id: 14
+      name: required_notice_days
+      label: Required Notice Days
+      hint: Days per contract
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: actual_notice_days
+      label: Actual Notice Days
+      hint: Days being given
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: transition_assistance
+      label: Transition Assistance
+      hint: Will you provide transition help?
+      type: select_one
+      options:
+      - Yes, full assistance
+      - Yes, limited assistance
+      - No assistance
+      - To be determined
+      required: true
+    - id: 17
+      name: transition_period
+      label: Transition Period
+      hint: How long for transition?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: outstanding_obligations
+      label: Outstanding Obligations
+      hint: Any remaining commitments?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: final_payment_date
+      label: Final Payment Date
+      hint: When is final payment due?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: property_return
+      label: Property Return
+      hint: Any property to return?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: future_relationship
+      label: Future Relationship
+      hint: Open to future work?
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - false
+      - Undecided
+      required: false
+    - id: 22
+      name: delivery_method
+      label: Delivery Method
+      hint: How will notice be sent?
+      type: select_one
+      options:
+      - Certified mail
+      - Email
+      - Hand delivery
+      - Courier service
+      - Multiple methods
+      required: true
+    - id: 23
+      name: sender_signature
+      label: Sender Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

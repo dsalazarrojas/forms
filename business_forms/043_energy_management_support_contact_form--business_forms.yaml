@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Management Support Contact Form
+    pages:
+    - id: 1
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: priority
+      label: What is your top priority?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: support_area
+      label: What area of support do you need?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Your Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: energy_systems
+      label: Which energy system(s) are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: issue_description
+      label: Describe Your Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: energy_tools
+      label: Which energy tools are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

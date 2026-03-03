@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Log Form
+    pages:
+    - id: 1
+      name: task_log
+      label: Task Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_type
+      label: Task Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General'', ''value'': ''general''}'
+      - '{''label'': ''Task'', ''value'': ''task''}'
+      - '{''label'': ''Job'', ''value'': ''job''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started'', ''value'': ''not_started''}'
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tags_list
+      label: Tags List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

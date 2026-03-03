@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: presidential_election_form
+    pages:
+    - id: 1
+      name: presidential_election_form
+      label: presidential_election_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_choice
+      label: voter_choice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: candidate_choice
+      label: candidate_choice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

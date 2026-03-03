@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Construction Progress Report Form
+    pages:
+    - id: 1
+      name: work_started
+      label: Work Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: progress_percentage
+      label: Progress Percentage
+      hint: null
+      type: select_one
+      options:
+      - 0%
+      - 25%
+      - 50%
+      - 75%
+      - 100%
+      required: false
+    - id: 3
+      name: work_completed
+      label: Work Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delay_reason
+      label: Delay Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delay_duration
+      label: Delay Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_experience
+      label: Team Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Novice
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 9
+      name: completed_activities
+      label: Completed Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: site_visit_date
+      label: Site Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: site_visit_duration
+      label: Site Visit Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: work_order_id
+      label: Work Order ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_visit_notes
+      label: Site Visit Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

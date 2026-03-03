@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_compliance_office_contact_form
+    pages:
+    - id: 1
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: upload_documentation
+      label: Upload Documentation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: report_issue
+      label: Report Property Compliance Issue
+      hint: Provide detailed information about the issue
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_office
+      label: Contact The Compliance Office
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: property_details
+      label: Property Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Address''}'
+      - '{''id'': 2, ''label'': ''Contact Information''}'
+      - '{''id'': 3, ''label'': ''Lease Agreement''}'
+      required: false

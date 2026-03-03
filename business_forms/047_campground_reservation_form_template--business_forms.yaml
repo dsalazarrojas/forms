@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campground Reservation Form Template
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: Guest First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Guest Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: arrival_date
+      label: Arrival Date
+      hint: Check-in date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: departure_date
+      label: Departure Date
+      hint: Check-out date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_adults
+      label: Number of Adults
+      hint: Adults in party
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_children
+      label: Number of Children
+      hint: Children in party
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: number_of_vehicles
+      label: Number of Vehicles
+      hint: Total vehicles
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: accommodation_type
+      label: Type of Accommodation
+      hint: Select type
+      type: select_one
+      options:
+      - Tent site
+      - RV site with hookups
+      - RV site without hookups
+      - Cabin
+      - Glamping tent
+      - Yurt
+      - Other
+      required: true
+    - id: 16
+      name: site_preference
+      label: Site Preference
+      hint: Select preference
+      type: select_one
+      options:
+      - No preference
+      - Waterfront
+      - Shaded
+      - Open area
+      - Near restrooms
+      - Quiet area
+      - Pull-through
+      - Back-in
+      required: true
+    - id: 17
+      name: rv_length
+      label: RV Length
+      hint: If applicable in feet
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hookup_requirements
+      label: Hookup Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Electric 30 amp
+      - Electric 50 amp
+      - Water
+      - Sewer
+      - Cable
+      required: false
+    - id: 19
+      name: additional_amenities
+      label: Additional Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Firewood
+      - Ice
+      - Fire pit rental
+      - Grill rental
+      - Linens
+      - Kitchen kit
+      - Bike rental
+      required: false
+    - id: 20
+      name: pet_accommodation
+      label: Will You Bring Pets
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - 1 pet
+      - Yes - 2 pets
+      - Yes - 3 or more
+      required: true
+    - id: 21
+      name: pet_details
+      label: Pet Details
+      hint: Describe pets
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_occasion
+      label: Is This for a Special Occasion
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - birthday
+      - Yes - anniversary
+      - Yes - family reunion
+      - Yes - other
+      required: false
+    - id: 23
+      name: special_occasion_details
+      label: Special Occasion Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Do You Have Accessibility Needs
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - wheelchair accessible site
+      - Yes - accessible restrooms
+      - Yes - other
+      required: true
+    - id: 25
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Travel guide
+      - Online review site
+      - Previous stay
+      - Other
+      required: false
+    - id: 27
+      name: previous_guest
+      label: Have You Stayed With Us Before
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first time
+      required: true
+    - id: 28
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: estimated_arrival_time
+      label: Estimated Arrival Time
+      hint: What time
+      type: time
+      options: []
+      required: false
+    - id: 30
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Pay on arrival
+      - Check
+      required: true
+    - id: 31
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: total_amount
+      label: Total Amount
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: cancellation_policy_acknowledged
+      label: I Have Read the Cancellation Policy
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - false
+      required: true
+    - id: 34
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 35
+      name: guest_signature
+      label: Guest Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

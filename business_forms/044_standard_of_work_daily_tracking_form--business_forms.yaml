@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Of Work Daily Tracking Form
+    pages:
+    - id: 1
+      name: standard_of_work_daily_tracking_form
+      label: Work Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tasks_completed_date
+      label: Tasks Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''On Hold''}'
+      - '{''id'': 3, ''name'': ''Done''}'
+      required: false
+    - id: 5
+      name: work_status_note
+      label: Work Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: work_end_time
+      label: Work End Time
+      hint: null
+      type: time
+      options: []
+      required: false

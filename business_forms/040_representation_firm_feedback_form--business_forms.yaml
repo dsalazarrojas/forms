@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Representation Firm Feedback Form
+    pages:
+    - id: 1
+      name: page_1
+      label: feedback-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - category-1
+      - category-2
+      - category-3
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: select_one
+      options:
+      - submitted-by-1
+      - submitted-by-2
+      - submitted-by-3
+      required: false
+    - id: 8
+      name: submitted_at
+      label: submitted-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_time
+      label: submitted-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_name
+      label: submitted-by-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: firm
+      label: firm
+      hint: null
+      type: select_one
+      options:
+      - firm-1
+      - firm-2
+      - firm-3
+      required: false

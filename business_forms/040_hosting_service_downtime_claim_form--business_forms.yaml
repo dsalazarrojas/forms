@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hosting Service Downtime Claim Form
+    pages:
+    - id: 1
+      name: hosting_service_downtime_claim_form
+      label: Hosting Service Downtime Claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_interruption_description
+      label: Service Intermittent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: compensation_claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: downtime_start_date
+      label: Downtime Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: downtime_end_date
+      label: Downtime End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_interruption
+      label: Reason for Intermittent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 8
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

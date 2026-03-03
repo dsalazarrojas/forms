@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Franchise Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 3
+      name: investment
+      label: investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: franchise_lead
+      label: franchise_lead
+      hint: null
+      type: select_multiple
+      options:
+      - Option 5
+      - Option 6
+      - Option 7
+      required: false
+    - id: 6
+      name: other_info
+      label: other_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_info
+      label: confirm_info
+      hint: null
+      type: select_one
+      options:
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 8
+      name: confirm_location
+      label: confirm_location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 11
+      - Option 12
+      required: false
+    - id: 9
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Option 13
+      - Option 14
+      - Option 15
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_automation_equipment_inspection_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 10
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 14
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 16
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 19
+      name: form_completed_date
+      label: Form Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_revised
+      label: Form Revised
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: form_revised_by
+      label: Form Revised By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 22
+      name: form_revised_date
+      label: Form Revised Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_issued
+      label: Form Issued
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: form_issued_by
+      label: Form Issued By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 25
+      name: form_issued_date
+      label: Form Issued Date
+      hint: null
+      type: date
+      options: []
+      required: false

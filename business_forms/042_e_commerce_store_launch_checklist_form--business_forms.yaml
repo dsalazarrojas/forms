@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Store Launch Checklist Form
+    pages:
+    - id: 1
+      name: store_launch_info
+      label: E Commerce Store Launch Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_info
+      label: Business Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''Authorize.net''}'
+      required: false
+    - id: 5
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Shipping Option A''}'
+      - '{''label'': ''Shipping Option B''}'
+      - '{''label'': ''Shipping Option C''}'
+      required: false
+    - id: 6
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: store_launch_schedule
+      label: Store Launch Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: store_launch_checklist
+      label: Store Launch Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_launch_review
+      label: Store Launch Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_launch_contact
+      label: Store Launch Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_launch_address
+      label: Store Launch Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Gift Delivery Form
+    pages:
+    - id: 1
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recipient_name
+      label: recipient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: gift_item_name
+      label: gift item name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_item_description
+      label: gift item description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_value
+      label: gift value
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Development Inquiry
+    pages:
+    - id: 1
+      name: web_development_inquiry
+      label: What kind of web development services do you need?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: web_development_inquiry_services
+      label: What specific web development services do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - Frontend
+      - Backend
+      - Database
+      - Security
+      required: false
+    - id: 3
+      name: web_development_inquiry_email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: web_development_inquiry_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: web_development_inquiry_comments
+      label: Any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: web_development_inquiry_allow_contact
+      label: Allow our development team to contact you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: web_development_inquiry_date
+      label: When do you need the project completed by?
+      hint: null
+      type: date
+      options: []
+      required: false

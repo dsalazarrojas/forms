@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Media Inquiry Contact Form
+    pages:
+    - id: 1
+      name: researcher_name
+      label: Researchers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Director''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Researcher''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: research_topic
+      label: Research Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_reason
+      label: Contact Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false

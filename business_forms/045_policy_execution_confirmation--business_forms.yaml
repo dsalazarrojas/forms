@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: policy_execution_confirmation
+    pages:
+    - id: 1
+      name: policy_execution_confirmation
+      label: policy_execution_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: executed_by
+      label: executed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_executed
+      label: date_executed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_executed
+      label: time_executed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: executed_by_staff
+      label: executed_by_staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: staff_acknowledgment
+      label: staff_acknowledgment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_acknowledgment
+      label: manager_acknowledgment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manager_acknowledgment_date
+      label: manager_acknowledgment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: executed_by_date
+      label: executed_by_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: executed_by_time
+      label: executed_by_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: staff_comment
+      label: staff_comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: execution_confirmation_form_completed_date
+      label: execution_confirmation_form_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: execution_confirmation_form_completed_time
+      label: execution_confirmation_form_completed_time
+      hint: null
+      type: time
+      options: []
+      required: false

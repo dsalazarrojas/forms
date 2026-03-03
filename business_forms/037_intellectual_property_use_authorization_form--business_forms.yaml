@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intellectual Property Use Authorization Form
+    pages:
+    - id: 1
+      name: user_ip
+      label: User IP
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: permission_type
+      label: Permission Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 6
+      name: permission_date
+      label: Permission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: usage_term
+      label: Usage Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: usage_agreement
+      label: Usage Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

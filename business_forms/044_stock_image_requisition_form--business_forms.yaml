@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Image Requisition Form
+    pages:
+    - id: 1
+      name: stock_image_requisition_form
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: image_description
+      label: image_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: image_tags
+      label: image_tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: required_fields
+      label: required_fields
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 9
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false

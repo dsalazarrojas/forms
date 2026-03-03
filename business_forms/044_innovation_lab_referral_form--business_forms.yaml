@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: innovation_lab_referral_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_url
+      label: project_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_stage
+      label: project_stage
+      hint: null
+      type: select_one
+      options:
+      - new
+      - in_progress
+      - on_hold
+      - completed
+      required: true
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 7
+      name: project_category
+      label: project_category
+      hint: null
+      type: select_one
+      options:
+      - software
+      - hardware
+      - business
+      required: true
+    - id: 8
+      name: project_team
+      label: project_team
+      hint: null
+      type: select_multiple
+      options:
+      - team1
+      - team2
+      - team3
+      required: false
+    - id: 9
+      name: project_owner
+      label: project_owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_role
+      label: submitter_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_date
+      label: submitter_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: project_tags
+      label: project_tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_employees
+      label: project_employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_participants
+      label: project_participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: project_files
+      label: project_files
+      hint: null
+      type: select_multiple
+      options:
+      - document1
+      - document2
+      - document3
+      required: false

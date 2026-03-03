@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: haulout_service_agreement
+    pages:
+    - id: 1
+      name: general
+      label: General
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vessel_details
+      label: vessel_details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vessel Name'', ''label'': ''vessel_name''}'
+      - '{''value'': ''Vessel Type'', ''label'': ''vessel_type''}'
+      required: false
+    - id: 3
+      name: haulout_details
+      label: haulout_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Haulout Type'', ''label'': ''haulout_type''}'
+      - '{''value'': ''Haulout Date'', ''label'': ''haulout_date''}'
+      - '{''value'': ''Haulout Time'', ''label'': ''haulout_time''}'
+      required: false
+    - id: 4
+      name: haulout_cost
+      label: haulout_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vessel_status
+      label: vessel_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In-Held'', ''label'': ''in_held''}'
+      - '{''value'': ''Out-Docked'', ''label'': ''out_docked''}'
+      required: false
+    - id: 6
+      name: haulout_status
+      label: haulout_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Completed'', ''label'': ''completed''}'
+      - '{''value'': ''Pending'', ''label'': ''pending''}'
+      required: false
+    - id: 7
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vessel_type_options
+      label: vessel_type_options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Sailing Yacht'', ''label'': ''sailing_yacht''}'
+      - '{''value'': ''Houseboat'', ''label'': ''houseboat''}'
+      required: false
+    - id: 9
+      name: haulout_date_range
+      label: haulout_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: haulout_time_range
+      label: haulout_time_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: vessel_size
+      label: vessel_size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: haulout_cost_currency
+      label: haulout_cost_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''USD'', ''label'': ''usd''}'
+      - '{''value'': ''CAD'', ''label'': ''cad''}'
+      required: false
+    - id: 13
+      name: haulout_cost_rate
+      label: haulout_cost_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: haulout_cost_rate_currency
+      label: haulout_cost_rate_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''USD'', ''label'': ''usd''}'
+      - '{''value'': ''CAD'', ''label'': ''cad''}'
+      required: false
+    - id: 15
+      name: remarks2
+      label: remarks2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: remarks3
+      label: remarks3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: remarks4
+      label: remarks4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: remarks5
+      label: remarks5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: remarks6
+      label: remarks6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: remarks7
+      label: remarks7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: remarks8
+      label: remarks8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: remarks9
+      label: remarks9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: remarks10
+      label: remarks10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: remarks11
+      label: remarks11
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: remarks12
+      label: remarks12
+      hint: null
+      type: note
+      options: []
+      required: false

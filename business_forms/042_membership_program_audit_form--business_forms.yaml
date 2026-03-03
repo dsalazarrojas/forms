@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: membership_program_audit_form
+    pages:
+    - id: 1
+      name: member_survey
+      label: Member Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: member_experience
+      label: Member Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: member_satisfaction
+      label: Member Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

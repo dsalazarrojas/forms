@@ -1,0 +1,472 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automobile Detailing and Mobile Car Wash Service Agreement Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automobile Detailing and Mobile Car Wash Service Agreement
+      hint: Please complete this service agreement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Convertible
+      - Van
+      - Motorcycle
+      - RV or Boat
+      - Other
+      required: true
+    - id: 17
+      name: vehicle_size
+      label: Vehicle Size
+      hint: Size category
+      type: select_one
+      options:
+      - Compact
+      - Standard
+      - Large
+      - Extra Large
+      required: true
+    - id: 18
+      name: vehicle_condition
+      label: Current Vehicle Condition
+      hint: How dirty is it
+      type: select_one
+      options:
+      - Lightly Soiled
+      - Moderately Dirty
+      - Very Dirty
+      - Extremely Dirty
+      required: true
+    - id: 19
+      name: service_info
+      label: Service Information
+      hint: Service details
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: service_type
+      label: Service Type
+      hint: What service
+      type: select_one
+      options:
+      - Mobile Car Wash
+      - Basic Detailing
+      - Full Detailing
+      - Premium Detailing
+      - Interior Only
+      - Exterior Only
+      - Ceramic Coating
+      - Other
+      required: true
+    - id: 21
+      name: service_package
+      label: Service Package
+      hint: Which package
+      type: select_one
+      options:
+      - Basic Wash
+      - Wash and Vacuum
+      - Standard Detail
+      - Premium Detail
+      - Deluxe Package
+      - Custom Package
+      required: true
+    - id: 22
+      name: interior_services
+      label: Interior Services
+      hint: Select services
+      type: select_multiple
+      options:
+      - Vacuum
+      - Dashboard Wipe
+      - Window Cleaning
+      - Leather Conditioning
+      - Carpet Shampoo
+      - Seat Cleaning
+      - Odor Removal
+      - None
+      required: false
+    - id: 23
+      name: exterior_services
+      label: Exterior Services
+      hint: Select services
+      type: select_multiple
+      options:
+      - Hand Wash
+      - Wax Application
+      - Tire Dressing
+      - Wheel Cleaning
+      - Clay Bar Treatment
+      - Polish
+      - Scratch Removal
+      - None
+      required: false
+    - id: 24
+      name: add_ons
+      label: Add-On Services
+      hint: Additional services
+      type: select_multiple
+      options:
+      - Engine Bay Cleaning
+      - Headlight Restoration
+      - Pet Hair Removal
+      - Stain Treatment
+      - Paint Protection
+      - Undercarriage Wash
+      - None
+      required: false
+    - id: 25
+      name: service_location
+      label: Service Location
+      hint: Where to perform
+      type: select_one
+      options:
+      - Customer Home
+      - Customer Workplace
+      - Other Location
+      - At Our Facility
+      required: true
+    - id: 26
+      name: service_address
+      label: Service Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: preferred_date
+      label: Preferred Service Date
+      hint: When
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: preferred_time
+      label: Preferred Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 29
+      name: water_access
+      label: Water Access Available
+      hint: For mobile service
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 30
+      name: electricity_access
+      label: Electricity Access Available
+      hint: For mobile service
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 31
+      name: pricing_info
+      label: Pricing Information
+      hint: Cost details
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Total estimate
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: deposit_required
+      label: Deposit Required
+      hint: Is deposit needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      - Mobile Payment
+      required: true
+    - id: 36
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When to pay
+      type: select_one
+      options:
+      - Upon Completion
+      - 50 Percent Deposit
+      - Full Prepayment
+      required: true
+    - id: 37
+      name: recurring_service
+      label: Recurring Service
+      hint: Want regular service
+      type: select_one
+      options:
+      - One-Time Only
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 38
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: Please read
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: 24 hour notice
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 40
+      name: satisfaction_guarantee
+      label: Satisfaction Guarantee
+      hint: 100 percent satisfaction
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 41
+      name: damage_policy
+      label: Damage Policy
+      hint: Liability terms
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 42
+      name: weather_policy
+      label: Weather Policy
+      hint: Reschedule if needed
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 43
+      name: access_authorization
+      label: Access Authorization
+      hint: Technician may access vehicle
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 44
+      name: personal_items
+      label: Personal Items
+      hint: Remove valuables
+      type: select_one
+      options:
+      - I Have Removed Items
+      - Shop Not Responsible
+      required: true
+    - id: 45
+      name: existing_damage
+      label: Existing Damage
+      hint: Any current damage
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requests
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: marketing_consent
+      label: Marketing Consent
+      hint: Can we contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 48
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Drive By
+      - Other
+      required: false
+    - id: 49
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 51
+      name: provider_signature
+      label: Service Provider Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: false

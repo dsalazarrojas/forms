@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Locator Search Form
+    pages:
+    - id: 1
+      name: store_locator_search_form_store_id
+      label: store_locator_search_form_store_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: search_location
+      label: search_location
+      hint: Enter the address or zip code of the location you wish to search
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: search_distance
+      label: search_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: search_radius
+      label: search_radius
+      hint: Enter the search radius in meters
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: store_locator_search_form_category
+      label: store_locator_search_form_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Retail'', ''label'': ''Retail''}'
+      - '{''id'': 2, ''name'': ''Service'', ''label'': ''Service''}'
+      required: false
+    - id: 6
+      name: search_radius_unit
+      label: search_radius_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''miles'', ''label'': ''miles''}'
+      - '{''id'': 2, ''name'': ''kilometers'', ''label'': ''kilometers''}'
+      required: false
+    - id: 7
+      name: store_locator_search_form_location_type
+      label: store_locator_search_form_location_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Store'', ''label'': ''Store''}'
+      - '{''id'': 2, ''name'': ''Service Station'', ''label'': ''Service Station''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: store_locator_search_form_language
+      label: store_locator_search_form_language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
+      - '{''id'': 2, ''name'': ''Spanish'', ''label'': ''Spanish''}'
+      - '{''id'': 3, ''name'': ''French'', ''label'': ''French''}'
+      required: false
+    - id: 9
+      name: store_locator_search_form_phone_number
+      label: store_locator_search_form_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_locator_search_form_address
+      label: store_locator_search_form_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_locator_search_form_postal_code
+      label: store_locator_search_form_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_locator_search_form_country
+      label: store_locator_search_form_country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''United States'', ''label'': ''United States''}'
+      - '{''id'': 2, ''name'': ''Canada'', ''label'': ''Canada''}'
+      required: false
+    - id: 13
+      name: store_locator_search_form_state
+      label: store_locator_search_form_state
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Alabama'', ''label'': ''Alabama''}'
+      - '{''id'': 2, ''name'': ''Alaska'', ''label'': ''Alaska''}'
+      - '{''id'': 3, ''name'': ''Arizona'', ''label'': ''Arizona''}'
+      - '{''id'': 4, ''name'': ''Arkansas'', ''label'': ''Arkansas''}'
+      - '{''id'': 5, ''name'': ''California'', ''label'': ''California''}'
+      - '{''id'': 6, ''name'': ''Colorado'', ''label'': ''Colorado''}'
+      - '{''id'': 7, ''name'': ''Connecticut'', ''label'': ''Connecticut''}'
+      - '{''id'': 8, ''name'': ''Delaware'', ''label'': ''Delaware''}'
+      - '{''id'': 9, ''name'': ''District of Columbia'', ''label'': ''District of
+        Columbia''}'
+      - '{''id'': 10, ''name'': ''Florida'', ''label'': ''Florida''}'
+      - '{''id'': 11, ''name'': ''Georgia'', ''label'': ''Georgia''}'
+      - '{''id'': 12, ''name'': ''Hawaii'', ''label'': ''Hawaii''}'
+      - '{''id'': 13, ''name'': ''Idaho'', ''label'': ''Idaho''}'
+      - '{''id'': 14, ''name'': ''Illinois'', ''label'': ''Illinois''}'
+      - '{''id'': 15, ''name'': ''Indiana'', ''label'': ''Indiana''}'
+      - '{''id'': 16, ''name'': ''Iowa'', ''label'': ''Iowa''}'
+      - '{''id'': 17, ''name'': ''Kansas'', ''label'': ''Kansas''}'
+      - '{''id'': 18, ''name'': ''Kentucky'', ''label'': ''Kentucky''}'
+      - '{''id'': 19, ''name'': ''Louisiana'', ''label'': ''Louisiana''}'
+      - '{''id'': 20, ''name'': ''Maine'', ''label'': ''Maine''}'
+      - '{''id'': 21, ''name'': ''Maryland'', ''label'': ''Maryland''}'
+      - '{''id'': 22, ''name'': ''Massachusetts'', ''label'': ''Massachusetts''}'
+      - '{''id'': 23, ''name'': ''Michigan'', ''label'': ''Michigan''}'
+      - '{''id'': 24, ''name'': ''Minnesota'', ''label'': ''Minnesota''}'
+      - '{''id'': 25, ''name'': ''Mississippi'', ''label'': ''Mississippi''}'
+      required: false
+    - id: 14
+      name: store_locator_search_form_street
+      label: store_locator_search_form_street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: store_locator_search_form_city
+      label: store_locator_search_form_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: store_locator_search_form_zip
+      label: store_locator_search_form_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: store_locator_search_form_latitude
+      label: store_locator_search_form_latitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_locator_search_form_longitude
+      label: store_locator_search_form_longitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: store_locator_search_form_submit
+      label: store_locator_search_form_submit
+      hint: null
+      type: text
+      options: []
+      required: false

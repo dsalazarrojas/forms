@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Process Evaluation
+    pages:
+    - id: 1
+      name: process_steps
+      label: Process Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: safety_checklist
+      label: Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quality_control
+      label: Quality Control
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: critical_control_points
+      label: Critical Control Points
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: process_risk
+      label: Process Risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: safety_training
+      label: Safety Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: critical_control_points_details
+      label: Critical Control Points Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quality_control_details
+      label: Quality Control Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: process_steps_details
+      label: Process Steps Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_checklist_details
+      label: Safety Checklist Details
+      hint: null
+      type: text
+      options: []
+      required: false

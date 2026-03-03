@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Innovation Inquiry Contact Form
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Inquiry type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_description
+      label: Project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaboration_requests
+      label: Collaboration requests
+      hint: null
+      type: select_one
+      options:
+      - Partnership
+      - Joint-venture
+      - License
+      required: false
+    - id: 5
+      name: brand_manufacturer
+      label: Brand/Manufacturer
+      hint: Please enter brand or manufacturer name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: Contact first name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_last_name
+      label: Contact last name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

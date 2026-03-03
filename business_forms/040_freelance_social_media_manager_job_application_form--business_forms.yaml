@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelance Social Media Manager Job Application Form
+    pages:
+    - id: 1
+      name: job_application_form
+      label: Job Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Social Media Manager
+      - Content Manager
+      - Marketing Manager
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Content
+      - Marketing
+      - Communication
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expected_salary
+      label: Expected Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: job_references
+      label: Job References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: agreement
+      label: Agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: agreement_expiration
+      label: Agreement Expiration
+      hint: null
+      type: date
+      options: []
+      required: false

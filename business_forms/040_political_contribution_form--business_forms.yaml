@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: political_contribution_form
+    pages:
+    - id: 1
+      name: political_activity
+      label: political_activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contributor_name
+      label: contributor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contributor_address
+      label: contributor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contributor_email
+      label: contributor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contribution_type
+      label: contribution_type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - In-Kind
+      - Service
+      - Other
+      required: false
+    - id: 7
+      name: amount_contributed
+      label: amount_contributed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contribution_date
+      label: contribution_date
+      hint: null
+      type: date
+      options: []
+      required: false

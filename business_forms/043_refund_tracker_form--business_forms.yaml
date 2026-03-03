@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_tracker_form
+    pages:
+    - id: 1
+      name: refund_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: tracking_id
+      label: Tracking ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tracking_url
+      label: Tracking URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimated_refund
+      label: Estimated Refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: actual_refund
+      label: Actual Refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Bootcamp
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 10
+      name: decimal_value
+      label: Decimal Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: integer_value
+      label: Integer Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: time_value
+      label: Time Value
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: select_date_range
+      label: Select Date Range
+      hint: null
+      type: select_one
+      options:
+      - 01/01/2020-01/01/2025
+      - 01/02/2020-01/01/2025
+      - 01/03/2020-01/01/2025
+      required: true

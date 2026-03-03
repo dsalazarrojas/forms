@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Demo Technician Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product
+      label: Product
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''Product A'', ''label'': ''Product A''}'
+      - '{''id'': 11, ''name'': ''Product B'', ''label'': ''Product B''}'
+      - '{''id'': 12, ''name'': ''Product C'', ''label'': ''Product C''}'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

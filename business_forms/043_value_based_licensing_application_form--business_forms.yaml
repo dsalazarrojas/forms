@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: value_based_licensing_application_form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: license_type
+      label: license_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option1''}'
+      - '{''id'': 2, ''value'': ''option2''}'
+      - '{''id'': 3, ''value'': ''option3''}'
+      required: false
+    - id: 9
+      name: value
+      label: value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

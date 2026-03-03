@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Relationship Management Contact Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Colleague''}'
+      - '{''label'': ''Mentor''}'
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Technology''}'
+      - '{''label'': ''Sports''}'
+      - '{''label'': ''Travel''}'
+      required: false
+    - id: 4
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

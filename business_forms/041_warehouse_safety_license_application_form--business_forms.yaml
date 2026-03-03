@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Safety License Application Form
+    pages:
+    - id: 1
+      name: section_1
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_2
+      label: Safety Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_3
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_4
+      label: Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_5
+      label: Declaration Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: section_6
+      label: Emergency Contacts
+      hint: Name, Phone, and Email of Emergency Contact
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: section_7
+      label: Facility Details
+      hint: Facility Address and Safety Features
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_8
+      label: Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_9
+      label: Facility Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_10
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: section_11
+      label: License Information
+      hint: License Number, License Status, and License Expiry Date
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_12
+      label: License Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_13
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: section_14
+      label: License Expiry Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: section_15
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false

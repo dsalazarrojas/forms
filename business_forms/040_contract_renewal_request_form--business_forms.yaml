@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Renewal Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_contract_start
+      label: Current Contract Start
+      hint: Original start date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_contract_end
+      label: Current Contract End
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: renewal_type
+      label: Renewal Type
+      hint: Type of renewal
+      type: select_one
+      options:
+      - Same terms
+      - Same terms with price adjustment
+      - Modified terms
+      - Extended duration
+      - Reduced scope
+      - Expanded scope
+      required: true
+    - id: 12
+      name: proposed_renewal_duration
+      label: Proposed Renewal Duration
+      hint: How long to renew?
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - Other
+      required: true
+    - id: 13
+      name: current_contract_value
+      label: Current Contract Value
+      hint: Current annual value
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: proposed_renewal_value
+      label: Proposed Renewal Value
+      hint: New annual value
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: How satisfied with service?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 16
+      name: reasons_for_renewal
+      label: Reasons for Renewal
+      hint: Why renew?
+      type: select_multiple
+      options:
+      - Satisfied with performance
+      - Cost effective
+      - Reliable service
+      - Good relationship
+      - No better alternative
+      - Critical to operations
+      - Easy to work with
+      - Other
+      required: true
+    - id: 17
+      name: proposed_changes
+      label: Proposed Changes
+      hint: Any changes requested?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issues_to_address
+      label: Issues to Address
+      hint: Any problems to fix?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: alternative_options_considered
+      label: Alternative Options Considered
+      hint: Did you shop around?
+      type: select_one
+      options:
+      - Yes, multiple quotes
+      - Yes, one alternative
+      - No, staying with current
+      - Not applicable
+      required: false
+    - id: 20
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When need decision?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: budget_approved
+      label: Budget Approved
+      hint: Is renewal budgeted?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending approval
+      required: true
+    - id: 22
+      name: stakeholders
+      label: Stakeholders
+      hint: Who is involved?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

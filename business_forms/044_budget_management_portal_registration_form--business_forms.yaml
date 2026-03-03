@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Management Portal Registration Form
+    pages:
+    - id: 1
+      name: user_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_manager
+      label: Reporting Manager
+      hint: Direct supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: portal_access_level
+      label: Portal Access Level Requested
+      hint: null
+      type: select_one
+      options:
+      - Viewer - Read Only
+      - Analyst - View and Report
+      - Manager - Create and Approve
+      - Administrator - Full Access
+      required: true
+    - id: 9
+      name: budget_responsibilities
+      label: Budget Responsibilities
+      hint: What budgets will you manage
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: data_access_needed
+      label: Data Access Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Budget Planning
+      - Expense Tracking
+      - Reports and Analytics
+      - Approvals
+      - Forecasting
+      - Variance Analysis
+      required: true
+    - id: 11
+      name: budget_authority_limit
+      label: Budget Authority Limit
+      hint: Maximum single approval amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: manager_approval
+      label: Manager Approval
+      hint: Has supervisor approved access
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not yet requested
+      required: true
+    - id: 13
+      name: manager_name
+      label: Approving Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_completed
+      label: Portal Training Completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed
+      - Scheduled
+      - Not yet scheduled
+      required: true
+    - id: 15
+      name: security_agreement
+      label: Data Security Agreement Acknowledged
+      hint: Understand confidentiality requirements
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - false
+      required: true
+    - id: 16
+      name: multi_factor_auth
+      label: Multi-Factor Authentication Enabled
+      hint: null
+      type: select_one
+      options:
+      - Yes, enabled
+      - Will enable during onboarding
+      - Not applicable
+      required: true
+    - id: 17
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

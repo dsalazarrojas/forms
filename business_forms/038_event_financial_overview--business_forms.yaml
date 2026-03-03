@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Financial Overview
+    pages:
+    - id: 1
+      name: event_financial_overview_form
+      label: event financial overview form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_income
+      label: event income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_expenses
+      label: event expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_expenses_description
+      label: event expenses description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_profit_loss
+      label: event profit loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_profit_loss_percentage
+      label: event profit loss percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatjohn
+      required: false

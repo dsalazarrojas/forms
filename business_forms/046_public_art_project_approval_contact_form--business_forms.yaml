@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_art_project_approval_contact_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proposal_date
+      label: Proposal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: proposal_deadline
+      label: Proposal Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: decision_making_body
+      label: Decision Making Body
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Artist''}'
+      - '{''label'': ''City''}'
+      - '{''label'': ''County''}'
+      - '{''label'': ''Public Art Board''}'
+      required: false
+    - id: 10
+      name: decision_making_body_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

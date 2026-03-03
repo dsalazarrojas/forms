@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_search_filter_form
+    pages:
+    - id: 1
+      name: customer_search_form
+      label: Customer Search Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_filters
+      label: Search Filters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '123'
+      - '456'
+      - '789'
+      required: false
+    - id: 4
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '123'
+      - '456'
+      - '789'
+      required: false
+    - id: 5
+      name: date_picker
+      label: Date Picker
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_picker
+      label: Time Picker
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note_2
+      label: Another Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: search_button
+      label: Search
+      hint: null
+      type: select_one
+      options:
+      - Search
+      - Clear
+      - Reset
+      required: false
+    - id: 12
+      name: reset_button
+      label: Reset
+      hint: null
+      type: select_one
+      options:
+      - Reset
+      - Other
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: stormwater_inspection_report
+    pages:
+    - id: 1
+      name: site_info
+      label: Site Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: stormwater_pumps
+      label: stormwater_pumps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: sump_pumps
+      label: sump_pumps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: catch_basins
+      label: catch_basins
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: dss_pipes
+      label: dss_pipes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: dss_valves
+      label: dss_valves
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: ddr_pipes
+      label: ddr_pipes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ddr_valves
+      label: ddr_valves
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cistern_pumps
+      label: cistern_pumps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: dss_pumping_capacity
+      label: dss_pumping_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: ddr_pumping_capacity
+      label: ddr_pumping_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: dss_pumping_rate
+      label: dss_pumping_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: ddr_pumping_rate
+      label: ddr_pumping_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sump_pumping_capacity
+      label: sump_pumping_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sump_pumping_rate
+      label: sump_pumping_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: sump_pumping_volume
+      label: sump_pumping_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_items
+      label: action_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photo_evidence
+      label: photo_evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: site_map
+      label: site_map
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: site_visit_date
+      label: site_visit_date
+      hint: null
+      type: date
+      options: []
+      required: false

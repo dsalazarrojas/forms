@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estimation & Project Management Checklist
+    pages:
+    - id: 1
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_requirements
+      label: Project Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_organization
+      label: Team and Organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: estimation_method
+      label: Estimation Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_schedule
+      label: Project Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_resources
+      label: Project Resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_plan
+      label: Communication Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

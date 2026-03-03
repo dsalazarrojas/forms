@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Ingredient Development Registration Form
+    pages:
+    - id: 1
+      name: sustainable_ingredient_form
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sustainable_ingredient_name
+      label: sustainable_ingredient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sustainability_category
+      label: sustainable_category
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Dye
+      - Fabric
+      - Fiber
+      - Ink
+      - Materials
+      - Other
+      - Semi-metals
+      - Synthetic
+      required: true
+    - id: 4
+      name: sustainable_ingredient_description
+      label: description
+      hint: Briefly describe the sustainable ingredient
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sustainable_ingredient_image
+      label: image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sustainable_ingredient_price
+      label: sustainable_ingredient_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sustainable_ingredient_price_currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - INR
+      - SGD
+      - MYR
+      - AUD
+      - NZD
+      required: true
+    - id: 8
+      name: sustainable_ingredient_weight
+      label: sustainable_ingredient_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sustainable_ingredient_weight_unit
+      label: weight_unit
+      hint: null
+      type: select_one
+      options:
+      - grams
+      - kilogram
+      - pounds
+      - ounces
+      - tons
+      required: true
+    - id: 10
+      name: sustainable_ingredient_origin
+      label: origin
+      hint: null
+      type: text
+      options: []
+      required: false

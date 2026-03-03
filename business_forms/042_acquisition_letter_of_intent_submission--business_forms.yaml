@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acquisition Letter Of Intent Submission
+    pages:
+    - id: 1
+      name: potential_buyer_name
+      label: Potential Buyer Name
+      hint: Individual or Entity Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: target_company_name
+      label: Target Company Name
+      hint: Business being acquired
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: proposed_purchase_price
+      label: Proposed Purchase Price
+      hint: Value in USD
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: acquisition_type
+      label: Acquisition Type
+      hint: null
+      type: select_one
+      options:
+      - Asset Purchase
+      - Stock Purchase
+      - Merger
+      required: true
+    - id: 6
+      name: financing_status
+      label: Financing Status
+      hint: current state of funding
+      type: select_one
+      options:
+      - Fully Funded
+      - Financing Contingent
+      - Private Equity Backed
+      required: true
+    - id: 7
+      name: proposed_closing_date
+      label: Proposed Closing Date
+      hint: Target date for finalization
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: loi_expiration_date
+      label: LOI Expiration Date
+      hint: Date after which this offer is void
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: key_contingencies
+      label: Key Contingencies
+      hint: e.g., Due diligence, Financing, Board approval
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exclusivity_period_requested
+      label: Exclusivity Period Requested
+      hint: No-shop provision duration
+      type: select_one
+      options:
+      - 30 Days
+      - 60 Days
+      - 90 Days
+      required: true
+    - id: 11
+      name: confidentiality_header
+      label: -- Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: nda_signed
+      label: NDA Signed?
+      hint: Non-Disclosure Agreement status
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 13
+      name: submitter_title_and_role
+      label: Submitter Title and Role
+      hint: e.g., CEO of Buyer Entity
+      type: text
+      options: []
+      required: true

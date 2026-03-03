@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Tracking
+    pages:
+    - id: 1
+      name: job_tracking_form
+      label: Job Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_date
+      label: Job Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: job_start_time
+      label: Job Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

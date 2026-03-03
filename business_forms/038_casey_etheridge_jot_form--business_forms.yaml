@@ -1,0 +1,354 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casey Etheridge Jot Form
+    pages:
+    - id: 1
+      name: order_header
+      label: Product Order Form
+      hint: Place your order and help track inventory
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Shipping Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_selection
+      label: Product Selection
+      hint: What you want to order
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: product_category
+      label: Product Category
+      hint: Type of product
+      type: select_one
+      options:
+      - Apparel
+      - Accessories
+      - Home goods
+      - Electronics
+      - Handmade items
+      - Custom orders
+      - Other
+      required: true
+    - id: 14
+      name: product_name
+      label: Product Name
+      hint: Specific item
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_description
+      label: Product Description
+      hint: Details about item
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: size
+      label: Size
+      hint: If applicable
+      type: select_one
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - 2XL
+      - 3XL
+      - One size
+      - Not applicable
+      required: false
+    - id: 17
+      name: color
+      label: Color
+      hint: Color preference
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quantity
+      label: Quantity
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: unit_price
+      label: Unit Price
+      hint: Price per item
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_price
+      label: Total Price
+      hint: Total cost
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customization
+      label: Customization Options
+      hint: Personalization
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: needs_customization
+      label: Does This Item Need Customization
+      hint: Personalization needed
+      type: select_one
+      options:
+      - Yes - custom text
+      - Yes - custom design
+      - Yes - custom size
+      - Yes - other customization
+      - No - standard item
+      required: true
+    - id: 23
+      name: customization_details
+      label: Describe Customization
+      hint: What you want
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: inventory_status
+      label: Inventory Status
+      hint: Stock availability
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: stock_check
+      label: Have You Checked Stock Availability
+      hint: Inventory confirmation
+      type: select_one
+      options:
+      - Yes - item in stock
+      - Yes - limited stock
+      - No - need to check
+      - No - pre-order
+      required: true
+    - id: 27
+      name: backorder_acceptable
+      label: Is Backorder Acceptable
+      hint: If out of stock
+      type: select_one
+      options:
+      - Yes - willing to wait
+      - Yes - up to 2 weeks
+      - Yes - up to 4 weeks
+      - No - in stock only
+      required: true
+    - id: 28
+      name: shipping_info
+      label: Shipping Information
+      hint: Delivery details
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery option
+      type: select_one
+      options:
+      - Standard shipping
+      - Expedited shipping
+      - Overnight shipping
+      - Local pickup
+      - Will call
+      required: true
+    - id: 30
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Delivery fee
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special directions
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: gift_order
+      label: Is This a Gift Order
+      hint: Gift status
+      type: select_one
+      options:
+      - Yes - gift wrap needed
+      - Yes - no wrap
+      - No - personal order
+      required: true
+    - id: 33
+      name: gift_message
+      label: Gift Message
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: payment_info
+      label: Payment Information
+      hint: How to pay
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: payment_method
+      label: Payment Method
+      hint: Payment type
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Venmo
+      - Cash
+      - Check
+      - Other
+      required: true
+    - id: 36
+      name: payment_status
+      label: Payment Status
+      hint: Payment confirmation
+      type: select_one
+      options:
+      - Paid in full
+      - Deposit paid
+      - Will pay on pickup
+      - Will pay on delivery
+      - Invoice requested
+      required: true
+    - id: 37
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: order_tracking
+      label: Order Tracking
+      hint: Status updates
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: notification_preference
+      label: How Should We Notify You
+      hint: Communication preference
+      type: select_one
+      options:
+      - Email updates
+      - Text message updates
+      - Phone calls
+      - Any method
+      required: true
+    - id: 40
+      name: estimated_completion
+      label: Estimated Completion Date
+      hint: When ready
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement to terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 42
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

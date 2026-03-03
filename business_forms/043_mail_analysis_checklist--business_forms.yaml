@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mail Analysis Checklist
+    pages:
+    - id: 1
+      name: mailing_process
+      label: Mailing Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mailing_frequency
+      label: Mailing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mail_list
+      label: Mail List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mailing_list_size
+      label: Mailing List Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mailing_frequency_of_mailing
+      label: Mailing Frequency Of Mailing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: mailing_frequency_of_mailing_type
+      label: Mailing Frequency Of Mailing Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: mailing_process_rating
+      label: Mailing Process Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mailing_list_rating
+      label: Mailing List Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mailing_frequency_rating
+      label: Mailing Frequency Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mailing_process_comment
+      label: Mailing Process Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mailing_frequency_comment
+      label: Mailing Frequency Comment
+      hint: null
+      type: text
+      options: []
+      required: false

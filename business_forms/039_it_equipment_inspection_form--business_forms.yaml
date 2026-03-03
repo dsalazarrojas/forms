@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_equipment_inspection_form
+    pages:
+    - id: 1
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hardware_condition
+      label: Hardware Condition
+      hint: Please select all applicable issues.
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Critical''}'
+      - '{''id'': 4, ''label'': ''Needs Repair''}'
+      required: true
+    - id: 5
+      name: software_condition
+      label: Software Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Critical''}'
+      - '{''id'': 4, ''label'': ''Needs Update''}'
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Decommissioned''}'
+      required: true
+    - id: 8
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

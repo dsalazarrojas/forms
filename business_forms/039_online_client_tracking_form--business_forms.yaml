@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_client_tracking_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter client's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter client's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

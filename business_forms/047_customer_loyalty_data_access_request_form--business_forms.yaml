@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Data Access Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: data_access_request
+      label: Data Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_access_reason
+      label: Data Access Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_access_type
+      label: Data Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Customer Loyalty Data'', ''label'': ''Customer Loyalty Data''}'
+      - '{''value'': ''Customer Contact Information'', ''label'': ''Customer Contact
+        Information''}'
+      - '{''value'': ''Customer Purchase History'', ''label'': ''Customer Purchase
+        History''}'
+      - '{''value'': ''Customer Loyalty Program Data'', ''label'': ''Customer Loyalty
+        Program Data''}'
+      - '{''value'': ''Customer Marketing Data'', ''label'': ''Customer Marketing
+        Data''}'
+      - '{''value'': ''Customer Financial Data'', ''label'': ''Customer Financial
+        Data''}'
+      - '{''value'': ''Customer Support Data'', ''label'': ''Customer Support Data''}'
+      - '{''value'': ''Customer Other Data'', ''label'': ''Customer Other Data''}'
+      required: false
+    - id: 10
+      name: data_access_request_frequency
+      label: Data Access Request Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''One time'', ''label'': ''One time''}'
+      - '{''value'': ''Recurring'', ''label'': ''Recurring''}'
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Admin'', ''label'': ''Admin''}'
+      - '{''value'': ''Supervisor'', ''label'': ''Supervisor''}'
+      - '{''value'': ''Support'', ''label'': ''Support''}'
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

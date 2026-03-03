@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Action Items Details Form
+    pages:
+    - id: 1
+      name: task_details
+      label: -- Task details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: action_title
+      label: Action title
+      hint: Short description of the action item
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Detailed description of the task
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner
+      label: Owner
+      hint: Person responsible for completion
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: priority
+      label: Priority
+      hint: Priority level for the action
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: status
+      label: Status
+      hint: Current state of the action item
+      type: select_one
+      options:
+      - Open
+      - In progress
+      - Completed
+      required: true
+    - id: 7
+      name: due_date
+      label: Due date
+      hint: Target completion date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: estimated_effort_hours
+      label: Estimated effort hours
+      hint: Estimated time to complete in hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: related_project
+      label: Related project
+      hint: Project name or identifier
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dependencies
+      label: Dependencies
+      hint: Tasks that must be completed first
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tags
+      label: Tags
+      hint: Labels for categorization
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: progress_update
+      label: Progress update
+      hint: Latest progress note
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: closure_notes
+      label: Closure notes
+      hint: Notes recorded when closing the action
+      type: text
+      options: []
+      required: false

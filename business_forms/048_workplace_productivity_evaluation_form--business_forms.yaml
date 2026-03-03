@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_productivity_evaluation_form
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_hours_worked
+      label: Work Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_hours_overtime
+      label: Work Hours Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: productivity_levels
+      label: Productivity Levels
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''High''}'
+      - '{''id'': 11, ''label'': ''Medium''}'
+      - '{''id'': 12, ''label'': ''Low''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_hours_averages
+      label: Work Hours Averages
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_hours_overtime_averages
+      label: Work Hours Overtime Averages
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: productivity_improvement
+      label: Productivity Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13, ''label'': ''Increase''}'
+      - '{''id'': 14, ''label'': ''Decrease''}'
+      - '{''id'': 15, ''label'': ''No Change''}'
+      required: false
+    - id: 10
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: peer_rating
+      label: Peer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: self_rating
+      label: Self Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: department_rating
+      label: Department Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_rating
+      label: Team Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Talent Cost Estimator
+    pages:
+    - id: 1
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: duration
+      label: duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: cost_estimate
+      label: cost estimate
+      hint: null
+      type: number
+      options: []
+      required: false

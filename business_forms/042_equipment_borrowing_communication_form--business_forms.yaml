@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_borrowing_communication_form
+    pages:
+    - id: 1
+      name: user_request
+      label: User Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: equipment_borrowed
+      label: Equipment Borrowed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: borrower_info
+      label: Borrower Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_location
+      label: Item Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      required: false
+    - id: 11
+      name: status_update
+      label: Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Damaged
+      required: false
+    - id: 13
+      name: equipment_returned
+      label: Equipment Returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: borrower_comments
+      label: Borrower Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: admin_comments
+      label: Admin Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: borrower_signature
+      label: Borrower Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: admin_signature
+      label: Admin Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_borrowed
+      label: Date Borrowed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: duration_borrowed
+      label: Duration Borrowed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: equipment_returned_date
+      label: Equipment Returned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: total_hours_borrowed
+      label: Total Hours Borrowed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: borrower_type
+      label: Borrower Type
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Guest
+      required: false
+    - id: 25
+      name: status_color
+      label: Status Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Yellow
+      required: false

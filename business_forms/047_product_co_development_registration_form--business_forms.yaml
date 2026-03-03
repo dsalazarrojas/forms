@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Co Development Registration Form
+    pages:
+    - id: 1
+      name: product_co_development_registration_form
+      label: Product Co Development Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_name
+      label: Category Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: collaboration_level
+      label: Collaboration Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''value'': ''Option 1''}'
+      - '{''id'': 12, ''value'': ''Option 2''}'
+      - '{''id'': 13, ''value'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: collaboration_status
+      label: Collaboration Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''value'': ''Option 1''}'
+      - '{''id'': 15, ''value'': ''Option 2''}'
+      - '{''id'': 16, ''value'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: collaboration_description
+      label: Collaboration Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_date
+      label: Collaboration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

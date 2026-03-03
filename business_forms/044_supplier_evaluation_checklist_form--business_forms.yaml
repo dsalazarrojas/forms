@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Evaluation Checklist Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - Criteria 1
+      - Criteria 2
+      - Criteria 3
+      - Criteria 4
+      - Criteria 5
+      required: false
+    - id: 8
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: score_reason
+      label: Reason for Score
+      hint: null
+      type: text
+      options: []
+      required: false

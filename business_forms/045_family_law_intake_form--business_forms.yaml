@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Law Intake Form
+    pages:
+    - id: 1
+      name: family_law_intake_form
+      label: Family Law Intake Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: family_info
+      label: Family Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: case_details
+      label: Case Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_documents
+      label: Client Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

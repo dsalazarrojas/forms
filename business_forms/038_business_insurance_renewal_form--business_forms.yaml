@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Renewal Form
+    pages:
+    - id: 1
+      name: section_renewal_policy_info
+      label: -- Renewal Policy Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_number_for_renewal_ref
+      label: Policy Number for Renewal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renewal_business_name_official
+      label: Insured Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renewal_period_selection_term
+      label: Desired Renewal Term
+      hint: null
+      type: select_one
+      options:
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      required: true
+    - id: 5
+      name: section_business_update_renewal
+      label: -- Business Operations Update --
+      hint: Report any changes since last renewal
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: changes_to_business_activity_renewal
+      label: Changes to Primary Business Activity
+      hint: Have you added new services or products
+      type: select_one
+      options:
+      - No changes
+      - Minor changes (Related services)
+      - Major changes (New industry/activity)
+      required: true
+    - id: 7
+      name: total_assets_valuation_update_amount
+      label: Updated Total Assets Valuation (USD)
+      hint: Current value of business property and equipment
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_employee_count_renewal_update
+      label: Current Total Employee Count
+      hint: Total of full-time and part-time staff
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: recent_safety_improvements_description
+      label: Recent Safety or Risk Improvements
+      hint: e.g. New alarm system, safety training programs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claims_filed_current_term_selection
+      label: Claims Filed in Current Policy Term
+      hint: null
+      type: select_one
+      options:
+      - 0 Claims
+      - 1 Claim
+      - 2 Claims
+      - 3 or more Claims
+      required: true
+    - id: 11
+      name: section_renewal_authorization
+      label: -- Renewal Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: renewal_terms_agreement_notice
+      label: -- Important Renewal Notice --
+      hint: By signing, you certify that all information is correct and you wish to
+        renew under the proposed terms
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: renewal_auth_signature_name
+      label: Authorized Representative Signature
+      hint: Type full name to authorize renewal
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: renewal_form_date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Engagement Audit Form
+    pages:
+    - id: 1
+      name: social_media_platform
+      label: Which social media platform
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      - TikTok
+      - Pinterest
+      - Reddit
+      - Twitch
+      - Discord
+      - Snapchat
+      - Snapchat
+      - Snapchat
+      required: true
+    - id: 2
+      name: time_range
+      label: Select time range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: Starting date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: Ending date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: platform_name
+      label: Platform name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: platform_username
+      label: Platform username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: platform_url
+      label: Platform url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: engagement_type
+      label: Engagement type
+      hint: null
+      type: select_multiple
+      options:
+      - Posts
+      - Stories
+      - Videos
+      - Comments
+      - Messages
+      - Reviews
+      required: true
+    - id: 9
+      name: engagement_level
+      label: Engagement level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: true
+    - id: 10
+      name: engagement_rate
+      label: Engagement rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_followers
+      label: Total followers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_views
+      label: Total views
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_engagement
+      label: Total engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: engagement_per_post
+      label: Engagement per post
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: average_engagement_time
+      label: Average engagement time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: average_engagement_days
+      label: Average engagement days
+      hint: null
+      type: time
+      options: []
+      required: false

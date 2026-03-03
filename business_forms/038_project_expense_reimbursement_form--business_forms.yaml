@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Expense Reimbursement Form
+    pages:
+    - id: 1
+      name: project_expense_reimbursement_form
+      label: project_expense_reimbursement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_expense
+      label: date_of_expense
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount_expensed
+      label: amount_expensed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_multiple
+      options:
+      - Project-related expenses
+      - Miscellaneous expenses
+      - Other expenses
+      required: false
+    - id: 5
+      name: expense_description
+      label: expense_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expense_time
+      label: expense_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: receipt_attachment
+      label: receipt_attachment
+      hint: null
+      type: select_multiple
+      options:
+      - Attached file
+      - Not attached
+      required: false
+    - id: 9
+      name: receipt_url
+      label: receipt_url
+      hint: null
+      type: select_multiple
+      options:
+      - Attached file
+      - Not attached
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Reimbursed
+      - Not Reimbursed
+      - Pending
+      required: false

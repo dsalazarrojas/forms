@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Formatting Checklist
+    pages:
+    - id: 1
+      name: document_layout
+      label: Document Layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: header_section
+      label: Header Section
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: footer_section
+      label: Footer Section
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: body_content
+      label: Body Content
+      hint: null
+      type: text
+      options: []
+      required: false

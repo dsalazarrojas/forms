@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angie S S Mores Usborne Survey
+    pages:
+    - id: 1
+      name: section_party_header
+      label: -- S Mores and Books Party Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_party_experience
+      label: -- Party Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_party_satisfaction
+      label: Overall Party Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Loved it
+      - Enjoyed it
+      - It was okay
+      - Not for me
+      required: true
+    - id: 7
+      name: favorite_s_more_flavor
+      label: Favorite S More Flavor Combination
+      hint: null
+      type: select_one
+      options:
+      - Classic
+      - Peanut Butter
+      - Dark Chocolate Raspberry
+      - Cookie Dough
+      - Caramel
+      required: true
+    - id: 8
+      name: books_of_interest
+      label: Which book categories interest you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Board Books
+      - Picture Books
+      - Activity Books
+      - Young Adult
+      - Non-fiction
+      required: false
+    - id: 9
+      name: section_future_opportunities
+      label: -- Future Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: interest_in_hosting_a_party
+      label: Would you like to host your own book party?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Book me
+      - Maybe - Send info
+      - Not at this time
+      required: true
+    - id: 11
+      name: interest_in_joining_my_team
+      label: Interested in joining my Usborne team?
+      hint: null
+      type: select_one
+      options:
+      - Yes - I want to sell books
+      - Maybe - Tell me more
+      - No thanks
+      required: true
+    - id: 12
+      name: section_fundraising_giving
+      label: -- Fundraising and Giving --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interest_in_book_fair_fundraiser
+      label: Interest in a book fair fundraiser?
+      hint: null
+      type: select_one
+      options:
+      - Yes for my school / org
+      - Tell me how it works
+      - false
+      required: true
+    - id: 14
+      name: referral_name_who_should_i_contact
+      label: Referral Name - Who else would love these books?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_feedback_for_angie
+      label: Additional Feedback for Angie
+      hint: null
+      type: text
+      options: []
+      required: false

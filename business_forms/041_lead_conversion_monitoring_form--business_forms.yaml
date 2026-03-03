@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lead Conversion Monitoring Form
+    pages:
+    - id: 1
+      name: lead_conversion_form
+      label: lead_conversion_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Website''}'
+      - '{''id'': 2, ''value'': ''Social Media''}'
+      - '{''id'': 3, ''value'': ''Referral''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Qualified''}'
+      - '{''id'': 2, ''value'': ''Disqualified''}'
+      - '{''id'': 3, ''value'': ''Pending''}'
+      required: false
+    - id: 4
+      name: lead_stage
+      label: Lead Stage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Lead''}'
+      - '{''id'': 2, ''value'': ''Opportunity''}'
+      - '{''id'': 3, ''value'': ''Customer''}'
+      required: false
+    - id: 5
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_step
+      label: Next Step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''John''}'
+      - '{''id'': 2, ''value'': ''Jane''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: lead_source_type
+      label: Lead Source Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''New''}'
+      - '{''id'': 2, ''value'': ''Referral''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: lead_type
+      label: Lead Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Lead''}'
+      - '{''id'': 2, ''value'': ''Opp''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: lead_category
+      label: Lead Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''A''}'
+      - '{''id'': 2, ''value'': ''B''}'
+      - '{''id'': 3, ''value'': ''C''}'
+      required: false
+    - id: 13
+      name: lead_subcategory
+      label: Lead Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''X''}'
+      - '{''id'': 2, ''value'': ''Y''}'
+      - '{''id'': 3, ''value'': ''Z''}'
+      required: false
+    - id: 14
+      name: lead_priority
+      label: Lead Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''High''}'
+      - '{''id'': 2, ''value'': ''Medium''}'
+      - '{''id'': 3, ''value'': ''Low''}'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Jim''}'
+      - '{''id'': 2, ''value'': ''Jane''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Jim''}'
+      - '{''id'': 2, ''value'': ''Jane''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 18
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false

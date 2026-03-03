@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Defect Root Cause Request Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      required: false
+    - id: 3
+      name: description_1
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: telephone
+      label: telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachments
+      label: attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_id
+      label: reviewer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_phone
+      label: reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment_name
+      label: attachment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment_type
+      label: attachment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_url
+      label: attachment_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_size
+      label: attachment_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_status
+      label: attachment_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''pending''}'
+      - '{''label'': ''completed''}'
+      - '{''label'': ''error''}'
+      required: false

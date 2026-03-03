@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person requesting the activity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_department
+      label: Requestor Department
+      hint: Department of the person making the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: Date when the request is submitted
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: activity_title
+      label: Activity Title
+      hint: Brief title of the requested activity
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_description
+      label: Activity Description
+      hint: Detailed description of the requested activity
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this activity request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 7
+      name: requested_completion_date
+      label: Requested Completion Date
+      hint: When does the activity need to be completed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: Name of the employee or team assigned to complete the activity
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_category
+      label: Activity Category
+      hint: Type of activity being requested
+      type: select_one
+      options:
+      - Administrative
+      - Project Task
+      - Meeting
+      - Research
+      - Client Service
+      - Maintenance
+      - Event Planning
+      - Other
+      required: true
+    - id: 10
+      name: required_resources
+      label: Required Resources
+      hint: What resources are needed to complete this activity
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will this activity take to complete (in hours)
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: approval_required
+      label: Approval Required
+      hint: Does this activity require special approval
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information about the activity request
+      type: text
+      options: []
+      required: false

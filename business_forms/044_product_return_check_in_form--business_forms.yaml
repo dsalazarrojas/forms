@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Return Check In Form
+    pages:
+    - id: 1
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: Product ID
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: return_date
+      label: Return Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Defective
+      required: false
+    - id: 16
+      name: product_category
+      label: Product Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: return_method
+      label: Return Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: return_address
+      label: Return Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false

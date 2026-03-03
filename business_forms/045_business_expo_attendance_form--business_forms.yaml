@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expo Attendance Form
+    pages:
+    - id: 1
+      name: attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expo_details
+      label: -- Expo Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expo_name
+      label: Expo Name
+      hint: Which expo are you attending?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expo_date
+      label: Expo Date
+      hint: When is the expo?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: attendance_type
+      label: Attendance Type
+      hint: What is your role?
+      type: select_one
+      options:
+      - Exhibitor
+      - Attendee
+      - Sponsor
+      - Speaker
+      - Media
+      - Other
+      required: true
+    - id: 12
+      name: booth_number
+      label: Booth Number (if Exhibitor)
+      hint: Your booth location
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interests
+      label: Areas of Interest
+      hint: What are you interested in?
+      type: select_multiple
+      options:
+      - Technology Solutions
+      - Marketing Services
+      - Financial Services
+      - HR Solutions
+      - Equipment
+      - Consulting
+      - Networking
+      - Training
+      required: false
+    - id: 14
+      name: number_of_attendees
+      label: Number of Attendees from Company
+      hint: How many people coming?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary needs?
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 16
+      name: parking_needed
+      label: Parking Needed
+      hint: Do you need parking?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 17
+      name: badge_preferences
+      label: Badge Title Preference
+      hint: What should badge say?
+      type: select_one
+      options:
+      - Job Title
+      - Company Name
+      - Company and Title
+      - Custom
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Networking Event Interest
+      hint: Want to attend networking?
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Interested
+      - Maybe
+      - Not Interested
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_contact
+      label: Preferred Follow-Up Contact
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No Follow-Up
+      required: true

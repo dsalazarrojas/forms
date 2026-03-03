@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Investment Advisory Request Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term growth
+      - Medium-term growth
+      - Long-term growth
+      required: false
+    - id: 3
+      name: advisory_needs
+      label: Advisory Needs
+      hint: null
+      type: select_one
+      options:
+      - General advice
+      - Investment recommendations
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

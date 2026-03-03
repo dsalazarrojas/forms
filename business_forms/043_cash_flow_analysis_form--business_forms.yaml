@@ -1,0 +1,381 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Analysis Form
+    pages:
+    - id: 1
+      name: analysis_header
+      label: Cash Flow Analysis Form
+      hint: Track spending and income to assess financial health
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: analysis_id
+      label: Analysis ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: analysis_date
+      label: Analysis Date
+      hint: Date of analysis
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_info
+      label: Business Information
+      hint: Company details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: Industry
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Healthcare
+      - Restaurant
+      - Construction
+      - Professional services
+      - Other
+      required: true
+    - id: 7
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Year being analyzed
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: analysis_period
+      label: Analysis Period
+      hint: Time frame
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Custom period
+      required: true
+    - id: 9
+      name: period_start
+      label: Period Start Date
+      hint: Beginning date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: period_end
+      label: Period End Date
+      hint: Ending date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: opening_balance
+      label: Opening Cash Balance
+      hint: Starting cash
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: cash_inflows
+      label: Cash Inflows
+      hint: Money coming in
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sales_revenue
+      label: Sales Revenue
+      hint: Cash sales
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: accounts_receivable_collected
+      label: Accounts Receivable Collected
+      hint: Collections
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: interest_received
+      label: Interest Received
+      hint: Interest income
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: dividends_received
+      label: Dividends Received
+      hint: Investment income
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: asset_sales
+      label: Proceeds from Asset Sales
+      hint: Asset liquidation
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: loans_received
+      label: Loans Received
+      hint: Borrowing
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: investment_income
+      label: Investment Income
+      hint: Returns
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: other_inflows
+      label: Other Cash Inflows
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_inflows_amount
+      label: Other Inflows Amount
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_inflows
+      label: Total Cash Inflows
+      hint: Sum of all inflows
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: cash_outflows
+      label: Cash Outflows
+      hint: Money going out
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: operating_expenses
+      label: Operating Expenses
+      hint: Day-to-day costs
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payroll
+      label: Payroll and Wages
+      hint: Employee costs
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: rent_lease
+      label: Rent or Lease Payments
+      hint: Property costs
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: utilities
+      label: Utilities
+      hint: Utility bills
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: inventory_purchases
+      label: Inventory Purchases
+      hint: Stock buying
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: accounts_payable_paid
+      label: Accounts Payable Paid
+      hint: Supplier payments
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: loan_payments
+      label: Loan Principal Payments
+      hint: Debt repayment
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: interest_paid
+      label: Interest Paid
+      hint: Interest expense
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: tax_payments
+      label: Tax Payments
+      hint: Taxes paid
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: equipment_purchases
+      label: Equipment Purchases
+      hint: Capital expenditure
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: owner_drawings
+      label: Owner Drawings or Dividends
+      hint: Distributions
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: other_outflows
+      label: Other Cash Outflows
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: other_outflows_amount
+      label: Other Outflows Amount
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: total_outflows
+      label: Total Cash Outflows
+      hint: Sum of all outflows
+      type: number
+      options: []
+      required: true
+    - id: 38
+      name: net_cash_flow
+      label: Net Cash Flow
+      hint: Inflows minus outflows
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: closing_balance
+      label: Closing Cash Balance
+      hint: Ending cash
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: financial_ratios
+      label: Financial Ratios
+      hint: Key metrics
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: operating_cash_flow_ratio
+      label: Operating Cash Flow Ratio
+      hint: Cash flow to current liabilities
+      type: number
+      options: []
+      required: false
+    - id: 42
+      name: cash_flow_margin
+      label: Cash Flow Margin
+      hint: Cash flow to revenue
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: burn_rate
+      label: Monthly Burn Rate
+      hint: Cash consumption rate
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: runway_months
+      label: Cash Runway in Months
+      hint: How long cash lasts
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: analysis_summary
+      label: Analysis Summary
+      hint: Overall assessment
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: cash_flow_status
+      label: Cash Flow Status
+      hint: Overall health
+      type: select_one
+      options:
+      - Excellent - strong positive
+      - Good - positive
+      - Adequate - break even
+      - Concerning - slight negative
+      - Critical - significant negative
+      required: true
+    - id: 47
+      name: trends_observed
+      label: Trends Observed
+      hint: Patterns noted
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: concerns_identified
+      label: Concerns Identified
+      hint: Issues found
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: prepared_by
+      label: Prepared By
+      hint: Analyst name
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: prepared_date
+      label: Preparation Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

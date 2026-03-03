@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_publishing_permission_form
+    pages:
+    - id: 1
+      name: publisher_name
+      label: Publisher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_description
+      label: Content Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - Video
+      - Audio
+      required: false
+    - id: 5
+      name: content_status
+      label: Content Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Published
+      - Unpublished
+      required: false
+    - id: 6
+      name: content_location
+      label: Content Location
+      hint: null
+      type: select_multiple
+      options:
+      - Web
+      - Mobile
+      - Offline
+      required: false
+    - id: 7
+      name: copyright_holder
+      label: Copyright Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_published
+      label: Date Published
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_published
+      label: Time Published
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: permission_granted
+      label: Permission Granted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

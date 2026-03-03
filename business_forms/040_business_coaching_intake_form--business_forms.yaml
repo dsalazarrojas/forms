@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Coaching Intake Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Your Position
+      hint: Your title or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_info
+      label: Business Information
+      hint: About your business
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Food Service
+      - Education
+      - Other
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 10
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current team size
+      type: select_one
+      options:
+      - Solo (just me)
+      - 2-5 employees
+      - 6-10 employees
+      - 11-20 employees
+      - 21-50 employees
+      - More than 50 employees
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $100K
+      - $100K-$500K
+      - $500K-$1M
+      - $1M-$5M
+      - $5M-$10M
+      - More than $10M
+      required: true
+    - id: 12
+      name: business_model
+      label: Business Model
+      hint: How do you make money
+      type: select_one
+      options:
+      - B2B Services
+      - B2C Services
+      - Product Sales
+      - E-commerce
+      - Subscription
+      - Licensing
+      - Other
+      required: true
+    - id: 13
+      name: coaching_goals
+      label: Coaching Goals
+      hint: What do you want to achieve
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_goal
+      label: Primary Goal
+      hint: Main objective for coaching
+      type: select_one
+      options:
+      - Business Growth
+      - Improve Profitability
+      - Leadership Development
+      - Work-Life Balance
+      - Strategic Planning
+      - Team Building
+      - Problem Solving
+      - Accountability
+      - Other
+      required: true
+    - id: 15
+      name: specific_challenges
+      label: Specific Challenges
+      hint: What challenges do you face
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: biggest_obstacle
+      label: Biggest Obstacle
+      hint: What is holding you back most
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: goals_timeline
+      label: Goals Timeline
+      hint: When do you want to achieve goals
+      type: select_one
+      options:
+      - Within 3 Months
+      - Within 6 Months
+      - Within 1 Year
+      - Within 2 Years
+      - Long-Term
+      required: true
+    - id: 18
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coaching_history
+      label: Coaching History
+      hint: Have you had a coach before
+      type: select_one
+      options:
+      - Never
+      - Once
+      - 2-3 Times
+      - Regularly
+      required: true
+    - id: 20
+      name: previous_coaching
+      label: Previous Coaching Experience
+      hint: What was your experience
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coaching_preferences
+      label: Coaching Preferences
+      hint: How do you want to work
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: session_frequency
+      label: Preferred Session Frequency
+      hint: How often do you want to meet
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed
+      required: true
+    - id: 23
+      name: session_format
+      label: Preferred Session Format
+      hint: How do you want to meet
+      type: select_one
+      options:
+      - Video Call
+      - Phone Call
+      - In-Person
+      - Hybrid
+      required: true
+    - id: 24
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long should sessions be
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      required: true
+    - id: 25
+      name: availability
+      label: Best Availability
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Monday Morning
+      - Monday Afternoon
+      - Tuesday Morning
+      - Tuesday Afternoon
+      - Wednesday Morning
+      - Wednesday Afternoon
+      - Thursday Morning
+      - Thursday Afternoon
+      - Friday Morning
+      - Friday Afternoon
+      required: true
+    - id: 26
+      name: investment
+      label: Investment Readiness
+      hint: What are you willing to invest
+      type: select_one
+      options:
+      - Under $500/month
+      - $500-$1,000/month
+      - $1,000-$2,500/month
+      - $2,500-$5,000/month
+      - More than $5,000/month
+      - To Be Determined
+      required: true
+    - id: 27
+      name: commitment_level
+      label: Commitment Level
+      hint: How committed are you
+      type: select_one
+      options:
+      - Very Committed
+      - Committed
+      - Somewhat Committed
+      - Exploring Options
+      required: true
+    - id: 28
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

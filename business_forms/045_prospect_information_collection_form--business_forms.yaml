@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospect Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Software Development
+      - Finance
+      - Marketing
+      - Sales
+      required: true
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: true
+    - id: 11
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Website
+      - Advertisement
+      required: true
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: last_follow_up
+      label: Last Follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

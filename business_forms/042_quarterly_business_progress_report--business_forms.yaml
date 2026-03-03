@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Business Progress Report
+    pages:
+    - id: 1
+      name: quarter
+      label: Quarterly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: progress
+      label: Business Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: outcomes
+      label: Document Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priorities
+      label: Next Quarter Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: review
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performance_metrics
+      label: Performance Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: team_leaders
+      label: Team Leaders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: team_lead_comments
+      label: Team Lead Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_units
+      label: Business Units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submitted_email
+      label: Submitted Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_review_time
+      label: Next Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: next_review_by
+      label: Next Review By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

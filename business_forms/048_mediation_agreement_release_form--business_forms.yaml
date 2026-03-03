@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mediation Agreement Release Form
+    pages:
+    - id: 1
+      name: mediation_agreement_release_form_mediation_session_details
+      label: Mediation Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mediation_agreement_release_form_parties_involved
+      label: Parties Involved
+      hint: List all parties participating in the mediation session
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mediation_agreement_release_form_agreement_reached
+      label: Agreement Reached
+      hint: Describe the agreement reached during the mediation session
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: mediation_agreement_release_form_date_and_time
+      label: Date and Time
+      hint: Date and time of the mediation session
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mediation_agreement_release_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mediation_agreement_release_form_mediation_agreement
+      label: Mediation Agreement
+      hint: Describe the mediation agreement
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mediation_agreement_release_form_signatures
+      label: Signatures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: mediation_agreement_release_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Intelligence Enhancement Request Form
+    pages:
+      - id: 1
+        name: section_requestor_id
+        label: -- Requestor Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: bi_requestor_full_name
+        label: Requestor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: bi_requestor_department
+        label: Department
+        hint: e.g. Finance, Sales, Operations
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: target_bi_tool_selection
+        label: BI Tool to be Enhanced
+        hint: Which platform is this request for
+        type: select_one
+        options:
+          - Power BI
+          - Tableau
+          - Looker
+          - Google Data Studio
+          - Internal Custom Dashboard
+        required: true
+      - id: 5
+        name: enhancement_category_type
+        label: Enhancement Type
+        hint: null
+        type: select_one
+        options:
+          - New Report/Dashboard Development
+          - Modification of Existing Report
+          - Data Model Change / New Data Source
+          - Performance Optimization
+          - Security / Access Level Change
+        required: true
+      - id: 6
+        name: bi_enhancement_priority_level
+        label: Priority
+        hint: Relative to other business needs
+        type: select_one
+        options:
+          - Critical (System down / Blocking revenue)
+          - High (Significant business impact)
+          - Medium (Standard improvement)
+          - Low (Nice-to-have / Aesthetic)
+        required: true
+      - id: 7
+        name: section_enhancement_details
+        label: -- Enhancement Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: request_detailed_description
+        label: Description of Request
+        hint: Be specific about fields, filters, and logic changes
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: expected_business_value_benefit
+        label: Expected Business Value or Benefit
+        hint: e.g. Saves 5 hours/week, improves accuracy by 10%
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: sample_data_mockup_url
+        label: Sample Data or Mockup Link
+        hint: Link to spreadsheet or design file (if available)
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: required_enhancement_completion_date
+        label: Required Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: request_submission_date_bi
+        label: Date of Request
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 13
+        name: manager_approval_confirmed_check
+        label: Has this request been approved by your department manager
+        hint: Required for resource allocation
+        type: select_one
+        options:
+          - Yes, Approved
+          - No, Pending Approval
+        required: true

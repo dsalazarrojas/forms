@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Analysis Form
+    pages:
+    - id: 1
+      name: job_analysis_form
+      label: Job Analysis Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: date_employment
+      label: Date Employment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_employment
+      label: Time Employment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: job_analysis
+      label: Job Analysis
+      hint: null
+      type: note
+      options: []
+      required: false

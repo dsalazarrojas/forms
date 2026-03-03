@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product enquiry form
+    pages:
+    - id: 1
+      name: enquiry_product
+      label: Enquiry for the product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_services
+      label: Interested services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_1
+      label: Service 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: service_2
+      label: Service 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_3
+      label: Service 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

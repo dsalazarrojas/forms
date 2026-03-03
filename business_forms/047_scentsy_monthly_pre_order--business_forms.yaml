@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentsy Monthly Pre Order
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Independent Consultant
+      - Independent Consultant - Existing Customer
+      required: true
+    - id: 6
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_teens
+      label: Number of Teens
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Sample Order
+      - Sample Order - Existing Customer
+      required: true
+    - id: 9
+      name: monthly_pre_order
+      label: Monthly Pre Order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_frequency
+      label: Order Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bi-Monthly
+      - Quarter-ly
+      required: false
+    - id: 11
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

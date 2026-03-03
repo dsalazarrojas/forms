@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Change Coordinator Feedback
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: Email for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: change_initiative_name
+        label: Change Initiative Name
+        hint: Name of the change project
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: coordinator_name
+        label: Change Coordinator Name
+        hint: Name of coordinator being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: project_duration
+        label: Project Duration
+        hint: How long was the change initiative
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - More than 1 year
+        required: true
+      - id: 8
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: Rate coordinator communication skills
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: organization_skills
+        label: Organization Skills
+        hint: Rate coordinator organizational abilities
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: stakeholder_engagement
+        label: Stakeholder Engagement
+        hint: Rate ability to engage stakeholders
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: problem_solving
+        label: Problem Solving Ability
+        hint: Rate problem solving skills
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: responsiveness
+        label: Responsiveness
+        hint: Rate how responsive the coordinator was
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: change_management_knowledge
+        label: Change Management Knowledge
+        hint: Rate coordinator expertise in change management
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: support_provided
+        label: Support Provided
+        hint: How well did the coordinator support you
+        type: select_one
+        options:
+          - Exceeded expectations
+          - Met expectations
+          - Below expectations
+          - No support received
+        required: true
+      - id: 15
+        name: training_quality
+        label: Training Quality
+        hint: Rate the quality of training provided
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+          - No training provided
+        required: true
+      - id: 16
+        name: resistance_management
+        label: Resistance Management
+        hint: How well did coordinator handle resistance
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: overall_effectiveness
+        label: Overall Effectiveness
+        hint: Rate overall coordinator effectiveness
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: would_work_again
+        label: Would Work Again
+        hint: Would you work with this coordinator again
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 19
+        name: coordinator_strengths
+        label: Coordinator Strengths
+        hint: What did the coordinator do well
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could the coordinator improve
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

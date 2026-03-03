@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Officer Request Form
+    pages:
+    - id: 1
+      name: request_fire_safety_officer
+      label: request fire officer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fire_risks_and_hazards
+      label: Fire Risks and Hazards
+      hint: Please list all potential fire risks and hazards.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_measures
+      label: Fire Safety Measures
+      hint: Describe the fire safety measures you plan to take.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: fire_safety_training
+      label: Fire Safety Training
+      hint: Please describe fire safety training you or your team will have received
+        or plan to receive.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: emergency contact number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_person
+      label: contact person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

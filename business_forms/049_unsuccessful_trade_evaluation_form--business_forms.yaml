@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unsuccessful Trade Evaluation Form
+    pages:
+    - id: 1
+      name: ticket_number
+      label: Ticket Number
+      hint: Enter ticket number
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_details
+      label: Reason for trade to be unsuccessful
+      hint: Provide details
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: further_review
+      label: Further Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: assigned_to
+      label: Assigned to
+      hint: Enter username
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: review_by
+      label: Reviewed By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reviewed
+      label: Reviewed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Review Needed
+      - Rejected
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_rejection_details
+      label: Reason for Rejection Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: action_required
+      label: Action Required
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: action_by
+      label: Action By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: action_time
+      label: Action Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: action_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      - Rejected
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_by
+      label: Follow-up by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      - Rejected
+      required: false
+    - id: 26
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: submitted_by
+      label: Submitted By
+      hint: Enter username
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: review_on
+      label: Review On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: review_by
+      label: Review By
+      hint: Enter username
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: submitted_by_user
+      label: Submitted By User
+      hint: Enter username
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: review_by_user
+      label: Review By User
+      hint: Enter username
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: reason_for_unsuccessful
+      label: Reason for Unsuccessful
+      hint: Enter reason
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: review_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 34
+      name: reason_for_unsuccessful_details
+      label: Reason for Unsuccessful Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 35
+      name: submitted_by_user
+      label: Submitted By User
+      hint: Enter username
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server Health Monitoring Check In Form
+    pages:
+    - id: 1
+      name: server_health_monitoring_form
+      label: server_health_monitoring_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: server_status
+      label: server_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: server_uptime
+      label: server_uptime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: server_downtime
+      label: server_downtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: server_performance
+      label: server_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

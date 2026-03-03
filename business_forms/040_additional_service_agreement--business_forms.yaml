@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additional Service Agreement
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client and Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_account_id
+      label: Member / Account ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_selection_header
+      label: -- Additional Services Selection --
+      hint: Select the new services you would like to add to your current plan
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: gym_services
+      label: Available Services (Gym/Wellness)
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Training Package (10 sessions)
+      - Nutritional Consultation / Meal Planning
+      - Group Fitness Unlimited Pass
+      - Spa and Sauna Access
+      - Locker Rental (Annual)
+      - Towel Service
+      required: true
+    - id: 8
+      name: service_start_date
+      label: Requested Start Date for New Services
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement_terms_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: billing_update_ack
+      label: I understand my monthly membership bill will be updated accordingly
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 11
+      name: cancellation_policy_ack
+      label: I acknowledge the 30-day notice requirement for service cancellation
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 12
+      name: liability_waiver_ack
+      label: I agree to the liability waiver for the selected services
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: payment_method_on_file
+      label: Charge the payment method currently on file?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Use current method
+      - No - I will provide new details
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Special Requests or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: electronic_signature_confirmation
+      label: I certify that I am the account holder or authorized representative
+      hint: null
+      type: select_one
+      options:
+      - I Certify and Sign
+      - Other
+      required: true

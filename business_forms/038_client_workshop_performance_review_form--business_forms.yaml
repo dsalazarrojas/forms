@@ -1,0 +1,301 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Workshop Performance Review Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Workshop Performance Review
+      hint: Please share your feedback about the workshop
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_info
+      label: -- Workshop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: facilitator_name
+      label: Facilitator or Trainer Name
+      hint: Who led the workshop?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: overall_section
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction with Workshop
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Rate the Workshop - 1 to 10
+      hint: 1 = Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: met_expectations
+      label: The workshop met your expectations
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: content_section
+      label: -- Content and Relevance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: content_quality
+      label: Quality of Workshop Content
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 15
+      name: content_relevance
+      label: Content was relevant to your role or goals
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: content_practical
+      label: Content was practical and actionable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: new_knowledge
+      label: You learned new information or skills
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 18
+      name: delivery_section
+      label: -- Delivery and Presentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: facilitator_knowledge
+      label: Facilitator's Knowledge and Expertise
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 20
+      name: facilitator_clarity
+      label: Facilitator Explained Concepts Clearly
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: engagement_level
+      label: Workshop Engagement Level
+      hint: How engaged were you?
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 22
+      name: pacing_rating
+      label: Workshop Pacing and Flow
+      hint: Was the pace appropriate?
+      type: select_one
+      options:
+      - Too Slow
+      - Slow
+      - Just Right
+      - Fast
+      - Too Fast
+      required: true
+    - id: 23
+      name: materials_section
+      label: -- Materials and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: materials_quality
+      label: Quality of Materials and Resources Provided
+      hint: Handouts, slides, tools, etc.
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 25
+      name: materials_usefulness
+      label: Materials Will Be Useful After Workshop
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 26
+      name: application_section
+      label: -- Application and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: apply_learnings
+      label: How Likely Are You to Apply What You Learned?
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 28
+      name: expected_benefits
+      label: Expected Benefits from Applying Learning
+      hint: Describe impact or outcomes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: implementation_barriers
+      label: Barriers to Implementing Learning
+      hint: What might prevent application?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: feedback_section
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: what_went_well
+      label: What Was the Best Part of the Workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: improvements
+      label: What Could Be Improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_feedback
+      label: Additional Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

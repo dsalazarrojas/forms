@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Inquiry Form
+    pages:
+    - id: 1
+      name: service_inquiry_form
+      label: Service Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_inquired
+      label: Which service are you inquiring about
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

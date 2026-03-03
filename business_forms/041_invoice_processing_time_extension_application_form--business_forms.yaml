@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Processing Time Extension Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: extension_reason
+      label: Extension Reason
+      hint: Please describe the reason for the requested extension.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requested_extension_date
+      label: Requested Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: actual_extension_date
+      label: Actual Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - term_7_days
+      - term_14_days
+      - term_21_days
+      required: false
+    - id: 9
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - weekly
+      - bi-weekly
+      - monthly
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 13
+      name: output_file
+      label: Output File
+      hint: Please enter the output file name.
+      type: text
+      options: []
+      required: false

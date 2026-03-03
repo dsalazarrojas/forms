@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fulfillment Partner Evaluation Request Form
+    pages:
+    - id: 1
+      name: fulfillment_partner_evaluation_request_form_page_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fulfillment_partner_evaluation_request_form_page_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fulfillment_partner_evaluation_request_form_page_3
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: fulfillment_partner_evaluation_request_form_page_4
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fulfillment_partner_evaluation_request_form_page_5
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fulfillment_partner_evaluation_request_form_page_6
+      label: services
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: true
+    - id: 7
+      name: fulfillment_partner_evaluation_request_form_page_7
+      label: services_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fulfillment_partner_evaluation_request_form_page_8
+      label: capabilities
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: fulfillment_partner_evaluation_request_form_page_9
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fulfillment_partner_evaluation_request_form_page_10
+      label: evaluation_rating
+      hint: null
+      type: date
+      options: []
+      required: true

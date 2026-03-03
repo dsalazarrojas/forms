@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fathers Day Cookie Order Form
+    pages:
+    - id: 1
+      name: name
+      label: orderer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: message
+      label: order_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cookie_size
+      label: cookie_size
+      hint: null
+      type: select_multiple
+      options:
+      - large
+      - medium
+      - small
+      required: true
+    - id: 4
+      name: cookie_shape
+      label: cookie_shape
+      hint: null
+      type: select_multiple
+      options:
+      - heart
+      - star
+      - animal
+      required: true
+    - id: 5
+      name: cookie_message
+      label: message_on_cookie
+      hint: null
+      type: select_one
+      options:
+      - Happy Father's Day!
+      - Love you, Dad
+      - Just for Dad
+      required: false
+    - id: 6
+      name: order_summary
+      label: order_summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 11
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: order_instructions
+      label: order_instructions
+      hint: null
+      type: note
+      options: []
+      required: false

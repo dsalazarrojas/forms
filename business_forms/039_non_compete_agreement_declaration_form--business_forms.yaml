@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Compete Agreement Declaration Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: non_compete_agreement
+      label: Non Compete Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Expense Claim Form
+    pages:
+    - id: 1
+      name: travel_expense_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_expense
+      label: Reason for Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_purpose
+      label: Business Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expense_details
+      label: Expense Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Story Item Entry Form
+    pages:
+    - id: 1
+      name: user_story_item
+      label: User Story Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story_points
+      label: Story Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: actual_start_date
+      label: Actual Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: actual_end_date
+      label: Actual End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''John''}'
+      - '{''name'': ''Jane''}'
+      - '{''name'': ''Joe''}'
+      required: false
+    - id: 7
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Product Team''}'
+      - '{''name'': ''Engineering Team''}'
+      - '{''name'': ''Design Team''}'
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Low''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''High''}'
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Not Started''}'
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Done''}'
+      required: false
+    - id: 10
+      name: progress
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: story_id
+      label: Story ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''John''}'
+      - '{''name'': ''Jane''}'
+      - '{''name'': ''Joe''}'
+      required: false
+    - id: 21
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false

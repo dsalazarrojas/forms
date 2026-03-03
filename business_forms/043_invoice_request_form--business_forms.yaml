@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - text
+      - decimal
+      - date
+      - email
+      - phone
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - email
+      - phone
+      required: false
+    - id: 9
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - text
+      - email
+      - phone
+      required: false
+    - id: 11
+      name: date_of_invoice
+      label: Date of Invoice
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - email
+      - phone
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - text
+      - email
+      - phone
+      required: false
+    - id: 21
+      name: order_id
+      label: Order ID
+      hint: null
+      type: select_one
+      options:
+      - text
+      - decimal
+      - date
+      required: false
+    - id: 22
+      name: invoice_total
+      label: Invoice Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms_and_conditions
+      label: Payment Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - text
+      - email
+      - phone
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

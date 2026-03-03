@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker First Aid Kit Refill Order Form
+    pages:
+    - id: 1
+      name: first_aidsupply_location
+      label: first aid supply location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: firstaidkittype
+      label: first aid kit type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''AFA1''}'
+      - '{''id'': 2, ''name'': ''BFA1''}'
+      - '{''id'': 3, ''name'': ''CFA1''}'
+      required: false
+    - id: 3
+      name: firstaidkitquantity
+      label: first aid kit quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: firstaidkitrenewal
+      label: first aid kit renewal date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: firstaidkitcost
+      label: first aid kit cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: firstaidkitstatus
+      label: first aid kit status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false
+    - id: 7
+      name: firstaidkitsuppliertotal
+      label: first aid kits supplied total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assignedtool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: false

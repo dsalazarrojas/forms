@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Parking Access Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parking_location
+      label: Parking Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parking_dates
+      label: Parking Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: parking_time
+      label: Parking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      required: true
+    - id: 12
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

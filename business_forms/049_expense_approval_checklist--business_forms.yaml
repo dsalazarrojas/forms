@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Checklist
+    pages:
+    - id: 1
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expense_category
+      label: Expense Category
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_submitted_by
+      label: Expense Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: expense_approver
+      label: Expense Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: expense_status
+      label: Expense Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: expense_comment
+      label: Expense Comment
+      hint: null
+      type: text
+      options: []
+      required: false

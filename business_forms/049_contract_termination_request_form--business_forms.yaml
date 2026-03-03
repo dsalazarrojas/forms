@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Termination Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Legal
+      - Operations
+      - Sales
+      - Procurement
+      - Finance
+      - Human Resources
+      - IT
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_date
+      label: Contract Date
+      hint: Original contract date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: other_party_name
+      label: Other Party Name
+      hint: Counterparty name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: termination_type
+      label: Termination Type
+      hint: Type of termination
+      type: select_one
+      options:
+      - For convenience
+      - For cause
+      - Mutual agreement
+      - Breach of contract
+      - Non-performance
+      - Financial hardship
+      - Force majeure
+      - Other
+      required: true
+    - id: 10
+      name: termination_reason
+      label: Termination Reason
+      hint: Why terminate?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: proposed_termination_date
+      label: Proposed Termination Date
+      hint: When to end?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: notice_period_required
+      label: Notice Period Required
+      hint: Days per contract
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notice_period_given
+      label: Notice Period Given
+      hint: Days being provided
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contract_value
+      label: Contract Value
+      hint: Total contract amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: amount_paid_to_date
+      label: Amount Paid to Date
+      hint: Total paid so far
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: outstanding_payments
+      label: Outstanding Payments
+      hint: Amount still owed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deliverables_status
+      label: Deliverables Status
+      hint: What has been delivered?
+      type: select_one
+      options:
+      - All deliverables complete
+      - Most deliverables complete
+      - Some deliverables complete
+      - No deliverables started
+      required: true
+    - id: 18
+      name: outstanding_obligations
+      label: Outstanding Obligations
+      hint: What remains undone?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: transition_plan
+      label: Transition Plan
+      hint: How to handle transition?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: property_to_return
+      label: Property to Return
+      hint: Any property involved?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confidential_information
+      label: Confidential Information
+      hint: How to handle confidential data?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: legal_review_required
+      label: Legal Review Required
+      hint: Has legal reviewed?
+      type: select_one
+      options:
+      - Yes, completed
+      - In progress
+      - Not yet submitted
+      - Not required
+      required: true
+    - id: 23
+      name: financial_impact
+      label: Financial Impact
+      hint: Cost of termination
+      type: select_one
+      options:
+      - No financial impact
+      - Minimal cost
+      - Moderate cost
+      - Significant cost
+      - Penalty applies
+      required: true
+    - id: 24
+      name: termination_penalty
+      label: Termination Penalty
+      hint: Penalty amount if any
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: approvals_needed
+      label: Approvals Needed
+      hint: Who must approve?
+      type: select_multiple
+      options:
+      - Department manager
+      - Director
+      - Vice president
+      - Legal counsel
+      - Finance
+      - Executive
+      - Board
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

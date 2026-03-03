@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Integrity Audit Form
+    pages:
+      - id: 1
+        name: audit_part_header
+        label: -- Audit Participant Info --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: part_role_select
+        label: Your Role in the Audit
+        hint: null
+        type: select_one
+        options: [Employee, Customer, Partner, External Auditor]
+        required: true
+      - id: 3
+        name: auditor_name_opt
+        label: Name (Optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: consistency_header
+        label: -- Consistency Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: visual_consistency_score
+        label: Our visual branding (logo, colors, fonts) is consistent across all platforms
+        hint: null
+        type: select_one
+        options: [Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree]
+        required: true
+      - id: 6
+        name: voice_consistency_score
+        label: Our brand voice and messaging are consistent in all communications
+        hint: null
+        type: select_one
+        options: [Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree]
+        required: true
+      - id: 7
+        name: values_header
+        label: -- Values and Ethics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: alignment_score
+        label: Our actions as a business consistently align with our stated brand values
+        hint: null
+        type: select_one
+        options: [Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree]
+        required: true
+      - id: 9
+        name: ethics_score
+        label: How would you rate the brand's ethical integrity?
+        hint: null
+        type: select_one
+        options: [Very High, High, Moderate, Low, Very Low]
+        required: true
+      - id: 10
+        name: operational_header
+        label: -- Operational Audit --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: promise_gap_desc
+        label: Describe any instance where the brand did not meet its promises
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: improve_areas
+        label: Which areas need the most improvement in brand integrity?
+        hint: Select all that apply
+        type: select_multiple
+        options: [Customer Service, Marketing Accuracy, Product Quality, Corporate Social Responsibility, Employee Conduct]
+        required: true
+      - id: 13
+        name: integrity_suggestions
+        label: Suggestions for improving brand integrity
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: audit_dt_header
+        label: -- Review --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: audit_run_dt
+        label: Date of Audit
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: auditor_verify
+        label: Auditor Signature / Verification
+        hint: Type full name
+        type: text
+        options: []
+        required: true

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Billing Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_details
+      label: Account Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_status
+      label: Account Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: account_notes
+      label: Account Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Check
+      - Bank Draft
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: account_balance_status
+      label: Account Balance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 19
+      name: billing_frequency_status
+      label: Billing Frequency Status
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 20
+      name: payment_method_status
+      label: Payment Method Status
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-Store
+      required: false
+    - id: 21
+      name: payment_frequency_status
+      label: Payment Frequency Status
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 22
+      name: customer_status
+      label: Customer Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: payment_method_note
+      label: Payment Method Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: account_status_note
+      label: Account Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: billing_frequency_note
+      label: Billing Frequency Note
+      hint: null
+      type: note
+      options: []
+      required: false

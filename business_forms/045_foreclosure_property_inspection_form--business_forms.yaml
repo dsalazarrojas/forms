@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreclosure Property Inspection Form
+    pages:
+    - id: 1
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Foreclosure
+      - Bank Owned
+      - Pre-foreclosure
+      - Owned
+      required: false
+    - id: 4
+      name: property_inspection_date
+      label: property_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_location
+      label: property_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_contact
+      label: property_contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Multi Family
+      - Commercial
+      - Industrial
+      - Vacant
+      required: false
+    - id: 11
+      name: property_type_other
+      label: property_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_age
+      label: property_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_age_other
+      label: property_age_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: inspector_company
+      label: inspector_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: inspector_license
+      label: inspector_license
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 19
+      name: inspection_fee
+      label: inspection_fee
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: inspection_fee_other
+      label: inspection_fee_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: property_price_other
+      label: property_price_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: inspection_report
+      label: inspection_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_inspection_status
+      label: property_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Not Started
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

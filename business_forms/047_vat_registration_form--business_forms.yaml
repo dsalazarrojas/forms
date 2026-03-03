@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: vat_registration_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vat_number
+      label: vat_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sole Trader''}'
+      - '{''id'': 2, ''name'': ''Limited Company''}'
+      - '{''id'': 3, ''name'': ''Partnership''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vat_registration_date
+      label: vat_registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vat_registration_status
+      label: vat_registration_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vat_registration_form_submitted
+      label: vat_registration_form_submitted
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Ambassador Contract Form
+    pages:
+    - id: 1
+      name: section_header_parties
+      label: -- Parties to Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ambassador_name
+      label: Ambassador Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ambassador_address
+      label: Ambassador Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Brand Name
+      hint: Name of brand being represented
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Company headquarters address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_terms
+      label: -- Contract Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contract_start_date
+      label: Contract Start Date
+      hint: When agreement begins
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_end_date
+      label: Contract End Date
+      hint: When agreement expires
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contract_duration
+      label: Contract Duration
+      hint: Length of agreement
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_scope
+      label: -- Scope of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ambassador_duties
+      label: Ambassador Duties and Responsibilities
+      hint: Detailed description of work
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: brand_representation
+      label: Territories for Brand Representation
+      hint: Geographic scope
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_metrics
+      label: Performance Metrics and Goals
+      hint: Expected outcomes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_compensation
+      label: -- Compensation and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: salary_amount
+      label: Salary or Fee Amount
+      hint: Compensation per period
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often paid
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Per deliverable
+      required: false
+    - id: 17
+      name: benefits_provided
+      label: Benefits Provided
+      hint: Products, discounts, perks
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_obligations
+      label: -- Confidentiality and Obligations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: confidentiality_agreement
+      label: I agree to keep brand information confidential
+      hint: Non-disclosure agreement
+      type: select_one
+      options:
+      - I fully agree
+      - I do not agree
+      - Need modification
+      required: true
+    - id: 20
+      name: non_compete
+      label: Non-compete clause agreed upon
+      hint: Cannot work for competing brands
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Need to discuss
+      required: true
+    - id: 21
+      name: contract_signature
+      label: I agree to all terms in this contract
+      hint: Check to finalize contract
+      type: select_one
+      options:
+      - I fully agree and sign
+      - I do not agree
+      - Need legal review
+      required: true

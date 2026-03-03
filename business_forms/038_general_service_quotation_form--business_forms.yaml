@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Service Quotation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 4
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1-100
+      - Option 2-200
+      - Option 3-300
+      required: false
+    - id: 5
+      name: delivery_terms
+      label: Delivery Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_type_description
+      label: Service Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false

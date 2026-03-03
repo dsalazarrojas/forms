@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Innovation Grant Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Position title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Institution or company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit Organization
+      - Research Institution
+      - University
+      - Private Business
+      - Government Agency
+      - Individual Trainer
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_title
+      label: Project Title
+      hint: Name of your innovation project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_summary
+      label: Project Summary
+      hint: Brief description in 200 words or less
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - New Training Methods
+      - Technology in Training
+      - Behavior Research
+      - Welfare Improvement
+      - Species-Specific Innovation
+      - Handler Education
+      - Assessment Tools
+      - Other
+      required: true
+    - id: 14
+      name: species_focus
+      label: Species Focus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Horses
+      - Birds
+      - Marine Mammals
+      - Primates
+      - Zoo Animals
+      - Farm Animals
+      - Multiple Species
+      - Other
+      required: true
+    - id: 15
+      name: innovation_description
+      label: Describe the Innovation
+      hint: What makes this approach new or different
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: problem_statement
+      label: What Problem Does This Solve
+      hint: Describe the need or gap
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: objectives
+      label: Project Objectives
+      hint: List specific measurable goals
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: methodology
+      label: Methodology
+      hint: How will you accomplish this work
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: timeline
+      label: Project Timeline
+      hint: Start and end dates with milestones
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: grant_amount_requested
+      label: Grant Amount Requested
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: How will funds be used
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: other_funding
+      label: Other Funding Sources
+      hint: List any additional funding
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_members
+      label: Project Team Members
+      hint: Names and qualifications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: principal_investigator
+      label: Principal Investigator Background
+      hint: Relevant experience and credentials
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: previous_work
+      label: Previous Related Work
+      hint: Describe past projects or research
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What results do you anticipate
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: impact_assessment
+      label: How Will Impact Be Measured
+      hint: Evaluation methods
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: dissemination_plan
+      label: Dissemination Plan
+      hint: How will you share results
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: sustainability
+      label: Sustainability Plan
+      hint: How will this continue after funding
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: ethical_considerations
+      label: Ethical Considerations
+      hint: Animal welfare and ethics
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: approvals_needed
+      label: Required Approvals
+      hint: IACUC or other ethics approvals
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: risks_challenges
+      label: Potential Risks and Challenges
+      hint: And how you will address them
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: supporting_materials
+      label: Supporting Materials
+      hint: List attachments provided
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: references
+      label: Professional References
+      hint: Two references with contact info
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: terms_acceptance
+      label: I Accept the Grant Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 36
+      name: applicant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

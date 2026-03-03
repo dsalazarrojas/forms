@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Facility Design Partnership Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Contact Person Full Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_intro
+      label: Animal Facility Design Partnership Application
+      hint: Apply to partner with us on animal facility design projects
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Street, city, state, country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_type
+      label: Type of Organization
+      hint: Business type
+      type: select_one
+      options:
+      - Architecture firm
+      - Design studio
+      - Construction company
+      - Engineering firm
+      - Consulting firm
+      - Non-profit
+      - Government agency
+      - Other
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: Company age
+      type: select_one
+      options:
+      - Less than 3 years
+      - 3-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - More than 200 employees
+      required: true
+    - id: 11
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: Collaboration type
+      type: select_one
+      options:
+      - Design collaboration
+      - Construction partnership
+      - Consulting arrangement
+      - Joint ventures
+      - Subcontractor
+      - Other
+      required: true
+    - id: 12
+      name: facility_expertise
+      label: Types of Animal Facilities You Have Designed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Veterinary clinics
+      - Animal shelters
+      - Research facilities
+      - Zoos
+      - Aquariums
+      - Kennels
+      - Boarding facilities
+      - Training centers
+      - None - new to animal facilities
+      required: true
+    - id: 13
+      name: portfolio_projects
+      label: Describe Relevant Portfolio Projects
+      hint: Project examples
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: design_philosophy
+      label: What Is Your Design Philosophy for Animal Facilities
+      hint: Approach
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: animal_welfare_knowledge
+      label: How Familiar Are You with Animal Welfare Standards
+      hint: Knowledge level
+      type: select_one
+      options:
+      - Expert - specialize in animal facilities
+      - Knowledgeable - several projects
+      - Familiar - some experience
+      - Limited - learning
+      required: true
+    - id: 16
+      name: certifications
+      label: Relevant Certifications
+      hint: Professional credentials
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: services_offered
+      label: Services You Can Provide
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Conceptual design
+      - Architectural design
+      - Interior design
+      - Landscape design
+      - Project management
+      - Construction oversight
+      - Permitting assistance
+      - Budget planning
+      required: true
+    - id: 18
+      name: geographic_scope
+      label: Geographic Areas You Serve
+      hint: Service area
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_capacity
+      label: How Many Projects Can You Handle Annually
+      hint: Capacity
+      type: select_one
+      options:
+      - 1-3 projects
+      - 4-10 projects
+      - 11-20 projects
+      - More than 20 projects
+      required: true
+    - id: 20
+      name: budget_range
+      label: Typical Project Budget Range
+      hint: Project size
+      type: select_one
+      options:
+      - Less than $500,000
+      - $500,000 to $2 million
+      - $2 million to $10 million
+      - More than $10 million
+      required: false
+    - id: 21
+      name: timeline_capability
+      label: Typical Project Timeline
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: false
+    - id: 22
+      name: sustainability_focus
+      label: Do You Incorporate Sustainable Design
+      hint: Green building
+      type: select_one
+      options:
+      - Yes - LEED certified
+      - Yes - sustainable practices
+      - Somewhat
+      - false
+      required: false
+    - id: 23
+      name: technology_integration
+      label: Experience with Technology Integration
+      hint: Smart facilities
+      type: select_one
+      options:
+      - Extensive - smart buildings
+      - Moderate - some systems
+      - Limited
+      - None
+      required: false
+    - id: 24
+      name: references
+      label: Client References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: why_partner
+      label: Why Do You Want to Partner with Us
+      hint: Motivation
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: value_proposition
+      label: What Value Do You Bring to Partnerships
+      hint: Strengths
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: availability
+      label: When Could You Start a Partnership
+      hint: Timeline
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      required: true
+    - id: 28
+      name: additional_info
+      label: Additional Information
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

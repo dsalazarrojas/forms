@@ -1,0 +1,304 @@
+inputSchema:
+  type: object
+  properties:
+    title: farm_business_registration_form
+    pages:
+    - id: 1
+      name: farm_business_form_1
+      label: enter_farm_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farm_business_address
+      label: enter_farm_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_business_city
+      label: enter_farm_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: farm_business_state
+      label: enter_farm_state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - ME
+      - MI
+      - MS
+      - MO
+      - MT
+      - NE
+      - NV
+      - NH
+      - NJ
+      - NM
+      - NY
+      - NC
+      - ND
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VT
+      - VA
+      - WA
+      - WV
+      - WI
+      - WY
+      required: false
+    - id: 5
+      name: farm_business_zip
+      label: enter_farm_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: farm_business_phone
+      label: enter_farm_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: farm_business_email
+      label: enter_farm_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: farm_business_website
+      label: enter_farm_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: farm_business_fax
+      label: enter_farm_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: farm_business_notes
+      label: farm_business_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: farm_business_type
+      label: what_kind_of_farm
+      hint: null
+      type: select_multiple
+      options:
+      - Dairy
+      - Livestock
+      - Organic
+      - Aquaculture
+      - Poultry
+      - Honey
+      - Vineyard
+      - Winery
+      - Orchard
+      - Beef
+      - Sheep
+      - Goat
+      - Pig
+      - Turkey
+      - Hemp
+      - Grass
+      - Aquaponic
+      - Honeydew
+      - Pomegranate
+      - Vine
+      - Orchard
+      - Fruit
+      - Vegetable
+      - Greenhouse
+      - Farmers_Market
+      - Farmers_Coop
+      - Farmers_Assn
+      - Farmers_McCoy
+      - Farmers_Mkt
+      - Farmers_Mkt_2
+      - Farmers_Mkt_3
+      - Farmers_Mkt_4
+      - Farmers_Mkt_5
+      - Farmers_Mkt_6
+      - Farmers_Mkt_7
+      - Farmers_Mkt_8
+      - Farmers_Mkt_9
+      - Farmers_Mkt_10
+      - Farmers_Mkt_11
+      - Farmers_Mkt_12
+      - Farmers_Mkt_13
+      - Farmers_Mkt_14
+      - Farmers_Mkt_15
+      - Farmers_Mkt_16
+      - Farmers_Mkt_17
+      - Farmers_Mkt_18
+      - Farmers_Mkt_19
+      - Farmers_Mkt_20
+      - Farmers_Mkt_21
+      - Farmers_Mkt_22
+      - Farmers_Mkt_23
+      - Farmers_Mkt_24
+      - Farmers_Mkt_25
+      - Farmers_Mkt_26
+      - Farmers_Mkt_27
+      - Farmers_Mkt_28
+      - Farmers_Mkt_29
+      - Farmers_Mkt_30
+      - Farmers_Mkt_31
+      - Farmers_Mkt_32
+      - Farmers_Mkt_33
+      - Farmers_Mkt_34
+      - Farmers_Mkt_35
+      - Farmers_Mkt_36
+      - Farmers_Mkt_37
+      - Farmers_Mkt_38
+      - Farmers_Mkt_39
+      - Farmers_Mkt_40
+      - Farmers_Mkt_41
+      - Farmers_Mkt_42
+      - Farmers_Mkt_43
+      - Farmers_Mkt_44
+      - Farmers_Mkt_45
+      - Farmers_Mkt_46
+      - Farmers_Mkt_47
+      - Farmers_Mkt_48
+      - Farmers_Mkt_49
+      - Farmers_Mkt_50
+      required: false
+    - id: 12
+      name: farm_business_licenses
+      label: enter_farm_licenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      - Pending
+      - Required
+      - Optional
+      required: false
+    - id: 13
+      name: farm_business_certifications
+      label: enter_farm_certifications
+      hint: null
+      type: select_multiple
+      options:
+      - USDA
+      - NOP
+      - Organic
+      - Certified
+      - Non Certified
+      - 'Yes'
+      - 'No'
+      - Maybe
+      - Pending
+      - Required
+      - Optional
+      required: false
+    - id: 14
+      name: farm_business_insurance
+      label: enter_farm_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Insurance
+      - 'No'
+      - 'Yes'
+      - Maybe
+      - Pending
+      - Required
+      - Optional
+      required: false
+    - id: 15
+      name: farm_business_bankruptcy
+      label: enter_farm_bankruptcy
+      hint: null
+      type: select_multiple
+      options:
+      - Bankruptcy
+      - 'No'
+      - Maybe
+      - Pending
+      - Required
+      - Optional
+      required: false
+    - id: 16
+      name: farm_business_liability
+      label: enter_farm_liability
+      hint: null
+      type: select_multiple
+      options:
+      - Liability
+      - 'No'
+      - Maybe
+      - Pending
+      - Required
+      - Optional
+      required: false
+    - id: 17
+      name: farm_business_fines
+      label: enter_farm_fines
+      hint: null
+      type: select_multiple
+      options:
+      - Fines
+      - 'No'
+      - Maybe
+      - Pending
+      - Required
+      - Optional
+      required: false
+    - id: 18
+      name: farm_business_other
+      label: enter_farm_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: farm_business_notes2
+      label: enter_farm_notes2
+      hint: null
+      type: note
+      options: []
+      required: false

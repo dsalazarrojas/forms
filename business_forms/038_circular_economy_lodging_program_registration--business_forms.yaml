@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circular Economy Lodging Program Registration
+    pages:
+    - id: 1
+      name: business_name
+      label: Business or Property Name
+      hint: Name of lodging establishment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Business Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_type
+      label: Type of Lodging Property
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Motel
+      - Resort
+      - Bed and Breakfast
+      - Vacation Rental
+      - Hostel
+      - Lodge
+      - Other
+      required: true
+    - id: 8
+      name: number_rooms
+      label: Number of Rooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: occupancy_rate
+      label: Average Occupancy Rate
+      hint: Percentage
+      type: select_one
+      options:
+      - Under 50%
+      - 50-60%
+      - 61-70%
+      - 71-80%
+      - Over 80%
+      required: true
+    - id: 10
+      name: sustainability_initiatives
+      label: Current Sustainability Initiatives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recycling program
+      - Energy efficient lighting
+      - Water conservation
+      - Linen reuse program
+      - Solar panels
+      - Composting
+      - Local sourcing
+      - None yet
+      required: true
+    - id: 11
+      name: waste_management
+      label: Current Waste Management Practices
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive recycling
+      - Basic recycling
+      - Minimal waste management
+      - No formal program
+      required: true
+    - id: 12
+      name: energy_source
+      label: Primary Energy Source
+      hint: null
+      type: select_one
+      options:
+      - Grid electricity
+      - Natural gas
+      - Solar
+      - Wind
+      - Geothermal
+      - Mixed sources
+      required: true
+    - id: 13
+      name: program_interest
+      label: Why Are You Interested in This Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: goals
+      label: What Are Your Sustainability Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: challenges
+      label: What Challenges Do You Face
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: budget_available
+      label: Budget Available for Improvements
+      hint: null
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$25,000
+      - $25,000-$100,000
+      - Over $100,000
+      - Seeking funding
+      required: true
+    - id: 17
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - Just exploring
+      required: true
+    - id: 18
+      name: certification_interest
+      label: Interested in Sustainability Certification
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: true
+    - id: 19
+      name: staff_training
+      label: Need Staff Training
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Any Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

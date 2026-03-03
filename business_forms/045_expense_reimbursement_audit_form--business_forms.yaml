@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Audit Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 3
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: expense_description
+      label: expense description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: total_amount
+      label: total amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_date
+      label: expense date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expense_reason
+      label: expense reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false

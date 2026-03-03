@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Measurement Network Application Form
+    pages:
+    - id: 1
+      name: application_intro
+      label: -- Network Application --
+      hint: Join our client value measurement network
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Current Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Optional - helps us verify your background
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: relevant_experience
+      label: Relevant Experience with Value Measurement
+      hint: Describe your experience in this area
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: interests_areas
+      label: Areas of Interest
+      hint: What topics interest you most?
+      type: select_multiple
+      options:
+      - Value proposition
+      - Client success metrics
+      - Business outcomes measurement
+      - ROI analysis
+      - Performance management
+      - Other
+      required: true
+    - id: 13
+      name: network_participation
+      label: How Would You Like to Participate?
+      hint: What role interests you?
+      type: select_multiple
+      options:
+      - Attend events
+      - Share insights
+      - Collaborate on projects
+      - Mentor others
+      - Lead initiatives
+      - Other
+      required: false
+    - id: 14
+      name: motivation
+      label: Why Are You Interested in Joining?
+      hint: Tell us about your motivation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_challenges
+      label: Current Challenges in Your Field
+      hint: What are you trying to solve?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: goals_objectives
+      label: Goals and Objectives
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Availability for Participation
+      hint: How much time can you commit?
+      type: select_one
+      options:
+      - Very flexible
+      - Several hours per month
+      - Once per month
+      - A few times per year
+      - Limited availability
+      required: false
+    - id: 18
+      name: agreement_acceptance
+      label: I agree to the network terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

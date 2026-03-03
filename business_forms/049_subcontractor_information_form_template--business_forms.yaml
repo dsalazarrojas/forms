@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: subcontractor_information_form_template
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subcontractor_address
+      label: subcontractor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: license_info
+      label: license_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_location
+      label: work_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: work_start_date
+      label: work_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: work_end_date
+      label: work_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: subcontractor_status
+      label: subcontractor_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tax_info
+      label: tax_info
+      hint: null
+      type: note
+      options: []
+      required: false

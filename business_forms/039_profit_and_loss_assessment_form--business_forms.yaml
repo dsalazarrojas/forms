@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profit And Loss Assessment Form
+    pages:
+    - id: 1
+      name: business_form
+      label: Profit And Loss Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: income_data
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expense_data
+      label: expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false

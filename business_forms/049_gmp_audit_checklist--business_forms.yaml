@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: gmp_audit_checklist
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_audit
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: audit_type
+      label: Audit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: regulatory_body
+      label: Regulatory Body
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: gmp_version
+      label: GMP Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_inspection_status
+      label: Facility Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: equipment_inspection_status
+      label: Equipment Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: personnel_inspection_status
+      label: Personnel Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: procedure_inspection_status
+      label: Procedure Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: document_review_status
+      label: Document Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: record_review_status
+      label: Record Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: training_and_qualifications
+      label: Training and Qualifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: regulatory_control
+      label: Regulatory Control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: deviation_and_complaints
+      label: Deviation and Complaints
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 18
+      name: product_presentation
+      label: Product Presentation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: packaging_and_labeling
+      label: Packaging and Labeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: shipping_and_distribution
+      label: Shipping and Distribution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: record_retention
+      label: Record Retention
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: management_system
+      label: Management System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

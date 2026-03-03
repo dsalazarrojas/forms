@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_integrity_validation_request_form
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one_input
+      label: Select
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      - '{''label'': ''option3'', ''value'': ''option3''}'
+      required: true
+    - id: 8
+      name: select_multiple_input
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1'', ''value'': ''option1''}'
+      - '{''label'': ''option2'', ''value'': ''option2''}'
+      - '{''label'': ''option3'', ''value'': ''option3''}'
+      - '{''label'': ''option4'', ''value'': ''option4''}'
+      required: true
+    - id: 9
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_input2
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: select_multiple_input2
+      label: Select Multiple 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: date_input2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: integer_input
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: decimal_input
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: time_input2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: true

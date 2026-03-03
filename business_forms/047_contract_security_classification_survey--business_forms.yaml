@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contract Security Classification Survey
+    pages:
+      - id: 1
+        name: surveyor_name
+        label: Surveyor Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: surveyor_title
+        label: Surveyor Title
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Security
+          - Legal
+          - Compliance
+          - IT
+          - Operations
+          - Risk Management
+          - Other
+        required: true
+      - id: 4
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: contract_number
+        label: Contract Number
+        hint: Contract reference
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: contract_title
+        label: Contract Title
+        hint: Name of contract
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: contract_type
+        label: Contract Type
+        hint: Category
+        type: select_one
+        options:
+          - Service agreement
+          - Vendor contract
+          - Partnership agreement
+          - Licensing agreement
+          - Government contract
+          - Defense contract
+          - Research contract
+          - Other
+        required: true
+      - id: 8
+        name: security_classification
+        label: Security Classification
+        hint: Classification level
+        type: select_one
+        options:
+          - Unclassified
+          - Controlled Unclassified
+          - Confidential
+          - Secret
+          - Top Secret
+          - Proprietary
+          - Trade Secret
+        required: true
+      - id: 9
+        name: classification_justification
+        label: Classification Justification
+        hint: Why this classification?
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: sensitive_information_types
+        label: Sensitive Information Types
+        hint: What sensitive data is included?
+        type: select_multiple
+        options:
+          - Personal identifiable information
+          - Financial data
+          - Trade secrets
+          - Technical specifications
+          - Pricing information
+          - Customer lists
+          - Strategic plans
+          - Intellectual property
+          - National security information
+          - None
+        required: true
+      - id: 11
+        name: data_handling_requirements
+        label: Data Handling Requirements
+        hint: How must data be handled?
+        type: select_multiple
+        options:
+          - Encrypted storage
+          - Encrypted transmission
+          - Access controls required
+          - Audit logging required
+          - Secure disposal
+          - Watermarking
+          - No copying allowed
+          - Limited distribution
+        required: true
+      - id: 12
+        name: access_restrictions
+        label: Access Restrictions
+        hint: Who can access?
+        type: select_one
+        options:
+          - Unlimited access
+          - Need to know basis
+          - Authorized personnel only
+          - Specific individuals only
+          - Cleared personnel only
+        required: true
+      - id: 13
+        name: clearance_level_required
+        label: Clearance Level Required
+        hint: What clearance is needed?
+        type: select_one
+        options:
+          - No clearance required
+          - Basic clearance
+          - Secret clearance
+          - Top Secret clearance
+          - SCI access required
+        required: true
+      - id: 14
+        name: storage_requirements
+        label: Storage Requirements
+        hint: How to store documents?
+        type: select_one
+        options:
+          - Standard filing
+          - Locked cabinet
+          - Secure room
+          - Approved safe
+          - Electronic only
+          - Secure server
+        required: true
+      - id: 15
+        name: transmission_methods
+        label: Transmission Methods
+        hint: How can it be shared?
+        type: select_multiple
+        options:
+          - Encrypted email
+          - Secure file transfer
+          - Hand delivery
+          - Registered mail
+          - Courier service
+          - Secure portal
+          - No electronic transmission
+        required: true
+      - id: 16
+        name: marking_requirements
+        label: Marking Requirements
+        hint: How to mark documents?
+        type: select_multiple
+        options:
+          - Classification banner
+          - Page numbers
+          - Version control
+          - Distribution statement
+          - Warning notices
+          - Watermark
+        required: true
+      - id: 17
+        name: retention_period
+        label: Retention Period
+        hint: How long to keep?
+        type: select_one
+        options:
+          - 1 year
+          - 3 years
+          - 5 years
+          - 10 years
+          - Permanent
+          - Per contract terms
+        required: true
+      - id: 18
+        name: destruction_requirements
+        label: Destruction Requirements
+        hint: How to dispose?
+        type: select_one
+        options:
+          - Standard disposal
+          - Shredding required
+          - Incineration required
+          - Certified destruction
+          - Return to originator
+        required: true
+      - id: 19
+        name: foreign_disclosure
+        label: Foreign Disclosure
+        hint: Can it be shared internationally?
+        type: select_one
+        options:
+          - No restrictions
+          - US persons only
+          - Specific countries approved
+          - No foreign disclosure
+          - Case by case basis
+        required: true
+      - id: 20
+        name: export_control
+        label: Export Control
+        hint: Is export controlled?
+        type: select_one
+        options:
+          - Not export controlled
+          - EAR controlled
+          - ITAR controlled
+          - Dual use
+          - Unsure
+        required: true
+      - id: 21
+        name: special_handling_notes
+        label: Special Handling Notes
+        hint: Any special requirements?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: review_date
+        label: Review Date
+        hint: When to reclassify?
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: approving_authority
+        label: Approving Authority
+        hint: Who approved classification?
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inside Sales Email Report Form
+    pages:
+    - id: 1
+      name: lead_email_form
+      label: Lead Email Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salesperson_email
+      label: Sales Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_phone
+      label: Lead Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_multiple
+      options:
+      - Lead Status 1
+      - Lead Status 2
+      - Lead Status 3
+      required: true
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - Action 1
+      - Action 2
+      - Action 3
+      required: true
+    - id: 7
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: next_follow_up_date
+      label: Next Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_follow_up_time
+      label: Next Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email_sent_status
+      label: Email Sent Status
+      hint: null
+      type: select_multiple
+      options:
+      - Email Sent 1
+      - Email Sent 2
+      - Email Sent 3
+      required: true
+    - id: 12
+      name: follow_up_notes
+      label: Follow up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_outcome
+      label: Follow up Outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 14
+      name: follow_up_outcome_notes
+      label: Follow up Outcome Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: text
+      options: []
+      required: false

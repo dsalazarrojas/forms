@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acceptance Report Submission Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Acceptance Report Submission Form --
+      hint: Submit your acceptance report for review and documentation.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department or division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_date
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: report_section
+      label: -- Report Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name
+      label: Project or deliverable name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: report_type
+      label: Type of acceptance report
+      hint: null
+      type: select_one
+      options:
+      - Product or deliverable acceptance
+      - Service acceptance
+      - Equipment acceptance
+      - Software acceptance
+      - Construction or facility acceptance
+      - Other
+      required: true
+    - id: 10
+      name: vendor_or_contractor
+      label: Vendor or contractor name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: acceptance_criteria_met
+      label: Were all acceptance criteria met
+      hint: null
+      type: select_one
+      options:
+      - Yes - all criteria fully met
+      - Partially - some criteria met with exceptions
+      - No - criteria not met
+      required: true
+    - id: 12
+      name: criteria_exceptions
+      label: If partially or not met, describe the exceptions or deficiencies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspection_date
+      label: Date of inspection or review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: inspector_name
+      label: Name of the inspector or reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: overall_condition
+      label: Overall condition or quality rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 16
+      name: corrective_actions_needed
+      label: Are any corrective actions required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: corrective_action_details
+      label: If yes, describe the required corrective actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: final_recommendation
+      label: Final recommendation
+      hint: null
+      type: select_one
+      options:
+      - Accept as-is
+      - Accept with conditions
+      - Reject and require rework
+      required: true
+    - id: 19
+      name: comments
+      label: Additional comments or notes
+      hint: null
+      type: text
+      options: []
+      required: false

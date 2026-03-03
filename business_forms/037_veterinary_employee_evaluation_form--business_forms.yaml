@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_employee_evaluation_form
+    pages:
+    - id: 1
+      name: employee_evaluation_form
+      label: Performance Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_to_senior_vet
+      label: Feedback To Senior Vet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: action_items_completed
+      label: Action Items Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: veterinary_employee_evaluation_form_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: feedback_to_colleagues
+      label: Feedback to Colleagues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_to_director
+      label: Feedback to Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_form_completed
+      label: Evaluation Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true

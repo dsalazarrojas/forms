@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Discrimination Disclosure Form
+    pages:
+    - id: 1
+      name: tenant_details
+      label: Tenant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discrimination
+      label: Discrimination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: housing_type
+      label: Housing Type
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: housing_address
+      label: Housing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_ineligibility
+      label: Reason for Ineligibility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_ineligibility
+      label: Date of Ineligibility
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_ineligibility
+      label: Time of Ineligibility
+      hint: null
+      type: time
+      options: []
+      required: false

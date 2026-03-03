@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Distribution Appointment Form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: product_location
+      label: Product Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_timeframe
+      label: Delivery Timeframe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: business_id
+      label: Business ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

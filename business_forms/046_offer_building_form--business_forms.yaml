@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer Building Form
+    pages:
+    - id: 1
+      name: offer_building_form
+      label: offer_building_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offer_type
+      label: offer_type
+      hint: null
+      type: select_one
+      options:
+      - Offer A
+      - Offer B
+      - Offer C
+      required: false
+    - id: 3
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_email
+      label: business_email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: Phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: Description
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_start
+      label: date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_start
+      label: time_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_end
+      label: date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_end
+      label: time_end
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_design_risk_assessment
+    pages:
+    - id: 1
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - risk_of_reduced_revenue
+      - risk_of_project_delay
+      - risk_of_design_failure
+      required: true
+    - id: 3
+      name: risk_likelihood
+      label: Risk Likelihood
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 4
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_multiple
+      options:
+      - minor
+      - moderate
+      - major
+      required: true
+    - id: 5
+      name: risk_probability
+      label: Risk Probability
+      hint: null
+      type: select_one
+      options:
+      - unlikely
+      - possible
+      - probable
+      required: true
+    - id: 6
+      name: mitigation_actions
+      label: Mitigation Actions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risk_management_strategy
+      label: Risk Management Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_assessment_comments
+      label: Risk Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false

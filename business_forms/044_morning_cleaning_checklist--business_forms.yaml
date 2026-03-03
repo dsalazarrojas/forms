@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: morning_cleaning_checklist
+    pages:
+    - id: 1
+      name: task_list
+      label: morning_task_list
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: morning_time
+      label: what_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: morning_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: morning_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: morning_cleaning_area
+      label: cleaning_area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: morning_cleaning_task
+      label: cleaning_task
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: morning_cleaning_priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: morning_cleaning_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: morning_cleaning_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

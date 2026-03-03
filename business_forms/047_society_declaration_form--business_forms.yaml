@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Society Declaration Form
+    pages:
+    - id: 1
+      name: society_details
+      label: Society Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_confirmation
+      label: Authorized Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: society_type
+      label: Society Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Non-Profit
+      - Non-Profit/Charitable
+      required: false
+    - id: 4
+      name: society_status
+      label: Society Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Dissolved
+      required: false
+    - id: 5
+      name: society_reg_no
+      label: Society Reg. No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: society_name
+      label: Society Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorized_name
+      label: Authorized Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

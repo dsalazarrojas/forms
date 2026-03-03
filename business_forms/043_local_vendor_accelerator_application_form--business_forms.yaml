@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_vendor_accelerator_application_form
+    pages:
+    - id: 1
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_multiple
+      options:
+      - Service
+      - Product
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: logo
+      label: logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_desc
+      label: business_desc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: business_hours
+      label: business_hours
+      hint: "24-hour format, e.g., 10:00-20:00"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: vendor_id
+      label: vendor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: application_submission
+      label: application_submission
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Draft
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false

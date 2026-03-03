@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profit And Loss Statement Access Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - Small Business
+      - Medium Business
+      - Large Business
+      required: false
+    - id: 5
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: annual_expenses
+      label: Annual Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: net_profit
+      label: Net Profit
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Billing Support Contact Form
+    pages:
+    - id: 1
+      name: form_control
+      label: What is your issue with your invoice?
+      hint: Please describe your issue
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_control
+      label: What would you like to do?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - '{''label'': ''Cancel Invoice''}'
+      - '{''label'': ''Update Invoice''}'
+      - '{''label'': ''Resend Invoice''}'
+      required: false
+    - id: 5
+      name: form_control
+      label: When are you available to discuss further?
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_control
+      label: Can we call you at your work or home?
+      hint: Select one
+      type: select_one
+      options:
+      - '{''label'': ''Work''}'
+      - '{''label'': ''Home''}'
+      - '{''label'': ''No Preference''}'
+      required: false
+    - id: 7
+      name: form_control
+      label: Is there anything else we should know about your inquiry?
+      hint: null
+      type: note
+      options: []
+      required: false

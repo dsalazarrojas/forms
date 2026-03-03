@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Tax Extension Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_tax_id
+      label: Business Tax ID or EIN
+      hint: Tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_return_type
+      label: Type of Tax Return
+      hint: What type of return needs extension
+      type: select_one
+      options:
+      - Income Tax
+      - Sales Tax
+      - Corporate Tax
+      - Partnership Return
+      - Individual Return
+      - Payroll Tax
+      - Property Tax
+      - Other
+      required: true
+    - id: 4
+      name: tax_year
+      label: Tax Year
+      hint: Which tax year needs extension
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: original_due_date
+      label: Original Due Date
+      hint: When was the return originally due
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: requested_extension_date
+      label: Requested Extension Date
+      hint: New requested due date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: business_owner_name
+      label: Business Owner or Representative Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accountant_name
+      label: Accountant or Tax Preparer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accountant_email
+      label: Accountant Email
+      hint: Professional contact email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: accountant_phone
+      label: Accountant Phone
+      hint: Professional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: extension_reason
+      label: Reason for Extension Request
+      hint: Why do you need an extension
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: extension_reason_category
+      label: Extension Reason Category
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Incomplete Documentation
+      - Complex Calculations
+      - Pending Information
+      - System Issues
+      - Personnel Shortage
+      - Other Circumstances
+      required: true
+    - id: 15
+      name: estimated_liability
+      label: Estimated Tax Liability
+      hint: Expected amount owed or refund
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_plan
+      label: Will You Pay on Time
+      hint: Can you pay the estimated tax by the original due date
+      type: select_one
+      options:
+      - Yes, Full Payment
+      - Yes, Partial Payment
+      - No, Payment Needed with Extension
+      required: true
+    - id: 17
+      name: previous_extensions
+      label: Previous Extensions Received
+      hint: Have you requested extensions before
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List any attached documents
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_submission_date
+      label: Extension Request Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

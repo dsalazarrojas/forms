@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trademark Search Inquiry Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: business_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: categories
+      label: Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Food and Beverage
+      - Fashion
+      - Home Goods
+      - Medical Equipment
+      - Software
+      - Toys
+      - Transportation
+      required: false
+    - id: 8
+      name: products_services
+      label: Products/Services
+      hint: null
+      type: select_one
+      options:
+      - Products
+      - Services
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trademark_status
+      label: Trademark Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Registered
+      - Cancelled
+      required: true

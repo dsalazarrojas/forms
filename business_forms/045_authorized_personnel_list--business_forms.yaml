@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorized Personnel List
+    pages:
+    - id: 1
+      name: list_date
+      label: List Date
+      hint: Date of this authorization list
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: department_name
+      label: Department or Division
+      hint: Name of department
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: list_purpose
+      label: Purpose of This List
+      hint: What is this list for
+      type: select_one
+      options:
+      - Building/Facility Access
+      - Equipment Operation
+      - Financial Transactions
+      - Data Access
+      - Admin Privileges
+      - Multi-Purpose
+      required: true
+    - id: 4
+      name: authorizing_manager
+      label: Authorizing Manager Name
+      hint: Manager approving this list
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_title
+      label: Manager Title
+      hint: Position of authorizing manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: Manager contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: effective_date
+      label: Effective Date
+      hint: When does this list take effect
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: When does this list expire
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_one_name
+      label: Employee 1 - Full Name
+      hint: Name of first authorized personnel
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_one_id
+      label: Employee 1 - Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_one_title
+      label: Employee 1 - Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employee_one_access_level
+      label: Employee 1 - Access Level
+      hint: What level of access
+      type: select_one
+      options:
+      - Level 1 - Basic
+      - Level 2 - Standard
+      - Level 3 - Advanced
+      - Level 4 - Full Access
+      - Custom Level
+      required: true
+    - id: 13
+      name: employee_one_permissions
+      label: Employee 1 - Specific Permissions
+      hint: What can they access or do
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_two_name
+      label: Employee 2 - Full Name
+      hint: Name of second authorized personnel
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_two_title
+      label: Employee 2 - Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_two_access_level
+      label: Employee 2 - Access Level
+      hint: What level of access
+      type: select_one
+      options:
+      - Level 1 - Basic
+      - Level 2 - Standard
+      - Level 3 - Advanced
+      - Level 4 - Full Access
+      - Custom Level
+      required: false
+    - id: 17
+      name: employee_three_name
+      label: Employee 3 - Full Name
+      hint: Name of third authorized personnel
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_three_title
+      label: Employee 3 - Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_three_access_level
+      label: Employee 3 - Access Level
+      hint: What level of access
+      type: select_one
+      options:
+      - Level 1 - Basic
+      - Level 2 - Standard
+      - Level 3 - Advanced
+      - Level 4 - Full Access
+      - Custom Level
+      required: false
+    - id: 20
+      name: total_authorized_count
+      label: Total Number of Authorized Personnel
+      hint: Complete count of all personnel
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: training_requirement
+      label: Training Completion Required
+      hint: Must personnel be trained
+      type: select_one
+      options:
+      - Yes - Required Before Access
+      - Yes - Required Within 30 Days
+      - No - Not Required
+      - Optional
+      required: true
+    - id: 22
+      name: security_clearance
+      label: Security Clearance Status
+      hint: Have background checks been done
+      type: select_one
+      options:
+      - Yes - Completed
+      - In Progress
+      - Not Required
+      - TBD
+      required: true
+    - id: 23
+      name: audit_trail
+      label: Audit Trail / Activity Monitoring
+      hint: Will activity be monitored
+      type: select_one
+      options:
+      - Yes - Full Monitoring
+      - Yes - Periodic Audits
+      - No - No Monitoring
+      - Limited Monitoring
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: Any special conditions
+      type: text
+      options: []
+      required: false

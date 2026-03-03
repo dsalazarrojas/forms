@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_facility_inspection_report
+    pages:
+    - id: 1
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: month
+      label: month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: maintenance_issues
+      label: Maintenance Issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: maintenance_completed
+      label: Maintenance Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: completed
+      label: Completed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: facility_area
+      label: Facility Area
+      hint: null
+      type: text
+      options: []
+      required: true

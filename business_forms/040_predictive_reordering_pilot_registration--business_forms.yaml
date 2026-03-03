@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Predictive Reordering Pilot Registration
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pilot_goals
+      label: Pilot Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: company_details_terms
+      label: Company Details Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: saas_operations
+      label: SaaS and Operations
+      hint: null
+      type: text
+      options: []
+      required: true

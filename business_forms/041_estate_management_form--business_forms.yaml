@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Management Form
+    pages:
+    - id: 1
+      name: page1
+      label: Estate Details
+      hint: Enter property details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 3
+      name: property_address
+      label: Address
+      hint: 123 Main St
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Sold
+      - Rented
+      required: false
+    - id: 6
+      name: lease_date
+      label: Lease Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lease_end_date
+      label: Lease End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rental_amount
+      label: Rental Amount
+      hint: '0.00'
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Check
+      - Cash
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: property_photos
+      label: Property Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: documents
+      label: Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_address
+      label: Email Address
+      hint: jim@example.com
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Mobile
+      required: false
+    - id: 16
+      name: phone_number_1
+      label: Phone Number 1
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: phone_number_2
+      label: Phone Number 2
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: phone_number_3
+      label: Phone Number 3
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_manager_contact_info
+      label: Property Manager Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_insurer
+      label: Property Insurer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_insurer_contact_info
+      label: Property Insurer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_insurer_phone
+      label: Property Insurer Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_insurer_email
+      label: Property Insurer Email
+      hint: jim@example.com
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: property_insurer_address
+      label: Property Insurer Address
+      hint: 123 Main St
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_insurer_notes
+      label: Property Insurer Notes
+      hint: null
+      type: text
+      options: []
+      required: false

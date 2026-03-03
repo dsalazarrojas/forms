@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Collaboration Check Out Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Resources
+      - Equipment
+      - Materials
+      required: false
+    - id: 3
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_out
+      label: Date Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_out
+      label: Time Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_department
+      label: User Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false

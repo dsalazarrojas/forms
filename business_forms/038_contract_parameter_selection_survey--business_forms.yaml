@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Parameter Selection Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_type_preference
+      label: Contract Type Preference
+      hint: What type of agreement?
+      type: select_one
+      options:
+      - Service agreement
+      - Retainer agreement
+      - Project-based
+      - Time and materials
+      - Fixed price
+      - Performance-based
+      - Hybrid
+      required: true
+    - id: 6
+      name: contract_duration_preference
+      label: Contract Duration Preference
+      hint: Preferred length
+      type: select_one
+      options:
+      - One-time project
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - Open-ended
+      required: true
+    - id: 7
+      name: payment_terms_preference
+      label: Payment Terms Preference
+      hint: How to pay?
+      type: select_one
+      options:
+      - Upfront payment
+      - Net 15
+      - Net 30
+      - Net 45
+      - Net 60
+      - Milestone-based
+      - Monthly installments
+      required: true
+    - id: 8
+      name: budget_range
+      label: Budget Range
+      hint: Expected budget
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$10,000
+      - $10,000-$25,000
+      - $25,000-$50,000
+      - $50,000-$100,000
+      - Over $100,000
+      required: true
+    - id: 9
+      name: scope_flexibility
+      label: Scope Flexibility
+      hint: How fixed is the scope?
+      type: select_one
+      options:
+      - Completely fixed
+      - Mostly fixed
+      - Somewhat flexible
+      - Very flexible
+      - To be determined
+      required: true
+    - id: 10
+      name: deliverable_priority
+      label: Deliverable Priority
+      hint: What is most important?
+      type: select_one
+      options:
+      - Speed
+      - Quality
+      - Cost
+      - Flexibility
+      - Communication
+      required: true
+    - id: 11
+      name: communication_preference
+      label: Communication Preference
+      hint: How to communicate?
+      type: select_multiple
+      options:
+      - Email
+      - Phone calls
+      - Video conferences
+      - In-person meetings
+      - Project management tool
+      - Instant messaging
+      required: true
+    - id: 12
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: How often to report?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - On demand
+      required: true
+    - id: 13
+      name: termination_clause_preference
+      label: Termination Clause Preference
+      hint: Termination terms
+      type: select_one
+      options:
+      - Either party with 30 days notice
+      - Either party with 60 days notice
+      - Either party with 90 days notice
+      - For cause only
+      - Mutual agreement only
+      required: true
+    - id: 14
+      name: liability_cap_preference
+      label: Liability Cap Preference
+      hint: Liability limits
+      type: select_one
+      options:
+      - No cap
+      - Contract value
+      - 2x contract value
+      - 3x contract value
+      - Specific amount
+      required: false
+    - id: 15
+      name: insurance_requirements
+      label: Insurance Requirements
+      hint: Insurance needed
+      type: select_multiple
+      options:
+      - General liability
+      - Professional liability
+      - Cyber liability
+      - Workers compensation
+      - Property insurance
+      - None required
+      required: true
+    - id: 16
+      name: intellectual_property_terms
+      label: Intellectual Property Terms
+      hint: IP ownership
+      type: select_one
+      options:
+      - Client owns all work product
+      - Provider retains IP, client gets license
+      - Shared ownership
+      - To be negotiated
+      required: true
+    - id: 17
+      name: confidentiality_requirements
+      label: Confidentiality Requirements
+      hint: NDA needed?
+      type: select_one
+      options:
+      - Yes, mutual NDA
+      - Yes, one-way NDA
+      - Standard confidentiality clause
+      - No special requirements
+      required: true
+    - id: 18
+      name: dispute_resolution_preference
+      label: Dispute Resolution Preference
+      hint: How to resolve disputes?
+      type: select_one
+      options:
+      - Negotiation first
+      - Mediation
+      - Arbitration
+      - Litigation
+      - Combination
+      required: true
+    - id: 19
+      name: governing_law_preference
+      label: Governing Law Preference
+      hint: Which state law?
+      type: select_one
+      options:
+      - Client's state
+      - Provider's state
+      - Neutral state
+      - Federal law
+      - Undecided
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Any unique needs?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other preferences
+      type: text
+      options: []
+      required: false

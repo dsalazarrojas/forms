@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Malfunction Incident Form
+    pages:
+    - id: 1
+      name: tool_malfunction_incident_form_input
+      label: Tool Malfunction Incident Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false

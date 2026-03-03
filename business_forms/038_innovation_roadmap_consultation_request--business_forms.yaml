@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Roadmap Consultation Request
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: innovation_goals
+      label: innovation_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_meeting_times
+      label: preferred_meeting_times
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 5
+      name: expert_specialties
+      label: expert_specialties
+      hint: null
+      type: select_one
+      options:
+      - Artificial Intelligence
+      - Blockchain
+      - Cloud Computing
+      - Data Science
+      - Internet of Things
+      - Machine Learning
+      - Network Security
+      - Natural Language Processing
+      - Web Development
+      required: false
+    - id: 6
+      name: meeting_length
+      label: meeting_length
+      hint: null
+      type: number
+      options: []
+      required: false

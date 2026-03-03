@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Center Customer Onboarding Form
+    pages:
+    - id: 1
+      name: customer_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Type of Service Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Call answering
+      - Message taking
+      - Customer support
+      - Order processing
+      - Appointment scheduling
+      - Dispatch services
+      - Other
+      required: true
+    - id: 9
+      name: call_volume
+      label: Expected Monthly Call Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: peak_hours_header
+      label: -- Business Hours --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: business_hours_mon_fri
+      label: Monday-Friday Business Hours
+      hint: Start time - End time
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: weekend_coverage
+      label: Weekend Coverage Needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: weekend_hours
+      label: Weekend Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: holiday_coverage
+      label: Holiday Coverage Needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - On-demand only
+      required: false
+    - id: 15
+      name: call_instructions_header
+      label: -- Call Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: call_greeting
+      label: Customized Call Greeting
+      hint: How should calls be answered?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: call_transfer_procedure
+      label: Call Transfer Procedure
+      hint: How should urgent calls be handled?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contacts_header
+      label: -- Emergency Contacts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_1
+      label: Primary Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_number_1
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_header
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: billing_contact
+      label: Billing Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional Information or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

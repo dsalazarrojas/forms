@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: sponsor_sign_up_and_payment
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: select_one
+      options:
+      - Sponsor
+      - Co-Sponsor
+      - Donor
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

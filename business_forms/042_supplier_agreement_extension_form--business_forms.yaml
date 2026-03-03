@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Agreement Extension Form
+    pages:
+    - id: 1
+      name: supplier_agreement_id
+      label: Supplier Agreement ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supplier_email
+      label: supplier_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: supplier_phone
+      label: supplier_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: extension_reason
+      label: extension_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: extension_date
+      label: extension_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: extension_terms
+      label: extension_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 9
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false

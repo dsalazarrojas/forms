@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recognition Order Form
+    pages:
+    - id: 1
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_one
+      options:
+      - Award
+      - Certificate
+      - Gift
+      - Other
+      required: false
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: Please describe the item you would like to order in 2 sentences or less.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_recognition
+      label: Date of Recognition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recipient_name
+      label: Recipient Name
+      hint: Please enter the name of the recipient
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recipient_email
+      label: Recipient Email
+      hint: Please enter the email of the recipient
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: recipient_phone
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recipient_department
+      label: Recipient Department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Operations
+      - Finance
+      - Other
+      required: false
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: Please select whether approval is required
+      type: select_one
+      options:
+      - Required
+      - Not Required
+      - Optional
+      required: false
+    - id: 11
+      name: manager_approvals
+      label: Manager Approvals
+      hint: Please list any manager approvals
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: Please enter the name of the submitter
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: Please enter the email of the submitter
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_work_email
+      label: Submitter Work Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitter_work_phone
+      label: Submitter Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_work_department
+      label: Submitter Work Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_work_location
+      label: Submitter Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_work_job_title
+      label: Submitter Work Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_work_title
+      label: Submitter Work Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_work_location
+      label: Submitter Work Location
+      hint: null
+      type: text
+      options: []
+      required: false

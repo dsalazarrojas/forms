@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outlet Evaluation Form
+    pages:
+    - id: 1
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: outlet_name
+      label: outlet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_title
+      label: contact_title
+      hint: null
+      type: text
+      options: []
+      required: false

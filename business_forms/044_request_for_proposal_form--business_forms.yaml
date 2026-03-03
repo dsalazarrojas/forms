@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Proposal Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Software Development
+      - Web Development
+      - Mobile App Development
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: required_documents
+      label: Required Documents
+      hint: null
+      type: select_multiple
+      options:
+      - CV
+      - Resume
+      - Portfolio
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: submission_requirements
+      label: Submission Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Inventory Checklist Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: serial_number
+      label: serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hardware_type
+      label: hardware type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: asset_status
+      label: asset status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_condition
+      label: asset condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: last_update
+      label: last update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

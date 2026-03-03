@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Backup Generator Order Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: backup_generator_model
+      label: Backup Generator Model
+      hint: null
+      type: select_one
+      options:
+      - Model A
+      - Model B
+      - Model C
+      required: false
+    - id: 3
+      name: backup_generator_features
+      label: Backup Generator Features
+      hint: null
+      type: select_multiple
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

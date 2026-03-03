@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_equipment_upgrade_request_form
+    pages:
+    - id: 1
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: reason_upgrade
+      label: reason_upgrade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 4
+      name: upgrade_frequency
+      label: upgrade_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

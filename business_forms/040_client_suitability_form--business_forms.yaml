@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Suitability Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Retired
+      - Unemployed
+      - Other
+      required: true
+    - id: 7
+      name: annual_income
+      label: Annual Income Range
+      hint: null
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - $500,000+
+      required: false
+    - id: 8
+      name: financial_situation
+      label: Current Financial Situation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unable to assess
+      required: true
+    - id: 9
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive experience
+      - Moderate experience
+      - Some experience
+      - Minimal experience
+      - No experience
+      required: true
+    - id: 10
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: select_one
+      options:
+      - Capital preservation
+      - Income generation
+      - Growth
+      - Balanced approach
+      - Mixed goals
+      required: true
+    - id: 11
+      name: investment_horizon
+      label: Investment Time Horizon
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 12
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How much risk are you comfortable with?
+      type: select_one
+      options:
+      - Very conservative
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Very aggressive
+      required: true
+    - id: 13
+      name: liquid_assets
+      label: Liquid Assets Available for Investment
+      hint: null
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - $500,000+
+      required: false
+    - id: 14
+      name: existing_investments
+      label: Do You Currently Have Investments?
+      hint: null
+      type: select_one
+      options:
+      - Yes, substantial
+      - Yes, moderate
+      - Yes, minimal
+      - false
+      required: false
+    - id: 15
+      name: investment_knowledge
+      label: Knowledge of Investment Products
+      hint: null
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Knowledgeable
+      - Somewhat knowledgeable
+      - Not knowledgeable
+      require: true
+    - id: 16
+      name: prior_losses
+      label: Experience with Investment Losses
+      hint: Have you experienced significant losses?
+      type: select_one
+      options:
+      - Yes, substantial
+      - Yes, moderate
+      - Yes, minimal
+      - false
+      required: false
+    - id: 17
+      name: suitability_confirmation
+      label: I understand the risks and confirm this investment is suitable for me
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true
+    - id: 18
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

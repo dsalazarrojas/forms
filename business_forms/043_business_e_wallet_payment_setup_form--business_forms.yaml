@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business E-Wallet Payment Setup Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Business registration or tax ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Other
+      required: true
+    - id: 5
+      name: industry_category
+      label: Industry Category
+      hint: Your primary industry
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: merchant_contact
+      label: -- Merchant Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for setup
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Title
+      hint: Position of contact person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ewallet_details
+      label: -- E-Wallet Setup Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ewallet_provider
+      label: E-Wallet Provider
+      hint: Which e-wallet platform
+      type: select_one
+      options:
+      - Digital Wallet
+      - Mobile Payment Service
+      - Online Payment Platform
+      - Cryptocurrency Wallet
+      - Other
+      required: true
+    - id: 14
+      name: payment_methods
+      label: Payment Methods to Accept
+      hint: Select accepted payment types
+      type: select_multiple
+      options:
+      - Debit Card
+      - Credit Card
+      - Mobile Wallet
+      - Bank Transfer
+      - Cryptocurrency
+      - QR Code Payment
+      - USSD
+      - Other
+      required: true
+    - id: 15
+      name: transaction_volume
+      label: Expected Monthly Transaction Volume
+      hint: Estimated number of transactions
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: transaction_value
+      label: Average Transaction Value
+      hint: Average amount per transaction
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: monthly_turnover
+      label: Expected Monthly Turnover
+      hint: Total monthly revenue expected
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: bank_details
+      label: -- Bank Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: bank_name
+      label: Bank Name
+      hint: Name of your bank
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Name on bank account
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: account_number
+      label: Account Number
+      hint: Bank account number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: routing_number
+      label: Routing Number
+      hint: Bank routing number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: settlement_frequency
+      label: Settlement Frequency
+      hint: How often funds are settled
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - On-demand
+      required: true
+    - id: 24
+      name: security_authorization
+      label: -- Security and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: two_factor_auth
+      label: Enable Two-Factor Authentication
+      hint: Add extra security
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

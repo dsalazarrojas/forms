@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_deposit_amendment_form
+    pages:
+    - id: 1
+      name: landlord
+      label: Landlord
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tenant
+      label: Tenant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: deposit_refund
+      label: Deposit RefundchartInstance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amended_terms
+      label: Amended Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: landlord_confirmation
+      label: Landlord Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: tenant_confirmation
+      label: Tenant Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

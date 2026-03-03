@@ -1,0 +1,134 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Background Information Sheet Form
+    pages:
+      - id: 1
+        name: biz_background_header
+        label: -- Business Client Background Information --
+        hint: Help us understand your needs and objectives
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_company_name_sheet
+        label: Company/Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_person_name
+        label: Primary Contact Person
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: industry_type
+        label: Industry or Business Sector
+        hint: null
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance/Banking
+          - Education
+          - Manufacturing
+          - Retail/E-commerce
+          - Non-Profit
+          - Other
+        required: true
+      - id: 5
+        name: company_size_employees
+        label: Number of Employees
+        hint: null
+        type: select_one
+        options:
+          - 1-10
+          - 11-50
+          - 51-200
+          - 201-500
+          - 501+
+        required: true
+      - id: 6
+        name: current_challenges_biz
+        label: What are your primary business challenges currently?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Operations/Efficiency
+          - Growth/Scaling
+          - Technology/Digital Transformation
+          - Marketing/Sales
+          - Compliance/Regulatory
+          - Human Resources/Talent
+        required: true
+      - id: 7
+        name: goals_description_biz
+        label: What are your key goals for the next 12 months?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: previous_solutions_tried_biz
+        label: Describe any previous solutions or vendors used for this challenge
+        hint: What worked? What didn't?
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: budget_range_estimate
+        label: Estimated Budget Range for this Project
+        hint: null
+        type: select_one
+        options:
+          - Under $5,000
+          - $5,000 - $15,000
+          - $15,001 - $50,000
+          - $50,001 - $100,000
+          - Over $100,000
+        required: true
+      - id: 10
+        name: project_timeframe_biz
+        label: Desired Timeframe for Implementation
+        hint: null
+        type: select_one
+        options:
+          - Immediately (0-3 months)
+          - Near Term (3-6 months)
+          - Long Term (6-12+ months)
+        required: true
+      - id: 11
+        name: specific_requirements_biz
+        label: Are there any specific technical or regulatory requirements?
+        hint: e.g., HIPAA compliance, ISO certification
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: preferred_consultation_time
+        label: Best time for a follow-up consultation
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: how_did_you_hear_about_us
+        label: How did you hear about our services?
+        hint: null
+        type: text
+        options: []
+        required: false

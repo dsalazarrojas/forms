@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mergers And Acquisitions Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: acquisition_date
+      label: acquisition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: deal_value
+      label: deal_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: finance_teams_feedback
+      label: finance_teams_feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''satisfied'', ''value'': ''satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''value'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''not_satisfied'', ''value'': ''not_satisfied''}'
+      - '{''id'': 5, ''name'': ''very_not_satisfied'', ''value'': ''very_not_satisfied''}'
+      required: false
+    - id: 6
+      name: legal_teams_feedback
+      label: legal_teams_feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''satisfied'', ''value'': ''satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''value'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''not_satisfied'', ''value'': ''not_satisfied''}'
+      - '{''id'': 5, ''name'': ''very_not_satisfied'', ''value'': ''very_not_satisfied''}'
+      required: false
+    - id: 7
+      name: integration_teams_feedback
+      label: integration_teams_feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''satisfied'', ''value'': ''satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''value'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''not_satisfied'', ''value'': ''not_satisfied''}'
+      - '{''id'': 5, ''name'': ''very_not_satisfied'', ''value'': ''very_not_satisfied''}'
+      required: false
+    - id: 8
+      name: corporate_development_teams_feedback
+      label: corporate_development_teams_feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''value'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''satisfied'', ''value'': ''satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''value'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''not_satisfied'', ''value'': ''not_satisfied''}'
+      - '{''id'': 5, ''name'': ''very_not_satisfied'', ''value'': ''very_not_satisfied''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

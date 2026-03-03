@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Monitoring Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 9
+      name: project_status_reason
+      label: Project Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: productivity_hours
+      label: Productivity Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_id
+      label: Project Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: task_manager_id
+      label: Task Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_manager_id
+      label: Employee Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: project_manager_rating
+      label: Project Manager Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: task_manager_rating
+      label: Task Manager Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 16
+      name: employee_manager_rating
+      label: Employee Manager Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: project_rating
+      label: Project Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 18
+      name: project_rating_reason
+      label: Project Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: task_rating
+      label: Task Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 20
+      name: task_rating_reason
+      label: Task Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 22
+      name: employee_rating_reason
+      label: Employee Rating Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hours_overtime
+      label: Hours Overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: hours_overtime_reason
+      label: Hours Overtime Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hours_absent
+      label: Hours Absent
+      hint: null
+      type: number
+      options: []
+      required: false

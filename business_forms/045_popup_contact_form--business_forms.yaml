@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: popup-contact-form
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact-name
+      hint: Contact name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact-phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: daily-project-status-report
+    pages:
+    - id: 1
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''status'': ''on-track''}'
+      - '{''status'': ''off-track''}'
+      required: false
+    - id: 2
+      name: milestones_reached
+      label: Milestones Reached
+      hint: null
+      type: select_multiple
+      options:
+      - '{''milestone'': ''milestone-1''}'
+      - '{''milestone'': ''milestone-2''}'
+      - '{''milestone'': ''milestone-3''}'
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_progress
+      label: Overall Progress
+      hint: null
+      type: select_one
+      options:
+      - '{''progress'': ''on-target''}'
+      - '{''progress'': ''off-target''}'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''contact'': ''name''}'
+      - '{''contact'': ''phone''}'
+      - '{''contact'': ''email''}'
+      required: false
+    - id: 8
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_due
+      label: Date Due
+      hint: null
+      type: date
+      options: []
+      required: false

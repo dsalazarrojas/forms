@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dealership Inventory Registration Form
+    pages:
+    - id: 1
+      name: make
+      label: make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: model
+      label: model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: select_one_make
+      label: make
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Toyota''}'
+      - '{''id'': 12, ''label'': ''Honda''}'
+      - '{''id'': 13, ''label'': ''Ford''}'
+      required: true
+    - id: 6
+      name: select_multiple_models
+      label: models
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''label'': ''Corolla''}'
+      - '{''id'': 15, ''label'': ''Accord''}'
+      - '{''id'': 16, ''label'': ''Mustang''}'
+      - '{''id'': 17, ''label'': ''Explorer''}'
+      required: true
+    - id: 7
+      name: select_one_year
+      label: year
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 18, ''label'': 2015}'
+      - '{''id'': 19, ''label'': 2016}'
+      - '{''id'': 20, ''label'': 2017}'
+      required: true
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: select_one_make
+      label: make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_multiple_models
+      label: models
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: select_one_year
+      label: year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

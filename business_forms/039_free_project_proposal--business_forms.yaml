@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_project_proposal
+    pages:
+    - id: 1
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: stakeholder_name
+      label: stakeholder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_position
+      label: stakeholder_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stakeholder_department
+      label: stakeholder_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stakeholder_email
+      label: stakeholder_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: stakeholder_phone
+      label: stakeholder_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholder_notes
+      label: stakeholder_notes
+      hint: null
+      type: note
+      options: []
+      required: false

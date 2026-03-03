@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_evaluation_form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: []
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      required: false
+    - id: 2
+      name: engine_size
+      label: Engine Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: transmission
+      label: Transmission
+      hint: []
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - Continuously Variable Transmission
+      required: false
+    - id: 4
+      name: drive_type
+      label: Drive Type
+      hint: []
+      type: select_one
+      options:
+      - Front Wheel Drive
+      - Rear Wheel Drive
+      - All Wheel Drive
+      required: false
+    - id: 5
+      name: fuel_type
+      label: Fuel Type
+      hint: []
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      required: false
+    - id: 6
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: []
+      type: select_one
+      options:
+      - New
+      - Used
+      required: false
+    - id: 10
+      name: make_model
+      label: Make/Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: []
+      type: select_multiple
+      options:
+      - Low mileage
+      - High performance
+      - Comfortable
+      - Low maintenance
+      required: false
+    - id: 12
+      name: features
+      label: Features
+      hint: []
+      type: select_multiple
+      options:
+      - Navigation system
+      - Backup camera
+      - Sunroof
+      required: false
+    - id: 13
+      name: color
+      label: Color
+      hint: []
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Black
+      required: false
+    - id: 14
+      name: safety_features
+      label: Safety Features
+      hint: []
+      type: select_multiple
+      options:
+      - Airbag system
+      - Anti-lock braking system
+      - Electronic stability system
+      required: false
+    - id: 15
+      name: warranty
+      label: Warranty
+      hint: []
+      type: select_multiple
+      options:
+      - 1 year or less
+      - 2-3 years
+      - 4-5 years
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_image
+      label: Vehicle Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: purchased_at
+      label: Purchased At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

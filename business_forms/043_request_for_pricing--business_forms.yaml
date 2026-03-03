@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Pricing
+    pages:
+    - id: 1
+      name: pricing_type
+      label: pricing_type
+      hint: null
+      type: select_one
+      options:
+      - Goods
+      - Service
+      required: false
+    - id: 2
+      name: goods_service
+      label: goods_service
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Service
+      required: false
+    - id: 3
+      name: item_number
+      label: item_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_price
+      label: item_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price_range_lower
+      label: price_range_lower
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price_range_upper
+      label: price_range_upper
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - CHF
+      - JPY
+      - CNY
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: price_range
+      label: price_range
+      hint: null
+      type: select_multiple
+      options:
+      - Below 0
+      - Below 5
+      - Below 10
+      - Below 20
+      - Below 50
+      - Below 100
+      - Below 500
+      - Below 1000
+      - Below 5000
+      - Below 20000
+      - Below 50000
+      - Below 100000
+      - Below 500000
+      - Below 1000000
+      - Below 5000000
+      required: false
+    - id: 23
+      name: currency_symbol
+      label: currency_symbol
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 24
+      name: price_range_currency
+      label: price_range_currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 25
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

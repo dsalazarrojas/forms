@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Termination Notice Letter Generator
+    pages:
+    - id: 1
+      name: sender_name
+      label: Your Name or Title
+      hint: Name of person sending the notice
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sender_company
+      label: Your Company Name
+      hint: Name of the issuing company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_address
+      label: Your Company Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sender_email
+      label: Your Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sender_phone
+      label: Your Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notice_date
+      label: Notice Date
+      hint: Date the notice is being sent
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of vendor or service provider
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recipient_company
+      label: Recipient Company Name
+      hint: Name of their company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recipient_address
+      label: Recipient Address
+      hint: Their complete address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recipient_contact_person
+      label: Recipient Contact Person
+      hint: Name of person to address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_type
+      label: Type of Agreement Being Terminated
+      hint: What is being terminated
+      type: select_one
+      options:
+      - Service Agreement
+      - Supply Contract
+      - Employment Contract
+      - Partnership Agreement
+      - Lease Agreement
+      - License Agreement
+      - Other Agreement
+      required: true
+    - id: 12
+      name: agreement_description
+      label: Agreement Description
+      hint: Brief description of the agreement
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: When the agreement began
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: termination_effective_date
+      label: Termination Effective Date
+      hint: When does the termination take effect
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notice_period
+      label: Notice Period Provided
+      hint: How much notice are you giving
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: termination_reason
+      label: Reason for Termination
+      hint: Why are you terminating
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: termination_reason_category
+      label: Reason Category
+      hint: Select the type of reason
+      type: select_one
+      options:
+      - Poor Performance
+      - Cost Reduction
+      - Business Change
+      - Breach of Contract
+      - End of Project
+      - Mutual Agreement
+      - Other
+      required: true
+    - id: 18
+      name: outstanding_obligations
+      label: Outstanding Obligations
+      hint: What needs to be completed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: final_payment_details
+      label: Final Payment Details
+      hint: Payment information if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_authority
+      label: Authorized Signature
+      hint: Name of person authorized to sign
+      type: text
+      options: []
+      required: true

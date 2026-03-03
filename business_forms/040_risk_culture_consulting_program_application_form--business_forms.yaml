@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Culture Consulting Program Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_risk_culture
+      label: Current Risk Culture
+      hint: Describe the current state of risk culture within your organization.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_applicant
+      label: Program Applicant
+      hint: null
+      type: select_one
+      options:
+      - 1. CEO / President
+      - 2. COO
+      - 3. Director / Manager
+      - 4. Team Leader / Supervisor
+      - 5. Other
+      - 6. Not Applicable
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

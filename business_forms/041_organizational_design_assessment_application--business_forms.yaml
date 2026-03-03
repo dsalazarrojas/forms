@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Design Assessment Application
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenge_description
+      label: Challenge description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: goal_description
+      label: Goal description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_request_date
+      label: Assessment request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: assessment_deadline
+      label: Assessment deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_notes
+      label: Contact notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization_size
+      label: Organization size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra large
+      required: false
+    - id: 11
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: challenge_level
+      label: Challenge level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 14
+      name: challenge_type
+      label: Challenge type
+      hint: null
+      type: select_multiple
+      options:
+      - Strategic
+      - Operational
+      - Tactical
+      required: false
+    - id: 15
+      name: contact_title
+      label: Contact title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: challenge_location
+      label: Challenge location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assessment_frequency
+      label: Assessment frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Ongoing
+      - Regularly
+      required: false
+    - id: 18
+      name: challenge_scope
+      label: Challenge scope
+      hint: null
+      type: select_multiple
+      options:
+      - Local
+      - Global
+      - Regional
+      required: false
+    - id: 19
+      name: contact_department
+      label: Contact department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: challenge_urgency
+      label: Challenge urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 21
+      name: challenge_priority
+      label: Challenge priority
+      hint: null
+      type: select_multiple
+      options:
+      - Strategic
+      - Operational
+      - Tactical
+      required: false
+    - id: 22
+      name: contact_location
+      label: Contact location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assessment_objective
+      label: Assessment objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_role
+      label: Contact role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: challenge_impact
+      label: Challenge impact
+      hint: null
+      type: text
+      options: []
+      required: false

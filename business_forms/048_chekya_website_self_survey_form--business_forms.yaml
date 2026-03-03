@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chekya Website Self Survey Form
+    pages:
+    - id: 1
+      name: section_biz_overview
+      label: -- Business Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name_chekya
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_industry_sector
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Professional Services
+      - E-commerce / Retail
+      - Education / Nonprofit
+      - Creative / Portfolio
+      - Restaurant / Hospitality
+      - Other
+      required: true
+    - id: 4
+      name: section_website_goals
+      label: -- Website Goals and Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: primary_website_purpose
+      label: Primary Purpose of the Website
+      hint: null
+      type: select_one
+      options:
+      - Brand Awareness / Information
+      - Selling Products (E-commerce)
+      - Lead Generation / Booking
+      - Membership / Community
+      required: true
+    - id: 6
+      name: expected_monthly_traffic_range
+      label: Expected Monthly Visitors
+      hint: null
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000 - 10,000
+      - 10,000 - 50,000
+      - 50,000+
+      required: true
+    - id: 7
+      name: feature_req_ecommerce
+      label: Do you need e-commerce capabilities
+      hint: Ability to sell and process payments
+      type: select_one
+      options:
+      - Yes, required
+      - No, not needed
+      - Maybe in the future
+      required: true
+    - id: 8
+      name: feature_req_blogging
+      label: Do you need blogging / content management
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: feature_req_customer_portal
+      label: Do you need a private customer portal / login
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_budget_design
+      label: -- Budget and Design --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: estimated_website_budget_range
+      label: Monthly Budget for Website Management ($)
+      hint: null
+      type: select_one
+      options:
+      - $29 - $99
+      - $100 - $299
+      - $300 - $999
+      - $1,000+
+      required: true
+    - id: 12
+      name: design_aesthetic_preference
+      label: Preferred Design Aesthetic
+      hint: null
+      type: select_one
+      options:
+      - Minimalist and Modern
+      - Bold and Creative
+      - Corporate and Professional
+      - Warm and Organic
+      required: true
+    - id: 13
+      name: section_result_match
+      label: -- Your Match --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recommended_version_match
+      label: Which version are you leaning towards
+      hint: Based on your initial research
+      type: select_one
+      options:
+      - Chekya Starter (Basic Info)
+      - Chekya Pro (Growth / E-comm)
+      - Chekya Enterprise (Scale / Custom)
+      required: true
+    - id: 15
+      name: contact_person_email_chekya
+      label: Email Address for Result Summary
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: survey_completion_ack_chekya
+      label: I have completed the self-survey
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Other
+      required: true

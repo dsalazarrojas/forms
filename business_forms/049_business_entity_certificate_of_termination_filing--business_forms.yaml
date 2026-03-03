@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Certificate Of Termination Filing
+    pages:
+    - id: 1
+      name: business_details
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name being terminated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Entity Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietor
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: federal_tax_id
+      label: Federal Tax ID (EIN)
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state_of_incorporation
+      label: State of Incorporation
+      hint: State where business was incorporated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incorporation_date
+      label: Date of Incorporation
+      hint: Original incorporation date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: termination_information
+      label: -- Termination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: termination_date
+      label: Date of Termination
+      hint: When business is being terminated
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: termination_reason
+      label: Reason for Termination
+      hint: Why business is closing
+      type: select_one
+      options:
+      - Voluntary Dissolution
+      - Merger or Consolidation
+      - Business Closure
+      - Administrative Dissolution
+      - Bankruptcy
+      - Change of Business Status
+      - Other
+      required: true
+    - id: 10
+      name: termination_details
+      label: Additional Termination Details
+      hint: Explain any special circumstances
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_information
+      label: -- Owner/Principal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: owner_name
+      label: Owner/Principal Name
+      hint: Full name of owner
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: owner_title
+      label: Owner Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_address
+      label: Owner Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: owner_email
+      label: Owner Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: financial_matters
+      label: -- Financial Matters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: outstanding_taxes
+      label: Outstanding Tax Liabilities
+      hint: Any unpaid taxes
+      type: select_one
+      options:
+      - None
+      - Federal Income Tax
+      - State Income Tax
+      - Sales Tax
+      - Payroll Tax
+      - Property Tax
+      - Multiple
+      - Unknown
+      required: true
+    - id: 19
+      name: final_tax_return
+      label: Final Tax Return Filed
+      hint: Has final return been filed
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      - To be filed
+      required: true
+    - id: 20
+      name: outstanding_debts
+      label: Outstanding Debts
+      hint: Any outstanding liabilities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assets_disposition
+      label: Asset Disposition Plan
+      hint: How will assets be handled
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: filings_certification
+      label: -- Filings and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: certify_statement
+      label: I Certify This Information is Accurate
+      hint: Confirmation of accuracy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: signature
+      label: Authorized Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

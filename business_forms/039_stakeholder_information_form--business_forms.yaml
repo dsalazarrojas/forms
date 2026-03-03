@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Information Form
+    pages:
+    - id: 1
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_type
+      label: Stakeholder Type
+      hint: null
+      type: select_one
+      options:
+      - Business Partner
+      - Customer
+      - Employee
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false

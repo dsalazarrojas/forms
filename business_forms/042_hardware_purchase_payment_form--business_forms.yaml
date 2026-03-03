@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Purchase Payment Form
+    pages:
+    - id: 1
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false

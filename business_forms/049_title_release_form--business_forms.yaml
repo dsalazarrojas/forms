@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Title Release Form
+    pages:
+    - id: 1
+      name: seller
+      label: seller
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''seller1''}'
+      - '{''value'': ''seller2''}'
+      required: false
+    - id: 2
+      name: seller_address
+      label: seller address
+      hint: required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer
+      label: buyer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''buyer1''}'
+      - '{''value'': ''buyer2''}'
+      required: false
+    - id: 4
+      name: buyer_address
+      label: buyer address
+      hint: required
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: vehicle year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_vin
+      label: vehicle vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: title_number
+      label: title number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: false

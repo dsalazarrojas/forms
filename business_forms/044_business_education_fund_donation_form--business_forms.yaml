@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Education Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_type
+      label: Donor Type
+      hint: Individual or business donation
+      type: select_one
+      options:
+      - Individual
+      - Business/Corporation
+      - Foundation
+      - Non-Profit
+      - Government
+      - Other
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Company name if business donor
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: donation_details
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount you wish to donate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: donation_currency
+      label: Currency
+      hint: Currency of donation
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - INR
+      - Other
+      required: true
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-time Donation
+      - Monthly
+      - Quarterly
+      - Annual
+      - Other
+      required: true
+    - id: 12
+      name: fund_allocation
+      label: Fund Allocation Preference
+      hint: How to use your donation
+      type: select_one
+      options:
+      - Scholarships
+      - Educational Programs
+      - Faculty Development
+      - Research Initiatives
+      - Infrastructure
+      - Unrestricted Use
+      required: true
+    - id: 13
+      name: fund_focus
+      label: Educational Focus Area
+      hint: What area to support
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_type
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Wire Transfer
+      - PayPal
+      - Other
+      required: true
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Other
+      required: false
+    - id: 17
+      name: billing_address
+      label: Billing Address
+      hint: Address for billing
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: state_province
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: donor_recognition
+      label: -- Donor Recognition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: recognition_preference
+      label: Recognition Preference
+      hint: How to recognize your donation
+      type: select_one
+      options:
+      - Public Recognition
+      - Anonymous Donation
+      - Named Scholarship
+      - No Preference
+      required: true
+    - id: 24
+      name: receipt_request
+      label: Send Tax Receipt
+      hint: Would you like a tax receipt
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

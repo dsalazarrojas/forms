@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Quotation Request Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: quotation_request_date
+      label: Quotation Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requested_items
+      label: Requested Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 7
+      name: requested_quantity
+      label: Requested Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supplier_price
+      label: Supplier Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false

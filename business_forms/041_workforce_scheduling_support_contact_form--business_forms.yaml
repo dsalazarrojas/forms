@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Scheduling Support Contact Form
+    pages:
+    - id: 1
+      name: workforcescheduling_support_contact_form
+      label: Workforce Scheduling Support Contact Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: support_issue
+      label: Support Issue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Scheduling conflict''}'
+      - '{''id'': 2, ''value'': ''Time-off request''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

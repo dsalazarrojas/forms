@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewer Testing Log
+    pages:
+    - id: 1
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manhole Inspection'', ''value'': ''manhole inspection''}'
+      - '{''id'': 2, ''label'': ''Catch Basin Inspection'', ''value'': ''catch basin
+        inspection''}'
+      - '{''id'': 3, ''label'': ''Catch Basin Cleaning'', ''value'': ''catch basin
+        cleaning''}'
+      required: false
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspector_organization
+      label: Inspector Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Passed'', ''value'': ''passed''}'
+      - '{''id'': 2, ''label'': ''Failed'', ''value'': ''failed''}'
+      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''in progress''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

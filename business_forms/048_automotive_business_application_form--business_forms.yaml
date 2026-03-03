@@ -1,0 +1,419 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Business Application Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automotive Business Application Form
+      hint: Apply for automotive business services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_info
+      label: Business Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dba_name
+      label: DBA Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_website
+      label: Business Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_email
+      label: Business Email
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: business_phone
+      label: Business Phone
+      hint: Company phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_fax
+      label: Business Fax
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_address
+      label: Business Address
+      hint: Physical address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: mailing_address
+      label: Mailing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit
+      - Other
+      required: true
+    - id: 15
+      name: year_established
+      label: Year Established
+      hint: When founded
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Tax number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: business_category
+      label: Business Category
+      hint: What type of business
+      type: select_one
+      options:
+      - Auto Repair Shop
+      - Car Dealership
+      - Auto Parts Store
+      - Detailing Service
+      - Towing Service
+      - Auto Body Shop
+      - Oil Change
+      - Tire Shop
+      - Auto Glass
+      - Performance Shop
+      - Restoration Shop
+      - Other
+      required: true
+    - id: 18
+      name: business_description
+      label: Business Description
+      hint: Describe your business
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: services_offered
+      label: Services Offered
+      hint: What you provide
+      type: select_multiple
+      options:
+      - General Repair
+      - Engine Work
+      - Transmission
+      - Brakes
+      - AC Service
+      - Electrical
+      - Diagnostics
+      - Oil Change
+      - Tire Services
+      - Detailing
+      - Body Work
+      - Paint
+      - Custom Work
+      - Other
+      required: false
+    - id: 20
+      name: contact_info
+      label: Contact Information
+      hint: Primary contact
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: contact_name
+      label: Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: ownership_info
+      label: Ownership Information
+      hint: Owner details
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: owner_name
+      label: Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: owner_email
+      label: Owner Email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 28
+      name: owner_phone
+      label: Owner Phone
+      hint: Phone
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: years_experience
+      label: Years in Industry
+      hint: Owner experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: false
+    - id: 30
+      name: facility_info
+      label: Facility Information
+      hint: About your location
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: facility_size
+      label: Facility Size
+      hint: Square footage
+      type: select_one
+      options:
+      - Under 1000 sq ft
+      - 1000-5000 sq ft
+      - 5000-10000 sq ft
+      - Over 10000 sq ft
+      required: false
+    - id: 32
+      name: number_of_bays
+      label: Number of Service Bays
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total staff
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: false
+    - id: 34
+      name: certifications
+      label: Certifications
+      hint: What you have
+      type: select_multiple
+      options:
+      - ASE Certified
+      - AAA Approved
+      - BBB Accredited
+      - Manufacturer Certified
+      - ISO Certified
+      - Other
+      - None
+      required: false
+    - id: 35
+      name: insurance_info
+      label: Insurance Information
+      hint: Coverage details
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: insurance_carrier
+      label: Insurance Carrier
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: policy_number
+      label: Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: coverage_amount
+      label: Coverage Amount
+      hint: Liability limit
+      type: select_one
+      options:
+      - Under $500K
+      - $500K-$1M
+      - $1M-$2M
+      - Over $2M
+      required: false
+    - id: 39
+      name: application_purpose
+      label: Application Purpose
+      hint: Why applying
+      type: select_one
+      options:
+      - Vendor Registration
+      - Partnership
+      - Certification
+      - Directory Listing
+      - Service Provider
+      - Other
+      required: true
+    - id: 40
+      name: requested_services
+      label: Requested Services
+      hint: What you need
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: references
+      label: Business References
+      hint: Provide references
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: bank_reference
+      label: Bank Reference
+      hint: Banking info
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 45
+      name: accuracy_statement
+      label: Accuracy Statement
+      hint: Information is accurate
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true
+    - id: 46
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: signature_title
+      label: Signature Title
+      hint: Signer title
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavation Permit Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Permit A
+      - Permit B
+      - Permit C
+      required: false
+    - id: 4
+      name: site_description
+      label: Site Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: excavated_area
+      label: Excavated Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: excavated_area_unit
+      label: Excavated Area Unit
+      hint: null
+      type: select_one
+      options:
+      - Square Meters
+      - Square Feet
+      - Square Centimeters
+      - Square Kilometers
+      required: false
+    - id: 9
+      name: safety_precautions
+      label: Safety Precautions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Cost And Vendor Information Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: utility_expenses
+      label: Utility Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: utility_type
+      label: Utility Type
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Sewer
+      - Internet
+      - Other
+      required: false
+    - id: 7
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rate_period
+      label: Rate Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Individual
+      - Partnership
+      - Other
+      required: false
+    - id: 15
+      name: vendor_type_other
+      label: Other (if other please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vendor_note
+      label: Vendor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vendor_terms
+      label: Vendor Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save Draft
+      required: false
+    - id: 20
+      name: form_submit_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: utility_id
+      label: Utility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: utility_id_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: utility_id_terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '[''assigned_tool'']'
+      - Other
+      required: false

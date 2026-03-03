@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Completion Form
+    pages:
+    - id: 1
+      name: project_completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - On-going
+      required: false
+    - id: 3
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: project_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johnDoe
+      - JaneDoe
+      required: false
+    - id: 6
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - JohnDoe
+      - JaneDoe
+      - JohnDoe
+      required: false
+    - id: 7
+      name: client
+      label: Client
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_team
+      label: Project Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_benefits
+      label: Project Benefits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_challenges
+      label: Project Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_recommendations
+      label: Project Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_next_steps
+      label: Project Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_review
+      label: Project Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_approval_status
+      label: Project Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - NotApproved
+      - In Progress
+      required: false
+    - id: 18
+      name: project_close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: project_close_by
+      label: Close By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: project_reviewer
+      label: Project Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: project_status_2
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: project_outcome_2
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: project_location_2
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: project_scope_2
+      label: Project Scope
+      hint: null
+      type: note
+      options: []
+      required: false

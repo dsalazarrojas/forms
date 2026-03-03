@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_activities_tracker_form
+    pages:
+    - id: 1
+      name: completed_projects
+      label: completed_projects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weekly_goal
+      label: weekly_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: activity_hours
+      label: activity_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: activity_minutes
+      label: activity_minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weekly_activities
+      label: weekly_activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: completed_activities
+      label: completed_activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: weekly_activities_tracker_form_business_forms
+      label: weekly_activities_tracker_form_business_forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: weekly_activities_tracker_form_business_forms_1
+      label: weekly_activities_tracker_form_business_forms_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

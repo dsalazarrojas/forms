@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Emergency Exit Signage Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exit_routes
+      label: exit_routes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: exit_sign_size
+      label: exit_sign_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: exit_sign_type
+      label: exit_sign_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exit_sign_location
+      label: exit_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exit_route_color
+      label: exit_route_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_exit_signs
+      label: emergency_exit_signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: safety_signs
+      label: safety_signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_exit_door_number
+      label: emergency_exit_door_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_doors
+      label: total_doors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: safety_sign_location
+      label: safety_sign_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

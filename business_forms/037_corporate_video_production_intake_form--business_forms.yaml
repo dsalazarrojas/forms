@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_video_production_intake_form
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''corporate_video''}'
+      - '{''option'': ''promotional_video''}'
+      - '{''option'': ''explainer_video''}'
+      required: false
+    - id: 7
+      name: number_of_days
+      label: Number of Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: budget_estimate
+      label: Budget Estimate
+      hint: null
+      type: number
+      options: []
+      required: false

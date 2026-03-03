@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: TSD transfer
+    pages:
+    - id: 1
+      name: transfer_node_id
+      label: transfer node id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: from_node_id
+      label: from node
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: to_node_id
+      label: to node
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: transfer_type
+      label: transfer type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: transfer_amount
+      label: transfer amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

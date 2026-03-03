@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethical supply network application form
+    pages:
+    - id: 1
+      name: application_title
+      label: Application Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_address
+      label: organization address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_description
+      label: business description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supply_chain_transparency
+      label: supply chain transparency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sourcing_practices
+      label: sourcing practices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supply_chain_certifications
+      label: supply chain certfications
+      hint: null
+      type: select_multiple
+      options:
+      - Certification 1
+      - Certification 2
+      - Certification 3
+      required: true
+    - id: 11
+      name: application_status
+      label: application status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 12
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: uploaded_documents
+      label: uploaded documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_of_service
+      label: terms of service
+      hint: null
+      type: select_multiple
+      options:
+      - Term 1
+      - Term 2
+      - Term 3
+      required: true
+    - id: 15
+      name: privacy_policy
+      label: privacy policy
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: true
+    - id: 16
+      name: terms_of_service_agreement
+      label: terms of service agreement
+      hint: null
+      type: select_one
+      options:
+      - Term 1
+      - Term 2
+      - Term 3
+      required: true
+    - id: 17
+      name: privacy_policy_agreement
+      label: privacy policy agreement
+      hint: null
+      type: select_one
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: true
+    - id: 18
+      name: business_type
+      label: business type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: business_size
+      label: business size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 20
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: business_industry
+      label: business industry
+      hint: null
+      type: select_multiple
+      options:
+      - Industry 1
+      - Industry 2
+      - Industry 3
+      required: true
+    - id: 22
+      name: application_date
+      label: application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: application_time
+      label: application time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: uploaded_file
+      label: uploaded file
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true

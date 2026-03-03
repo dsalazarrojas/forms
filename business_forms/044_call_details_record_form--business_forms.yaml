@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Details Record Form
+    pages:
+    - id: 1
+      name: call_header
+      label: -- Call Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: call_time
+      label: Call Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: call_duration
+      label: Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: caller_header
+      label: -- Caller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: caller_name
+      label: Caller Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: caller_phone
+      label: Caller Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: caller_company
+      label: Caller Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: callback_number
+      label: Callback Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recipient_header
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recipient_name
+      label: Recipient Name
+      hint: Person the call was for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: call_details_header
+      label: -- Call Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: call_subject
+      label: Subject of Call
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: call_purpose
+      label: Purpose of Call
+      hint: null
+      type: select_one
+      options:
+      - Message delivery
+      - Appointment request
+      - Order placement
+      - Complaint
+      - Inquiry
+      - Callback request
+      - Other
+      required: true
+    - id: 16
+      name: call_priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 17
+      name: call_summary
+      label: Call Summary
+      hint: Details of the conversation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: message_header
+      label: -- Message Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: message_content
+      label: Message Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_items
+      label: Action Items or Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: callback_needed
+      label: Callback Needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: callback_time
+      label: Requested Callback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

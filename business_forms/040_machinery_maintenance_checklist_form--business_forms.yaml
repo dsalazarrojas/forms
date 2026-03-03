@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machinery Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: page1
+      label: page1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: repair_scheduled
+      label: repair_scheduled
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: technician
+      label: technician
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

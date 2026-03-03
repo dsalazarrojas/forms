@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Conference Registration Form
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Attendee Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Government
+      - Other
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: conference_info
+      label: Conference Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: conference_name
+      label: Conference Name
+      hint: Which conference
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conference_date
+      label: Conference Date
+      hint: When is the conference
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: conference_location
+      label: Conference Location
+      hint: Where is it held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - VIP Pass
+      - Exhibitor Pass
+      - Speaker Pass
+      - Student Pass
+      required: true
+    - id: 14
+      name: day_selection
+      label: Day Selection
+      hint: Which day will you attend
+      type: select_one
+      options:
+      - Day 1 Only
+      - Day 2 Only
+      - Day 3 Only
+      - All Days
+      - Not Applicable
+      required: false
+    - id: 15
+      name: session_preferences
+      label: Session Preferences
+      hint: What sessions interest you
+      type: select_multiple
+      options:
+      - Keynote Sessions
+      - Technical Workshops
+      - Panel Discussions
+      - Networking Events
+      - Product Demos
+      - Case Studies
+      - Roundtable Discussions
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 17
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Specify your requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accommodation
+      label: Accommodation
+      hint: Do you need hotel booking
+      type: select_one
+      options:
+      - false
+      - Yes - Need Booking
+      - Yes - Have Own Booking
+      required: true
+    - id: 19
+      name: hotel_preference
+      label: Hotel Preference
+      hint: Room type
+      type: select_one
+      options:
+      - Standard Room
+      - Deluxe Room
+      - Suite
+      - Shared Room
+      - Not Applicable
+      required: false
+    - id: 20
+      name: transportation
+      label: Transportation
+      hint: Do you need airport transfers
+      type: select_one
+      options:
+      - false
+      - Airport Pickup
+      - Airport Drop-off
+      - Both
+      required: true
+    - id: 21
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Yes - Somewhat Interested
+      - false
+      required: true
+    - id: 22
+      name: exhibitor_interest
+      label: Exhibitor Interest
+      hint: Do you want to visit exhibitors
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 23
+      name: payment_info
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Invoice
+      - Company Account
+      required: true
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: Any promotional code
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to terms
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true

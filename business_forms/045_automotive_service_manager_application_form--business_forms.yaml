@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Service Manager Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_management
+      label: Years of Management Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: years_automotive
+      label: Years of Automotive Service Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: previous_positions
+      label: Previous Management Positions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teams_managed
+      label: Size of Teams Managed
+      hint: Approximate number of employees
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_skills
+      label: -- Key Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Development
+      required: true
+    - id: 13
+      name: customer_service
+      label: Customer Service Focus
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Development
+      required: true
+    - id: 14
+      name: technical_knowledge
+      label: Automotive Technical Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Good
+      - Fair
+      - Basic
+      required: true
+    - id: 15
+      name: financial_acumen
+      label: Financial and Budget Management
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Limited
+      required: true
+    - id: 16
+      name: section_header_responsibilities
+      label: -- Relevant Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: management_areas
+      label: Areas of Management Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Staff Scheduling
+      - Budget Management
+      - Service Quality Control
+      - Customer Relations
+      - Inventory Management
+      - Equipment Maintenance
+      - Team Training
+      - Performance Management
+      - Facility Operations
+      required: true
+    - id: 18
+      name: achievement_highlights
+      label: Key Achievements
+      hint: Notable accomplishments in previous roles
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_header_motivation
+      label: -- Position Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: role_interest
+      label: Why Are You Interested in Service Manager Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: goals
+      label: Career Goals and Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_certification
+      label: -- Certifications and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: certifications
+      label: Professional Certifications
+      hint: Management, ASE, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: education
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      required: true
+    - id: 25
+      name: availability
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

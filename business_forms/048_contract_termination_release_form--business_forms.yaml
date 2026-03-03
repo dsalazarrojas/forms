@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Termination Release Form
+    pages:
+    - id: 1
+      name: releasing_party_name
+      label: Releasing Party Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: releasing_party_type
+      label: Releasing Party Type
+      hint: Entity type
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Individual
+      - Government entity
+      - Non-profit
+      - Other
+      required: true
+    - id: 3
+      name: releasing_party_address
+      label: Releasing Party Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: released_party_name
+      label: Released Party Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: released_party_type
+      label: Released Party Type
+      hint: Entity type
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Individual
+      - Government entity
+      - Non-profit
+      - Other
+      required: true
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: Date of release
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contract_date
+      label: Contract Date
+      hint: Original contract date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: termination_date
+      label: Termination Date
+      hint: When did it end?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: termination_reason
+      label: Termination Reason
+      hint: Why was it terminated?
+      type: select_one
+      options:
+      - Mutual agreement
+      - Completion of terms
+      - Breach of contract
+      - Convenience
+      - Financial hardship
+      - Force majeure
+      - Other
+      required: true
+    - id: 12
+      name: outstanding_obligations
+      label: Outstanding Obligations
+      hint: Any remaining commitments?
+      type: select_one
+      options:
+      - None, all fulfilled
+      - Some obligations remain
+      - Disputed obligations
+      - To be determined
+      required: true
+    - id: 13
+      name: obligations_description
+      label: Obligations Description
+      hint: Describe remaining obligations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: financial_settlement
+      label: Financial Settlement
+      hint: Payment status
+      type: select_one
+      options:
+      - Fully settled
+      - Partially settled
+      - Pending settlement
+      - Disputed
+      - Not applicable
+      required: true
+    - id: 15
+      name: settlement_amount
+      label: Settlement Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: property_return
+      label: Property Return
+      hint: Any property to return?
+      type: select_one
+      options:
+      - All property returned
+      - Some property pending
+      - No property involved
+      - Disputed
+      required: true
+    - id: 17
+      name: property_description
+      label: Property Description
+      hint: Describe property
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confidentiality_survival
+      label: Confidentiality Survival
+      hint: Do confidentiality terms survive?
+      type: select_one
+      options:
+      - Yes, per contract
+      - Yes, modified terms
+      - No, terminated
+      - Not applicable
+      required: true
+    - id: 19
+      name: non_compete_survival
+      label: Non Compete Survival
+      hint: Does non-compete survive?
+      type: select_one
+      options:
+      - Yes, per contract
+      - Yes, modified terms
+      - No, terminated
+      - Not applicable
+      required: false
+    - id: 20
+      name: release_scope
+      label: Release Scope
+      hint: What is being released?
+      type: select_one
+      options:
+      - Full and complete release
+      - Partial release
+      - Conditional release
+      - No release
+      required: true
+    - id: 21
+      name: future_claims
+      label: Future Claims
+      hint: Are future claims waived?
+      type: select_one
+      options:
+      - Yes, all claims waived
+      - Some claims reserved
+      - No waiver
+      - To be determined
+      required: true
+    - id: 22
+      name: governing_law
+      label: Governing Law
+      hint: Which state law applies?
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Delaware
+      - Other
+      required: true
+    - id: 23
+      name: releasing_party_signature
+      label: Releasing Party Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: released_party_signature
+      label: Released Party Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness name
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notarization_required
+      label: Notarization Required
+      hint: Is notarization needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

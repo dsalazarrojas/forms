@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: fishing_industry_licensing_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: 'format: example@domain.com'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: 'format: E.555.123.4567'
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry
+      label: industry
+      hint: null
+      type: select_one
+      options:
+      - Fish Farming
+      - Fishing Guides
+      - Seafood Processor
+      required: true
+    - id: 6
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_type
+      label: license type
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial Fishing
+      - Recreational Fishing
+      - Aquaculture
+      - Shellfish
+      - Commercial Food Processing
+      - Aquatic Farm
+      - Other
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

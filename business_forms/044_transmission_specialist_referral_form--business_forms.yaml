@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: transmission_spezialist_referral_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Chevrolet
+      - Nissan
+      - BMW
+      - Volkswagen
+      - Subaru
+      - Volkswagen
+      - Kia
+      - Mazda
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transmission_problem
+      label: transmission_problem
+      hint: null
+      type: select_one
+      options:
+      - Low transmission fluid
+      - Gear slipping
+      - Leaking transmission fluid
+      - Grinding or grinding noises
+      - Slipping or slipping between gears
+      - Vibration while driving
+      - Vibration while shifting
+      - Noisy gears
+      - Loss of power
+      - Slipping
+      - Noisy transmission
+      - No transmission engagement
+      required: false
+    - id: 6
+      name: service_request
+      label: Service Request
+      hint: null
+      type: select_multiple
+      options:
+      - Automatic Transmission Repair
+      - Manual Transmission Repair
+      - Transmission Replacement
+      - Transmission Maintenance
+      - Transmission Fluid Replacement
+      - Other (Specify)
+      required: false
+    - id: 7
+      name: transmission_specialist
+      label: transmission_specialist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: transmission_specialist_phone
+      label: Transmission Specialist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transmission_specialist_email
+      label: Transmission Specialist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false

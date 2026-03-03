@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Strategy Development Form
+    pages:
+    - id: 1
+      name: strategic_context_section
+      label: "--- Strategic Context ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_name
+      label: Name of the Department/Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leadership_ai_understanding
+      label: Current level of AI understanding in your leadership team
+      hint: null
+      type: select_one
+      options:
+      - High (Actively driving AI initiatives)
+      - Moderate (Aware of AI, but no clear roadmap)
+      - Basic (Interested but limited knowledge)
+      - None (AI is not yet on the radar)
+      required: true
+    - id: 4
+      name: business_goals
+      label: What are your top 3 business goals for the next 12-24 months?
+      hint: e.g., Cost reduction, market expansion, customer retention.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ai_opportunity_section
+      label: "--- AI Opportunity Identification ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: potential_impact_areas
+      label: Where do you see the most potential for AI impact?
+      hint: Select top 2-3 areas.
+      type: select_multiple
+      options:
+      - Operational Efficiency (Process Automation)
+      - Customer Experience (Personalization/Support)
+      - Product/Service Innovation
+      - Risk Management & Compliance
+      - Sales & Marketing Optimization
+      - Supply Chain & Logistics
+      required: true
+    - id: 7
+      name: inefficient_process_description
+      label: Describe a specific process or task that is currently manual or inefficient.
+      hint: This could be a prime candidate for an AI pilot.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_strategy_status
+      label: Do you have a clear data strategy in place?
+      hint: Is your data centralized, clean, and accessible?
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Under Development
+      required: true
+    - id: 9
+      name: resource_assessment_section
+      label: "--- Resource & Capability Assessment ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: internal_ai_expertise
+      label: Internal AI Expertise Available
+      hint: null
+      type: select_one
+      options:
+      - Dedicated AI/Data Science Team
+      - A few experts scattered in IT/Data
+      - Relying primarily on external partners
+      - No internal expertise currently
+      required: true
+    - id: 11
+      name: available_infrastructure
+      label: Available Technical Infrastructure
+      hint: null
+      type: select_multiple
+      options:
+      - On-premise Servers/GPU Clusters
+      - Public Cloud (AWS, Azure, Google Cloud)
+      - SaaS-based AI Platforms
+      - Hybrid Environment
+      required: true
+    - id: 12
+      name: ai_budget_status
+      label: Budget availability for AI initiatives
+      hint: null
+      type: select_one
+      options:
+      - Budget is secured for the next fiscal year
+      - Budget is in the planning/approval stage
+      - No budget currently allocated
+      required: true
+    - id: 13
+      name: risk_compliance_section
+      label: "--- Risk & Compliance ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: key_ai_risks
+      label: Key AI risks of primary concern
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Data Privacy & Security
+      - Algorithmic Bias & Fairness
+      - Regulatory Compliance (e.g., EU AI Act)
+      - Job Displacement/Change Management
+      - Intellectual Property & Copyright
+      - System Reliability & Hallucinations
+      required: true
+    - id: 15
+      name: industry_regulations
+      label: Industry-specific regulations to consider
+      hint: e.g., HIPAA (Healthcare), GDPR, FinRA (Finance)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: strategic_alignment_section
+      label: "--- Strategic Alignment ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ai_strategic_priority
+      label: Priority of AI in the overall business strategy
+      hint: null
+      type: select_one
+      options:
+      - Critical (Cornerstone of our future)
+      - High (A key strategic pillar)
+      - Medium (Important, but not the top priority)
+      - Low (Experimental/Observational only)
+      required: true
+    - id: 18
+      name: success_criteria_kpis
+      label: What does success look like for an AI project in your organization?
+      hint: Describe the key performance indicators (KPIs).
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: target_completion_date
+      label: Target date for AI Strategy completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or strategic priorities
+      hint: null
+      type: text
+      options: []
+      required: false

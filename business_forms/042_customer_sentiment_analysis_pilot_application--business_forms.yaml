@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Sentiment Analysis Pilot Application
+    pages:
+    - id: 1
+      name: customer_sensitivity
+      label: What is your role in the company?
+      hint: null
+      type: select_one
+      options:
+      - CX
+      - Product
+      - Sales
+      - Support
+      required: true
+    - id: 2
+      name: customer_sensitivity_2
+      label: What is your job title or position?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_sensitivity_3
+      label: What is the primary product or service you are interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - AI
+      - Machine learning
+      - Cloud computing
+      - IoT
+      - Other
+      required: true
+    - id: 4
+      name: customer_sensitivity_4
+      label: What is your sentiment about the product or service?
+      hint: Please describe your sentiment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_sensitivity_5
+      label: What do you like about the product or service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_sensitivity_6
+      label: What do you not like about the product or service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_sensitivity_7
+      label: What do you wish the product or service offered?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_sensitivity_8
+      label: What is the primary benefit you hope to gain from our product or service?
+      hint: null
+      type: select_one
+      options:
+      - Increased efficiency
+      - Improved user experience
+      - Better collaboration
+      - Better data management
+      - Other
+      required: true
+    - id: 9
+      name: customer_sensitivity_9
+      label: What is your contact info?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: customer_sensitivity_10
+      label: Are you interested in being contacted by our team?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: customer_sensitivity_11
+      label: How did you find out about this pilot program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_sensitivity_12
+      label: Is there anything else youd like to tell us?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Purchase Agreement
+    pages:
+    - id: 1
+      name: pet_breed_details
+      label: Pet Breed Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_sale
+      label: Date Of Sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit/Debit Card
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 8
+      name: terms_of_sale
+      label: Terms Of Sale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Signed
+      - Cancelled
+      - Completed
+      required: false
+    - id: 13
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false

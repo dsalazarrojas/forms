@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: unit_control_checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Section 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_control_standards
+      label: Unit Control Standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: task_management
+      label: Task Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: compliance_checklists
+      label: Compliance Checklists
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_processes
+      label: Review Processes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: unit_control_status
+      label: Unit Control Status
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: unit_location
+      label: Unit Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: manager_name
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: review_frequency_unit
+      label: Review Frequency Unit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: review_date_unit
+      label: Review Date Unit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: review_time_unit
+      label: Review Time Unit
+      hint: null
+      type: time
+      options: []
+      required: true

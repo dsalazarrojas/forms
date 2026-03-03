@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Process Improvement Program Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_in_role
+      label: Years in Current Role
+      hint: Experience level
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Direct Manager
+      hint: Supervisor's name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_track
+      label: Program Track
+      hint: Which program are you joining?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Executive Leadership
+      - Specialized Track
+      required: true
+    - id: 11
+      name: program_duration
+      label: Program Duration Preference
+      hint: How long can you commit?
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - 16 weeks
+      - Full Program
+      required: true
+    - id: 12
+      name: time_commitment
+      label: Weekly Time Commitment
+      hint: Hours per week available
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: specific_processes
+      label: Specific Processes to Improve
+      hint: Which processes concern you?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: process_challenges
+      label: Current Process Challenges
+      hint: What problems exist?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: improvement_goals
+      label: Improvement Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expected_impact
+      label: Expected Business Impact
+      hint: How will this help the business?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prior_improvement_experience
+      label: Prior Improvement Program Experience
+      hint: Have you done this before?
+      type: select_one
+      options:
+      - Yes, Multiple Programs
+      - Yes, One Program
+      - No, First Time
+      required: false
+    - id: 18
+      name: learning_style
+      label: Preferred Learning Style
+      hint: How do you prefer to learn?
+      type: select_one
+      options:
+      - Classroom Instruction
+      - Online Learning
+      - Hybrid
+      - Hands-on Practice
+      - Mentoring
+      required: false
+    - id: 19
+      name: team_participation
+      label: Will Your Team Participate?
+      hint: Is this team-based?
+      type: select_one
+      options:
+      - Yes, as a team
+      - Individual participation
+      - Maybe some team members
+      required: false
+    - id: 20
+      name: resource_availability
+      label: Resource Availability
+      hint: Do you have needed resources?
+      type: select_one
+      options:
+      - Fully Available
+      - Mostly Available
+      - Partially Available
+      - Limited
+      required: true
+    - id: 21
+      name: stakeholder_support
+      label: Stakeholder Support
+      hint: Do you have management support?
+      type: select_one
+      options:
+      - Strong Support
+      - Good Support
+      - Neutral
+      - Limited Support
+      - No Support
+      required: true
+    - id: 22
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special needs or requests?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_checklist_check_out_check_in
+    pages:
+    - id: 1
+      name: check_out_date
+      label: check out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: return_date
+      label: return date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - Equipment
+      - Machinery
+      required: true
+    - id: 4
+      name: equipment_id
+      label: equipment id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equipment_name
+      label: equipment name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

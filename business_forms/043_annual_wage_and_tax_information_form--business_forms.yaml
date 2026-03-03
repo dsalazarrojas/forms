@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Wage And Tax Information Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Employer-assigned ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: social_security
+      label: Social Security Number
+      hint: SSN for tax purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tax_year
+      label: Tax Year
+      hint: Calendar year for reporting
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employer_id
+      label: Employer ID or EIN
+      hint: Employer identification number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time employee
+      - Part-time employee
+      - Seasonal employee
+      - Contractor
+      - Temporary employee
+      required: true
+    - id: 8
+      name: gross_wages
+      label: Gross Wages or Salary
+      hint: Total earnings before deductions
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: federal_tax_withheld
+      label: Federal Income Tax Withheld
+      hint: Total federal tax deducted
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: social_security_tax
+      label: Social Security Tax Withheld
+      hint: FICA SS tax deducted
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: medicare_tax
+      label: Medicare Tax Withheld
+      hint: FICA Medicare tax deducted
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: state_tax_withheld
+      label: State Income Tax Withheld
+      hint: Total state income tax deducted
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: state_name
+      label: State of Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: local_tax_withheld
+      label: Local Tax Withheld
+      hint: City or local tax deducted
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: local_jurisdiction
+      label: Local Tax Jurisdiction
+      hint: City or county name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dependent_care_benefits
+      label: Dependent Care Benefits
+      hint: Pre-tax childcare benefits
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: health_insurance_premiums
+      label: Health Insurance Premiums
+      hint: Pre-tax health insurance deducted
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: retirement_contributions
+      label: Retirement Plan Contributions
+      hint: 401(k), 403(b), IRA contributions
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: other_deductions
+      label: Other Deductions
+      hint: Union dues, parking, etc.
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: tips_reported
+      label: Tips Reported to Employer
+      hint: Total tips received and reported
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: nontaxable_benefits
+      label: Nontaxable Benefits
+      hint: Commuter benefits, FSA, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: net_pay
+      label: Net Pay or Take-Home Pay
+      hint: Total pay after all deductions
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: w2_verification
+      label: I verify this information is correct for W2 reporting
+      hint: null
+      type: select_one
+      options:
+      - I verify and agree
+      - Information needs correction
+      required: true
+    - id: 24
+      name: withholding_adjustments
+      label: Withholding adjustments needed
+      hint: Need to change deductions or exemptions
+      type: select_one
+      options:
+      - No changes needed
+      - Increase withholding
+      - Decrease withholding
+      - Need to discuss with payroll
+      required: false

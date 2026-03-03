@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizer And Storage Checklist
+    pages:
+    - id: 1
+      name: storage_area
+      label: Storage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: organizing_priority
+      label: Organizing Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: storage_area_issues
+      label: Storage Area Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: storage_area_condition
+      label: Storage Area Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: storage_area_notes
+      label: Storage Area Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: storage_area_date_last_checked
+      label: Storage Area Last Checked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: storage_area_date_last_checked_time
+      label: Storage Area Last Checked Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: storage_condition
+      label: Storage Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: storage_area_priority
+      label: Storage Area Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: storage_area_status
+      label: Storage Area Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: storage_area_comments
+      label: Storage Area Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: storage_area_storage_location
+      label: Storage Area Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: storage_area_last_date_checked
+      label: Storage Area Last Date Checked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: storage_area_last_time_checked
+      label: Storage Area Last Time Checked
+      hint: null
+      type: time
+      options: []
+      required: false

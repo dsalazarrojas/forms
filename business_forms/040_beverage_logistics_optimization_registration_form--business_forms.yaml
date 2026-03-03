@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Logistics Optimization Registration Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your beverage company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Job title of contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: We will send program updates here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: For program communication
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: How many employees does your company have
+      type: select_one
+      options:
+      - 1 to 10 employees
+      - 11 to 50 employees
+      - 51 to 100 employees
+      - 101 to 500 employees
+      - Over 500 employees
+      required: true
+    - id: 8
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $1 million
+      - $1 to $5 million
+      - $5 to $10 million
+      - $10 to $50 million
+      - Over $50 million
+      required: true
+    - id: 9
+      name: beverage_types
+      label: Types of Beverages Distributed
+      hint: What beverages does your company handle
+      type: select_multiple
+      options:
+      - Carbonated Soft Drinks
+      - Energy Drinks
+      - Sports Drinks
+      - Juice
+      - Tea
+      - Coffee
+      - Water
+      - Alcoholic Beverages
+      - Dairy Beverages
+      - Plant-Based Beverages
+      required: true
+    - id: 10
+      name: distribution_area
+      label: Distribution Area
+      hint: What area do you currently serve
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      required: true
+    - id: 11
+      name: current_logistics
+      label: Current Logistics Setup
+      hint: How do you currently handle logistics
+      type: select_one
+      options:
+      - In-House Fleet
+      - Third-Party Logistics
+      - Hybrid Model
+      - Distributor Network
+      - Other
+      required: true
+    - id: 12
+      name: fleet_size
+      label: Fleet Size
+      hint: How many vehicles do you operate
+      type: select_one
+      options:
+      - No vehicles
+      - 1 to 5 vehicles
+      - 6 to 20 vehicles
+      - 21 to 50 vehicles
+      - Over 50 vehicles
+      required: true
+    - id: 13
+      name: logistics_challenges
+      label: Current Logistics Challenges
+      hint: What challenges do you face
+      type: select_multiple
+      options:
+      - High Transportation Costs
+      - Delivery Delays
+      - Inventory Management
+      - Route Planning
+      - Cold Chain Management
+      - Regulatory Compliance
+      - Driver Shortage
+      - Fuel Costs
+      - Warehouse Space
+      - Other
+      required: true
+    - id: 14
+      name: optimization_goals
+      label: Optimization Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Reduce Costs
+      - Improve Delivery Times
+      - Increase Capacity
+      - Better Tracking
+      - Sustainability
+      - Customer Satisfaction
+      - Expand Coverage
+      - Improve Efficiency
+      required: true
+    - id: 15
+      name: technology_usage
+      label: Current Technology Usage
+      hint: What logistics technology do you use
+      type: select_multiple
+      options:
+      - Route Planning Software
+      - Fleet Management System
+      - Inventory Management
+      - GPS Tracking
+      - Warehouse Management
+      - Order Management System
+      - None
+      - Other
+      required: true
+    - id: 16
+      name: budget_range
+      label: Optimization Budget Range
+      hint: What is your budget for optimization
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 to $50,000
+      - $50,000 to $100,000
+      - $100,000 to $500,000
+      - Over $500,000
+      required: true
+    - id: 17
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you want to start optimization
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Exploring options
+      required: true
+    - id: 18
+      name: current_issues
+      label: Describe Current Logistics Issues
+      hint: What specific problems are you facing
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: success_metrics
+      label: How Will You Measure Success
+      hint: What metrics matter most to you
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your logistics needs
+      type: text
+      options: []
+      required: false

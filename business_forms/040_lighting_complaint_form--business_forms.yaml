@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก Lighting Complaint Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_complaint
+      label: date_of_complaint
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_complaint
+      label: time_of_complaint
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: lighting_level
+      label: lighting_level
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true

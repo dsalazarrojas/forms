@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_buyer_consultation_checklist_sarah_desamours
+    pages:
+    - id: 1
+      name: general_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Mixed Use
+      - Land
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_requirement
+      label: Loan Requirement
+      hint: null
+      type: select_multiple
+      options:
+      - Cash Sale
+      - Loan
+      - Lease
+      - Other
+      required: false
+    - id: 9
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 4 Years
+      - 5 Years
+      - 6 Years
+      - 7 Years
+      - 8 Years
+      - 9 Years
+      - 10 Years
+      required: false
+    - id: 10
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_rate
+      label: Loan Rate
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Variable
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank Draft
+      - Wire Transfer
+      - Other
+      required: false
+    - id: 14
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed Rate
+      - Adjustable Rate
+      - Interest Only
+      - Hybrid
+      required: false
+    - id: 15
+      name: collateral
+      label: Collateral
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Real Estate
+      - Other
+      required: false
+    - id: 16
+      name: prepayment_clause
+      label: Prepayment Clause
+      hint: null
+      type: select_multiple
+      options:
+      - 1% per annum
+      - 2% per annum
+      - 3% per annum
+      - 4% per annum
+      - 5% per annum
+      - Other
+      required: false
+    - id: 17
+      name: balloon_payment
+      label: Balloon Payment
+      hint: null
+      type: select_multiple
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 4 Years
+      - 5 Years
+      - 6 Years
+      - 7 Years
+      - 8 Years
+      - 9 Years
+      - 10 Years
+      required: false
+    - id: 18
+      name: prepayment_frequency
+      label: Prepayment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 19
+      name: prepayment_amount
+      label: Prepayment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: prepayment_term
+      label: Prepayment Term
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 4 Years
+      - 5 Years
+      - 6 Years
+      - 7 Years
+      - 8 Years
+      - 9 Years
+      - 10 Years
+      required: false
+    - id: 21
+      name: prepayment_rate
+      label: Prepayment Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: prepayment_clause_type
+      label: Prepayment Clause Type
+      hint: null
+      type: select_one
+      options:
+      - Flat
+      - Gradual
+      - Fixed
+      - Hybrid
+      required: false
+    - id: 23
+      name: balloon_payment_type
+      label: Balloon Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - One Time Lump Sum
+      - Gradually Increasing
+      - Gradually Decreasing
+      required: false
+    - id: 24
+      name: collateral_type
+      label: Collateral Type
+      hint: null
+      type: select_multiple
+      options:
+      - First Mortgager
+      - Second Mortgager
+      - Third Mortgager
+      - Other
+      required: false
+    - id: 25
+      name: other_collateral
+      label: Other Collateral
+      hint: null
+      type: text
+      options: []
+      required: false

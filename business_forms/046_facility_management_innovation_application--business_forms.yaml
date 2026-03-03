@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Innovation Application
+    pages:
+    - id: 1
+      name: staff_involvement
+      label: Staff Involvement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vendor_partners
+      label: Vendor Partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: proposal_submitter
+      label: Proposal Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Staff''}'
+      - '{''name'': ''Vendors''}'
+      - '{''name'': ''Innovators''}'
+      required: false
+    - id: 4
+      name: improvement_idea
+      label: Improvement Idea
+      hint: What is your idea to improve our facility?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: idea_type
+      label: Idea Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Operational''}'
+      - '{''name'': ''Product''}'
+      - '{''name'': ''Process''}'
+      required: false
+    - id: 6
+      name: idea_description
+      label: Description
+      hint: Please give a clear description of your idea
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: idea_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Not Started''}'
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Completed''}'
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''High''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Low''}'
+      required: false
+    - id: 9
+      name: target_start_date
+      label: Target Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: target_end_date
+      label: Target End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

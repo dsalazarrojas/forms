@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: crop_insurance_quotation_form
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: crop_type
+      label: crop_type
+      hint: null
+      type: select_one
+      options:
+      - Corn
+      - Soybean
+      - Soybean Special
+      - Soybean Special 2
+      - Soybean Special 3
+      - Soybean Special 4
+      - Soybean Special 5
+      - Soybean Special 6
+      - Soybean Special 7
+      - Soybean Special 8
+      - Soybean Special 9
+      - Soybean Special 10
+      - Soybean Special 11
+      - Soybean Special 12
+      required: true
+    - id: 3
+      name: coverage_type
+      label: coverage_type
+      hint: null
+      type: select_multiple
+      options:
+      - Crop Insurance
+      - Crop Insurance 2
+      - Crop Insurance 3
+      - Crop Insurance 4
+      - Crop Insurance 5
+      - Crop Insurance 6
+      - Crop Insurance 7
+      - Crop Insurance 8
+      - Crop Insurance 9
+      - Crop Insurance 10
+      required: true
+    - id: 4
+      name: yield
+      label: Yield
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: price_per_unit
+      label: Price per Unit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

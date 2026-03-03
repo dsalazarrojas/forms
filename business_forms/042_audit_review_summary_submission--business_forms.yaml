@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Review Summary Submission
+    pages:
+    - id: 1
+      name: reviewer_full_name
+      label: Reviewer Full Name
+      hint: Name of person submitting review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_title
+      label: Reviewer Title
+      hint: Job title of reviewer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Internal Audit
+      - External Audit
+      - Quality Assurance
+      - Compliance
+      - Risk Management
+      - Other
+      required: true
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: Date of this submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_name
+      label: Audit Name
+      hint: Name of audit being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_reference
+      label: Audit Reference
+      hint: Audit reference number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: audit_period
+      label: Audit Period
+      hint: Period covered by audit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: Date review was conducted
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: review_type
+      label: Review Type
+      hint: Type of review conducted
+      type: select_one
+      options:
+      - Preliminary Review
+      - Final Review
+      - Quality Review
+      - Peer Review
+      - Management Review
+      required: true
+    - id: 11
+      name: overall_assessment
+      label: Overall Assessment
+      hint: Overall assessment of the audit
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: key_findings_summary
+      label: Key Findings Summary
+      hint: Summary of key findings
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: findings_count
+      label: Findings Count
+      hint: Total number of findings
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: high_priority_findings
+      label: High Priority Findings
+      hint: Number of high priority findings
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: recommendations_summary
+      label: Recommendations Summary
+      hint: Summary of recommendations
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: compliance_status
+      label: Compliance Status
+      hint: Overall compliance status
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Not Assessed
+      required: true
+    - id: 17
+      name: strengths_identified
+      label: Strengths Identified
+      hint: What strengths were identified?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: weaknesses_identified
+      label: Weaknesses Identified
+      hint: What weaknesses were identified?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: management_response
+      label: Management Response
+      hint: Summary of management response
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_items
+      label: Action Items
+      hint: Key action items from review
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is follow-up needed?
+      type: select_one
+      options:
+      - Yes, within 30 days
+      - Yes, within 60 days
+      - Yes, within 90 days
+      - No follow-up needed
+      required: true
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true

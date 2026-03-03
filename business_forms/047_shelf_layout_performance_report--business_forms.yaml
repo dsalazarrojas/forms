@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Layout Performance Report
+    pages:
+    - id: 1
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_name
+      label: section_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shelf_execution
+      label: shelf_execution
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Poor
+      - Very Good
+      - Fair
+      - Needs Attention
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photos
+      label: photos
+      hint: null
+      type: text
+      options: []
+      required: false

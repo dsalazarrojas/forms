@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: return-authorization-form-2020
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer-name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_by
+      label: Authorized by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_approval
+      label: Not Applicable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: employee_note
+      label: Employee Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: return_note
+      label: Return Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: authorized_employee_name
+      label: Authorized Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: authorized_employee_signature
+      label: Authorized Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approval_status
+      label: Not Applicable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: return_status
+      label: Not Applicable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: return_time_zone
+      label: Return Time Zone
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: customer_ip
+      label: Customer IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

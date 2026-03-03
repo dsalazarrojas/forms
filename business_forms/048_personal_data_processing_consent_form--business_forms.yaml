@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: personal_data_processing_consent_form
+    pages:
+    - id: 1
+      name: personal_data_processing_consent
+      label: Personal Data Processing Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_collected
+      label: Data Collected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_processing_method
+      label: Data Processing Method
+      hint: null
+      type: select_one
+      options:
+      - Processing
+      - Storing
+      - Sharing
+      required: false
+    - id: 5
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - Local
+      - Cloud
+      - External
+      required: false
+    - id: 6
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: select_one
+      options:
+      - Temporary
+      - Permanent
+      - Indeterminate
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

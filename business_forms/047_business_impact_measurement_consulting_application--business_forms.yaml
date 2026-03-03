@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Impact Measurement Consulting Application
+    pages:
+    - id: 1
+      name: applicant_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization?
+      type: select_one
+      options:
+      - For-Profit
+      - Non-Profit
+      - Social Enterprise
+      - Government
+      - Other
+      required: true
+    - id: 8
+      name: mission_statement
+      label: Mission Statement
+      hint: Organization mission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_established
+      label: Years Established
+      hint: How long have you been operating?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: impact_focus
+      label: Primary Impact Focus
+      hint: What impact do you target?
+      type: select_one
+      options:
+      - Environmental
+      - Social
+      - Economic
+      - Health
+      - Education
+      - Community Development
+      - Other
+      required: true
+    - id: 11
+      name: project_section
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: Project or Program Name
+      hint: What needs impact measurement?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_description
+      label: Project Description
+      hint: Describe the project
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_beneficiaries
+      label: Target Beneficiaries
+      hint: Who does the project serve?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: beneficiary_count
+      label: Number of Beneficiaries
+      hint: How many people are affected?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: measurement_section
+      label: -- Impact Measurement Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_measurement
+      label: Current Impact Measurement
+      hint: What are you measuring now?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: measurement_challenges
+      label: Measurement Challenges
+      hint: What difficulties do you face?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: desired_metrics
+      label: Desired Metrics or Outcomes
+      hint: What would you like to measure?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: measurement_goals
+      label: Goals for Impact Measurement
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: consulting_section
+      label: -- Consulting Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: consulting_support_needed
+      label: Type of Consulting Support Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Framework Development
+      - Data Collection Strategy
+      - Analysis and Reporting
+      - Technology Implementation
+      - Staff Training
+      - Strategic Planning
+      required: true
+    - id: 23
+      name: budget_range
+      label: Budget Range for Consulting
+      hint: What is your budget?
+      type: select_one
+      options:
+      - Less than $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - $50,000 - $100,000
+      - More than $100,000
+      required: false
+    - id: 24
+      name: timeline
+      label: Project Timeline
+      hint: When do you need results?
+      type: select_one
+      options:
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - Flexible
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

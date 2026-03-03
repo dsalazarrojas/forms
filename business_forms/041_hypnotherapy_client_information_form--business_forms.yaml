@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypnotherapy Client Information Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_1
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Family Member
+      - Referral
+      - Other
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assisted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjim
+      required: false
+    - id: 13
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: client_session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sessions_total
+      label: Sessions Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sessions_completed
+      label: Sessions Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sessions_remaining
+      label: Sessions Remaining
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_session_time
+      label: Total Session Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: last_session_date
+      label: Last Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: last_session_time
+      label: Last Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Inactive
+      - Pending
+      required: false
+    - id: 23
+      name: client_status_2
+      label: Client Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: client_status_3
+      label: Client Status 3
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Sourcing Quote Request Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_description
+      label: Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: material_quantity
+      label: Material Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supplier_zip
+      label: Supplier Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supplier_city
+      label: Supplier City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supplier_state
+      label: Supplier State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supplier_country
+      label: Supplier Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: material_weight
+      label: Material Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: material_unit
+      label: Material Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Select one of the following
+      hint: Please select the submitter of this form
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 18
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: supplier_confirmation
+      label: Select one of the following
+      hint: Please select the supplier confirmation status
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

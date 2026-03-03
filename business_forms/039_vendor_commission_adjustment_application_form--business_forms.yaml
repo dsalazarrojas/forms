@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Commission Adjustment Application Form
+    pages:
+    - id: 1
+      name: vendor_commission_adjustment_application_form_page_1
+      label: form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_page_2
+      label: commission_type
+      hint: null
+      type: select_one
+      options:
+      - commission_type_1
+      - commission_type_2
+      - commission_type_3
+      required: false
+    - id: 3
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_adjustment
+      label: reason_for_adjustment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: commission_amount
+      label: commission_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: adjustment_amount
+      label: adjustment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_adjustment_made
+      label: date_adjustment_made
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vendor_commission_adjustment_approval_date
+      label: vendor_commission_adjustment_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vendor_commission_adjustment_status
+      label: vendor_commission_adjustment_status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - denied
+      - pending
+      required: false
+    - id: 11
+      name: form_page_2_submission_date
+      label: form_page_2_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

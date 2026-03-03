@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Enrollment And Industry Classification Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: Doing Business As (DBA)
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: Structure of business
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - S-Corporation
+      - Non-Profit
+      - Government Agency
+      - Other
+      required: true
+    - id: 5
+      name: federal_tax_id
+      label: Federal Tax ID (EIN)
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Country of operation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: owner_information
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: owner_name
+      label: Owner Name
+      hint: Full name of owner
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: owner_ssn
+      label: Owner Social Security Number
+      hint: SSN for identification
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_address
+      label: Owner Address
+      hint: Owner's residential address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: owner_email
+      label: Owner Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: industry_classification
+      label: -- Industry Classification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_industry
+      label: Primary Industry Classification
+      hint: Main industry category
+      type: select_one
+      options:
+      - Agriculture, Forestry, Fishing
+      - Mining, Quarrying, Oil and Gas
+      - Manufacturing
+      - Utilities
+      - Construction
+      - Retail Trade
+      - Wholesale Trade
+      - Transportation
+      - Hospitality
+      - Information Technology
+      - Finance and Insurance
+      - Real Estate
+      - Healthcare
+      - Education
+      - Professional Services
+      - Administration Support
+      - Public Administration
+      - Other
+      required: true
+    - id: 19
+      name: naics_code
+      label: NAICS Code
+      hint: North American Industry Classification Code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_description
+      label: Business Description
+      hint: Detailed description of operations
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employee_count
+      label: Number of Employees
+      hint: Current workforce size
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: annual_revenue
+      label: Estimated Annual Revenue
+      hint: Annual revenue range
+      type: select_one
+      options:
+      - Under 50000
+      - 50000-100000
+      - 100000-500000
+      - 500000-1000000
+      - 1000000-5000000
+      - 5000000+
+      required: true
+    - id: 23
+      name: startup_date
+      label: Business Startup Date
+      hint: When business started
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: enrollment_confirmation
+      label: Enrollment Confirmation
+      hint: I confirm the above information is accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

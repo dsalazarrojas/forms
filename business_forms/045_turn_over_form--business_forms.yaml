@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: turn_over_form
+    pages:
+    - id: 1
+      name: product_return_request
+      label: product_return_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_condition
+      label: product_condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      - Defective
+      required: true
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

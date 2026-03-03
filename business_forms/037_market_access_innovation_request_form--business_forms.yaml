@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Access Innovation Request Form
+    pages:
+    - id: 1
+      name: innovation_proposals
+      label: Innovation Proposals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_process
+      label: Review Process
+      hint: Explain the review process for your innovation proposals
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: proposal_details
+      label: Proposal Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false

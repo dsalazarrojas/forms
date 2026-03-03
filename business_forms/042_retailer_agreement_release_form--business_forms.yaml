@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retailer Agreement Release Form
+    pages:
+    - id: 1
+      name: retailer_agreement_id
+      label: Retailer Agreement ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: retailer_agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: partner_details
+      label: Retailer Partner Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: retail_location
+      label: Retail Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: retailer_notes
+      label: Retailer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_contact
+      label: Store Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: agreement_term
+      label: Agreement Term
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: partner_fax
+      label: Partner Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: partner_website
+      label: Partner Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: partner_contact
+      label: Partner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: store_manager
+      label: Store Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: agreement_term_notes
+      label: Agreement Term Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agreement_term_frequency
+      label: Agreement Term Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_address
+      label: Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false

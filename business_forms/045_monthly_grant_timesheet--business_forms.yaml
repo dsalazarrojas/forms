@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_grant_timesheet
+    pages:
+    - id: 1
+      name: grant_funded_projects
+      label: Grant Funded Projects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: project_activity
+      label: Project Activity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: grant_name
+      label: Grant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: grant_id
+      label: Grant ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: project_status_reason
+      label: Project Status Reason
+      hint: Please describe the reason minimalistly.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

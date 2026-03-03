@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Check In Form
+    pages:
+    - id: 1
+      name: facility_maintenance_check_in_form_page_1
+      label: check-in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_maintenance_issue_report
+      label: issue-reporting
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 3
+      name: facility_maintenance_task_scheduling
+      label: task-scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 4
+      name: facility_maintenance_date
+      label: facility-maintenance-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: facility_maintenance_time
+      label: facility-maintenance-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: facility_maintenance_notes
+      label: facility-maintenance-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: facility_maintenance_email
+      label: facility-maintenance-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: facility_maintenance_phone
+      label: facility-maintenance-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_maintenance_notes_continued
+      label: facility-maintenance-notes-continued
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 10
+      name: facility_maintenance_check_in
+      label: facility-maintenance-check-in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_maintenance_comments
+      label: facility-maintenance-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_maintenance_file_upload
+      label: facility-maintenance-file-upload
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 13
+      name: facility_maintenance_file_upload_status
+      label: facility-maintenance-file-upload-status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 14
+      name: facility_maintenance_comments_continued
+      label: facility-maintenance-comments-continued
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_maintenance_confirmation
+      label: facility-maintenance-confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_maintenance_form_submitted
+      label: facility-maintenance-form-submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 17
+      name: facility_maintenance_form_status
+      label: facility-maintenance-form-status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 18
+      name: facility_maintenance_form_submitted_by
+      label: facility-maintenance-form-submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_maintenance_submitter_email
+      label: facility-maintenance-submitter-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: facility_maintenance_submitter_phone
+      label: facility-maintenance-submitter-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_maintenance_form_updated_by
+      label: facility-maintenance-form-updated-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_maintenance_form_updated_at
+      label: facility-maintenance-form-updated-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: facility_maintenance_form_updated_by_user
+      label: facility-maintenance-form-updated-by-user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false
+    - id: 24
+      name: facility_maintenance_form_updated_at_time
+      label: facility-maintenance-form-updated-at-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: facility_maintenance_form_updated_status
+      label: facility-maintenance-form-updated-status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option-1''}'
+      - '{''id'': 2, ''value'': ''option-2''}'
+      - '{''id'': 3, ''value'': ''option-3''}'
+      required: false

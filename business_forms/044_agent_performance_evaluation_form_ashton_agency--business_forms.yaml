@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Performance Evaluation Form Ashton Agency
+    pages:
+    - id: 1
+      name: header
+      label: -- Ashton Agency Agent Evaluation --
+      hint: customized performance review for Ashton Agency staff
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_lead
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: review_date
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: competency_header
+      label: -- Core Competencies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: market_expertise
+      label: Local Market Expertise
+      hint: knowledge of property values and trends
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Developing
+      - Needs Support
+      required: true
+    - id: 7
+      name: negotiation_skills
+      label: Negotiation and Closing Skills
+      hint: ability to finalize deals effectively
+      type: select_one
+      options:
+      - Advanced
+      - Capable
+      - Basic
+      - Ineffective
+      required: true
+    - id: 8
+      name: communication_speed
+      label: Responsiveness and Communication Speed
+      hint: turnaround time for clients
+      type: select_one
+      options:
+      - Always Immediate
+      - Usually Prompt
+      - Sometimes Delayed
+      - Consistently Slow
+      required: true
+    - id: 9
+      name: ethics_rating
+      label: Integrity and Professional Ethics
+      hint: adherence to agency values
+      type: select_one
+      options:
+      - Beyond Reproach
+      - Ethical
+      - Questionable
+      - Major Concerns
+      required: true
+    - id: 10
+      name: sales_volume
+      label: Total Sales Volume for the Quarter
+      hint: gross dollar value
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: listings_count
+      label: Number of New Listings Secured
+      hint: total units
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: incentive_recommendation
+      label: Recommendation for Promotion or Bonus
+      hint: for management review
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      required: true
+    - id: 13
+      name: manager_comments
+      label: Manager's Summative Comments
+      hint: final thoughts on the review
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_reflection
+      label: Agent's Self-Reflection
+      hint: feedback on your own performance
+      type: text
+      options: []
+      required: false

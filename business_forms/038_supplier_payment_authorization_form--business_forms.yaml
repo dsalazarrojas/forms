@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Payment Authorization Form
+    pages:
+    - id: 1
+      name: supplier_payment_authorization_form
+      label: company
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ACH''}'
+      - '{''id'': 2, ''label'': ''Wire Transfer''}'
+      - '{''id'': 3, ''label'': ''Check''}'
+      required: true
+    - id: 5
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''net_30''}'
+      - '{''id'': 2, ''label'': ''net_45''}'
+      - '{''id'': 3, ''label'': ''net_60''}'
+      required: true
+    - id: 6
+      name: bank_name
+      label: bank_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: routing_number
+      label: routing_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''authorized''}'
+      - '{''id'': 3, ''label'': ''denied''}'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_operations_review_checklist
+    pages:
+    - id: 1
+      name: infrastructure
+      label: infrastructure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: network
+      label: network
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: performance
+      label: performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: security
+      label: security
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: actions
+      label: actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: attachments
+      label: _attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: status
+      label: _status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

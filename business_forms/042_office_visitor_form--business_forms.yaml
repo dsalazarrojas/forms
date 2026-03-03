@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: office-visitor-form
+    pages:
+    - id: 1
+      name: office_visitor_form
+      label: welcome-to-our-office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_rules
+      label: office-rules
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: covid_19_precautions
+      label: covid-19-precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency-contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: visitor_info
+      label: visitor-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visitor_purpose
+      label: visitor-purpose
+      hint: null
+      type: select_one
+      options:
+      - Meeting with
+      - Tour
+      - Interview
+      - Other
+      required: true
+    - id: 8
+      name: visitor_name
+      label: visitor-name
+      hint: null
+      type: text
+      options: []
+      required: true

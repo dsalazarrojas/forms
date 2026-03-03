@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Song Revisions And Notes
+    pages:
+    - id: 1
+      name: song_title
+      label: Song Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: song_artist
+      label: Song Artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: song_version
+      label: Song Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: song_date_modified
+      label: Date Modified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: song_status
+      label: Song Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - In Progress
+      - Rejected
+      required: false
+    - id: 7
+      name: producer_name
+      label: Producer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: producer_email
+      label: Producer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: producer_phone
+      label: Producer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: song_id
+      label: Song ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: revisions
+      label: Revisions
+      hint: null
+      type: select_multiple
+      options:
+      - Revision 1
+      - Revision 2
+      - Revision 3
+      - Revision 4
+      - Revision 5
+      required: false
+    - id: 12
+      name: version_comments
+      label: Version Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: attachment_name
+      label: Attachment Name
+      hint: null
+      type: text
+      options: []
+      required: false

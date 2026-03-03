@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: warehouse_evaluation_form
+    pages:
+    - id: 1
+      name: rating_1
+      label: rate_warehouse_services
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 2
+      name: service_quality
+      label: how_good_was_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: warehouse_condition
+      label: what_was_warehouse_condition
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: comment_section
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: how_did_you_get_here
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - Other
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_2
+      label: rate_services_again
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

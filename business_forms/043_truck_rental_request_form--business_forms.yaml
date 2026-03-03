@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: truck_rental_request_form
+    pages:
+    - id: 1
+      name: contact
+      label: Contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: request
+      label: Request Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      - '{''value'': ''option_3''}'
+      required: false
+    - id: 3
+      name: rental_location
+      label: Rental Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''location_1''}'
+      - '{''value'': ''location_2''}'
+      - '{''value'': ''location_3''}'
+      required: false
+    - id: 4
+      name: rental_dates
+      label: Rental Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''vehicle_1''}'
+      - '{''value'': ''vehicle_2''}'
+      - '{''value'': ''vehicle_3''}'
+      required: false
+    - id: 7
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

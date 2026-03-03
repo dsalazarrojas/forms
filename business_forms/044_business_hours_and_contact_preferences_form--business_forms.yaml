@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Hours And Contact Preferences Form
+    pages:
+    - id: 1
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Type of business
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hours_section
+      label: -- Business Hours --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: monday_open
+      label: Monday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: monday_close
+      label: Monday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tuesday_open
+      label: Tuesday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: tuesday_close
+      label: Tuesday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: wednesday_open
+      label: Wednesday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: wednesday_close
+      label: Wednesday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: thursday_open
+      label: Thursday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: thursday_close
+      label: Thursday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: friday_open
+      label: Friday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: friday_close
+      label: Friday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: saturday_open
+      label: Saturday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: saturday_close
+      label: Saturday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: sunday_open
+      label: Sunday - Opening Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: sunday_close
+      label: Sunday - Closing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: contact_preferences_section
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should customers reach you?
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Social Media
+      - In-Person
+      - Online Chat
+      required: true
+    - id: 24
+      name: response_time
+      label: Expected Response Time
+      hint: When will you respond to inquiries?
+      type: select_one
+      options:
+      - Within 1 hour
+      - Within 4 hours
+      - Within 24 hours
+      - Within 2 business days
+      - Within 1 week
+      required: true
+    - id: 25
+      name: availability_notes
+      label: Additional Availability Notes
+      hint: Any special hours or closures?
+      type: text
+      options: []
+      required: false

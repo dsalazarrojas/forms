@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laundry Pickup Request Form
+    pages:
+    - id: 1
+      name: laundry_service_type
+      label: What service type would you like?
+      hint: null
+      type: select_one
+      options:
+      - Wash, Dry, Wash & Fold, Dry & Fold
+      - Other
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred pickup date
+      hint: Enter the date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: Preferred pickup time
+      hint: "24-hour format, e.g., 14:00"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pickup_address
+      label: Pickup address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: laundry_instructions
+      label: Special instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_message
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false

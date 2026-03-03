@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Office Intake Form
+    pages:
+    - id: 1
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Business A''}'
+      - '{''id'': 2, ''name'': ''Business B''}'
+      required: false
+    - id: 2
+      name: office_name
+      label: office_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: office_address
+      label: office_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: office_phone
+      label: office_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_request_date
+      label: referral_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: referral_request_time
+      label: referral_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tax_office_email
+      label: tax_office_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: tax_office_phone
+      label: tax_office_phone
+      hint: null
+      type: text
+      options: []
+      required: false

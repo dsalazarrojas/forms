@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Inventory Checklist Form
+    pages:
+    - id: 1
+      name: item_list
+      label: Item List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reorder_date
+      label: Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procurement Vendor Change Request Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_status
+      label: vendor status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: reason_for_change
+      label: reason for change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: proposed_new_vendor_id
+      label: proposed new vendor id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: proposed_new_vendor_name
+      label: proposed new vendor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_change_date
+      label: reason for change date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_change_time
+      label: reason for change time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false

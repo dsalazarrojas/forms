@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Coverage Declaration Form
+    pages:
+    - id: 1
+      name: coverage_details
+      label: Coverage Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: coverage_limits
+      label: Coverage Limits
+      hint: Enter the coverage limits
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: policy_details
+      label: Policy Details
+      hint: Enter policy details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coverage_exclusions
+      label: Coverage Exclusions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: policy_type
+      label: Policy Type
+      hint: Select one policy type
+      type: select_one
+      options:
+      - Life
+      - Health
+      - Property
+      - Liability
+      required: false
+    - id: 6
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: Enter the coverage start date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: Enter the coverage end date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: Enter the policy effective date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_status
+      label: Policy Status
+      hint: Select one policy status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: policy_number
+      label: Policy Number
+      hint: Enter policy number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insured_name
+      label: Insured Name
+      hint: Enter insured name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Enter insurance provider
+      type: text
+      options: []
+      required: false

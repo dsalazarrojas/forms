@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Succession Planning Form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: key_employees
+      label: key_employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: role_hierarchy
+      label: role_hierarchy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: succession_plan
+      label: succession_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: key_employees_1
+      label: key_employees_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: key_employees_2
+      label: key_employees_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: key_employees_3
+      label: key_employees_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Letterhead Design Request Form
+    pages:
+      - id: 1
+        name: section_letterhead_client_info
+        label: -- Client Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: letterhead_client_name_full
+        label: Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: letterhead_company_display_name
+        label: Company Name to appear on Letterhead
+        hint: Exactly as it should be printed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: company_slogan_tagline_text
+        label: Company Slogan or Tagline
+        hint: Optional - leave blank if not needed
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_design_specifications
+        label: -- Design Specifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: contact_info_to_include_selection
+        label: Required Contact Info on Letterhead
+        hint: Select all elements to be included in the design
+        type: select_multiple
+        options:
+          - Physical Address
+          - Phone Number
+          - Email Address
+          - Website URL
+          - Social Media Handles
+          - Logo
+        required: true
+      - id: 7
+        name: preferred_color_palette_description
+        label: Preferred Color Palette
+        hint: e.g. Navy Blue and White, or specific HEX codes
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: letterhead_design_style_choice
+        label: Design Style
+        hint: Which aesthetic best matches your brand
+        type: select_one
+        options:
+          - Minimalist and Clean
+          - Professional and Corporate
+          - Modern and Creative
+          - Traditional and Formal
+        required: true
+      - id: 9
+        name: preferred_paper_size_letterhead
+        label: Paper Size
+        hint: Standard dimensions for the final file
+        type: select_one
+        options:
+          - A4 (Standard International)
+          - Letter (8.5 x 11 inches)
+          - Legal (8.5 x 14 inches)
+        required: true
+      - id: 10
+        name: section_final_output_needs
+        label: -- Final Output --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: required_file_format_selection
+        label: File Format Needed
+        hint: Select the formats required for your workflow
+        type: select_multiple
+        options:
+          - High-Res PDF (Print ready)
+          - Microsoft Word Template (.dotx)
+          - Source File (AI / PSD / Figma)
+          - PNG (With transparent background)
+        required: true
+      - id: 12
+        name: design_delivery_deadline_date
+        label: Date Needed by
+        hint: Target completion date for the design
+        type: date
+        options: []
+        required: true
+      - id: 13
+        name: additional_design_notes_text
+        label: Additional Design Notes
+        hint: Any specific font preferences or layout requirements
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: letterhead_request_submission_date
+        label: Request Date
+        hint: null
+        type: date
+        options: []
+        required: true

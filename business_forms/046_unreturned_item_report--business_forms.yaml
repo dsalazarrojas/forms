@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Unreturned Item Report
+    pages:
+    - id: 1
+      name: office_name
+      label: Office Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: unreturned_date
+      label: Unreturned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: borrowed_by
+      label: Borrowed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: returned_date
+      label: Returned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_details
+      label: Item Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: office_name
+      label: Office
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Office A''}'
+      - '{''value'': ''Office B''}'
+      - '{''value'': ''Office C''}'
+      required: false
+    - id: 9
+      name: unreturned_item_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Returned Yet''}'
+      - '{''value'': ''Returned''}'
+      - '{''value'': ''Lost''}'
+      required: false
+    - id: 10
+      name: unreturned_item
+      label: Item
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Item 1''}'
+      - '{''value'': ''Item 2''}'
+      - '{''value'': ''Item 3''}'
+      required: false

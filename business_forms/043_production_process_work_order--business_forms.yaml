@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: production_process_work_order
+    pages:
+    - id: 1
+      name: production_process_work_order_step_1
+      label: first_step
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: production_process_work_order_step_2
+      label: second_step
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 3
+      name: production_process_work_order_task
+      label: task
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: production_process_work_order_due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: production_process_work_order_due_time
+      label: due_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: production_process_work_order_resources
+      label: resources
+      hint: null
+      type: select_multiple
+      options:
+      - resource_1
+      - resource_2
+      - resource_3
+      required: false
+    - id: 7
+      name: production_process_work_order_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: production_process_work_order_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_process_work_order_comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_process_work_order_submit
+      label: submit
+      hint: null
+      type: number
+      options: []
+      required: true

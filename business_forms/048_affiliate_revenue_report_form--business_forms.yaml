@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Revenue Report Form
+    pages:
+    - id: 1
+      name: report_info_header
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: affiliate_name
+      label: Affiliate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiliate_id
+      label: Affiliate ID
+      hint: Unique identifier.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: e.g., Jan 2024.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: revenue_details_header
+      label: -- Revenue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_clicks
+      label: Total Clicks
+      hint: Number of referral link clicks.
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_conversions
+      label: Total Conversions
+      hint: Number of sales/leads generated.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: conversion_rate
+      label: Conversion Rate (%)
+      hint: Calculated percentage.
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_sales_amount
+      label: Total Sales Amount ($)
+      hint: Gross value of sales.
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: commission_rate
+      label: Commission Rate (%)
+      hint: Agreed percentage.
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_commission
+      label: Total Commission Earned ($)
+      hint: Amount payable to affiliate.
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: adjustments
+      label: Adjustments / Refunds ($)
+      hint: Deductions for returned items.
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: net_payout
+      label: Net Payout Amount ($)
+      hint: Final amount to be paid.
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: status_header
+      label: -- Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: Current status of this payout.
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Paid
+      - Rejected
+      required: true
+    - id: 16
+      name: notes
+      label: Notes / Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Program Renewal Application
+    pages:
+    - id: 1
+      name: organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Legal organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Corporation
+      - Non-Profit
+      - Government Agency
+      - Educational Institution
+      - Other
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Contact Title
+      hint: Position in organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_details
+      label: -- Program Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: program_name
+      label: Program Name
+      hint: Name of expense program
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_enrollment
+      label: Current Program Enrollment
+      hint: Number of participants
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: program_inception
+      label: Program Inception Date
+      hint: When did program start?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: current_expiration
+      label: Current Program Expiration
+      hint: When does current term end?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: renewal_period
+      label: Requested Renewal Period
+      hint: How long to renew?
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - Other
+      required: true
+    - id: 14
+      name: program_changes
+      label: Program Changes or Modifications
+      hint: Any changes needed?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: performance_metrics
+      label: -- Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: program_utilization
+      label: Program Utilization Rate
+      hint: Percentage of active use
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: participant_satisfaction
+      label: Participant Satisfaction Level
+      hint: How satisfied are participants?
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 18
+      name: annual_expenses
+      label: Annual Program Expenses
+      hint: Total annual expense
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: budget_justification
+      label: Budget Justification
+      hint: Why does program need renewal?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: renewal_benefits
+      label: Expected Renewal Benefits
+      hint: What will renewal provide?
+      type: text
+      options: []
+      required: true

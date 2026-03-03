@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: gdpr_disclosure_form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: how_information_will_be_used
+      label: How information will be used
+      hint: null
+      type: select_multiple
+      options:
+      - We will use the information to improve our services.
+      - We will sell your information to third parties.
+      - We will use the information for marketing purposes.
+      required: false
+    - id: 3
+      name: information_shall_be_shared
+      label: Information shall be shared
+      hint: null
+      type: select_multiple
+      options:
+      - With internal teams
+      - With external partners
+      - Both
+      required: false
+    - id: 4
+      name: data_collection
+      label: Data collection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: data_retention
+      label: Data retention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      - No Contact
+      - Yes Contact
+      required: false
+    - id: 7
+      name: data_storage
+      label: Data Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_security
+      label: Data Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_transfer
+      label: Data Transfer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: gdpr_policy
+      label: GDPR Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gdpr_contact
+      label: GDPR Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

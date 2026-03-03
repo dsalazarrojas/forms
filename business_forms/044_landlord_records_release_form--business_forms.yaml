@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: landlord_records_release_form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_authorization
+      label: release_authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: records_type
+      label: records_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: third_party_name
+      label: third_party_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_released
+      label: date_released
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: landlord_signature
+      label: landlord_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: landlord_signature_date
+      label: landlord_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false

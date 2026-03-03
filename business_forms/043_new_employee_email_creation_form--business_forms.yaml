@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_employee_email_creation_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_details
+      label: email_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email_domain
+      label: email_domain
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email_address
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm_email_error
+      label: error_email
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cancel
+      label: cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: back
+      label: back
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: save
+      label: save
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cancel_all
+      label: cancel_all
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: save_all
+      label: save_all
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: cancel_all_error
+      label: cancel_all_error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: save_all_error
+      label: save_all_error
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: save_all_success
+      label: save_all_success
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: save_all_hint
+      label: save_all_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: save_all_message
+      label: save_all_message
+      hint: null
+      type: text
+      options: []
+      required: false

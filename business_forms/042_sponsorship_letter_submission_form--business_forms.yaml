@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Letter Submission Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_requester
+      label: Name of Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sponsorship_type
+      label: Sponsorship Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Non-Profit
+      - Business
+      required: false
+    - id: 5
+      name: name_of_sponsor
+      label: Name of Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_sponsorship_request
+      label: Reason for Sponsorship Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sponsorship_letter
+      label: Sponsorship Letter
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

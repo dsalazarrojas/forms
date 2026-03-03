@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cuestionario
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nombre
+      label: Nombre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fecha_de_nacimiento
+      label: Fecha de nacimiento
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: telefono
+      label: Telefono
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tipo_consultor
+      label: Tipo de consultor
+      hint: null
+      type: select_one
+      options:
+      - Dentista
+      - Pediatra
+      - Psicologo
+      required: false
+    - id: 7
+      name: observaciones
+      label: Observaciones
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tipo_de_consultor_2
+      label: Tipo de consultor 2
+      hint: null
+      type: select_multiple
+      options:
+      - Bebé
+      - Infantil
+      required: false

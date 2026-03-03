@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greeter Spot Check Form
+    pages:
+    - id: 1
+      name: greeter_spot_check_form_1_page
+      label: Greeter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: greeter_spot_check_form_2_page
+      label: Spot Check Items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: greeter_spot_check_form_3_page
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: greeter_spot_check_form_4_page
+      label: greeter_spot_check_form_4_page
+      hint: null
+      type: email
+      options: []
+      required: false

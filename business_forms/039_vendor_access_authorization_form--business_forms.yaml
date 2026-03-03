@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Access Authorization Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: vendor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_type
+      label: Access Type
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Read-Only''}'
+      - '{''id'': 2, ''name'': ''Read-Write''}'
+      required: false
+    - id: 4
+      name: user_id
+      label: User ID
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: password
+      label: Password
+      hint: 'null'
+      type: text
+      options: []
+      required: false

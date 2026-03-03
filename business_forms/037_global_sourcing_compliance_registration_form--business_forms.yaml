@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Sourcing Compliance Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: compliance_program
+      label: Compliance Program
+      hint: null
+      type: select_one
+      options:
+      - Compliance Program
+      - Another Program
+      required: false
+    - id: 5
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      required: false
+    - id: 6
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: intruder_alarm_maintenance_report_form
+    pages:
+    - id: 1
+      name: intruder_alarm_system_check
+      label: Check the intruder alarm system
+      hint: Check if the intruder alarm system is functional
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alarm_signals
+      label: What signals does the intruder alarm system send when it detects an intruder?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: alarm_volume_level
+      label: What is the volume level of the intruder alarm system?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Silent
+      required: true
+    - id: 4
+      name: system_status
+      label: Is the intruder alarm system currently active?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 5
+      name: alarm_test_status
+      label: What is the status of the intruder alarm test?
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      required: false
+    - id: 6
+      name: maintenance_schedule
+      label: Is the intruder alarm system due for maintenance?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 7
+      name: system_type
+      label: What type of intruder alarm system is being used?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: alarm_frequency
+      label: What is the frequency of the intruder alarm signals?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 9
+      name: alarm_sensitivity
+      label: What is the sensitivity level of the intruder alarm system?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: maintenance_last_performed
+      label: When was the last maintenance performed on the intruder alarm system?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: system_description
+      label: Describe the intruder alarm system and its location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alarm_test_result_description
+      label: What is the description of the intruder alarm test result?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: alarm_test_result_passed
+      label: Was the intruder alarm test passed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 14
+      name: last_maintenance_date
+      label: What is the date of last maintenance?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: system_last_tested
+      label: When was the intruder alarm system last tested?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: last_maintenance_by
+      label: Who performed the last maintenance on the intruder alarm system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: alarm_type
+      label: What type of intruder alarm is being used?
+      hint: null
+      type: select_one
+      options:
+      - Intruder Alarm 1
+      - Intruder Alarm 2
+      - Intruder Alarm 3
+      required: false
+    - id: 18
+      name: alarm_test_frequency
+      label: What is the frequency of the intruder alarm test?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Unknown
+      required: false
+    - id: 19
+      name: alarm_system_description
+      label: Describe the intruder alarm system and its location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: alarm_system_status_description
+      label: Describe the status of the intruder alarm system
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: test_date
+      label: What is the date of the next test?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: test_status
+      label: What is the status of the next test?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: alarm_test_frequency_status
+      label: What is the status of the next alarm test frequency?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: alarm_test_result_status
+      label: What is the status of the last alarm test result?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: last_tested_by
+      label: Who performed the last test?
+      hint: null
+      type: text
+      options: []
+      required: true

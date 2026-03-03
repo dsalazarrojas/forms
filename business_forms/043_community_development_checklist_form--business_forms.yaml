@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Development Checklist Form
+    pages:
+      - id: 1
+        name: section_development_checklist_intro
+        label: -- Community Development Project Checklist --
+        hint: Use this checklist to assess and track the progress of community projects.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_full_name_chk
+        label: Name of the Community Project
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: project_lead_name_chk
+        label: Project Lead or Manager
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_email_chk
+        label: Email Address for Project Updates
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: project_start_date_chk
+        label: Project Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: project_end_date_chk
+        label: Project Target Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: section_project_assessment_chk
+        label: -- Project Assessment and Planning --
+        hint: Assess the initial planning and assessment phase.
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: community_needs_assessment_chk
+        label: Was a formal community needs assessment conducted
+        hint: null
+        type: select_one
+        options:
+          - Yes, assessment complete
+          - No, assessment pending
+          - N/A
+        required: true
+      - id: 9
+        name: project_goals_defined_chk
+        label: Are the project's goals and objectives clearly defined
+        hint: null
+        type: select_one
+        options:
+          - Yes, goals defined
+          - No, goals pending
+        required: true
+      - id: 10
+        name: budget_and_funding_chk
+        label: Has a project budget and funding been secured
+        hint: null
+        type: select_one
+        options:
+          - Yes, budget secured
+          - No, budget pending
+        required: true
+      - id: 11
+        name: section_project_implementation_chk
+        label: -- Project Implementation and Tracking --
+        hint: Track the progress of project implementation.
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: stakeholder_engagement_chk
+        label: Are key community stakeholders actively engaged
+        hint: null
+        type: select_one
+        options:
+          - Yes, stakeholders engaged
+          - No, stakeholders pending
+        required: true
+      - id: 13
+        name: project_timeline_progress_chk
+        label: Is the project on track with the established timeline
+        hint: null
+        type: select_one
+        options:
+          - Yes, on track
+          - No, delayed
+          - Ahead of schedule
+        required: true
+      - id: 14
+        name: resources_and_materials_chk
+        label: Have necessary resources and materials been acquired
+        hint: null
+        type: select_one
+        options:
+          - Yes, resources acquired
+          - No, resources pending
+        required: true
+      - id: 15
+        name: section_project_review_chk
+        label: -- Project Review and Improvement --
+        hint: Assess the final results and identify improvements.
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: project_outcomes_assessment_chk
+        label: Were the project's intended outcomes achieved
+        hint: null
+        type: select_one
+        options:
+          - Yes, outcomes achieved
+          - Partially achieved
+          - No, outcomes not met
+        required: true
+      - id: 17
+        name: improvement_recommendations_chk
+        label: What are your recommendations for improving the project
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: lesson_learned_chk
+        label: What are the key lessons learned from this project
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: project_lead_signature_digital_chk
+        label: Digital Signature of Project Lead
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: checklist_submission_date_chk
+        label: Date Checklist Submitted
+        hint: null
+        type: date
+        options: []
+        required: true

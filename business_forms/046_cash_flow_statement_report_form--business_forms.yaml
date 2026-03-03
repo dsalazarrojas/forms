@@ -1,0 +1,394 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Statement Report Form
+    pages:
+    - id: 1
+      name: report_header
+      label: Cash Flow Statement Report Form
+      hint: Track and report cash inflows and outflows
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_id
+      label: Report ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_info
+      label: Business Information
+      hint: Company details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Reporting year
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reporting_period
+      label: Reporting Period
+      hint: Time frame
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 8
+      name: period_ending
+      label: Period Ending Date
+      hint: End date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: prior_period_ending
+      label: Prior Period Ending Date
+      hint: Comparative date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: operating_activities
+      label: Cash Flows from Operating Activities
+      hint: Operating cash flows
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: net_income
+      label: Net Income
+      hint: Profit or loss
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: depreciation_amortization
+      label: Depreciation and Amortization
+      hint: Non-cash expenses
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: accounts_receivable_change
+      label: Change in Accounts Receivable
+      hint: Receivables adjustment
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: inventory_change
+      label: Change in Inventory
+      hint: Inventory adjustment
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: accounts_payable_change
+      label: Change in Accounts Payable
+      hint: Payables adjustment
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: accrued_expenses_change
+      label: Change in Accrued Expenses
+      hint: Accruals adjustment
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deferred_revenue_change
+      label: Change in Deferred Revenue
+      hint: Deferrals adjustment
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: other_operating_adjustments
+      label: Other Operating Adjustments
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_operating_amount
+      label: Other Operating Amount
+      hint: Total
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: net_operating_cash_flow
+      label: Net Cash from Operating Activities
+      hint: Operating total
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: investing_activities
+      label: Cash Flows from Investing Activities
+      hint: Investing cash flows
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: capital_expenditures
+      label: Capital Expenditures
+      hint: CapEx purchases
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: asset_proceeds
+      label: Proceeds from Asset Sales
+      hint: Asset liquidation
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: investment_purchases
+      label: Investment Purchases
+      hint: Buying investments
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: investment_sales
+      label: Proceeds from Investment Sales
+      hint: Selling investments
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: loan_disbursements
+      label: Loans Made to Others
+      hint: Lending
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: loan_collections
+      label: Collections of Loans Made
+      hint: Loan repayments received
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: other_investing_activities
+      label: Other Investing Activities
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: other_investing_amount
+      label: Other Investing Amount
+      hint: Total
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: net_investing_cash_flow
+      label: Net Cash from Investing Activities
+      hint: Investing total
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: financing_activities
+      label: Cash Flows from Financing Activities
+      hint: Financing cash flows
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: debt_proceeds
+      label: Proceeds from Borrowing
+      hint: New debt
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: debt_repayments
+      label: Repayments of Debt
+      hint: Debt principal paid
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: equity_issuance
+      label: Proceeds from Equity Issuance
+      hint: Stock sales
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: equity_repurchase
+      label: Payments for Equity Repurchase
+      hint: Stock buybacks
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: dividends_paid
+      label: Dividends Paid
+      hint: Distributions
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: owner_contributions
+      label: Owner Contributions
+      hint: Capital injections
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: owner_distributions
+      label: Owner Distributions
+      hint: Withdrawals
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: other_financing_activities
+      label: Other Financing Activities
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: other_financing_amount
+      label: Other Financing Amount
+      hint: Total
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: net_financing_cash_flow
+      label: Net Cash from Financing Activities
+      hint: Financing total
+      type: number
+      options: []
+      required: true
+    - id: 42
+      name: summary
+      label: Summary
+      hint: Cash flow summary
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: net_change_in_cash
+      label: Net Change in Cash
+      hint: Total change
+      type: number
+      options: []
+      required: true
+    - id: 44
+      name: cash_beginning
+      label: Cash at Beginning of Period
+      hint: Opening balance
+      type: number
+      options: []
+      required: true
+    - id: 45
+      name: cash_ending
+      label: Cash at End of Period
+      hint: Closing balance
+      type: number
+      options: []
+      required: true
+    - id: 46
+      name: supplemental_disclosures
+      label: Supplemental Disclosures
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: interest_paid
+      label: Interest Paid
+      hint: Cash interest
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: taxes_paid
+      label: Income Taxes Paid
+      hint: Cash taxes
+      type: number
+      options: []
+      required: false
+    - id: 49
+      name: non_cash_investing
+      label: Non-Cash Investing Activities
+      hint: Disclosures
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: non_cash_financing
+      label: Non-Cash Financing Activities
+      hint: Disclosures
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: analysis_notes
+      label: Analysis Notes
+      hint: Commentary
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: prepared_by
+      label: Prepared By
+      hint: Preparer name
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: prepared_date
+      label: Preparation Date
+      hint: Date prepared
+      type: date
+      options: []
+      required: true
+    - id: 54
+      name: reviewed_by
+      label: Reviewed By
+      hint: Reviewer name
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: review_date
+      label: Review Date
+      hint: Date reviewed
+      type: date
+      options: []
+      required: false

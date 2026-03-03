@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscribe To My List
+    pages:
+    - id: 1
+      name: form_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_registration
+      label: Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: Select category
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select tool
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

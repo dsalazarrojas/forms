@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Product Innovation Grant Application
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Startup
+      - Small Business
+      - Research Institution
+      - Other
+      required: true
+    - id: 6
+      name: company_header
+      label: -- Company or Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company or Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_location
+      label: Company Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: founding_year
+      label: Year Founded or Project Started
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: product_header
+      label: -- Product Innovation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: product_category
+      label: Product Category
+      hint: Skincare, makeup, haircare, fragrance, wellness, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_description
+      label: Product Description
+      hint: What is your innovation about
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: innovation_aspects
+      label: Innovative Aspects
+      hint: Formula, ingredients, technology, delivery system, packaging, etc.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: problem_solved
+      label: What Problem Does This Solve
+      hint: Market gap, unmet need, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_market
+      label: Target Market
+      hint: Demographics and characteristics
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: stage_header
+      label: -- Development Stage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: development_stage
+      label: Current Development Stage
+      hint: null
+      type: select_one
+      options:
+      - Concept
+      - Research
+      - Prototype
+      - Pre-Launch
+      - Launch-Ready
+      required: true
+    - id: 18
+      name: timeline_to_market
+      label: Timeline to Market
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: financial_header
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: grant_amount_requested
+      label: Grant Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_project_budget
+      label: Total Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: other_funding
+      label: Other Funding Sources
+      hint: Investor funding, personal investment, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: funds_usage
+      label: How Will Grant Funds Be Used
+      hint: Research, manufacturing, marketing, etc.
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: team_header
+      label: -- Team and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: key_qualifications
+      label: Key Team Qualifications
+      hint: Education, industry experience, certifications, etc.
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: impact_header
+      label: -- Expected Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: market_impact
+      label: Expected Market Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: sustainability_impact
+      label: Sustainability or Social Impact
+      hint: Environmental benefits, ethical considerations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: agreement
+      label: I Agree to Grant Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

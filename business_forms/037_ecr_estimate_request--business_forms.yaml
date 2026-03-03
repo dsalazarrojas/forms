@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ecr Estimate Request
+    pages:
+    - id: 1
+      name: ecr_request_form
+      label: Ecr Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estimated_date
+      label: Estimated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ecr_number
+      label: Ecr Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ecr_status
+      label: Ecr Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 7
+      name: ecr_priority
+      label: Ecr Priority
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: ecr_priority_2
+      label: Ecr Priority 2
+      hint: null
+      type: select_multiple
+      options:
+      - Lowest
+      - Lowest
+      - Medium
+      required: false

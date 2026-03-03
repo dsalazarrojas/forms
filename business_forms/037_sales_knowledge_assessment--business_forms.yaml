@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Knowledge Assessment
+    pages:
+    - id: 1
+      name: sales_knowledge_assessment
+      label: Sales Knowledge Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_team
+      label: sales_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_process
+      label: sales_process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: presentation_skills
+      label: presentation_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sales_tactic
+      label: sales_tactic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sales_tactic_2
+      label: sales_tactic_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sales_tactic_3
+      label: sales_tactic_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

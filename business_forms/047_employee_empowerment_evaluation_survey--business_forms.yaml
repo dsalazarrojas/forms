@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Empowerment Evaluation Survey
+    pages:
+    - id: 1
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: empowerment_level
+      label: empowerment_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 7
+      name: communication_style
+      label: communication_style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: communication_channel
+      label: communication_channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 11
+      name: open_communication
+      label: open_communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: feedback_channel
+      label: feedback_channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: suggestion_for_improvement
+      label: suggestion_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: action_item
+      label: action_item
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_question
+      label: follow_up_question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Compliance Declaration Form
+    pages:
+    - id: 1
+      name: vendor_compliance_declaration_form_1
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_phone
+      label: vendor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_email
+      label: vendor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: vendor_website
+      label: vendor_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_license
+      label: vendor_license
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vendor_compliance
+      label: vendor_compliance
+      hint: null
+      type: select_one
+      options:
+      - Compliance 1
+      - Compliance 2
+      - Compliance 3
+      required: false
+    - id: 8
+      name: vendor_agreement
+      label: vendor_agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vendor_comments
+      label: vendor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_signature_date
+      label: vendor_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vendor_signature_time
+      label: vendor_signature_time
+      hint: null
+      type: time
+      options: []
+      required: false

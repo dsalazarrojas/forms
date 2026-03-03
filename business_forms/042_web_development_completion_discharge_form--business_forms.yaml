@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Development Completion Discharge Form
+    pages:
+    - id: 1
+      name: project_completion
+      label: Project Completion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deliverables_completed
+      label: Deliverables Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: client_signoff
+      label: Client Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_manager_comments
+      label: Project Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_number
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: project_lead_comments
+      label: Project Lead Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_project_lead
+      label: Client Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: client_approval_status
+      label: Client Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: project_completion_comments
+      label: Project Completion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_signoff_date
+      label: Client Signoff Date
+      hint: null
+      type: date
+      options: []
+      required: false

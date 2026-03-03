@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: safety_standards_compliance_approval_form
+    pages:
+    - id: 1
+      name: section1
+      label: Section 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section2
+      label: Section 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_one
+      options:
+      - 3E+L+R
+      - 3E+L+R+I
+      - 3E+L+R+I+O
+      - 3E+L+R+S
+      - 3E+L+R+S+I
+      required: false
+    - id: 8
+      name: section3
+      label: Section 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operations Planning Assistance Request Form
+    pages:
+    - id: 1
+      name: operation_id
+      label: Operation ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_request
+      label: Time of Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1001, ''name'': ''Type 1''}'
+      - '{''id'': 1002, ''name'': ''Type 2''}'
+      - '{''id'': 1003, ''name'': ''Type 3''}'
+      - '{''id'': 1004, ''name'': ''Type 4''}'
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: operation_status
+      label: Operation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2001, ''name'': ''Status 1''}'
+      - '{''id'': 2002, ''name'': ''Status 2''}'
+      - '{''id'': 2003, ''name'': ''Status 3''}'
+      - '{''id'': 2004, ''name'': ''Status 4''}'
+      required: false

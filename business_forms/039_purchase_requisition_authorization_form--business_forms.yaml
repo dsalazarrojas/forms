@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Requisition Authorization Form
+    pages:
+    - id: 1
+      name: purchase_request
+      label: Purchase Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approver_id
+      label: Approver ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_order
+      label: Purchase Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 10
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Marketing
+      - HR
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: requisition_id
+      label: Requisition ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: purchase_number
+      label: Purchase Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: purchase_type
+      label: Purchase Type
+      hint: null
+      type: select_one
+      options:
+      - Capital Expenditure
+      - Operating Expenditure
+      required: false
+    - id: 24
+      name: purchase_status
+      label: Purchase Status
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Rejected
+      - In Progress
+      required: false
+    - id: 25
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false

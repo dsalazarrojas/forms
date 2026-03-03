@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of change request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting change
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Requester department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: change_title
+      label: Change Title
+      hint: Brief title for the change
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: change_description
+      label: Change Description
+      hint: Detailed description of proposed change
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: change_category
+      label: Change Category
+      hint: Type of change
+      type: select_one
+      options:
+      - Process improvement
+      - Technology change
+      - Policy update
+      - Organizational change
+      - Product service change
+      - Compliance requirement
+      - Cost reduction
+      - Quality improvement
+      - Other
+      required: true
+    - id: 9
+      name: change_priority
+      label: Change Priority
+      hint: Priority level of change
+      type: select_one
+      options:
+      - Critical - Immediate
+      - High - Within 1 week
+      - Medium - Within 1 month
+      - Low - When convenient
+      required: true
+    - id: 10
+      name: business_justification
+      label: Business Justification
+      hint: Why is this change needed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What benefits will this change bring
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: affected_systems
+      label: Affected Systems
+      hint: Which systems will be affected
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: affected_processes
+      label: Affected Processes
+      hint: Which processes will be affected
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who will be impacted by this change
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: resource_requirements
+      label: Resource Requirements
+      hint: What resources are needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Approximate cost of change
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When should change be implemented
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: risks_identified
+      label: Risks Identified
+      hint: What are the potential risks
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mitigation_plan
+      label: Mitigation Plan
+      hint: How will risks be mitigated
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rollback_plan
+      label: Rollback Plan
+      hint: How can change be reversed if needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: success_metrics
+      label: Success Metrics
+      hint: How will success be measured
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending review
+      - Under evaluation
+      - Approved
+      - Approved with conditions
+      - Rejected
+      - Deferred
+      required: false
+    - id: 23
+      name: approver_name
+      label: Approver Name
+      hint: Name of approving authority
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

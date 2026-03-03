@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Safety Inspection Form
+    pages:
+    - id: 1
+      name: general_inspection
+      label: General Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_protection_systems
+      label: Fire Protection Systems
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: electrical_hazard
+      label: Electrical Hazard
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hazardous_materials
+      label: Hazardous Materials
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: personal_protective_equipment
+      label: Personal Protective Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_aid_kits
+      label: First Aid Kits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_exit_routes
+      label: Emergency Exit Routes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: electrical_lockout_tagout
+      label: Electrical Lockout/Tagout
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: safety_procedures
+      label: Safety Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspection_report
+      label: Inspection Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_position
+      label: Supervisor Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_department
+      label: Supervisor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

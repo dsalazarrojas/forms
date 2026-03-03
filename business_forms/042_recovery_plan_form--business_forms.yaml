@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recovery Plan Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: objectives
+      label: objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resources
+      label: resources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: risk
+      label: risk
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mitigation
+      label: mitigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: response
+      label: response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recovery
+      label: recovery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: review
+      label: review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: final
+      label: final
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

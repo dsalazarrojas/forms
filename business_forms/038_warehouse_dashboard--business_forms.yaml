@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Dashboard
+    pages:
+    - id: 1
+      name: inventory_levels
+      label: Inventory Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: schedule_pickups
+      label: Schedule Pickups
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: worker_schedule
+      label: Worker Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inventory_reorder
+      label: Reorder Inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inventory_reorder_threshold
+      label: Reorder Threshold
+      hint: null
+      type: number
+      options: []
+      required: false

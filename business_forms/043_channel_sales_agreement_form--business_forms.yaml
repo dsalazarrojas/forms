@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Channel Sales Agreement Form
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agreement_number
+      label: Agreement Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_name
+      label: Vendor or Manufacturer Name
+      hint: Company offering product
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_contact
+      label: Vendor Contact Information
+      hint: Contact details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: channel_partner_name
+      label: Channel Partner Company Name
+      hint: Reseller or distributor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partner_contact
+      label: Partner Contact Information
+      hint: Contact details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: partner_type
+      label: Type of Channel Partner
+      hint: Relationship type
+      type: select_one
+      options:
+      - Reseller
+      - Distributor
+      - System Integrator
+      - VAR
+      - Agent
+      - Other
+      required: true
+    - id: 8
+      name: territory
+      label: Territory or Region
+      hint: Geographic area covered
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: products_services
+      label: Products or Services Covered
+      hint: What is being sold
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: discount_structure
+      label: Discount Structure
+      hint: Discounts offered to partner
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: margin_percentage
+      label: Partner Margin Percentage
+      hint: Markup allowed
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: minimum_purchase_commitment
+      label: Minimum Purchase Commitment
+      hint: Annual minimum or quota
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: support_requirements
+      label: Support Requirements
+      hint: Support partner must provide
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: term_length
+      label: Agreement Term Length
+      hint: How long is agreement valid
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - Indefinite
+      required: true
+    - id: 15
+      name: renewal_terms
+      label: Renewal Terms
+      hint: How agreement renews
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: termination_clause
+      label: Termination or Exit Clause
+      hint: How agreement can end
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pricing_conditions
+      label: Pricing Conditions
+      hint: Any price guarantees
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: intellectual_property
+      label: Intellectual Property Rights
+      hint: IP ownership
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: exclusive_arrangement
+      label: Exclusive Arrangement
+      hint: Is this exclusive
+      type: select_one
+      options:
+      - Exclusive
+      - Non-exclusive
+      - Partially Exclusive
+      required: false
+    - id: 20
+      name: agreement_acceptance
+      label: Both Parties Accept This Agreement
+      hint: Agreement terms accepted
+      type: select_one
+      options:
+      - Yes, Accepted
+      - 'No'
+      required: true

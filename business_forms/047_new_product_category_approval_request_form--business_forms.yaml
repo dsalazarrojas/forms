@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Product Category Approval Request Form
+    pages:
+    - id: 1
+      name: new_product_category_approval_request_form_page1
+      label: Product Category Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: true
+    - id: 5
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_video
+      label: Product Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_document
+      label: Product Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_url
+      label: Product URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_tags
+      label: Product Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_status
+      label: Product Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 12
+      name: product_status_note
+      label: Product Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_approver
+      label: Product Approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approver_note
+      label: Approver Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jack
+      required: true
+    - id: 21
+      name: approver_note
+      label: Approver Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_confirmation
+      label: Approver Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: true

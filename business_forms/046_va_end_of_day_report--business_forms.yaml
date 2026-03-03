@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Va End Of Day Report
+    pages:
+    - id: 1
+      name: end_of_day
+      label: VA End Of Day Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_start_time
+      label: Report Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: report_end_time
+      label: Report End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: report_start_time_am_pm
+      label: Report Start AM/PM
+      hint: null
+      type: select_one
+      options:
+      - 12 AM
+      - 1 AM
+      - 10 AM
+      - 11 AM
+      - 12 PM
+      - 1 PM
+      - 10 PM
+      - 11 PM
+      required: false
+    - id: 6
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_multiple
+      options:
+      - VA End of Day Report
+      - VA End of Day Report
+      - VA End of Day Report
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 9
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_phone
+      label: Email or Phone
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Fax
+      required: false

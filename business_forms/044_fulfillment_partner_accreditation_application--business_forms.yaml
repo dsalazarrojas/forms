@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fulfillment Partner Accreditation Application
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Warehouse Management
+      - Logistics
+      - Shipping
+      - Returns
+      required: true
+    - id: 3
+      name: experience
+      label: Experience
+      hint: Years of Experience
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: certifications
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_services
+      label: Company Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: warehouse_details
+      label: Warehouse Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: warehouse_services
+      label: Warehouse Services
+      hint: null
+      type: select_multiple
+      options:
+      - Fulfillment
+      - Shipping
+      - Returns
+      required: true
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Ownership Agreement
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: percentage_of_ownership
+      label: Percentage of Ownership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ownership_date
+      label: Ownership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agreement_type
+      label: Type of Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: agreement_term
+      label: Agreement Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

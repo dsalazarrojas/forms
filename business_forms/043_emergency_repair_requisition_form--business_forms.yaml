@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Repair Requisition Form
+    pages:
+    - id: 1
+      name: request_form
+      label: emergency_repair_requisition_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: emergency_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      - urgent
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_multiple
+      options:
+      - property_manager
+      - maintenance_team
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_requested
+      label: time_requested
+      hint: null
+      type: time
+      options: []
+      required: false

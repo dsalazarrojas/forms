@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_author
+      label: Report Author
+      hint: Name of person preparing report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_title
+      label: Author Title
+      hint: Job title of report author
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Reporting department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: change_initiative_name
+      label: Change Initiative Name
+      hint: Name of change project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_period_start
+      label: Reporting Period Start
+      hint: Start date of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reporting_period_end
+      label: Reporting Period End
+      hint: End date of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: Current status of change initiative
+      type: select_one
+      options:
+      - On track
+      - At risk
+      - Behind schedule
+      - On hold
+      - Completed
+      - Cancelled
+      required: true
+    - id: 9
+      name: completion_percentage
+      label: Completion Percentage
+      hint: Percent complete
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: milestones_achieved
+      label: Milestones Achieved
+      hint: List milestones completed this period
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: upcoming_milestones
+      label: Upcoming Milestones
+      hint: List milestones for next period
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_status
+      label: Budget Status
+      hint: Current budget status
+      type: select_one
+      options:
+      - Under budget
+      - On budget
+      - Over budget
+      - Not applicable
+      required: true
+    - id: 13
+      name: budget_variance
+      label: Budget Variance
+      hint: Amount over or under budget
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resource_utilization
+      label: Resource Utilization
+      hint: How are resources being used
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stakeholder_engagement
+      label: Stakeholder Engagement
+      hint: Level of stakeholder engagement
+      type: select_one
+      options:
+      - Highly engaged
+      - Moderately engaged
+      - Minimally engaged
+      - Resistant
+      required: true
+    - id: 16
+      name: change_adoption_rate
+      label: Change Adoption Rate
+      hint: Rate of adoption
+      type: select_one
+      options:
+      - Exceeding targets
+      - Meeting targets
+      - Below targets
+      - Significant resistance
+      required: true
+    - id: 17
+      name: issues_and_risks
+      label: Issues and Risks
+      hint: Current issues and risks
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: mitigation_actions
+      label: Mitigation Actions
+      hint: Actions being taken
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: key_decisions_needed
+      label: Key Decisions Needed
+      hint: Decisions required from leadership
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_required
+      label: Support Required
+      hint: What support is needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Key learnings this period
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_steps
+      label: Next Steps
+      hint: Planned activities for next period
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: recommendations
+      label: Recommendations
+      hint: Recommendations for leadership
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_signature
+      label: Report Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

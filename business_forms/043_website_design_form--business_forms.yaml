@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Website Design Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Business Forms'', ''value'': ''Business Forms''}'
+      - '{''label'': ''Personal Forms'', ''value'': ''Personal Forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_in_advance
+      label: Payment In Advance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

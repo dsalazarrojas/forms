@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Intake Form
+    pages:
+    - id: 1
+      name: prospect_name
+      label: Prospect Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: prospect_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: prospect_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional services
+      - Education
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 9
+      name: current_challenges
+      label: Current Business Challenges
+      hint: What challenges are you facing
+      type: select_multiple
+      options:
+      - Revenue growth
+      - Customer acquisition
+      - Market expansion
+      - Technology adoption
+      - Operational efficiency
+      - Talent acquisition
+      - Competition
+      - Cash flow
+      required: true
+    - id: 10
+      name: desired_outcomes
+      label: Desired Outcomes
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: willingness_to_invest
+      label: Willingness to Invest
+      hint: How much can you invest
+      type: select_one
+      options:
+      - Under $10K
+      - $10K to $25K
+      - $25K to $50K
+      - $50K to $100K
+      - Over $100K
+      required: true
+    - id: 12
+      name: time_commitment
+      label: Time Commitment Available
+      hint: How much time can you dedicate
+      type: select_one
+      options:
+      - Full-time dedication
+      - Part-time - 20 plus hours weekly
+      - Part-time - 10 to 20 hours weekly
+      - Limited - under 10 hours weekly
+      required: true
+    - id: 13
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When do you need to decide
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Still exploring
+      required: true
+    - id: 14
+      name: previous_partnership_experience
+      label: Previous Partnership Experience
+      hint: Have you had partnerships before
+      type: select_one
+      options:
+      - Yes - very successful
+      - Yes - mixed results
+      - Yes - unsuccessful
+      - No - first time
+      required: true
+    - id: 15
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What did you learn from past experiences
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: success_definition
+      label: How Do You Define Success
+      hint: What does success look like for you
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: key_priorities
+      label: Key Priorities
+      hint: What are your top 3 priorities
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: potential_obstacles
+      label: Potential Obstacles
+      hint: What might prevent your success
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_needed
+      label: Support Needed
+      hint: What support do you need most
+      type: select_multiple
+      options:
+      - Strategy development
+      - Marketing support
+      - Sales training
+      - Operational guidance
+      - Financial planning
+      - Technology implementation
+      - Team building
+      - Accountability
+      required: true
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of awareness
+      type: select_one
+      options:
+      - Referral
+      - Website
+      - Social media
+      - Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

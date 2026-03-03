@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Process Innovation Registration
+    pages:
+    - id: 1
+      name: finance_innovation_program
+      label: Finance Innovation Program
+      hint: null
+      type: select_one
+      options:
+      - Business Process Improvement
+      - Challenge
+      - Internal Improvement Initiative
+      required: true
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

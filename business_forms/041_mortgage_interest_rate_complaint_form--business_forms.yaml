@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Interest Rate Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - High Interest Rate
+      - Low Interest Rate
+      - Other
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rate_issue
+      label: Rate Issue
+      hint: Please describe the issue with your rate
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: lender_name
+      label: Lender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please provide any additional comments
+      type: note
+      options: []
+      required: false

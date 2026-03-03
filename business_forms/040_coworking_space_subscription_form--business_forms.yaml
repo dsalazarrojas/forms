@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coworking Space Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: subscription_term
+      label: Subscription term
+      hint: null
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      required: true
+    - id: 7
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      required: true
+    - id: 10
+      name: subscription_status
+      label: Subscription status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_hours
+      label: Business hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: meeting_room
+      label: Meeting room
+      hint: null
+      type: select_multiple
+      options:
+      - Meeting room 1
+      - Meeting room 2
+      - Meeting room 3
+      required: false
+    - id: 14
+      name: parking
+      label: Parking
+      hint: null
+      type: select_one
+      options:
+      - Free parking
+      - Paid parking
+      required: false
+    - id: 15
+      name: internet_access
+      label: Internet access
+      hint: null
+      type: select_multiple
+      options:
+      - WiFi
+      - Ethernet
+      required: false
+    - id: 16
+      name: power_outlets
+      label: Power outlets
+      hint: null
+      type: select_multiple
+      options:
+      - AC
+      - DC
+      - Both
+      required: false
+    - id: 17
+      name: coffee_machine
+      label: Coffee machine
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: whiteboard
+      label: Whiteboard
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: kitchen
+      label: Kitchen
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: water_cooler
+      label: Water cooler
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: meeting_equipment
+      label: Meeting equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Projector
+      - Screen
+      - Whiteboard
+      required: false
+    - id: 22
+      name: meeting_capacity
+      label: Meeting capacity
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: true
+    - id: 23
+      name: cancellation_policy
+      label: Cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 7 days
+      - 30 days
+      required: true
+    - id: 24
+      name: refund_policy
+      label: Refund policy
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Partial
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Service Complaint Form
+    pages:
+    - id: 1
+      name: service_problem
+      label: Service Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_service_provider
+      label: Phone Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: true
+    - id: 3
+      name: date_issue_started
+      label: Date Issue Started
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: detailed_complaint
+      label: Detailed Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number_used
+      label: Phone Number Used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: name_complainant
+      label: Name Complainant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name_service_provider
+      label: Name Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_escalation_escalated_to
+      label: Name Escalation Escalated To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name_of_resolution
+      label: Name Of Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_resolved
+      label: Date Resolved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

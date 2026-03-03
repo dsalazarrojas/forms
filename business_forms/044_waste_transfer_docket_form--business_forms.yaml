@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Transfer Docket Form
+    pages:
+    - id: 1
+      name: generator
+      label: Generator Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: transferer
+      label: Transferer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: transfer_amount
+      label: Transfer Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - Liquid
+      - Dry
+      - Other
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: receiver_info
+      label: Receiver Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_submitted
+      label: Date Submitter
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: transporter
+      label: Transporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: receiver
+      label: Receiver
+      hint: null
+      type: select_multiple
+      options:
+      - Generator
+      - Transferer
+      - Receiver
+      required: true
+    - id: 13
+      name: waste_type
+      label: Waste Type
+      hint: null
+      type: select_one
+      options:
+      - Liquid
+      - Dry
+      required: true
+    - id: 14
+      name: waste_description
+      label: Waste Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: transfer_weight
+      label: Transfer Weight
+      hint: null
+      type: number
+      options: []
+      required: true

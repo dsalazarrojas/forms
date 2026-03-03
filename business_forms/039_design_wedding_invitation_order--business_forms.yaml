@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Wedding Invitation Order
+    pages:
+    - id: 1
+      name: wedding_invitation_order_form
+      label: Wedding Invitation Order Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: design_details
+      label: Design Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_one
+      options:
+      - Cardstock
+      - Paper
+      - Foil
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: working
+      label: Working
+      hint: null
+      type: text
+      options: []
+      required: false

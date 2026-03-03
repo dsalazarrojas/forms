@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Movement Form
+    pages:
+    - id: 1
+      name: staff_movement_form
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_movement
+      label: date_of_movement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: from_site
+      label: from_site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: to_site
+      label: to_site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: staff_member
+      label: staff_member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_movement
+      label: reason_for_movement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_approved
+      label: date_approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_approved
+      label: time_approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: approved_by_user
+      label: approved_by_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments_approved_by
+      label: comments_approved_by
+      hint: null
+      type: text
+      options: []
+      required: false

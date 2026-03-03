@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Timeliness Report Form
+    pages:
+    - id: 1
+      name: delivery_performance
+      label: Delivery Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delay_reasons
+      label: Delay Reasons
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delay_date
+      label: Delay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delay_time
+      label: Delay Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: delay_days
+      label: Delay Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: distribution_channel
+      label: Distribution Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: distribution_status
+      label: Distribution Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_period_1
+      label: Reporting Period 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reporting_period_2
+      label: Reporting Period 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: reporting_period_3
+      label: Reporting Period 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: reporting_period_4
+      label: Reporting Period 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: delivery_location_1
+      label: Delivery Location 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: delivery_location_2
+      label: Delivery Location 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: delivery_location_3
+      label: Delivery Location 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: reporting_period_5
+      label: Reporting Period 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: delay_reasons_1
+      label: Delay Reason 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: delivery_date_1
+      label: Delivery Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: delay_days_1
+      label: Delay Days 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: distribution_channel_1
+      label: Distribution Channel 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Incident Closure Request Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assignee_details
+      label: Assignee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: action_status
+      label: Action Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: action_status_details
+      label: Action Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assignee_comments
+      label: Assignee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_comments
+      label: Action Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: action_time
+      label: Action Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: action_description
+      label: Action Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: dynamic_input_form
+    pages:
+    - id: 1
+      name: entry1
+      label: entry_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry2
+      label: entry_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: consent_label
+      hint: This is the consent label
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entries_list
+      label: entries_list_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option_1''}'
+      - '{''id'': 2, ''label'': ''option_2''}'
+      - '{''id'': 3, ''label'': ''option_3''}'
+      required: false
+    - id: 5
+      name: entries_list_2
+      label: entries_list_2_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option_4''}'
+      - '{''id'': 2, ''label'': ''option_5''}'
+      required: false
+    - id: 6
+      name: date
+      label: date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: file
+      label: file_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note_label
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Form
+    pages:
+    - id: 1
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appointment_scheduling
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Initial consultation
+      - Follow-up meeting
+      - Sales presentation
+      - Service inquiry
+      - Support request
+      - Other
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - Morning - 9 AM to 12 PM
+      - Early afternoon - 12 PM to 2 PM
+      - Afternoon - 2 PM to 5 PM
+      - Late afternoon - 5 PM to 6 PM
+      - Flexible
+      required: true
+    - id: 10
+      name: appointment_duration
+      label: Expected Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2+ hours
+      required: false
+    - id: 11
+      name: meeting_format
+      label: Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone call
+      - Video conference
+      - No preference
+      required: false
+    - id: 12
+      name: purpose_section
+      label: -- Purpose and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: appointment_purpose
+      label: Purpose of Appointment
+      hint: What would you like to discuss?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: background_information
+      label: Background Information
+      hint: Any relevant details we should know
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: specific_needs
+      label: Specific needs or requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirmation_section
+      label: -- Confirmation Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact
+      label: How should we confirm your appointment?
+      hint: null
+      type: select_one
+      options:
+      - Email confirmation
+      - Phone call confirmation
+      - Text message confirmation
+      - No preference
+      required: false
+    - id: 18
+      name: terms_acceptance
+      label: I agree to the appointment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false

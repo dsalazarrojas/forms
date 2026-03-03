@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Twin Creation Quotation Form
+    pages:
+    - id: 1
+      name: digital_twin_creation_quotation_form
+      label: digital_twin_creation_quotation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quotation_details
+      label: quotation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Square''}'
+      required: false
+    - id: 4
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_cost
+      label: service_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_duration
+      label: service_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false

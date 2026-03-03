@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: file_upload_form_send_to_dropbox_business_forms
+    pages:
+    - id: 1
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_file
+      label: Upload File
+      hint: Drag and drop or select a file
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upload_file_multiple
+      label: Upload Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Multiple File Upload
+      - Other
+      required: false

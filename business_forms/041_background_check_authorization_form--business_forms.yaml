@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Authorization Form
+    pages:
+    - id: 1
+      name: authorization_legal_header
+      label: -- Disclosure and Authorization for Background Investigation --
+      hint: Please read this form carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_legal_name
+      label: Full Legal Name
+      hint: Include any middle names
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: other_names_used
+      label: Other names used (Maiden name, aliases)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ssn_disclosure_note
+      label: Social Security Number Disclosure
+      hint: Your SSN is required for accurate identity verification and will be handled
+        securely
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: Format - XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth_bg
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_residential_address_bg
+      label: Current Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: previous_addresses_7years
+      label: Previous Addresses (Last 7 Years)
+      hint: Include City, State, and Zip for each
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: drivers_license_number_bg
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: drivers_license_state
+      label: Driver's License Issuing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_statement_text
+      label: I hereby authorize the company to conduct a background investigation
+      hint: This may include criminal records, credit history, and employment verification
+      type: select_one
+      options:
+      - I authorize and consent
+      - Other
+      required: true
+    - id: 12
+      name: fcra_acknowledgment
+      label: I acknowledge receipt of the Summary of Your Rights under the FCRA
+      hint: Fair Credit Reporting Act
+      type: select_one
+      options:
+      - I acknowledge receipt
+      - Other
+      required: true
+    - id: 13
+      name: signature_confirmation_bg
+      label: Digital Signature Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - This is my legal signature
+      - Other
+      required: true
+    - id: 14
+      name: date_of_signature_bg
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

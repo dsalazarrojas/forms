@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Do Not Contact Request Form
+    pages:
+    - id: 1
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - Contact Email
+      - Contact Phone
+      - Contact Mail
+      - Contact SMS
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_request_date
+      label: Contact Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_request_time
+      label: Contact Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - System
+      required: false
+    - id: 9
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - Jane Doe
+      - System
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_request_status
+      label: Contact Request Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false

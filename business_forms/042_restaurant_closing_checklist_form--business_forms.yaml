@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Closing Checklist Form
+    pages:
+    - id: 1
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: cash_drawer_count
+      label: Cash Drawer Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cash_register_count
+      label: Cash Register Count
+      hint: Count how many cash registers are still open
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: check_closers_count
+      label: Check Closers Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: check_closers_counted
+      label: Check Closers Counted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shift_leaders_count
+      label: Shift Leaders Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shift_leaders_counted
+      label: Shift Leaders Counted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cash_in
+      label: Cash In
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cash_out
+      label: Cash Out
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: change
+      label: Change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: prophets Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: notes_for_manager
+      label: Notes For Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: restaurant_id
+      label: Restaurant ID
+      hint: Select the restaurant ID of the closed restaurant
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 17
+      name: manager_id
+      label: Manager ID
+      hint: Select the manager's ID
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 18
+      name: close_time
+      label: Close Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: restaurant_name
+      label: Restaurant Name
+      hint: Select the restaurant name
+      type: select_one
+      options:
+      - Restaurant 1
+      - Restaurant 2
+      - Restaurant 3
+      - Restaurant 4
+      - Restaurant 5
+      required: false
+    - id: 21
+      name: manager_name
+      label: Manager Name
+      hint: Select the manager name
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jane Doe
+      - John Smith
+      - Jane Smith
+      required: false
+    - id: 22
+      name: action_items_2
+      label: Action Items 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: notes_for_employee
+      label: Notes For Employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

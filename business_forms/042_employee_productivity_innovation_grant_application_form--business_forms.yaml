@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Productivity Innovation Grant Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_needs
+      label: Funding Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - San Francisco
+      - Chicago
+      required: false
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_hours
+      label: Project Hours
+      hint: null
+      type: number
+      options: []
+      required: false

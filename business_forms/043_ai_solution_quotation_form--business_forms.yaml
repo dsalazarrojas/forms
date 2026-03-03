@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Solution Quotation Form
+    pages:
+    - id: 1
+      name: company_info_section
+      label: '--- Company Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology/Software
+      - Finance/Fintech
+      - Healthcare/Biotech
+      - Manufacturing
+      - Retail/E-commerce
+      - Legal/Compliance
+      - Marketing/Media
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_scope_section
+      label: '--- Project Scope ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: services_required
+      label: Service(s) Required
+      hint: Select all that apply to your project.
+      type: select_multiple
+      options:
+      - AI Strategy & Consulting
+      - Custom LLM/Model Training
+      - Intelligent Chatbot/Agent Development
+      - Data Infrastructure & Pipeline Engineering
+      - AI Model Deployment & MLOps
+      - Existing System AI Integration
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description & Objectives
+      hint: Briefly describe the problem you want to solve with AI.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_duration
+      label: Expected Project Duration
+      hint: null
+      type: select_one
+      options:
+      - Short-term (< 3 months)
+      - Medium-term (3 to 6 months)
+      - Long-term (6+ months)
+      - Ongoing Maintenance/Support
+      required: true
+    - id: 12
+      name: budget_timeline_section
+      label: '--- Budget & Timeline ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: budget_range
+      label: Estimated Budget Range
+      hint: This helps us tailor the solution to your scale.
+      type: select_one
+      options:
+      - $5,000 - $15,000
+      - $15,000 - $50,000
+      - $50,000 - $150,000
+      - $150,000+
+      - Not yet determined
+      required: true
+    - id: 14
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: technical_environment_section
+      label: '--- Technical Environment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tech_stack
+      label: Current Technology Stack
+      hint: Select the primary technologies you use.
+      type: select_multiple
+      options:
+      - Cloud (AWS/Azure/GCP)
+      - Python/Data Science Stack
+      - Node.js/Javascript
+      - SQL Databases (Postgres, MySQL)
+      - NoSQL/Vector Databases
+      - Legacy/On-prem Systems
+      required: false
+    - id: 17
+      name: data_readiness
+      label: Data Availability & Readiness
+      hint: null
+      type: select_one
+      options:
+      - Data is clean and ready for AI
+      - Data exists but needs cleaning/processing
+      - Data needs to be identified/collected
+      - No data currently available
+      required: true
+    - id: 18
+      name: technical_constraints
+      label: Specific technical constraints or requirements
+      hint: e.g., Privacy (HIPAA/GDPR), latency requirements, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred communication method for the quote
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Discovery Call
+      required: true
+    - id: 20
+      name: referral_source
+      label: How did you hear about our AI services?
+      hint: null
+      type: text
+      options: []
+      required: false

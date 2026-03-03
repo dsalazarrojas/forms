@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_feasibility_study_request_form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''canceled''}'
+      required: false
+    - id: 5
+      name: project_priority
+      label: project_priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''high''}'
+      - '{''value'': ''low''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Overview Form
+    pages:
+    - id: 1
+      name: entrepreneur_name
+      label: Entrepreneur Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entrepreneur_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: entrepreneur_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry_sector
+      label: Industry Sector
+      hint: What industry?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Other
+      required: true
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: B2B, B2C, etc.
+      type: select_one
+      options:
+      - B2B
+      - B2C
+      - B2G
+      - C2C
+      - Non-profit
+      - Other
+      required: true
+    - id: 7
+      name: brief_description
+      label: Brief Business Description
+      hint: 50-100 words
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mission_statement
+      label: Mission Statement
+      hint: Your mission in one sentence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_stage
+      label: Business Stage
+      hint: Current development stage
+      type: select_one
+      options:
+      - Idea
+      - Planning
+      - Pre-launch
+      - Launch
+      - Growth
+      - Mature
+      - Pivot
+      required: true
+    - id: 10
+      name: target_customers
+      label: Target Customers
+      hint: Who are your ideal customers?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: key_products_services
+      label: Key Products or Services
+      hint: What will you offer?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: unique_value_proposition
+      label: Unique Value Proposition
+      hint: Why choose you?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: competitive_positioning
+      label: Competitive Positioning
+      hint: Where do you fit in market?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: startup_costs
+      label: Estimated Startup Costs
+      hint: Total capital needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: initial_funding_amount
+      label: Initial Funding Amount Needed
+      hint: How much are you raising?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: use_of_funds
+      label: Use of Funds
+      hint: How will you use the funds?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_size
+      label: Current Team Size
+      hint: Number of team members
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: key_team_expertise
+      label: Key Team Expertise
+      hint: What are your team's strengths?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: first_year_revenue_target
+      label: First Year Revenue Target
+      hint: Projected revenue
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: profitability_timeline
+      label: Profitability Timeline
+      hint: When will you be profitable?
+      type: text
+      options: []
+      required: false

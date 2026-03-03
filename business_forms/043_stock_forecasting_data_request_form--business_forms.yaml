@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Forecasting Data Request Form
+    pages:
+    - id: 1
+      name: stock_symbols
+      label: Stock Symbols
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: forecast_period
+      label: Forecast Period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      - Very High
+      - Very Low
+      required: true
+    - id: 4
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: select_multiple
+      options:
+      - Analysis
+      - Reporting
+      - Strategy
+      required: true
+    - id: 5
+      name: stock_request_details
+      label: Stock Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stock_price_change
+      label: Stock Price Change
+      hint: null
+      type: select_one
+      options:
+      - Up
+      - Down
+      - Stable
+      required: false
+    - id: 7
+      name: stock_volatility
+      label: Stock Volatility
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      - Very High
+      - Very Low
+      required: false
+    - id: 8
+      name: stock_forecast_period_start
+      label: Stock Forecast Period Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: stock_forecast_period_end
+      label: Stock Forecast Period End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: stock_forecast_period_duration
+      label: Stock Forecast Period Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: investment_team
+      label: Investment Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: analyst_notes
+      label: Analyst Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stock_symbol
+      label: Stock Symbol
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: stock_price
+      label: Stock Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: stock_volume
+      label: Stock Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: stock_open
+      label: Stock Open
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: stock_high
+      label: Stock High
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: stock_low
+      label: Stock Low
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: stock_close
+      label: Stock Close
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: stock_avg_price
+      label: Stock Average Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: stock_beta
+      label: Stock Beta
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: stock_risk
+      label: Stock Risk
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: stock_sector
+      label: Stock Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stock_industry
+      label: Stock Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stock_sector_classification
+      label: Stock Sector Classification
+      hint: null
+      type: select_one
+      options:
+      - Industry
+      - Sector
+      - Classification
+      required: false
+    - id: 26
+      name: stock_market_cap
+      label: Stock Market Cap
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: stock_exchange
+      label: Stock Exchange
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: stock_ipo_date
+      label: Stock IPO Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: stock_status
+      label: Stock Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Cancelled
+      - Suspended
+      - Unknown
+      required: false
+    - id: 30
+      name: stock_type
+      label: Stock Type
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Preferred
+      - Convertible
+      - ETF
+      - Index
+      required: false

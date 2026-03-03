@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Cleaning Services Quote Request Form
+    pages:
+    - id: 1
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Cleaning
+      - Maintenance
+      - Specialized
+      required: true
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 7
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning Supplies
+      - Trash Removal
+      - Equipment Washing
+      - Disinfection
+      - Recycling
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 15
+      name: quote_requested_by
+      label: Quote Requested By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Staff
+      required: true
+    - id: 16
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 17
+      name: quote_delivery
+      label: Quote Delivery
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Email and Phone
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Wire Transfer
+      - Credit Card
+      required: true
+    - id: 20
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tax_id_number
+      label: Tax ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: city_state
+      label: City State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false

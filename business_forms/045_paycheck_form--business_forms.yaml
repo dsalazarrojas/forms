@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paycheck Form
+    pages:
+    - id: 1
+      name: paycheck_form_1
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_last_payment
+      label: date_last_payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pay_period
+      label: pay_period
+      hint: null
+      type: select_one
+      options:
+      - 1st Quarter
+      - 2nd Quarter
+      - 3rd Quarter
+      - 4th Quarter
+      required: true
+    - id: 5
+      name: amount_paid
+      label: amount_paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Cash
+      - Wire Transfer
+      - Online Bank Transfer
+      required: true
+    - id: 7
+      name: paycheck_number
+      label: paycheck_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      - Refunded
+      - Canceled
+      required: true
+    - id: 10
+      name: pay_date
+      label: pay_date
+      hint: null
+      type: date
+      options: []
+      required: false

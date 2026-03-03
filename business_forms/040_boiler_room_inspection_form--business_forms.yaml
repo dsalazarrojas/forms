@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Boiler Room Inspection Form
+    pages:
+      - id: 1
+        name: inspection_date
+        label: Inspection Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: inspection_time
+        label: Inspection Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: inspector_name
+        label: Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: inspector_certification
+        label: Inspector Certification Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: facility_name
+        label: Facility Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: facility_location
+        label: Facility Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: boiler_manufacturer
+        label: Boiler Manufacturer
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: boiler_model
+        label: Boiler Model
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: boiler_serial_number
+        label: Boiler Serial Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: installation_date
+        label: Date of Installation
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: last_inspection_date
+        label: Date of Last Inspection
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: boiler_condition
+        label: Overall Boiler Condition
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Critical - Needs Immediate Attention
+        required: true
+      - id: 13
+        name: exterior_cleanliness
+        label: Exterior Cleanliness
+        hint: null
+        type: select_one
+        options:
+          - Clean
+          - Reasonably Clean
+          - Dusty
+          - Very Dirty
+        required: true
+      - id: 14
+        name: rust_or_corrosion
+        label: Evidence of Rust or Corrosion
+        hint: null
+        type: select_one
+        options:
+          - None
+          - Minor
+          - Moderate
+          - Severe
+        required: true
+      - id: 15
+        name: leaks_or_drips
+        label: Leaks or Drips
+        hint: null
+        type: select_one
+        options:
+          - No Leaks
+          - Minor Leaks
+          - Moderate Leaks
+          - Severe Leaks
+        required: true
+      - id: 16
+        name: pressure_gauge_condition
+        label: Pressure Gauge Condition
+        hint: null
+        type: select_one
+        options:
+          - Functional - Normal
+          - Functional - Needs Calibration
+          - Damaged
+          - Missing
+        required: true
+      - id: 17
+        name: temperature_gauge_condition
+        label: Temperature Gauge Condition
+        hint: null
+        type: select_one
+        options:
+          - Functional - Normal
+          - Functional - Needs Calibration
+          - Damaged
+          - Missing
+        required: true
+      - id: 18
+        name: safety_valve_condition
+        label: Safety Valve Condition
+        hint: null
+        type: select_one
+        options:
+          - Functional
+          - Needs Testing
+          - Needs Replacement
+          - Missing
+          - Inoperable
+        required: true
+      - id: 19
+        name: fuel_supply_line
+        label: Fuel Supply Line Condition
+        hint: null
+        type: select_one
+        options:
+          - Good
+          - Acceptable
+          - Needs Attention
+          - Critical
+        required: true
+      - id: 20
+        name: ventilation_system
+        label: Ventilation System
+        hint: null
+        type: select_one
+        options:
+          - Good - Clear
+          - Acceptable - Minor Blockage
+          - Needs Cleaning
+          - Critical - Blocked
+        required: true
+      - id: 21
+        name: flue_pipe_condition
+        label: Flue Pipe Condition
+        hint: null
+        type: select_one
+        options:
+          - Good
+          - Acceptable
+          - Needs Repair
+          - Critical
+        required: true
+      - id: 22
+        name: water_level_visible
+        label: Water Level Gauge Visible and Clear
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - Needs Cleaning
+          - No
+        required: true
+      - id: 23
+        name: controls_functioning
+        label: All Controls Functioning Properly
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - Mostly
+          - Some Issues
+          - No
+        required: true
+      - id: 24
+        name: safety_equipment_present
+        label: Safety Equipment Present
+        hint: Fire extinguisher, first aid, etc
+        type: select_one
+        options:
+          - All Present
+          - Some Missing
+          - Most Missing
+          - None Present
+        required: true
+      - id: 25
+        name: maintenance_history_available
+        label: Maintenance Records Available
+        hint: null
+        type: select_one
+        options:
+          - Complete Records
+          - Partial Records
+          - Minimal Records
+          - No Records
+        required: true

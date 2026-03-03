@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Termination Authorization Form
+    pages:
+    - id: 1
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lease_date
+      label: Lease Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Tenant is moving out''}'
+      - '{''option2'': ''Lease has ended''}'
+      - '{''option3'': ''Other reason''}'
+      required: false
+    - id: 5
+      name: landlord_address
+      label: Landlord Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_address
+      label: Tenant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Month-to-Month''}'
+      - '{''option2'': ''Yearly''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 8
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_termination_details
+      label: Reason for Termination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tenant_contact_info
+      label: Tenant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: landlord_contact_info
+      label: Landlord Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''John Doe''}'
+      - '{''option2'': ''Jane Doe''}'
+      required: false
+    - id: 18
+      name: property_manager_contact_info
+      label: Property Manager Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: termination_fees
+      label: Termination Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: termination_fees_details
+      label: Termination Fees Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''House''}'
+      - '{''option2'': ''Apartment''}'
+      - '{''option3'': ''Condo''}'
+      required: false
+    - id: 22
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lease_terms_details
+      label: Lease Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

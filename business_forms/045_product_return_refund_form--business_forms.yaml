@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_return_refund_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: order number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_return
+      label: reason for return
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: return_date
+      label: return date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: return_note
+      label: return note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_shipping_address
+      label: customer shipping address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_billing_address
+      label: customer billing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_zip
+      label: customer zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_description
+      label: product description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: product_price
+      label: product price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: refund_amount
+      label: refund amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 18
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 19
+      name: shipping_status
+      label: shipping status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 20
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 21
+      name: return_status
+      label: return status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 22
+      name: order_status_update
+      label: order status update
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 23
+      name: customer_status_update
+      label: customer status update
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 24
+      name: product_return_id
+      label: product return id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: true

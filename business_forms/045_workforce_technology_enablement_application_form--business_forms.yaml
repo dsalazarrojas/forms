@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Technology Enablement Application Form
+    pages:
+    - id: 1
+      name: manager_info
+      label: manager_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: policy_acknowledgment
+      label: policy_acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tool_requester
+      label: tool_requester
+      hint: null
+      type: text
+      options: []
+      required: false

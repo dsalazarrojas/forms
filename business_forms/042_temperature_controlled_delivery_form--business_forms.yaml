@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature Controlled Delivery Form
+    pages:
+    - id: 1
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1'', ''value'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2'', ''value'': ''Type 2''}'
+      required: false
+    - id: 2
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: storage_time
+      label: Storage Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

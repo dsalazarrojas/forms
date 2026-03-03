@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: quality_metric_adjustment_request_form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: metric_name
+      label: Metric Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: metric_value
+      label: Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_organization
+      label: Reviewer Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: metric_type
+      label: Metric Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_comments_other
+      label: Submitter Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_comments_other
+      label: Reviewer Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: text
+      options: []
+      required: false

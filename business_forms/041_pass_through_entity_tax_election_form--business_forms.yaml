@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pass Through Entity Tax Election Form
+    pages:
+    - id: 1
+      name: state
+      label: Select State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      required: true
+    - id: 2
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Pass-through entity type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 4
+      name: state_tax_authority
+      label: State tax authority
+      hint: null
+      type: select_multiple
+      options:
+      - California State Tax Authority
+      - New York State Tax Authority
+      - Texas State Tax Authority
+      required: false
+    - id: 5
+      name: tax_year
+      label: Tax year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: entity_ein
+      label: Entity EIN
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_election
+      label: Tax election
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: tax_authority
+      label: Tax authority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: entity_address
+      label: Entity address
+      hint: null
+      type: text
+      options: []
+      required: true

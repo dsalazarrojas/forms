@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraudulent Transaction Report Form
+    pages:
+    - id: 1
+      name: suspicious_activity
+      label: suspicious activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_date
+      label: transaction date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount_transacted
+      label: amount transacted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fraudulent_entity
+      label: fraudulent entity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Customer''}'
+      - '{''value'': ''Merchant''}'
+      - '{''value'': ''Bank''}'
+      required: false
+    - id: 5
+      name: suspicious_location
+      label: suspicious location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Los Angeles''}'
+      - '{''value'': ''Chicago''}'
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suspicious_ip
+      label: suspicious ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspicious_url
+      label: suspicious url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: amount_transacted_avg
+      label: amount transacted avg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: amount_transacted_min
+      label: amount transacted min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: amount_transacted_max
+      label: amount transacted max
+      hint: null
+      type: number
+      options: []
+      required: false

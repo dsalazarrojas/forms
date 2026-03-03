@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Intelligence Roadmap Request Form
+    pages:
+      - id: 1
+        name: section_roadmap_stakeholder
+        label: -- Stakeholder Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: roadmap_stakeholder_name
+        label: Stakeholder Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: roadmap_org_name
+        label: Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: section_current_analytics_state
+        label: -- Current Analytics State --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: current_bi_maturity_level
+        label: Current BI Maturity
+        hint: How would you describe your current analytics capabilities
+        type: select_one
+        options:
+          - Basic (Ad-hoc reporting, mostly spreadsheets)
+          - Descriptive (Centralized dashboards, what happened)
+          - Diagnostic (Root cause analysis, why it happened)
+          - Predictive (Forecasting, what will happen)
+          - Prescriptive (Automated optimization, what should we do)
+        required: true
+      - id: 6
+        name: primary_data_sources_selection
+        label: Primary Data Sources
+        hint: Select all that apply to the roadmap
+        type: select_multiple
+        options:
+          - CRM Data
+          - Financial / ERP Systems
+          - Marketing / Social Media
+          - Web Analytics
+          - IoT / Machine Data
+          - External Market Data
+        required: true
+      - id: 7
+        name: current_analytics_challenges_text
+        label: Current Challenges with Analytics
+        hint: What is preventing you from reaching your data goals
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: section_strategic_vision
+        label: -- Strategic Vision --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: strategic_bi_goals_selection
+        label: Top 3 Strategic Goals for BI
+        hint: What are the priorities for the next roadmap
+        type: select_multiple
+        options:
+          - Better Decision Making Speed
+          - Operational Cost Reduction
+          - Revenue Growth Identification
+          - Risk Management / Compliance
+          - Enhanced Customer Experience
+          - Data Democratization
+        required: true
+      - id: 10
+        name: desired_planning_horizon_roadmap
+        label: Desired Planning Horizon
+        hint: How far out should the roadmap extend
+        type: select_one
+        options:
+          - 6 Months
+          - 12 Months
+          - 2 Years
+          - 3-5 Years
+        required: true
+      - id: 11
+        name: key_performance_indicators_list
+        label: Key Performance Indicators (KPIs) to Track
+        hint: List the most important metrics for your business
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: roadmap_budget_availability_choice
+        label: Budget Availability for BI Roadmap
+        hint: Is there an allocated budget for this strategy development
+        type: select_one
+        options:
+          - Fully Funded
+          - Approved in Principle
+          - Under Review
+          - No Current Budget
+        required: true
+      - id: 13
+        name: roadmap_project_sponsor_name
+        label: Executive Project Sponsor
+        hint: Name of the person championing this initiative
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: roadmap_request_date_official
+        label: Date of Request
+        hint: null
+        type: date
+        options: []
+        required: true

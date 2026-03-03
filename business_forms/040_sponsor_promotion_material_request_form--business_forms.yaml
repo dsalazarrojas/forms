@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Promotion Material Request Form
+    pages:
+    - id: 1
+      name: sponsor_promotion_request_form
+      label: Sponsor Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_promotion_material_request
+      label: Sponsor Promotion Material Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: material_request_date
+      label: Material Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: material_delivery_date
+      label: Material Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_promotion_name
+      label: Sponsor Promotion Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_promotion_email
+      label: Sponsor Promotion Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: sponsor_promotion_phone
+      label: Sponsor Promotion Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sponsor_promotion_address
+      label: Sponsor Promotion Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_promotion_notes
+      label: Sponsor Promotion Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_promotion_attachment
+      label: Sponsor Promotion Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: material_status_update
+      label: Material Status Update
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: sponsor_promotion_status
+      label: Sponsor Promotion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

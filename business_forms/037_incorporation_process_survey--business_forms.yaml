@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incorporation Process Survey
+    pages:
+    - id: 1
+      name: incorporation_process_survey_form
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: Please enter your business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Legal
+      - Corporate
+      - Partnership
+      - LLC
+      - Non-profit
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 4
+      name: business_structure
+      label: Business Structure
+      hint: null
+      type: select_multiple
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      required: true
+    - id: 5
+      name: business_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_address_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: business_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incorporation_process_stage
+      label: What stage are you in the incorporation process?
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 12
+      name: incorporation_service_provider
+      label: Which service provider are you working with?
+      hint: null
+      type: select_multiple
+      options:
+      - Law Firm
+      - Corporate Service
+      required: true
+    - id: 13
+      name: incorporation_issues_faced
+      label: Have you faced any issues during the incorporation process?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_other
+      label: comments_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments_additional
+      label: comments_additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: business_license_number
+      label: Business License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_license_type
+      label: Business License Type
+      hint: null
+      type: select_one
+      options:
+      - Business License
+      - Sales Tax ID
+      - Employee ID
+      required: false
+    - id: 19
+      name: business_registration_number
+      label: Business Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes_additional
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes_additional_2
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes_additional_3
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes_additional_4
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes_additional_5
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

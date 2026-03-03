@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fiscal Year Closure Authorization Application
+    pages:
+    - id: 1
+      name: fyc_authorization_request
+      label: FyC Authorizaton Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approval_approvals
+      label: Approval Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: financial_review
+      label: Financial Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: documentation
+      label: Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_date
+      label: Approver Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: approver_time
+      label: Approver Time
+      hint: null
+      type: time
+      options: []
+      required: false

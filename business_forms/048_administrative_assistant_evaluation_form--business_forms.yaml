@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Assistant Evaluation Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Name of administrative assistant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_period
+      label: Review period
+      hint: Dates covered by evaluation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: punctuality
+      label: Punctuality rating
+      hint: Rate 1 poor to 5 excellent
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: quality_of_work
+      label: Quality of work rating
+      hint: Rate 1 poor to 5 excellent
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: communication
+      label: Communication skills rating
+      hint: Rate 1 poor to 5 excellent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: initiative
+      label: Initiative and problem solving rating
+      hint: Rate 1 poor to 5 excellent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: areas_for_improvement
+      label: Areas for improvement
+      hint: Suggestions for development
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_comments
+      label: Overall comments
+      hint: Supervisor summary and recommendation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_name
+      label: Reviewer name
+      hint: Supervisor completing evaluation
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Transfer Coordination Contact Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: transfer_details
+      label: transfer_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: transfer_time
+      label: transfer_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,311 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidentiality And Non-Compete Agreement
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Legal Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Employer name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Employment Start Date
+      hint: When you started
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: agreement_type
+      label: Agreement Type
+      hint: What type
+      type: select_one
+      options:
+      - New Hire Agreement
+      - Promotion Agreement
+      - Annual Renewal
+      - Separation Agreement
+      - Other
+      required: true
+    - id: 14
+      name: confidential_info_definition
+      label: Confidential Information Definition
+      hint: What is considered confidential
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: confidentiality_obligations
+      label: Confidentiality Obligations
+      hint: Your duties
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: non_compete_scope
+      label: Non-Compete Scope
+      hint: What is restricted
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: non_compete_duration
+      label: Non-Compete Duration
+      hint: How long it lasts
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - Other
+      required: true
+    - id: 18
+      name: non_compete_duration_details
+      label: Duration Details
+      hint: If other specify
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where it applies
+      type: select_one
+      options:
+      - Nationwide
+      - Statewide
+      - Regional
+      - City Limits
+      - Specific Areas
+      required: true
+    - id: 20
+      name: geographic_details
+      label: Geographic Details
+      hint: Specify areas
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: restricted_activities
+      label: Restricted Activities
+      hint: What you cannot do
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: restricted_competitors
+      label: Restricted Competitors
+      hint: Which companies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: non_solicitation
+      label: Non-Solicitation
+      hint: Customer and employee solicitation
+      type: select_one
+      options:
+      - Yes Included
+      - No Not Included
+      required: true
+    - id: 24
+      name: non_solicitation_duration
+      label: Non-Solicitation Duration
+      hint: How long
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Same as Non-Compete
+      required: true
+    - id: 25
+      name: consideration
+      label: Consideration
+      hint: What you receive
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: legal_review
+      label: Legal Review
+      hint: Have you had legal advice
+      type: select_one
+      options:
+      - Yes Reviewed by Counsel
+      - No Not Reviewed
+      - Planning to Review
+      required: true
+    - id: 27
+      name: attorney_name
+      label: Attorney Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: voluntary_agreement
+      label: Voluntary Agreement
+      hint: Are you signing voluntarily
+      type: select_one
+      options:
+      - Yes Voluntary
+      - No Under Duress
+      required: true
+    - id: 29
+      name: understanding_statement
+      label: Understanding Statement
+      hint: Do you understand terms
+      type: select_one
+      options:
+      - Yes Fully Understood
+      - Partially Understood
+      - Need Clarification
+      required: true
+    - id: 30
+      name: enforceability_acknowledgment
+      label: Enforceability Acknowledgment
+      hint: You understand this is binding
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 31
+      name: breach_consequences
+      label: Breach Consequences
+      hint: Do you understand penalties
+      type: select_one
+      options:
+      - Yes Fully Understood
+      - Partially Understood
+      - Need Clarification
+      required: true
+    - id: 32
+      name: questions
+      label: Any Questions
+      hint: Do you have questions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: agreement_acceptance
+      label: Agreement Acceptance
+      hint: Do you accept
+      type: select_one
+      options:
+      - I Accept and Agree
+      - I Do Not Accept
+      required: true
+    - id: 34
+      name: employee_signature
+      label: Employee Signature
+      hint: Sign to agree
+      type: select_one
+      options:
+      - I Sign and Agree
+      - Decline to Sign
+      required: true
+    - id: 35
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: employer_representative
+      label: Employer Representative
+      hint: Company signatory
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: employer_title
+      label: Employer Representative Title
+      hint: Their position
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: employer_signature
+      label: Employer Signature
+      hint: Company sign-off
+      type: select_one
+      options:
+      - Signed on Behalf of Company
+      - Not Yet Signed
+      required: true

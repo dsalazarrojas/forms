@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Customization Quote Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-200)
+      - Large (201-1000)
+      - Enterprise (1000+)
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_crm
+      label: Current CRM System
+      hint: What CRM do you use now
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customization_need
+      label: Primary Customization Need
+      hint: What needs to be customized
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customization_details
+      label: Detailed Description of Requirements
+      hint: Specific features or functionality needed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customization_scope
+      label: Scope of Customization
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Custom fields
+      - Workflow automation
+      - Integration with existing systems
+      - Reporting and analytics
+      - User interface changes
+      - Mobile app development
+      - API development
+      - Other
+      required: true
+    - id: 12
+      name: must_have_features
+      label: Must-Have Features
+      hint: Essential requirements
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: nice_to_have_features
+      label: Nice-to-Have Features
+      hint: Optional enhancements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: integration_requirements
+      label: System Integration Requirements
+      hint: Systems that need to connect
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline
+      label: Desired Implementation Timeline
+      hint: When do you need this completed
+      type: select_one
+      options:
+      - ASAP
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Flexible
+      required: true
+    - id: 16
+      name: budget
+      label: Budget Range
+      hint: Estimated budget for project
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-10000
+      - 10000-25000
+      - 25000-50000
+      - Over 50000
+      - Not decided
+      required: true
+    - id: 17
+      name: number_users
+      label: Number of CRM Users
+      hint: How many people will use it
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: current_pain_points
+      label: Current Pain Points
+      hint: What problems need solving
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: business_impact
+      label: Expected Business Impact
+      hint: How will this benefit your business
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

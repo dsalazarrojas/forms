@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: invoice_upload_form
+    pages:
+    - id: 1
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_description
+      label: Upload Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upload_file_type
+      label: File Type
+      hint: Select the file type
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Invoice'', ''value'': ''invoice''}'
+      - '{''id'': 2, ''label'': ''Estimate'', ''value'': ''estimate''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: upload_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: upload_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: upload_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_file_name
+      label: File Name
+      hint: Enter the name of your file
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      required: false
+    - id: 9
+      name: upload_user
+      label: Upload User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      required: false
+    - id: 10
+      name: upload_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: upload_phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: upload_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: upload_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: upload_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: upload_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_file_size
+      label: File Size
+      hint: Select the file size
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1 MB'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''5 MB'', ''value'': 5}'
+      - '{''id'': 3, ''label'': ''10 MB'', ''value'': 10}'
+      - '{''id'': 4, ''label'': ''50 MB'', ''value'': 50}'
+      required: false
+    - id: 17
+      name: upload_file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''PDF'', ''value'': ''pdf''}'
+      - '{''id'': 2, ''label'': ''CSV'', ''value'': ''csv''}'
+      - '{''id'': 3, ''label'': ''Image'', ''value'': ''image''}'
+      required: false
+    - id: 18
+      name: uploaded_by_name
+      label: Uploaded By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: uploaded_user
+      label: Uploaded User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      required: false
+    - id: 20
+      name: uploaded_user_email
+      label: Uploaded User Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_notes
+      label: Upload Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_user_phone
+      label: Uploaded User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_user_notes
+      label: Uploaded User Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_user_comments
+      label: Uploaded User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: uploaded_user
+      label: Upload User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      required: false

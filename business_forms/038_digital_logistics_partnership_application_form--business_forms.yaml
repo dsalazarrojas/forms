@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Logistics Partnership Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: services
+      hint: Select all services you wish to offer
+      type: select_multiple
+      options:
+      - Amazon
+      - Google Cloud
+      - Azure
+      - Other
+      required: false
+    - id: 3
+      name: regions
+      label: regions
+      hint: Please enter the regions you have experience with
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: experience
+      hint: What regions does your company have experience in?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: documents
+      label: documents
+      hint: Attach any relevant documents or files
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: Your email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

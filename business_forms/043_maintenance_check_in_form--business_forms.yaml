@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Check In Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Waiting
+      required: false
+    - id: 7
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: actual_start_time
+      label: actual_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: actual_finish_time
+      label: actual_finish_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: actual_finish_date
+      label: actual_finish_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

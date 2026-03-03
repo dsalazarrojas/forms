@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Forecast Submission Application Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: submission_entity
+      label: Submission Entity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: entity_id
+      label: Entity ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department_id
+      label: Department ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Inflow''}'
+      - '{''id'': 2, ''label'': ''Outflow''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 7
+      name: cash_inflow
+      label: Cash Inflow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cash_outflow
+      label: Cash Outflow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Draft''}'
+      - '{''id'': 2, ''label'': ''Submitted''}'
+      - '{''id'': 3, ''label'': ''Approved''}'
+      - '{''id'': 4, ''label'': ''Rejected''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

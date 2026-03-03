@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Operations Support Contact Form
+    pages:
+    - id: 1
+      name: factory_issues
+      label: Factory Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_requests
+      label: Support Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_category
+      label: Category
+      hint: Select category of issue
+      type: select_multiple
+      options:
+      - Operations
+      - Production
+      - Maintenance
+      - Quality Control
+      - Other
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: true
+    - id: 9
+      name: issue_date
+      label: Issue Date
+      hint: Date of issue occurrence
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: issue_time
+      label: Issue Time
+      hint: Time of issue occurrence
+      type: time
+      options: []
+      required: false

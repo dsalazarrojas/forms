@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Benefit Analysis Audit Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - Cost Benefit Analysis
+      - Cost Analysis
+      - Benefit Analysis
+      required: false
+    - id: 3
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: benefit
+      label: Benefit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_impact
+      label: Business Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cost_frequency
+      label: Cost Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - None
+      required: false
+    - id: 9
+      name: cost_category
+      label: Cost Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financial_impact
+      label: Financial Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: cost_level
+      label: Cost Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: financial_impact
+      label: Financial Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: benefit_level
+      label: Benefit Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: project_phase
+      label: Project Phase
+      hint: null
+      type: select_one
+      options:
+      - Planning
+      - Active
+      - Completed
+      required: false

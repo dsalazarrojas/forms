@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Chain Funding Program Application Form
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_business
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: Type of Business
+      hint: null
+      type: select_one
+      options:
+      - Pharmaceutical
+      - Food and Beverage
+      - Logistics
+      - Healthcare
+      - Agriculture
+      - Other
+      required: true
+    - id: 9
+      name: years_operation
+      label: Years in Operation
+      hint: How long has your business been operating
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: employees
+      label: Number of Employees
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_cold_chain
+      label: -- Cold Chain Operation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cold_chain_scope
+      label: Scope of Cold Chain Operations
+      hint: Describe your cold chain activities
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_infrastructure
+      label: Current Cold Chain Infrastructure
+      hint: Description of existing equipment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: challenges
+      label: Current Cold Chain Challenges
+      hint: What issues are you facing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_funding
+      label: -- Funding Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: requested_amount
+      label: Funding Amount Requested
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: funding_purpose
+      label: Purpose of Funding
+      hint: What will the funds be used for
+      type: select_one
+      options:
+      - Equipment purchase
+      - Infrastructure upgrade
+      - Technology implementation
+      - Training and capacity building
+      - Maintenance and repairs
+      - Other
+      required: true
+    - id: 18
+      name: funding_details
+      label: Detailed Use of Funds
+      hint: Break down how funds will be allocated
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_impact
+      label: -- Expected Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: expected_benefits
+      label: Expected Benefits of Funding
+      hint: How will this improve your operations
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: efficiency_improvement
+      label: Projected Efficiency Improvement
+      hint: Estimate percentage improvement
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cost_reduction
+      label: Projected Cost Reduction
+      hint: Estimated annual savings
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_timeline
+      label: -- Implementation Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: milestones
+      label: Key Project Milestones
+      hint: Important dates and deliverables
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: section_support
+      label: -- Supporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: financial_statements
+      label: Recent Financial Statements Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: additional_documentation
+      label: Additional Supporting Documentation
+      hint: Any relevant documents or certifications
+      type: text
+      options: []
+      required: false

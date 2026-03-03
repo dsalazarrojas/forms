@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Growth Consulting Partnership Contact Form
+    pages:
+    - id: 1
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your business or consulting firm
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-5
+      - 6-20
+      - 21-50
+      - 51-100
+      - 100+
+      required: false
+    - id: 9
+      name: services_offered
+      label: Services Offered
+      hint: What consulting services do you provide?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expertise_section
+      label: -- Expertise and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: years_of_experience
+      label: Years in Business Consulting
+      hint: How long have you been consulting?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: key_expertise
+      label: Key Areas of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategy and Planning
+      - Growth and Scaling
+      - Operations
+      - Financial Management
+      - Marketing and Sales
+      - Technology and Innovation
+      - Leadership Development
+      required: true
+    - id: 13
+      name: industries_served
+      label: Industries Served
+      hint: Which industries do you work with?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_size_focus
+      label: Target Business Size
+      hint: What size clients do you work with?
+      type: select_one
+      options:
+      - Startups
+      - Small Businesses
+      - Mid-sized Companies
+      - All sizes
+      required: false
+    - id: 15
+      name: partnership_section
+      label: -- Partnership Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: What kind of partnership interests you?
+      type: select_one
+      options:
+      - Referral Partnership
+      - Joint Ventures
+      - Subcontracting
+      - Affiliate Partnership
+      - Strategic Alliance
+      - Co-Consulting
+      required: true
+    - id: 17
+      name: partnership_benefits
+      label: Expected Partnership Benefits
+      hint: What do you hope to gain?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_overlap
+      label: Potential Client Overlap
+      hint: Do you have similar target clients?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_complement
+      label: Service Complementarity
+      hint: How do your services complement ours?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approach_section
+      label: -- Approach and Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: methodology
+      label: Consulting Methodology
+      hint: How do you approach consulting?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: key_values
+      label: Key Business Values
+      hint: What values drive your business?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: success_cases
+      label: Recent Success Cases
+      hint: Share examples of successful engagements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_steps_section
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: contact_frequency
+      label: Preferred Contact Frequency
+      hint: How should we stay in touch?
+      type: select_one
+      options:
+      - Monthly check-in
+      - Quarterly updates
+      - As needed
+      - Annual review
+      required: false

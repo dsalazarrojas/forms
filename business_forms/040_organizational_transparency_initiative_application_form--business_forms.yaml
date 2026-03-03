@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Transparency Initiative Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_selection
+      label: Select Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: application_review
+      label: Application Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note_field
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

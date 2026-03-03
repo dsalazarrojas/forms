@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Western Plus Abbey Inn Employment Application
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_entry
+      label: Social Security Number
+      hint: For background check purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob_entry
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: residential_address
+      label: Current Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: position_availability_header
+      label: -- Position and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: desired_position_choice
+      label: Position Applied For
+      hint: Select the primary role of interest
+      type: select_one
+      options:
+      - Front Desk Guest Services
+      - Housekeeping and Laundry
+      - Maintenance and Facilities
+      - Kitchen and Breakfast Service
+      - Hotel Management
+      - Other
+      required: true
+    - id: 10
+      name: shift_preference
+      label: Preferred Shift
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning (6 AM - 2 PM)
+      - Afternoon (2 PM - 10 PM)
+      - Night (10 PM - 6 AM)
+      - Weekends only
+      required: true
+    - id: 11
+      name: expected_pay_rate
+      label: Expected Hourly Rate
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: start_date_availability
+      label: Date Available to Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: education_skills_header
+      label: -- Education and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: highest_education_attained
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma or GED
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      - Vocational or Trade School
+      required: true
+    - id: 15
+      name: relevant_skills_desc
+      label: Relevant Skills or Certifications
+      hint: List any experience that makes you a good fit for this role
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment_history_header
+      label: -- Previous Employment --
+      hint: Please list your most recent employer
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: prev_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: prev_position_title
+      label: Position Held
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: employment_duration
+      label: Employment Duration
+      hint: Start and end dates or total months/years
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references_header
+      label: -- Professional References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: ref_full_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: ref_contact_info
+      label: Reference Contact Info
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: certification_header
+      label: -- Applicant Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: accuracy_certification
+      label: I certify that all information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - Yes - I certify
+      - false
+      required: true
+    - id: 26
+      name: electronic_signature
+      label: Signature and Full Name Confirmation
+      hint: Typing your name acts as a legal signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: application_date_stamp
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

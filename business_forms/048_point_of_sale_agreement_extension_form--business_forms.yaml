@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Point Of Sale Agreement Extension Form
+    pages:
+    - id: 1
+      name: business_details
+      label: business_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: extension_terms
+      label: extension_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_one
+      options:
+      - Agreement
+      - Non-agreement
+      required: false
+    - id: 4
+      name: agreement_start_date
+      label: agreement_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agreement_end_date
+      label: agreement_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agreement_term
+      label: agreement_term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Payment term 1
+      - Payment term 2
+      - Payment term 3
+      required: false
+    - id: 9
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Check
+      required: false
+    - id: 12
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: client_contact
+      label: client_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: business_contact
+      label: business_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: business_notes
+      label: business_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially paid
+      required: false
+    - id: 23
+      name: extension_type
+      label: extension_type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Special
+      - Urgent
+      required: false
+    - id: 24
+      name: contract_terms
+      label: contract_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Term 1
+      - Term 2
+      - Term 3
+      required: false
+    - id: 25
+      name: terms_of_service
+      label: terms_of_service
+      hint: null
+      type: text
+      options: []
+      required: false

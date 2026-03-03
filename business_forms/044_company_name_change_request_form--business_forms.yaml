@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Name Change Request Form
+    pages:
+      - id: 1
+        name: current_company_name
+        label: Current company name
+        hint: Legal registered name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requested_new_name
+        label: Requested new company name
+        hint: New legal name proposed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reason_for_change
+        label: Reason for name change
+        hint: Brief explanation of rationale
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: authorization_contact
+        label: Authorization contact name
+        hint: Person approving the change
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: effective_date
+        label: Desired effective date
+        hint: When the change should take effect
+        type: date
+        options: []
+        required: false

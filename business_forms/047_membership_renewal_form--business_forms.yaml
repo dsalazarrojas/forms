@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Renewal Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_number
+      label: membership number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: renewal_date
+      label: renewal date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: renewal_year
+      label: renewal year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: membership_status
+      label: membership status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 12
+      name: created_by
+      label: created by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 13
+      name: updated_by
+      label: updated by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 14
+      name: updated_date
+      label: updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: date
+      options: []
+      required: false

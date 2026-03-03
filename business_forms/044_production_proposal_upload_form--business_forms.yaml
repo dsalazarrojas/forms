@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Proposal Upload Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: Second Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: proposal_details
+      label: Proposal Details
+      hint: null
+      type: select_multiple
+      options:
+      - Production
+      - Development
+      - Preproduction
+      - Postproduction
+      required: false
+    - id: 4
+      name: proposal_files
+      label: Proposal Files
+      hint: Upload proposal files here
+      type: select_multiple
+      options:
+      - file1
+      - file2
+      - file3
+      required: false
+    - id: 5
+      name: production_details
+      label: Production Details
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: production_schedule
+      label: Production Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: production_duration
+      label: Production Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      required: false
+    - id: 9
+      name: proposal_status
+      label: Proposal Status
+      hint: null
+      type: select_one
+      options:
+      - In Review
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 10
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: proposal_files_review
+      label: Files Reviewed
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Overdue
+      - Not Started
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creator Payment Setup Questionnaire
+    pages:
+    - id: 1
+      name: creator_type
+      label: Creator Type
+      hint: null
+      type: select_one
+      options:
+      - Creator Type
+      - Platform
+      - Aggregator
+      required: false
+    - id: 2
+      name: creator_name
+      label: creator_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: creator_email
+      label: creator_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: creator_phone
+      label: creator_phone
+      hint: Please enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_status
+      label: onboarding_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 6
+      name: payout_frequency
+      label: payout_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Operation License Renewal Application Form
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: license_num
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: license_renewal_date
+      label: License Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Plant
+      - Business
+      - Other
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

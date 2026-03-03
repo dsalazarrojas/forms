@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damage Claim Form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_damage
+      label: Date Of Damage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_damage
+      label: Time Of Damage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: select_multiple
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: false
+    - id: 9
+      name: witness_names
+      label: Witness Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_contacts
+      label: Witness Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_relationships
+      label: Witness Relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_availability
+      label: Witness Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: claimant_details
+      label: Claimant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - Contact Type 1
+      - Contact Type 2
+      - Contact Type 3
+      required: false
+    - id: 17
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claimant_relationships
+      label: Claimant Relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claimant_availability
+      label: Claimant Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: claimant_inquiries
+      label: Claimant Inquiries
+      hint: null
+      type: select_one
+      options:
+      - Inquiry 1
+      - Inquiry 2
+      - Inquiry 3
+      required: false
+    - id: 22
+      name: claimant_comments
+      label: Claimant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claimant_statement
+      label: Claimant Statement
+      hint: null
+      type: text
+      options: []
+      required: false

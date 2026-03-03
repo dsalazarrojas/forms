@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Communication Form
+    pages:
+      - id: 1
+        name: comms_intro_header
+        label: -- Resolution Communication Update --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: case_reference_id_comm
+        label: Complaint Case ID
+        hint: Unique identifier for the case
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_name_comm
+        label: Customer Name
+        hint: Person receiving this communication
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: communication_type_comm
+        label: Type of Communication
+        hint: Purpose of this update
+        type: select_one
+        options:
+          - Status Update (No action required)
+          - Request for Additional Information
+          - Final Resolution Offer
+          - Apology and Acknowledgment
+        required: true
+      - id: 5
+        name: communication_message_body
+        label: Message Content
+        hint: Detailed message for the customer
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: next_steps_for_customer_text
+        label: Next Steps for the Customer
+        hint: What do you need them to do?
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: expected_timeframe_resolution
+        label: Expected Timeframe for Final Resolution
+        hint: e.g., 48 hours, 5 business days
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: communication_quality_feedback_ask
+        label: Rate the clarity of this communication
+        hint: To improve our service
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Confusing
+        required: false
+      - id: 9
+        name: preferred_future_contact_method
+        label: How would you like to receive future updates on this case?
+        hint: Best contact method
+        type: select_one
+        options:
+          - Email
+          - Phone Call
+          - SMS / Text
+          - No further updates needed
+        required: true
+      - id: 10
+        name: rep_name_communicating
+        label: Representative Name
+        hint: Staff member sending this message
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: communication_timestamp_date
+        label: Date of Communication
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: internal_copy_notification
+        label: Internal Copy - This communication has been logged in the CRM.
+        hint: Process confirmation
+        type: note
+        options: []
+        required: false

@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Valuation Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: valuation_date
+      label: Valuation Date
+      hint: Date of this valuation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: valuation_purpose
+      label: Purpose of Valuation
+      hint: Why is this valuation needed
+      type: select_one
+      options:
+      - Financing
+      - Acquisition
+      - Sale Planning
+      - Litigation
+      - Partnership Dissolution
+      - Insurance
+      - Tax Assessment
+      - Other
+      required: true
+    - id: 4
+      name: business_owner
+      label: Business Owner or Contact
+      hint: Full name of owner
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Type of Business
+      hint: Business sector or industry
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long the business has existed
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current workforce size
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Most recent annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: annual_expenses
+      label: Annual Operating Expenses
+      hint: Total annual expenses
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: net_income
+      label: Annual Net Income
+      hint: Profit after expenses
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_assets
+      label: Total Assets
+      hint: Value of all assets
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_liabilities
+      label: Total Liabilities
+      hint: Total debts and obligations
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: equity_value
+      label: Owner Equity
+      hint: Assets minus liabilities
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_base
+      label: Number of Active Customers
+      hint: How many customers served
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: market_position
+      label: Market Position
+      hint: Competitive standing
+      type: select_one
+      options:
+      - Market Leader
+      - Strong Competitor
+      - Established Player
+      - Emerging Business
+      - Niche Player
+      required: true
+    - id: 18
+      name: growth_rate
+      label: Average Annual Growth Rate
+      hint: Percentage growth over past 3 years
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: key_risks
+      label: Key Business Risks
+      hint: Main risks facing the business
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: valuation_notes
+      label: Additional Notes
+      hint: Any relevant information for valuation
+      type: text
+      options: []
+      required: false

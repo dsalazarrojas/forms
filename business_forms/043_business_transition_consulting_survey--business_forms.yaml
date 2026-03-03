@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Transition Consulting Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Full Name
+      hint: Name of respondent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Organization
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: transition_type
+      label: Type of Transition Planned
+      hint: What kind of transition
+      type: select_one
+      options:
+      - Ownership Change
+      - Leadership Succession
+      - Merger or Acquisition
+      - Management Transition
+      - Organizational Restructuring
+      - Other
+      required: true
+    - id: 6
+      name: transition_timeline
+      label: Transition Timeline
+      hint: When will the transition occur
+      type: select_one
+      options:
+      - Within 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      - Not Yet Decided
+      required: true
+    - id: 7
+      name: readiness_overall
+      label: Overall Organizational Readiness
+      hint: How ready is the organization
+      type: select_one
+      options:
+      - Fully Ready
+      - Well Prepared
+      - Adequately Prepared
+      - Needs Work
+      - Not Ready
+      required: true
+    - id: 8
+      name: leadership_continuity
+      label: Leadership Continuity Plan
+      hint: Do you have a leadership plan
+      type: select_one
+      options:
+      - Well Developed
+      - In Development
+      - Preliminary Ideas
+      - Not Started
+      - No Plan
+      required: true
+    - id: 9
+      name: knowledge_transfer
+      label: Knowledge Transfer Readiness
+      hint: Can knowledge be transferred
+      type: select_one
+      options:
+      - Excellent Plan
+      - Good Plan
+      - Some Planning
+      - Minimal Planning
+      - No Plan
+      required: true
+    - id: 10
+      name: employee_retention
+      label: Employee Retention Concerns
+      hint: Risk of losing key staff
+      type: select_one
+      options:
+      - No Concerns
+      - Minor Concerns
+      - Moderate Concerns
+      - Significant Concerns
+      - Critical Concerns
+      required: true
+    - id: 11
+      name: stakeholder_communication
+      label: Stakeholder Communication Strategy
+      hint: How will you communicate change
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cultural_fit
+      label: Cultural Continuity Concerns
+      hint: Will culture be preserved
+      type: select_one
+      options:
+      - No Concerns
+      - Minor Concerns
+      - Moderate Concerns
+      - Significant Concerns
+      - Critical Concerns
+      required: true
+    - id: 13
+      name: financial_impact
+      label: Anticipated Financial Impact
+      hint: Expected financial effects
+      type: select_one
+      options:
+      - Positive Impact
+      - Neutral Impact
+      - Minor Negative Impact
+      - Significant Impact
+      - Unknown
+      required: true
+    - id: 14
+      name: customer_impact
+      label: Customer Impact Concerns
+      hint: Will customers be affected
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: regulatory_compliance
+      label: Regulatory and Compliance Issues
+      hint: Any regulatory concerns
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: key_risks
+      label: Key Risks Identified
+      hint: What are the main risks
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: support_needs
+      label: Support or Consulting Needs
+      hint: What help do you need
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: budget_available
+      label: Budget Available for Transition
+      hint: Funds available for the transition
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: additional_concerns
+      label: Additional Concerns or Comments
+      hint: Any other issues
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Insurance Information Form
+    pages:
+    - id: 1
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_value
+      label: Home Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Condo
+      required: false
+    - id: 11
+      name: home_insurance_provider
+      label: Home Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - State Farm
+      - Allstate
+      - Geico
+      required: false
+    - id: 12
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Cancelled
+      - Inactive
+      required: false
+    - id: 15
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false

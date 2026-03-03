@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Tax Client Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: (123) 456-7890
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: social_security_number
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Employed
+      - Self Employed
+      - Retired
+      required: true
+    - id: 9
+      name: tax_return_status
+      label: Tax Return Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Not Started
+      - Completed
+      - Pending Review
+      required: true
+    - id: 10
+      name: income_sources
+      label: Income Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wages
+      - Business
+      - Investments
+      - Interest
+      - Rental Income
+      required: true
+    - id: 11
+      name: income_details
+      label: Income Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_year
+      label: Tax Year
+      hint: 2022
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_income
+      label: Total Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: dependents
+      label: Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tax_return_filing_status
+      label: Tax Return Filing Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Head of Household
+      - Joint
+      required: true
+    - id: 16
+      name: dependents_age
+      label: Age of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: dependents_income
+      label: Dependents Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: dependents_tax_return_filing_status
+      label: Dependent's Tax Return Filing Status
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Not Started
+      - Completed
+      - Pending Review
+      required: true
+    - id: 19
+      name: additional_income
+      label: Additional Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: additional_income_frequency
+      label: Additional Income Frequency
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 21
+      name: additional_income_amount
+      label: Additional Income Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: employment_status_change
+      label: Employment Status Change
+      hint: Select one of the following
+      type: select_one
+      options:
+      - No Change
+      - Started Working
+      - Stopped Working
+      - Changed to Part Time
+      required: true
+    - id: 23
+      name: employment_status_start_date
+      label: Employment Status Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: employment_status_end_date
+      label: Employment Status End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: employment_status_change_reason
+      label: Employment Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false

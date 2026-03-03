@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Lounge Inspection Form
+    pages:
+    - id: 1
+      name: customer_lounge_inspection_form
+      label: Customer Lounge Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleanliness_score
+      label: Cleanliness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comfort_score
+      label: Comfort Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: inspected_by
+      label: Inspected By
+      hint: null
+      type: text
+      options: []
+      required: false

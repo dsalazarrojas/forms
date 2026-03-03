@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Quotation Form
+    pages:
+    - id: 1
+      name: business_id
+      label: Business Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: supplier
+      label: supplier
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: unit price
+      hint: null
+      type: number
+      options: []
+      required: false

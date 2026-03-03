@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Vetting Initiative Registration Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vender Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_category
+      label: Business Category
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Construction
+      - Retail
+      - Service
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vetting_requestor
+      label: Vetting Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: business_since
+      label: Business Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: business_status
+      label: Business Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: vetting_date
+      label: Vetting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: vetting_type
+      label: Vetting Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vetting_requestor_phone
+      label: Vetting Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vetting_requestor_email
+      label: Vetting Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: vetting_requestor_business_name
+      label: Vetting Requestor Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vetting_requestor_business_description
+      label: Vetting Requestor Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vetting_requestor_business_category
+      label: Vetting Requestor Business Category
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Construction
+      - Retail
+      - Service
+      required: false
+    - id: 21
+      name: vetting_requestor_location
+      label: Vetting Requestor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vetting_requestor_requesting_vetting
+      label: Vetting Requestor Requesting Vetting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: business_country
+      label: Business Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: business_state
+      label: Business State
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: cybersecurity-threat-mitigation-assessment-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: threat_description
+      label: Threat Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mitigation_strategy
+      label: Mitigation Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_measures
+      label: Security Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: security_controls
+      label: Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - Firewalls
+      - Vulnerability Scanning
+      - Incident Response
+      required: false
+    - id: 10
+      name: vulnerability_score
+      label: Vulnerability Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_step
+      label: Next Step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Auditor
+      - Security Officer
+      required: false

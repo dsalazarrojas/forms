@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: executive_development_advisor_contact_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Client name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Client email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Client phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_inquired
+      label: Service Inquired
+      hint: Service inquired by the client
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: Preferred contact method
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 6
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: Best time to contact the client
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: additional_information
+      label: Additional Information
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_agent
+      label: Assigned Agent
+      hint: Assigned agent
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: false

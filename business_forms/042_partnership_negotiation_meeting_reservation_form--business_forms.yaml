@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partnership Negotiation Meeting Reservation Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: partner_name
+      label: Partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: meeting_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: meeting_purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meeting_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: meeting_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

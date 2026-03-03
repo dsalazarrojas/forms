@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adhesion Agreement Form
+    pages:
+    - id: 1
+      name: agreement_intro
+      label: -- Contract of Adhesion --
+      hint: Standard terms and conditions for our services. Please review and accept.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client / Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_entity
+      label: Company / Organization (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_description_header
+      label: -- Service Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: service_plan_selected
+      label: Selected Service Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic Tier
+      - Professional Tier
+      - Enterprise Solution
+      - Custom Project
+      required: true
+    - id: 6
+      name: estimated_commencement
+      label: Proposed Commencement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: standard_terms_summary
+      label: -- Summary of Key Terms --
+      hint: 1. Payment is due within 15 days of invoice. 2. Services are provided
+        'as is'. 3. Liability is limited to the total contract value. 4. Disputes
+        will be settled via arbitration.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: terms_acceptance_ack
+      label: I have read and I accept the Standard Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Accept All Terms
+      - Other
+      required: true
+    - id: 9
+      name: data_processing_ack
+      label: I agree to the Data Processing and Privacy Addendum
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 10
+      name: right_to_cancel_ack
+      label: I understand the 7-day initial cooling-off period and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 11
+      name: contact_email_official
+      label: Official Contact Email for Notifications
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: billing_address_full
+      label: Full Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tax_identification
+      label: Tax ID / VAT Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: execution_authority_ack
+      label: I certify that I have the legal authority to enter into this agreement
+      hint: null
+      type: select_one
+      options:
+      - I Certify and Agree
+      - Other
+      required: true
+    - id: 15
+      name: execution_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

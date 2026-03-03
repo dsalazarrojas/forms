@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Load Tracking Form
+    pages:
+    - id: 1
+      name: load_tracking_form
+      label: Load Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipment_id
+      label: shipment_id
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      - '11111'
+      - '99999'
+      required: false
+    - id: 3
+      name: truck_id
+      label: truck_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

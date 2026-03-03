@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: trade_show_checklist_form
+    pages:
+    - id: 1
+      name: general_preparations
+      label: General Preparations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: booth_materials
+      label: Booth Materials
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 3
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: staff_details
+      label: Staff Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''CEO'', ''value'': ''ceo''}'
+      - '{''label'': ''Sales Team'', ''value'': ''sales_team''}'
+      - '{''label'': ''Support Team'', ''value'': ''support_team''}'
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 6
+      name: schedule
+      label: Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tasks
+      label: Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Confirm Booth Layout'', ''value'': ''confirm_booth_layout''}'
+      - '{''label'': ''Confirm Booth Materials'', ''value'': ''confirm_booth_materials''}'
+      - '{''label'': ''Confirm Catering'', ''value'': ''confirm_catering''}'
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: date
+      options: []
+      required: false

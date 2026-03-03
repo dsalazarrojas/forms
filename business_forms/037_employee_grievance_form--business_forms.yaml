@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Grievance Form
+    pages:
+    - id: 1
+      name: employee_grievance_form_page_1
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''John Doe''}'
+      - '{''name'': ''Jane Doe''}'
+      required: true
+    - id: 2
+      name: grievance_type
+      label: grievance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Issue with manager''}'
+      - '{''name'': ''Issue with team''}'
+      - '{''name'': ''Issue with work environment''}'
+      required: true
+    - id: 3
+      name: description
+      label: description_of_grievance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_grievance
+      label: date_of_grievance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: details
+      label: details_of_grievance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''email''}'
+      - '{''name'': ''phone''}'
+      - '{''name'': ''address''}'
+      required: true
+    - id: 7
+      name: attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''manager''}'
+      - '{''name'': ''team_leader''}'
+      - '{''name'': ''support_staff''}'
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

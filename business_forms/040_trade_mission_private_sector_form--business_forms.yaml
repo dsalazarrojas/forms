@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Mission Private Sector Form
+    pages:
+    - id: 1
+      name: trade_mission_private_sector_form_1
+      label: What is your Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturer
+      - Exporters
+      - Service Providers
+      - Consultants
+      required: false
+    - id: 3
+      name: mission_type
+      label: mission_type
+      hint: null
+      type: select_one
+      options:
+      - Market Research
+      - Partnership
+      - Market Entry
+      required: false
+    - id: 4
+      name: trade_mission_private_sector_form_4
+      label: What is the duration of the mission?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trade_mission_private_sector_form_5
+      label: What is the start date of the mission?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trade_mission_private_sector_form_9
+      label: What is your company size?
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Unknown
+      required: false
+    - id: 10
+      name: trade_mission_private_sector_form_10
+      label: What is the company type?
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturer
+      - Exporters
+      - Service Providers
+      - Consultants
+      required: false
+    - id: 11
+      name: trade_mission_private_sector_form_11
+      label: What is the number of employees?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trade_mission_private_sector_form_12
+      label: What is your annual turnover?
+      hint: null
+      type: select_one
+      options:
+      - Less than 10 million
+      - Between 10 million - 50 million
+      - Between 50 million - 100 million
+      - More than 100 million
+      required: false

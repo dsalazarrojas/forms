@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_access_control_form
+    pages:
+    - id: 1
+      name: user_request
+      label: user_request
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_areas
+      label: access_areas
+      hint: null
+      type: select_multiple
+      options:
+      - '[ "Security Area 1"'
+      - '"Security Area 2"'
+      - '"Security Area 3" ]'
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - '[ "Low"'
+      - '"Medium"'
+      - '"High" ]'
+      required: false
+    - id: 6
+      name: access_duration
+      label: access_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '[ "chatjimmy" ]'
+      - Other
+      required: false
+    - id: 12
+      name: access_status
+      label: access_status
+      hint: null
+      type: select_multiple
+      options:
+      - '[ "Pending"'
+      - '"Approved"'
+      - '"Denied" ]'
+      required: false
+    - id: 13
+      name: access_type
+      label: access_type
+      hint: null
+      type: select_multiple
+      options:
+      - '[ "Physical"'
+      - '"Digital"'
+      - '"Other" ]'
+      required: false

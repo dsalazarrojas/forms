@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Report Form
+    pages:
+    - id: 1
+      name: report_title
+      label: Report Title
+      hint: Title of the audit report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_number
+      label: Report Number
+      hint: Unique report reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report issuance
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: prepared_by
+      label: Prepared By
+      hint: Name of report preparer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prepared_by_title
+      label: Prepared By Title
+      hint: Title of report preparer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: audited_entity
+      label: Audited Entity
+      hint: Name of entity or department audited
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_period_start
+      label: Audit Period Start
+      hint: Start date of audit period
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: audit_period_end
+      label: Audit Period End
+      hint: End date of audit period
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: audit_type
+      label: Audit Type
+      hint: Type of audit conducted
+      type: select_one
+      options:
+      - Financial Audit
+      - Internal Audit
+      - Compliance Audit
+      - IT Audit
+      - Operational Audit
+      - Performance Audit
+      - Investigative Audit
+      required: true
+    - id: 10
+      name: audit_objectives
+      label: Audit Objectives
+      hint: Main objectives of the audit
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: audit_scope
+      label: Audit Scope
+      hint: Scope of the audit
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: audit_methodology
+      label: Audit Methodology
+      hint: Methodology used in the audit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: executive_summary
+      label: Executive Summary
+      hint: Brief executive summary
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: overall_opinion
+      label: Overall Opinion
+      hint: Overall audit opinion
+      type: select_one
+      options:
+      - Unqualified
+      - Qualified
+      - Adverse
+      - Disclaimer of Opinion
+      required: true
+    - id: 15
+      name: key_findings
+      label: Key Findings
+      hint: Summary of key findings
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: findings_count
+      label: Findings Count
+      hint: Total number of findings
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: high_risk_findings
+      label: High Risk Findings
+      hint: Number of high risk findings
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: recommendations_summary
+      label: Recommendations Summary
+      hint: Summary of recommendations
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: management_response
+      label: Management Response
+      hint: Summary of management response
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_plan_deadline
+      label: Action Plan Deadline
+      hint: Deadline for management action plan
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: Scheduled follow-up date
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: distribution_list
+      label: Distribution List
+      hint: Who will receive this report?
+      type: select_multiple
+      options:
+      - Board of Directors
+      - Audit Committee
+      - Senior Management
+      - Department Heads
+      - External Auditors
+      - Regulators
+      required: true
+    - id: 23
+      name: report_classification
+      label: Report Classification
+      hint: Classification of this report
+      type: select_one
+      options:
+      - Public
+      - Internal Use Only
+      - Confidential
+      - Restricted
+      required: true
+    - id: 24
+      name: approved_by
+      label: Approved By
+      hint: Name of report approver
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approval_signature
+      label: Approval Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true

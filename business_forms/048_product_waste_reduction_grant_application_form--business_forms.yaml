@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Waste Reduction Grant Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_proposal
+      label: project_proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: documents
+      label: documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grant_amount
+      label: grant_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_duration
+      label: project_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: grant_agency
+      label: grant_agency
+      hint: null
+      type: select_one
+      options:
+      - Waste Management
+      - Environmental Protection
+      - Public Works
+      - Community Development
+      required: false
+    - id: 12
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: project_category
+      label: project_category
+      hint: null
+      type: select_multiple
+      options:
+      - Energy
+      - Waste
+      - Water
+      - Landfill
+      required: false

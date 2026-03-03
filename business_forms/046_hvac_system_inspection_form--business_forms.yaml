@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hvac_system_inspection_form
+    pages:
+    - id: 1
+      name: system_info
+      label: System
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Residential''}'
+      - '{''id'': 2, ''value'': ''Commercial''}'
+      - '{''id'': 3, ''value'': ''Industrial''}'
+      required: false
+    - id: 4
+      name: date_installed
+      label: Date Installed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: installation_contractor
+      label: Installation Contractor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Functional''}'
+      - '{''id'': 2, ''value'': ''Non-Functional''}'
+      - '{''id'': 3, ''value'': ''Not Present''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

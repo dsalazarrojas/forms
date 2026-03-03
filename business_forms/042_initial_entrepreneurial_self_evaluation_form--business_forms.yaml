@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Entrepreneurial Self Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe your form here.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category
+      label: Form Category
+      hint: Select a form category for this form.
+      type: select_one
+      options:
+      - Business Forms
+      - Personal Finance
+      - Education
+      - Other Forms
+      required: false
+    - id: 5
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: Enter your form's unique ID.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_created
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: user
+      label: User
+      hint: Select the user.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select the tool.
+      type: select_one
+      options:
+      - chatjimmy
+      - Other Tool
+      required: false
+    - id: 11
+      name: form_status
+      label: Status
+      hint: Select the form status.
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Unpublished
+      required: false
+    - id: 12
+      name: form_status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false

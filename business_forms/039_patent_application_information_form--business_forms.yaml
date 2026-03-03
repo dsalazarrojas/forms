@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patent Application Information Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventor_name
+      label: Inventor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: applicant_address
+      label: Applicant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: invention_name
+      label: Invention Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_publication
+      label: Date of Publication
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: patent_number
+      label: Patent Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: citizenship_status
+      label: Citizenship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: filing_date
+      label: Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: patent_office
+      label: Patent Office
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_housekeeping_checklist
+    pages:
+    - id: 1
+      name: general_cleanliness
+      label: General Cleanliness
+      hint: Maintain a clean workspace
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: waste_disposal
+      label: Waste Disposal
+      hint: null
+      type: select_one
+      options:
+      - Trash Bins
+      - Recycling Bins
+      - Hazardous Waste
+      required: false
+    - id: 3
+      name: chemical_storage
+      label: Chemical Storage
+      hint: null
+      type: select_multiple
+      options:
+      - Chemical A
+      - Chemical B
+      - Chemical C
+      required: false
+    - id: 4
+      name: bathroom_cleanliness
+      label: Bathroom Cleanliness
+      hint: Clean the bathroom regularly
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: floor_cleanliness
+      label: Floor Cleanliness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: water_quality
+      label: Water Quality
+      hint: Test water quality regularly
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: air_quality
+      label: Air Quality
+      hint: Monitor air quality regularly
+      type: number
+      options: []
+      required: false

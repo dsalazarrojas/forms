@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Design Service Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Logo Design''}'
+      - '{''id'': 2, ''value'': ''Web Design''}'
+      - '{''id'': 3, ''value'': ''Print Design''}'
+      required: true
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''30000-50000''}'
+      - '{''id'': 2, ''value'': ''50000-100000''}'
+      - '{''id'': 3, ''value'': ''100000-500000''}'
+      required: true
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Logo Design''}'
+      - '{''id'': 2, ''value'': ''Web Design''}'
+      - '{''id'': 3, ''value'': ''Print Design''}'
+      required: true
+    - id: 6
+      name: custom_requests
+      label: Custom Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_newsletter
+      label: Subscribe to Newsletter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Subscribe''}'
+      - '{''id'': 2, ''value'': ''Unsubscribe''}'
+      required: false

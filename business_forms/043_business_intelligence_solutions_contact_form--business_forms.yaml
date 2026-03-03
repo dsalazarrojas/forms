@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Intelligence Solutions Contact Form
+    pages:
+      - id: 1
+        name: section_bi_prospect_identity
+        label: -- Contact Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: prospect_full_name_bi
+        label: Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: prospect_professional_title_bi
+        label: Professional Title
+        hint: e.g. Data Analyst, IT Manager, Director of Operations
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: prospect_company_name_bi
+        label: Company
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_bi_project_requirements
+        label: -- Project Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: current_bi_solution_in_use_choice
+        label: Current BI Solution in Use
+        hint: null
+        type: select_one
+        options:
+          - None / Spreadsheets only
+          - Legacy System (on-premise)
+          - Modern SaaS Tool (e.g. Power BI, Tableau)
+          - Looking to switch / upgrade
+        required: true
+      - id: 7
+        name: data_integration_interest_choice
+        label: Data Integration Interest
+        hint: How much focus is on data consolidation
+        type: select_one
+        options:
+          - High (Need complete data warehouse setup)
+          - Moderate (Need to connect 3-5 sources)
+          - Low (Single source visualization only)
+        required: true
+      - id: 8
+        name: estimated_data_volume_category
+        label: Data Volume
+        hint: Estimated size of total dataset for analysis
+        type: select_one
+        options:
+          - Small (Under 100GB)
+          - Medium (100GB - 1TB)
+          - Large (1TB - 10TB)
+          - Big Data (10TB+)
+        required: true
+      - id: 9
+        name: preferred_bi_features_selection
+        label: Preferred Features
+        hint: Select the most important capabilities
+        type: select_multiple
+        options:
+          - Automated Reporting
+          - Real-time Dashboards
+          - Predictive Analytics / AI
+          - Mobile Access
+          - Self-service Analytics
+          - Embedding Capabilities
+        required: true
+      - id: 10
+        name: implementation_timeline_expectation
+        label: Timeline for Implementation
+        hint: null
+        type: select_one
+        options:
+          - Immediately
+          - 1 - 3 Months
+          - 3 - 6 Months
+          - Just researching
+        required: true
+      - id: 11
+        name: section_communication_referral
+        label: -- Communication and Referral --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: discovery_call_time_preference
+        label: Best Time for Discovery Call
+        hint: null
+        type: select_one
+        options:
+          - Morning (9AM - 12PM)
+          - Afternoon (12PM - 5PM)
+          - Evening (After 5PM)
+        required: true
+      - id: 13
+        name: bi_prospect_referral_source
+        label: How did you hear about our solutions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: bi_project_summary_brief_text
+        label: Brief Project Summary
+        hint: Tell us about your specific goals
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: bi_contact_form_date_completed
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

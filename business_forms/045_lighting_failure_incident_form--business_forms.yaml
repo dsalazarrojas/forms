@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighting Failure Incident Form
+    pages:
+    - id: 1
+      name: lighting_failure_incident_form_page1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lighting_failure_description
+      label: Lighting Failure Description
+      hint: Briefly describe the lighting failure
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lighting_failure_location
+      label: Lighting Failure Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lighting_failure_date
+      label: Lighting Failure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: lighting_failure_time
+      label: Lighting Failure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: lighting_failure_duration
+      label: Lighting Failure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lighting_failure_cause
+      label: Lighting Failure Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lighting_failure_effect
+      label: Lighting Failure Effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: followup_action
+      label: Followup Action
+      hint: null
+      type: select_multiple
+      options:
+      - No Action Required
+      - Additional Analysis Required
+      - Repair/Replace Required
+      required: false
+    - id: 12
+      name: followup_notes
+      label: Followup Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: followup_deadline
+      label: Followup Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: followup_completed
+      label: Followup Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: followup_status
+      label: Followup Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      required: false
+    - id: 16
+      name: followup_description
+      label: Followup Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: followup_comments
+      label: Followup Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: lighting_failure_priority
+      label: Lighting Failure Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - No Attachments
+      - Attachments 1
+      - Attachments 2
+      required: true
+    - id: 23
+      name: attachment1
+      label: Attachment 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment2
+      label: Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

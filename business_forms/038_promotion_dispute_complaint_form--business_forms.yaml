@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotion Dispute Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: What type of complaint is this?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''price_misrepresentation''}'
+      - '{''option'': ''non_compliance''}'
+      - '{''option'': ''false_advertising''}'
+      required: false
+    - id: 2
+      name: description
+      label: Description of the complaint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_id
+      label: Promotion ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business name
+      hint: null
+      type: text
+      options: []
+      required: false

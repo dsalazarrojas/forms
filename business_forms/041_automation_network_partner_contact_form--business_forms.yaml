@@ -1,0 +1,469 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Network Partner Contact Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation Network Partner Contact Form
+      hint: Interested in becoming a partner. Please complete this form.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_info
+      label: Company Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 16
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 17
+      name: company_type
+      label: Company Type
+      hint: What type of company
+      type: select_one
+      options:
+      - System Integrator
+      - Solution Provider
+      - Consultant
+      - Distributor
+      - OEM
+      - Technology Vendor
+      - Other
+      required: true
+    - id: 18
+      name: partnership_info
+      label: Partnership Information
+      hint: Details about partnership interest
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: partnership_type
+      label: Partnership Type
+      hint: What type of partnership
+      type: select_multiple
+      options:
+      - Reseller
+      - Referral
+      - Technology Integration
+      - Strategic Alliance
+      - Distribution
+      - Service Provider
+      - OEM
+      - Other
+      required: true
+    - id: 20
+      name: partnership_level
+      label: Desired Partnership Level
+      hint: What level
+      type: select_one
+      options:
+      - Silver
+      - Gold
+      - Platinum
+      - Elite
+      - Not Sure
+      required: false
+    - id: 21
+      name: interest_areas
+      label: Areas of Interest
+      hint: What interests you
+      type: select_multiple
+      options:
+      - Product Sales
+      - Implementation Services
+      - Support Services
+      - Training
+      - Co-Marketing
+      - Product Development
+      - API Integration
+      - Other
+      required: true
+    - id: 22
+      name: target_market
+      label: Target Market
+      hint: Who do you serve
+      type: select_multiple
+      options:
+      - Small Business
+      - Mid-Market
+      - Enterprise
+      - Government
+      - Healthcare
+      - Manufacturing
+      - Financial Services
+      - Other
+      required: false
+    - id: 23
+      name: geographic_territory
+      label: Geographic Territory
+      hint: Where do you operate
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: experience
+      label: Relevant Experience
+      hint: Your experience
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: years_in_business
+      label: Years in Business
+      hint: How long
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 26
+      name: automation_experience
+      label: Automation Experience
+      hint: Your experience level
+      type: select_one
+      options:
+      - No Experience
+      - Limited Experience
+      - Some Experience
+      - Extensive Experience
+      - Expert Level
+      required: true
+    - id: 27
+      name: current_partnerships
+      label: Current Technology Partnerships
+      hint: Do you have partnerships
+      type: select_one
+      options:
+      - None
+      - 1-3
+      - 4-10
+      - Over 10
+      required: false
+    - id: 28
+      name: partnership_list
+      label: Partnership List
+      hint: List key partnerships
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: certifications
+      label: Relevant Certifications
+      hint: What certifications
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: technical_capabilities
+      label: Technical Capabilities
+      hint: Your capabilities
+      type: select_multiple
+      options:
+      - System Integration
+      - Custom Development
+      - API Development
+      - Cloud Services
+      - Data Analytics
+      - AI or ML
+      - IoT
+      - Other
+      required: false
+    - id: 31
+      name: team_size
+      label: Technical Team Size
+      hint: Number of technical staff
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: false
+    - id: 32
+      name: revenue_info
+      label: Revenue Information
+      hint: Business size
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$50M
+      - Over $50M
+      required: false
+    - id: 33
+      name: projected_sales
+      label: Projected First Year Sales
+      hint: Expected sales
+      type: select_one
+      options:
+      - Under $100K
+      - $100K-$500K
+      - $500K-$1M
+      - $1M-$5M
+      - Over $5M
+      required: false
+    - id: 34
+      name: marketing_plan
+      label: Marketing Plan
+      hint: How will you promote
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: why_partner
+      label: Why Do You Want to Partner
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: value_proposition
+      label: Your Value Proposition
+      hint: What do you bring
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: timeline
+      label: Partnership Timeline
+      hint: When to start
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - Flexible
+      required: true
+    - id: 38
+      name: resources_needed
+      label: Resources Needed
+      hint: What do you need
+      type: select_multiple
+      options:
+      - Training
+      - Marketing Support
+      - Technical Support
+      - Sales Support
+      - Lead Sharing
+      - Co-Branding
+      - Demo Equipment
+      - Other
+      required: false
+    - id: 39
+      name: references
+      label: References
+      hint: Provide references
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Conference
+      - Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 42
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: contact_preference
+      label: Contact Preference
+      hint: How to contact
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true
+    - id: 44
+      name: best_time_contact
+      label: Best Time to Contact
+      hint: When to reach you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 45
+      name: nda_required
+      label: NDA Required
+      hint: Do you need an NDA
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 46
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 47
+      name: submitter_signature
+      label: Submitter Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: submission_date
+      label: Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

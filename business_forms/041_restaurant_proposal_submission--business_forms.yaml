@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant-proposal-submission-form
+    pages:
+    - id: 1
+      name: restaurant_concept
+      label: Restaurant Concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_plan
+      label: Business Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Level Risk Assessment Form
+    pages:
+    - id: 1
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rare
+      - Occasional
+      - Regular
+      required: false
+    - id: 4
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: risk_probability
+      label: Risk Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_previously_assessed
+      label: Has risk been previously assessed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: risk_status
+      label: Risk Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 8
+      name: risk_action
+      label: Risk Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: risk_recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_responsible_party
+      label: Responsible Party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: risk_review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Not Reviewed
+      - Reviewed
+      required: false

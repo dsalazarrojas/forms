@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inbound Drop Record Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_slip_number
+      label: Delivery Slip Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_contact_number
+      label: Customer Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_slip_attachment
+      label: Delivery Slip Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: delivery_status_label
+      label: Delivery Status Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: warehouse_name
+      label: Warehouse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: warehouse_name_label
+      label: Warehouse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false

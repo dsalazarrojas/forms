@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_expansion_consulting_partner_contact_form
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: Enter your company name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_website
+      label: Company website
+      hint: Enter your company website
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Enter your job title
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_size
+      label: Company size
+      hint: Enter your company size
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_type
+      label: Company type
+      hint: Enter your company type
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expansion_interest
+      label: What are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - International expansion
+      - Business consulting
+      - Market research
+      required: true
+    - id: 11
+      name: current_location
+      label: Current location
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Europe
+      - Asia
+      required: false
+    - id: 12
+      name: target_location
+      label: Target location
+      hint: null
+      type: select_multiple
+      options:
+      - Americas
+      - Europe
+      - Africa
+      required: true
+    - id: 13
+      name: expansion_planned
+      label: Are you planning to expand?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: expansion_reason
+      label: Why are you looking to expand?
+      hint: null
+      type: select_multiple
+      options:
+      - Increase market share
+      - Decrease production costs
+      - Increase profit margin
+      required: false
+    - id: 15
+      name: partner_since
+      label: How long have you been a partner?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: false
+    - id: 16
+      name: expansion_planned
+      label: When do you plan prophets expansion?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: expansion_location
+      label: Where do you plan to expand?
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Europe
+      - Asia
+      required: false
+    - id: 18
+      name: expansion_budget
+      label: What is your budget for expansion?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: expansion_employees
+      label: How many employees do you plan to hire in your new market?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: expansion_timeframe
+      label: When do you plan to start your expansion?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: expansion_details
+      label: Can you provide more details on your expansion plans?
+      hint: Please provide more details on your expansion plans
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: partner_info
+      label: Can you provide information about your partner?
+      hint: Please provide more information about your partner
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_details
+      label: Can you provide more details about your company?
+      hint: Please provide more details about your company
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Account Sale Agreement
+    pages:
+    - id: 1
+      name: seller_information_section
+      label: -- Seller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_company_name
+      label: Seller Company Name
+      hint: Legal name of the selling company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_contact_person
+      label: Seller Contact Person
+      hint: Name of the primary contact person for the seller
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seller_address
+      label: Seller Address
+      hint: Complete address of the selling company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: seller_email
+      label: Seller Email
+      hint: Business email for communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: buyer_information_section
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: buyer_company_name
+      label: Buyer Company Name
+      hint: Legal name of the buying company
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: buyer_contact_person
+      label: Buyer Contact Person
+      hint: Name of the primary contact person for the buyer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer_address
+      label: Buyer Address
+      hint: Complete address of the buying company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: buyer_email
+      label: Buyer Email
+      hint: Business email for communication
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: account_details_section
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: account_name
+      label: Account Name
+      hint: Name of the advertising account being sold
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: account_platform
+      label: Account Platform
+      hint: Which platform is the advertising account on
+      type: select_one
+      options:
+      - Google Ads
+      - Facebook Ads
+      - Instagram Ads
+      - LinkedIn Ads
+      - Twitter Ads
+      - YouTube Ads
+      - Other
+      required: true
+    - id: 14
+      name: account_creation_date
+      label: Account Creation Date
+      hint: When was the advertising account created
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: account_performance_metrics
+      label: Account Performance Metrics
+      hint: Key performance metrics of the account
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: transaction_terms_section
+      label: -- Transaction Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: sale_price
+      label: Sale Price
+      hint: Total price for the advertising account sale
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: How will the payment be made
+      type: select_one
+      options:
+      - Full payment upfront
+      - Installment plan
+      - Performance-based
+      - Other
+      required: true
+    - id: 19
+      name: transfer_date
+      label: Transfer Date
+      hint: When will the account be transferred
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: agreement_acceptance
+      label: Agreement Acceptance
+      hint: Both parties accept the terms of this agreement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

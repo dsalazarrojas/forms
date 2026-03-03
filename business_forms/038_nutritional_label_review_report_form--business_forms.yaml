@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutritional Label Review Report Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_weight_oz
+      label: product_weight_oz
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: serving_size_unit
+      label: Serving Size Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: label_statement
+      label: Label Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ingredient_list
+      label: Ingredient List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nutrition_facts
+      label: Nutrition Facts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: compliance_decision
+      label: Compliance Decision
+      hint: null
+      type: select_one
+      options:
+      - In Compliance
+      - Not In Compliance
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: review_by
+      label: Review By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_label_review_id
+      label: Product Label Review ID
+      hint: null
+      type: select_one
+      options:
+      - '8536'
+      - Other
+      required: true
+    - id: 13
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      required: true
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: labeler
+      label: Labeler
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: label_reviewer_id
+      label: Label Reviewer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: review_type
+      label: Review Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: true
+    - id: 19
+      name: review_version
+      label: Review Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: last_reviewed
+      label: Last Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: first_reviewed
+      label: First Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: next_reviewed
+      label: Next Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

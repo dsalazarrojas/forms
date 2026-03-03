@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toll Fee Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: toll_fee_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: toll_fee_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: toll_fee_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Tool1'', ''description'': ''Tool1''}'
+      - '{''name'': ''Tool2'', ''description'': ''Tool2''}'
+      - '{''name'': ''Tool3'', ''description'': ''Tool3''}'
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''User1'', ''description'': ''User1''}'
+      - '{''name'': ''User2'', ''description'': ''User2''}'
+      - '{''name'': ''User3'', ''description'': ''User3''}'
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Course Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_manager
+      label: Maintenance Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Scheduled
+      required: false
+    - id: 5
+      name: maintenance_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_tasks
+      label: Maintenance Tasks
+      hint: List maintenance tasks to be completed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjane
+      - chatbob
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: course_condition
+      label: Course Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Fair
+      - Excellent
+      required: false
+    - id: 13
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Scheduled
+      required: false
+    - id: 15
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false

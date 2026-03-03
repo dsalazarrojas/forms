@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: drone_system_check
+      label: system_check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: battery_capacity
+      label: battery_capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: flight_controller_status
+      label: flight_controller_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: navigation_system_status
+      label: navigation_system_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: propeller_status
+      label: propeller_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: compass_status
+      label: compass_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: flight_control_status
+      label: flight_control_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: avionics_status
+      label: avionics_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: weather_condition
+      label: weather_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: pilot_status
+      label: pilot_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: drone_status
+      label: drone_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: safety_protocols
+      label: safety_protocols
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: emergency_equipment_status
+      label: emergency_equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: first_aid_kit_status
+      label: first aid kit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: navigation_status
+      label: navigation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: communication_status
+      label: communication_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: power_status
+      label: power_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: flight_plan_status
+      label: flight_plan_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: other_status
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_status_2
+      label: other_status_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_comments_2
+      label: other_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_status_3
+      label: other_status_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_comments_3
+      label: other_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false

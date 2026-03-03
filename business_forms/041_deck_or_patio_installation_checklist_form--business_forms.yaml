@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deck Or Patio Installation Checklist Form
+    pages:
+    - id: 1
+      name: site_survey
+      label: Site survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: design
+      label: Design
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: permit
+      label: Permit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection
+      label: Inspection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: deck_details
+      label: Deck details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: deck_design
+      label: Deck design
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: materials
+      label: Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: measurements
+      label: Measurements
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: installation
+      label: Installation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: inspection_checklist
+      label: Inspection checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: final_inspection
+      label: Final inspection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: completion_date
+      label: Completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: completion_time
+      label: Completion time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: total_cost
+      label: Total cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: warranty_period
+      label: Warranty period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: warranty_status
+      label: Warranty status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

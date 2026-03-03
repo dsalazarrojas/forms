@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Sales Rota
+    pages:
+    - id: 1
+      name: sales_leader
+      label: Weekly Sales Rota
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: week_start
+      label: Week Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: week_end
+      label: Week End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sales_team
+      label: Sales Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sales_leader_name
+      label: Sales Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_manager_phone
+      label: Team Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_leaders
+      label: Team Leaders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: sales_leads
+      label: Sales Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: sales_lead
+      label: Sales Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: sales_lead_title
+      label: Sales Lead Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: sales_member
+      label: Sales Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

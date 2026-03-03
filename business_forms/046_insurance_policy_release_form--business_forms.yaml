@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_policy_release_form
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: policyholder_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: policy_date
+      label: policy_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: agent_info
+      label: agent_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 7
+      name: policy_notes
+      label: policy_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policyholder_signature
+      label: policyholder_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: agent_signature
+      label: agent_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: release_reason
+      label: release_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policyholder_address
+      label: policyholder_address
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Other
+      required: false
+    - id: 12
+      name: agent_address
+      label: agent_address
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Other
+      required: false
+    - id: 13
+      name: release_notes
+      label: release_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false

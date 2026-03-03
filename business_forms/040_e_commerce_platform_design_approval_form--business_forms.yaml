@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: e-commerce_platform_design_approval_form
+    pages:
+    - id: 1
+      name: e_commerce_platform_design
+      label: E Commerce Platform Design Approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Online Store
+      - E-commerce
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_files
+      label: Design Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: e_commerce_platform_design
+      label: E-Commerce Platform Design
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Lead
+      - Developer
+      - Designer
+      required: false
+    - id: 9
+      name: reviewers_emails
+      label: Reviewers Emails
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reviewers_phone
+      label: Reviewers Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false

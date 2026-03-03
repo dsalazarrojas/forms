@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Development Checklist Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project name
+      hint: App name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_start_date
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: project_manager
+      label: Project manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: completion_status
+      label: Overall completion status
+      hint: Percentage complete
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: planning_phase_complete
+      label: Planning and requirements
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Not started
+      required: true
+    - id: 6
+      name: design_phase_complete
+      label: UI/UX design
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Not started
+      required: true
+    - id: 7
+      name: architecture_defined
+      label: Technical architecture defined
+      hint: null
+      type: select_one
+      options:
+      - Yes, complete
+      - Partially defined
+      - false
+      required: true
+    - id: 8
+      name: development_started
+      label: Development started
+      hint: null
+      type: select_one
+      options:
+      - Yes, in progress
+      - Yes, completed
+      - Not started
+      required: true
+    - id: 9
+      name: core_features_status
+      label: Core features implementation
+      hint: null
+      type: select_one
+      options:
+      - All complete
+      - Most complete
+      - Partially complete
+      - Not started
+      required: true
+    - id: 10
+      name: database_setup
+      label: Database setup and configuration
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Not started
+      required: true
+    - id: 11
+      name: api_integration
+      label: API integrations
+      hint: Third-party services, backends
+      type: select_one
+      options:
+      - All integrated
+      - Partially integrated
+      - Not integrated
+      - N/A
+      required: true
+    - id: 12
+      name: security_measures
+      label: Security measures implemented
+      hint: null
+      type: select_one
+      options:
+      - Fully implemented
+      - Partially implemented
+      - Planned
+      - Not started
+      required: true
+    - id: 13
+      name: testing_started
+      label: Testing phase status
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive testing in progress
+      - Limited testing done
+      - Not started
+      required: true
+    - id: 14
+      name: bug_tracking
+      label: Bug tracking and resolution
+      hint: null
+      type: select_one
+      options:
+      - Systematic tracking and fixing
+      - Tracking but fixing lagging
+      - Ad-hoc bug fixes
+      - No bug tracking
+      required: true
+    - id: 15
+      name: performance_testing
+      label: Performance and load testing
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Planned
+      - Not started
+      required: true
+    - id: 16
+      name: user_testing
+      label: User acceptance testing
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Planned
+      - Not started
+      required: true
+    - id: 17
+      name: documentation
+      label: Technical documentation
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Mostly complete
+      - Partially complete
+      - Not started
+      required: true
+    - id: 18
+      name: user_manual
+      label: User manual or guide
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Planned
+      - Not started
+      required: true
+    - id: 19
+      name: deployment_ready
+      label: Ready for deployment
+      hint: null
+      type: select_one
+      options:
+      - Yes, ready to deploy
+      - Almost ready
+      - Not yet ready
+      required: true
+    - id: 20
+      name: launch_date
+      label: Planned launch date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: post_launch_plan
+      label: Post-launch support plan
+      hint: null
+      type: select_one
+      options:
+      - Plan in place
+      - Partially planned
+      - Not planned
+      required: true
+    - id: 22
+      name: current_blockers
+      label: Current project blockers or risks
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Information Collection Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type A''}'
+      - '{''id'': 2, ''label'': ''Type B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: false
+    - id: 4
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_manager
+      label: Production Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_addresses
+      label: Email Addresses
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: production_team
+      label: Production Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team A''}'
+      - '{''id'': 2, ''label'': ''Team B''}'
+      - '{''id'': 3, ''label'': ''Team C''}'
+      required: false

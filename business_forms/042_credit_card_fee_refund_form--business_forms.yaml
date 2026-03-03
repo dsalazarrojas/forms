@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Fee Refund Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter the customer's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Enter the customer's phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fee_date
+      label: Fee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fee_amount
+      label: Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: refund_reason
+      label: Reason for Refund
+      hint: Select a reason for the refund
+      type: select_one
+      options:
+      - Excessive Fees
+      - Incorrect Charges
+      - Other
+      required: false
+    - id: 8
+      name: upload_file
+      label: Attach File
+      hint: Upload a copy of the transaction receipt or supporting document
+      type: select_multiple
+      options:
+      - Transaction Receipt
+      - Supporting Document
+      required: false
+    - id: 9
+      name: signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false

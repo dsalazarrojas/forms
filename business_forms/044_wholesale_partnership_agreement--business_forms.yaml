@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Partnership Agreement
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_email
+      label: Partner Email
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: partner_phone
+      label: Partner Phone
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_terms
+      label: Terms
+      hint: Please select one of the available options.
+      type: select_one
+      options:
+      - Wholesale partnership
+      - Joint partnership
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment terms
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_frequency
+      label: Payment frequency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-monthly
+      required: false
+    - id: 9
+      name: contract_start_date
+      label: Contract start date
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contract_end_date
+      label: Contract end date
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: partner_agreement
+      label: Partner Agreement
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment amount
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: partnership_percentage
+      label: Partnership percentage
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: partner_notes
+      label: Partner Notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: partner_agreed
+      label: Partner Agreed
+      hint: Please select one of the available options.
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 17
+      name: contract_length
+      label: Contract Length
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms2
+      label: Payment Terms 2
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: partner_address
+      label: Partner Address
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: partner_occupation
+      label: Partner Occupation
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: partner_status
+      label: Partner Status
+      hint: Please select one of the available options.
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 22
+      name: partner_termination
+      label: Partner Termination
+      hint: Please select one of the available options.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: agreement_revision
+      label: Agreement Revision
+      hint: Please select one of the available options.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: agreement_revision_reason
+      label: Reason
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agreement_revision_date
+      label: Date of revision
+      hint: None
+      type: date
+      options: []
+      required: false

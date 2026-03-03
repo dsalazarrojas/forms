@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Revenue Opportunity Assessment
+    pages:
+    - id: 1
+      name: opportunity_name
+      label: Opportunity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: close_probability
+      label: Close Probability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: sales_revenue
+      label: Sales Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_contact
+      label: Sales Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_team
+      label: Sales Team
+      hint: Select all applicable teams
+      type: select_multiple
+      options:
+      - Sales Team 1
+      - Sales Team 2
+      - Sales Team 3
+      required: false
+    - id: 8
+      name: opportunity_status
+      label: Opportunity Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Lead
+      - Lead with Contact
+      - Closed - Lost
+      - Closed - Won
+      required: true
+    - id: 9
+      name: sales_stage
+      label: Sales Stage
+      hint: null
+      type: select_one
+      options:
+      - Stage 1
+      - Stage 2
+      - Stage 3
+      - Stage 4
+      - Stage 5
+      required: true
+    - id: 10
+      name: close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: close_time
+      label: Close Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: territory
+      label: Territory
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 15
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sales_manager_email
+      label: Sales Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: region_manager
+      label: Region Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: account_manager_email
+      label: Account Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: sales_rep_email
+      label: Sales Rep Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

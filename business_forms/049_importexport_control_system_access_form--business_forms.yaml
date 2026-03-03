@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: ImportExport Control System Access Form
+    pages:
+    - id: 1
+      name: business_form_requester
+      label: business form requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_form_requestor
+      label: business form requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_level
+      label: access level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high''}'
+      - '{''value'': ''low''}'
+      required: false
+    - id: 4
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''approved''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 5
+      name: date_import_request
+      label: date import request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_export_request
+      label: date export request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_import_request
+      label: time import request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_export_request
+      label: time export request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_request
+      label: reason for request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_form_requestor_notes
+      label: business form requestor notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_form_requester_notes
+      label: business form requester notes
+      hint: null
+      type: text
+      options: []
+      required: false

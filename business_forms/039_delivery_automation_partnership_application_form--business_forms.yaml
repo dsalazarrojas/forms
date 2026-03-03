@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Automation Partnership Application Form
+    pages:
+    - id: 1
+      name: partner_information
+      label: Partner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: partner_type
+      label: Partner Type
+      hint: null
+      type: select_one
+      options:
+      - Delivery Partner
+      - Sales Partner
+      - Support Partner
+      required: false
+    - id: 5
+      name: partner_since
+      label: Partner Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Support Manager
+      - Sales Manager
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: partner_location
+      label: Partner Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: partner_industry
+      label: Partner Industry
+      hint: null
+      type: select_one
+      options:
+      - Automotive
+      - Logistics
+      - Retail
+      required: false
+    - id: 11
+      name: partner_description
+      label: Partner Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: partnership_goals
+      label: Partnership Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

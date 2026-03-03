@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Factory KPI Summary Report Form
+    pages:
+    - id: 1
+      name: factory_location
+      label: factory location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: production_hours
+      label: production hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_capacity
+      label: production capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: production_actuals
+      label: production actuals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: production_costs
+      label: production costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: factory_operational_status
+      label: factory operational status
+      hint: null
+      type: select_one
+      options:
+      - operational
+      - not operational
+      - idle
+      required: false
+    - id: 9
+      name: production_status
+      label: production status
+      hint: null
+      type: select_multiple
+      options:
+      - in progress
+      - complete
+      - on hold
+      required: false
+    - id: 10
+      name: machine_ids
+      label: machine ids
+      hint: Comma-separated list of machine IDs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: machine_statuses
+      label: machine statuses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_planning_status
+      label: production planning status
+      hint: null
+      type: select_one
+      options:
+      - on schedule
+      - ahead of schedule
+      - behind schedule
+      - not planned
+      required: false
+    - id: 13
+      name: production_issues
+      label: production issues
+      hint: List any issues related to production
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: factory_id
+      label: factory id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: factory_name
+      label: factory name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: factory_address
+      label: factory address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: factory_city
+      label: factory city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: factory_state
+      label: factory state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: factory_country
+      label: factory country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: factory_postal_code
+      label: factory post code
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Ambassador Of Lcrownedbylexi
+    pages:
+    - id: 1
+      name: section_header_welcome
+      label: -- Welcome to LCrownedbylexi Ambassador Program --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: greeting_message
+      label: Message
+      hint: Thank you for your interest in becoming an LCrownedbylexi brand ambassador.
+        Minimum 1000 followers required to apply.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: ambassador_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_eligibility
+      label: -- Eligibility Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follower_count
+      label: Total Social Media Followers
+      hint: Minimum 1000 followers required
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: followers_meet_requirement
+      label: Your follower count meets our minimum
+      hint: Confirm 1000+ followers
+      type: select_one
+      options:
+      - Yes, 1000 or more
+      - No, less than 1000
+      - Not sure
+      required: true
+    - id: 9
+      name: section_header_social
+      label: -- Social Media Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: instagram_handle
+      label: Instagram Handle
+      hint: Your Instagram username
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: instagram_followers
+      label: Instagram Followers
+      hint: Current follower count
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: other_platforms
+      label: Other Social Media Platforms
+      hint: TikTok, Facebook, YouTube, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: engagement_rate
+      label: Average Engagement Rate
+      hint: Likes and comments percentage
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_about
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: about_yourself
+      label: Tell Us About Yourself
+      hint: Background and interests
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: brand_alignment
+      label: Why LCrownedbylexi Resonates With You
+      hint: What attracts you to our brand
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_header_content
+      label: -- Content and Promotions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: content_type
+      label: Type of Content You Create
+      hint: What is your niche or style
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: promotion_ideas
+      label: Your Ideas for Promoting LCrownedbylexi
+      hint: How you would represent the brand
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_agreement
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: ambassador_agreement
+      label: I agree to ambassador terms and will represent LCrownedbylexi professionally
+      hint: Check to apply
+      type: select_one
+      options:
+      - I agree and apply
+      - I do not agree
+      required: true

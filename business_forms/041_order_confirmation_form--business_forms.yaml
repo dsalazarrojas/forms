@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Confirmation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_email
+      label: Shipping E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: Order Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: order_dispatch_date
+      label: Dispatch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: order_dispatch_time
+      label: Dispatch Time
+      hint: null
+      type: time
+      options: []
+      required: false

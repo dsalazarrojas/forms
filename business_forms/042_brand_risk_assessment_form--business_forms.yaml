@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Risk Assessment Form
+    pages:
+      - id: 1
+        name: context_header
+        label: -- Assessment Context --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: assessor_info
+        label: Assessor Name and Role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: brand_name_val
+        label: Business Unit / Brand Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assess_dt
+        label: Date of Assessment
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: risk_factors_header
+        label: -- Risk Factor Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: rep_risk_lvl
+        label: Potential for Reputational Damage
+        hint: null
+        type: select_one
+        options: [Low, Medium, High, Critical]
+        required: true
+      - id: 7
+        name: legal_risk_lvl
+        label: Regulatory and Legal Compliance Exposure
+        hint: null
+        type: select_one
+        options: [Low, Medium, High, Critical]
+        required: true
+      - id: 8
+        name: market_risk_lvl
+        label: Risk from Competitor Activity
+        hint: null
+        type: select_one
+        options: [Low, Medium, High, Critical]
+        required: true
+      - id: 9
+        name: impact_header
+        label: -- Mitigation and Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: risk_desc
+        label: Detailed Description of Identified Risk
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: risk_channels
+        label: Channels at Risk
+        hint: Select all that apply
+        type: select_multiple
+        options: [Social Media, Mainstream Media, Direct Sales, Partner Networks, Internal Culture]
+        required: true
+      - id: 12
+        name: mitigation_plan_existing
+        label: Existing Mitigation Actions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: residual_risk
+        label: Residual Risk after Mitigation
+        hint: null
+        type: select_one
+        options: [Acceptable, Minor, Significant, Unacceptable]
+        required: true
+      - id: 14
+        name: new_actions
+        label: Recommended New Mitigation Actions
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: review_dt
+        label: Scheduled Next Review Date
+        hint: null
+        type: date
+        options: []
+        required: true

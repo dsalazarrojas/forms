@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greenhouse Gas Monitoring Plan Template
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gas_type
+      label: gas_type
+      hint: null
+      type: select_one
+      options:
+      - CO2
+      - CH4
+      - N2O
+      - O3
+      - Other
+      required: false
+    - id: 3
+      name: sampling_frequency
+      label: sampling_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 4
+      name: sampling_method
+      label: sampling_method
+      hint: null
+      type: select_multiple
+      options:
+      - Air Sample
+      - Water Sample
+      - Soil Sample
+      required: false
+    - id: 5
+      name: monitoring_start_date
+      label: monitoring_start_date
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: monitoring_end_date
+      label: monitoring_end_date
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reporting_frequency
+      label: reporting_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 8
+      name: monitoring_location
+      label: monitoring_location
+      hint: Enter location name, address or facility ID
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gas_emissions_value
+      label: gas_emissions_value
+      hint: Enter gas emissions values in units (e.g., tons CO2-eq/year)
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: monitoring_team
+      label: monitoring_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_responsible_party
+      label: reporting_responsible_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_date
+      label: reporting_date
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: facility_address
+      label: facility_address
+      hint: Enter facility address
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: Enter 10 digit phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: contact_email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: remarks
+      label: remarks
+      hint: Optional remarks
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: certification
+      label: certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_title
+      label: reviewer_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_contact
+      label: reviewer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_date_time
+      label: review_date_time
+      hint: null
+      type: date
+      options: []
+      required: false

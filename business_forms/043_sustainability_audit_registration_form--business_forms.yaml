@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainability_audit_registration_form
+    pages:
+    - id: 1
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audit_request
+      label: Audit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

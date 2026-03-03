@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Visit Report Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_location
+      label: Visit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      required: false
+    - id: 9
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: visit_length
+      label: Visit Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: staff_attendance
+      label: Staff Attitude
+      hint: null
+      type: select_one
+      options:
+      - Friendly
+      - Unfriendly
+      - Neutral
+      required: false
+    - id: 12
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      required: false
+    - id: 13
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: mlm 30 day challenge week 2
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: progress
+      label: progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false

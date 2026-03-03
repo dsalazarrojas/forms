@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Event Evaluation Form
+    pages:
+    - id: 1
+      name: event_information
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: When was the event?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: attendee_name
+      label: Your Name
+      hint: Name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_email
+      label: Your Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attendee_company
+      label: Your Company
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_rating
+      label: Overall Event Rating
+      hint: How was the event?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: willingness_attend_again
+      label: Would You Attend Another Event
+      hint: Will you come back?
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 10
+      name: recommend_others
+      label: Would You Recommend to Others
+      hint: Would you recommend it?
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 11
+      name: event_elements
+      label: -- Event Elements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: venue_quality
+      label: Venue Quality
+      hint: Rate the venue
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 13
+      name: catering
+      label: Food and Beverages
+      hint: Rate catering
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 14
+      name: registration_process
+      label: Registration Process
+      hint: Was registration smooth?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 15
+      name: speakers_presentations
+      label: Speakers and Presentations
+      hint: Rate speakers
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 16
+      name: networking_opportunities
+      label: Networking Opportunities
+      hint: Rate networking
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 17
+      name: organization
+      label: Event Organization
+      hint: Was it well organized?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 18
+      name: timing
+      label: Event Timing and Schedule
+      hint: Was timing good?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 19
+      name: value_received
+      label: Value Received for Time Invested
+      hint: Was it worth the time?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 20
+      name: highlights
+      label: Event Highlights
+      hint: What was best about the event?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvements
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: future_topics
+      label: Future Topics or Suggestions
+      hint: What topics interest you?
+      type: text
+      options: []
+      required: false

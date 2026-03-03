@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Photography Briefing Form
+    pages:
+    - id: 1
+      name: category
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: Enter product name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: A brief description of the product
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photography_type
+      label: Photography Type
+      hint: Select a photography type
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: target_audience
+      label: Target Audience
+      hint: Select a target audience
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: product_image_count
+      label: Number of Product Images
+      hint: Number of images required for the product
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shoot_location
+      label: Shoot Location
+      hint: Select a shoot location
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_date
+      label: Product Date
+      hint: Product availability date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: product_size
+      label: Product Size
+      hint: Product size and dimensions
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_color
+      label: Product Color
+      hint: Product color(s)
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: product_finish
+      label: Product Finish
+      hint: Select a product finish
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: product_material
+      label: Product Material
+      hint: Product material
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: product_weight
+      label: Product Weight
+      hint: Product weight (in pounds or kilograms)
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: Contact person's name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company
+      label: Company
+      hint: Enter company name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shoot_date
+      label: Shoot Date
+      hint: Select a shoot date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: shoot_time
+      label: Shoot Time
+      hint: Select a shoot time
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: shoot_location_details
+      label: Shoot Location Details
+      hint: Provide more details about the shoot location
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: photo_shoot_notes
+      label: Photo Shoot Notes
+      hint: Additional photo shoot notes
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: photo_shoot_requirements
+      label: Photo Shoot Requirements
+      hint: List all photo shoot requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photography_equipment
+      label: Photography Equipment
+      hint: List the photography equipment needed
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: image_capture
+      label: Image Capture
+      hint: Image capture type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: retouching
+      label: Retouching
+      hint: Retouching required or not
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: retouching_notes
+      label: Retouching Notes
+      hint: Additional retouching notes
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: Review Date
+      hint: Date for reviewing the shoot
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,140 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Storage Facility Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: Incident Location
+      hint: Enter the location of the incident
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Fire''}'
+      - '{''id'': 2, ''name'': ''Theft''}'
+      - '{''id'': 3, ''name'': ''Environmental''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: true
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: Enter a detailed description of the incident
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_image
+      label: Incident Image (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporter_email
+      label: Reporter Email
+      hint: Enter the reporter's email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open''}'
+      - '{''id'': 2, ''name'': ''Closed''}'
+      required: true
+    - id: 9
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Facility Manager''}'
+      - '{''id'': 2, ''name'': ''Maintenance''}'
+      - '{''id'': 3, ''name'': ''Employee''}'
+      required: true
+    - id: 10
+      name: reporter_notes
+      label: Reporter Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_email
+      label: Reviewer Email
+      hint: Enter reviewer's email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_decision
+      label: Reviewer's Decision
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''No Action Needed''}'
+      - '{''id'': 2, ''name'': ''Review and Investigate''}'
+      - '{''id'': 3, ''name'': ''Escalate''}'
+      required: true
+    - id: 16
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: true

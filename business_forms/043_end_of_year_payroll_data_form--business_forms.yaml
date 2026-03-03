@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Year Payroll Data Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Company name for tax purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: year_of_service
+      label: Year of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: monthly_salary
+      label: Monthly Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: insurance_premium
+      label: Insurance Premium
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vision_care_premium
+      label: Vision Care Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: dental_care_premium
+      label: Dental Care Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: long_term_care_premium
+      label: Long Term Care Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: health_care_premium
+      label: Health Care Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_payroll
+      label: Date of Last Payroll
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: date_of_this_payroll
+      label: Date of This Payroll
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: payroll_amount
+      label: Payroll Amount
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Subscription Support Contact Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: subscription_type
+      label: subscription_type
+      hint: null
+      type: select_one
+      options:
+      - Monthly Subscription
+      - Annual Subscription
+      - One-time payment
+      required: true
+    - id: 7
+      name: subscription_start_date
+      label: subscription_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: subscription_end_date
+      label: subscription_end_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: yonnired_brand_products
+    pages:
+    - id: 1
+      name: shop_on_form
+      label: Shop On Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_contact
+      label: Customer Contact
+      hint: If you use cashapp to collect payments your customer may have to contact
+        you for the send total
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: shop_total
+      label: Shop Total
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Total 1''}'
+      - '{''id'': 2, ''label'': ''Total 2''}'
+      - '{''id'': 3, ''label'': ''Total 3''}'
+      - '{''id'': 4, ''label'': ''Total 4''}'
+      - '{''id'': 5, ''label'': ''Total 5''}'
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shop_complete
+      label: Shop Complete
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shop_price
+      label: Shop Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: shop_send
+      label: Shop Send
+      hint: If you use cashapp to collect payments your customer may have to contact
+        you for the send total.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: send_time
+      label: Send Time
+      hint: null
+      type: time
+      options: []
+      required: false

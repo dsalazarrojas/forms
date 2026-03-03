@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Syndication Quotation Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Full name of contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quotation_date
+      label: Quotation Date
+      hint: Date of this quotation request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: content_type
+      label: Content Type
+      hint: What type of content needs syndication?
+      type: select_one
+      options:
+      - Articles
+      - Blog Posts
+      - Videos
+      - Infographics
+      - Podcasts
+      - News Content
+      - Multiple Types
+      required: true
+    - id: 7
+      name: content_volume
+      label: Content Volume
+      hint: How much content needs syndication?
+      type: select_one
+      options:
+      - 1-10 pieces per month
+      - 11-25 pieces per month
+      - 26-50 pieces per month
+      - 51-100 pieces per month
+      - Over 100 pieces per month
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target Audience
+      hint: Who is your target audience?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry_focus
+      label: Industry Focus
+      hint: What industry is the content for?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Media
+      - Multiple Industries
+      required: true
+    - id: 10
+      name: geographic_targeting
+      label: Geographic Targeting
+      hint: Where should content be distributed?
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 11
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where should content be syndicated?
+      type: select_multiple
+      options:
+      - News Websites
+      - Industry Blogs
+      - Social Media Platforms
+      - Email Newsletters
+      - Partner Websites
+      - Content Aggregators
+      - Mobile Apps
+      - Print Publications
+      required: true
+    - id: 12
+      name: syndication_duration
+      label: Syndication Duration
+      hint: How long for syndication?
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - Ongoing
+      required: true
+    - id: 13
+      name: exclusivity_requirements
+      label: Exclusivity Requirements
+      hint: Do you need exclusive distribution?
+      type: select_one
+      options:
+      - Exclusive Rights
+      - Non-Exclusive
+      - Semi-Exclusive
+      - Not Sure
+      required: true
+    - id: 14
+      name: content_customization
+      label: Content Customization
+      hint: Do you need content customized?
+      type: select_one
+      options:
+      - Yes, full customization
+      - Yes, minor edits
+      - No, as-is syndication
+      - Not Sure
+      required: true
+    - id: 15
+      name: seo_requirements
+      label: SEO Requirements
+      hint: Do you need SEO optimization?
+      type: select_one
+      options:
+      - Yes, full SEO
+      - Yes, basic SEO
+      - false
+      - Not Sure
+      required: true
+    - id: 16
+      name: analytics_reporting
+      label: Analytics and Reporting
+      hint: What reporting do you need?
+      type: select_one
+      options:
+      - Comprehensive analytics
+      - Basic metrics
+      - Monthly reports
+      - Real-time dashboard
+      - No reporting needed
+      required: true
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget?
+      type: select_one
+      options:
+      - Under $5,000/month
+      - $5,000-$10,000/month
+      - $10,000-$25,000/month
+      - $25,000-$50,000/month
+      - Over $50,000/month
+      required: true
+    - id: 18
+      name: pricing_model_preference
+      label: Pricing Model Preference
+      hint: How do you prefer to pay?
+      type: select_one
+      options:
+      - Per Article
+      - Monthly Retainer
+      - Performance-Based
+      - Revenue Share
+      - Custom Agreement
+      required: true
+    - id: 19
+      name: start_date
+      label: Desired Start Date
+      hint: When do you want to start?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: current_syndication
+      label: Current Syndication
+      hint: Are you currently syndicating content?
+      type: select_one
+      options:
+      - Yes, with one provider
+      - Yes, with multiple providers
+      - No, this is our first time
+      - Previously, but not now
+      required: true
+    - id: 21
+      name: current_challenges
+      label: Current Challenges
+      hint: What challenges are you facing?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: quotation_validity
+      label: Quotation Validity
+      hint: How long should quotation be valid?
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - No preference
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Governance Evaluation Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_request
+      label: Review Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: review_period
+      label: Review Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_timeline
+      label: Preferred Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_request_details
+      label: Review Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents_details
+      label: Supporting Documents Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: board_member_details
+      label: Board Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_request_status
+      label: Review Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: review_request_due_date
+      label: Review Request Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_request_completed_date
+      label: Review Request Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_request_closed_date
+      label: Review Request Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_request_reopened_date
+      label: Review Request Reopened Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_request_closed_status
+      label: Review Request Closed Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: review_request_reopened_status
+      label: Review Request Reopened Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

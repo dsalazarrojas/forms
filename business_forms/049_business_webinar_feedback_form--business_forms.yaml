@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Webinar Feedback Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Full Name
+      hint: Name of webinar attendee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: webinar_title
+      label: Webinar Title
+      hint: Name of the webinar attended
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: webinar_date
+      label: Webinar Date
+      hint: When was the webinar held
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: speaker_name
+      label: Speaker Name
+      hint: Name of the presenter
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_date
+      label: Feedback Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: content_quality
+      label: Content Quality
+      hint: How good was the content
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: content_relevance
+      label: Content Relevance
+      hint: How relevant was the content
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 11
+      name: speaker_effectiveness
+      label: Speaker Effectiveness
+      hint: How well did the speaker present
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: presentation_clarity
+      label: Presentation Clarity
+      hint: Was the content clearly explained
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Adequately Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 13
+      name: pacing
+      label: Presentation Pacing
+      hint: Was the pace appropriate
+      type: select_one
+      options:
+      - Perfect Pace
+      - Good Pace
+      - Adequate
+      - Too Slow
+      - Too Fast
+      required: true
+    - id: 14
+      name: technical_quality
+      label: Technical Quality
+      hint: Audio, video, slides quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: time_value
+      label: Value of Your Time
+      hint: Was your time well spent
+      type: select_one
+      options:
+      - Excellent Use of Time
+      - Good Use of Time
+      - Adequate
+      - Poor Use of Time
+      - Wasted Time
+      required: true
+    - id: 16
+      name: practical_application
+      label: Practical Application Value
+      hint: Can you apply this information
+      type: select_one
+      options:
+      - Highly Applicable
+      - Applicable
+      - Somewhat Applicable
+      - Not Applicable
+      required: true
+    - id: 17
+      name: key_takeaway
+      label: Key Takeaway or Learning
+      hint: What was the most valuable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How could it be better
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_topics
+      label: Future Topic Suggestions
+      hint: What topics would you like
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: would_recommend
+      label: Would You Recommend
+      hint: Would you recommend this webinar
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Oppose
+      required: false

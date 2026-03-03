@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: sponsorship_communication_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_contact
+      label: Sponsor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Mail''}'
+      required: true
+    - id: 4
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: sponsorship_opportunities
+      label: Sponsorship Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Opportunity 1''}'
+      - '{''label'': ''Opportunity 2''}'
+      - '{''label'': ''Opportunity 3''}'
+      required: true
+    - id: 6
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false

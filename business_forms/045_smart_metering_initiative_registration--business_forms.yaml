@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Metering Initiative Registration
+    pages:
+    - id: 1
+      name: program_title
+      label: Smart Metering Initiative Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_consent
+      label: Consent
+      hint: Please sign below to indicate your consent for this program
+      type: select_one
+      options:
+      - '{''label'': ''I consent to participate''}'
+      - '{''label'': ''I do not consent to participate''}'
+      required: false
+    - id: 9
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: participant_agreement
+      label: Participant Agreement
+      hint: Please indicate that you have read and agreed to the terms
+      type: select_one
+      options:
+      - '{''label'': ''I have read and agreed to the terms''}'
+      - '{''label'': ''I have not read and agreed to the terms''}'
+      required: false
+    - id: 19
+      name: participant_termination
+      label: Participant Termination
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 20
+      name: participant_termination_reason
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_termination_effective_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 23
+      name: program_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

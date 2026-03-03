@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_licensing_audit_form
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: software_licenses
+      label: Software Licenses
+      hint: List all software licenses used by the company
+      type: select_multiple
+      options:
+      - Microsoft Excel
+      - Adobe Photoshop
+      - Microsoft Word
+      required: false
+    - id: 3
+      name: license_agreements
+      label: License Agreements
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: license_numbers
+      label: License Numbers
+      hint: List all license numbers for the listed software
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - compliant
+      - non_compliant
+      - pending
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

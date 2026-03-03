@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Deviation Explanation Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fiscal_period
+      label: Fiscal Period
+      hint: Month, quarter, or year
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_line_item
+      label: Budget Line Item
+      hint: What is the deviation for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: budgeted_amount
+      label: Budgeted Amount
+      hint: Original budget
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: actual_amount
+      label: Actual Amount Spent
+      hint: What was actually spent
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: deviation_amount
+      label: Deviation Amount
+      hint: Difference between budgeted and actual
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: deviation_percentage
+      label: Deviation Percentage
+      hint: Percentage over or under budget
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: deviation_type
+      label: Type of Deviation
+      hint: null
+      type: select_one
+      options:
+      - Over Budget
+      - Under Budget
+      required: true
+    - id: 12
+      name: deviation_reason
+      label: Reason for Deviation
+      hint: Explain what caused this variance
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cost_drivers
+      label: Primary Cost Drivers
+      hint: What factors contributed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: corrective_action
+      label: Corrective Action Plan
+      hint: How will this be addressed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: timeline_adjustment
+      label: Does Project Timeline Need Adjustment
+      hint: null
+      type: select_one
+      options:
+      - Yes, significant adjustment
+      - Minor adjustment needed
+      - No adjustment
+      required: true
+    - id: 16
+      name: impact_assessment
+      label: Impact on Other Areas
+      hint: Will this affect other budgets or projects
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lesson_learned
+      label: Lessons Learned
+      hint: How will this prevent future deviations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_review
+      label: Supervisor Review Status
+      hint: null
+      type: select_one
+      options:
+      - Not yet reviewed
+      - Reviewed and approved
+      - Reviewed with concerns
+      required: true
+    - id: 19
+      name: supporting_docs
+      label: Supporting Documentation Attached
+      hint: Receipts, quotes, explanations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

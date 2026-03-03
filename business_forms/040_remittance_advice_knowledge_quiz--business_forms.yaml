@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remittance Advice Knowledge Quiz
+    pages:
+    - id: 1
+      name: form_title
+      label: Remittance Advice Knowledge Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: question_1
+      label: What is remittance advice?
+      hint: null
+      type: select_one
+      options:
+      - remittance_advice
+      - payment_instruction
+      required: true
+    - id: 5
+      name: question_2
+      label: What is the purpose of remittance advice?
+      hint: null
+      type: select_one
+      options:
+      - remittance_advice
+      - payment_instruction
+      required: true
+    - id: 6
+      name: question_3
+      label: What is the process of creating remittance advice?
+      hint: null
+      type: select_one
+      options:
+      - remittance_advice
+      - payment_instruction
+      required: true
+    - id: 7
+      name: quiz_result
+      label: Quiz Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

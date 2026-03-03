@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Inquiry Phone Call Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: Enter your company name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Enter your job title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_url
+      label: Company URL
+      hint: Enter your company URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New Business Opportunity''}'
+      - '{''id'': 2, ''label'': ''Partnership Opportunity''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: Enter a brief message about your interest
+      type: text
+      options: []
+      required: false

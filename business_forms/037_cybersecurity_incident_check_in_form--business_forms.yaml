@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: cybersecurity_incident_check_in_form
+    pages:
+    - id: 1
+      name: incident_info
+      label: Incident Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - Incident Type
+      - Security Incident
+      - Non-Security Incident
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_assets
+      label: Affected Assets
+      hint: List the assets affected
+      type: select_multiple
+      options:
+      - Server
+      - Network
+      - Database
+      - System
+      - Application
+      required: false
+    - id: 7
+      name: incident_impact
+      label: Incident Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 9
+      name: incident_reported
+      label: Incident Reported
+      hint: Include a date and time the incident was reported
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_escalation
+      label: Incident Escalation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_resolution
+      label: Incident Resolution
+      hint: Describe the resolution of the incident
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_learning
+      label: Incident Learning
+      hint: Describe any learnings from the incident
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_review
+      label: Incident Review
+      hint: Describe the review process and outcome
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_actions
+      label: Incident Actions
+      hint: Describe the actions taken during and after the incident
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_followup
+      label: Incident Follow-up
+      hint: Describe the follow-up activities
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - Incident Response Team
+      - Security Team
+      - Management
+      required: false
+    - id: 18
+      name: incident_reviewed_date
+      label: Reviewed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_closed_by
+      label: Closed By
+      hint: null
+      type: select_one
+      options:
+      - Incident Response Team
+      - Security Team
+      - Management
+      required: false
+    - id: 21
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 23
+      name: incident_tag
+      label: Tag
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 24
+      name: incident_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

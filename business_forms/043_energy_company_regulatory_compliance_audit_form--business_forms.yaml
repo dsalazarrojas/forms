@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Company Regulatory Compliance Audit Form
+    pages:
+    - id: 1
+      name: audit_details
+      label: Audit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: compliance_issues
+      label: Compliance Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: findings
+      label: Findings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: regulatory_requirements
+      label: Regulatory Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: energy_production
+      label: Energy Production
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: energy_storage
+      label: Energy Storage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: energy_distribution
+      label: Energy Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: energy_consumption_type
+      label: Energy Consumption Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: energy_source
+      label: Energy Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: energy_storage_method
+      label: Energy Storage Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: audit_results
+      label: Audit Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: next_audit_due_date
+      label: Next Audit Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

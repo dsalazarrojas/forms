@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expo Mentor Registration Form
+    pages:
+    - id: 1
+      name: mentor_personal_info
+      label: -- Mentor Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Experience
+      hint: Professional experience
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: expertise_areas
+      label: Areas of Expertise
+      hint: What are you expert in?
+      type: select_multiple
+      options:
+      - Business Strategy
+      - Finance and Accounting
+      - Marketing and Sales
+      - Operations
+      - Technology
+      - Human Resources
+      - Legal Compliance
+      - Entrepreneurship
+      required: true
+    - id: 12
+      name: mentoring_background
+      label: Mentoring Background
+      hint: Have you mentored before?
+      type: select_one
+      options:
+      - Yes, Extensive Experience
+      - Yes, Some Experience
+      - No, But Interested
+      - No Experience
+      required: true
+    - id: 13
+      name: mentor_goals
+      label: -- Mentoring Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mentoring_interests
+      label: Mentoring Interests
+      hint: What would you like to mentor?
+      type: select_multiple
+      options:
+      - Startup Founders
+      - Business Growth
+      - Specific Industry
+      - Technical Skills
+      - Leadership Development
+      - General Business Guidance
+      required: true
+    - id: 15
+      name: preferred_mentees
+      label: Preferred Mentee Profile
+      hint: What type of mentee?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: expo_date
+      label: Expo Date
+      hint: When is the expo?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: availability_hours
+      label: Available Hours
+      hint: What hours work best?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: session_length
+      label: Preferred Session Length
+      hint: Per mentoring session
+      type: select_one
+      options:
+      - 15 Minutes
+      - 30 Minutes
+      - 1 Hour
+      - Flexible
+      required: true
+    - id: 20
+      name: max_mentees
+      label: Maximum Number of Mentees
+      hint: How many can you mentor?
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: format_preference
+      label: Mentoring Format Preference
+      hint: How would you prefer?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Both
+      - No Preference
+      required: true
+    - id: 22
+      name: agreement
+      label: I Agree to Mentor at This Expo
+      hint: Do you agree?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

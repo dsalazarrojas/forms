@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Warehouse Robotics Application Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: robotics_solution_proposal
+      label: Robotics Solution Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: robot_type
+      label: Robot Type
+      hint: null
+      type: select_one
+      options:
+      - Robot 1
+      - Robot 2
+      - Robot 3
+      required: true
+    - id: 6
+      name: warehouse_size
+      label: Warehouse Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: operation_location
+      label: Operation Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: note_1
+      label: Note 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false

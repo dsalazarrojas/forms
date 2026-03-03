@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_seller_information_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - TX
+      - WA
+      required: true
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: listing_price
+      label: Listing Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: listing_date
+      label: Listing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: realty_type
+      label: Realty Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Commercial
+      required: true
+    - id: 13
+      name: realty_description
+      label: Realty Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: true
+    - id: 15
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: true

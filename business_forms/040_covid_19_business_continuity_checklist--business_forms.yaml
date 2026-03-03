@@ -1,0 +1,408 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Business Continuity Checklist
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_address
+      label: Business Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Business sector
+      type: select_one
+      options:
+      - Retail
+      - Restaurant or Food Service
+      - Office or Professional Services
+      - Manufacturing
+      - Healthcare
+      - Education
+      - Hospitality
+      - Other
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total workforce
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_header_1
+      label: -- Health and Safety Protocols --
+      hint: Check all implemented items
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: written_safety_plan
+      label: Written Safety Plan
+      hint: Documented COVID-19 plan
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - No - In progress
+      - No - Not started
+      required: true
+    - id: 12
+      name: health_screening
+      label: Employee Health Screening
+      hint: Daily checks
+      type: select_one
+      options:
+      - Yes - Daily screening
+      - Yes - Periodic
+      - false
+      required: true
+    - id: 13
+      name: mask_policy
+      label: Mask Policy
+      hint: Face covering requirements
+      type: select_one
+      options:
+      - Yes - Required for all
+      - Yes - Required for unvaccinated
+      - Optional
+      - No policy
+      required: true
+    - id: 14
+      name: social_distancing
+      label: Social Distancing Measures
+      hint: Physical distancing
+      type: select_one
+      options:
+      - Yes - 6 feet maintained
+      - Yes - Some distancing
+      - false
+      required: true
+    - id: 15
+      name: hand_hygiene
+      label: Hand Hygiene Stations
+      hint: Sanitizer availability
+      type: select_one
+      options:
+      - Yes - Multiple stations
+      - Yes - Limited stations
+      - false
+      required: true
+    - id: 16
+      name: cleaning_protocol
+      label: Enhanced Cleaning Protocol
+      hint: Disinfection schedule
+      type: select_one
+      options:
+      - Yes - Multiple times daily
+      - Yes - Daily
+      - Yes - Weekly
+      - false
+      required: true
+    - id: 17
+      name: ppe_available
+      label: PPE Available
+      hint: Masks gloves etc
+      type: select_one
+      options:
+      - Yes - Adequate supply
+      - Yes - Limited supply
+      - false
+      required: true
+    - id: 18
+      name: ventilation_improved
+      label: Ventilation Improved
+      hint: Air circulation
+      type: select_one
+      options:
+      - Yes - HVAC upgraded
+      - Yes - Windows opened
+      - Yes - Air purifiers
+      - false
+      required: true
+    - id: 19
+      name: section_header_2
+      label: -- Workforce Management --
+      hint: Employee policies
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: remote_work_policy
+      label: Remote Work Policy
+      hint: Work from home options
+      type: select_one
+      options:
+      - Yes - Full remote
+      - Yes - Hybrid
+      - Yes - Optional
+      - No - On-site required
+      required: true
+    - id: 21
+      name: sick_leave_policy
+      label: Sick Leave Policy
+      hint: COVID-related leave
+      type: select_one
+      options:
+      - Yes - Paid sick leave
+      - Yes - Unpaid leave
+      - No formal policy
+      required: true
+    - id: 22
+      name: vaccination_policy
+      label: Vaccination Policy
+      hint: Employee vaccination
+      type: select_one
+      options:
+      - Required for all
+      - Required for on-site
+      - Encouraged
+      - No policy
+      required: true
+    - id: 23
+      name: testing_available
+      label: Testing Available
+      hint: For employees
+      type: select_one
+      options:
+      - Yes - On-site testing
+      - Yes - Reimbursed
+      - false
+      required: true
+    - id: 24
+      name: contact_tracing_plan
+      label: Contact Tracing Plan
+      hint: If positive case
+      type: select_one
+      options:
+      - Yes - Written plan
+      - Yes - Informal
+      - false
+      required: true
+    - id: 25
+      name: section_header_3
+      label: -- Operations Continuity --
+      hint: Business operations
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: capacity_limits
+      label: Capacity Limits
+      hint: Occupancy restrictions
+      type: select_one
+      options:
+      - Yes - Following guidelines
+      - Yes - Self-imposed
+      - No restrictions
+      required: true
+    - id: 27
+      name: contactless_services
+      label: Contactless Services
+      hint: Curbside delivery etc
+      type: select_one
+      options:
+      - Yes - Multiple options
+      - Yes - Limited options
+      - false
+      required: true
+    - id: 28
+      name: supply_chain_plan
+      label: Supply Chain Contingency
+      hint: Alternative suppliers
+      type: select_one
+      options:
+      - Yes - Multiple suppliers
+      - Yes - Some alternatives
+      - false
+      required: true
+    - id: 29
+      name: inventory_management
+      label: Inventory Management
+      hint: Stock levels
+      type: select_one
+      options:
+      - Yes - Increased stock
+      - Yes - Just-in-time
+      - No changes
+      required: true
+    - id: 30
+      name: financial_reserves
+      label: Financial Reserves
+      hint: Cash on hand
+      type: select_one
+      options:
+      - Yes - 6+ months
+      - Yes - 3-6 months
+      - Yes - Less than 3 months
+      - No reserves
+      required: true
+    - id: 31
+      name: section_header_4
+      label: -- Communication --
+      hint: Stakeholder communication
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: employee_communication
+      label: Employee Communication Plan
+      hint: Regular updates
+      type: select_one
+      options:
+      - Yes - Regular updates
+      - Yes - As needed
+      - No formal plan
+      required: true
+    - id: 33
+      name: customer_communication
+      label: Customer Communication
+      hint: Policy notifications
+      type: select_one
+      options:
+      - Yes - Proactive
+      - Yes - Reactive
+      - false
+      required: true
+    - id: 34
+      name: signage_posted
+      label: Safety Signage Posted
+      hint: Visual reminders
+      type: select_one
+      options:
+      - Yes - Comprehensive
+      - Yes - Minimal
+      - false
+      required: true
+    - id: 35
+      name: section_header_5
+      label: -- Compliance --
+      hint: Regulatory requirements
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: local_guidelines_followed
+      label: Local Guidelines Followed
+      hint: City and county rules
+      type: select_one
+      options:
+      - Yes - Fully compliant
+      - Yes - Mostly compliant
+      - false
+      required: true
+    - id: 37
+      name: state_guidelines_followed
+      label: State Guidelines Followed
+      hint: State requirements
+      type: select_one
+      options:
+      - Yes - Fully compliant
+      - Yes - Mostly compliant
+      - false
+      required: true
+    - id: 38
+      name: federal_guidelines_followed
+      label: Federal Guidelines Followed
+      hint: OSHA CDC etc
+      type: select_one
+      options:
+      - Yes - Fully compliant
+      - Yes - Mostly compliant
+      - false
+      required: true
+    - id: 39
+      name: documentation_maintained
+      label: Documentation Maintained
+      hint: Records of compliance
+      type: select_one
+      options:
+      - Yes - Comprehensive
+      - Yes - Basic
+      - false
+      required: true
+    - id: 40
+      name: overall_readiness
+      label: Overall Pandemic Readiness
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Excellent - Fully prepared
+      - Good - Mostly prepared
+      - Fair - Some gaps
+      - Poor - Significant gaps
+      - Very Poor - Unprepared
+      required: true
+    - id: 41
+      name: priority_improvements
+      label: Priority Improvements Needed
+      hint: What needs attention
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: additional_resources_needed
+      label: Additional Resources Needed
+      hint: What would help
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: date_completed
+      label: Date Completed
+      hint: Today date
+      type: date
+      options: []
+      required: true

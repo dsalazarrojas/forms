@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: zoom_liability_waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_contact_info
+      label: Participant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Emergency Contact
+      required: false
+    - id: 6
+      name: emergency_contact_relationship_other
+      label: Other (if not listed above)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone_ext
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false

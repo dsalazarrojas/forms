@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Canvassing Debriefing Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: canvassed_by
+      label: Canvassed By
+      hint: null
+      type: select_multiple
+      options:
+      - Pollster John
+      - Pollster Jane
+      required: true
+    - id: 6
+      name: canvassed_date
+      label: Canvassed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: canvassed_time
+      label: Canvassed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

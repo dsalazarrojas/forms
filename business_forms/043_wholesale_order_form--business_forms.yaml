@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_products
+      label: Select Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_order
+      label: Confirm Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: product_id_1
+      label: Product 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product A''}'
+      - '{''id'': 2, ''name'': ''Product B''}'
+      required: true
+    - id: 12
+      name: product_id_2
+      label: Product 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product A''}'
+      - '{''id'': 2, ''name'': ''Product B''}'
+      required: false
+    - id: 13
+      name: product_id_3
+      label: Product 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: product_quantity_1
+      label: Quantity 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: product_quantity_2
+      label: Quantity 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: product_quantity_3
+      label: Quantity 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: confirm_name
+      label: Confirm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: confirm_address
+      label: Confirm Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_order_details
+      label: Confirm Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: confirm_order_date
+      label: Confirm Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: confirm_order_time
+      label: Confirm Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: confirm_products
+      label: Confirm Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Product A''}'
+      - '{''id'': 2, ''name'': ''Product B''}'
+      required: true

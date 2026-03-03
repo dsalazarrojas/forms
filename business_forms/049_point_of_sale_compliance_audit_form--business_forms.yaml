@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Point Of Sale Compliance Audit Form
+    pages:
+    - id: 1
+      name: store_info
+      label: Store Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sales_regulations
+      label: Sales Regulations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: audit_frequency
+      label: Audit Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 4
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_email
+      label: Store Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: auditor_info
+      label: Auditor Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

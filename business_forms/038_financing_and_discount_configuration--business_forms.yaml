@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financing And Discount Configuration
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discount_type
+      label: Discount Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: discount_percentage
+      label: Discount Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: discount_amount
+      label: Discount Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_term_other
+      label: Other Payment Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

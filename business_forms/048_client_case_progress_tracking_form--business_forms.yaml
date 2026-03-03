@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Case Progress Tracking Form
+    pages:
+    - id: 1
+      name: case_tracking_header
+      label: -- Case Progress Tracking --
+      hint: Monitor milestones and interactions for the current case.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_reference_id
+      label: Case/Project ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_status_header
+      label: -- Current Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: case_status
+      label: Current Case Status
+      hint: null
+      type: select_one
+      options:
+      - Discovery/Intake
+      - Active (Phase 1)
+      - Active (Phase 2)
+      - Pending Review
+      - Awaiting Client Input
+      - On Hold
+      - Completed/Closed
+      required: true
+    - id: 6
+      name: progress_percentage
+      label: Estimated Progress (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: last_interaction_date
+      label: Date of Last Client Interaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: interaction_type
+      label: Type of Last Interaction
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Phone Call
+      - Email
+      - Portal Message
+      - Document Delivery
+      required: true
+    - id: 9
+      name: milestones_header
+      label: -- Milestones and Accomplishments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: milestone_achieved
+      label: Most Recent Milestone Achieved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: next_milestone_target
+      label: Target for Next Milestone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: roadblocks_risks
+      label: Roadblocks or Risks identified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resource_needs
+      label: Additional Resources or Input required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updates_header
+      label: -- Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: notify_client_of_update
+      label: Send progress summary to client?
+      hint: null
+      type: select_one
+      options:
+      - Yes, via email
+      - Yes, via portal
+      - No, internal update only
+      required: true
+    - id: 16
+      name: updated_by_staff
+      label: Updated By (Staff Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_of_update
+      label: Date of Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: internal_summary
+      label: Internal Case Manager Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 20
+      name: tracking_footer
+      label: -- Progress entry saved --
+      hint: null
+      type: note
+      options: []
+      required: false

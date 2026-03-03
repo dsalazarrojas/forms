@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: wholesale_account_application_form
+    pages:
+    - id: 1
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_officer
+      label: Account Officer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Officer 1''}'
+      - '{''id'': 2, ''label'': ''Officer 2''}'
+      - '{''id'': 3, ''label'': ''Officer 3''}'
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false

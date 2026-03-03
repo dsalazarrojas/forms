@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: crisis_management_specialist_referral_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Specialist 1'', ''value'': 1}'
+      - '{''label'': ''Specialist 2'', ''value'': 2}'
+      - '{''label'': ''Specialist 3'', ''value'': 3}'
+      required: true
+    - id: 3
+      name: specialist_referral
+      label: Specialist Referral
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Specialist 1'', ''value'': 1}'
+      - '{''label'': ''Specialist 2'', ''value'': 2}'
+      - '{''label'': ''Specialist 3'', ''value'': 3}'
+      required: true
+    - id: 4
+      name: specialist_availability
+      label: Specialist Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: specialist_note
+      label: Specialist Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: specialist_contact_details
+      label: Specialist Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: specialist_availability_details
+      label: Specialist Availability Details
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: specialist_skills
+      label: Specialist Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: specialist_experience
+      label: Specialist Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_referral
+      label: Form Referral
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_referral
+      label: Client Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: specialist_organisation
+      label: Specialist Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_organisation
+      label: Client Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

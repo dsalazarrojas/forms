@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soap Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: How much soap do you want to order?
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: soap_type
+      label: Soap Type
+      hint: null
+      type: select_one
+      options:
+      - bar
+      - liquid
+      required: true
+    - id: 6
+      name: soap_color
+      label: Soap Color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      - yellow
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_one
+      options:
+      - store
+      - online
+      required: true
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true

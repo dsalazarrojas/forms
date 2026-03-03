@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Optimization Platform Application Form
+    pages:
+    - id: 1
+      name: form_control
+      label: Form Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: waste_types
+      label: Waste Types
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goals_description
+      label: Goals Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: goals_metric
+      label: Goals Metric
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_telephone
+      label: Contact Telephone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization_address_2
+      label: Organization Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

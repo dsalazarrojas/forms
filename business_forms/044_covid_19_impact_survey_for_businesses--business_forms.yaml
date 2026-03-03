@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Impact Survey For Businesses
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Food and Beverage
+      - Professional Services
+      - Manufacturing
+      - Healthcare
+      - Hospitality
+      - Technology
+      - Other
+      required: true
+    - id: 3
+      name: respondent_name
+      label: Respondent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_1
+      label: -- Operational Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: operations_status
+      label: Current Operations Status
+      hint: null
+      type: select_one
+      options:
+      - Fully operating
+      - Partially operating
+      - Temporarily closed
+      - Permanently closed
+      required: true
+    - id: 8
+      name: capacity_operating
+      label: Operating at What Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: revenue_change
+      label: Revenue Change Compared to Pre-COVID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_header_2
+      label: -- Workforce Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employees_before_covid
+      label: Number of Employees Before COVID-19
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employees_current
+      label: Current Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: remote_work
+      label: Employees Working Remotely
+      hint: Percentage or number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_3
+      label: -- Financial Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: financial_challenges
+      label: Main Financial Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reduced revenue
+      - Increased expenses
+      - Cash flow problems
+      - Supply chain issues
+      - Difficulty paying employees
+      - Difficulty paying rent or mortgage
+      - Debt obligations
+      - Other
+      required: true
+    - id: 16
+      name: assistance_received
+      label: Government or Financial Assistance Received
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: assistance_type
+      label: Type of Assistance
+      hint: PPP loan, EIDL, grants, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_4
+      label: -- Customer and Market Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: customer_demand_change
+      label: Customer Demand Change
+      hint: null
+      type: select_one
+      options:
+      - Significantly increased
+      - Increased
+      - Unchanged
+      - Decreased
+      - Significantly decreased
+      required: true
+    - id: 20
+      name: digital_transformation
+      label: Implemented Digital Solutions
+      hint: Online sales, delivery, virtual services, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: section_header_5
+      label: -- Future Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recovery_timeline
+      label: Expected Recovery Timeline
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      - Uncertain
+      - Unlikely to recover
+      required: true
+    - id: 23
+      name: business_viability
+      label: Business Viability Outlook
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very negative
+      required: true
+    - id: 24
+      name: support_needs
+      label: What Support Would Help Most
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney CLE Credit Affirmation
+    pages:
+    - id: 1
+      name: attorney_information
+      label: -- Attorney Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attorney_name
+      label: Attorney Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bar_number
+      label: Bar Number
+      hint: State bar admission number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bar_state
+      label: Bar State
+      hint: State(s) of bar admission
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attorney_email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: firm_name
+      label: Law Firm Name
+      hint: Name of current law firm or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_information
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_title
+      label: Course Title
+      hint: Official name of CLE course
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_date
+      label: Course Date
+      hint: Date course was completed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: course_provider
+      label: Course Provider
+      hint: Organization offering the CLE
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: course_format
+      label: Course Format
+      hint: How was the course delivered?
+      type: select_one
+      options:
+      - Live In-Person
+      - Live Virtual
+      - Recording/Webinar
+      - Self-Study
+      - Hybrid
+      required: true
+    - id: 12
+      name: course_location
+      label: Course Location
+      hint: City or venue if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_accreditation
+      label: -- Course Accreditation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: approved_jurisdiction
+      label: Approved Jurisdiction
+      hint: State bar(s) approving this course
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: course_credits_claimed
+      label: CLE Credits Claimed
+      hint: Number of credit hours completed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: ethics_credits
+      label: Ethics Credits
+      hint: Hours credited toward ethics requirement
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: professionalism_credits
+      label: Professionalism/Diversity Credits
+      hint: Hours for professionalism or diversity
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: credit_type
+      label: Type of Credit
+      hint: Category of credit
+      type: select_one
+      options:
+      - General CLE
+      - Ethics
+      - Professionalism
+      - Diversity
+      - Cybersecurity
+      - Other
+      required: true
+    - id: 19
+      name: affirmation_section
+      label: -- Affirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attend_affirmation
+      label: I attended this course in its entirety
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - I Affirm
+      - I Do Not Affirm
+      required: true
+    - id: 21
+      name: material_retention
+      label: I retained course materials
+      hint: Course materials kept for records
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: certificate_received
+      label: Certificate of Completion Received
+      hint: Do you have completion certificate?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Receive
+      required: true
+    - id: 23
+      name: no_compensation_disclosure
+      label: No Compensation Disclosure
+      hint: I did not receive compensation for attending
+      type: select_one
+      options:
+      - I Affirm
+      - I Do Not Affirm
+      required: true
+    - id: 24
+      name: truthful_affirmation
+      label: Truthfulness Affirmation
+      hint: Information provided is truthful and accurate
+      type: select_one
+      options:
+      - I Affirm
+      - I Do Not Affirm
+      required: true
+    - id: 25
+      name: submission_date
+      label: Date of Submission
+      hint: Date this form is being submitted
+      type: date
+      options: []
+      required: true

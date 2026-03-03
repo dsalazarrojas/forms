@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roof Check
+    pages:
+    - id: 1
+      name: roof_check_form
+      label: roof_check_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roof_type
+      label: roof_type
+      hint: null
+      type: select_one
+      options:
+      - Asphalt
+      - Clay
+      - Cedar
+      - Metal
+      required: false
+    - id: 3
+      name: roof_height
+      label: roof_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: roof_area
+      label: roof_area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: roof_slope
+      label: roof_slope
+      hint: null
+      type: select_one
+      options:
+      - Flat
+      - Gable
+      - Hip
+      - Mansard
+      required: false
+    - id: 6
+      name: roof_pitch
+      label: roof_pitch
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      required: false
+    - id: 7
+      name: roof_features
+      label: roof_features
+      hint: null
+      type: select_multiple
+      options:
+      - Solar
+      - Wind
+      required: false
+    - id: 8
+      name: roof_notes
+      label: roof_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: roof_email
+      label: roof_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: roof_phone
+      label: roof_phone
+      hint: null
+      type: text
+      options: []
+      required: false

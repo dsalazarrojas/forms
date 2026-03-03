@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Success Registration Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_a''}'
+      - '{''value'': ''option_b''}'
+      - '{''value'': ''option_c''}'
+      - '{''value'': ''option_d''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_a''}'
+      - '{''value'': ''option_b''}'
+      - '{''value'': ''option_c''}'
+      - '{''value'': ''option_d''}'
+      - '{''value'': ''option_e''}'
+      - '{''value'': ''option_f''}'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_success_registration_form_business_forms
+      label: customer_success_registration_form_business_forms
+      hint: null
+      type: text
+      options: []
+      required: false

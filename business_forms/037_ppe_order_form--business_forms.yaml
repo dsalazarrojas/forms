@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppe_order_form
+    pages:
+    - id: 1
+      name: ppe_order
+      label: PPE Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ppe_purpose
+      label: PPE Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ppe_date
+      label: PPE Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: ppe_time
+      label: PPE Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ppe_phone
+      label: PPE Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ppe_email
+      label: PPE Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: ppe_comments
+      label: PPE Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ppe_status
+      label: PPE Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: ppe_status2
+      label: PPE Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: ppe_status3
+      label: PPE Status 3
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: ppe_status4
+      label: PPE Status 4
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

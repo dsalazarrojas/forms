@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ligature Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_assessment
+      label: Time of Assessment
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: risk_factors
+      label: Risk Factors
+      hint: List any risk factors present
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: risk_factor_1
+      label: Ligature Entanglement
+      hint: null
+      type: select_one
+      options:
+      - Ligature Entanglement 1
+      - Ligature Entanglement 2
+      - Ligature Entanglement 3
+      required: true
+    - id: 7
+      name: risk_factor_2
+      label: Ligature Displacement
+      hint: null
+      type: select_multiple
+      options:
+      - Ligature Displacement 1
+      - Ligature Displacement 2
+      - Ligature Displacement 3
+      required: true
+    - id: 8
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 9
+      name: recommended_actions
+      label: Recommended Actions
+      hint: List any recommended actions for mitigation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Reviewed and Approved
+      - Not Reviewed
+      - Reviewed but Not Approved
+      required: true
+    - id: 11
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: risk_level_description
+      label: Risk Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_review
+      label: Date of Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_review
+      label: Time of Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risk_factor_3
+      label: Ligature Entanglement
+      hint: null
+      type: select_multiple
+      options:
+      - Ligature Entanglement 1
+      - Ligature Entanglement 2
+      - Ligature Entanglement 3
+      required: false
+    - id: 17
+      name: risk_factor_4
+      label: Ligature Displacement
+      hint: null
+      type: select_one
+      options:
+      - Ligature Displacement 1
+      - Ligature Displacement 2
+      - Ligature Displacement 3
+      required: false
+    - id: 18
+      name: risk_factor_5
+      label: Ligature Displacement
+      hint: null
+      type: select_multiple
+      options:
+      - Ligature Displacement 1
+      - Ligature Displacement 2
+      - Ligature Displacement 3
+      required: false
+    - id: 19
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_date
+      label: Reviewer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_time
+      label: Reviewer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

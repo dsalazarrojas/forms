@@ -1,0 +1,509 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Vendor Licensing Registration Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation Vendor Licensing Registration
+      hint: Register for vendor licensing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: Vendor Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_description
+      label: Company Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: year_established
+      label: Year Established
+      hint: When founded
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - Japan
+      - China
+      - India
+      - Other
+      required: true
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 13
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 14
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Tax identification
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_info
+      label: Contact Information
+      hint: Primary contact
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: licensing_info
+      label: Licensing Information
+      hint: License details
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: license_type
+      label: License Type Requested
+      hint: What type
+      type: select_one
+      options:
+      - Basic Vendor
+      - Certified Vendor
+      - Premium Vendor
+      - Enterprise Vendor
+      - Reseller
+      - Distributor
+      - Other
+      required: true
+    - id: 22
+      name: license_category
+      label: License Category
+      hint: What category
+      type: select_one
+      options:
+      - Product Vendor
+      - Service Vendor
+      - Solution Provider
+      - Technology Partner
+      - Integration Partner
+      - Other
+      required: true
+    - id: 23
+      name: product_categories
+      label: Product Categories
+      hint: What you provide
+      type: select_multiple
+      options:
+      - Robotics
+      - Control Systems
+      - Sensors
+      - Actuators
+      - PLCs
+      - HMIs
+      - SCADA
+      - MES Software
+      - Vision Systems
+      - Safety Equipment
+      - Conveyors
+      - Pneumatics
+      - Hydraulics
+      - Motors and Drives
+      - Other
+      required: true
+    - id: 24
+      name: service_categories
+      label: Service Categories
+      hint: What services
+      type: select_multiple
+      options:
+      - Installation
+      - Integration
+      - Programming
+      - Maintenance
+      - Support
+      - Training
+      - Consulting
+      - Repair
+      - Other
+      required: false
+    - id: 25
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where will you operate
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Global
+      required: true
+    - id: 26
+      name: territories
+      label: Requested Territories
+      hint: Specific regions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: qualifications
+      label: Qualifications
+      hint: Your qualifications
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: years_experience
+      label: Years in Industry
+      hint: How long
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 29
+      name: certifications
+      label: Certifications Held
+      hint: What certifications
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 14001
+      - UL Listed
+      - CE Marked
+      - CSA Certified
+      - Six Sigma
+      - PMP
+      - Other
+      - None
+      required: false
+    - id: 30
+      name: certification_details
+      label: Certification Details
+      hint: List certifications
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: technical_certifications
+      label: Technical Certifications
+      hint: Staff certifications
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: insurance
+      label: Insurance Coverage
+      hint: Do you have insurance
+      type: select_one
+      options:
+      - General Liability
+      - Professional Liability
+      - Product Liability
+      - Workers Compensation
+      - All of Above
+      - None
+      required: true
+    - id: 33
+      name: insurance_amount
+      label: Coverage Amount
+      hint: Coverage limit
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$5M
+      - $5M-$10M
+      - Over $10M
+      required: false
+    - id: 34
+      name: references
+      label: Client References
+      hint: Provide references
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: past_projects
+      label: Past Projects
+      hint: Describe relevant projects
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: financial_info
+      label: Financial Information
+      hint: Business financials
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Revenue range
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$50M
+      - Over $50M
+      required: false
+    - id: 38
+      name: credit_reference
+      label: Credit Reference
+      hint: Bank or credit
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: bonding_capacity
+      label: Bonding Capacity
+      hint: If applicable
+      type: select_one
+      options:
+      - None
+      - Under $100K
+      - $100K-$500K
+      - $500K-$1M
+      - Over $1M
+      required: false
+    - id: 40
+      name: compliance
+      label: Compliance
+      hint: Regulatory compliance
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: Do you comply
+      type: select_one
+      options:
+      - Yes Fully Compliant
+      - Mostly Compliant
+      - Working on Compliance
+      - Not Applicable
+      required: true
+    - id: 42
+      name: safety_record
+      label: Safety Record
+      hint: Your safety history
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 43
+      name: legal_issues
+      label: Legal Issues
+      hint: Any pending litigation
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Significant
+      required: true
+    - id: 44
+      name: licensing_terms
+      label: Licensing Terms
+      hint: Please read
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: terms_acceptance
+      label: Terms Acceptance
+      hint: Do you agree
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 46
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: Will you follow
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 47
+      name: quality_standards
+      label: Quality Standards
+      hint: Will you maintain
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 48
+      name: fee_structure
+      label: Fee Structure
+      hint: Understanding of fees
+      type: select_one
+      options:
+      - I Understand
+      - I Need More Info
+      required: true
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Trade Show
+      - Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 51
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: signature_title
+      label: Signature Title
+      hint: Signer title
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

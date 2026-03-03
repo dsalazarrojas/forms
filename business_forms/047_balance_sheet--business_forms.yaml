@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Balance Sheet
+    pages:
+      - id: 1
+        name: section_company
+        label: -- Company Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporting_date
+        Label: Reporting Date
+        hint: As of this date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: fiscal_period
+        Label: Fiscal Period
+        hint: Quarterly, annual, etc.
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Annual
+          - Other
+        required: true
+      - id: 5
+        name: prepared_by
+        Label: Prepared By
+        hint: Name of person preparing the form
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_assets
+        label: -- Assets --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: current_cash
+        Label: Current Assets - Cash
+        hint: In dollars
+        type: decimal
+        options: []
+        required: true
+      - id: 8
+        name: accounts_receivable
+        Label: Accounts Receivable
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 9
+        name: inventory
+        Label: Inventory
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 10
+        name: other_current
+        Label: Other Current Assets
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 11
+        name: total_current_assets
+        Label: Total Current Assets
+        hint: Calculated total
+        type: decimal
+        options: []
+        required: true
+      - id: 12
+        name: fixed_assets
+        Label: Fixed Assets (Property, Equipment)
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 13
+        name: accumulated_depreciation
+        Label: Less Accumulated Depreciation
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 14
+        name: intangible_assets
+        Label: Intangible Assets
+        hint: Goodwill, patents, etc.
+        type: decimal
+        options: []
+        required: false
+      - id: 15
+        name: total_assets
+        Label: Total Assets
+        hint: Total of all asset categories
+        type: decimal
+        options: []
+        required: true
+      - id: 16
+        name: section_liabilities
+        label: -- Liabilities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: accounts_payable
+        Label: Accounts Payable
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 18
+        name: short_term_debt
+        Label: Short-Term Debt
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 19
+        name: current_liabilities
+        Label: Other Current Liabilities
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 20
+        name: total_current_liabilities
+        Label: Total Current Liabilities
+        hint: Calculated total
+        type: decimal
+        options: []
+        required: true
+      - id: 21
+        name: long_term_debt
+        Label: Long-Term Debt
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 22
+        name: total_liabilities
+        Label: Total Liabilities
+        hint: Total of all liability categories
+        type: decimal
+        options: []
+        required: true
+      - id: 23
+        name: section_equity
+        label: -- Shareholders Equity --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: common_stock
+        Label: Common Stock
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 25
+        name: retained_earnings
+        Label: Retained Earnings
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: eftpos_information_form
+    pages:
+    - id: 1
+      name: terminal_id
+      label: Terminal ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: branch_code
+      label: Branch Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: branch_name
+      label: Branch Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Account Management
+      - Account Management
+      - Account Opening
+      - Account Opening
+      - Savings
+      - Savings
+      - Loan
+      - Loan
+      - Other
+      - Other
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: terminal_type
+      label: Terminal Type
+      hint: null
+      type: select_one
+      options:
+      - EFTPOS
+      - EFTPOS
+      - Other
+      - Other
+      required: true
+    - id: 12
+      name: terminal_status
+      label: Terminal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Active
+      - Inactive
+      - Inactive
+      - Offline
+      - Offline
+      - Online
+      - Online
+      required: true
+    - id: 13
+      name: terminal_description
+      label: Terminal Description
+      hint: Terminal description
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: terminal_notes
+      label: Terminal Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: bank_details
+      label: Bank Details
+      hint: Select multiple bank details
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: payment_provider
+      label: Payment Provider
+      hint: Payment provider
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: finance_details
+      label: Finance Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: support_team
+      label: Support Team
+      hint: Support team
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: onboarding_date
+      label: Onboarding Date
+      hint: Onboarding date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: onboarding_time
+      label: Onboarding Time
+      hint: Onboarding time
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Onboarding
+      - Onboarding
+      - Not Onboarding
+      - Not Onboarding
+      required: false
+    - id: 22
+      name: onboarding_comments
+      label: Onboarding Comments
+      hint: Onboarding comments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: update_date
+      label: Update Date
+      hint: Update date
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: update_time
+      label: Update Time
+      hint: Update time
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: update_status
+      label: Update Status
+      hint: null
+      type: select_one
+      options:
+      - Update
+      - Update
+      - Not Update
+      - Not Update
+      required: false

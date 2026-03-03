@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kristine's Knockout Nails Ordering Form
+    pages:
+    - id: 1
+      name: knockout_nails_form
+      label: knockout_nails_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_length
+      label: nail_length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: nail_color
+      label: nail_color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: nail_quantity
+      label: nail_quantity
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Finance Office Contact Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: office_location
+      label: Office Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: vendor_type_options
+      label: Select One - Vendor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Vendor A
+      - Vendor B
+      - Vendor C
+      required: false
+    - id: 8
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false

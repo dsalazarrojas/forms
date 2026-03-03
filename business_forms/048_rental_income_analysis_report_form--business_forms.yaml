@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Income Analysis Report Form
+    pages:
+    - id: 1
+      name: rent_period
+      label: Rent Period
+      hint: null
+      type: select_one
+      options:
+      - One
+      - Three
+      - Six
+      - Twelve
+      required: false
+    - id: 2
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Investment
+      - Vacation
+      required: false
+    - id: 3
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Semi-Annually
+      required: false
+    - id: 4
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Single Family Home
+      - Townhouse
+      - Condo
+      - Duplex
+      required: false
+    - id: 6
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: renter_details
+      label: Renter Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rent_amount_currency
+      label: Rent Amount Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - GBP
+      required: false
+    - id: 12
+      name: property_insurance
+      label: Property Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: property_management_fees
+      label: Property Management Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: other_income
+      label: Other Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: tax_frequency
+      label: Tax Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Semi-Annually
+      required: false
+    - id: 17
+      name: tax_rate_currency
+      label: Tax Rate Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - GBP
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false

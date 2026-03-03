@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Entry Form
+    pages:
+    - id: 1
+      name: task_entry_form_page_1
+      label: Task Entry Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objective
+      label: objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goal
+      label: goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Business Forms''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: false

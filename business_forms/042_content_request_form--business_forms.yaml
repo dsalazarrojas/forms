@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Product
+      - Customer Support
+      - Human Resources
+      - Executive
+      - IT
+      - Other
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: content_type_needed
+      label: Content Type Needed
+      hint: What type of content do you need?
+      type: select_one
+      options:
+      - Blog Post
+      - Website Copy
+      - Social Media Post
+      - Email Newsletter
+      - Product Description
+      - Case Study
+      - White Paper
+      - Press Release
+      - Video Script
+      - Infographic
+      required: true
+    - id: 7
+      name: content_topic
+      label: Content Topic
+      hint: What should the content be about?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: content_objective
+      label: Content Objective
+      hint: What is the goal of this content?
+      type: select_one
+      options:
+      - Inform or Educate
+      - Generate Leads
+      - Promote Product
+      - Build Brand Awareness
+      - Improve SEO
+      - Support Sales
+      - Customer Retention
+      - Announce News
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: Who is this content for?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: key_messages
+      label: Key Messages
+      hint: What are the main points to convey?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: tone_of_voice
+      label: Tone of Voice
+      hint: What tone should be used?
+      type: select_one
+      options:
+      - Professional
+      - Casual
+      - Friendly
+      - Authoritative
+      - Humorous
+      - Inspirational
+      - Technical
+      - Persuasive
+      required: true
+    - id: 12
+      name: word_count
+      label: Word Count
+      hint: Desired length
+      type: select_one
+      options:
+      - Under 500 words
+      - 500-800 words
+      - 800-1200 words
+      - 1200-2000 words
+      - 2000+ words
+      - Not Applicable
+      required: true
+    - id: 13
+      name: seo_keywords
+      label: SEO Keywords
+      hint: Keywords to include
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: call_to_action
+      label: Call to Action
+      hint: What action should readers take?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: deadline
+      label: Deadline
+      hint: When do you need this content?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where will this content be published?
+      type: select_multiple
+      options:
+      - Company Website
+      - Company Blog
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
+      - Email Newsletter
+      - Print
+      required: true
+    - id: 17
+      name: visual_requirements
+      label: Visual Requirements
+      hint: What visuals are needed?
+      type: select_multiple
+      options:
+      - Featured Image
+      - Stock Photos
+      - Custom Graphics
+      - Charts or Graphs
+      - Screenshots
+      - Icons
+      - None
+      required: true
+    - id: 18
+      name: reference_materials
+      label: Reference Materials
+      hint: Links or documents for reference
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: competitor_examples
+      label: Competitor Examples
+      hint: Links to similar content you like
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget
+      label: Budget
+      hint: Budget for this content
+      type: select_one
+      options:
+      - Internal Creation
+      - Under $500
+      - $500-$1,000
+      - $1,000-$2,500
+      - $2,500+
+      required: false
+    - id: 21
+      name: approval_required
+      label: Approval Required
+      hint: Who needs to approve this content?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

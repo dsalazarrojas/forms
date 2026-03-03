@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dining Room Violation Report
+    pages:
+    - id: 1
+      name: violation_date
+      label: Violation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Communication Phrase Request Form
+    pages:
+      - id: 1
+        name: requestor_info
+        label: Requestor Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+        - Marketing
+        - Sales
+        - Customer Service
+        - Human Resources
+        - Communications
+        - Legal
+        - Executive
+        - Other
+        required: true
+      - id: 5
+        name: company_name
+        label: Company Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: phrase_request
+        label: Phrase Request
+        hint: What phrase do you need
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: phrase_description
+        label: Phrase Description
+        hint: What phrase or message do you need
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_language
+        label: Target Language
+        hint: What language do you need
+        type: select_one
+        options:
+        - English
+        - Spanish
+        - French
+        - German
+        - Italian
+        - Portuguese
+        - Chinese
+        - Japanese
+        - Korean
+        - Arabic
+        - Other
+        required: true
+      - id: 9
+        name: communication_context
+        label: Communication Context
+        hint: Where will this be used
+        type: select_one
+        options:
+        - Email
+        - Website
+        - Social Media
+        - Marketing Material
+        - Presentation
+        - Report
+        - Customer Communication
+        - Internal Communication
+        - Legal Document
+        - Other
+        required: true
+      - id: 10
+        name: tone
+        label: Tone
+        hint: What tone do you need
+        type: select_one
+        options:
+        - Formal
+        - Professional
+        - Friendly
+        - Casual
+        - Persuasive
+        - Informative
+        - Apologetic
+        - Celebratory
+        required: true
+      - id: 11
+        name: audience
+        label: Target Audience
+        hint: Who will read this
+        type: select_one
+        options:
+        - Customers
+        - Prospects
+        - Employees
+        - Executives
+        - Partners
+        - Investors
+        - General Public
+        - Media
+        required: true
+      - id: 12
+        name: industry_specific
+        label: Industry-Specific Terminology
+        hint: Are there specific terms to use
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: existing_content
+        label: Existing Content or Draft
+        hint: Do you have a draft to refine
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: key_message
+        label: Key Message
+        hint: What is the main point
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: call_to_action
+        label: Call to Action
+        hint: What action should readers take
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: length_preference
+        label: Length Preference
+        hint: How long should it be
+        type: select_one
+        options:
+        - Very Brief (1-2 sentences)
+        - Short (3-5 sentences)
+        - Medium (1 paragraph)
+        - Long (2+ paragraphs)
+        - Flexible
+        required: true
+      - id: 17
+        name: brand_guidelines
+        label: Brand Guidelines
+        hint: Are there brand requirements
+        type: select_one
+        options:
+        - Yes - Strict Guidelines
+        - Yes - General Guidelines
+        - No - Flexible
+        - Not Sure
+        required: true
+      - id: 18
+        name: examples_preferred
+        label: Would You Like Examples
+        hint: Do you want multiple options
+        type: select_one
+        options:
+        - Yes - 2 Options
+        - Yes - 3 Options
+        - Yes - 5 Options
+        - No - Just One
+        required: true
+      - id: 19
+        name: deadline
+        label: Deadline
+        hint: When do you need this
+        type: select_one
+        options:
+        - Immediately
+        - Within 24 Hours
+        - Within 3 Days
+        - Within 1 Week
+        - Flexible
+        required: true
+      - id: 20
+        name: usage_frequency
+        label: How Often Will This Be Used
+        hint: Frequency of use
+        type: select_one
+        options:
+        - One-Time Use
+        - Occasional Use
+        - Regular Use
+        - Ongoing Template
+        required: true
+      - id: 21
+        name: additional_context
+        label: Additional Context
+        hint: Any other information
+        type: text
+        options: []
+        required: false

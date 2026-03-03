@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Loan Application Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_term
+      label: loan_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_start_date
+      label: loan_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: loan_end_date
+      label: loan_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: loan_frequency
+      label: loan_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: loan_frequency_frequency
+      label: daily
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: loan_frequency_monthly
+      label: monthly
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: loan_frequency_quarterly
+      label: quarter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: loan_frequency_yearly
+      label: yearly
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_manager_name
+      label: employee_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_approval_status
+      label: manager_approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: manager_approval_status_approved
+      label: approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_approval_status_rejected
+      label: rejected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_approval_status_pending
+      label: pending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_reason_for_rejection
+      label: manager_reason_for_rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_job_title
+      label: employee_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_department
+      label: manager_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_job_title
+      label: manager_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

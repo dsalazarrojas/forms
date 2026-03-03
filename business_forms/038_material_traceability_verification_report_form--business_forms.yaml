@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Traceability Verification Report Form
+    pages:
+    - id: 1
+      name: form_number
+      label: Form Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_description
+      label: Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quantity_received
+      label: Quantity Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supplier_contact
+      label: Supplier Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: received_by
+      label: Received By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Admin''}'
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: material_traceability_id
+      label: Material Traceability ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 123}'
+      - '{''id'': 2, ''label'': 456}'
+      - '{''id'': 3, ''label'': 789}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

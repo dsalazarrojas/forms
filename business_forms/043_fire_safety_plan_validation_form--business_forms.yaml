@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Plan Validation Form
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_safety_plan
+      label: Fire Safety Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plan_approval
+      label: Plan Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 5.2, ''name'': ''not_approved'', ''label'': ''Not Approved''}'
+      - '{''id'': 5.3, ''name'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 6
+      name: fire_safety_plan_version
+      label: Fire Safety Plan Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fire_safety_plan_status
+      label: Fire Safety Plan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 7.2, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 7.3, ''name'': ''not_applicable'', ''label'': ''Not Applicable''}'
+      required: false
+    - id: 8
+      name: fire_safety_plan_effectiveness
+      label: Fire Safety Plan Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''name'': ''effective'', ''label'': ''Effective''}'
+      - '{''id'': 8.2, ''name'': ''not_effective'', ''label'': ''Not Effective''}'
+      - '{''id'': 8.3, ''name'': ''pending'', ''label'': ''Pending''}'
+      required: false

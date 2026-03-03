@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Day Sales Report Form
+    pages:
+    - id: 1
+      name: sales_period
+      label: Sales Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sales_tax
+      label: Sales Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shipping_fees
+      label: Shipping Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: net_sales
+      label: Net Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_id
+      label: Product ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sales_rep_id
+      label: Sales Rep ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sales_rep_name
+      label: Sales Rep Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: sales_region
+      label: Sales Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: sales_status
+      label: Sales Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

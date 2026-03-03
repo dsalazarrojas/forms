@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Merchandising Request And Order Form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order
+      label: order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''type1''}'
+      - '{''id'': 2, ''label'': ''type2''}'
+      - '{''id'': 3, ''label'': ''type3''}'
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Product Categories
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''category1''}'
+      - '{''id'': 2, ''label'': ''category2''}'
+      - '{''id'': 3, ''label'': ''category3''}'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

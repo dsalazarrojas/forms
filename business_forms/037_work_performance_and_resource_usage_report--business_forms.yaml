@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Performance And Resource Usage Report
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_start_date
+      label: Report Start Date
+      hint: Select the start date for the report
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: report_end_date
+      label: Report End Date
+      hint: Select the end date for the report
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Select the department
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: Select the location(s)
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_lead
+      label: Team Lead
+      hint: Select the team lead
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: report_type
+      label: Report Type
+      hint: Select the report type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: report_status
+      label: Report Status
+      hint: Select the report status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: resource_usage
+      label: Resource Usage
+      hint: Select the resource usage
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: report_frequency
+      label: Report Frequency
+      hint: Select the report frequency
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reporting_user
+      label: Reporting User
+      hint: Select the reporting user
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: report_due_date
+      label: Report Due Date
+      hint: Select the report due date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: report_last_updated
+      label: Report Last Updated
+      hint: Select the report last updated date
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: report_last_updated_by
+      label: Report Last Updated By
+      hint: Select the report last updated by
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: report_last_updated_time
+      label: Report Last Updated Time
+      hint: Select the report last updated time
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_services_payment_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_billed
+      label: Services Billed
+      hint: null
+      type: select_multiple
+      options:
+      - Keyword Research
+      - On-Page Optimization
+      - Off-Page Optimization
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 4
+      name: payment_date
+      label: Payment Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: Enter amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: Enter address
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: Enter note
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: services_billed_2
+      label: Additional Services Billed
+      hint: null
+      type: select_multiple
+      options:
+      - Content Creation
+      - Content Management
+      - Content Strategy
+      required: true
+    - id: 11
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,520 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cash Handling Procedures Audit Form
+    pages:
+      - id: 1
+        name: audit_header
+        label: Cash Handling Procedures Audit Form
+        hint: Ensure effective cash management and auditing
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: audit_id
+        label: Audit ID Number
+        hint: Reference number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: audit_date
+        label: Audit Date
+        hint: Date of audit
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: audit_time
+        label: Audit Time
+        hint: Start time
+        type: time
+        options: []
+        required: false
+      - id: 5
+        name: location_info
+        label: Location Information
+        hint: Where audit occurs
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: location_name
+        label: Location or Branch
+        hint: Facility name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: department
+        label: Department
+        hint: Area audited
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: auditor_info
+        label: Auditor Information
+        hint: Who is auditing
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: auditor_name
+        label: Auditor Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: auditor_title
+        label: Auditor Title
+        hint: Position
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: audit_scope
+        label: Audit Scope
+        hint: What is being audited
+        type: select_one
+        options:
+          - Full cash handling procedures
+          - Register operations
+          - Safe management
+          - Deposit procedures
+          - Petty cash
+          - Change fund
+          - Specific shift
+          - Other
+        required: true
+      - id: 12
+        name: procedures_assessment
+        label: Procedures Assessment
+        hint: Policy compliance
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: written_procedures
+        label: Are Written Procedures Available
+        hint: Documentation
+        type: select_one
+        options:
+          - Yes - current and accessible
+          - Yes - but outdated
+          - Yes - but not accessible
+          - No - not documented
+        required: true
+      - id: 14
+        name: procedures_date
+        label: When Were Procedures Last Updated
+        hint: Review date
+        type: date
+        options: []
+        required: false
+      - id: 15
+        name: staff_training
+        label: Have Staff Been Trained on Procedures
+        hint: Training status
+        type: select_one
+        options:
+          - Yes - all staff trained
+          - Yes - most staff trained
+          - Partially - some trained
+          - No - no formal training
+        required: true
+      - id: 16
+        name: training_records
+        label: Are Training Records Maintained
+        hint: Documentation
+        type: select_one
+        options:
+          - Yes - complete records
+          - Yes - partial records
+          - No - informal tracking
+          - No - no records
+        required: false
+      - id: 17
+        name: register_procedures
+        label: Register Procedures
+        hint: Cash register controls
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: register_login
+        label: Do Cashiers Use Individual Logins
+        hint: User identification
+        type: select_one
+        options:
+          - Yes - always
+          - Yes - mostly
+          - Sometimes
+          - No - shared logins
+        required: true
+      - id: 19
+        name: cash_drawer_assignment
+        label: Are Cash Drawers Individually Assigned
+        hint: Drawer responsibility
+        type: select_one
+        options:
+          - Yes - always
+          - Yes - mostly
+          - Sometimes
+          - No - shared drawers
+        required: true
+      - id: 20
+        name: starting_fund_verification
+        label: Are Starting Funds Verified
+        hint: Opening counts
+        type: select_one
+        options:
+          - Yes - counted and signed
+          - Yes - counted only
+          - Sometimes
+          - No - assumed correct
+        required: true
+      - id: 21
+        name: transaction_verification
+        label: Are Large Transactions Verified
+        hint: Approval for big amounts
+        type: select_one
+        options:
+          - Yes - all over threshold
+          - Yes - some
+          - Occasionally
+          - No - no verification
+        required: true
+      - id: 22
+        name: void_refund_controls
+        label: Are Voids and Refunds Controlled
+        hint: Authorization required
+        type: select_one
+        options:
+          - Yes - manager approval required
+          - Yes - supervisor approval
+          - Sometimes
+          - No - cashier can process
+        required: true
+      - id: 23
+        name: register_reconciliation
+        label: Are Registers Reconciled Each Shift
+        hint: End-of-shift counts
+        type: select_one
+        options:
+          - Yes - always
+          - Yes - mostly
+          - Sometimes
+          - No - rarely
+        required: true
+      - id: 24
+        name: safe_management
+        label: Safe Management
+        hint: Safe controls
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: safe_access
+        label: Who Has Safe Access
+        hint: Authorized personnel
+        type: select_one
+        options:
+          - Manager only
+          - Manager and supervisor
+          - Multiple staff
+          - Anyone
+        required: true
+      - id: 26
+        name: safe_combination
+        label: Is Safe Combination Changed Periodically
+        hint: Security measure
+        type: select_one
+        options:
+          - Yes - quarterly
+          - Yes - annually
+          - Yes - when staff changes
+          - No - never changed
+        required: true
+      - id: 27
+        name: drop_procedures
+        label: Are Cash Drops Performed Regularly
+        hint: Safe deposit procedures
+        type: select_one
+        options:
+          - Yes - per policy
+          - Yes - irregularly
+          - Sometimes
+          - No - not done
+        required: true
+      - id: 28
+        name: drop_documentation
+        label: Are Cash Drops Documented
+        hint: Record keeping
+        type: select_one
+        options:
+          - Yes - fully documented
+          - Yes - partially
+          - Sometimes
+          - No - not documented
+        required: true
+      - id: 29
+        name: dual_control
+        label: Is Dual Control Used for Safe Access
+        hint: Two-person rule
+        type: select_one
+        options:
+          - Yes - always
+          - Yes - for large amounts
+          - Sometimes
+          - No - single person
+        required: true
+      - id: 30
+        name: deposit_procedures
+        label: Deposit Procedures
+        hint: Bank deposit controls
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: deposit_timing
+        label: Are Deposits Made Timely
+        hint: Deposit frequency
+        type: select_one
+        options:
+          - Yes - daily
+          - Yes - within policy
+          - Sometimes delayed
+          - No - irregular
+        required: true
+      - id: 32
+        name: deposit_preparation
+        label: Are Deposits Prepared by Two People
+        hint: Dual control
+        type: select_one
+        options:
+          - Yes - always
+          - Yes - mostly
+          - Sometimes
+          - No - single person
+        required: true
+      - id: 33
+        name: deposit_verification
+        label: Are Deposits Verified Before Transport
+        hint: Final check
+        type: select_one
+        options:
+          - Yes - by manager
+          - Yes - by second person
+          - Sometimes
+          - No - not verified
+        required: true
+      - id: 34
+        name: deposit_transport
+        label: How Are Deposits Transported
+        hint: Security method
+        type: select_one
+        options:
+          - Armored car service
+          - Manager with security
+          - Two employees together
+          - Single employee
+          - Other
+        required: true
+      - id: 35
+        name: deposit_tracking
+        label: Are Deposits Tracked Until Confirmed
+        hint: Follow-up process
+        type: select_one
+        options:
+          - Yes - until bank confirmed
+          - Yes - until deposited
+          - Sometimes
+          - No - not tracked
+        required: true
+      - id: 36
+        name: petty_cash
+        label: Petty Cash Controls
+        hint: Small cash management
+        type: note
+        options: []
+        required: false
+      - id: 37
+        name: petty_cash_custodian
+        label: Is Petty Cash Assigned to Custodian
+        hint: Responsibility
+        type: select_one
+        options:
+          - Yes - designated custodian
+          - Yes - informal custodian
+          - No - shared access
+          - No - no custodian
+        required: false
+      - id: 38
+        name: petty_cash_documentation
+        label: Are Petty Cash Disbursements Documented
+        hint: Record keeping
+        type: select_one
+        options:
+          - Yes - always with receipts
+          - Yes - mostly
+          - Sometimes
+          - No - poor documentation
+        required: false
+      - id: 39
+        name: petty_cash_reconciliation
+        label: Is Petty Cash Reconciled Regularly
+        hint: Count and verify
+        type: select_one
+        options:
+          - Yes - weekly
+          - Yes - monthly
+          - Sometimes
+          - No - rarely
+        required: false
+      - id: 40
+        name: security_measures
+        label: Security Measures
+        hint: Physical security
+        type: note
+        options: []
+        required: false
+      - id: 41
+        name: surveillance_cameras
+        label: Are Surveillance Cameras Operational
+        hint: Video security
+        type: select_one
+        options:
+          - Yes - all areas covered
+          - Yes - most areas
+          - Yes - limited coverage
+          - No - no cameras
+        required: true
+      - id: 42
+        name: camera_functionality
+        label: Are Cameras Functioning Properly
+        hint: Working status
+        type: select_one
+        options:
+          - Yes - all working
+          - Yes - mostly working
+          - Some not working
+          - No - not functional
+        required: false
+      - id: 43
+        name: alarm_system
+        label: Is Alarm System Installed
+        hint: Security alarm
+        type: select_one
+        options:
+          - Yes - monitored
+          - Yes - local only
+          - No - not installed
+        required: false
+      - id: 44
+        name: access_controls
+        label: Are Access Controls in Place
+        hint: Restricted areas
+        type: select_one
+        options:
+          - Yes - keycard access
+          - Yes - key access
+          - Yes - limited keys
+          - No - open access
+        required: true
+      - id: 45
+        name: compliance_findings
+        label: Compliance Findings
+        hint: Audit results
+        type: note
+        options: []
+        required: false
+      - id: 46
+        name: overall_compliance
+        label: Overall Compliance Rating
+        hint: Assessment
+        type: select_one
+        options:
+          - Excellent - fully compliant
+          - Good - minor issues
+          - Fair - moderate issues
+          - Poor - significant issues
+          - Critical - major deficiencies
+        required: true
+      - id: 47
+        name: deficiencies_found
+        label: Deficiencies Found
+        hint: Issues identified
+        type: select_multiple
+        options:
+          - None
+          - Inadequate documentation
+          - Lack of training
+          - Weak access controls
+          - Poor reconciliation
+          - Missing approvals
+          - Security gaps
+          - Policy violations
+          - Other
+        required: true
+      - id: 48
+        name: deficiency_details
+        label: Describe Deficiencies
+        hint: Details
+        type: text
+        options: []
+        required: false
+      - id: 49
+        name: recommendations
+        label: Recommendations
+        hint: Improvements needed
+        type: text
+        options: []
+        required: true
+      - id: 50
+        name: corrective_action_plan
+        label: Corrective Action Plan
+        hint: Required actions
+        type: text
+        options: []
+        required: false
+      - id: 51
+        name: follow_up_date
+        label: Follow-Up Audit Date
+        hint: When to recheck
+        type: date
+        options: []
+        required: false
+      - id: 52
+        name: auditor_signature
+        label: Auditor Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 53
+        name: management_response
+        label: Management Response
+        hint: Comments
+        type: text
+        options: []
+        required: false
+      - id: 54
+        name: manager_signature_date
+        label: Manager Signature Date
+        hint: Date acknowledged
+        type: date
+        options: []
+        required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplier_compliance_verification_form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supplier_type
+      label: supplier_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: supplier_status
+      label: legal_status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: business_license_number
+      label: business_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: certificate_number
+      label: certification_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporter2
+      label: reporter2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: reporter2
+      label: reporter2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_city
+      label: contact_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_zip
+      label: contact_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_state
+      label: contact_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_country
+      label: contact_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: supplier_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true

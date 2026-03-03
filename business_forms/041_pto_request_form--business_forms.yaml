@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTO Request Form
+    pages:
+    - id: 1
+      name: pto_request_form
+      label: PTO Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_absence
+      label: date_of_absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_reason
+      label: start_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: end_reason
+      label: end_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: manager_approved
+      label: manager_approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false

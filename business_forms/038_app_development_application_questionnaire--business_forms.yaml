@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Development Application Questionnaire
+    pages:
+    - id: 1
+      name: application_date
+      label: Application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant or company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_type
+      label: Type of organization
+      hint: null
+      type: select_one
+      options:
+      - Individual developer
+      - Startup
+      - Small business
+      - Medium company
+      - Large corporation
+      - Non-profit
+      - Educational institution
+      - Other
+      required: true
+    - id: 6
+      name: app_concept
+      label: App concept or idea
+      hint: Brief description of app
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: app_problem_solved
+      label: What problem does your app solve?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_market_size
+      label: Estimated target market size
+      hint: Number of potential users
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: development_stage
+      label: Current development stage
+      hint: null
+      type: select_one
+      options:
+      - Concept only
+      - Early prototype
+      - Working prototype
+      - Beta version
+      - Ready for launch
+      - Already launched
+      required: true
+    - id: 10
+      name: timeline
+      label: Expected development timeline
+      hint: In months
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: budget_range
+      label: Development budget range
+      hint: In dollars
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: team_size
+      label: Current team size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: team_experience
+      label: Team development experience
+      hint: Average years of experience
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: technical_skills
+      label: Key technical skills on team
+      hint: Programming languages, frameworks
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: funding_status
+      label: Funding status
+      hint: null
+      type: select_one
+      options:
+      - Fully funded
+      - Partially funded
+      - Seeking funding
+      - Self-funded
+      - Other
+      required: true
+    - id: 16
+      name: revenue_model
+      label: Expected revenue model
+      hint: How will you make money
+      type: select_one
+      options:
+      - Freemium with in-app purchases
+      - Subscription based
+      - One-time purchase
+      - Ad-supported
+      - Enterprise licensing
+      - Other
+      required: true
+    - id: 17
+      name: competition_analysis
+      label: Have you analyzed competitors
+      hint: null
+      type: select_one
+      options:
+      - Yes, detailed analysis
+      - Yes, basic analysis
+      - Somewhat
+      - false
+      required: true
+    - id: 18
+      name: competitive_advantage
+      label: Your competitive advantage
+      hint: What makes you unique
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: marketing_strategy
+      label: Marketing and launch strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional information
+      hint: null
+      type: text
+      options: []
+      required: false

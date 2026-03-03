@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: time_tracking_summary_report_form
+    pages:
+    - id: 1
+      name: business_form
+      label: business_form
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Enterprise
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: break_time
+      label: break_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: work_log
+      label: work_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Personal Forms
+      required: true
+    - id: 8
+      name: form_sub_category
+      label: form_sub_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: business_form
+      label: business_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: enterprise_form
+      label: enterprise_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_tracking_summary_report_form_business_forms
+      label: time_tracking_summary_report_form_business_forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Personal Forms
+      required: true
+    - id: 15
+      name: form_sub_category
+      label: form_sub_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

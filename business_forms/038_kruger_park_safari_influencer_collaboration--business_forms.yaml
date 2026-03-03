@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kruger Park Safari Influencer Collaboration
+    pages:
+    - id: 1
+      name: safari_details
+      label: Kruger Park Safari Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - Influencer
+      - Brand
+      - Community
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

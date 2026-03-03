@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Income
+    pages:
+    - id: 1
+      name: user_input_form
+      label: User Input Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth_field
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: income_field
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: select_all_expenses_type
+      label: Select All Expenses Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''rent''}'
+      - '{''id'': 2, ''label'': ''Utilities''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: true
+    - id: 5
+      name: expense_amount
+      label: expense amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes_field
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_input
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_trading_card_royalty_tracking_checklist
+    pages:
+    - id: 1
+      name: sports_trading_card_royalty_tracking_checklist_title
+      label: Sports Trading Card Royalty Tracking Checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sports_trading_card_royalty_tracking_checklist_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - sports
+      - business
+      - other
+      required: true
+    - id: 3
+      name: sports_trading_card_royalty_tracking_checklist_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sports_trading_card_royalty_tracking_checklist_output_file
+      label: Output File
+      hint: null
+      type: select_multiple
+      options:
+      - pdf
+      - csv
+      - email
+      required: false
+    - id: 5
+      name: sports_trading_card_royalty_tracking_checklist_form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sports_trading_card_royalty_tracking_checklist_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - sports
+      - business
+      - other
+      required: false
+    - id: 7
+      name: sports_trading_card_royalty_tracking_checklist_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sports_trading_card_royalty_tracking_checklist_reporting_progress
+      label: Reporting Progress
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - complete
+      - overdue
+      required: true
+    - id: 9
+      name: sports_trading_card_royalty_tracking_checklist_licensed_period
+      label: Licensed Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: sports_trading_card_royalty_tracking_checklist_reporting_status
+      label: Reporting Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - complete
+      - overdue
+      required: true
+    - id: 11
+      name: sports_trading_card_royalty_tracking_checklist_last_progress_update
+      label: Last Progress Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: sports_trading_card_royalty_tracking_checklist_last_progress_update_by
+      label: Last Progress Update By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sports_trading_card_royalty_tracking_checklist_royalty_payment_status
+      label: Royalty Payment Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - complete
+      - overdue
+      required: true

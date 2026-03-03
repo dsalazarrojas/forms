@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Work Item Details Form
+    pages:
+    - id: 1
+      name: work_item_id
+      label: Work Item ID
+      hint: Enter the unique identifier for the work item
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_item_title
+      label: Work Item Title
+      hint: Enter a brief title for the work item
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_item_type
+      label: Work Item Type
+      hint: Select the type of work item
+      type: select_one
+      options:
+      - User Story
+      - Bug
+      - Task
+      - Epic
+      - Feature
+      - Spike
+      - Improvement
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Enter the name of the project this work item belongs to
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sprint_iteration
+      label: Sprint/Iteration
+      hint: Enter the sprint or iteration this work item is assigned to
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assignee_name
+      label: Assignee Name
+      hint: Enter the name of the person assigned to this work item
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_item_description
+      label: Work Item Description
+      hint: Provide a detailed description of the work item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: acceptance_criteria
+      label: Acceptance Criteria
+      hint: Define the acceptance criteria for this work item
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority_level
+      label: Priority Level
+      hint: Select the priority level of this work item
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: story_points_effort
+      label: Story Points/Effort
+      hint: Enter the estimated effort for this work item (in story points or hours)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: status_update_header
+      label: -- Status Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_status
+      label: Current Status
+      hint: Select the current status of the work item
+      type: select_one
+      options:
+      - To Do
+      - In Progress
+      - In Review
+      - Blocked
+      - Done
+      - Ready for Testing
+      - Testing in Progress
+      required: true
+    - id: 13
+      name: status_update_date
+      label: Status Update Date
+      hint: Enter the date of this status update
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: progress_percentage
+      label: Progress Percentage
+      hint: Enter the percentage of completion for this work item
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: impediments_blockers
+      label: Impediments/Blockers
+      hint: List any impediments or blockers affecting this work item
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dependencies_header
+      label: -- Dependencies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: upstream_dependencies
+      label: Upstream Dependencies
+      hint: List any work items or tasks that this item depends on
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: downstream_dependencies
+      label: Downstream Dependencies
+      hint: List any work items or tasks that depend on this item
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: changes_requested_header
+      label: -- Changes Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: change_request_description
+      label: Change Request Description
+      hint: Describe the changes being requested for this work item
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: change_priority
+      label: Change Priority
+      hint: Select the priority level for the requested changes
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 22
+      name: requested_by
+      label: Requested By
+      hint: Enter the name of the person requesting changes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional notes or information about this work item
+      type: text
+      options: []
+      required: false

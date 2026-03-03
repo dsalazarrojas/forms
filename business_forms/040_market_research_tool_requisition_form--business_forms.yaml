@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Research Tool Requisition Form
+    pages:
+    - id: 1
+      name: market_research_tool_requisition
+      label: Market Research Tool Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - tool_type_a
+      - tool_type_b
+      required: true
+    - id: 3
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 6
+      name: tool_priority
+      label: Tool Priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tool_cost
+      label: Tool Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - pending
+      - inactive
+      required: false
+    - id: 9
+      name: tool_category
+      label: Tool Category
+      hint: null
+      type: select_multiple
+      options:
+      - category_a
+      - category_b
+      required: true
+    - id: 10
+      name: tool_version
+      label: Tool Version
+      hint: null
+      type: select_one
+      options:
+      - version_a
+      - version_b
+      required: true
+    - id: 11
+      name: tool_date
+      label: Tool Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: tool_time
+      label: Tool Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: tool_comment
+      label: Tool Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tool_email
+      label: Tool Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: tool_phone
+      label: Tool Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: tool_note
+      label: Tool Note
+      hint: null
+      type: text
+      options: []
+      required: false

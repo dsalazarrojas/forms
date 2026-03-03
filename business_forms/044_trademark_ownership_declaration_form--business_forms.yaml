@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: trademark_ownership_declaration_form
+    pages:
+    - id: 1
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_address
+      label: Legal Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trademark_name
+      label: Trademark Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_business_name
+      label: Owner Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trademark_status
+      label: Trademark Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 11
+      name: trademark_type
+      label: Trademark Type
+      hint: null
+      type: select_one
+      options:
+      - common
+      - certification
+      - service
+      - trademark_class
+      required: false
+    - id: 12
+      name: trademark_description
+      label: Trademark Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trademark_registered
+      label: Trademark Registered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: trademark_renewal_date
+      label: Trademark Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: trademark_renewal_status
+      label: Trademark Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 16
+      name: trademark_canceled
+      label: Trademark Canceled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: trademark_terminations
+      label: Trademark Terminations
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 18
+      name: trademark_terminated
+      label: Trademark Terminated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: trademark_owners
+      label: Trademark Owners
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 20
+      name: trademark_owner
+      label: Trademark Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trademark_country
+      label: Trademark Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - International
+      required: false
+    - id: 22
+      name: trademark_classified
+      label: Trademark Classified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trademark_description_class
+      label: Trademark Description Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: trademark_registration_date
+      label: Trademark Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: trademark_registration_country
+      label: Trademark Registration Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - International
+      required: false

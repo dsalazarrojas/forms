@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_maintenance_requisition_form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_number
+      label: vehicle_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''oil_change''}'
+      - '{''value'': ''tire_replacement''}'
+      - '{''value'': ''brakes_replacement''}'
+      - '{''value'': ''engine_replacement''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''mechanic''}'
+      - '{''value'': ''dealer''}'
+      - '{''value'': ''external''}'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

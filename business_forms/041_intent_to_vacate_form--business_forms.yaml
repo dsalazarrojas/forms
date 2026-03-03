@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intent To Vacate Form
+    pages:
+    - id: 1
+      name: tenant_choice
+      label: Tenant Choice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_vacating
+      label: reason_for_vacating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_vacation
+      label: date_of_vacation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_details
+      label: Tenant Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: landlord_contact
+      label: Landlord Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false

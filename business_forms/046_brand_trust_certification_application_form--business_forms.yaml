@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Trust Certification Application Form
+    pages:
+    - id: 1
+      name: company_info_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_company_name
+      label: Company Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector_val
+      label: Industry Sector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: corp_email
+      label: Corporate Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: corp_phone
+      label: Corporate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: trust_practices_header
+      label: -- Trust-Building Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: transparency_measures_select
+      label: Which transparency measures do you currently implement?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Public Financial Reporting
+      - Open Supply Chain Data
+      - Customer Feedback Loops
+      - Ethical Sourcing Audits
+      - Clear Privacy Policies
+      required: true
+    - id: 8
+      name: trust_objectives_desc
+      label: What are your primary objectives for seeking Brand Trust Certification?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: data_protection_rating
+      label: How do you rate your current customer data protection practices?
+      hint: null
+      type: select_one
+      options:
+      - Industry Leading
+      - Fully Compliant
+      - Improving
+      - Initial Stages
+      required: true
+    - id: 10
+      name: csr_header
+      label: -- Social Responsibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: csr_summary_text
+      label: Brief summary of Corporate Social Responsibility (CSR) initiatives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: social_invest_amt
+      label: Annual Investment in Community / Social Projects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: readiness_header
+      label: -- Certification Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: internal_audit_status
+      label: Has an internal trust-focused audit been completed in the last 12 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 15
+      name: cert_contact_name
+      label: Primary Point of Contact for Certification Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: app_dt
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

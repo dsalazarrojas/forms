@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Technology Grant Application Form
+    pages:
+    - id: 1
+      name: vendor_technology_grant_application_form
+      label: Grant Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: Vendor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grant_request
+      label: Grant Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: grant_uses
+      label: Grant Uses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: grant_amount
+      label: Grant Amount
+      hint: Enter grant amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tech_request_details
+      label: Tech Request Details
+      hint: Please describe the specific equipment or services you are requesting.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tech_request
+      label: Tech Request
+      hint: Please list the equipment and services you are requesting.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: 'Format: YYYY-MM-DD HH:MM:SS'
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: updated_to
+      label: Updated To
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: grant_type
+      label: Grant Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

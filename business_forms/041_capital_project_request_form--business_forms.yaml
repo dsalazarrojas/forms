@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Project Request Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Project Request Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Request approval for a capital project. Provide comprehensive justification
+        and cost analysis.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: requester_info_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_name
+      label: Direct Manager
+      hint: Manager's name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: project_info_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: Project Name
+      hint: Official project name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_description
+      label: Project Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_type
+      label: Project Type
+      hint: Select one
+      type: select_one
+      options:
+      - Equipment purchase
+      - Infrastructure
+      - Technology upgrade
+      - Facility expansion
+      - Vehicle acquisition
+      - Software system
+      - Process improvement
+      - Other
+      required: true
+    - id: 15
+      name: strategic_alignment
+      label: Strategic Alignment
+      hint: How does project align with goals
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_case_header
+      label: -- Business Case --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: business_justification
+      label: Business Justification
+      hint: Why is this project needed
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: expected_benefits
+      label: Expected Benefits
+      hint: Describe anticipated benefits
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: roi_expected
+      label: Expected Return on Investment (ROI)
+      hint: Percentage or dollar amount
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: payback_period
+      label: Estimated Payback Period
+      hint: Months or years
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk_mitigation
+      label: Risk Mitigation Strategy
+      hint: How will risks be managed
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: cost_analysis_header
+      label: -- Cost Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: capital_cost
+      label: Capital Cost
+      hint: Dollar amount for assets
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: operational_cost
+      label: Annual Operational Cost
+      hint: Ongoing costs
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_cost_of_ownership
+      label: Total Cost of Ownership
+      hint: Over project life
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: Itemized costs
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: contingency_amount
+      label: Contingency Amount
+      hint: Buffer for cost overruns
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: funding_source
+      label: Proposed Funding Source
+      hint: Select one
+      type: select_one
+      options:
+      - Operating budget
+      - Capital budget
+      - Loan financing
+      - Lease financing
+      - Grant funding
+      - Combined sources
+      required: true
+    - id: 29
+      name: timeline_header
+      label: -- Project Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: planned_start_date
+      label: Planned Start Date
+      hint: When work begins
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: planned_end_date
+      label: Planned End Date
+      hint: When work concludes
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: critical_milestones
+      label: Critical Milestones
+      hint: Key project milestones
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: urgency_level
+      label: Project Urgency Level
+      hint: Select one
+      type: select_one
+      options:
+      - Critical - Immediate
+      - High
+      - Medium
+      - Low
+      - Can be delayed
+      required: true
+    - id: 34
+      name: alternatives_header
+      label: -- Alternatives Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: alternatives_evaluated
+      label: Alternatives Evaluated
+      hint: What other options were considered
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: selected_solution
+      label: Why Selected Solution is Best
+      hint: Comparison to alternatives
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: approval_section
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: budget_approval_status
+      label: Budget Director Approval Status
+      hint: Select one
+      type: select_one
+      options:
+      - Pending review
+      - Conditionally approved
+      - Not approved
+      - Not yet submitted
+      required: true

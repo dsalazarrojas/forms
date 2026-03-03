@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Filtration Efficiency Report Form
+    pages:
+    - id: 1
+      name: water_filtration_efficiency_report_form
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: water_filtration_efficiency_report_form_water_flow_rate
+      label: Water Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: water_filtration_efficiency_report_form_flow_rate_units
+      label: Flow Rate Units
+      hint: null
+      type: select_one
+      options:
+      - m3/h
+      - gpm
+      - ft^3/s
+      required: false
+    - id: 4
+      name: water_filtration_efficiency_report_form_water_inlet_pressure
+      label: Water Inlet Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: water_filtration_efficiency_report_form_pressure_drop
+      label: Pressure Drop
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: water_filtration_efficiency_report_form_water_temp
+      label: Water Temperature
+      hint: in °C
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: water_filtration_efficiency_report_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

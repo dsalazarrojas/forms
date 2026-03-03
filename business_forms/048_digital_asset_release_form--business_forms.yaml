@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Asset Release Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_owner
+      label: Asset Owner
+      hint: Name of the individual or organization responsible for the digital asset
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_used
+      label: Date Used
+      hint: Date the asset was created or used
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: use_permission
+      label: Permission
+      hint: Select all applicable permissions
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: Date the asset was released
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: release_version
+      label: Release Version
+      hint: Version number of the asset that has been released
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: text
+      options: []
+      required: false

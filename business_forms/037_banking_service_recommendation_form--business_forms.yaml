@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Service Recommendation Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_type
+      label: Customer Type
+      hint: Are you a customer
+      type: select_one
+      options:
+      - Existing Personal Customer
+      - Existing Business Customer
+      - New Customer
+      - Prospect
+      required: true
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_services
+      label: Current Services Used
+      hint: What do you use now
+      type: select_multiple
+      options:
+      - Checking Account
+      - Savings Account
+      - Credit Card
+      - Personal Loan
+      - Mortgage
+      - Auto Loan
+      - Investment Services
+      - None
+      required: false
+    - id: 8
+      name: financial_goals
+      label: Financial Goals
+      hint: What are your objectives
+      type: select_multiple
+      options:
+      - Save for Retirement
+      - Buy a Home
+      - Fund Education
+      - Build Emergency Fund
+      - Start a Business
+      - Travel
+      - Debt Reduction
+      - Wealth Building
+      required: true
+    - id: 9
+      name: life_stage
+      label: Life Stage
+      hint: Current life phase
+      type: select_one
+      options:
+      - Student
+      - Young Professional
+      - Starting Family
+      - Established Career
+      - Pre-Retirement
+      - Retired
+      required: true
+    - id: 10
+      name: annual_income
+      label: Annual Income
+      hint: Gross yearly income
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000-$199999
+      - $200000 or more
+      required: true
+    - id: 11
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How much risk
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Unsure
+      required: true
+    - id: 12
+      name: services_interested
+      label: Services Interested In
+      hint: What interests you
+      type: select_multiple
+      options:
+      - High-Yield Savings
+      - Investment Account
+      - Retirement Planning
+      - Wealth Management
+      - Business Banking
+      - Mortgage Services
+      - Credit Cards
+      - Personal Loans
+      - Insurance
+      required: true
+    - id: 13
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - In-Person Meeting
+      required: true
+    - id: 14
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Anytime
+      required: false
+    - id: 15
+      name: meeting_preference
+      label: Meeting Preference
+      hint: How to meet
+      type: select_one
+      options:
+      - In-Person at Branch
+      - Video Call
+      - Phone Call
+      - Email Consultation
+      required: true
+    - id: 16
+      name: preferred_branch
+      label: Preferred Branch
+      hint: Which location
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: timeline
+      label: Decision Timeline
+      hint: When do you plan to decide
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - Just exploring
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Marketing source
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Advertisement
+      - Friend or Family
+      - Current Customer
+      - Other
+      required: false
+    - id: 19
+      name: additional_needs
+      label: Additional Financial Needs
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: questions
+      label: Questions
+      hint: What would you like to know
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: May we contact you
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, not now
+      required: true
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: Date of form
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Finance Tracker
+    pages:
+    - id: 1
+      name: user_income
+      label: User Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: business_income
+      label: Business Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: total_income
+      label: Total Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expenses
+      label: Regular Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: savings
+      label: Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_expenses
+      label: User Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: business_expenses
+      label: Business Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: expense_source
+      label: Expense Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: business_category
+      label: Business Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

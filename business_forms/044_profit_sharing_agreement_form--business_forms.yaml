@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profit Sharing Agreement Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partners
+      label: Partners
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 3
+      name: share_percentage
+      label: Share Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Managing Partner
+      - Partner
+      - Co-owner
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: agreement_term
+      label: Agreement Term
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: term_duration
+      label: Term Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: distribution_term
+      label: Distribution Term
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Bank Transfer
+      - Electronic Payment
+      required: false

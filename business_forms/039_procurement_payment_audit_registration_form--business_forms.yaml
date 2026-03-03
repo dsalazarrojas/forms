@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procurement Payment Audit Registration Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: payment_comment
+      label: Reviewer Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reference_number
+      label: Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: review_type
+      label: Review Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

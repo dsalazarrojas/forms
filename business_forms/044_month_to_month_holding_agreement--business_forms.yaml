@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Month To Month Holding Agreement
+    pages:
+    - id: 1
+      name: month_to_month_holding_agreement_page_1
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: landlord_information
+      label: Landlord Information
+      hint: null
+      type: select_multiple
+      options:
+      - Mr.
+      - Mrs.
+      - Ms.
+      - Dr.
+      required: true
+    - id: 3
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - weekly
+      - biweekly
+      required: true
+    - id: 7
+      name: tenant_information
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: month_to_month_holding_agreement_terms
+      label: Month-to-Month Holding Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: agreement_termination
+      label: Agreement Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: true

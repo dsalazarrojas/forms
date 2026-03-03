@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Staging Checklist Form
+    pages:
+    - id: 1
+      name: address_field
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: city_field
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state_field
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''AK''}'
+      - '{''value'': ''AL''}'
+      - '{''value'': ''AR''}'
+      - '{''value'': ''AZ''}'
+      - '{''value'': ''CA''}'
+      - '{''value'': ''CO''}'
+      - '{''value'': ''CT''}'
+      - '{''value'': ''DC''}'
+      - '{''value'': ''DE''}'
+      - '{''value'': ''FL''}'
+      - '{''value'': ''GA''}'
+      - '{''value'': ''HI''}'
+      - '{''value'': ''IA''}'
+      - '{''value'': ''ID''}'
+      - '{''value'': ''IL''}'
+      - '{''value'': ''IN''}'
+      - '{''value'': ''KY''}'
+      - '{''value'': ''LA''}'
+      - '{''value'': ''MA''}'
+      - '{''value'': ''MD''}'
+      - '{''value'': ''ME''}'
+      - '{''value'': ''MI''}'
+      - '{''value'': ''MO''}'
+      - '{''value'': ''MS''}'
+      - '{''value'': ''MT''}'
+      - '{''value'': ''NC''}'
+      - '{''value'': ''NJ''}'
+      - '{''value'': ''NM''}'
+      - '{''value'': ''NV''}'
+      - '{''value'': ''NY''}'
+      - '{''value'': ''OH''}'
+      - '{''value'': ''OK''}'
+      - '{''value'': ''OR''}'
+      - '{''value'': ''PA''}'
+      - '{''value'': ''RI''}'
+      - '{''value'': ''SC''}'
+      - '{''value'': ''TN''}'
+      - '{''value'': ''TX''}'
+      - '{''value'': ''UT''}'
+      - '{''value'': ''VT''}'
+      - '{''value'': ''WA''}'
+      - '{''value'': ''WI''}'
+      - '{''value'': ''WV''}'
+      required: false
+    - id: 4
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_field
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false

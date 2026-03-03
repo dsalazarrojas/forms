@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Cost Estimator
+    pages:
+    - id: 1
+      name: parking_location
+      label: Parking Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 2
+      name: parking_hours
+      label: Parking Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: parking_days
+      label: Parking Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parking_rate
+      label: Parking Rate
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Paid
+      required: false
+    - id: 5
+      name: parking_fee
+      label: Parking Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: parking_cost
+      label: Total Parking Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: estimated_parking_hours
+      label: Estimated Parking Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: estimated_parking_days
+      label: Estimated Parking Days
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Consumption Dashboard Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: street_number
+      label: Street Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: street_name
+      label: Street Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: utility_types
+      label: Utility Types
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Internet
+      - Other
+      required: false
+    - id: 13
+      name: dashboard_view
+      label: Dashboard View
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 14
+      name: dashboard_access
+      label: Dashboard Access
+      hint: null
+      type: select_multiple
+      options:
+      - View Only
+      - Edit
+      - View and Edit
+      required: false
+    - id: 15
+      name: dashboard_frequency
+      label: Dashboard Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Tool Requisition Form
+    pages:
+    - id: 1
+      name: facility_management_tool_requisition_form_first_page
+      label: First page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: facility_management_tool_requisition_form_first_page_fields
+      label: First page fields
+      hint: null
+      type: select_one
+      options:
+      - Equipment Requested
+      - Tool Request Details
+      - Maintenance Request
+      required: true
+    - id: 3
+      name: facility_management_tool_requisition_form_first_page_fields_tool_requested
+      label: Tool Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 4
+      name: facility_management_tool_requisition_form_second_page
+      label: Second page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: facility_management_tool_requisition_form_second_page_fields
+      label: Second page fields
+      hint: null
+      type: select_one
+      options:
+      - Tool Maintenance
+      - Technical Support
+      - Other
+      required: false
+    - id: 6
+      name: facility_management_tool_requisition_form_second_page_fields_tool_maintenance
+      label: Tool Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: facility_management_tool_requisition_form_second_page_fields_technical_support
+      label: Technical Support
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 8
+      name: facility_management_tool_requisition_form_second_page_fields_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_management_tool_requisition_form_third_page
+      label: Third page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facility_management_tool_requisition_form_third_page_fields
+      label: Third page fields
+      hint: null
+      type: select_one
+      options:
+      - Tool Review
+      - Technical Review
+      - Other Review
+      required: false
+    - id: 11
+      name: facility_management_tool_requisition_form_third_page_fields_tool_review
+      label: Tool Review
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: facility_management_tool_requisition_form_third_page_fields_technical_review
+      label: Technical Review
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 13
+      name: facility_management_tool_requisition_form_third_page_fields_other_review
+      label: Other Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_management_tool_requisition_form_submission
+      label: Submission
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: facility_management_tool_requisition_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: facility_management_tool_requisition_form_review
+      label: Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not reviewed yet
+      required: true
+    - id: 17
+      name: facility_management_tool_requisition_form_review_notes
+      label: Review notes
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 18
+      name: facility_management_tool_requisition_form_submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: facility_management_tool_requisition_form_submission_time
+      label: Submission time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: facility_management_tool_requisition_form_review_date
+      label: Review date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: facility_management_tool_requisition_form_review_time
+      label: Review time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: facility_management_tool_requisition_form_reviewer
+      label: Reviewer
+      hint: null
+      type: select_multiple
+      options:
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      required: true
+    - id: 23
+      name: facility_management_tool_requisition_form_review_notes
+      label: Review notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: facility_management_tool_requisition_form_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 25
+      name: facility_management_tool_requisition_form_submitted_by
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - Assignee 1
+      - Assignee 2
+      - Assignee 3
+      required: true

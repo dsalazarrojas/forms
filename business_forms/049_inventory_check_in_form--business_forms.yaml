@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_check_in_form
+    pages:
+    - id: 1
+      name: item_description
+      label: item description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity_received
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_received
+      label: date received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_received
+      label: time received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

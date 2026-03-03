@@ -1,0 +1,299 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Leasing Certification Registration Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For certification updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_professional_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: profession
+      label: Profession
+      hint: What best describes you
+      type: select_one
+      options:
+      - Real Estate Agent
+      - Broker
+      - Property Manager
+      - Attorney
+      - Leasing Consultant
+      - Asset Manager
+      - Business Owner
+      - Other
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Experience
+      hint: In commercial real estate
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 9
+      name: license_number
+      label: Professional License Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: license_state
+      label: License State
+      hint: State of licensure
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_certification_program
+      label: -- Certification Program --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: certification_level
+      label: Certification Level
+      hint: Select certification track
+      type: select_one
+      options:
+      - Basic Certification
+      - Advanced Certification
+      - Professional Certification
+      - Master Certification
+      required: true
+    - id: 13
+      name: specialization
+      label: Area of Specialization
+      hint: Focus area
+      type: select_one
+      options:
+      - Office Leasing
+      - Retail Leasing
+      - Industrial Leasing
+      - Medical Leasing
+      - Mixed Use
+      - General Commercial
+      required: true
+    - id: 14
+      name: section_header_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: highest_education
+      label: Highest Education Level
+      hint: Your education
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Professional Degree
+      required: true
+    - id: 16
+      name: relevant_certifications
+      label: Relevant Certifications
+      hint: List any related certifications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_coursework
+      label: -- Coursework --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: start_date_preference
+      label: Preferred Start Date
+      hint: When do you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: study_format
+      label: Study Format
+      hint: How do you want to study
+      type: select_one
+      options:
+      - Online Self-Paced
+      - Online Live Classes
+      - In-Person Classes
+      - Hybrid
+      required: true
+    - id: 20
+      name: study_schedule
+      label: Study Schedule
+      hint: Preferred schedule
+      type: select_one
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 21
+      name: section_header_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tuition_payment
+      label: Tuition Payment
+      hint: Program fee
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Wire Transfer
+      - Check
+      - Company Sponsorship
+      - Financing
+      required: true
+    - id: 24
+      name: payment_plan
+      label: Payment Plan
+      hint: Do you need a payment plan
+      type: select_one
+      options:
+      - Full Payment
+      - 2 Installments
+      - 3 Installments
+      - 6 Installments
+      required: true
+    - id: 25
+      name: employer_sponsorship
+      label: Employer Sponsorship
+      hint: Is employer paying
+      type: select_one
+      options:
+      - Yes Full
+      - Yes Partial
+      - No Self-Pay
+      required: true
+    - id: 26
+      name: section_header_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: code_of_ethics
+      label: Code of Ethics Agreement
+      hint: I agree to abide by code
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 28
+      name: exam_requirements
+      label: Exam Requirements
+      hint: I understand exam requirements
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 29
+      name: continuing_education
+      label: Continuing Education
+      hint: I understand CE requirements
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 30
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: career_goals
+      label: Career Goals
+      hint: What are your goals
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about program
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Professional Association
+      - Advertisement
+      - Other
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

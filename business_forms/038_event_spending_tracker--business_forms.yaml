@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_spending_tracker
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: budget_amount
+      label: Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Food
+      - Travel
+      - Venue
+      required: false
+    - id: 7
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expense_time
+      label: Expense Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: expense_note
+      label: Expense Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: receipts
+      label: Receipts
+      hint: null
+      type: select_multiple
+      options:
+      - Attach
+      - Inbox
+      - Outbox
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Amenities
+      - Food and Beverage
+      - Transportation
+      - Miscellaneous
+      required: false

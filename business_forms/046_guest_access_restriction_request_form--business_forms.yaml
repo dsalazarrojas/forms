@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Access Restriction Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: restriction_reason
+      label: Restriction Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restricted_area
+      label: Restricted Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: restricted_hours
+      label: Restricted Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: restricted_days
+      label: Restricted Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: restricted_by
+      label: Restricted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: restricted_until
+      label: Restricted Until
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

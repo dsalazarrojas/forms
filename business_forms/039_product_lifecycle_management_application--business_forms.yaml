@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Lifecycle Management Application
+    pages:
+    - id: 1
+      name: product_request
+      label: Product Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_stage
+      label: Product Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_level
+      label: Approval Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 11
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: change_request_description
+      label: Change Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: change_request_stage
+      label: Change Request Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: change_request_priority
+      label: Change Request Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: change_request_status
+      label: Change Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: change_request_type
+      label: Change Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: product_subcategory
+      label: Product Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: change_reason
+      label: Change Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: approval_notes
+      label: Approval Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: change_request_due_date
+      label: Change Request Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approval_user
+      label: Approval User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: change_request_description
+      label: Change Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: change_request_notes
+      label: Change Request Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: change_request_status_notes
+      label: Change Request Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false

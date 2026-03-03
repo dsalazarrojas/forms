@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partnership Proposal Form
+    pages:
+    - id: 1
+      name: partnership_proposal_form_party_a
+      label: Party A
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_a_legal_name
+      label: Party A Legal Name
+      hint: Company Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: party_a_address
+      label: Party A Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: party_a_phone
+      label: Party A Phone
+      hint: 10 digits
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: party_a_email
+      label: Party A Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: party_b
+      label: Party B
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: party_b_legal_name
+      label: Party B Legal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_b_address
+      label: Party B Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: party_b_phone
+      label: Party B Phone
+      hint: 10 digits
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: party_b_email
+      label: Party B Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: business_plan
+      label: Business Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: business_plans_details
+      label: Business Plan Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: business_plans_duration
+      label: Business Plan Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: business_plans_status
+      label: Business Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

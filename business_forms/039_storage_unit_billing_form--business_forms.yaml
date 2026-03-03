@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Unit Billing Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Storage Unit Billing Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_account
+      label: customer account
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: unit_number
+      label: unit number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_charges
+      label: total charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: amount_charged
+      label: amount charged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_due
+      label: date due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_due
+      label: time due
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 12
+      name: billing_email
+      label: billing email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: billing_phone
+      label: billing phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: contact person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: facility_address
+      label: facility address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_city
+      label: facility city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_state
+      label: facility state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_zip
+      label: facility zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_country
+      label: facility country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_hours
+      label: facility hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_notes
+      label: facility notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: facility_fax
+      label: facility fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_website
+      label: facility website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_other
+      label: facility other
+      hint: null
+      type: text
+      options: []
+      required: false

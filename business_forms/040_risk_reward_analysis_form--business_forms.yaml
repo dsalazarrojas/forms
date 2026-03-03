@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Reward Analysis Form
+    pages:
+    - id: 1
+      name: risk_reward_analysis
+      label: risk_reward_analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reward_level
+      label: reward_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: probability
+      label: risk_probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: impact
+      label: risk_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mitigation
+      label: risk_mitigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: control_actions
+      label: risk_control_actions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: mitigation_actions
+      label: risk_mitigation_actions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

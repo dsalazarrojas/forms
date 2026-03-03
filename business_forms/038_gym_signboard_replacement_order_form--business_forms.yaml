@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Signboard Replacement Order Form
+    pages:
+    - id: 1
+      name: new_order
+      label: new_order
+      hint: null
+      type: select_multiple
+      options:
+      - New sign
+      - Replacement
+      - Both
+      required: true
+    - id: 2
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      - Both
+      required: true
+    - id: 3
+      name: sign_type
+      label: sign_type
+      hint: null
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Both
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: Enter building address or location name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: order_date
+      label: order_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: order_time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: delivery_date
+      label: delivery_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: delivery_time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signboard_design
+      label: signboard_design
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Custom
+      - Both
+      required: true
+    - id: 16
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: width
+      label: width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: material
+      label: material
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Both
+      required: true
+    - id: 20
+      name: color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Color
+      required: true
+    - id: 21
+      name: finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Textured
+      required: true
+    - id: 22
+      name: font_type
+      label: font_type
+      hint: null
+      type: select_one
+      options:
+      - Arial
+      - Times New Roman
+      - Comic Sans
+      required: true
+    - id: 23
+      name: font_size
+      label: font_size
+      hint: Font size 1-24
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: font_color
+      label: font_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      required: true
+    - id: 25
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false

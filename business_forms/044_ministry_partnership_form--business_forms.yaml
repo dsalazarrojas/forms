@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Partnership Form
+    pages:
+    - id: 1
+      name: ministry_organization
+      label: ministry_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner
+      label: partner
+      hint: null
+      type: select_one
+      options:
+      - Partner
+      - Supporter
+      - Collaborator
+      - Supplier
+      - Investor
+      - Donor
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: partner_type
+      label: partner_type
+      hint: null
+      type: select_multiple
+      options:
+      - Partner
+      - Supporter
+      - Collaborator
+      - Supplier
+      - Investor
+      - Donor
+      required: false
+    - id: 11
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: goals_achievement
+      label: goals_achievement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: expected_outcome
+      label: expected_outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: actual_outcome
+      label: actual_outcome
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Product List Setup Form
+    pages:
+    - id: 1
+      name: customer_product_list_setup_form
+      label: Product List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_product_size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 3
+      name: customer_product_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false

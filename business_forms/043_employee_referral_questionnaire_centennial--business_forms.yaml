@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Referral Questionnaire Centennial
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_type
+      label: job type
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Finance
+      - Human Resources
+      - Operations
+      required: false
+    - id: 4
+      name: job_level
+      label: job level
+      hint: null
+      type: select_multiple
+      options:
+      - Entry-Level
+      - Senior
+      - Manager
+      - Director
+      required: true
+    - id: 5
+      name: job_description
+      label: job description
+      hint: Write a brief description of the job.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - Denver
+      - Boulder
+      - Colorado Springs
+      required: true
+    - id: 7
+      name: contact_information
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: how_knew_job
+      label: how knew about the job
+      hint: null
+      type: select_multiple
+      options:
+      - Employee Referral Program
+      - Social Media
+      - Employee's friend
+      - Employee's family member
+      - Employee's colleague
+      required: true
+    - id: 9
+      name: job_seeker_name
+      label: job seeker name
+      hint: Enter the name of the job seeker
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_seeker_email
+      label: job seeker email
+      hint: Enter the job seeker's email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: job_seeker_contact_information
+      label: job seeker contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_referral_comments
+      label: employee referral comments
+      hint: Add any additional comments about the referral here.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_referral_score
+      label: employee referral score
+      hint: Rate the referral from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: employee_referral_comments2
+      label: employee referral comments
+      hint: Add any additional comments about the referral here.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Ad Performance Report Request Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: Campaign Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_range
+      label: Date Range
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Last 30 days''}'
+      - '{''label'': ''Last 60 days''}'
+      - '{''label'': ''Last 90 days''}'
+      required: false
+    - id: 3
+      name: metrics
+      label: Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Spend''}'
+      - '{''label'': ''Clicks''}'
+      - '{''label'': ''Impressions''}'
+      - '{''label'': ''Conversions''}'
+      required: false
+    - id: 4
+      name: campaign_status
+      label: Campaign Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Paused''}'
+      - '{''label'': ''Finished''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: tell_a_friend_form
+    pages:
+    - id: 1
+      name: suggest_product
+      label: Suggest Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: friend_email
+      label: Friend Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: your_message
+      label: Your Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: suggest_product
+      label: Suggest Friend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_url
+      label: Product Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: friend_name
+      label: Friend Name
+      hint: null
+      type: text
+      options: []
+      required: false

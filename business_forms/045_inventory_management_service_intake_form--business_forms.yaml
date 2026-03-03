@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_management_service_intake_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1000, ''value'': ''Retail''}'
+      - '{''id'': 1001, ''value'': ''Manufacturing''}'
+      required: true
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inventory_description
+      label: inventory_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inventory_level
+      label: inventory_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2000, ''value'': ''Low''}'
+      - '{''id'': 2001, ''value'': ''Medium''}'
+      - '{''id'': 2002, ''value'': ''High''}'
+      required: true
+    - id: 8
+      name: delivery_window
+      label: delivery_window
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3000, ''value'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 13
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false

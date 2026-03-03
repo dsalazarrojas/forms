@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Settlement Overview
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: Settlement account
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: settlement_type
+      label: Settlement Type
+      hint: Type of settlement
+      type: select_one
+      options:
+      - Loan Settlement
+      - Credit Card Settlement
+      - Account Settlement
+      - Legal Settlement
+      - Dispute Resolution
+      - Other
+      required: true
+    - id: 8
+      name: original_amount
+      label: Original Amount
+      hint: Original balance
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: settlement_amount
+      label: Settlement Amount
+      hint: Agreed amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: settlement_date
+      label: Settlement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Lump Sum Payment
+      - Installment Plan
+      - Wire Transfer
+      - Check
+      - ACH Transfer
+      required: true
+    - id: 12
+      name: payment_schedule
+      label: Payment Schedule
+      hint: If installments
+      type: select_one
+      options:
+      - One-time payment
+      - Monthly
+      - Bi-weekly
+      - Weekly
+      - Custom schedule
+      required: false
+    - id: 13
+      name: number_of_payments
+      label: Number of Payments
+      hint: Total payments
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: first_payment_date
+      label: First Payment Date
+      hint: When is first payment
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: final_payment_date
+      label: Final Payment Date
+      hint: When is last payment
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: settlement_status
+      label: Settlement Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - In Progress
+      - Completed
+      - Defaulted
+      required: true
+    - id: 17
+      name: reference_number
+      label: Reference Number
+      hint: Case or file number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attorney_name
+      label: Attorney Name
+      hint: Legal representative
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_accepted
+      label: Terms Accepted
+      hint: Have you accepted terms
+      type: select_one
+      options:
+      - Yes, accepted
+      - No, pending
+      - Under Review
+      required: true
+    - id: 20
+      name: documentation_provided
+      label: Documentation Provided
+      hint: Have you submitted docs
+      type: select_one
+      options:
+      - Yes, complete
+      - Partially
+      - No, pending
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: Date of form
+      type: date
+      options: []
+      required: true

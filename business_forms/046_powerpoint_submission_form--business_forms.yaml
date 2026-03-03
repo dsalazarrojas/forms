@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: PowerPoint Submission Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Business Forms''}'
+      - '{''id'': 2, ''name'': ''Personal Forms''}'
+      required: true
+    - id: 4
+      name: form_files
+      label: Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_file1
+      label: File 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_file2
+      label: File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_file3
+      label: File 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_upload
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

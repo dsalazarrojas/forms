@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Automation Interface Order Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: solution_id
+      label: Solution ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: solution_type
+      label: Solution Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''automation''}'
+      - '{''value'': ''integration''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_job_title
+      label: Customer Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_department
+      label: Customer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit''}'
+      - '{''value'': ''cash''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: assigned_status
+      label: Assigned Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''in_progress''}'
+      - '{''value'': ''completed''}'
+      required: false
+    - id: 24
+      name: customer_status
+      label: Customer Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 25
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

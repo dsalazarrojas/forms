@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Development End Of Day Report Form
+    pages:
+    - id: 1
+      name: report_information
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of this report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_period
+      label: Reporting Period
+      hint: Which day or period
+      type: select_one
+      options:
+      - Today
+      - This Week
+      - This Month
+      - Custom Period
+      required: true
+    - id: 7
+      name: daily_activities
+      label: -- Daily Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activities_completed
+      label: Activities Completed Today
+      hint: Summary of work done
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: calls_made
+      label: Number of Calls Made
+      hint: Total business development calls
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: meetings_conducted
+      label: Meetings Conducted
+      hint: Number of meetings held
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emails_sent
+      label: Emails Sent
+      hint: Number of business emails
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: proposals_submitted
+      label: Proposals Submitted
+      hint: Number of proposals sent
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: meetings_scheduled
+      label: Meetings Scheduled for Future
+      hint: Upcoming meetings booked
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: achievements
+      label: -- Key Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: major_accomplishments
+      label: Major Accomplishments Today
+      hint: Key wins or breakthroughs
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: deals_closed
+      label: Deals Closed
+      hint: Number of completed sales
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: deals_value
+      label: Total Value of Closed Deals
+      hint: Financial value of sales
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: leads_generated
+      label: New Leads Generated
+      hint: Number of new prospects
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: challenges
+      label: -- Challenges and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: obstacles_encountered
+      label: Obstacles Encountered
+      hint: Describe any problems or barriers
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: support_needed
+      label: Support Needed
+      hint: What resources or help needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_feedback
+      label: Customer Feedback
+      hint: Any feedback from customers
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: planned_activities
+      label: Planned Activities Tomorrow
+      hint: What's scheduled next
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_ups_needed
+      label: Follow-ups Needed
+      hint: Any pending follow-up actions
+      type: text
+      options: []
+      required: false

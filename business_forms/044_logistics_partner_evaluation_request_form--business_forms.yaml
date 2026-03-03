@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Partner Evaluation Request Form
+    pages:
+    - id: 1
+      name: partner
+      label: partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vendor_performance
+      label: vendor_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: note
+      options: []
+      required: false

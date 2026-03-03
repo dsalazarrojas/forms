@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Access List Template
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Developer
+      - User
+      required: true
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: early_access_list
+      label: Early Access List
+      hint: null
+      type: select_multiple
+      options:
+      - Early Access List 1
+      - Early Access List 2
+      - Early Access List 3
+      required: false
+    - id: 10
+      name: list_start_date
+      label: List Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: list_end_date
+      label: List End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: list_type
+      label: List Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Early Access
+      required: false
+    - id: 15
+      name: list_status
+      label: List Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false
+    - id: 16
+      name: list_owner
+      label: List Owner
+      hint: null
+      type: select_multiple
+      options:
+      - List Owner 1
+      - List Owner 2
+      - List Owner 3
+      required: false
+    - id: 17
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: company_notes
+      label: Company Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: company_agent
+      label: Company Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false

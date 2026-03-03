@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Appointment Form
+    pages:
+    - id: 1
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: service
+      label: service_required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: note
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_details
+      label: service_details
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,398 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_header
+      label: Cash Flow Monitoring Form
+      hint: Track inflows and outflows for informed financial decisions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_id
+      label: Monitoring ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: monitoring_date
+      label: Monitoring Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_info
+      label: Business Information
+      hint: Company details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_period
+      label: Reporting Period
+      hint: Time frame
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: period_start
+      label: Period Start Date
+      hint: Beginning date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: period_end
+      label: Period End Date
+      hint: Ending date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: opening_balance
+      label: Opening Cash Balance
+      hint: Starting amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cash_inflows
+      label: Cash Inflows
+      hint: Money received
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cash_sales
+      label: Cash Sales
+      hint: Cash revenue
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: credit_card_sales
+      label: Credit Card Sales
+      hint: Card payments
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: customer_payments
+      label: Customer Payments Received
+      hint: Accounts receivable
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: interest_income
+      label: Interest Income
+      hint: Interest earned
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: investment_returns
+      label: Investment Returns
+      hint: Investment income
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: loan_proceeds
+      label: Loan Proceeds
+      hint: Borrowing
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: owner_contributions
+      label: Owner Contributions
+      hint: Capital injections
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tax_refunds
+      label: Tax Refunds
+      hint: Refunds received
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: other_inflows
+      label: Other Cash Inflows
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_inflows_amount
+      label: Other Inflows Amount
+      hint: Total
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_inflows
+      label: Total Cash Inflows
+      hint: Sum of inflows
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: cash_outflows
+      label: Cash Outflows
+      hint: Money paid out
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: vendor_payments
+      label: Vendor Payments
+      hint: Supplier payments
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payroll
+      label: Payroll
+      hint: Employee wages
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payroll_taxes
+      label: Payroll Taxes
+      hint: Employment taxes
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: rent
+      label: Rent or Mortgage
+      hint: Property payments
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: utilities
+      label: Utilities
+      hint: Utility bills
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: insurance
+      label: Insurance
+      hint: Insurance premiums
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: loan_payments
+      label: Loan Payments
+      hint: Debt service
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: equipment_purchases
+      label: Equipment Purchases
+      hint: Capital expenses
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: inventory_purchases
+      label: Inventory Purchases
+      hint: Stock buying
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: marketing_expenses
+      label: Marketing Expenses
+      hint: Advertising costs
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: professional_fees
+      label: Professional Fees
+      hint: Legal accounting etc
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: tax_payments
+      label: Tax Payments
+      hint: Taxes paid
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: owner_drawings
+      label: Owner Drawings
+      hint: Distributions
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: other_outflows
+      label: Other Cash Outflows
+      hint: Miscellaneous
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: other_outflows_amount
+      label: Other Outflows Amount
+      hint: Total
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: total_outflows
+      label: Total Cash Outflows
+      hint: Sum of outflows
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: net_cash_flow
+      label: Net Cash Flow
+      hint: Inflows minus outflows
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: closing_balance
+      label: Closing Cash Balance
+      hint: Ending amount
+      type: number
+      options: []
+      required: true
+    - id: 41
+      name: bank_reconciliation
+      label: Bank Reconciliation
+      hint: Balance verification
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: bank_statement_balance
+      label: Bank Statement Balance
+      hint: Per bank
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: outstanding_checks
+      label: Outstanding Checks
+      hint: Unpresented checks
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: deposits_in_transit
+      label: Deposits in Transit
+      hint: Uncredited deposits
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: reconciled_balance
+      label: Reconciled Balance
+      hint: Adjusted balance
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: reconciliation_status
+      label: Reconciliation Status
+      hint: Match status
+      type: select_one
+      options:
+      - Fully reconciled
+      - Partially reconciled
+      - Not reconciled
+      - Pending
+      required: false
+    - id: 47
+      name: alerts_flags
+      label: Alerts and Flags
+      hint: Issues to note
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: low_balance_alert
+      label: Is Balance Below Minimum
+      hint: Threshold check
+      type: select_one
+      options:
+      - Yes - below minimum
+      - No - adequate
+      - No - above target
+      required: false
+    - id: 49
+      name: unusual_transactions
+      label: Any Unusual Transactions
+      hint: Anomalies
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: follow_up_required
+      label: Is Follow-Up Required
+      hint: Action needed
+      type: select_one
+      options:
+      - No - all normal
+      - Yes - minor follow-up
+      - Yes - urgent attention
+      required: false
+    - id: 51
+      name: notes_comments
+      label: Notes and Comments
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: prepared_by
+      label: Prepared By
+      hint: Person completing
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: reviewed_by
+      label: Reviewed By
+      hint: Supervisor name
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: review_date
+      label: Review Date
+      hint: Date reviewed
+      type: date
+      options: []
+      required: false

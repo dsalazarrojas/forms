@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Shop Safety Checklist
+    pages:
+      - id: 1
+        name: section_header_inspection
+        label: -- Inspection Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspection_date
+        label: Inspection Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: inspection_time
+        label: Inspection Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: inspector_name
+        label: Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: shop_location
+        label: Shop Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_header_general
+        label: -- General Safety Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: emergency_exits
+        label: Emergency Exits Clear and Marked
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 8
+        name: fire_extinguishers
+        label: Fire Extinguishers Present and Accessible
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 9
+        name: first_aid_kit
+        label: First Aid Kit Stocked and Accessible
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 10
+        name: section_header_floor
+        label: -- Floor and Walkway Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: floor_condition
+        label: Shop Floor Clean and Non-Slippery
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 12
+        name: walkways_clear
+        label: Walkways Clear of Obstacles
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 13
+        name: spill_cleanup
+        label: Spill Cleanup Materials Available
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 14
+        name: section_header_equipment
+        label: -- Equipment Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: equipment_condition
+        label: All Equipment in Safe Condition
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 16
+        name: equipment_guards
+        label: Safety Guards on All Equipment
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 17
+        name: lift_inspection
+        label: Vehicle Lifts Inspected and Safe
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 18
+        name: section_header_ppe
+        label: -- Personal Protective Equipment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: ppe_available
+        label: PPE Available and Accessible
+        hint: Gloves, goggles, masks, etc.
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 20
+        name: eye_wash
+        label: Eye Wash Station Available and Functional
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 21
+        name: section_header_hazardous
+        label: -- Hazardous Materials --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: hazmat_storage
+        label: Hazardous Materials Properly Stored
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 23
+        name: hazmat_labeled
+        label: All Hazardous Materials Properly Labeled
+        hint: null
+        type: select_one
+        options:
+          - Pass
+          - Needs Attention
+          - Fail
+        required: true
+      - id: 24
+        name: section_header_overall
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: safety_rating
+        label: Overall Shop Safety Rating
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Needs Improvement
+          - Poor
+        required: true

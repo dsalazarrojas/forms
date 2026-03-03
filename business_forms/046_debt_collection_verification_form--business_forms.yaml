@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debt Collection Verification Form
+    pages:
+    - id: 1
+      name: debtor_info
+      label: Debtor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: debt_amount
+      label: Debt Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Choose a payment method
+      type: select_one
+      options:
+      - Bank Account
+      - Credit Card
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: debt_description
+      label: Debt Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: debt_status
+      label: Debt Status
+      hint: Select all relevant statuses
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_contact
+      label: Additional Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: debtors
+      label: Debtors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

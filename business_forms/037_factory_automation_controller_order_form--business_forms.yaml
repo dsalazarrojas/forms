@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: factory_automation_controller_order_form
+    pages:
+    - id: 1
+      name: controller_type
+      label: Factory Automation Controller Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Type 1'', ''label'': ''Type 1''}'
+      - '{''value'': ''Type 2'', ''label'': ''Type 2''}'
+      - '{''value'': ''Type 3'', ''label'': ''Type 3''}'
+      required: false
+    - id: 2
+      name: quantity
+      label: Number of Units
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_location
+      label: Shipping Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Location 1'', ''label'': ''Location 1''}'
+      - '{''value'': ''Location 2'', ''label'': ''Location 2''}'
+      - '{''value'': ''Location 3'', ''label'': ''Location 3''}'
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

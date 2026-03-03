@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Lease Agreement Form
+    pages:
+    - id: 1
+      name: lease_agreement_form
+      label: Parking Lease Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parking_address
+      label: parking_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lessee_information
+      label: Lessee Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lessor_information
+      label: Lessor Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rental_amount
+      label: Rental Amount
+      hint: null
+      type: number
+      options: []
+      required: false

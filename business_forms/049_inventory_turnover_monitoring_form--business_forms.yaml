@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Turnover Monitoring Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_value
+      label: Inventory Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inventory_turnover_rate
+      label: Inventory Turnover Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inventory_turnover_frequency
+      label: Inventory Turnover Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

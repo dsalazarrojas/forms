@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Roof Implementation Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: solar_installers
+      label: Solar Installers
+      hint: null
+      type: select_multiple
+      options:
+      - Solar Panel Installers
+      - Roofing Contractors
+      - General Contracting Firms
+      required: false
+    - id: 4
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - New York City
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_area
+      label: Site Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: select_one
+      options:
+      - Flat Roof
+      - Pitch Roof
+      - Gable Roof
+      required: false
+    - id: 12
+      name: roof_material
+      label: Roof Material
+      hint: null
+      type: select_multiple
+      options:
+      - Asphalt Shingle
+      - Metal
+      - Clay Tile
+      - Slate Tile
+      - Wood Shake
+      required: false
+    - id: 13
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 14
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Complete
+      - Inactive
+      required: false
+    - id: 15
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date_opened
+      label: Date Opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: date_closed
+      label: Date Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false

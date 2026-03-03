@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_check_out_form
+    pages:
+    - id: 1
+      name: office_check_out_date
+      label: office_check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: office_id
+      label: office_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: check_out_time
+      label: check_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: check_out_reason
+      label: check_out_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: false

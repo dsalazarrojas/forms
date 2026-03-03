@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work From Phone Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_preferences
+      label: Job Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: working_hours
+      label: Working Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_from_home
+      label: Work From Home
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: job_role
+      label: Job Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false

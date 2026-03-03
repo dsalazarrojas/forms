@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Progress Report Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_type
+      label: Type of Report Needed
+      hint: null
+      type: select_one
+      options:
+      - Project Budget Status
+      - Department Budget Status
+      - Program Budget Status
+      - Quarterly Review
+      - Year-to-Date Summary
+      - Custom Report
+      required: true
+    - id: 6
+      name: project_or_department
+      label: Project or Department Name
+      hint: What is the report for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_period
+      label: Reporting Period
+      hint: Month, quarter, or custom dates
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_amount
+      label: Total Budget Amount
+      hint: For this project or department
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: report_focus
+      label: Report Focus Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Spending vs Budget
+      - Variance Analysis
+      - Cost Drivers
+      - Forecast for Period
+      - Contingency Status
+      - Risk Assessment
+      required: true
+    - id: 10
+      name: format_preference
+      label: Preferred Report Format
+      hint: null
+      type: select_one
+      options:
+      - Excel Spreadsheet
+      - PDF Report
+      - Presentation Slides
+      - Dashboard
+      - Email Summary
+      required: true
+    - id: 11
+      name: distribution_list
+      label: Distribution List
+      hint: Who needs to receive report
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: urgency
+      label: Report Urgency
+      hint: How quickly is this needed
+      type: select_one
+      options:
+      - Immediate - within 24 hours
+      - Urgent - within 1 week
+      - Normal - within 2 weeks
+      - Standard - no rush
+      required: true
+    - id: 13
+      name: specific_questions
+      label: Specific Questions to Address
+      hint: Particular issues or concerns
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comparative_data
+      label: Include Comparative Data
+      hint: Compare to previous periods
+      type: select_one
+      options:
+      - Yes, include comparisons
+      - No, current period only
+      - Both options available
+      required: false
+    - id: 15
+      name: recommendations_needed
+      label: Budget Recommendations Needed
+      hint: Do you need improvement suggestions
+      type: select_one
+      options:
+      - Yes, include recommendations
+      - No, data only
+      - Depends on findings
+      required: true
+    - id: 16
+      name: report_due_date
+      label: Report Due Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true

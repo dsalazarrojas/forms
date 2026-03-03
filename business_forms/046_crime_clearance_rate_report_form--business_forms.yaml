@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Clearance Rate Report Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: crime-clearance-rate-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: crime-type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: crime-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: reporting-period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_input_6
+      label: crime-clearance-rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_input_7
+      label: clearance-status
+      hint: null
+      type: select_one
+      options:
+      - Cleared
+      - Not Cleared
+      - Unknown
+      required: false
+    - id: 8
+      name: user_input_8
+      label: case-status
+      hint: null
+      type: select_multiple
+      options:
+      - Closed
+      - Active
+      - In progress
+      required: false

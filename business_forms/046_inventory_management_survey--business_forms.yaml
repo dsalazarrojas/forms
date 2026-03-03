@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Survey
+    pages:
+    - id: 1
+      name: survey_form_page
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inventory_description
+      label: What is the type of inventory that you manage?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Physical Inventory''}'
+      - '{''id'': 2, ''label'': ''Digital Inventory''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: inventory_size
+      label: How many items are in your inventory?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inventory_value
+      label: What is the total value of your inventory?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stock_management_process
+      label: What stock management process do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''FIFO (First In First Out)''}'
+      - '{''id'': 2, ''label'': ''FEFO (First Expiry First Out)''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: stock_management_frequency
+      label: How often do you manage your stock?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 8
+      name: stock_management_team
+      label: How many people manage your stock?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: stock_location
+      label: Where do you store your stock?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Warehouse''}'
+      - '{''id'': 2, ''label'': ''Store''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: stock_tracking_method
+      label: What method do you use to track your stock?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manual''}'
+      - '{''id'': 2, ''label'': ''Automated''}'
+      required: false
+    - id: 11
+      name: stock_loss_rate
+      label: What is your stock loss rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stock_shrink_rate
+      label: What is your stock shrink rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: stock_obsoletion_rate
+      label: What is your stock obsoletion rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stock_obsoletion_reason
+      label: What is the reason for stock obsoletion?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Obsolescence''}'
+      - '{''id'': 2, ''label'': ''Obstruction''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: stock_obsoletion_method
+      label: What method do you use for stock obsoletion?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Automated''}'
+      - '{''id'': 2, ''label'': ''Manual''}'
+      required: false
+    - id: 16
+      name: stock_purchasing_process
+      label: What is your stock purchasing process?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Bulk''}'
+      - '{''id'': 2, ''label'': ''Just-In-Time (JIT)''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: stock_return_policy
+      label: What is your stock return policy?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Always''}'
+      - '{''id'': 2, ''label'': ''Never''}'
+      - '{''id'': 3, ''label'': ''Sometimes''}'
+      required: false
+    - id: 18
+      name: stock_selling_strategy
+      label: What selling strategy do you use?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Just-in-time''}'
+      - '{''id'': 2, ''label'': ''Just-in-time and stockout''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: stock_sourcing_method
+      label: What stock sourcing method do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Local suppliers''}'
+      - '{''id'': 2, ''label'': ''International suppliers''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: stock_purchasing_frequency
+      label: How often do you purchase stock?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 21
+      name: stock_purchasing_method
+      label: What method do you use to purchase stock?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Offline''}'
+      required: false
+    - id: 22
+      name: stock_return_rate
+      label: What is your stock return rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: stock_selling_rate
+      label: What is your stock selling rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: stock_purchasing_cost
+      label: What is the purchasing cost for stock?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: stock_value_change
+      label: How has the value of your inventory changed over time?
+      hint: null
+      type: number
+      options: []
+      required: false

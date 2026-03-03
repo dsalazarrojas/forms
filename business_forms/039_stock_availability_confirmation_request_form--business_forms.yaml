@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Availability Confirmation Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stock_level
+      label: Stock Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: product_code
+      label: Product Code
+      hint: Please enter a 5-digit product code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

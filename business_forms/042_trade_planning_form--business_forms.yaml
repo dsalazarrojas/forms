@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Planning Form
+    pages:
+    - id: 1
+      name: trade_planning_form_entry
+      label: trade_planning_form_entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trade_planning_form_target
+      label: trade_planning_form_target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trade_planning_form_stop_loss
+      label: trade_planning_form_stop_loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trade_planning_form_size
+      label: trade_planning_form_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trade_planning_form_rationale
+      label: trade_planning_form_rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trade_planning_form_discipline
+      label: trade_planning_form_discipline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trade_planning_form_review
+      label: trade_planning_form_review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trade_planning_form_data_driven_decision_making
+      label: trade_planning_form_data_driven_decision_making
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trade_planning_form_discipline_2
+      label: trade_planning_form_discipline_2
+      hint: null
+      type: select_multiple
+      options:
+      - discipline_1
+      - discipline_2
+      - discipline_3
+      required: false
+    - id: 10
+      name: trade_planning_form_stop_loss_2
+      label: trade_planning_form_stop_loss_2
+      hint: null
+      type: select_one
+      options:
+      - stop_loss_1
+      - stop_loss_2
+      - stop_loss_3
+      required: false
+    - id: 11
+      name: trade_planning_form_size_2
+      label: trade_planning_form_size_2
+      hint: null
+      type: select_multiple
+      options:
+      - size_1
+      - size_2
+      - size_3
+      required: false

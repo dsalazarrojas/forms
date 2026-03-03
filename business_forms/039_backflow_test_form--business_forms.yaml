@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backflow Test Form
+    pages:
+    - id: 1
+      name: test_info_header
+      label: -- Backflow Prevention Device Test Report --
+      hint: Required annual inspection for plumbing safety compliance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technician_name_backflow
+      label: Tester/Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: technician_certification_id
+      label: Tester Certification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_information_header
+      label: -- Property and Owner Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_address_backflow
+      label: Property Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_name_backflow
+      label: Property Owner/Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: device_details_header
+      label: -- Device Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: backflow_device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - RPZ (Reduced Pressure Zone)
+      - DCV (Double Check Valve)
+      - PVB (Pressure Vacuum Breaker)
+      - Other
+      required: true
+    - id: 9
+      name: device_serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: device_location_desc
+      label: Device Location on Property
+      hint: e.g., Basement NW corner, Utility room
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: test_results_header
+      label: -- Inspection and Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: initial_test_result
+      label: Initial Test Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 13
+      name: relief_valve_opening_pressure
+      label: Relief Valve Opening Pressure (PSI)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: check_valve_1_reading
+      label: Check Valve 1 Pressure (PSI)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: repairs_performed_desc
+      label: Repairs Performed (If Failed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: final_test_result
+      label: Final Test Result (After Repairs)
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - N/A (Passed Initial)
+      required: true
+    - id: 17
+      name: date_of_test_report
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: next_test_due_date
+      label: Next Annual Test Due Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acceptance Letter
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Acceptance Letter Form --
+      hint: Generate a formal acceptance letter by completing the details below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_full_name
+      label: Recipient full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recipient_email
+      label: Recipient email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: recipient_address
+      label: Recipient mailing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acceptance_type
+      label: Type of acceptance
+      hint: null
+      type: select_one
+      options:
+      - Job offer acceptance
+      - Project proposal acceptance
+      - Partnership agreement acceptance
+      - Contract acceptance
+      - Application acceptance
+      - Other
+      required: true
+    - id: 6
+      name: issuing_organization
+      label: Issuing organization or company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: issuer_name
+      label: Name of the person issuing the letter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issuer_title
+      label: Title or position of the issuer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issuer_email
+      label: Issuer email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: letter_date
+      label: Date of the letter
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: position_or_subject
+      label: Position, project, or subject being accepted
+      hint: Provide the specific title or description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Start date or effective date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions
+      label: Key terms and conditions (if applicable)
+      hint: Summarize any important terms
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_remarks
+      label: Additional remarks or instructions for the recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirmation
+      label: I confirm that this acceptance letter is authorized and accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes - I confirm
+      - Other
+      required: true

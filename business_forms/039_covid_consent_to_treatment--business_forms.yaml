@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Consent To Treatment
+    pages:
+    - id: 1
+      name: treatment_patient_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: treatment_patient_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_medical_record
+      label: Medical Record Number
+      hint: Your patient ID or MRN
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_email
+      Label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: treatment_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: treatment_address
+      Label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_provider_header
+      label: -- Healthcare Provider Information --
+      hint: Details of treating provider
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: treatment_provider_name
+      Label: Treating Healthcare Provider Name
+      hint: Name of doctor or provider
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: treatment_facility_name
+      label: Healthcare Facility Name
+      hint: Hospital, clinic, or facility name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: treatment_treatment_date
+      Label: Date of Treatment
+      hint: When treatment will be provided
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: treatment_covid_understanding_header
+      label: -- Understanding COVID-19 Treatment --
+      hint: Your understanding of treatment
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: treatment_understand_diagnosis
+      Label: I Understand I Have COVID-19
+      hint: You are diagnosed with COVID-19
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 14
+      name: treatment_understand_procedure
+      label: I Understand the Treatment Procedure
+      hint: You understand what treatment will occur
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 15
+      name: treatment_understand_benefits
+      Label: I Understand the Benefits of Treatment
+      hint: Expected benefits from treatment
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 16
+      name: treatment_understand_risks
+      label: I Understand the Risks of Treatment
+      hint: Potential risks and side effects
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 17
+      name: treatment_medical_history_header
+      Label: -- Medical History --
+      hint: Your relevant medical information
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: treatment_allergies
+      label: Known Allergies
+      hint: Drug allergies or other allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: treatment_current_medications
+      Label: Current Medications
+      hint: List of medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: treatment_chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_hospitalization_history
+      Label: Previous COVID-19 Hospitalization
+      hint: Any previous hospital stays for COVID
+      type: select_one
+      options:
+        - No previous hospitalization
+        - Yes, previously hospitalized
+        - Unsure
+      required: false
+    - id: 22
+      name: treatment_consent_header
+      label: -- Treatment Consent --
+      hint: Your consent to proceed with treatment
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: treatment_authorization
+      Label: I Authorize COVID-19 Treatment to Proceed
+      hint: You authorize the provider to treat you
+      type: select_one
+      options:
+        - I authorize treatment
+        - I do not authorize treatment
+      required: true
+    - id: 24
+      name: treatment_voluntary_consent
+      label: This Consent is Voluntary
+      hint: You are freely choosing this treatment
+      type: select_one
+      options:
+        - Voluntary, not coerced
+        - Under pressure
+      required: true
+    - id: 25
+      name: treatment_consent_date
+      Label: Date of Consent
+      hint: Date you are providing consent
+      type: date
+      options: []
+      required: true

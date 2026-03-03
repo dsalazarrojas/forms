@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Consulting Pilot Application
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: key_challenges
+      label: Key Challenges
+      hint: List of specific challenges faced by the organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_to_share_data
+      label: Consent to Share Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_multiple
+      options:
+      - Large Corporation
+      - Small-Medium Corporation
+      - Non-Profit
+      - Government Agency
+      - Other
+      required: true
+    - id: 9
+      name: goals_details
+      label: Goals Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

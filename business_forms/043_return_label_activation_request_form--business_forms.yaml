@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Label Activation Request Form
+    pages:
+    - id: 1
+      name: return_label_activation_request_form
+      label: Return Label Activation Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: select_one
+      options:
+      - Product not as described
+      - Item missing
+      - Defective product
+      - Other (explain)
+      required: false
+    - id: 7
+      name: customer_consent
+      label: Customer Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_label_status
+      label: Return Label Status
+      hint: null
+      type: select_one
+      options:
+      - Not sent
+      - Sent
+      - Processing
+      - Delivered
+      - Cancelled
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Planning Template Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: industry
+      label: industry
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Construction
+      - Agriculture
+      - Energy
+      - Technology
+      - Pharmaceuticals
+      - Food and Beverage
+      - Automotive
+      required: false
+    - id: 3
+      name: volume
+      label: volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: features
+      label: features
+      hint: null
+      type: select_multiple
+      options:
+      - Features
+      - Customization
+      - Integration
+      - Scalability
+      - Security
+      required: false
+    - id: 5
+      name: delivery_timeline
+      label: delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Operational Forms
+      - Technical Forms
+      - General Forms
+      required: false
+    - id: 13
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 15
+      name: assigned_group
+      label: assigned group
+      hint: null
+      type: select_multiple
+      options:
+      - team1
+      - team2
+      - team3
+      required: false
+    - id: 16
+      name: assigned_project
+      label: assigned project
+      hint: null
+      type: select_multiple
+      options:
+      - project1
+      - project2
+      - project3
+      required: false
+    - id: 17
+      name: assigned_task
+      label: assigned task
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - draft
+      - in progress
+      - completed
+      required: false
+    - id: 20
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_version
+      label: form version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_description
+      label: form description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_user
+      label: submitted user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false

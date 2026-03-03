@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Session Invoice
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hourly_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: services
+      label: Session Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_postal_code
+      label: Billing Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

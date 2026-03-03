@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Registration Form
+    pages:
+    - id: 1
+      name: individual_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: 'format: example@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: type of business
+      hint: null
+      type: select_one
+      options:
+      - Limited Liability Company (LLC)
+      - Corporation
+      - Sole Proprietor
+      - Partnership
+      required: false
+    - id: 5
+      name: address_1
+      label: address line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_2
+      label: address line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: zip code
+      hint: 5 digits
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: 'format: 1234567890'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_registration
+      label: date of registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: license_number
+      label: license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: license_state
+      label: license state
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: industry
+      label: industry
+      hint: null
+      type: select_multiple
+      options:
+      - Agriculture and Forestry
+      - Arts and Culture
+      - Finance and Insurance
+      - Healthcare and Social Services
+      - Manufacturing
+      - Real Estate
+      - Transportation
+      required: false
+    - id: 15
+      name: trade_license
+      label: trade license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trade_license_number
+      label: trade license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: report
+      label: report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trade_employees
+      label: trade employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: trade_years_in_business
+      label: years in business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: industry_description
+      label: industry description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: address_3
+      label: address line 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: trade_license_status
+      label: trade license status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: report_date
+      label: report date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: report_time
+      label: report time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: report_status
+      label: report status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

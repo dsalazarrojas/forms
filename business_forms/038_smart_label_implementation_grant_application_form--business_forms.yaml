@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Label Implementation Grant Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Business Type 1
+      - Business Type 2
+      - Business Type 3
+      required: true
+    - id: 8
+      name: business_tagline
+      label: Business Tagline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: logo
+      label: Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - LinkedIn
+      - Instagram
+      required: true
+    - id: 12
+      name: grant_request
+      label: Grant Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: grant_budget
+      label: Grant Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: grant_implementation_date
+      label: Grant Implementation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: grant_justification
+      label: Grant Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: grant_currency
+      label: Grant Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - INR
+      required: true
+    - id: 19
+      name: business_country
+      label: Business Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Australia
+      - China
+      required: true
+    - id: 20
+      name: business_province
+      label: Business Province
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: business_city
+      label: Business City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: grant_currency_2
+      label: Grant Currency 2
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - INR
+      - JPY
+      required: true
+    - id: 23
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 24
+      name: grant_implementation_status
+      label: Grant Implementation Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 25
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true

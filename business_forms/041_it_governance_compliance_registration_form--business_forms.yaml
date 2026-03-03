@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_governance_compliance_registration_form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: compliance_areas
+      label: Compliance Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: documentation_upload
+      label: Documentation Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: governance_data
+      label: Governance Data
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wage Deduction Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: employee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: deduction_amount
+      label: Deduction Amount
+      hint: Enter the amount to deduct from the employee’s pay check
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: deduction_type
+      label: Deduction Type
+      hint: Choose an option
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: date_of_payment
+      label: Date Of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_payment
+      label: Time Of Payment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

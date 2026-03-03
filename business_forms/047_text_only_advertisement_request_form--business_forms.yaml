@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Text Only Advertisement Request Form
+    pages:
+    - id: 1
+      name: text_only_advertisement_request_form
+      label: text_only_advertisement_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Marketing Agency
+      - Agency
+      - Company
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatbot
+      - chatbot2
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      - Agency
+      required: false

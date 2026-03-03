@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Capabilities Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: strategic_strengths
+      label: Strategic Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: priorities
+      label: Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: uploaded_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_strategic_documents
+      label: Upload Strategic Documents
+      hint: null
+      type: text
+      options: []
+      required: false

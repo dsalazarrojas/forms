@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Quote Form
+    pages:
+    - id: 1
+      name: section_prospect_contact_quote
+      label: -- Prospect Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: prospect_full_name_quote
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prospect_contact_email_quote
+      label: Email Address
+      hint: Quote will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: prospect_phone_number_quote
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_business_details_quote
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_legal_name_quote_form
+      label: Business Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry_sector_quote_selection
+      label: Industry Sector
+      hint: Choose the most relevant category
+      type: select_one
+      options:
+      - Technology / IT
+      - Construction / Trades
+      - Retail / E-commerce
+      - Medical / Healthcare
+      - Legal / Professional Services
+      - Hospitality / Restaurant
+      required: true
+    - id: 8
+      name: annual_revenue_estimate_bracket_quote
+      label: Estimated Annual Gross Revenue
+      hint: null
+      type: select_one
+      options:
+      - Under 100,000 USD
+      - 100,001 - 500,000 USD
+      - 500,001 - 2,000,000 USD
+      - Over 2,000,000 USD
+      required: true
+    - id: 9
+      name: section_coverage_needs_quote
+      label: -- Coverage Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: desired_coverage_types_selection_quote
+      label: Desired Coverage Types
+      hint: Select all policies you want quoted
+      type: select_multiple
+      options:
+      - General Liability
+      - Professional Liability
+      - Property Insurance
+      - Workers Compensation
+      - Cyber Liability
+      - Business Interruption
+      required: true
+    - id: 11
+      name: desired_liability_limits_quote_choice
+      label: Desired Liability Limits
+      hint: Per occurrence limit
+      type: select_one
+      options:
+      - 500,000 USD
+      - 1,000,000 USD
+      - 2,000,000 USD
+      - 5,000,000+ USD
+      required: true
+    - id: 12
+      name: preferred_deductible_level_quote_choice
+      label: Preferred Deductible Level
+      hint: Choose your out-of-pocket preference
+      type: select_one
+      options:
+      - 500 USD
+      - 1,000 USD
+      - 2,500 USD
+      - 5,000 USD
+      required: true
+    - id: 13
+      name: previous_insurance_coverage_history
+      label: Do you have current or previous insurance coverage
+      hint: null
+      type: select_one
+      options:
+      - Yes, currently insured
+      - Yes, previously insured (within 6 months)
+      - No, first-time insurance
+      required: true
+    - id: 14
+      name: quote_delivery_method_preference
+      label: Preferred Quote Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Detailed PDF via Email
+      - Phone Consultation
+      - In-person Meeting
+      required: true
+    - id: 15
+      name: expected_policy_start_date_quote
+      label: Target Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: quote_request_submission_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

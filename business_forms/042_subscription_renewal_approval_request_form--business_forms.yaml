@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Renewal Approval Request Form
+    pages:
+    - id: 1
+      name: subscription_id
+      label: Subscription ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: renewal_period
+      label: Renewal Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: Justification
+      hint: Provide a brief explanation for the subscription renewal request
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Date of the start of the subscription
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: Date of the end of the subscription
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: renewal_request
+      label: Renewal Request
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''label'': ''Approve'', ''value'': ''Approve''}'
+      - '{''id'': 9, ''label'': ''Deny'', ''value'': ''Deny''}'
+      - '{''id'': 10, ''label'': ''Request for Review'', ''value'': ''Request for
+        Review''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Additional comments on the renewal request
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: output
+      label: Output
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''label'': ''Renewal Request'', ''value'': ''Renewal Request''}'
+      - '{''id'': 12, ''label'': ''Subscription Renewal Approval Request'', ''value'':
+        ''Subscription Renewal Approval Request''}'
+      - '{''id'': 13, ''label'': ''Approved'', ''value'': ''Approved''}'
+      - '{''id'': 14, ''label'': ''Not Approved'', ''value'': ''Not Approved''}'
+      - '{''id'': 15, ''label'': ''Approved with Comments'', ''value'': ''Approved
+        with Comments''}'
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false

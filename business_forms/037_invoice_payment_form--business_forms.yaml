@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: invoice_payment_form
+    pages:
+    - id: 1
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false

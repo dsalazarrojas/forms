@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Report Correction Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_header_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_header_requestor
+      label: Requestor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: form_header_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_header_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Completed
+      required: false
+    - id: 6
+      name: form_header_submitting
+      label: Submitting
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_header_submitting_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_header_approver
+      label: Approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_header_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

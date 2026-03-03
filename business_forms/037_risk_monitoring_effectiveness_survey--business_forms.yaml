@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: risk_monitoring_effectiveness_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_type
+      label: Risk Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: mitigation_control
+      label: Mitigation Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mitigation_description
+      label: Mitigation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow-up Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_up_next_action
+      label: Next Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_reviewed
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: risk_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewed_by_date
+      label: Reviewed By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: risk_reviewed
+      label: Reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: risk_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: risk_monitoring_effectiveness
+      label: Risk Monitoring Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: overall_monitored
+      label: Overall Monitored
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

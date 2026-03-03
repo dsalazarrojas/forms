@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embroidery Upload Form
+    pages:
+    - id: 1
+      name: upload_file
+      label: Upload Your File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_name
+      label: File Name
+      hint: Enter file name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_size
+      label: File Size (MB)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: upload_type
+      label: Upload Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PDF''}'
+      - '{''label'': ''BMP''}'
+      - '{''label'': ''JPEG''}'
+      - '{''label'': ''PNG''}'
+      required: true
+    - id: 5
+      name: file_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: file_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

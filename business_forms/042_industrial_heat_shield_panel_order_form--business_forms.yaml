@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Heat Shield Panel Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: panel_type
+      label: panel_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Heat'', ''value'': ''Heat''}'
+      - '{''id'': 2, ''label'': ''Non-Heat'', ''value'': ''Non-Heat''}'
+      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
+      required: false
+    - id: 4
+      name: panel_size
+      label: panel_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: panel_thickness
+      label: panel_thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: panel_material
+      label: panel_material
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Steel'', ''value'': ''Steel''}'
+      - '{''id'': 2, ''label'': ''Aluminum'', ''value'': ''Aluminum''}'
+      - '{''id'': 3, ''label'': ''Wood'', ''value'': ''Wood''}'
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false

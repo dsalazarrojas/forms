@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Product Listing Request Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: product_tags
+      label: Tags
+      hint: Comma separated list of tags
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: true
+    - id: 4
+      name: product_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: product_image
+      label: Product Image
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: product_date
+      label: Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

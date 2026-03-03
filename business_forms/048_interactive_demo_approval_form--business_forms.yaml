@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: interactive_demo_approval_form
+    pages:
+    - id: 1
+      name: demo_request_form
+      label: Demo Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: demo_details
+      label: Demo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_preferences
+      label: Product Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: demo_schedule
+      label: Demo Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_notes
+      label: Product Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: demo_approval_status
+      label: Demo Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: chat_id
+      label: Chat ID
+      hint: null
+      type: text
+      options: []
+      required: false

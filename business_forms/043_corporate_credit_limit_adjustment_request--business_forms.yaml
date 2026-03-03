@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Credit Limit Adjustment Request
+    pages:
+    - id: 1
+      name: business_form
+      label: Corporate Credit Limit Adjustment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: justification
+      label: justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: credit_limit_increase
+      label: Credit Limit Increase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: credit_limit_decrease
+      label: Credit Limit Decrease
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: finance_approval
+      label: Finance Approval
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: credit_committee_review
+      label: Credit Committee Review
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Income Verification Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Unemployed
+      - Working
+      required: true
+    - id: 5
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_day_work_prophets
+      label: Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: unemployment_benefit_type
+      label: Unemployment Benefit Type
+      hint: null
+      type: select_one
+      options:
+      - Unemployment Insurance
+      - Worker's Compensation
+      required: true
+    - id: 12
+      name: income_proof_attachment
+      label: Income Proof Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attachment_upload
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_time
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_date
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_time
+      label: Time Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: deleted_date
+      label: Date Deleted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: deleted_time
+      label: Time Deleted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: deleted_user
+      label: Deleted User
+      hint: null
+      type: text
+      options: []
+      required: false

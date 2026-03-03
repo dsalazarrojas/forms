@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Space Leasing License Form
+    pages:
+    - id: 1
+      name: section_licensor_details
+      label: -- License Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: licensor_legal_name
+      label: Licensor Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: licensee_legal_name
+      label: Licensee Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_premises_details
+      label: -- Licensed Premises Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: licensed_premises_description
+      label: Description of Licensed Space/Area
+      hint: e.g., Suite 400, Parking Lot B, Kiosk Location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: licensed_use_description
+      label: Permitted Use of Space
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_license_term
+      label: -- License Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: license_effective_date
+      label: License Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: renewal_option_available
+      label: Is a renewal option available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_financial_license
+      label: -- License Fee Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: monthly_license_fee
+      label: Monthly License Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: security_deposit_amount
+      label: Security Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_contact_license
+      label: -- Official Notice Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: licensee_contact_email
+      label: Licensee Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: licensee_contact_phone
+      label: Licensee Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

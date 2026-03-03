@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Service Growth Report Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_engagement
+      label: User Engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_retention
+      label: Customer Retention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''active''}'
+      - '{''label'': ''inactive''}'
+      - '{''label'': ''cancelled''}'
+      required: false
+    - id: 5
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''monthly''}'
+      - '{''label'': ''yearly''}'
+      - '{''label'': ''quarterly''}'
+      required: false
+    - id: 11
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''paid''}'
+      - '{''label'': ''unpaid''}'
+      - '{''label'': ''pending''}'
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''credit_card''}'
+      - '{''label'': ''bank_transfer''}'
+      - '{''label'': ''paypal''}'
+      required: false
+    - id: 13
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''active''}'
+      - '{''label'': ''inactive''}'
+      - '{''label'': ''cancelled''}'
+      required: false
+    - id: 17
+      name: subscription_start_date_range
+      label: Subscription Start Date Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: subscription_end_date_range
+      label: Subscription End Date Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_cycle_range
+      label: Billing Cycle Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_frequency_range
+      label: Billing Frequency Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms_range
+      label: Payment Terms Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_status_range
+      label: Payment Status Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: subscription_type_range
+      label: Subscription Type Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_status_range
+      label: Billing Status Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: billing_address_range
+      label: Billing Address Range
+      hint: null
+      type: text
+      options: []
+      required: false

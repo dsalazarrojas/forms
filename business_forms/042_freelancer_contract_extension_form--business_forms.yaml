@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelancer Contract Extension Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: extension_terms
+      label: Extension Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Client Acceptance: Accept'
+      - 'Client Acceptance: Reject'
+      - 'Client Acceptance: Conditional'
+      required: false
+    - id: 4
+      name: freelancer_signature
+      label: Freelancer Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contract_value
+      label: Contract Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: freelancer_notes
+      label: Freelancer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Draft
+      required: false

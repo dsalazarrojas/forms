@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Form Template
+    pages:
+    - id: 1
+      name: customer_feedback_form
+      label: customer_feedback_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: Enter contact details for the customer
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_multiple
+      options:
+      - Positive - Great service
+      - Negative - Bad product
+      - Neutral - Average service
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: Any other comments
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone_number
+      label: customer_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_company
+      label: customer_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_job_title
+      label: customer_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_or_service
+      label: product_or_service
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: true
+    - id: 13
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: feedback_category
+      label: feedback_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_details
+      label: feedback_details
+      hint: null
+      type: select_multiple
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: false

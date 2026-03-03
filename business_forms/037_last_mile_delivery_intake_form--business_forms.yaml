@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: last_mile_delivery_intake_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: package_weight
+      label: package_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: package_size
+      label: package_size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''In Progress''}'
+      - '{''id'': 11, ''label'': ''Completed''}'
+      - '{''id'': 12, ''label'': ''Cancelled''}'
+      - '{''id'': 13, ''label'': ''On Hold''}'
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: note2
+      label: note2
+      hint: null
+      type: note
+      options: []
+      required: false

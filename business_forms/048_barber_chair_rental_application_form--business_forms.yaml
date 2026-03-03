@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Chair Rental Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: barber_license_number
+      label: Barber License Number
+      hint: Your license ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_state
+      label: License State
+      hint: Where is your license issued?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_expiration
+      label: License Expiration Date
+      hint: When does license expire?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Barbering Experience
+      hint: How long have you been cutting?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: specializations
+      label: Specializations or Skills
+      hint: Select your specialties
+      type: select_multiple
+      options:
+      - Fade Cuts
+      - Beard Trimming
+      - Hair Coloring
+      - Textured Hair
+      - Traditional Cuts
+      - Modern Styles
+      - Straight Razor Work
+      - Scalp Treatments
+      required: true
+    - id: 12
+      name: previous_shop_experience
+      label: Previous Shop Experience
+      hint: Where have you worked?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: references_available
+      label: Professional References Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: rental_duration
+      label: Preferred Rental Duration
+      hint: How long do you want to rent?
+      type: select_one
+      options:
+      - Day-to-Day
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Flexible
+      required: true
+    - id: 15
+      name: days_per_week
+      label: Expected Days Per Week
+      hint: How many days will you work?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: hours_per_day
+      label: Expected Hours Per Day
+      hint: Average hours you'll work
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: clientele_base
+      label: Do You Have Clientele Base?
+      hint: Do you bring your own clients?
+      type: select_one
+      options:
+      - Yes - Established
+      - Yes - Some
+      - No - Need to Build
+      - Mixed
+      required: true
+    - id: 18
+      name: liability_insurance
+      label: Liability Insurance
+      hint: Do you have personal insurance?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Obtain
+      required: true
+    - id: 19
+      name: background_check
+      label: Background Check Authorization
+      hint: Do you consent to background check?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: cleanliness_commitment
+      label: Commitment to Shop Standards
+      hint: Will you follow shop cleanliness standards?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Have Questions
+      required: true
+    - id: 21
+      name: conflict_resolution
+      label: Conflict Resolution Willingness
+      hint: Willing to follow shop policies?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Depends
+      required: true
+    - id: 22
+      name: previous_rent_issues
+      label: Previous Rent or Legal Issues
+      hint: Any past issues?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Prefer Not to Say
+      required: true
+    - id: 23
+      name: issue_description
+      label: Issue Description (if applicable)
+      hint: Explain if there were issues
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

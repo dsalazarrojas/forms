@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Compliance Audit Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Business Forms'', ''label'': ''Business Forms''}'
+      - Other
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: A short description of the form
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: The tool assigned to the form
+      type: text
+      options: []
+      required: false

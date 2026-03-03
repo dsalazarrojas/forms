@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Handover Form
+    pages:
+    - id: 1
+      name: form_input
+      label: Form Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Briefly describe the document.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Document
+      - Contract
+      - Invoice
+      - Policy
+      - Agreement
+      required: true
+    - id: 9
+      name: recipient
+      label: Recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sender
+      label: Sender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Done
+      - Overdue
+      - Pending
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: Select a person to assign this document to
+      type: select_one
+      options:
+      - chatjimmy
+      - John
+      - Jane
+      required: true
+    - id: 14
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 15
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: document_version
+      label: Document Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: document_status
+      label: Document Status
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Draft
+      - Final
+      - In Progress
+      - Approved
+      - Rejected
+      required: true
+    - id: 18
+      name: document_revision_history
+      label: Document Revision History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_1
+      label: Attachment 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment_2
+      label: Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment_3
+      label: Attachment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment_4
+      label: Attachment 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_5
+      label: Attachment 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_6
+      label: Attachment 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_7
+      label: Attachment 7
+      hint: null
+      type: text
+      options: []
+      required: false

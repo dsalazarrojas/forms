@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Energy Partner Contact Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Write a brief description of the organization.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2''}'
+      - '{''id'': 3, ''name'': ''Facility 3''}'
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Business Forms''}'
+      - '{''id'': 2, ''name'': ''Energy Partners''}'
+      - '{''id'': 3, ''name'': ''Facilities''}'
+      required: false

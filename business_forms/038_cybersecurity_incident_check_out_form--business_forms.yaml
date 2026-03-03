@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: cybersecurity_incident_check_out_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact_level
+      label: Impact Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Critical
+      required: false
+    - id: 3
+      name: affected_assets
+      label: Affected Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Server
+      - Database
+      - Network
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Phishing
+      - Ransomware
+      - Malware
+      - Data Breach
+      required: false
+    - id: 5
+      name: incident_classification
+      label: Incident Classification
+      hint: null
+      type: select_multiple
+      options:
+      - Malware
+      - Phishing
+      - Ransomware
+      - Data Breach
+      - Insider
+      - Outside
+      - Unspecified
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: false
+    - id: 11
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - In Progress
+      - New
+      required: false
+    - id: 12
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: incident_date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: incident_last_updated
+      label: Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_affected_users
+      label: Affected Users
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_affected_users_count
+      label: Affected Users Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: incident_affected_groups
+      label: Affected Groups
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_affected_groups_count
+      label: Affected Groups Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: incident_reporter_notes
+      label: Reporter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: incident_reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: incident_reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reviewer_time
+      label: Reviewer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: incident_closed_time
+      label: Closed Time
+      hint: null
+      type: time
+      options: []
+      required: false

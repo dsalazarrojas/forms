@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Status Communication Form
+    pages:
+    - id: 1
+      name: form_1_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2_page
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Apple'', ''value'': ''Apple''}'
+      - '{''id'': 2, ''name'': ''Banana'', ''value'': ''Banana''}'
+      - '{''id'': 3, ''name'': ''Orange'', ''value'': ''Orange''}'
+      required: true
+    - id: 3
+      name: form_3_page
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: form_4_page
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_5_page
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_6_page
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_7_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_8_page
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_scalability_evaluation_form
+    pages:
+    - id: 1
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_goals
+      label: project_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resource_planning
+      label: resource_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scalability_assessment
+      label: scalability_assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: resource_allocation
+      label: resource_allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resource_challenges
+      label: resource_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_management
+      label: risk_management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_management
+      label: project_management
+      hint: null
+      type: text
+      options: []
+      required: false

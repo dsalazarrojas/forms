@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nightly Cashup Sheet
+    pages:
+    - id: 1
+      name: daily_cashup
+      label: daily_cashup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_sick
+      label: staff_sick
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: staff_incident
+      label: staff_incident
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: cash_up_sheet
+      label: cashup
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tips
+      label: tips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_charge
+      label: servicecharge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: discount
+      label: discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: net
+      label: net
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: service_report
+      label: servicereport
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cash_out
+      label: cashout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: change
+      label: change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bank_fund
+      label: bankfund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tips_collected
+      label: tips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: staff_sick_reason
+      label: staff_sick_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_sick_date
+      label: staff_sick_date
+      hint: null
+      type: date
+      options: []
+      required: false

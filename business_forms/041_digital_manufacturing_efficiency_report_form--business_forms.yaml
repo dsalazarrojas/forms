@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Manufacturing Efficiency Report Form
+    pages:
+    - id: 1
+      name: production_efficiency
+      label: Production Efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: production_hours
+      label: Production Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: production_start_time
+      label: Production Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: production_end_time
+      label: Production End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Provide additional comments or notes regarding production.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: department_id
+      label: Department ID
+      hint: null
+      type: text
+      options: []
+      required: false

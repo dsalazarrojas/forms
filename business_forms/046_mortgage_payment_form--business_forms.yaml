@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Payment Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: Your home address
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: Your loan amount
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: interest_rate
+      label: Interest Rate
+      hint: Your interest rate
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_term
+      label: Loan Term
+      hint: In years
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: monthly_payment
+      label: Monthly Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Online Banking
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: loan_provider
+      label: Loan Provider
+      hint: Your lender's name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mortgage_type
+      label: Mortgage Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed Rate
+      - Adjustable Rate
+      - Hybrid
+      required: false

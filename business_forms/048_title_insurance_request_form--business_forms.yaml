@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Title Insurance Request Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 3
+      name: property_description
+      label: Property Description
+      hint: Brief description of property
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipment_method
+      label: Shipment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Mail
+      - Download
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Client email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: document_type
+      label: Document Type
+      hint: Type of document required
+      type: select_one
+      options:
+      - Title Report
+      - Title Commitment
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: Client signature
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_statement
+      label: Client Statement
+      hint: Client’s statement or remarks
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: title_agency
+      label: Title Agency
+      hint: Title agency name and address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: title_agent
+      label: Title Agent
+      hint: Title Agent name and contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Periodic
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online
+      required: false
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: title_insurance_policy
+      label: Title Insurance Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Final
+      required: false

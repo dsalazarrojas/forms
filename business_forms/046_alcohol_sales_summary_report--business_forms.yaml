@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Sales Summary Report
+    pages:
+    - id: 1
+      name: section_report_info
+      label: -- Reporting Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporting_officer
+      label: Reporting Officer/Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: store_location_id
+      label: Store/Venue ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reporting_period
+      label: Period Covered
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 6
+      name: section_sales_data
+      label: -- Sales Summary Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_beer_sales
+      label: Total Beer/Cider Sales ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_wine_sales
+      label: Total Wine Sales ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_spirit_sales
+      label: Total Spirit/Liquor Sales ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_premixed_sales
+      label: Total Premixed/RTD Sales ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: gross_alcohol_sales
+      label: Gross Alcohol Sales Total ($)
+      hint: Sum of all categories
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_transactions_count
+      label: Total Number of Alcohol Transactions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: high_volume_item
+      label: Best Selling Item for Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inventory_variance
+      label: Inventory Variance/Shrinkage ($)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: compliance_incidents
+      label: Number of Refusals or ID Incidents
+      hint: Age verification related
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: manager_comments_sales
+      label: Manager Notes and Variance Explanations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: verification_signoff
+      label: I verify that this sales data is accurate and matches the POS records
+      hint: null
+      type: select_one
+      options:
+      - Verified and Signed
+      - Other
+      required: true

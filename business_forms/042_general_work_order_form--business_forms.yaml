@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Work Order Form
+    pages:
+    - id: 1
+      name: general_work_order_form
+      label: Work Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_information
+      label: Task Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - available
+      - in progress
+      - completed
+      required: false
+    - id: 4
+      name: assigned_employee
+      label: Assigned Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: materials
+      label: Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: task_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_order_number
+      label: Work Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: text
+      options: []
+      required: false

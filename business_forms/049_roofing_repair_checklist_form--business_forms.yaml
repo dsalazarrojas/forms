@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: roofing_repair_checklist_form
+    pages:
+    - id: 1
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: repair_description
+      label: Repair Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: roof_condition_rating
+      label: Roof Condition Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 8
+      name: recommended_remediation
+      label: Recommended Remediation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: roof_structure_inspection
+      label: Roof Structure Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: roof_structure_condition
+      label: Roof Structure Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: roof_leakage_status
+      label: Roof Leakage Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: roof_leakage_description
+      label: Roof Leakage Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: roof_condition_rating
+      label: Roof Condition Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 14
+      name: repair_recommendation
+      label: Repair Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: repair_priority
+      label: Repair Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: repair_schedule
+      label: Repair Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: repair_cost_estimate
+      label: Repair Cost Estimate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_communication
+      label: Client Communication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: repair_report
+      label: Repair Report
+      hint: null
+      type: text
+      options: []
+      required: true

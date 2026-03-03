@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Offsite Booking Form
+    pages:
+    - id: 1
+      name: section_organizer_info
+      label: -- Organizer Information --
+      type: note
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Organizer Name
+      hint: Your name
+      type: text
+      required: true
+    - id: 3
+      name: organizer_title
+      label: Title or Position
+      hint: Your role
+      type: text
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      required: true
+    - id: 5
+      name: organizer_email
+      label: Email Address
+      hint: Your email
+      type: email
+      required: true
+    - id: 6
+      name: organizer_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: true
+    - id: 7
+      name: section_offsite_details
+      label: -- Offsite Details --
+      type: note
+      required: false
+    - id: 8
+      name: offsite_title
+      label: Offsite Title or Theme
+      hint: Name of the strategy offsite
+      type: text
+      required: true
+    - id: 9
+      name: offsite_date_start
+      label: Start Date
+      hint: First day of the offsite
+      type: date
+      required: true
+    - id: 10
+      name: offsite_date_end
+      label: End Date
+      hint: Last day of the offsite
+      type: date
+      required: true
+    - id: 11
+      name: total_duration_days
+      label: Total Duration in Days
+      hint: Number of days
+      type: number
+      required: true
+    - id: 12
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Total participants
+      type: number
+      required: true
+    - id: 13
+      name: section_venue_requirements
+      label: -- Venue Requirements --
+      type: note
+      required: false
+    - id: 14
+      name: venue_preference_type
+      label: Venue Type Preference
+      hint: Resort, conference center, hotel, etc.
+      type: select_one
+      options:
+      - Hotel with Conference Center
+      - Resort
+      - Conference Center
+      - Private Club
+      - Retreat Facility
+      - Office Space
+      - Other
+      required: true
+    - id: 15
+      name: venue_location_preference
+      label: Location Preference
+      hint: Geographic preference or specific area
+      type: text
+      required: false
+    - id: 16
+      name: lodging_needed
+      label: Lodging Needed
+      hint: Should venue include accommodations
+      type: select_one
+      options:
+      - Yes, on-site lodging
+      - Yes, nearby lodging
+      - No, day trip
+      - Mix of options
+      required: true
+    - id: 17
+      name: budget_per_person
+      label: Budget Per Person Per Day
+      hint: In dollars
+      type: number
+      required: false
+    - id: 18
+      name: section_offsite_objectives
+      label: -- Offsite Objectives --
+      type: note
+      required: false
+    - id: 19
+      name: primary_objectives
+      label: Primary Objectives
+      hint: Select main focus areas
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Team Building
+      - Leadership Development
+      - Problem Solving
+      - Culture Alignment
+      - Innovation Ideation
+      - Relationship Building
+      required: true
+    - id: 20
+      name: key_discussion_topics
+      label: Key Discussion Topics
+      hint: Main subjects for agenda
+      type: text
+      required: true
+    - id: 21
+      name: section_activities
+      label: -- Activities and Format --
+      type: note
+      required: false
+    - id: 22
+      name: activity_preferences
+      label: Activity Preferences
+      hint: Types of activities
+      type: select_multiple
+      options:
+      - Formal Presentations
+      - Workshops
+      - Breakout Sessions
+      - Team Activities
+      - Meals and Networking
+      - Recreational Activities
+      - Evening Events
+      required: false
+    - id: 23
+      name: catering_requirements
+      label: Catering Requirements
+      hint: Meal plans needed
+      type: text
+      required: false
+    - id: 24
+      name: technology_needs
+      label: Technology and AV Needs
+      hint: Equipment required
+      type: text
+      required: false
+    - id: 25
+      name: section_special_requests
+      label: -- Special Requests --
+      type: note
+      required: false
+    - id: 26
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Accessibility or dietary needs
+      type: text
+      required: false
+    - id: 27
+      name: additional_requests
+      label: Additional Requests or Notes
+      hint: Any other special requirements
+      type: text
+      required: false

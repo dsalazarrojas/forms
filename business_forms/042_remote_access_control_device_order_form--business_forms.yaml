@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Access Control Device Order Form
+    pages:
+    - id: 1
+      name: device_type
+      label: Remote Access Control Device
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: customer_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_info
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: order_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true

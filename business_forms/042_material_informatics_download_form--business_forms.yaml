@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: material_informatics_download_form
+    pages:
+    - id: 1
+      name: material_informatics_download_form
+      label: download_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_name
+      label: material_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: material_id
+      label: material_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: material_description
+      label: material_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_version
+      label: material_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: material_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: material_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: material_file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: material_url
+      label: material_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: material_status
+      label: material_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: true
+    - id: 14
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - John
+      - Jane
+      required: true
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Engineering
+      - Finance
+      required: true

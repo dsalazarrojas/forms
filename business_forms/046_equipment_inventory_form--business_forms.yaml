@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_inventory_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_price
+      label: item_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_quantity
+      label: item_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: distributor_item_list
+      label: distributor_item_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: distributor_name
+      label: distributor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item_status
+      label: item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

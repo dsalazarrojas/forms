@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operator Daily Inspection Form
+    pages:
+    - id: 1
+      name: operator_daily_inspection_form
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_engine
+      label: check_engine
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''prophets'', ''value'': ''prophets''}'
+      - '{''id'': 2, ''name'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 3
+      name: engine_oil_level
+      label: engine_oil_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: engine_radiator
+      label: engine_radiator
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''prophets'', ''value'': ''prophets''}'
+      - '{''id'': 2, ''name'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 5
+      name: transmission
+      label: transmission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''prophets'', ''value'': ''prophets''}'
+      - '{''id'': 2, ''name'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 6
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''prophets'', ''value'': ''prophets''}'
+      - '{''id'': 2, ''name'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: report_details
+      label: report_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

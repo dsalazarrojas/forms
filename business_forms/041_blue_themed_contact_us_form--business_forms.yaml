@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blue Themed Contact Us Form
+    pages:
+    - id: 1
+      name: contact_intro
+      label: -- Contact Our Team --
+      hint: We are here to help
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visitor_position
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_category
+      label: Inquiry Category
+      hint: null
+      type: select_one
+      options:
+      - General inquiry
+      - Sales
+      - Support
+      - Careers
+      - Partnership
+      - Media
+      - Other
+      required: true
+    - id: 8
+      name: inquiry_subject
+      label: Subject
+      hint: What can we help you with?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inquiry_message
+      label: Message
+      hint: Please provide details
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: timeline
+      label: When do you need a response?
+      hint: null
+      type: select_one
+      options:
+      - ASAP
+      - Within 24 hours
+      - Within 3 days
+      - Within 1 week
+      - No rush
+      required: false
+    - id: 11
+      name: budget_availability
+      label: Approximate Budget (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      - In-person meeting
+      required: true
+    - id: 13
+      name: best_time
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

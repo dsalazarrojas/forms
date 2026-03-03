@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Partnership Renewal Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: partnership_start_date
+      label: partnership_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: partnership_end_date
+      label: partnership_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: partnership_status
+      label: partnership_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: true
+    - id: 14
+      name: renewal_cycle
+      label: renewal_cycle
+      hint: null
+      type: number
+      options: []
+      required: true

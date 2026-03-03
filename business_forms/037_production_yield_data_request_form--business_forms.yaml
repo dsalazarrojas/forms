@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: production_yield_data_request_form
+    pages:
+    - id: 1
+      name: production_data_request
+      label: Production Data Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_yeild_rate
+      label: Production Yield Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: production_performance_metrics
+      label: Production Performance Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - Yield Rate
+      - Scrap Rate
+      - Defect Rate
+      required: false
+    - id: 4
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_addresses
+      label: Email Addresses
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false

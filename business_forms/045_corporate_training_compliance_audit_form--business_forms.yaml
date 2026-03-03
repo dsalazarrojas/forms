@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate-training-compliance-audit-form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_one
+      options:
+      - Compliance Program
+      - Non-Compliance Program
+      - Other
+      required: true
+    - id: 3
+      name: training_methods
+      label: Training Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Online Training
+      - Classroom Training
+      - On-the-job Training
+      - Other
+      required: false
+    - id: 4
+      name: training_materials
+      label: Training Materials
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: training_equipment
+      label: Training Equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      - Other
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: auditor_signature
+      label: Auditor Signature
+      hint: null
+      type: select_one
+      options:
+      - Signed as above
+      - Not signed
+      required: true
+    - id: 11
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: auditor_organization
+      label: Auditor Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: auditor_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: auditor_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: auditor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: auditor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: auditor_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: auditor_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: auditor_signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: select_one
+      options:
+      - Signed as above
+      - Not signed
+      required: true
+    - id: 21
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: approver_organization
+      label: Approver Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: approver_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approver_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approver_organization_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: approver_organization_signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

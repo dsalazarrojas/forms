@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mall Security Breach Incident Form
+    pages:
+    - id: 1
+      name: breach_description
+      label: Breach Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location_of_incident
+      label: Location of Incident
+      hint: null
+      type: select_one
+      options:
+      - Mall Entrance
+      - Mall Aisle
+      - Mall Exit
+      required: true
+    - id: 5
+      name: description_of_incident
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_of_victims
+      label: Number of Victims
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_injuries
+      label: Number of Injuries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_deaths
+      label: Number of Deaths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: video_footage
+      label: Video Footage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: photo_footage
+      label: Photo Footage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: true
+    - id: 13
+      name: security_response
+      label: Security Response
+      hint: null
+      type: select_one
+      options:
+      - Security Response Team
+      - Mall Management
+      - Mall Security Team
+      required: true
+    - id: 14
+      name: incident_reporting_officer
+      label: Incident Reporting Officer
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Security Manager
+      required: true
+    - id: 15
+      name: incident_report_date
+      label: Incident Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: incident_report_time
+      label: Incident Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true

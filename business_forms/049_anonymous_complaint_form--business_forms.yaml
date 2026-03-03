@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Complaint Form
+    pages:
+      - id: 1
+        name: complaint_date
+        label: Date of Complaint
+        hint: When did the issue occur
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: department_affected
+        label: Department or Area Affected
+        hint: Which part of organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: complaint_category
+        label: Complaint Category
+        hint: null
+        type: select_one
+        options:
+          - "Workplace conduct"
+          - "Safety concerns"
+          - "Harassment or discrimination"
+          - "Ethics or fraud"
+          - "Quality or service issue"
+          - "Policy violation"
+          - "Environmental concern"
+          - "Other"
+        required: true
+      - id: 4
+        name: complaint_priority
+        label: Priority Level
+        hint: null
+        type: select_one
+        options:
+          - "Critical - immediate action needed"
+          - "High - urgent"
+          - "Medium - important"
+          - "Low - informational"
+        required: true
+      - id: 5
+        name: person_involved
+        label: Person or People Involved
+        hint: Names, positions, or roles - if safe to provide
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: detailed_complaint
+        label: Detailed Description of Complaint
+        hint: What is the issue - be specific
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: complaint_duration
+        label: How long has this been occurring
+        hint: null
+        type: select_one
+        options:
+          - "Single incident"
+          - "Less than 1 week"
+          - "1-4 weeks"
+          - "1-3 months"
+          - "More than 3 months"
+          - "Ongoing"
+        required: true
+      - id: 8
+        name: impact_description
+        label: Impact of the Issue
+        hint: How does this affect work environment or business
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: affected_parties
+        label: Who is affected by this issue
+        hint: null
+        type: select_multiple
+        options:
+          - "Me personally"
+          - "My team or department"
+          - "Other employees"
+          - "Customers or clients"
+          - "Public or community"
+          - "Company reputation"
+        required: true
+      - id: 10
+        name: evidence_attached
+        label: Evidence or Documentation Available
+        hint: Do you have proof
+        type: select_one
+        options:
+          - "Yes - attached"
+          - "Yes - can provide"
+          - "No evidence available"
+        required: true
+      - id: 11
+        name: witnesses
+        label: Were there witnesses
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Unsure"
+        required: false
+      - id: 12
+        name: prior_reporting
+        label: Have you reported this before
+        hint: To HR, management, or authorities
+        type: select_one
+        options:
+          - "Yes - to HR or management"
+          - "Yes - to external authority"
+          - "No - first report"
+        required: false
+      - id: 13
+        name: prior_action
+        label: What happened with previous report
+        hint: What action was taken
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: resolution_attempted
+        label: Have you attempted to resolve this yourself
+        hint: null
+        type: select_one
+        options:
+          - "Yes - direct conversation"
+          - "Yes - other attempt"
+          - "No - felt unsafe"
+          - "No - did not attempt"
+        required: false
+      - id: 15
+        name: desired_resolution
+        label: Desired Resolution or Outcome
+        hint: What would resolve this issue
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: retaliation_concern
+        label: Concern about retaliation
+        hint: Are you worried about negative consequences
+        type: select_one
+        options:
+          - "Yes - significant concern"
+          - "Yes - minor concern"
+          - "No concern"
+        required: true
+      - id: 17
+        name: confidentiality_required
+        label: Do you want to remain completely anonymous
+        hint: null
+        type: select_one
+        options:
+          - "Yes - completely anonymous"
+          - "Yes - but may contact me"
+          - "Provide contact information"
+        required: true
+      - id: 18
+        name: contact_method
+        label: Preferred Contact Method
+        hint: If follow-up is necessary
+        type: select_one
+        options:
+          - "Email"
+          - "Phone"
+          - "Do not contact"
+        required: false
+      - id: 19
+        name: contact_info
+        label: Contact Information
+        hint: Only if permitting follow-up
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Consultation Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Business Name
+      hint: Your organization or company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: buyer_type
+      label: Type of Buyer
+      hint: What type of buyer are you?
+      type: select_one
+      options:
+      - First-time buyer
+      - Returning buyer
+      - Business buyer
+      - Retail buyer
+      - Wholesale buyer
+      - Investor
+      - Government or non-profit
+      required: true
+    - id: 6
+      name: consultation_reason
+      label: Reason for Consultation
+      hint: What do you need help with?
+      type: select_one
+      options:
+      - Product selection
+      - Pricing information
+      - Bulk ordering
+      - Contract terms
+      - Partnership opportunity
+      - Quality assessment
+      - Vendor evaluation
+      - Other reason
+      required: true
+    - id: 7
+      name: product_interest
+      label: Product or Service Interest
+      hint: What products or services?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_range
+      label: Budget Range
+      hint: Estimated spending
+      type: select_one
+      options:
+      - Under $5000
+      - $5000 - $25000
+      - $25000 - $100000
+      - $100000 - $500000
+      - $500000 - $1 million
+      - Over $1 million
+      - Not determined
+      required: true
+    - id: 9
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: When do you need to purchase?
+      type: select_one
+      options:
+      - Immediate - next few days
+      - Soon - within 2 weeks
+      - Short-term - 1 month
+      - Medium-term - 3 months
+      - Long-term - 6+ months
+      - Flexible
+      required: true
+    - id: 10
+      name: quantity_needed
+      label: Estimated Quantity Needed
+      hint: How much do you need?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specific_requirements
+      label: Specific Requirements or Specifications
+      hint: Special features, standards, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supplier_experience
+      label: Previous Supplier Experience
+      hint: Have you bought similar products before?
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, some experience
+      - No, first purchase
+      required: true
+    - id: 13
+      name: decision_factors
+      label: Key Decision Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price and cost
+      - Quality
+      - Reliability and reputation
+      - Delivery time
+      - Customer service
+      - Warranty or guarantees
+      - Sustainability
+      - Brand recognition
+      required: true
+    - id: 14
+      name: decision_maker
+      label: Are You the Final Decision Maker?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I decide
+      - I recommend, others decide
+      - I provide input only
+      - Collaborative decision
+      required: true
+    - id: 15
+      name: other_stakeholders
+      label: Other Stakeholders or Approvers
+      hint: Who else needs to approve?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: existing_relationships
+      label: Current Suppliers or Competitors
+      hint: Who else are you considering?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_payment
+      label: Payment Terms Preference
+      hint: null
+      type: select_one
+      options:
+      - Full payment upfront
+      - Net 30 days
+      - Net 60 days
+      - Net 90 days
+      - Installment payments
+      - Flexible terms
+      required: true
+    - id: 18
+      name: transportation
+      label: Shipping or Delivery Needs
+      hint: null
+      type: select_one
+      options:
+      - Direct from manufacturer
+      - Local pickup
+      - Domestic delivery
+      - International delivery
+      - Flexible
+      required: false
+    - id: 19
+      name: consultation_preferences
+      label: Preferred Consultation Method
+      hint: How would you like to meet?
+      type: select_one
+      options:
+      - Phone call
+      - Video conference
+      - In-person meeting
+      - Email communication
+      - Flexible
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

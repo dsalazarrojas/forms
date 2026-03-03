@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Subcontracting Questionnaire
+    pages:
+    - id: 1
+      name: section_subcontractor_info
+      label: -- Subcontractor Information --
+      hint: details of the potential partner
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_name
+      label: Subcontractor Legal Name
+      hint: as registered with the FMCSA
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_company
+      label: Parent Company
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dot_number
+      label: DOT Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_operation
+      label: Years in Operation
+      hint: how long has the business been active?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_capacity
+      label: -- Capacity and Fleet --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fleet_size
+      label: Total Number of Trucks in Fleet
+      hint: power units only
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: trailer_types
+      label: Types of trailers available
+      hint: select all that you operate
+      type: select_multiple
+      options:
+      - Dry Van
+      - Reefer
+      - Flatbed
+      - Drop Deck
+      - Intermodal
+      required: true
+    - id: 9
+      name: team_drivers
+      label: Do you have team drivers available for long-haul?
+      hint: for expedited shipments
+      type: select_one
+      options:
+      - true
+      - false
+      - Limited
+      required: true
+    - id: 10
+      name: section_policies
+      label: -- Subcontracting Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: double_brokering_policy
+      label: Carrier certifies they do not engage in unauthorized double-brokering
+      hint: re-brokering loads without consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: subcontracting_drivers
+      label: Are all drivers your employees or independent contractors?
+      hint: null
+      type: select_one
+      options:
+      - Employees
+      - Independent Contractors
+      - Both
+      required: true
+    - id: 13
+      name: driver_screening
+      label: Describe your driver background screening process
+      hint: explain how you vet your drivers
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_safety
+      label: -- Safety and Insurance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: safety_score
+      label: Current FMCSA SMS Safety Score (if known)
+      hint: numeric score from the CSA dashboard
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: safety_officer
+      label: Dedicated Safety Officer Name
+      hint: primary person for safety matters
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_limits_check
+      label: Carrier meets our minimum 1,000,000 dollar Liability / 100,000 dollar
+        Cargo requirement
+      hint: check current COI
+      type: select_one
+      options:
+      - true
+      - false
+      - Higher Limits
+      required: true
+    - id: 18
+      name: section_stability
+      label: -- Financial Stability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: credit_score_range
+      label: Self-reported credit score range
+      hint: general business credit standing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: average_monthly_volume
+      label: Average Monthly Freight Volume handled
+      hint: total number of loads per month
+      type: select_one
+      options:
+      - Under 50 loads
+      - 50 to 200 loads
+      - Over 200 loads
+      required: true
+    - id: 21
+      name: section_geo
+      label: -- Geographic Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: primary_service_states
+      label: Primary states served
+      hint: list major service areas
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_decl
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: questionnaire_ack
+      label: I certify the information in this questionnaire is true
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: date_submitted
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

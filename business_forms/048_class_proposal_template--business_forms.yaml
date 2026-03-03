@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Proposal Template
+    pages:
+    - id: 1
+      name: proposer_name
+      label: Proposer Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: class_name
+      label: Proposed Class Name
+      hint: Descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_type
+      label: Type of Class
+      hint: Select category
+      type: select_one
+      options:
+      - Fitness
+      - Arts and Crafts
+      - Educational
+      - Sports
+      - Music
+      - Dance
+      - Technology
+      - Cooking
+      - Other
+      required: true
+    - id: 7
+      name: class_description
+      label: Class Description
+      hint: What will be taught
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: age_group
+      label: Age Group
+      hint: Target participants
+      type: select_one
+      options:
+      - Children (5-12)
+      - Teens (13-17)
+      - Adults (18+)
+      - Seniors (55+)
+      - All ages
+      - Family friendly
+      required: true
+    - id: 9
+      name: skill_level
+      label: Skill Level
+      hint: Required experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - All levels welcome
+      required: true
+    - id: 10
+      name: preferred_location
+      label: Preferred Location
+      hint: Where to hold class
+      type: select_one
+      options:
+      - Community center
+      - Park or outdoor
+      - Recreation center
+      - Library
+      - Online
+      - No preference
+      required: true
+    - id: 11
+      name: preferred_days
+      label: Preferred Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: Time of day
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Evening (5PM-9PM)
+      - Flexible
+      required: true
+    - id: 13
+      name: class_length
+      label: Class Length
+      hint: Duration per session
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - Half day
+      - Full day
+      required: true
+    - id: 14
+      name: number_of_classes
+      label: Number of Classes
+      hint: Total sessions
+      type: select_one
+      options:
+      - One-time event
+      - 2-4 sessions
+      - 5-8 sessions
+      - 9-12 sessions
+      - Ongoing weekly
+      required: true
+    - id: 15
+      name: max_participants
+      label: Maximum Participants
+      hint: Class size limit
+      type: select_one
+      options:
+      - 5-10 people
+      - 11-20 people
+      - 21-30 people
+      - 31-50 people
+      - No limit
+      required: true
+    - id: 16
+      name: equipment_needed
+      label: Equipment Needed
+      hint: List requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: materials_fee
+      label: Materials Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: instructor_fee
+      label: Instructor Fee Requested
+      hint: Per session
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: certifications
+      label: Do You Have Relevant Certifications
+      hint: For teaching this class
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: certifications_details
+      label: Please List Certifications
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance
+      label: Do You Have Liability Insurance
+      hint: For teaching
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 22
+      name: references
+      label: Professional References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

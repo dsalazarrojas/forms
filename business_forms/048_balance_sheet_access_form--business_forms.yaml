@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Balance Sheet Access Form
+    pages:
+      - id: 1
+        name: section_requester
+        label: -- Requester Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        Label: Employee ID (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 6
+        name: section_access_request
+        label: -- Access Request Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: request_type
+        Label: Type of Access Requested
+        hint: null
+        type: select_one
+        options:
+          - View Only
+          - Download
+          - Print
+          - Analysis
+          - Full Access
+        required: true
+      - id: 8
+        name: company_name
+        Label: Company or Department Name
+        hint: Whose balance sheet do you need?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: financial_period
+        Label: Financial Period Requested
+        hint: Month, quarter, year
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: access_reason
+        Label: Reason for Access
+        hint: null
+        type: select_one
+        options:
+          - Financial Analysis
+          - Audit
+          - Loan Application
+          - Investment Decision
+          - Internal Review
+          - Compliance
+          - Other
+        required: true
+      - id: 11
+        name: detailed_reason
+        Label: Detailed Explanation of Access Need
+        hint: Provide context for the request
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_authorization
+        label: -- Authorization and Management --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: manager_approval
+        Label: Manager or Supervisor Name
+        hint: Who authorized this request?
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: manager_email
+        Label: Manager Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 15
+        name: manager_approval_status
+        Label: Manager Approval Status
+        hint: null
+        type: select_one
+        options:
+          - Approved
+          - Pending Approval
+          - Denied
+        required: true
+      - id: 16
+        name: job_title
+        Label: Your Job Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: department
+        Label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: section_terms
+        label: -- Access Terms and Conditions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: confidentiality_agreement
+        Label: I Agree to Confidentiality Requirements
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 20
+        name: data_handling
+        Label: I Will Handle Data According to Company Policy
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 21
+        name: section_timeline
+        label: -- Timeline and Duration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: request_date
+        Label: Request Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 23
+        name: access_duration
+        Label: How Long Will You Need Access?
+        hint: null
+        type: select_one
+        options:
+          - One-Time Access
+          - 1 Week
+          - 1 Month
+          - 3 Months
+          - 6 Months
+          - Ongoing
+        required: true
+      - id: 24
+        name: special_conditions
+        Label: Special Conditions or Restrictions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: request_submission
+        Label: I Submit This Access Request
+        hint: null
+        type: select_one
+        options:
+          - Submit Request
+          - Save Draft
+        required: true

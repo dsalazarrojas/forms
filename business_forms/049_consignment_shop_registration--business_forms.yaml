@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consignment Shop Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: consignor_name
+      label: Consignor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consignor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consignor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consignor_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consignor_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consignor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consignor_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: is_minor
+      label: Are You Under 18
+      hint: Minor status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if minor
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tax_id_number
+      label: Tax ID or SSN
+      hint: For tax reporting
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_preference
+      label: Payment Preference
+      hint: How would you like to be paid
+      type: select_one
+      options:
+      - Check
+      - Store credit
+      - PayPal
+      - Bank transfer
+      - Split payment
+      required: true
+    - id: 15
+      name: commission_tier
+      label: Commission Tier
+      hint: Your commission level
+      type: select_one
+      options:
+      - Standard - 50 percent
+      - Premium - 60 percent
+      - VIP - 70 percent
+      required: true
+    - id: 16
+      name: consignment_categories
+      label: Consignment Categories
+      hint: What will you consign
+      type: select_multiple
+      options:
+      - Women clothing
+      - Men clothing
+      - Children clothing
+      - Shoes
+      - Handbags
+      - Jewelry
+      - Accessories
+      - Home decor
+      - Furniture
+      - Art
+      - Other
+      required: true
+    - id: 17
+      name: item_condition_minimum
+      label: Minimum Item Condition
+      hint: Quality standard
+      type: select_one
+      options:
+      - New with tags
+      - Like new
+      - Excellent
+      - Good
+      required: true
+    - id: 18
+      name: pricing_method
+      label: Pricing Method
+      hint: How are prices set
+      type: select_one
+      options:
+      - Consignor sets prices
+      - Shop sets prices
+      - Collaborative
+      required: true
+    - id: 19
+      name: consignment_period
+      label: Consignment Period
+      hint: How long items stay on floor
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - Until sold
+      required: true
+    - id: 20
+      name: markdown_agreement
+      label: Markdown Agreement
+      hint: Do you agree to price reductions
+      type: select_one
+      options:
+      - Yes - Automatic markdowns
+      - Yes - With notification
+      - No - Fixed prices
+      required: true
+    - id: 21
+      name: markdown_schedule
+      label: Markdown Schedule
+      hint: When do prices reduce
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: unsold_items_policy
+      label: Unsold Items Policy
+      hint: What happens to unsold items
+      type: select_one
+      options:
+      - Pick up by consignor
+      - Donate to charity
+      - Shop keeps items
+      - Discount to clear
+      required: true
+    - id: 23
+      name: pickup_deadline
+      label: Pickup Deadline
+      hint: When must items be collected
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item_limit
+      label: Item Limit
+      hint: Maximum items at one time
+      type: select_one
+      options:
+      - No limit
+      - 25 items
+      - 50 items
+      - 100 items
+      - 200 items
+      required: true
+    - id: 25
+      name: quality_standards
+      label: Quality Standards Acknowledged
+      hint: Do you understand quality requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: prohibited_items
+      label: Prohibited Items Understood
+      hint: Do you know what cannot be consigned
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: prohibited_items_list
+      label: Prohibited Items
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recalled items
+      - Damaged items
+      - Stained items
+      - Missing parts
+      - Counterfeit items
+      - Hazardous materials
+      - Underwear or swimwear
+      - Expired products
+      required: true
+    - id: 28
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Understanding of coverage
+      type: select_one
+      options:
+      - Shop insures items
+      - Consignor insures items
+      - No insurance
+      - Unsure
+      required: true
+    - id: 29
+      name: loss_policy
+      label: Loss or Damage Policy Understood
+      hint: Do you understand loss policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: communication_preference
+      label: Communication Preference
+      hint: How should we contact you
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Postal mail
+      required: true
+    - id: 31
+      name: newsletter_signup
+      label: Join Newsletter
+      hint: Receive updates and promotions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Advertisement
+      - Walk by
+      - Other
+      required: false
+    - id: 33
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree to all terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 34
+      name: consignor_signature
+      label: Consignor Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: registration_status
+      label: Registration Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Pending approval
+      - Approved
+      - On hold
+      - Declined
+      required: true

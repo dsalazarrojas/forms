@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: BawseUp Build, Brand And Generate Wealth Academy Registration Form
+    pages:
+    - id: 1
+      name: enrollment_header
+      label: -- Academy Enrollment --
+      hint: Join our 90-day intensive business and branding program.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: enrollee_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: enrollee_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: enrollee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_status_header
+      label: -- Business and Brand Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_business_name
+      label: Current Business Name
+      hint: Leave blank if not yet started
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_business_goal
+      label: What is your primary goal for the next 90 days?
+      hint: null
+      type: select_one
+      options:
+      - Launch New Business
+      - Rebrand Existing Business
+      - Increase Revenue/Sales
+      - Scale Operations
+      - Establish Personal Brand
+      required: true
+    - id: 8
+      name: specific_business_challenges
+      label: Describe your top 2 business challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: academy_commitment_header
+      label: -- Program Commitment and Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: commitment_acknowledgment
+      label: I agree to the 90-day commitment and weekly video sessions
+      hint: null
+      type: select_one
+      options:
+      - I Agree and Commit
+      - Other
+      required: true
+    - id: 11
+      name: facebook_profile_link
+      label: Link to your Facebook Profile
+      hint: Required for Private Group Access
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_header
+      label: -- Tuition Payment ($997) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_selection
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Full Payment)
+      - PayPal (Full Payment)
+      - Installment Plan (If pre-approved)
+      required: true
+    - id: 14
+      name: how_did_you_find_us
+      label: How did you hear about BawseUp Academy?
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Podcast
+      - Referral
+      - Website
+      required: false
+    - id: 15
+      name: enrollment_date
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: true

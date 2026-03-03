@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Growth Application Form
+    pages:
+    - id: 1
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry_type
+      label: Industry Type
+      hint: What industry?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 7
+      name: current_status_section
+      label: -- Current Business Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has business been operating?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_revenue
+      label: Current Annual Revenue
+      hint: Most recent annual revenue
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_count
+      label: Current Number of Employees
+      hint: How many people work for you?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: market_position
+      label: Current Market Position
+      hint: Describe your market position
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: growth_objectives_section
+      label: -- Growth Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: growth_timeframe
+      label: Growth Timeframe
+      hint: When do you want to grow?
+      type: select_one
+      options:
+      - Next 12 months
+      - Next 2-3 years
+      - Next 3-5 years
+      - No specific timeline
+      required: true
+    - id: 14
+      name: growth_target
+      label: Target Growth Rate
+      hint: What percentage growth?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: revenue_goal
+      label: Target Revenue
+      hint: Desired revenue level
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: growth_strategies
+      label: Proposed Growth Strategies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Market Expansion
+      - Product Development
+      - Strategic Partnerships
+      - Acquisitions
+      - Geographic Expansion
+      - Customer Base Expansion
+      - Digital Transformation
+      required: false
+    - id: 17
+      name: growth_challenges_section
+      label: -- Growth Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: key_challenges
+      label: Key Challenges to Growth
+      hint: What obstacles do you face?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: competitive_threats
+      label: Competitive Threats
+      hint: What competition concerns you?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resource_needs_section
+      label: -- Resource Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: funding_needed
+      label: Funding Needed for Growth
+      hint: How much capital?
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: talent_needs
+      label: Talent or Skill Gaps
+      hint: What skills do you need to hire?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: support_type
+      label: Type of Support Needed
+      hint: What support would help?
+      type: select_multiple
+      options:
+      - Mentoring and Coaching
+      - Business Planning
+      - Financial Planning
+      - Marketing Strategy
+      - Operations Support
+      - Technology and Infrastructure
+      - Human Resources
+      required: false
+    - id: 24
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: commitment_confirmation
+      label: Committed to growth plan
+      hint: Are you ready to execute?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

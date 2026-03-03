@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Plan Form
+    pages:
+    - id: 1
+      name: disaster_recovery_plan_form
+      label: What is a disaster recovery plan?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recovery_strategies
+      label: What are your recovery strategies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_recovery
+      label: What services will be restored first?
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency services
+      - Critical services
+      - Other services
+      required: false
+    - id: 4
+      name: time_to_recover
+      label: How much time do you expect to take to recover?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: services_minimized
+      label: Which services will be minimized during the recovery?
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency services
+      - Critical services
+      - Other services
+      required: false
+    - id: 6
+      name: personnel_involved
+      label: Who is involved in the recovery process?
+      hint: null
+      type: text
+      options: []
+      required: false

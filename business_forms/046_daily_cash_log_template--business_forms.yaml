@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Cash Log Template
+    pages:
+    - id: 1
+      name: cash_log_date
+      label: Cash Log Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: account_code
+      label: Account Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cash_description
+      label: Cash Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cash_type
+      label: Cash Type
+      hint: null
+      type: select_one
+      options:
+      - Cash In
+      - Cash Out
+      - Refund
+      - Transfer
+      required: false
+    - id: 5
+      name: cash_amount
+      label: Cash Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cash_currency
+      label: Cash Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - AUD
+      required: false
+    - id: 7
+      name: recorded_by
+      label: Recorded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

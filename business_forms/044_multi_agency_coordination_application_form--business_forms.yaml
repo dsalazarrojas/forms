@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: multi-agency-coordination-application-form
+    pages:
+    - id: 1
+      name: proposed_project
+      label: Proposed Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participating_organizations
+      label: Participating Organizations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shared_resources
+      label: Shared Resources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false

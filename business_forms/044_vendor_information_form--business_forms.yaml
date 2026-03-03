@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Information Form
+    pages:
+    - id: 1
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: vendor_status
+      label: vendor_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_person_phone
+      label: contact_person_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_type_other
+      label: vendor_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_status_other
+      label: vendor_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_other
+      label: company_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address_other
+      label: address_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person_other
+      label: contact_person_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: phone_other
+      label: phone_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_other
+      label: email_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vendor_type_other
+      label: vendor_type_other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: vendor_status_other
+      label: vendor_status_other
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: date_other
+      label: date_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: time_other
+      label: time_other
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: note_other
+      label: note_other
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: septic_system_inspection_form
+    pages:
+    - id: 1
+      name: septic_system_inspection_form_first_page
+      label: septic_system_inspection_form_first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_description
+      label: system_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_condition
+      label: system_condition_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Abandoned''}'
+      required: false
+    - id: 11
+      name: system_status_other
+      label: system_status_other
+      hint: null
+      type: text
+      options: []
+      required: false

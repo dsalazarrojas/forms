@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Unsold Items Report
+    pages:
+    - id: 1
+      name: section_report
+      label: -- Daily Unsold Items Report --
+      hint: Track inventory and waste management
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: staff_name
+      Label: Staff Member Name
+      hint: Who is completing this report?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shift_time
+      Label: Shift Time
+      hint: null
+      type: select_one
+      options:
+      - Early Morning
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      required: true
+    - id: 5
+      name: section_bread
+      label: -- Bread Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bread_loaves_unsold
+      Label: Bread Loaves - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: rolls_unsold
+      Label: Rolls - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: specialty_bread_unsold
+      Label: Specialty Bread - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: section_pastries
+      label: -- Pastries and Breakfast Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: croissant_unsold
+      Label: Croissants - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: muffins_unsold
+      Label: Muffins - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: donuts_unsold
+      Label: Donuts - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: section_cakes
+      label: -- Cakes and Desserts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cakes_unsold
+      Label: Cakes - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: cupcakes_unsold
+      Label: Cupcakes - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: cookies_unsold
+      Label: Cookies - Unsold Quantity
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 17
+      name: section_analysis
+      label: -- Analysis and Disposition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_unsold_count
+      Label: Total Unsold Items
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: disposition
+      Label: Disposition of Unsold Items
+      hint: What happened to the items?
+      type: select_multiple
+      options:
+      - Donated
+      - Employee Discount
+      - Composted
+      - Discarded
+      - Carried Over to Next Day
+      - Other
+      required: true
+    - id: 20
+      name: estimated_waste_value
+      Label: Estimated Value of Waste
+      hint: In dollars
+      type: decimal
+      options: []
+      required: false
+    - id: 21
+      name: section_factors
+      label: -- Contributing Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contributing_factors
+      Label: Contributing Factors to Unsold Items
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Overproduction
+      - Low Customer Demand
+      - Weather Conditions
+      - Special Event Impact
+      - Product Quality Issues
+      - Staffing Issues
+      - Seasonal Variation
+      - Other
+      required: false
+    - id: 23
+      name: section_notes
+      label: -- Notes and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: improvement_suggestions
+      Label: Suggestions for Improvement
+      hint: How can we reduce waste?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_completion
+      Label: Report Completed and Submitted
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Other
+      required: true

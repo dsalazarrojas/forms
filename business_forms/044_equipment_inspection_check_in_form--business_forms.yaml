@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Inspection Check In Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: condition_report
+      label: Condition Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_upload
+      label: Photo Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 7
+      name: equipment_inspection_checklist
+      label: Equipment Inspection Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: false
+    - id: 8
+      name: inspection_date_time
+      label: Inspection Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_completed
+      label: Inspection Completed
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      - In Progress
+      required: false
+    - id: 10
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

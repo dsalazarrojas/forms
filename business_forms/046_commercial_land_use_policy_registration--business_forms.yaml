@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Land Use Policy Registration
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_title
+      label: Applicant Title
+      hint: Position in organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parcel_number
+      label: Parcel Number
+      hint: Tax parcel ID
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_size
+      label: Property Size
+      hint: Acres or square feet
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_zoning
+      label: Current Zoning
+      hint: Current zoning designation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_proposed_use
+      label: -- Proposed Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: proposed_use_type
+      label: Proposed Use Type
+      hint: Type of commercial use
+      type: select_one
+      options:
+      - Retail
+      - Office
+      - Industrial
+      - Mixed Use
+      - Hospitality
+      - Medical
+      - Educational
+      - Other
+      required: true
+    - id: 13
+      name: proposed_use_description
+      label: Proposed Use Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: building_square_footage
+      label: Building Square Footage
+      hint: Proposed building size
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: lot_coverage
+      label: Lot Coverage Percentage
+      hint: Percentage of lot to be covered
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: parking_spaces
+      label: Number of Parking Spaces
+      hint: Proposed parking spaces
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_compliance
+      label: -- Policy Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: zoning_compliance
+      label: Zoning Compliance
+      hint: Does proposal comply with zoning
+      type: select_one
+      options:
+      - Yes Fully Compliant
+      - Yes With Variances
+      - No Variance Required
+      - Unsure
+      required: true
+    - id: 19
+      name: environmental_review
+      label: Environmental Review Required
+      hint: Is environmental review needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Completed
+      required: true
+    - id: 20
+      name: traffic_impact
+      label: Traffic Impact Study
+      hint: Is traffic study required
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Required
+      - Completed
+      required: true
+    - id: 21
+      name: section_header_supporting_documents
+      label: -- Supporting Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: site_plan_submitted
+      label: Site Plan Submitted
+      hint: Is site plan included
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 23
+      name: architectural_drawings
+      label: Architectural Drawings
+      hint: Are drawings included
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 24
+      name: environmental_assessment
+      label: Environmental Assessment
+      hint: Is assessment included
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 25
+      name: traffic_study
+      label: Traffic Study
+      hint: Is study included
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 26
+      name: section_header_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: When will work begin
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: proposed_completion_date
+      label: Proposed Completion Date
+      hint: When will project be complete
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: section_header_fees
+      label: -- Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: application_fee
+      label: Application Fee Paid
+      hint: Fee amount
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: fee_receipt_number
+      label: Fee Receipt Number
+      hint: Payment receipt number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_header_certifications
+      label: -- Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: accuracy_certification
+      label: Information Accuracy
+      hint: I certify information is accurate
+      type: select_one
+      options:
+      - Yes I Certify
+      - No I Do Not Certify
+      required: true
+    - id: 34
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Authorized signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

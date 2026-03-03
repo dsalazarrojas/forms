@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Action Plan Focus Area Selection
+    pages:
+    - id: 1
+      name: focus_selection_header
+      label: -- Focus area selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional for anonymous submissions
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: Job title or team
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: focus_area
+      label: Focus area
+      hint: Select the primary focus area
+      type: select_one
+      options:
+        - Process improvement
+        - Customer experience
+        - Cost reduction
+        - Revenue growth
+        - Compliance
+      required: true
+    - id: 5
+      name: objective_statement
+      label: Objective statement
+      hint: Brief statement of the goal for the focus area
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: key_actions
+      label: Key actions
+      hint: List main actions to achieve the objective
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: success_metrics
+      label: Success metrics
+      hint: How success will be measured
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_date
+      label: Target date
+      hint: Target completion date for the objective
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: owner
+      label: Owner
+      hint: Person accountable for delivering results
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: resources_required
+      label: Resources required
+      hint: Budget or resources needed to complete actions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stakeholder_involvement
+      label: Stakeholder involvement
+      hint: Stakeholders to be consulted or informed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information to support the plan
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: What If Scenario Analysis Form
+    pages:
+    - id: 1
+      name: planning_scenarios
+      label: Planning Scenarios
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: compare_impacts
+      label: Compare Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: mitigation_steps
+      label: Mitigation Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risks
+      label: Risks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: scenario_details
+      label: Scenario Details
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: impact_assessment
+      label: Impact Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: mitigation_strategy
+      label: Mitigation Strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scenario_status
+      label: Scenario Status
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true

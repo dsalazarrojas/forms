@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainability_policy_review_request_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - Green Policy
+      - Sustainability Policy
+      - Carbon Policy
+      - Environmental Policy
+      required: true
+    - id: 3
+      name: document_link
+      label: Document Link
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: 1
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Finance
+      - Operations
+      - HR
+      required: true
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Sustainability Report
+      - Policy Document
+      - Compliance Report
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: priority_date
+      label: Priority Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_request_type
+      label: Review Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Review and Update
+      - New Request
+      - Revision
+      required: true
+    - id: 13
+      name: review_request_reason
+      label: Review Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_description
+      label: Document Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: document_link_url
+      label: Document Link URL
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending Review
+      required: true
+    - id: 17
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone_2
+      label: Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone_3
+      label: Contact Phone 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_email_2
+      label: Contact Email 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: review_request
+      label: Review Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: note
+      label: Note
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 25
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

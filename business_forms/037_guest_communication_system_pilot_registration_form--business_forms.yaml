@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: guest_communication_system_pilot_registration_form
+    pages:
+    - id: 1
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_communication_channel
+      label: Guest Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''SMS''}'
+      - '{''label'': ''Phone''}'
+      required: false
+    - id: 6
+      name: channel_type
+      label: Channel Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''SMS''}'
+      - '{''label'': ''Email''}'
+      required: false
+    - id: 7
+      name: channel_number
+      label: Channel Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: channel_message
+      label: Channel Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_id
+      label: Team Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: channel_id
+      label: Channel ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: channel_status
+      label: Channel Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 13
+      name: channel_type2
+      label: Channel Type 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''SMS''}'
+      - '{''label'': ''Email''}'
+      required: false
+    - id: 14
+      name: channel_status2
+      label: Channel Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 15
+      name: channel_status3
+      label: Channel Status 3
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 16
+      name: channel_status4
+      label: Channel Status 4
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 17
+      name: channel_status5
+      label: Channel Status 5
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 18
+      name: channel_status6
+      label: Channel Status 6
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 19
+      name: channel_status7
+      label: Channel Status 7
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 20
+      name: guest_status
+      label: Guest Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''New''}'
+      required: false
+    - id: 21
+      name: user_id
+      label: User Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_status
+      label: User Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''New''}'
+      required: false

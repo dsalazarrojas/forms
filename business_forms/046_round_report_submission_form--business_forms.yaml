@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Round Report Submission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the employee
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the employee
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shift_start_time
+      label: Shift Start Time
+      hint: Shift start time
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift_end_time
+      label: Shift End Time
+      hint: Shift end time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_duration
+      label: Shift Duration
+      hint: Shift duration
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_breaks
+      label: Total Breaks
+      hint: Total breaks taken
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_billed_hours
+      label: Total Billed Hours
+      hint: Total billed hours
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_payable_hours
+      label: Total Payable Hours
+      hint: Total payable hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_deductions
+      label: Total Deductions
+      hint: Total deductions
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_gross_pay
+      label: Total Gross Pay
+      hint: Total gross pay
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Email of the employee
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Desk Duty Sign Up
+    pages:
+    - id: 1
+      name: base_information
+      label: Base Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_weeks
+      label: Preferred Weeks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: time_slots
+      label: Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: assigned_department
+      label: Assigned Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: assigned_location
+      label: Assigned Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_ip
+      label: Submitted IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_user_id
+      label: Submitted User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_user_type
+      label: Submitted User Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_user_group
+      label: Submitted User Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

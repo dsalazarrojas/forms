@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Authorize Representative
+    pages:
+    - id: 1
+      name: authorization_intro
+      label: -- Authorization to Disclose Information to a Representative --
+      hint: Grant permission for us to speak with your representative.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Your Full Legal Name (The Client)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_account_number
+      label: Account or Case Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: representative_header
+      label: -- Representative Details --
+      hint: person you are authorizing
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: representative_name
+      label: Representative Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: representative_relationship
+      label: Relationship to You
+      hint: e.g. Spouse, Attorney, Family Member, Accountant
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: representative_phone
+      label: Representative Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: representative_email
+      label: Representative Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: disclosure_scope_header
+      label: -- Scope of Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: authorization_level
+      label: Level of Access Granted
+      hint: null
+      type: select_one
+      options:
+      - Full Access (Information and Decision-making)
+      - Information Only (View/Discuss account details)
+      - Limited Access (Specified matters only)
+      required: true
+    - id: 12
+      name: specific_matters
+      label: If 'Limited Access', please specify matters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: duration_of_authorization
+      label: Duration of this Authorization
+      hint: null
+      type: select_one
+      options:
+      - Permanent/Until Revoked
+      - One-time disclosure only
+      - Fixed period (specify below)
+      required: true
+    - id: 14
+      name: expiration_date
+      label: Expiration Date (if fixed period)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: verification_question
+      label: Security verification for representative (Secret Word/PIN)
+      hint: Your representative must provide this when they call
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: legal_declaration
+      label: I authorize the company to disclose my personal information to the named
+        representative
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true
+    - id: 17
+      name: signature_digital
+      label: Digital Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: footer_note
+      label: -- Form processed within 48 business hours --
+      hint: null
+      type: note
+      options: []
+      required: false

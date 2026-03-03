@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Sales
+      - Procurement
+      - Legal
+      - Operations
+      - Finance
+      - Human Resources
+      - IT
+      - Marketing
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_type
+      label: Contract Type
+      hint: Type of agreement
+      type: select_one
+      options:
+      - Service agreement
+      - Vendor contract
+      - Employment contract
+      - Independent contractor
+      - Partnership agreement
+      - Licensing agreement
+      - Lease agreement
+      - Purchase agreement
+      - Sales agreement
+      - Non-disclosure agreement
+      - Other
+      required: true
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_description
+      label: Contract Description
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: other_party_name
+      label: Other Party Name
+      hint: Counterparty name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: other_party_type
+      label: Other Party Type
+      hint: Entity type
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole proprietorship
+      - Individual
+      - Government entity
+      - Non-profit
+      - Other
+      required: true
+    - id: 10
+      name: other_party_contact
+      label: Other Party Contact
+      hint: Email and phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_value
+      label: Estimated Value
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: contract_duration
+      label: Contract Duration
+      hint: Length of agreement
+      type: select_one
+      options:
+      - One-time
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      - Ongoing
+      required: true
+    - id: 13
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: When to begin?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: business_objectives
+      label: Business Objectives
+      hint: What are the goals?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: key_terms_and_conditions
+      label: Key Terms and Conditions
+      hint: Important terms
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payment work?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: deliverables
+      label: Deliverables
+      hint: What will be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: performance_metrics
+      label: Performance Metrics
+      hint: How to measure success?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Risk level
+      type: select_one
+      options:
+      - Low risk
+      - Medium risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 20
+      name: budget_code
+      label: Budget Code
+      hint: Cost center
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: funding_source
+      label: Funding Source
+      hint: Where is funding from?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: approvals_required
+      label: Approvals Required
+      hint: Who must approve?
+      type: select_multiple
+      options:
+      - Department manager
+      - Director
+      - Vice president
+      - Legal counsel
+      - Finance
+      - Executive
+      - Board
+      required: true
+    - id: 23
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent?
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 24
+      name: deadline
+      label: Deadline
+      hint: When is it needed?
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

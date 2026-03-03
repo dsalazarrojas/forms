@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Sales Report
+    pages:
+    - id: 1
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sales_region
+      label: Sales Region
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''North''}'
+      - '{''id'': 2, ''name'': ''South''}'
+      - '{''id'': 3, ''name'': ''East''}'
+      - '{''id'': 4, ''name'': ''West''}'
+      required: false
+    - id: 4
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Service Subscription Approval Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: When requesting this subscription
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_subscription
+      label: -- Subscription Details --
+      hint: Information about the cloud service
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_name
+      label: Cloud Service Name
+      hint: Name of the service being requested
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_name
+      label: Service Vendor
+      hint: Company providing the service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - SaaS application
+      - Cloud infrastructure
+      - Cloud platform
+      - Managed service
+      - Support service
+      - Other
+      required: true
+    - id: 9
+      name: subscription_tier
+      label: Subscription Tier
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Basic
+      - Standard
+      - Professional
+      - Enterprise
+      - Custom
+      required: true
+    - id: 10
+      name: annual_cost
+      label: Annual Cost
+      hint: Total yearly cost
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_justification
+      label: -- Business Justification --
+      hint: Why this subscription is needed
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_need
+      label: Business Need
+      hint: Why does your department need this
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_benefits
+      label: Expected Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Improved efficiency
+      - Cost savings
+      - Better collaboration
+      - Enhanced security
+      - Competitive advantage
+      - Compliance requirement
+      - Customer satisfaction
+      - Other
+      required: true
+    - id: 14
+      name: roi_expectation
+      label: Expected Return on Investment
+      hint: How this will benefit the organization
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_users
+      label: -- User Requirements --
+      hint: How many users will use this
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: number_of_users
+      label: Number of Users
+      hint: How many people will use this service
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: user_types
+      label: Types of Users
+      hint: null
+      type: select_multiple
+      options:
+      - Employees
+      - Contractors
+      - Customers
+      - Partners
+      - Other
+      required: true
+    - id: 18
+      name: section_implementation
+      label: -- Implementation Details --
+      hint: When and how to implement
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: implementation_timeline
+      label: Desired Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 1 week
+      - Short term - 1-4 weeks
+      - Medium term - 1-3 months
+      - Long term - 3+ months
+      - No preference
+      required: true
+    - id: 20
+      name: needed_by_date
+      label: Service Needed By Date
+      hint: When you need the service active
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_approval
+      label: -- Approval Information --
+      hint: Manager and budget approval
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: manager_name
+      label: Manager or Supervisor
+      hint: Direct manager's name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: manager_email
+      label: Manager Email
+      hint: Manager's email for approval
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: budget_approval
+      label: Budget Approved By
+      hint: Person approving budget
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

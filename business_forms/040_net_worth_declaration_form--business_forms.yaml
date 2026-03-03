@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: net_worth_declaration_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assets
+      label: Assets
+      hint: Enter asset values without commas
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: liabilities
+      label: Liabilities
+      hint: Enter liability values without commas
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category_select
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Other
+      required: false
+    - id: 8
+      name: category_select_other
+      label: Category (Other)
+      hint: If other, please specify
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

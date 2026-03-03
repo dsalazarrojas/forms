@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Night Shift Task Audit Form
+    pages:
+    - id: 1
+      name: night_shift_audit_form
+      label: night_shift_audit_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: night_shift_activities
+      label: night_shift_activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incidents
+      label: incidents
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''no_incident'', ''value'': ''no_incident''}'
+      - '{''id'': 2, ''name'': ''incident_reported'', ''value'': ''incident_reported''}'
+      - '{''id'': 3, ''name'': ''incident_investigation'', ''value'': ''incident_investigation''}'
+      - '{''id'': 4, ''name'': ''incident_review'', ''value'': ''incident_review''}'
+      required: false
+    - id: 4
+      name: supervisor_reviews
+      label: supervisor_reviews
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_and_time_of_incident
+      label: date_and_time_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time_of_audit
+      label: date_and_time_of_audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_and_time_of_review
+      label: date_and_time_of_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_cause
+      label: incident_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_action_taken
+      label: incident_action_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_outcome
+      label: incident_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_comments
+      label: supervisor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_action_taken
+      label: supervisor_action_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_comments
+      label: supervisor_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_approval
+      label: supervisor_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: supervisor_comments
+      label: supervisor_comments_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_action_taken
+      label: supervisor_action_taken_2
+      hint: null
+      type: text
+      options: []
+      required: false

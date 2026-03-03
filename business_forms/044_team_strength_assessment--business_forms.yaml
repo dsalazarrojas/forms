@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Strength Assessment
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_indicators
+      label: Performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false

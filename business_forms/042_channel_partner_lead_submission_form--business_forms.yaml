@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Channel Partner Lead Submission Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Lead Submission Date
+      hint: When lead is submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: partner_name
+      label: Channel Partner Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_contact_person
+      label: Contact Person Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: partner_email
+      label: Partner Email
+      hint: Your company email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: partner_phone
+      label: Partner Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lead_name
+      label: Lead Company Name
+      hint: Prospective customer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lead_contact_name
+      label: Lead Contact Person Name
+      hint: Decision maker name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lead_contact_title
+      label: Lead Contact Title
+      hint: Decision maker's title
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lead_email
+      label: Lead Email Address
+      hint: Prospect email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: lead_phone
+      label: Lead Phone Number
+      hint: Prospect phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: lead_company_size
+      label: Lead Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 12
+      name: lead_industry
+      label: Lead Company Industry
+      hint: Industry or sector
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: opportunity_description
+      label: Opportunity Description
+      hint: What is the sales opportunity
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: deal_size_estimate
+      label: Estimated Deal Size
+      hint: Potential revenue
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_service_interested
+      label: Product or Service Interested In
+      hint: What solution do they need
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: timeline
+      label: Sales Timeline
+      hint: Expected close date
+      type: select_one
+      options:
+      - Immediate - 30 Days
+      - 1-3 Months
+      - 3-6 Months
+      - 6+ Months
+      - Unknown
+      required: false
+    - id: 17
+      name: priority_level
+      label: Lead Priority Level
+      hint: How hot is this lead
+      type: select_one
+      options:
+      - Hot
+      - Warm
+      - Cold
+      required: true
+    - id: 18
+      name: partner_margin
+      label: Requested Partner Margin
+      hint: Commission or margin percentage
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: additional_information
+      label: Additional Lead Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lead_acknowledgment
+      label: Lead Has Been Disclosed to Partner
+      hint: Lead was not previously known
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

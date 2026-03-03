@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: swms_form_template
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: controls
+      label: controls
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: controls_type
+      label: controls_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: controls_description
+      label: controls_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: controls_hazard
+      label: controls_hazard
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: controls_precautions
+      label: controls_precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: controls_precautions_2
+      label: controls_precautions_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: controls_precautions_3
+      label: controls_precautions_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: controls_precautions_4
+      label: controls_precautions_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: controls_hazard
+      label: controls_hazard
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

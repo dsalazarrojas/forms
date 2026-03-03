@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Directory Form
+    pages:
+    - id: 1
+      name: company_information
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_description
+      label: Company Description
+      hint: Brief description of what you do
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_category
+      label: Industry Category
+      hint: Primary industry or sector
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Franchise
+      - Other
+      required: true
+    - id: 6
+      name: year_established
+      label: Year Established
+      hint: When was business founded
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of main contact person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: Position of contact person
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_phone
+      label: Business Phone Number
+      hint: Main business phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_email
+      label: Business Email
+      hint: Main business email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: website_url
+      label: Website URL
+      hint: Your company website
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_information
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: Business street address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: suite_number
+      label: Suite/Unit Number
+      hint: Suite number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state_province
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: country
+      label: Country
+      hint: Country of operation
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: business_hours
+      label: -- Business Hours --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: monday_hours
+      label: Monday Hours
+      hint: Operating hours for Monday
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: friday_hours
+      label: Friday Hours
+      hint: Operating hours for Friday
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: weekend_hours
+      label: Weekend Hours
+      hint: Operating hours for Saturday/Sunday
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: social_media
+      label: -- Social Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: social_media_links
+      label: Social Media Profiles
+      hint: Links to social media accounts
+      type: text
+      options: []
+      required: false

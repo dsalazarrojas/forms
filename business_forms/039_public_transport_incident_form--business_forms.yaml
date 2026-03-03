@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Public Transport Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: Date of incident
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: Where the incident occurred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Description of incident
+      hint: Detailed description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_affected_route
+      label: Affected Route
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Route 1''}'
+      - '{''label'': ''Route 2''}'
+      required: false
+    - id: 6
+      name: incident_affected_vehicle
+      label: Affected Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vehicle 1''}'
+      - '{''label'': ''Vehicle 2''}'
+      required: false
+    - id: 7
+      name: incident_cause
+      label: Cause of incident
+      hint: Reason why the incident occurred
+      type: text
+      options: []
+      required: false

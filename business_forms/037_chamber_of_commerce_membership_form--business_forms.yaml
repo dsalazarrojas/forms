@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Membership Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of membership application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: business_legal_name
+      label: Business Legal Name
+      hint: Legal name as registered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_dba
+      label: DBA Name
+      hint: Doing business as name if different
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_structure
+      label: Business Structure
+      hint: Legal business structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - Limited liability company LLC
+      - Corporation
+      - S-Corporation
+      - Nonprofit organization
+      - Cooperative
+      - Other
+      required: true
+    - id: 5
+      name: business_category
+      label: Business Category
+      hint: Primary business category
+      type: select_one
+      options:
+      - Agriculture
+      - Automotive
+      - Construction
+      - Education
+      - Entertainment
+      - Finance
+      - Food and beverage
+      - Government
+      - Healthcare
+      - Hospitality
+      - Insurance
+      - Legal
+      - Manufacturing
+      - Nonprofit
+      - Professional services
+      - Real estate
+      - Retail
+      - Technology
+      - Transportation
+      - Other
+      required: true
+    - id: 6
+      name: business_description
+      label: Business Description
+      hint: Brief description of products or services
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Physical business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_phone
+      label: Business Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_fax
+      label: Business Fax
+      hint: Fax number if available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_email
+      label: Business Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: business_website
+      label: Business Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_media_links
+      label: Social Media Links
+      hint: Links to social media profiles
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: year_established
+      label: Year Established
+      hint: Year business was founded
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: employee_count
+      label: Number of Employees
+      hint: Total employees
+      type: select_one
+      options:
+      - 1 (owner only)
+      - 2-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - 51-100
+      - 101-250
+      - More than 250
+      required: true
+    - id: 18
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Direct email
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Direct phone
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: membership_type
+      label: Membership Type
+      hint: Select membership category
+      type: select_one
+      options:
+      - Regular business membership
+      - Nonprofit membership
+      - Government membership
+      - Retired executive membership
+      - Associate membership
+      - Corporate sponsorship
+      required: true
+    - id: 23
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of awareness
+      type: select_one
+      options:
+      - Member referral
+      - Chamber website
+      - Social media
+      - Chamber event
+      - Search engine
+      - Advertisement
+      - Direct mail
+      - Other
+      required: true
+    - id: 24
+      name: referred_by_member
+      label: Referred By Member
+      hint: Name of referring member
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: previous_membership
+      label: Previous Chamber Membership
+      hint: Have you been a member before
+      type: select_one
+      options:
+      - No - First time
+      - Yes - Previously member
+      - Yes - Current member of another chamber
+      required: true
+    - id: 26
+      name: agreement_signature
+      label: Agreement Signature
+      hint: Type authorized name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

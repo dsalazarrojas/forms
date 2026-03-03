@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Container Issue Complaint Form
+    pages:
+    - id: 1
+      name: shipping_container_issue_id
+      label: Shipping Container Issue Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: shipping_container_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_container_type
+      label: Shipping Container Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Large
+      - Other
+      required: true
+    - id: 4
+      name: shipping_container_condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      required: true
+    - id: 5
+      name: customer_issue_description
+      label: Customer Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_complaint_status
+      label: Customer Complaint Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: true
+    - id: 7
+      name: shipping_container_issue_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      required: true
+    - id: 8
+      name: shipping_container_issue_resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - Not Resolved
+      - Resolved
+      required: true
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_container_issue_date
+      label: Shipping Container Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: shipping_container_issue_time
+      label: Shipping Container Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: shipping_container_issue_details
+      label: Shipping Container Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_container_issue_image
+      label: Shipping Container Issue Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_container_issue_attachment
+      label: Shipping Container Issue Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_container_issue_notes
+      label: Shipping Container Issue Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_container_issue_resolution_notes
+      label: Shipping Container Issue Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_container_issue_close_notes
+      label: Shipping Container Issue Close Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_container_issue_status_update
+      label: Shipping Container Issue Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_container_issue_last_updated
+      label: Shipping Container Issue Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: shipping_container_issue_last_updated_by
+      label: Shipping Container Issue Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_container_issue_last_updated_time
+      label: Shipping Container Issue Last Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: shipping_container_issue_last_updated_by_user
+      label: Shipping Container Issue Last Updated By User
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - User
+      required: true
+    - id: 25
+      name: shipping_container_issue_last_updated_by_user_id
+      label: Shipping Container Issue Last Updated By User Id
+      hint: null
+      type: number
+      options: []
+      required: true

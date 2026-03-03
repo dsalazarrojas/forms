@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Measures Checklist Form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Please perform a comprehensive assessment of potential security risks.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: security_controls
+      label: Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - Firewalls
+      - Encryption
+      - Access Controls
+      required: false
+    - id: 4
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: select_one
+      options:
+      - Investigate
+      - Contain
+      - Eradicate
+      - Recover
+      required: false
+    - id: 5
+      name: security_standards
+      label: Security Standards
+      hint: null
+      type: select_multiple
+      options:
+      - ISO 27001
+      - NIST
+      - COBIT
+      required: false
+    - id: 6
+      name: training_program
+      label: Training Program
+      hint: Please select relevant courses for employees.
+      type: select_multiple
+      options:
+      - Cybersecurity Fundamentals
+      - Phishing and Social Engineering
+      - Incident Response
+      required: false
+    - id: 7
+      name: monitoring
+      label: Monitoring
+      hint: null
+      type: select_multiple
+      options:
+      - Network Monitoring
+      - System Monitoring
+      - User Activity Monitoring
+      required: false
+    - id: 8
+      name: backup
+      label: Backup
+      hint: null
+      type: select_multiple
+      options:
+      - Local Backup
+      - Cloud Backup
+      - External Backup
+      required: false

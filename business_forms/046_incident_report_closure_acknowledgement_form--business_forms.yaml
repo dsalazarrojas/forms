@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Report Closure Acknowledgement Form
+    pages:
+    - id: 1
+      name: incident_report_closure_acknowledgement_form
+      label: Incident Report Closure Acknowledgement Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_closed
+      label: Date Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: closure_status
+      label: Closure Status
+      hint: null
+      type: select_one
+      options:
+      - Closed
+      - Pending
+      - Review
+      required: false
+    - id: 5
+      name: closure_date
+      label: Closure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: review_due_date
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Resolved
+      - Cancelled
+      required: false
+    - id: 8
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: closure_comments
+      label: Closure Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,480 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Supplier Directory Registration
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation Supplier Directory Registration
+      hint: Register your company in the supplier directory
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_description
+      label: Company Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: year_established
+      label: Year Established
+      hint: When founded
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - Japan
+      - China
+      - India
+      - Other
+      required: true
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 13
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Revenue range
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$50M
+      - $50M-$100M
+      - Over $100M
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact Information
+      hint: Primary contact
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: solution_types
+      label: Solution Types
+      hint: What do you provide
+      type: select_multiple
+      options:
+      - Robotics
+      - Control Systems
+      - Sensors
+      - Actuators
+      - PLCs
+      - HMIs
+      - SCADA Systems
+      - MES Software
+      - Vision Systems
+      - Safety Systems
+      - Conveyor Systems
+      - Pneumatics
+      - Hydraulics
+      - Motors and Drives
+      - Industrial PCs
+      - Networking
+      - Other
+      required: true
+    - id: 20
+      name: industries_served
+      label: Industries Served
+      hint: Which industries
+      type: select_multiple
+      options:
+      - Automotive
+      - Aerospace
+      - Electronics
+      - Food and Beverage
+      - Pharmaceuticals
+      - Chemical
+      - Oil and Gas
+      - Consumer Goods
+      - Metal Fabrication
+      - Plastics
+      - Packaging
+      - Logistics
+      - Healthcare
+      - Energy
+      - Other
+      required: true
+    - id: 21
+      name: primary_industry
+      label: Primary Industry
+      hint: Main focus
+      type: select_one
+      options:
+      - Automotive
+      - Aerospace
+      - Electronics
+      - Food and Beverage
+      - Pharmaceuticals
+      - Chemical
+      - Other
+      required: true
+    - id: 22
+      name: geographic_coverage
+      label: Geographic Coverage
+      hint: Where do you serve
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Global
+      required: true
+    - id: 23
+      name: service_areas
+      label: Service Areas
+      hint: Specific regions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certifications
+      label: Certifications
+      hint: What certifications
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 14001
+      - ISO 45001
+      - UL Listed
+      - CE Marked
+      - CSA Certified
+      - FDA Registered
+      - Six Sigma
+      - Other
+      - None
+      required: false
+    - id: 25
+      name: certification_details
+      label: Certification Details
+      hint: List certifications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: capabilities
+      label: Capabilities
+      hint: What can you do
+      type: select_multiple
+      options:
+      - System Design
+      - Integration
+      - Installation
+      - Programming
+      - Commissioning
+      - Training
+      - Support
+      - Maintenance
+      - Consulting
+      - Manufacturing
+      - Distribution
+      required: true
+    - id: 27
+      name: product_categories
+      label: Product Categories
+      hint: What products
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: brand_partnerships
+      label: Brand Partnerships
+      hint: What brands
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: directory_info
+      label: Directory Information
+      hint: Listing details
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: listing_type
+      label: Listing Type
+      hint: Type of listing
+      type: select_one
+      options:
+      - Basic Free
+      - Standard
+      - Premium
+      - Featured
+      required: true
+    - id: 31
+      name: company_logo
+      label: Company Logo
+      hint: Upload logo
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: marketing_description
+      label: Marketing Description
+      hint: For directory listing
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: keywords
+      label: Keywords
+      hint: For search
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: social_media
+      label: Social Media
+      hint: Links
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: case_studies
+      label: Case Studies Available
+      hint: Do you have case studies
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Provide
+      required: false
+    - id: 36
+      name: references
+      label: References Available
+      hint: Can you provide
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 37
+      name: payment_info
+      label: Payment Information
+      hint: For paid listings
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Purchase Order
+      - Wire Transfer
+      required: false
+    - id: 39
+      name: billing_contact
+      label: Billing Contact
+      hint: Who handles billing
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: billing_email
+      label: Billing Email
+      hint: Billing email
+      type: email
+      options: []
+      required: false
+    - id: 41
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: Please read
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: terms_acceptance
+      label: Terms Acceptance
+      hint: Do you agree
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 43
+      name: privacy_policy
+      label: Privacy Policy
+      hint: Have you read
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 44
+      name: directory_guidelines
+      label: Directory Guidelines
+      hint: Do you understand
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 45
+      name: marketing_consent
+      label: Marketing Consent
+      hint: Can we contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Search Engine
+      - Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 48
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: signature_title
+      label: Signature Title
+      hint: Signer title
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

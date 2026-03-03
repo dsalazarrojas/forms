@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Packaging Design Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_multiple
+      options:
+      - packaging_type_1
+      - packaging_type_2
+      - packaging_type_3
+      - packaging_type_4
+      required: false
+    - id: 3
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: material_request
+      label: Material Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: color_request
+      label: Color Request
+      hint: null
+      type: select_one
+      options:
+      - color_1
+      - color_2
+      - color_3
+      required: false
+    - id: 6
+      name: design_request
+      label: Design Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_plan
+      label: Production Plan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: production_deadline
+      label: Production Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - shipping_method_1
+      - shipping_method_2
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: production_note
+      label: Production Note
+      hint: null
+      type: text
+      options: []
+      required: false

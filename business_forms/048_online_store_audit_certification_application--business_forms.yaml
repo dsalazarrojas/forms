@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Store Audit Certification Application
+    pages:
+    - id: 1
+      name: online_store_audit_certification_application_form
+      label: Form
+      hint: The audit form to be filled out
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Online Store
+      - Other
+      required: false
+    - id: 5
+      name: business_type_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Enter your business address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Inventory Request Form
+    pages:
+    - id: 1
+      name: event_inventory_request_form_event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: event_inventory_request_form_event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: event_inventory_request_form_venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_inventory_request_form_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: event_inventory_request_form_organizer
+      label: Organizer
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: event_inventory_request_form_organizers_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_inventory_request_form_organizers_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_inventory_request_form_event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false

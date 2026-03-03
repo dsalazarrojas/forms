@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Travel Authorization Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: travel_authorization_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Category 1'', ''value'': ''category_1''}'
+      - '{''label'': ''Category 2'', ''value'': ''category_2''}'
+      - '{''label'': ''Category 3'', ''value'': ''category_3''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Employee 1'', ''value'': ''employee_1''}'
+      - '{''label'': ''Employee 2'', ''value'': ''employee_2''}'
+      - '{''label'': ''Employee 3'', ''value'': ''employee_3''}'
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Domestic'', ''value'': ''domestic''}'
+      - '{''label'': ''International'', ''value'': ''international''}'
+      required: false
+    - id: 10
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Business'', ''value'': ''business''}'
+      - '{''label'': ''Leisure'', ''value'': ''leisure''}'
+      - '{''label'': ''Vacation'', ''value'': ''vacation''}'
+      required: false
+    - id: 11
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approved_at
+      label: approved_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
+      required: false

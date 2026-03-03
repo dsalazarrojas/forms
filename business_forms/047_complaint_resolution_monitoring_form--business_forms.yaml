@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Monitoring Form
+    pages:
+      - id: 1
+        name: monitoring_header_section
+        label: -- Internal Resolution Monitoring --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: monitoring_entry_id
+        label: Monitoring Entry ID
+        hint: Unique identifier for this monitoring record
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: case_reference_number_mon
+        label: Initial Case Reference Number
+        hint: Link to the original complaint record
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: monitoring_start_date
+        label: Date Monitoring Commenced
+        hint: When was the oversight process started?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: current_milestone_reached
+        label: Current Resolution Milestone
+        hint: Select the furthest milestone achieved
+        type: select_one
+        options:
+          - Intake and Validation
+          - Initial Investigation Complete
+          - Resolution Proposal Sent
+          - Customer Negotiation
+          - Final Agreement Signed
+          - Resolution Implementation
+        required: true
+      - id: 6
+        name: current_process_bottleneck
+        label: Current Bottleneck or Delay Reason
+        hint: Briefly describe any issues slowing the resolution
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: sla_compliance_status
+        label: SLA Compliance Status
+        hint: Is the case within the target resolution time?
+        type: select_one
+        options:
+          - On-time (Within SLA)
+          - Approaching SLA Limit
+          - Delayed (Outside SLA)
+        required: true
+      - id: 8
+        name: next_scheduled_review_date
+        label: Next Review Date
+        hint: When will the case be reviewed again?
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: manager_responsible_mon
+        label: Manager Responsible for Case
+        hint: Oversight manager for this complaint
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: general_monitoring_notes
+        label: General Monitoring Notes
+        hint: Provide additional context or updates
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: monitoring_last_updated_date
+        label: Last Updated
+        hint: Today's date
+        type: date
+        options: []
+        required: true

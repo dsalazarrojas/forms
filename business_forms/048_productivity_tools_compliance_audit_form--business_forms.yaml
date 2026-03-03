@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Tools Compliance Audit Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tool_name
+      label: tool name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tool_type
+      label: tool type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tool_url
+      label: tool url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tool_accessibility
+      label: tool accessibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tool_security
+      label: tool security
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tool_data_privacy
+      label: tool data privacy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tool_compliance
+      label: tool compliance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tool_sustainability
+      label: tool sustainability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: tool_security_compliance
+      label: tool security compliance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: tool_eudra
+      label: tool eudra
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

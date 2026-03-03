@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundational Documents Overview
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: copy_date
+      label: Copy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: copies
+      label: Copies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: last_review_date
+      label: Last Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - board
+      - leadership
+      required: false
+    - id: 11
+      name: document_version
+      label: Document Version
+      hint: null
+      type: text
+      options: []
+      required: false

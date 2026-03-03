@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: material_nonconformance_report
+    pages:
+    - id: 1
+      name: material_nonconformance_report_form
+      label: Material Nonconformance Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nonconforming_product_id
+      label: Nonconforming Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: nonconformity_category
+      label: Nonconformity Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

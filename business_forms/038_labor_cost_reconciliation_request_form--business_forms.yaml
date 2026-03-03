@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Cost Reconciliation Request Form
+    pages:
+    - id: 1
+      name: project
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Project A'', ''value'': 1}'
+      - '{''label'': ''Project B'', ''value'': 2}'
+      - '{''label'': ''Project C'', ''value'': 3}'
+      required: false
+    - id: 2
+      name: period
+      label: Period
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''January 2019'', ''value'': 1}'
+      - '{''label'': ''February 2019'', ''value'': 2}'
+      - '{''label'': ''March 2019'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: reconciled_by
+      label: Reconciled By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John'', ''value'': 1}'
+      - '{''label'': ''Jane'', ''value'': 2}'
+      - '{''label'': ''Team'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': 1}'
+      - '{''label'': ''Inactive'', ''value'': 2}'
+      required: false
+    - id: 6
+      name: total_labor_cost
+      label: Total Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reconciled_cost
+      label: Reconciled Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: difference
+      label: Difference
+      hint: null
+      type: number
+      options: []
+      required: false

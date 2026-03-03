@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Protocol Sign In For New Zealand Construction Sites
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_declaration
+      label: Do you have flu symptoms today?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: travel_history
+      label: Have you traveled overseas in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: contact_details
+      label: Have you had contact with someone with a confirmed Covid-19 case in the
+        past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: symptoms
+      label: Are you currently experiencing any of the following symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Headache
+      - Sore Throat
+      - Runny Nose
+      - Shortness of breath
+      required: false
+    - id: 10
+      name: site_manager
+      label: Is the site manager aware of this?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: site_supervisor
+      label: Is the site supervisor aware of this?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: date_signed_in
+      label: Date signed in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_signed_in
+      label: Time signed in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

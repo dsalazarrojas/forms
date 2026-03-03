@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: auditor
+      label: Auditor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: findings
+      label: Findings
+      hint: null
+      type: select_multiple
+      options:
+      - 1st Quarter
+      - 2nd Quarter
+      - 3rd Quarter
+      - 4th Quarter
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Story Creation Agreement
+    pages:
+    - id: 1
+      name: story_creation_agreement_form
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: lead
+      hint: null
+      type: select_one
+      options:
+      - agency
+      - client
+      - writer
+      required: true
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: client_requirements
+      label: client_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: compensation_terms
+      label: compensation_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: true
+    - id: 9
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false

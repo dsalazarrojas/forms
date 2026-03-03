@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Information Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Ongoing
+      - Completed
+      required: false
+    - id: 5
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_email
+      label: Project Manager E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Team Member 1
+      - Team Member 2
+      - Team Member 3
+      required: false

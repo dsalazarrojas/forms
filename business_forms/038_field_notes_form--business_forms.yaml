@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Notes Form
+    pages:
+    - id: 1
+      name: field_notes_form
+      label: Field Notes Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: field_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: field_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: field_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: field_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: field_tags
+      label: Tags
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: field_notes_2
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

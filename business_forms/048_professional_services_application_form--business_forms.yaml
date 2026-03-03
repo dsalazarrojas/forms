@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_services_application_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resume_upload
+      label: Resume Upload
+      hint: Upload your resume in PDF or Word format
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_details
+      label: Experience Details
+      hint: Please provide a brief description of your experience
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Consultant''}'
+      - '{''id'': 2, ''value'': ''Contractor''}'
+      - '{''id'': 3, ''value'': ''Both''}'
+      required: true
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Full Time''}'
+      - '{''id'': 2, ''value'': ''Part Time''}'
+      - '{''id'': 3, ''value'': ''Project Based''}'
+      - '{''id'': 4, ''value'': ''Both''}'
+      required: true
+    - id: 6
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: key_achievements
+      label: Key Achievements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notice_start_date
+      label: Notice Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notice_end_date
+      label: Notice End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: contract_length
+      label: Contract Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Fixed''}'
+      - '{''id'': 2, ''value'': ''Hourly''}'
+      - '{''id'': 3, ''value'': ''Project Based''}'
+      required: true
+    - id: 20
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: hourly_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: weekly_hours
+      label: Weekly Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: notice_pay
+      label: Notice Pay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

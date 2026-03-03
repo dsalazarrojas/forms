@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Report Form
+    pages:
+    - id: 1
+      name: risk_assessment_report_form
+      label: Risk Assessment Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: risk_category
+      label: risk_category
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: risk_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: risk_likelihood
+      label: Likelihood
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: risk_impact
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

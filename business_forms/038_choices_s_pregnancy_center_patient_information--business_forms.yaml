@@ -1,0 +1,423 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choices's Pregnancy Center Patient Information
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Separated
+      - Widowed
+      - Domestic partnership
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: How to reach you
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Mail
+      required: true
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Someone we can call
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pregnancy_information
+      label: Pregnancy Information
+      hint: Current pregnancy details
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: is_pregnant
+      label: Are you currently pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Possibly
+      required: true
+    - id: 19
+      name: last_period_date
+      label: Date of Last Menstrual Period
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: estimated_due_date
+      label: Estimated Due Date
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: weeks_pregnant
+      label: How many weeks pregnant are you
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: pregnancy_confirmed
+      label: Has your pregnancy been confirmed
+      hint: null
+      type: select_one
+      options:
+      - Yes, by doctor
+      - Yes, by home test
+      - Yes, by clinic test
+      - No, not yet
+      - Unsure
+      required: true
+    - id: 23
+      name: previous_pregnancies
+      label: Number of Previous Pregnancies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: number_of_children
+      label: Number of Children
+      hint: Currently
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: services_requested
+      label: Services Requested
+      hint: What you need
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pregnancy testing
+      - Pregnancy verification
+      - Ultrasound
+      - Prenatal care information
+      - Parenting classes
+      - Adoption information
+      - Counseling
+      - Material assistance
+      - STI testing
+      - General health services
+      - Other
+      required: true
+    - id: 27
+      name: need_counseling
+      label: Are you interested in counseling services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 28
+      name: need_material_assistance
+      label: Do you need material assistance
+      hint: Clothing, diapers, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 29
+      name: medical_information
+      label: Medical Information
+      hint: Your health background
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: have_insurance
+      label: Do you have health insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Applying for coverage
+      required: true
+    - id: 31
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any ongoing conditions
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: allergies
+      label: Allergies
+      hint: Medications or other
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: lifestyle_information
+      label: Lifestyle Information
+      hint: Optional
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: tobacco_use
+      label: Do you use tobacco products
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Former user
+      required: false
+    - id: 39
+      name: alcohol_use
+      label: Do you consume alcohol
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Occasionally
+      required: false
+    - id: 40
+      name: support_system
+      label: Do you have a support system
+      hint: Family, friends, partner
+      type: select_one
+      options:
+      - Yes, strong support
+      - Some support
+      - Limited support
+      - No support
+      required: false
+    - id: 41
+      name: partner_aware
+      label: Is your partner aware of the pregnancy
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      - Prefer not to answer
+      required: false
+    - id: 42
+      name: additional_information
+      label: Additional Information
+      hint: Anything else
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - Internet search
+      - Social media
+      - Advertisement
+      - Healthcare provider
+      - Community referral
+      - Previous client
+      - Other
+      required: false
+    - id: 44
+      name: special_needs
+      label: Do you have any special needs
+      hint: Accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: We are here to help
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: consent_agreement
+      label: Consent and Agreement
+      hint: Your acknowledgment
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: information_accurate
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true
+    - id: 48
+      name: consent_services
+      label: I consent to receive requested services
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 49
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

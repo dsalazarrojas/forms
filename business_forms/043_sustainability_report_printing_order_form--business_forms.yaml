@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Report Printing Order Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pdfs
+      label: Pdfs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Report 1''}'
+      - '{''id'': ''Report 2''}'
+      - '{''id'': ''Report 3''}'
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: order_information
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: report
+      label: Report
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Report 1''}'
+      - '{''id'': ''Report 2''}'
+      - '{''id'': ''Report 3''}'
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: updated
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true

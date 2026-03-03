@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Efficiency Summary Report
+    pages:
+    - id: 1
+      name: supply_chain_efficiency_summary_report
+      label: supply_chain_efficiency_summary_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supply_chain_efficiency_score
+      label: supply_chain_efficiency_score
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      required: false
+    - id: 3
+      name: bottlenecks_identified
+      label: bottlenecks_identified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: improvement_actions
+      label: improvement_actions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reporting_period
+      label: reporting_period
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Jan''}'
+      - '{''option2'': ''Feb''}'
+      - '{''option3'': ''Mar''}'
+      - '{''option4'': ''Apr''}'
+      - '{''option5'': ''May''}'
+      - '{''option6'': ''Jun''}'
+      - '{''option7'': ''Jul''}'
+      - '{''option8'': ''Aug''}'
+      - '{''option9'': ''Sep''}'
+      - '{''option10'': ''Oct''}'
+      - '{''option11'': ''Nov''}'
+      - '{''option12'': ''Dec''}'
+      required: false
+    - id: 7
+      name: kpi1
+      label: kpi1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kpi2
+      label: kpi2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: kpi3
+      label: kpi3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: kpi4
+      label: kpi4
+      hint: null
+      type: text
+      options: []
+      required: false

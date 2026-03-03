@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Audit Intake Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_last_audit
+      label: Date of Last Audit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_audit_result
+      label: Last Audit Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 8
+      name: business_description
+      label: Briefly describe your business
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Retail
+      - Technology
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: true
+    - id: 11
+      name: audit_frequency
+      label: How often do.reported audits?
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Bi-Annually
+      - Quarterly
+      required: true
+    - id: 12
+      name: last_audit_date
+      label: Date of Last Audit (mm/dd/yyyy)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: audit_result_frequency
+      label: Audit Result Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every Time
+      - Periodically
+      - Never
+      required: true
+    - id: 14
+      name: last_audit_location
+      label: Last Audit Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_zip
+      label: Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_country
+      label: Contact Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: last_audit_vendor
+      label: Last Audit Vendor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: last_audit_vendor_id
+      label: Last Audit Vendor ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: last_audit_date_time
+      label: Last Audit Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: audit_frequency_1
+      label: Audit Frequency 1
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Bi-Annually
+      - Quarterly
+      required: true
+    - id: 24
+      name: audit_frequency_2
+      label: Audit Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Bi-Annually
+      - Quarterly
+      required: true
+    - id: 25
+      name: audit_frequency_3
+      label: Audit Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Bi-Annually
+      - Quarterly
+      required: true

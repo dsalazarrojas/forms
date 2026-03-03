@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Inquiry Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendors Name
+      hint: Vendors name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: Contact person
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: company_name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_description
+      label: company_description
+      hint: Company description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website
+      label: website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: industry
+      hint: Industry
+      type: text
+      options: []
+      required: false

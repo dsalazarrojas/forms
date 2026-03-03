@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Brand Onboarding Kit Order Form
+    pages:
+    - id: 1
+      name: franchise_team
+      label: Franchise Team
+      hint: null
+      type: select_multiple
+      options:
+      - Franchise Team A
+      - Franchise Team B
+      - Franchise Team C
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: kit_type
+      label: Kit Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 13
+      name: number_of_kits
+      label: Number of Kits
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: additional_kit_requests
+      label: Additional Kit Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_requested
+      label: Time Requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: franchise_location
+      label: Franchise Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: franchise_name
+      label: Franchise Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: franchise_number
+      label: Franchise Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: onboarding_manager
+      label: Onboarding Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: onboarding_manager_email
+      label: Onboarding Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: onboarding_manager_phone
+      label: Onboarding Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

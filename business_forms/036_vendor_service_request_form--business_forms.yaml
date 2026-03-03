@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Service Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: What service are you requesting
+      hint: null
+      type: select_one
+      options:
+      - Accounting and Finance
+      - IT Consulting
+      - Marketing and Sales
+      - Operations
+      - Other
+      required: false
+    - id: 3
+      name: service_description
+      label: Describe the service
+      hint: Please provide a brief description of the service you're requesting
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_message
+      label: Message
+      hint: Additional information about the service request
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

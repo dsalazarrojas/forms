@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fulfillment Service Quotation Request Form
+    pages:
+    - id: 1
+      name: fulfillment_service_quotation_request_form
+      label: Fulfillment Service Quotation Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_requirements
+      label: Service Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pricing_info
+      label: Pricing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fulfillment_provider
+      label: Fulfillment Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

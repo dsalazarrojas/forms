@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intercultural Competence Training Request Form
+    pages:
+    - id: 1
+      name: training_request_form
+      label: Training Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_request
+      label: Training Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: note
+      options: []
+      required: false

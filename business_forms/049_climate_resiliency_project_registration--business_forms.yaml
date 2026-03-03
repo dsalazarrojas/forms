@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Resiliency Project Registration
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Resiliency Project Registration
+      hint: Register your climate resiliency initiative
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Government Agency
+      - Non-Profit
+      - Private Company
+      - Community Group
+      - Educational Institution
+      - Cooperative
+      - Coalition
+      - Other
+      required: true
+    - id: 5
+      name: contact_person
+      label: Primary Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_description
+      label: Detailed Project Description
+      hint: What is your resiliency project about?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_type
+      label: Type of Resiliency Project
+      hint: null
+      type: select_one
+      options:
+      - Infrastructure Hardening
+      - Ecosystem Restoration
+      - Community Capacity Building
+      - Agricultural Adaptation
+      - Water Resource Management
+      - Disaster Preparedness
+      - Urban Planning
+      - Economic Diversification
+      - Social Protection
+      - Other
+      required: true
+    - id: 12
+      name: climate_hazards
+      label: Primary Climate Hazards Addressed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Flooding
+      - Wildfire
+      - Drought
+      - Heat Waves
+      - Sea Level Rise
+      - Storm Surge
+      - Landslides
+      - Coastal Erosion
+      - Other
+      required: true
+    - id: 13
+      name: location_section
+      label: -- Geographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_location
+      label: Project Location
+      hint: City, region, or country
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: geographic_scale
+      label: Geographic Scale
+      hint: null
+      type: select_one
+      options:
+      - Local Community
+      - District or County
+      - Regional
+      - National
+      - Multi-Country
+      required: true
+    - id: 16
+      name: beneficiaries_section
+      label: -- Beneficiaries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vulnerable_populations
+      label: Vulnerable Populations Targeted
+      hint: null
+      type: select_multiple
+      options:
+      - Low-Income Communities
+      - Farmers or Rural Populations
+      - Indigenous Peoples
+      - Women and Girls
+      - Youth
+      - Elderly
+      - People with Disabilities
+      - Coastal Communities
+      - Other
+      required: true
+    - id: 18
+      name: beneficiary_count
+      label: Estimated Number of Beneficiaries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: timeline_budget
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: project_duration
+      label: Project Duration
+      hint: In months
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: total_budget
+      label: Total Project Budget
+      hint: In currency units
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: budget_breakdown
+      label: Budget Allocation by Category
+      hint: Infrastructure, capacity building, operations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financing_section
+      label: -- Financing and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: funding_secured
+      label: Percentage of Funding Secured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: funding_sources
+      label: Funding Sources
+      hint: Grants, loans, public, private, etc.
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: support_needed
+      label: Type of Support or Partnerships Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: implementation_section
+      label: -- Implementation and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: implementation_readiness
+      label: Current Implementation Readiness
+      hint: null
+      type: select_one
+      options:
+      - Planning Phase
+      - Design Phase
+      - Ready to Implement
+      - Currently Implementing
+      - Monitoring/Evaluation
+      required: true
+    - id: 31
+      name: expected_outcomes
+      label: Expected Outcomes and Resilience Improvements
+      hint: What will the project achieve?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: success_indicators
+      label: Key Success Indicators or Metrics
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true

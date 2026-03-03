@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_recycling_system_quotation_form
+    pages:
+    - id: 1
+      name: quotation_request
+      label: Quotation request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: system_type
+      label: System type
+      hint: null
+      type: select_one
+      options:
+      - System A
+      - System B
+      - System C
+      required: false
+    - id: 7
+      name: system_capacity
+      label: System capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: system_location
+      label: System location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quotation_deadline
+      label: Quotation deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: quotation_price
+      label: Quotation price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: quotation_status
+      label: Quotation status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co-Working Partner Network Contact Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_title
+      label: Contact Person Professional Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_url
+      label: Organization Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_partnership
+      label: -- Partnership Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: partnership_type
+      label: Desired Type of Partnership
+      hint: null
+      type: select_one
+      options:
+      - Service Provider
+      - Event Collaboration
+      - Corporate Membership
+      - Affiliate Partner
+      - Other
+      required: true
+    - id: 9
+      name: collaboration_goals
+      label: Please describe your primary collaboration goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_launch_date
+      label: Target Launch Date for the Partnership
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_reach
+      label: -- Network Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: network_audience_desc
+      label: Describe your primary audience or network size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: geographies_covered
+      label: Geographical Regions Covered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_followup
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: discussion_time_pref
+      label: Preferred time of day for a partnership discussion call
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 16
+      name: referral_source
+      label: How did you hear about our co-working partner network?
+      hint: null
+      type: text
+      options: []
+      required: false

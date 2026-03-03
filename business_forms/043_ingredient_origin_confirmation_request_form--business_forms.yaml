@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Origin Confirmation Request Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: supplier_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: origin_country
+      label: Origin Country
+      hint: null
+      type: select_one
+      options:
+      - Japan
+      - China
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 5
+      name: origin_state
+      label: Origin State
+      hint: null
+      type: select_multiple
+      options:
+      - California
+      - New York
+      - Florida
+      - Illinois
+      - Texas
+      required: false
+    - id: 6
+      name: origin_city
+      label: Origin City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: origin_document
+      label: Origin Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Certificate of Origin
+      - COA
+      - Certificate of Analysis
+      required: false
+    - id: 9
+      name: supplier_document
+      label: Supplier Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: origin_date
+      label: Origin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: origin_time
+      label: Origin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: supplier_comments
+      label: Supplier Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: origin_comments
+      label: Origin Comments
+      hint: null
+      type: text
+      options: []
+      required: false

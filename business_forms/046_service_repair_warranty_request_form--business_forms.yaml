@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Repair Warranty Request Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: repair_details
+      label: Repair Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_center
+      label: Service Center
+      hint: null
+      type: select_one
+      options:
+      - Service Center 1
+      - Service Center 2
+      - Service Center 3
+      required: true
+    - id: 10
+      name: technician
+      label: Technician
+      hint: null
+      type: select_multiple
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: true
+    - id: 11
+      name: repair_type
+      label: Repair Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 13
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: service_repair_status
+      label: Service Repair Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 19
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Agreement 1
+      - Agreement 2
+      - Agreement 3
+      required: true
+    - id: 20
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 21
+      name: warranty_date
+      label: Warranty Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: warranty_start_time
+      label: Warranty Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: warranty_end_time
+      label: Warranty End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: warranty_duration
+      label: Warranty Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: warranty_type
+      label: Warranty Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false

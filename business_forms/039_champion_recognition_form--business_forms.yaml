@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Champion Recognition Form
+    pages:
+    - id: 1
+      name: nomination_date
+      label: Nomination Date
+      hint: Date of nomination
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: nominator_name
+      label: Nominator Name
+      hint: Full name of person making nomination
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Nominator Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_department
+      label: Nominator Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_name
+      label: Nominee Name
+      hint: Full name of person being nominated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_email
+      label: Nominee Email
+      hint: Email of nominee
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee_department
+      label: Nominee Department
+      hint: Department of nominee
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_position
+      label: Nominee Position
+      hint: Job title of nominee
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recognition_category
+      label: Recognition Category
+      hint: Category for nomination
+      type: select_one
+      options:
+      - Customer service excellence
+      - Innovation and creativity
+      - Teamwork and collaboration
+      - Leadership excellence
+      - Sales achievement
+      - Safety champion
+      - Community involvement
+      - Mentorship
+      - Process improvement
+      - Employee of the quarter
+      - Lifetime achievement
+      - Rising star
+      required: true
+    - id: 11
+      name: achievement_period
+      label: Achievement Period
+      hint: Time period of achievements
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Why are you nominating this person
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: specific_achievements
+      label: Specific Achievements
+      hint: Describe specific accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: impact_description
+      label: Impact Description
+      hint: What impact did their work have
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: values_demonstrated
+      label: Company Values Demonstrated
+      hint: Select values shown by nominee
+      type: select_multiple
+      options:
+      - Integrity
+      - Excellence
+      - Innovation
+      - Teamwork
+      - Customer focus
+      - Accountability
+      - Respect
+      - Diversity and inclusion
+      - Sustainability
+      - Other
+      required: true
+    - id: 16
+      name: previous_recognition
+      label: Previous Recognition
+      hint: Has nominee been recognized before
+      type: select_one
+      options:
+      - No - First time nominee
+      - Yes - Once before
+      - Yes - Multiple times
+      required: false
+    - id: 17
+      name: previous_awards
+      label: Previous Awards
+      hint: List previous awards if known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload any supporting materials
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_statements
+      label: Witness Statements
+      hint: Are there others who can support this nomination
+      type: select_one
+      options:
+      - No - My statement is sufficient
+      - Yes - Will provide contacts
+      - Yes - Attached statements
+      required: false
+    - id: 20
+      name: witness_contacts
+      label: Witness Contacts
+      hint: Names and emails of supporters
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: suggested_recognition
+      label: Suggested Recognition
+      hint: What type of recognition is appropriate
+      type: select_one
+      options:
+      - Certificate of achievement
+      - Public recognition
+      - Monetary bonus
+      - Gift card
+      - Extra time off
+      - Professional development opportunity
+      - Trophy or plaque
+      - Other
+      required: false
+    - id: 22
+      name: confidentiality
+      label: Confidentiality
+      hint: Should this nomination be kept confidential
+      type: select_one
+      options:
+      - No - Nominee can know
+      - Yes - Keep confidential until decision
+      required: true
+    - id: 23
+      name: nominator_signature
+      label: Nominator Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

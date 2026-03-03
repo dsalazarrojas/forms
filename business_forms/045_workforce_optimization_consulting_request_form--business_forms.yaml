@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Optimization Consulting Request Form
+    pages:
+    - id: 1
+      name: project_inquiry
+      label: Project Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workforce_challenges
+      label: Workforce Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: project_schedule
+      label: Project Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consulting_request
+      label: Consulting Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: mobile_order_form
+    pages:
+    - id: 1
+      name: order_product
+      label: order_product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Customer 1''}'
+      - '{''id'': 2, ''label'': ''Customer 2''}'
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false

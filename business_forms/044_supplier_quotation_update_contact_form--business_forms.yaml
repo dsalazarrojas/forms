@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Quotation Update Contact Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quotation_number
+      label: quotation_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: updated_quotation
+      label: updated_quotation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: updated_quotation_details
+      label: updated_quotation_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: update_method
+      label: update_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Other
+      required: true
+    - id: 9
+      name: update_method_other
+      label: update_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_by
+      label: updated_by
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Sales Representative
+      - Procurement Team
+      required: true
+    - id: 11
+      name: updated_quotation_date
+      label: updated_quotation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: updated_quotation_time
+      label: updated_quotation_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: updated_quotation_status
+      label: updated_quotation_status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Updated
+      - Expired
+      - Cancelled
+      - Archived
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

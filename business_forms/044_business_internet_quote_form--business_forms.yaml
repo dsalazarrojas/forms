@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Internet Quote Form
+    pages:
+    - id: 1
+      name: section_business_internet_identity
+      label: -- Business Identity and Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name_internet_quote
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: installation_address_full
+      label: Installation Address
+      hint: Street, City, State, and Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_internet_provider_name
+      label: Current Internet Provider
+      hint: Leave blank if new service
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total_number_of_internet_users
+      label: Number of Users
+      hint: Total employees requiring internet access at this location
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_service_requirements_internet
+      label: -- Service Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: desired_speed_tier_selection
+      label: Desired Speed Tier
+      hint: Select based on your bandwidth needs
+      type: select_one
+      options:
+      - Small Office (Up to 100 Mbps)
+      - Growth Phase (100 - 500 Mbps)
+      - High Performance (500 - 1000 Mbps)
+      - Enterprise Dedicated Fiber (1 Gbps+)
+      required: true
+    - id: 8
+      name: required_internet_features_selection
+      label: Required Features
+      hint: Select all that apply to your business
+      type: select_multiple
+      options:
+      - Static IP Address
+      - Dedicated Fiber Access
+      - Voice over IP (VoIP) Integration
+      - Backup 4G/5G Connection
+      - Managed Firewall / Security
+      - Guest Wi-Fi Portal
+      required: true
+    - id: 9
+      name: contract_length_preference_internet
+      label: Contract Length Preference
+      hint: null
+      type: select_one
+      options:
+      - No Contract (Month-to-Month)
+      - 12 Months
+      - 24 Months
+      - 36 Months (Best Value)
+      required: true
+    - id: 10
+      name: current_monthly_spend_internet
+      label: Current Monthly Internet Spend (USD)
+      hint: Helpful for matching or beating current pricing
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_contact_internet_quote
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: internet_quote_contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: internet_quote_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: internet_quote_contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: requested_quote_expiry_date
+      label: Date by which Quote is Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: internet_quote_submission_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

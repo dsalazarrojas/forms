@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_acquisition_log_form
+    pages:
+    - id: 1
+      name: customer_acquisition_log
+      label: customer_acquisition_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_contact
+      label: date_of_contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_contact
+      label: time_of_contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone
+      - Email
+      - Chat
+      - Text
+      - Webinar
+      required: false
+    - id: 9
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sales_status
+      label: sales_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Follow-up
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: customer_status
+      label: customer_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Churned
+      required: false
+    - id: 13
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Scheduled
+      required: false
+    - id: 19
+      name: follow_up_user
+      label: follow_up_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_type
+      label: follow_up_type
+      hint: null
+      type: select_one
+      options:
+      - New Lead
+      - Existing Lead
+      required: false
+    - id: 22
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: lead_source_notes
+      label: lead_source_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: lead_source_status
+      label: lead_source_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Scheduled
+      required: false
+    - id: 25
+      name: lead_source_user
+      label: lead_source_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

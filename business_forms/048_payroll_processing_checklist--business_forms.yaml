@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Processing Checklist
+    pages:
+    - id: 1
+      name: payroll_period
+      label: payroll_period
+      hint: null
+      type: select_one
+      options:
+      - Payroll Period
+      - Weekly
+      - Bi-weekly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: false
+    - id: 2
+      name: payroll_frequency
+      label: payroll_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Bi-weekly
+      - Weekly
+      - Semi-Monthly
+      - Monthly
+      required: false
+    - id: 3
+      name: payroll_method
+      label: payroll_method
+      hint: null
+      type: select_one
+      options:
+      - Paper
+      - Online
+      required: false
+    - id: 4
+      name: payroll_date
+      label: payroll_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payroll_time
+      label: payroll_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payroll_address
+      label: payroll_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payroll_note
+      label: payroll_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payroll_email
+      label: payroll_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: payroll_phone
+      label: payroll_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payroll_status
+      label: payroll_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: fiscal_year
+      label: Fiscal Year for This Budget
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_category
+      label: Budget Category
+      hint: Personnel, operations, capital, etc
+      type: select_one
+      options:
+      - Personnel and Salaries
+      - Operations and Supplies
+      - Capital Equipment
+      - Travel
+      - Training and Development
+      - Technology
+      - Marketing
+      - Other
+      required: true
+    - id: 9
+      name: total_amount_requested
+      label: Total Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: detailed_breakdown
+      label: Detailed Budget Breakdown
+      hint: Line items and amounts
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_purpose
+      label: Business Purpose or Justification
+      hint: Why is this budget needed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_outcomes
+      label: Expected Outcomes or Benefits
+      hint: What will this accomplish
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: roi_projection
+      label: Return on Investment Projection
+      hint: Financial or operational benefits
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: alternative_options
+      label: Alternative Options Considered
+      hint: Other approaches and costs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline
+      label: Project Timeline
+      hint: When will funds be used
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: funding_sources
+      label: Proposed Funding Sources
+      hint: Where will money come from
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: budget_authority_needed
+      label: Approval Authority Level Required
+      hint: Department head, VP, CFO, etc
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: supporting_documents
+      label: Supporting Documentation Attached
+      hint: Quotes, proposals, business cases
+      type: select_one
+      options:
+      - Yes, attached
+      - No, will provide later
+      required: true
+    - id: 19
+      name: contingency_plan
+      label: Contingency Plan if Budget is Reduced
+      hint: How will you proceed with less funding
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: priority_level
+      label: Priority Level
+      hint: How critical is this request
+      type: select_one
+      options:
+      - Critical - Project cannot proceed
+      - High - Significant impact
+      - Medium - Important but flexible
+      - Low - Nice to have
+      required: true

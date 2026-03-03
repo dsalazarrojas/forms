@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: freelance_editor_agreement_form
+    pages:
+    - id: 1
+      name: editor_agreement_form
+      label: Editor Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: editor_agreement_terms
+      label: Editor Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: editor_agreement_signature
+      label: Editor Agreement Signature
+      hint: Sign here
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Tool Access Form
+    pages:
+    - id: 1
+      name: project_management_tool_access_form
+      label: Project Management Tool Access Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_member_email
+      label: Team Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 7
+      name: access_start_date
+      label: Access Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: access_end_date
+      label: Access End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: tool_access_level
+      label: Tool Access Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tool_version
+      label: Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_access_level
+      label: User Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: tool_access_notes
+      label: Tool Access Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_manager_status
+      label: Project Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: project_status_date
+      label: Project Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

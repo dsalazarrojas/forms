@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_system_outage_incident_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: impact
+      label: impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: severity
+      label: severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: incident_status_history
+      label: incident_status_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution
+      label: resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: resolution_time
+      label: resolution_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incident_manager
+      label: incident_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_manager_team
+      label: incident_manager_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: reporting_user
+      label: reporting_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reporting_user_department
+      label: reporting_user_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: reporting_user_title
+      label: reporting_user_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: outage_start_time
+      label: outage_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: outage_end_time
+      label: outage_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: total_duration
+      label: total_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: business_affected
+      label: business_affected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: it_contacted
+      label: it_contacted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: incident_comments
+      label: incident_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: business_impact
+      label: business_impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: root_cause_analysis
+      label: root_cause_analysis
+      hint: null
+      type: note
+      options: []
+      required: false

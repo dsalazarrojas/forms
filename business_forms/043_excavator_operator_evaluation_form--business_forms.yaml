@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavator Operator Evaluation Form
+    pages:
+    - id: 1
+      name: excavator_operator_form
+      label: Excavator Operator Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: excavator_type
+      label: Excavator Type
+      hint: null
+      type: select_one
+      options:
+      - CAT
+      - CRAWLER
+      - BACKHOE
+      required: false
+    - id: 3
+      name: experience_hours
+      label: Experience Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: excavator_equipment
+      label: Excavator Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: work_site_environment
+      label: Work Site Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Coastal
+      required: false
+    - id: 7
+      name: excavator_operator_rating
+      label: Excavator Operator Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - None
+      required: false
+    - id: 9
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: safety_procedure
+      label: Safety Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - Adhere to
+      - Follow
+      - Comply
+      required: false
+    - id: 11
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Missing
+      - Damaged
+      required: false
+    - id: 12
+      name: safety_procedure_compliance
+      label: Safety Procedure Compliance
+      hint: null
+      type: select_multiple
+      options:
+      - Adhered to
+      - Followed
+      - Non-compliant
+      required: false
+    - id: 13
+      name: reporting_incidents
+      label: Reporting Incidents
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: reporting_procedures
+      label: Reporting Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Adhere to
+      - Follow
+      - Comply
+      required: false
+    - id: 15
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - None
+      required: false
+    - id: 16
+      name: safety_equipment_condition
+      label: Safety Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: work_site_supervisor
+      label: Work Site Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Missing
+      - Damaged
+      required: false
+    - id: 18
+      name: excavator_operator_attitude
+      label: Excavator Operator Attitude
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 19
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 20
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - None
+      required: false
+    - id: 21
+      name: excavator_technical_issues
+      label: Excavator Technical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Resolved
+      - Not Resolved
+      - None
+      required: false
+    - id: 22
+      name: excavator_operation_hours
+      label: Excavator Operation Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: excavator_operator_rating_average
+      label: Excavator Operator Rating Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: excavator_operator_rating_scale
+      label: Excavator Operator Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-3
+      - 4-6
+      - 7-10
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

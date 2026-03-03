@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: scope_of_work_form
+    pages:
+    - id: 1
+      name: scope_of_work_form_step_1
+      label: scope_of_work_form_step_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: scope_of_work_form_step_2
+      label: scope_of_work_form_step_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scope_of_work_form_step_3
+      label: scope_of_work_form_step_3
+      hint: null
+      type: date
+      options: []
+      required: false

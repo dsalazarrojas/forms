@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grant Application
+    pages:
+    - id: 1
+      name: grant_application_form_1
+      label: grant_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grant_amount
+      label: grant_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: grant_category
+      label: grant_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: grant_type
+      label: grant_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: grant_period
+      label: grant_period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: grant_start_date
+      label: grant_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: grant_end_date
+      label: grant_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: grant_status
+      label: grant_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: grant_amount_currency
+      label: grant_amount_currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: grant_amount_value
+      label: grant_amount_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: grant_currency_symbol
+      label: grant_currency_symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fund_request
+      label: fund_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: grant_agreement
+      label: grant_agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: grant_notes
+      label: grant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: grant_comments
+      label: grant_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: attachments_2
+      label: attachments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: grant_application
+      label: grant_application
+      hint: null
+      type: text
+      options: []
+      required: false

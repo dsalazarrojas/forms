@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Admin Weekly Report
+    pages:
+    - id: 1
+      name: report_metadata
+      label: Report metadata
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: week_start_date
+      label: Week start date
+      hint: Monday of reporting week
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: prepared_by
+      label: Prepared by
+      hint: Author of report
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: key_activities
+      label: Key activities completed
+      hint: Bullet points of work done
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: blockers
+      label: Blockers and issues
+      hint: Describe obstacles needing attention
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: priorities_next_week
+      label: Priorities for next week
+      hint: Planned tasks and owners
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resource_needs
+      label: Resource needs
+      hint: Additional staff budget or tools required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: metrics_summary
+      label: Metrics summary
+      hint: Key numbers and KPIs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approvals_required
+      label: Approvals required
+      hint: Items needing managerial approval
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other notes for leadership
+      type: text
+      options: []
+      required: false

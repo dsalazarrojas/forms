@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Spoilage Detection Report Form
+    pages:
+    - id: 1
+      name: product_spoilage_detection_report_form_page_1
+      label: Product Spoilage Detection Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_spoilage_detection_report_form_page_2
+      label: Spoilage Type
+      hint: null
+      type: select_one
+      options:
+      - Spoilage Type
+      - Defect Type
+      - Damage Type
+      required: false
+    - id: 3
+      name: spoilage_description
+      label: Describe Spoilage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evidence_capture
+      label: Capture Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

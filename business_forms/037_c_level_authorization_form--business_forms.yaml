@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: C Level Authorization Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requesting_party
+      label: Requesting Party Name
+      hint: Who is requesting authorization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requesting_party_title
+      label: Requesting Party Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requesting_party_email
+      label: Requesting Party Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requesting_party_phone
+      label: Requesting Party Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorization_required_from
+      label: C-Level Authorization Required From
+      hint: Select the executive level
+      type: select_one
+      options:
+      - CEO - Chief Executive Officer
+      - COO - Chief Operating Officer
+      - CFO - Chief Financial Officer
+      - CTO - Chief Technology Officer
+      - CMO - Chief Marketing Officer
+      - President
+      - Other Executive
+      required: true
+    - id: 7
+      name: executive_name
+      label: Executive Name
+      hint: Name of the executive
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: executive_email
+      label: Executive Email
+      hint: Executive email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: authorization_subject
+      label: Subject of Authorization
+      hint: What needs to be approved
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorization_type
+      label: Type of Authorization Needed
+      hint: Category of approval
+      type: select_one
+      options:
+      - Budget Approval
+      - Hiring Decision
+      - Strategic Initiative
+      - Policy Change
+      - Contract Approval
+      - Vendor Agreement
+      - Capital Expenditure
+      - Other
+      required: true
+    - id: 11
+      name: authorization_details
+      label: Detailed Description
+      hint: Full details of what needs approval
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: financial_impact
+      label: Financial Impact
+      hint: Dollar amount or budget impact
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: timeline_needed
+      label: Timeline for Decision
+      hint: When is approval needed
+      type: select_one
+      options:
+      - Urgent - within 24 hours
+      - Soon - within 1 week
+      - Standard - within 2 weeks
+      - Not time-sensitive
+      required: true
+    - id: 14
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Business case, analysis, etc.
+      type: select_one
+      options:
+      - Yes, attached
+      - Will be provided
+      - Not applicable
+      required: true
+    - id: 15
+      name: business_justification
+      label: Business Justification
+      hint: Why this authorization is needed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risks_concerns
+      label: Identified Risks or Concerns
+      hint: Any potential issues
+      type: text
+      options: []
+      required: false

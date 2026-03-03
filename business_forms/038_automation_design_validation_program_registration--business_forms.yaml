@@ -1,0 +1,484 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Design Validation Program Registration
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation Design Validation Program Registration
+      hint: Register for the validation program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_info
+      label: Company Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - Japan
+      - China
+      - India
+      - Other
+      required: true
+    - id: 15
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - Over 5000
+      required: true
+    - id: 17
+      name: industry
+      label: Industry
+      hint: Your industry
+      type: select_one
+      options:
+      - Automotive
+      - Electronics
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Aerospace
+      - Consumer Goods
+      - Energy
+      - Other
+      required: true
+    - id: 18
+      name: program_info
+      label: Program Information
+      hint: Details about the program
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: program_track
+      label: Program Track
+      hint: Which track
+      type: select_one
+      options:
+      - Fundamental Track
+      - Advanced Track
+      - Expert Track
+      - Custom Track
+      required: true
+    - id: 20
+      name: program_format
+      label: Program Format
+      hint: How to attend
+      type: select_one
+      options:
+      - In-Person
+      - Virtual Live
+      - Self-Paced Online
+      - Hybrid
+      required: true
+    - id: 21
+      name: start_date_preference
+      label: Start Date Preference
+      hint: When to start
+      type: select_one
+      options:
+      - Next Available
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - Flexible
+      required: true
+    - id: 22
+      name: project_info
+      label: Project Information
+      hint: Your validation project
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: project_name
+      label: Project Name
+      hint: Name of project
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: project_description
+      label: Project Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: project_type
+      label: Project Type
+      hint: What type of automation
+      type: select_one
+      options:
+      - Robotic System
+      - Control System
+      - Software Automation
+      - Process Automation
+      - Test Automation
+      - Manufacturing Line
+      - Other
+      required: true
+    - id: 26
+      name: project_stage
+      label: Project Stage
+      hint: Current stage
+      type: select_one
+      options:
+      - Concept
+      - Design
+      - Development
+      - Testing
+      - Implementation
+      - Optimization
+      required: true
+    - id: 27
+      name: project_timeline
+      label: Project Timeline
+      hint: Expected duration
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 28
+      name: project_budget
+      label: Project Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $50000
+      - $50000-$100000
+      - $100000-$500000
+      - $500000-$1M
+      - Over $1M
+      required: false
+    - id: 29
+      name: team_info
+      label: Team Information
+      hint: Your team details
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: team_size
+      label: Team Size
+      hint: Number of team members
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: true
+    - id: 31
+      name: team_expertise
+      label: Team Expertise Level
+      hint: Current expertise
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Mixed Levels
+      required: true
+    - id: 32
+      name: additional_participants
+      label: Additional Participants
+      hint: Others attending
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: validation_requirements
+      label: Validation Requirements
+      hint: Specific needs
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: standards_compliance
+      label: Standards Compliance
+      hint: Which standards
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 13485
+      - IEC 61508
+      - FDA 21 CFR Part 11
+      - GAMP 5
+      - ASME BPE
+      - Other
+      - None
+      required: false
+    - id: 35
+      name: documentation_needs
+      label: Documentation Needs
+      hint: What documentation
+      type: select_multiple
+      options:
+      - Validation Plan
+      - Risk Assessment
+      - Test Protocols
+      - Test Reports
+      - Traceability Matrix
+      - SOPs
+      - Training Materials
+      required: false
+    - id: 36
+      name: support_level
+      label: Support Level Needed
+      hint: How much support
+      type: select_one
+      options:
+      - Minimal Guidance
+      - Regular Check-Ins
+      - Hands-On Support
+      - Full Service
+      required: true
+    - id: 37
+      name: previous_experience
+      label: Previous Validation Experience
+      hint: Have you done this before
+      type: select_one
+      options:
+      - No Experience
+      - Limited Experience
+      - Some Experience
+      - Extensive Experience
+      required: true
+    - id: 38
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you want to learn
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: certification_needed
+      label: Certification Needed
+      hint: Do you need certification
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 40
+      name: payment_info
+      label: Payment Information
+      hint: How to pay
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Purchase Order
+      - Wire Transfer
+      - Other
+      required: true
+    - id: 42
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: billing_contact
+      label: Billing Contact
+      hint: Who handles billing
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: billing_email
+      label: Billing Email
+      hint: Billing email
+      type: email
+      options: []
+      required: false
+    - id: 45
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Conference
+      - Social Media
+      - Advertisement
+      - Previous Participant
+      - Other
+      required: false
+    - id: 47
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 50
+      name: participant_signature
+      label: Participant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

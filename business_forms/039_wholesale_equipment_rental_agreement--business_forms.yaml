@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Equipment Rental Agreement
+    pages:
+    - id: 1
+      name: wholesale_equipment_rental_agreement_form
+      label: Rental Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_term
+      label: Rental Term
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''1 month''}'
+      - '{2: ''2 months''}'
+      - '{3: ''3 months''}'
+      required: true
+    - id: 6
+      name: rental_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_end_date
+      label: Rental End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rental_amount
+      label: Rental Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rental_terms
+      label: Rental Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''24/7 Support''}'
+      - '{2: ''On-site Support''}'
+      - '{3: ''Maintenance''}'
+      required: true
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: terms_accepted
+      label: Terms Accepted
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 19
+      name: contract_reviewed
+      label: Contract Reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 20
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Signed''}'
+      - '{2: ''Unsigned''}'
+      required: true
+    - id: 22
+      name: client_representative
+      label: Client Representative
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 23
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rental_contract
+      label: Rental Contract
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: true
+    - id: 25
+      name: rental_terms_and_conditions
+      label: Rental Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

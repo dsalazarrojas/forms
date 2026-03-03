@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damaged Goods Complaint Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: Enter customer address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Enter a detailed description of the damage
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: image_ids
+      label: Attach Images
+      hint: Select images associated with the complaint
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_status
+      label: Product Status
+      hint: Current status of the product
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: customer_contact
+      label: Customer Contact
+      hint: Customer contact information (phone numbers, emails, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

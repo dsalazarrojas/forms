@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Process Assessment Form
+    pages:
+      - id: 1
+        name: process_assessment_intro
+        label: -- Complaint Handling Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: case_reference_id_assess
+        label: Complaint Case ID
+        hint: Please refer to the ID on your resolution email
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: ease_of_filing_rating
+        label: How easy was it to file your complaint?
+        hint: Rating from 1 (Difficult) to 5 (Very Easy)
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 4
+        name: speed_of_initial_response_rating
+        label: Satisfaction with the speed of our initial response
+        hint: How quickly we first contacted you
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 5
+        name: staff_professionalism_rating
+        label: Professionalism and empathy shown by our staff
+        hint: How you were treated during the process
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: communication_clarity_rating
+        label: Clarity of information provided throughout the process
+        hint: Were you kept informed of progress?
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Confusing
+        required: true
+      - id: 7
+        name: resolution_fairness_rating
+        label: Do you believe the final resolution was fair?
+        hint: Fairness of the outcome
+        type: select_one
+        options:
+          - Highly Fair
+          - Mostly Fair
+          - Neutral
+          - Unfair
+        required: true
+      - id: 8
+        name: reuse_intent_rating
+        label: How likely are you to continue using our services?
+        hint: Based on this experience
+        type: select_one
+        options:
+          - Much more likely
+          - Somewhat more likely
+          - No change
+          - Less likely
+          - Will not use again
+        required: true
+      - id: 9
+        name: process_improvement_suggestions
+        label: How can we improve our complaint handling process?
+        hint: Specific ideas for enhancement
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: assessment_submission_date_process
+        label: Date of Assessment
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: final_note_assessment
+        label: Thank you for helping us improve our service.
+        hint: Final message
+        type: note
+        options: []
+        required: false

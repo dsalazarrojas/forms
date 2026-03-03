@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Information Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: industry
+      label: Industry
+      hint: Your business sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Hospitality
+      - Real Estate
+      - Professional Services
+      - Other
+      required: false
+    - id: 13
+      name: purpose_of_visit
+      label: Purpose of Visit or Inquiry
+      hint: Why are you contacting us?
+      type: select_one
+      options:
+      - General Inquiry
+      - New Service Request
+      - Existing Service
+      - Support Issue
+      - Billing Question
+      - Complaint
+      - Compliment
+      - Other
+      required: true
+    - id: 14
+      name: service_needed
+      label: Service Needed
+      hint: What service do you need?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Event
+      - Search Engine
+      - Other
+      required: false
+    - id: 16
+      name: referred_by
+      label: Referred By
+      hint: Who referred you?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 18
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Any Time
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is your request?
+      type: select_one
+      options:
+      - Low - No Rush
+      - Medium - Within Week
+      - High - Within 48 Hours
+      - Urgent - Immediate
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: newsletter_signup
+      label: Would You Like to Receive Our Newsletter?
+      hint: Monthly updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: I Accept the Terms and Conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 23
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: true

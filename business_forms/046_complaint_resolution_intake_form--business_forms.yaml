@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Intake Form
+    pages:
+    - id: 1
+      name: intake_header_section
+      label: -- Customer Complaint Intake --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name_intake
+      label: Customer Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_order_number_intake
+      label: Account or Order Number
+      hint: Unique reference for your purchase or account
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_intake
+      label: Contact Phone Number
+      hint: Best number to reach you during business hours
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: complaint_incident_date_intake
+      label: Date of Incident
+      hint: When did the issue occur?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: product_service_type_intake
+      label: Product or Service complained about
+      hint: Specify the item or service in question
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_issue_summary_intake
+      label: Issue Summary
+      hint: A brief title for the complaint (e.g., Billing Error, Delayed Shipping)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: detailed_issue_description_intake
+      label: Detailed Description of the Issue
+      hint: Please provide full details of what happened
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: desired_resolution_intake
+      label: Preferred Resolution
+      hint: How can we best resolve this for you?
+      type: select_one
+      options:
+      - Full Refund
+      - Partial Refund / Credit
+      - Product Replacement
+      - Correction of Error
+      - Formal Apology
+      - Other
+      required: true
+    - id: 10
+      name: intake_officer_name_intake
+      label: Intake Officer Name
+      hint: Staff member recording the complaint
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: intake_date_final
+      label: Date of Intake
+      hint: Today's date
+      type: date
+      options: []
+      required: true

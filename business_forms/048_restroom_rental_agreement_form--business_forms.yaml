@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restroom Rental Agreement Form
+    pages:
+    - id: 1
+      name: rental_info
+      label: Renting Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_dates
+      label: Rental Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

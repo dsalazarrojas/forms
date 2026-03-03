@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Merger Announcement RSVP
+    pages:
+    - id: 1
+      name: company_name
+      label: Attendee Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attending
+      label: Will you be attending?
+      hint: Please select an option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: guests
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: event_questions
+      label: Do you have any questions about the merger?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

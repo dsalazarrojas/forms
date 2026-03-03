@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Disclosure Agreement Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sensitive_information
+      label: Sensitive Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'False'
+      - 'True'
+      required: false
+    - id: 11
+      name: date_acknowledged
+      label: Date Acknowledged
+      hint: null
+      type: date
+      options: []
+      required: false

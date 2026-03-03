@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Business Report Form
+    pages:
+    - id: 1
+      name: practice_name
+      label: Practice Name
+      hint: Business or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_period_start
+      label: Reporting Period Start
+      hint: Start date for this report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period_end
+      label: Reporting Period End
+      hint: End date for this report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: total_patients
+      label: Total Patients Seen
+      hint: Number of patients in reporting period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: revenue
+      label: Total Revenue
+      hint: Revenue amount for period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: operating_expenses
+      label: Operating Expenses
+      hint: Total expenses during period
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: key_issues
+      label: Key Issues and Risks
+      hint: Notes on operational challenges
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_actions
+      label: Improvement Actions Planned
+      hint: Steps to address issues or grow business
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reporter_phone
+      label: Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_details
+      label: Report Details
+      hint: Client Report Details
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_location
+      label: Appointment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      required: true
+    - id: 8
+      name: tax_professional
+      label: Tax Professional
+      hint: Tax Professional Name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tax_professional_phone
+      label: Tax Professional Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_filing_type
+      label: Tax Filing Type
+      hint: null
+      type: select_multiple
+      options:
+      - Income Tax
+      - Sales Tax
+      - Business Tax
+      - State Tax
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Draft
+      required: false
+    - id: 12
+      name: appointment_note
+      label: Appointment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Rescheduled
+      - Canceled
+      required: false
+    - id: 14
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2019'
+      - '2020'
+      required: false
+    - id: 17
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Recurring
+      required: false
+    - id: 19
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - In-Office
+      - Phone
+      - Video Conference
+      required: false
+    - id: 20
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Completed
+      - Pending
+      required: false
+    - id: 21
+      name: report_due_date
+      label: Report Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Interview
+      - Meeting
+      required: false
+    - id: 23
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - anceled
+      required: false
+    - id: 24
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 25
+      name: appointment_frequency
+      label: Appointment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Recurring
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Policy Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: policy_number
+      label: policy number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_holder_name
+      label: policy holder name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complaint_date
+      label: complaint date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: complaint_details
+      label: complaint details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complaint_contact_info
+      label: complaint contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_photo
+      label: complaint photo
+      hint: null
+      type: text
+      options: []
+      required: false

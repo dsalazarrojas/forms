@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accountant Complaint Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_complaint_details
+      label: -- Complaint Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: accountant_name
+      label: Name of Accountant or Firm Being Complained About
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_type
+      label: Type of Service Provided
+      hint: null
+      type: select_one
+      options:
+      - Tax preparation
+      - Bookkeeping
+      - Audit
+      - Payroll services
+      - Financial consulting
+      - Business advisory
+      - Other
+      required: true
+    - id: 9
+      name: complaint_category
+      label: Category of Complaint
+      hint: null
+      type: select_one
+      options:
+      - Inaccurate work or errors
+      - Missed deadlines
+      - Overcharging or billing dispute
+      - Poor communication
+      - Breach of confidentiality
+      - Unprofessional behavior
+      - Negligence
+      - Other
+      required: true
+    - id: 10
+      name: complaint_date
+      label: Date the Issue Occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: complaint_description
+      label: Detailed Description of the Complaint
+      hint: Please provide specific examples and dates
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: financial_impact
+      label: Has This Issue Caused Financial Loss
+      hint: null
+      type: select_one
+      options:
+      - Yes - Significant financial loss
+      - Yes - Minor financial loss
+      - No financial loss
+      - Unsure
+      required: true
+    - id: 13
+      name: financial_loss_amount
+      label: Estimated Financial Loss (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: previous_attempts
+      label: Have You Previously Raised This Issue with the Accountant
+      hint: null
+      type: select_one
+      options:
+      - Yes, and it was not resolved
+      - Yes, and it was partially resolved
+      - false
+      required: true
+    - id: 15
+      name: desired_resolution
+      label: Desired Resolution
+      hint: null
+      type: select_one
+      options:
+      - Full refund
+      - Partial refund
+      - Corrective action on the work
+      - Formal apology
+      - Disciplinary action
+      - Other
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

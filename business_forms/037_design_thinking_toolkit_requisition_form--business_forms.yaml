@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: design_thinking_toolkit_requisition_form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: project_title
+      hint: Enter project name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''member1''}'
+      - '{''option2'': ''member2''}'
+      - '{''option3'': ''member3''}'
+      required: false
+    - id: 4
+      name: design_tools_requested
+      label: design_tools_requested
+      hint: Select all requested tools
+      type: select_multiple
+      options:
+      - '{''option1'': ''tool1''}'
+      - '{''option2'': ''tool2''}'
+      - '{''option3'': ''tool3''}'
+      required: false
+    - id: 5
+      name: tool_quantity
+      label: tool_quantity
+      hint: Enter quantity of tool
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: material_requests
+      label: material_requests
+      hint: Enter material requests
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collaboration_platform
+      label: collaboration_platform
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''platform1''}'
+      - '{''option2'': ''platform2''}'
+      - '{''option3'': ''platform3''}'
+      required: false
+    - id: 8
+      name: resource_allocation
+      label: resource_allocation
+      hint: Enter resource allocation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''manager1''}'
+      - '{''option2'': ''manager2''}'
+      - '{''option3'': ''manager3''}'
+      required: false
+    - id: 10
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''lead1''}'
+      - '{''option2'': ''lead2''}'
+      - '{''option3'': ''lead3''}'
+      required: false
+    - id: 11
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''low''}'
+      - '{''option2'': ''medium''}'
+      - '{''option3'': ''high''}'
+      required: false
+    - id: 12
+      name: due_date
+      label: due_date
+      hint: Select due date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''team1''}'
+      - '{''option2'': ''team2''}'
+      - '{''option3'': ''team3''}'
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_completed
+      label: form_completed
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''completed''}'
+      - '{''option2'': ''not_completed''}'
+      - '{''option3'': ''in_progress''}'
+      required: false
+    - id: 16
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''active''}'
+      - '{''option2'': ''inactive''}'
+      - '{''option3'': ''on_hold''}'
+      required: false
+    - id: 17
+      name: project_description
+      label: project_description
+      hint: Enter project description
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resource_request
+      label: resource_request
+      hint: Enter resource request
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_reviewed
+      label: form_reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''reviewed''}'
+      - '{''option2'': ''not_reviewed''}'
+      - '{''option3'': ''not_reviewed_yet''}'
+      required: false
+    - id: 20
+      name: project_tags
+      label: project_tags
+      hint: Enter project tags
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_notes
+      label: project_notes
+      hint: Enter project notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: collaboration_platform
+      label: collaboration_platform
+      hint: Enter collaboration platform
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: resource_request_date
+      label: resource_request_date
+      hint: Select resource request date
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: team_lead_notes
+      label: team_lead_notes
+      hint: Enter team lead notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_status_notes
+      label: project_status_notes
+      hint: Enter project status notes
+      type: text
+      options: []
+      required: false

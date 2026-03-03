@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Quality Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name_qual
+      label: Quality Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: model_number_eval
+      label: Product Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_period_start
+      label: Evaluation Period Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: defective_units_count
+      label: Number of Defective Units Found
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: primary_defect_cat
+      label: Primary Defect Category
+      hint: Select the most frequent issue
+      type: select_one
+      options:
+      - Surface and Cosmetic
+      - Structural Integrity
+      - Electrical/Wiring
+      - Assembly and Fastening
+      - Packaging/Labeling
+      required: true
+    - id: 6
+      name: defect_severity_qual
+      label: Overall Defect Severity
+      hint: null
+      type: select_one
+      options:
+      - Minor - Acceptable with rework
+      - Major - Requires component replacement
+      - Critical - Complete scrap
+      required: true
+    - id: 7
+      name: root_cause_analysis_qual
+      label: Initial Root Cause Analysis
+      hint: null
+      type: select_one
+      options:
+      - Operator Training Issue
+      - Machine/Tool Malfunction
+      - Incoming Material Defect
+      - Environmental Factors
+      - Design Flaw
+      required: true
+    - id: 8
+      name: compliance_score_qual
+      label: Quality Standard Compliance Score
+      hint: 1 - poor, 10 - perfect compliance
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: team_performance_rating
+      label: Assembly Team Productivity Rating
+      hint: 1 - low, 5 - high
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: training_needs_qual
+      label: Recommended Training Updates
+      hint: Describe any skills gap identified
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_summary
+      label: Final Evaluation Summary and Notes
+      hint: null
+      type: text
+      options: []
+      required: true

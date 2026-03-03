@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Information Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: partner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_zip
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_website
+      label: Company Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional services
+      - Education
+      - Other
+      required: true
+    - id: 11
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 12
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $1M
+      - $1M to $5M
+      - $5M to $10M
+      - $10M to $50M
+      - Over $50M
+      required: true
+    - id: 14
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-profit
+      required: true
+    - id: 15
+      name: tax_id
+      label: Tax ID Number
+      hint: EIN or tax identification
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Main contact person
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: partnership_interest
+      label: Partnership Interest
+      hint: What type of partnership interests you
+      type: select_multiple
+      options:
+      - Distribution
+      - Reselling
+      - Strategic alliance
+      - Joint venture
+      - Technology integration
+      - Co-marketing
+      required: true
+    - id: 21
+      name: capabilities
+      label: Company Capabilities
+      hint: What are your core capabilities
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: target_customers
+      label: Target Customers
+      hint: Who do you serve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: references
+      label: Professional References
+      hint: List 2-3 references
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

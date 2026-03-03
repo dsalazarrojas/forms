@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Discount Eligibility Contact Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: When submitting this inquiry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Title
+      hint: Job position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_zip
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_type
+      label: Type of Business
+      hint: Industry or sector
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_business
+      label: Years in Business
+      hint: How long established
+      type: select_one
+      options:
+      - Less than 1 Year
+      - 1-3 Years
+      - 3-5 Years
+      - 5-10 Years
+      - Over 10 Years
+      required: true
+    - id: 13
+      name: annual_revenue
+      label: Approximate Annual Revenue
+      hint: Business size
+      type: select_one
+      options:
+      - Under 100k
+      - 100k - 500k
+      - 500k - 1M
+      - 1M - 5M
+      - 5M - 10M
+      - Over 10M
+      required: false
+    - id: 14
+      name: number_of_employees
+      label: Number of Employees
+      hint: Company size
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_interest
+      label: Products Interested In
+      hint: What products to purchase
+      type: select_multiple
+      options:
+      - Electronics
+      - Office Supplies
+      - Packaging Materials
+      - Industrial Equipment
+      - Raw Materials
+      - Other
+      required: true
+    - id: 16
+      name: product_description
+      label: Specific Product Description
+      hint: Details of what you need
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: estimated_volume
+      label: Estimated Annual Purchase Volume
+      hint: Approximate quantity
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: minimum_order
+      label: Minimum Order Requirements
+      hint: Your minimum order size
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purchasing_frequency
+      label: Frequency of Purchases
+      hint: How often do you buy
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - As Needed
+      required: false
+    - id: 20
+      name: current_supplier
+      label: Currently Working With Supplier
+      hint: Have existing vendor
+      type: select_one
+      options:
+      - true
+      - false
+      - Looking to Compare
+      required: false
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: Spending capacity
+      type: select_one
+      options:
+      - Under 5000
+      - 5000 - 10000
+      - 10000 - 25000
+      - 25000 - 50000
+      - Over 50000
+      required: false
+    - id: 22
+      name: payment_terms
+      label: Preferred Payment Terms
+      hint: Payment options needed
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      - Credit Card
+      - Wire Transfer
+      - Negotiable
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: Any other details
+      type: text
+      options: []
+      required: false

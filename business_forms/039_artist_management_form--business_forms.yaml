@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Management Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_name
+      label: Legal Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Management Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: If different from artist
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: Manager contact email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: Manager Phone Number
+      hint: Manager contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: management_company
+      label: Management Company or Agency
+      hint: Name of the management entity
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Artist Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_genre
+      label: Primary Genre or Discipline
+      hint: Main performance or art category
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artist_biography
+      label: Artist Biography
+      hint: Professional bio and background
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_active
+      label: Years Active in Industry
+      hint: How long in the business?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Management Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: management_duties
+      label: Primary Management Duties Required
+      hint: Select all applicable duties
+      type: select_multiple
+      options:
+      - Booking and Scheduling
+      - Financial Management
+      - Contract Negotiation
+      - Marketing and Promotion
+      - Social Media Management
+      - Public Relations
+      - Brand Development
+      - Career Planning
+      - Legal and Rights Management
+      required: true
+    - id: 17
+      name: booking_scope
+      label: Scope of Booking Authority
+      hint: What venues or types can manager book?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: financial_authority
+      label: Financial Authority and Responsibilities
+      hint: Budget, accounts, payments managed by?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Commission and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: commission_rate
+      label: Management Commission Rate Percent
+      hint: Percentage of artist revenue to manager
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: contract_term
+      label: Contract Term Length
+      hint: Duration of management agreement
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - Indefinite
+      - TBD
+      required: true
+    - id: 22
+      name: section_header_6
+      label: -- Goals and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: career_goals
+      label: Artist Career Goals and Objectives
+      hint: What does the artist want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: support_needed
+      label: Additional Support or Resources Needed
+      hint: Training, equipment, marketing budget, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: management_agreement
+      label: I Agree to These Management Terms
+      hint: Confirm acceptance of the agreement
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true

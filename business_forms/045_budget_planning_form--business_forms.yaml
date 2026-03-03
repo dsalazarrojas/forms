@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Planning Form
+    pages:
+    - id: 1
+      name: planner_name
+      label: Budget Planner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: planner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: planning_period
+      label: Planning Period
+      hint: Fiscal year or date range
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: budget_date
+      label: Budget Planning Date
+      hint: When is this budget for
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: previous_year_budget
+      label: Previous Year Total Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: requested_budget
+      label: Requested Total Budget
+      hint: Amount needed for upcoming period
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: budget_change_percentage
+      label: Percentage Change from Previous Year
+      hint: Positive or negative
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: personnel_costs
+      label: Personnel and Salary Costs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: operating_expenses
+      label: Operating Expenses
+      hint: Utilities, supplies, facilities
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: capital_expenditures
+      label: Capital Expenditures
+      hint: Equipment, technology, infrastructure
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: other_expenses
+      label: Other Expenses
+      hint: Miscellaneous or contingency
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: revenue_projections
+      label: Revenue Projections
+      hint: Expected income for period
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: budget_contingency
+      label: Contingency Reserve
+      hint: Percentage for unexpected expenses
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: major_initiatives
+      label: Major Initiatives or Projects
+      hint: Large budget items or priorities
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cost_saving_opportunities
+      label: Cost Saving Opportunities Identified
+      hint: Areas to reduce expenses
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: budget_risks
+      label: Budget Risks or Challenges
+      hint: Potential obstacles or concerns
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Under Review
+      - Approved
+      - Rejected
+      - Approved with Revisions
+      required: true
+    - id: 19
+      name: notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expenditure Request Form
+    pages:
+    - id: 1
+      name: expenditure_request_form_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expenditure_request_form_2
+      label: Purpose of Expenditure
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: expenditure_request_form_3
+      label: Budgeted Expenditure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expenditure_request_form_4
+      label: Expenditure Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expenditure_request_form_5
+      label: Requestor's Name
+      hint: null
+      type: text
+      options: []
+      required: false

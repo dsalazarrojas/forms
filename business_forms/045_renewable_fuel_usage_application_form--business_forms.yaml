@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewable Fuel Usage Application Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expected_quantity
+      label: Expected Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: true
+    - id: 5
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

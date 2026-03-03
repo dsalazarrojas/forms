@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Update Communication Form
+    pages:
+    - id: 1
+      name: update_date
+      label: Update Date
+      hint: Date of this communication
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: update_type
+      label: Update Type
+      hint: Category of update
+      type: select_one
+      options:
+      - Weekly Progress
+      - Monthly Progress
+      - Milestone Achievement
+      - Schedule Change
+      - Budget Update
+      - Change Order
+      - Issue Notification
+      - Safety Update
+      - Other
+      required: true
+    - id: 5
+      name: prepared_by
+      label: Prepared By
+      hint: Name of person preparing update
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prepared_by_title
+      label: Prepared By Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: distribution_list
+      label: Distribution List
+      hint: Who will receive this update
+      type: select_multiple
+      options:
+      - Project Owner
+      - Architect
+      - Engineer
+      - General Contractor
+      - Subcontractors
+      - Lenders
+      - City Officials
+      - Community Stakeholders
+      - Other
+      required: true
+    - id: 8
+      name: reporting_period_start
+      label: Reporting Period Start
+      hint: Start date of period covered
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reporting_period_end
+      label: Reporting Period End
+      hint: End date of period covered
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: overall_progress
+      label: Overall Progress
+      hint: Percentage complete
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: schedule_status
+      label: Schedule Status
+      hint: Are you on schedule
+      type: select_one
+      options:
+      - Ahead of Schedule
+      - On Schedule
+      - Slightly Behind
+      - Behind Schedule
+      - Significantly Behind
+      required: true
+    - id: 12
+      name: budget_status
+      label: Budget Status
+      hint: Are you within budget
+      type: select_one
+      options:
+      - Under Budget
+      - On Budget
+      - Slightly Over
+      - Over Budget
+      - Significantly Over
+      required: true
+    - id: 13
+      name: work_completed
+      label: Work Completed This Period
+      hint: Describe accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: work_planned_next
+      label: Work Planned for Next Period
+      hint: Describe upcoming work
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: milestones_achieved
+      label: Milestones Achieved
+      hint: List completed milestones
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: key_deliverables
+      label: Key Deliverables
+      hint: Important items completed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: issues_concerns
+      label: Issues or Concerns
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: change_orders_issued
+      label: Change Orders Issued
+      hint: List any change orders
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rfis_pending
+      label: RFIs Pending
+      hint: List outstanding RFIs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submittals_pending
+      label: Submittals Pending
+      hint: List outstanding submittals
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_incidents
+      label: Safety Incidents
+      hint: Report any incidents
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: weather_impact
+      label: Weather Impact
+      hint: Did weather affect work
+      type: select_one
+      options:
+      - No Impact
+      - Minor Impact
+      - Moderate Impact
+      - Significant Impact
+      required: true
+    - id: 23
+      name: delays_experienced
+      label: Delays Experienced
+      hint: Describe any delays
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: mitigation_plans
+      label: Mitigation Plans
+      hint: How will you address delays
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: photos_attached
+      label: Photos Attached
+      hint: Are progress photos included
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: next_milestone_date
+      label: Next Milestone Date
+      hint: Expected date of next milestone
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: action_items
+      label: Action Items
+      hint: List required actions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: decisions_needed
+      label: Decisions Needed
+      hint: What decisions are required
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: contact_information
+      label: Contact Information
+      hint: Who to contact with questions
+      type: text
+      options: []
+      required: true

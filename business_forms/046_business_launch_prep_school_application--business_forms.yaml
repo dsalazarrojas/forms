@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Launch Prep School Application
+    pages:
+    - id: 1
+      name: section_applicant_profile_blps
+      label: -- Applicant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: blps_applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_employment_status_blps
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time Employed
+      - Part-time Employed
+      - Self-employed
+      - Student
+      - Unemployed
+      required: true
+    - id: 4
+      name: section_business_concept_details
+      label: -- Business Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_concept_summary_blps
+      label: Business Concept Summary
+      hint: Briefly describe what your business will do
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_audience_blps_desc
+      label: Target Audience
+      hint: Who are your ideal customers
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: readiness_statement_blps
+      label: Why are you ready to launch now
+      hint: What makes this the right time for your business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: commitment_to_program_hours_check
+      label: Commitment to Program Hours
+      hint: Can you commit at least 10 hours per week to this program
+      type: select_one
+      options:
+      - Yes, I can commit
+      - No, I have limited time
+      required: true
+    - id: 9
+      name: section_experience_and_goals
+      label: -- Experience and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: previous_business_experience_level
+      label: Previous Business Experience
+      hint: null
+      type: select_one
+      options:
+      - None (First business)
+      - Some (Side projects/freelance)
+      - Experienced (Previous founder)
+      required: true
+    - id: 11
+      name: blps_program_goals_selection
+      label: Goals for the Program
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Product Validation
+      - Business Planning
+      - Financial Literacy
+      - Marketing Strategy
+      - Networking / Mentorship
+      required: true
+    - id: 12
+      name: referral_source_blps_application
+      label: How did you hear about Business Launch Prep School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: application_submission_date_blps
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: blps_terms_agreement_check
+      label: I agree to the program terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

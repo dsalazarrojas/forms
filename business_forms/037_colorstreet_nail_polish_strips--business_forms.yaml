@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: ColorStreet Nail Polish Strips
+    pages:
+    - id: 1
+      name: section_product_order
+      label: -- Order Color Street Nail Strips --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_selection
+      label: -- Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: strip_type
+      label: What type of strips are you ordering?
+      hint: null
+      type: select_multiple
+      options:
+      - Solids
+      - Glitters
+      - Glitter Designs
+      - Art Designs
+      - French
+      - Pedicure
+      required: true
+    - id: 8
+      name: sets_to_purchase
+      label: Names of sets to purchase
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sets_total_count
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_billing
+      label: -- Billing and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: billing_method
+      label: Preferred Payment
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Venmo
+      - Credit Card
+      required: true
+    - id: 12
+      name: delivery_speed
+      label: Shipping Choice
+      hint: null
+      type: select_one
+      options:
+      - Standard ($3.00)
+      - Priority ($8.00)
+      required: true
+    - id: 13
+      name: order_comments
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

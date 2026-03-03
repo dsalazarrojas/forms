@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Quality Report Request Form
+    pages:
+    - id: 1
+      name: vendor
+      label: vendor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue_details
+      label: issue_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: severity
+      label: severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: evidence
+      label: evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_reported
+      label: date_reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_reported
+      label: time_reported
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: issue_summary
+      label: issue_summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: impact_assessed
+      label: impact_assessed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_planned
+      label: action_planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_status
+      label: action_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: close_date
+      label: close_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: close_time
+      label: close_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: close_status
+      label: close_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partner Agent Contact Sharing Consent Form
+    pages:
+    - id: 1
+      name: partner_agent_contact_sharing_consent_form
+      label: Partner Agent Contact Sharing Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Allow partner agent to access my contact information''}'
+      - '{''value'': ''Do not allow partner agent to access my contact information''}'
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_agent_name
+      label: Partner Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: partner_agent_email
+      label: Partner Agent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: partner_agent_phone
+      label: Partner Agent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: partner_agent_address
+      label: Partner Agent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sharing_consent
+      label: Sharing Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Allow partner agent to access my email address''}'
+      - '{''value'': ''Allow partner agent to access my phone number''}'
+      - '{''value'': ''Allow partner agent to access my contact address''}'
+      required: true

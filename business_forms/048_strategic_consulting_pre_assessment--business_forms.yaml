@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Consulting Pre Assessment
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 100+
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - finance
+      - healthcare
+      - technology
+      - marketing
+      - other
+      required: false
+    - id: 7
+      name: challenge
+      label: Challenge
+      hint: Briefly describe the challenge you're facing
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: goal
+      label: Goal
+      hint: null
+      type: select_one
+      options:
+      - Grow
+      - Improve
+      - Optimize
+      - Enhance
+      - Other
+      required: false
+    - id: 9
+      name: readiness
+      label: Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: engagement_date
+      label: Engagement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: budget
+      label: Budget
+      hint: null
+      type: select_one
+      options:
+      - $0-10,000
+      - $10,001-50,000
+      - $50,001-100,000
+      - $100,001-500,000
+      - $500,001+
+      required: false
+    - id: 15
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - Existing
+      - New
+      required: false
+    - id: 18
+      name: meeting_link
+      label: Meeting Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

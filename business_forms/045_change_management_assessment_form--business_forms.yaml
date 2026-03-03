@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Assessment Form
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Department being assessed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: change_initiative
+        label: Change Initiative
+        hint: Name of change project
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: initiative_start_date
+        label: Initiative Start Date
+        hint: When did change initiative begin
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: initiative_end_date
+        label: Expected End Date
+        hint: When is change expected to be complete
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: change_type
+        label: Change Type
+        hint: Category of change
+        type: select_one
+        options:
+          - Process change
+          - Technology implementation
+          - Organizational restructuring
+          - Cultural transformation
+          - Policy procedure update
+          - Merger acquisition
+          - Leadership change
+          - Other
+        required: true
+      - id: 8
+        name: change_scope
+        label: Change Scope
+        hint: Scope of change initiative
+        type: select_one
+        options:
+          - Individual
+          - Team
+          - Department
+          - Division
+          - Organization-wide
+          - Multi-organization
+        required: true
+      - id: 9
+        name: readiness_level
+        label: Organizational Readiness Level
+        hint: How ready is the organization
+        type: select_one
+        options:
+          - Very ready
+          - Ready
+          - Somewhat ready
+          - Not ready
+          - Resistant
+        required: true
+      - id: 10
+        name: stakeholder_support
+        label: Stakeholder Support Level
+        hint: Level of stakeholder support
+        type: select_one
+        options:
+          - Strong support
+          - Moderate support
+          - Neutral
+          - Some resistance
+          - Strong resistance
+        required: true
+      - id: 11
+        name: resource_availability
+        label: Resource Availability
+        hint: Are resources adequate for change
+        type: select_one
+        options:
+          - Fully resourced
+          - Adequately resourced
+          - Partially resourced
+          - Under-resourced
+          - No resources allocated
+        required: true
+      - id: 12
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: How effective has communication been
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: training_needs
+        label: Training Needs Assessment
+        hint: What training is needed
+        type: select_multiple
+        options:
+          - Technical skills
+          - Process training
+          - Soft skills
+          - Leadership development
+          - Change management
+          - System training
+          - No training needed
+        required: true
+      - id: 14
+        name: risk_level
+        label: Risk Level
+        hint: What is the risk level of this change
+        type: select_one
+        options:
+          - Low risk
+          - Moderate risk
+          - High risk
+          - Critical risk
+        required: true
+      - id: 15
+        name: identified_risks
+        label: Identified Risks
+        hint: List key risks
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: impact_on_operations
+        label: Impact on Operations
+        hint: How will operations be affected
+        type: select_one
+        options:
+          - Minimal impact
+          - Moderate impact
+          - Significant impact
+          - Major disruption
+        required: true
+      - id: 17
+        name: impact_on_employees
+        label: Impact on Employees
+        hint: How will employees be affected
+        type: select_one
+        options:
+          - Minimal impact
+          - Moderate impact
+          - Significant impact
+          - Major impact
+        required: true
+      - id: 18
+        name: success_criteria
+        label: Success Criteria
+        hint: How will success be measured
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: milestones
+        label: Key Milestones
+        hint: List major milestones
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: barriers_identified
+        label: Barriers Identified
+        hint: What barriers exist
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: recommendations
+        label: Recommendations
+        hint: What actions are recommended
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: assessment_conclusion
+        label: Assessment Conclusion
+        hint: Overall assessment conclusion
+        type: select_one
+        options:
+          - Proceed as planned
+          - Proceed with modifications
+          - Delay and reassess
+          - Do not proceed
+        required: true
+      - id: 23
+        name: assessor_signature
+        label: Assessor Signature
+        hint: Type your full name as signature
+        type: text
+        options: []
+        required: true

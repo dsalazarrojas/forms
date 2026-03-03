@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Business Startup Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: owner_first_name
+      label: Owner First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_last_name
+      label: Owner Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: Name of your barbershop
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: What type of barbershop?
+      type: select_one
+      options:
+      - Traditional Barbershop
+      - Modern Barbershop
+      - Specialty/Niche Barbershop
+      - Mobile Barbering
+      - Corporate/Salon Chain
+      required: true
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: Street address of shop
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State location
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: startup_date
+      label: Expected Startup Date
+      hint: When will you open?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: barbers_count
+      label: Number of Barbers
+      hint: How many barbers will work there?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: chairs_count
+      label: Number of Barber Chairs
+      hint: How many stations?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: services_offered
+      label: Services Offered
+      hint: Select all services
+      type: select_multiple
+      options:
+      - Hair Cutting
+      - Beard Trimming
+      - Hair Coloring
+      - Scalp Treatments
+      - Shaving Services
+      - Waxing
+      - Styling
+      - Straight Razor Shaves
+      required: true
+    - id: 16
+      name: specialties
+      label: Specializations or Niches
+      hint: Any specialty services?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: target_clientele
+      label: Target Clientele
+      hint: Who is your main customer?
+      type: select_one
+      options:
+      - All Age Groups
+      - Men Only
+      - Youth/Gen-Z
+      - Professional Men
+      - Ethnic/Cultural Specific
+      - Other
+      required: true
+    - id: 18
+      name: business_license
+      label: Have Business License
+      hint: Is license obtained?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 19
+      name: barber_licenses
+      label: Barber Licenses Current
+      hint: Are all licenses current?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some In Progress
+      - Need to Apply
+      required: true
+    - id: 20
+      name: liability_insurance
+      label: Liability Insurance
+      hint: Do you have coverage?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Shopping for Coverage
+      required: true
+    - id: 21
+      name: startup_capital
+      label: Approximate Startup Capital
+      hint: Total investment amount
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: funding_source
+      label: Funding Source
+      hint: Where is money coming from?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: business_experience
+      label: Years of Barbering Experience
+      hint: How long have you been in industry?
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: business_plan_ready
+      label: Business Plan Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: false

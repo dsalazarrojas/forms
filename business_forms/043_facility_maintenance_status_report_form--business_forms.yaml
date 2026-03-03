@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Status Report Form
+    pages:
+    - id: 1
+      name: facility_maintenance_status_report_form
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 2
+      name: facility_maintenance_request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: facility_maintenance_status_description
+      label: status_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_maintenance_priority
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: facility_maintenance_category
+      label: facility_category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 6
+      name: facility_maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 7
+      name: facility_maintenance_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Inactive
+      required: false
+    - id: 8
+      name: facility_maintenance_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: facility_maintenance_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: facility_maintenance_last_updated
+      label: last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: facility_maintenance_assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 12
+      name: facility_maintenance_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_maintenance_attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_maintenance_attachments_type
+      label: attachments_type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 15
+      name: facility_maintenance_requester
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 16
+      name: facility_maintenance_requesting_date
+      label: requesting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: facility_maintenance_last_updated_by
+      label: last_updated_by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 18
+      name: facility_maintenance_status_changed
+      label: status_changed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_maintenance_status_reason
+      label: status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_maintenance_attachments_count
+      label: attachments_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: facility_maintenance_status_change_date
+      label: status_change_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: facility_maintenance_previous_status
+      label: previous_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 23
+      name: facility_maintenance_status_change_reason
+      label: status_change_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_maintenance_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_maintenance_status_change_user
+      label: status_change_user
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: green_building_certification_approval_form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Green Building
+      - Non-Green Building
+      - Other
+      - Mixed Use
+      required: false
+    - id: 5
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      - Not Applicable
+      required: false
+    - id: 6
+      name: compliance_documentation
+      label: Compliance Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_specifications
+      label: Project Specifications
+      hint: Please provide a detailed description of the project specifications.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: certification_requirements
+      label: Certification Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_code_certification
+      label: Building Code Certification
+      hint: null
+      type: select_multiple
+      options:
+      - IBC 2018
+      - ASHE
+      - ASME
+      - Other
+      required: false
+    - id: 10
+      name: energy_audit_results
+      label: Energy Audit Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: energy_audit_date
+      label: Energy Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: energy_audit_performed_by
+      label: Energy Audit Performed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: green_building_certification_date
+      label: Green Building Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: green_building_certification_status
+      label: Green Building Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Withdrawn
+      required: false
+    - id: 15
+      name: building_type
+      label: Building Type
+      hint: Please select the building type below.
+      type: select_multiple
+      options:
+      - Commercial Building
+      - Residential Building
+      - Industrial Building
+      - Other
+      required: false
+    - id: 16
+      name: green_building_certification_level
+      label: Green Building Certification Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      required: false
+    - id: 17
+      name: building_sqft
+      label: Building Square Footage
+      hint: Please enter the total building square footage.
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: project_cost
+      label: Project Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Suspended
+      - Cancelled
+      required: false
+    - id: 20
+      name: green_building_certification_points
+      label: Green Building Certification Points
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: carbon_footprint
+      label: Carbon Footprint
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: water_consumption
+      label: Water Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: waste_water_reduction
+      label: Waste Water Reduction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: energy_savings
+      label: Energy Savings
+      hint: null
+      type: number
+      options: []
+      required: false

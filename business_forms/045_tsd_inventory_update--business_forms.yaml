@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: TSD Inventory Update
+    pages:
+    - id: 1
+      name: inventory_form
+      label: Inventory Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_form
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product 1''}'
+      - '{''label'': ''Product 2''}'
+      - '{''label'': ''Product 3''}'
+      required: false
+    - id: 3
+      name: quantity_form
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: warehouse_form
+      label: Warehouse
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Warehouse 1''}'
+      - '{''label'': ''Warehouse 2''}'
+      - '{''label'': ''Warehouse 3''}'
+      required: false
+    - id: 5
+      name: update_button
+      label: Update
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Jim''}'
+      required: false
+    - id: 9
+      name: assigned_by
+      label: Assigned by
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Jim''}'
+      - '{''label'': ''Joe''}'
+      required: false
+    - id: 10
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

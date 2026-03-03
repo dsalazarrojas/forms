@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_investment_guide
+    pages:
+    - id: 1
+      name: investment_preferences
+      label: Investment Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplierQualityReviewRegistrationForm
+    pages:
+    - id: 1
+      name: supplier
+      label: supplyer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suppliercertificationlevel
+      label: supplierCertificationLevel
+      hint: 'Select one of the following:'
+      type: select_one
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      required: false
+    - id: 3
+      name: certificationtype
+      label: certificationType
+      hint: null
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 9000
+      - AS 9100
+      - AS 9000
+      required: false
+    - id: 4
+      name: auditdetails
+      label: auditDetails
+      hint: Describe the audit details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: additionalNotes
+      hint: null
+      type: note
+      options: []
+      required: false

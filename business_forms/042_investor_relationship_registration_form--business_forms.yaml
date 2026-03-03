@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Relationship Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Private''}'
+      - '{''value'': ''Public''}'
+      - '{''value'': ''Limited''}'
+      required: false
+    - id: 9
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Partner''}'
+      - '{''value'': ''Customer''}'
+      - '{''value'': ''Supplier''}'
+      required: false
+    - id: 10
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Equity''}'
+      - '{''value'': ''Debt''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 11
+      name: investment_amount
+      label: Investment Amount
+      hint: Please enter the investment amount_goals_1
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: investment_date
+      label: Investment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: investment_amount_goals_1
+      label: Investment Amount Goals 1
+      hint: Please enter the investment amount_goals_1
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: prophets Notes
+      hint: null
+      type: note
+      options: []
+      required: false

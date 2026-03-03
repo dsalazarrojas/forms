@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Video Localization Request Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_url
+      label: Product URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: target_language
+      label: Target Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: localization_requirement
+      label: Localization Requirement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: target_language_options
+      label: Target Language Options
+      hint: null
+      type: select_multiple
+      options:
+      - option
+      - option
+      - option
+      required: false
+    - id: 8
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_deadline
+      label: Submission Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_email
+      label: Submission Email
+      hint: null
+      type: email
+      options: []
+      required: false

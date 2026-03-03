@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Supply Order Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_type
+      label: Company Type
+      hint: Select your organization type
+      type: select_one
+      options:
+      - School
+      - Library
+      - Bookstore
+      - University
+      - Corporate
+      - Government
+      - Nonprofit
+      - Other
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: item_1_title
+      label: Item 1 Title
+      hint: Title of first item
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_1_author
+      label: Item 1 Author
+      hint: Author of first item
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: item_1_isbn
+      label: Item 1 ISBN
+      hint: ISBN if available
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: How many copies
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: item_1_format
+      label: Item 1 Format
+      hint: Select format
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook License
+      - Library Binding
+      - Other
+      required: true
+    - id: 18
+      name: item_2_title
+      label: Item 2 Title
+      hint: Title of second item
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_2_author
+      label: Item 2 Author
+      hint: Author of second item
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: How many copies
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: item_3_title
+      label: Item 3 Title
+      hint: Title of third item
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: item_3_author
+      label: Item 3 Author
+      hint: Author of third item
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: How many copies
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_items
+      label: Total Number of Items
+      hint: Total quantity ordered
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Your budget for this order
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - Over $5000
+      required: false
+    - id: 26
+      name: shipping_method
+      label: Shipping Method
+      hint: Select shipping preference
+      type: select_one
+      options:
+      - Standard
+      - Expedited
+      - Overnight
+      - Will Call Pickup
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Purchase Order
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Invoice
+      required: true
+    - id: 28
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

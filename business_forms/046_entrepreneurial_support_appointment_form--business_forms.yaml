@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entrepreneurial Support Appointment Form
+    pages:
+    - id: 1
+      name: entrepreneur_support_appointment_form
+      label: business_support_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: business_advisor
+      label: select_business_advisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: appointment_datetime
+      label: select_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_duration
+      label: select_appointment_duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_location
+      label: select_business_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: preferred_language
+      label: select_preferred_language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: schedule_appointment
+      label: schedule_appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: schedule_datetime
+      label: select_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: business_contact_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: business_contact_phone
+      label: select_business_phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: select_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirm_appointment
+      label: confirm_appointment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

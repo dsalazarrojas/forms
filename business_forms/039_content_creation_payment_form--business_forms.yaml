@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Payment Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id
+      label: Client Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_payment_details
+      label: -- Payment and Service Details --
+      hint: Please share details for the payment and service rendered.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_rendered
+      label: Content Creation Service Rendered
+      hint: null
+      type: select_one
+      options:
+      - Photography
+      - Videography
+      - Graphic Design
+      - Copywriting
+      - Social Media Content
+      - Other
+      required: true
+    - id: 7
+      name: payment_amount
+      label: Total Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_date
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 10
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_confirmed
+      label: Payment Confirmed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Any questions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: date_of_receipt
+      label: Date of Payment Receipt
+      hint: null
+      type: date
+      options: []
+      required: true

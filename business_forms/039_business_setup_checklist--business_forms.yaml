@@ -1,0 +1,232 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Setup Checklist
+    pages:
+      - id: 1
+        name: section_business_info
+        label: -- Business Information --
+        type: note
+        required: false
+      - id: 2
+        name: business_name
+        label: Business Name
+        hint: Your new business name
+        type: text
+        required: true
+      - id: 3
+        name: owner_name
+        label: Owner Name
+        hint: Your name
+        type: text
+        required: true
+      - id: 4
+        name: start_date
+        label: Planned Start Date
+        hint: When do you want to launch
+        type: date
+        required: true
+      - id: 5
+        name: section_legal
+        label: -- Legal Structure and Registration --
+        type: note
+        required: false
+      - id: 6
+        name: business_structure_selected
+        label: Business Structure Selected
+        hint: Have you decided on sole prop, LLC, etc.
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 7
+        name: business_license_obtained
+        label: Business License Obtained
+        hint: Local or state business license
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 8
+        name: ein_applied
+        label: EIN (Employer ID Number) Applied
+        hint: Federal tax identification
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 9
+        name: dba_registered
+        label: DBA (Doing Business As) Registered
+        hint: If using a trade name
+        type: select_one
+        options:
+          - Not needed
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 10
+        name: section_financial
+        label: -- Financial Setup --
+        type: note
+        required: false
+      - id: 11
+        name: business_bank_account
+        label: Business Bank Account Opened
+        hint: Separate business banking
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 12
+        name: accounting_system
+        label: Accounting System Setup
+        hint: QuickBooks, spreadsheet, etc.
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 13
+        name: business_insurance
+        label: Business Insurance Obtained
+        hint: Liability, property, etc.
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 14
+        name: section_operations
+        label: -- Operational Setup --
+        type: note
+        required: false
+      - id: 15
+        name: location_secured
+        label: Business Location Secured
+        hint: Office, storefront, or home base
+        type: select_one
+        options:
+          - Not needed
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 16
+        name: equipment_purchased
+        label: Essential Equipment Purchased
+        hint: Computer, furniture, tools, etc.
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 17
+        name: software_systems
+        label: Software and Systems Set Up
+        hint: Email, website, POS, CRM, etc.
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 18
+        name: section_marketing
+        label: -- Marketing and Branding --
+        type: note
+        required: false
+      - id: 19
+        name: branding_developed
+        label: Branding Developed
+        hint: Logo, brand colors, messaging
+        type: select_one
+        options:
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 20
+        name: website_created
+        label: Website Created
+        hint: Business website
+        type: select_one
+        options:
+          - Not needed
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 21
+        name: social_media_setup
+        label: Social Media Accounts Set Up
+        hint: Facebook, Instagram, LinkedIn, etc.
+        type: select_one
+        options:
+          - Not needed
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 22
+        name: section_staffing
+        label: -- Staffing and HR --
+        type: note
+        required: false
+      - id: 23
+        name: payroll_system
+        label: Payroll System Set Up
+        hint: If hiring employees
+        type: select_one
+        options:
+          - Not needed
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 24
+        name: hr_policies
+        label: HR Policies Developed
+        hint: Employee handbook, policies
+        type: select_one
+        options:
+          - Not needed
+          - Not started
+          - In progress
+          - Completed
+        required: true
+      - id: 25
+        name: overall_status
+        label: Overall Setup Status
+        hint: How complete is your setup
+        type: select_one
+        options:
+          - Just starting
+          - 25 percent complete
+          - 50 percent complete
+          - 75 percent complete
+          - Ready to launch
+        required: true

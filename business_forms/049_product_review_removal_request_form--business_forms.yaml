@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Removal Request Form
+    pages:
+    - id: 1
+      name: review_removal_request
+      label: Review Removal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_removal
+      label: Reason for Removal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: link_to_review
+      label: Link to Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evidence
+      label: Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_link
+      label: Review Link
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Amazon''}'
+      - '{''label'': ''eBay''}'
+      - '{''label'': ''Facebook''}'
+      required: true
+    - id: 6
+      name: product_title
+      label: Product Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false

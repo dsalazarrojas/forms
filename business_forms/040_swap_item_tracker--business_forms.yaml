@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: swap-item-tracker
+    pages:
+    - id: 1
+      name: user_info_form
+      label: First Name
+      hint: First Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exchange_status_form
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: exchange_status_form_options
+      label: Select Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo
+      label: Photo 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: photo_alt
+      label: Photo 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: swap_date
+      label: Swap Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exchange_date
+      label: Exchange Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

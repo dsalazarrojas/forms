@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sepa’s Color Match Form
+    pages:
+    - id: 1
+      name: color_match
+      label: Color Match
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: color_match_1
+      label: Match Color 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: color_match_2
+      label: Match Color 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: face_shape
+      label: Face Shape
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: face_shape_1
+      label: Oval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

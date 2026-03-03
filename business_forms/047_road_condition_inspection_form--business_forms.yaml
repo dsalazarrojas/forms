@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Condition Inspection Form
+    pages:
+    - id: 1
+      name: road_condition_inspection
+      label: road condition inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_one
+      label: section one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_two
+      label: section two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_three
+      label: section three
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_four
+      label: section four
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: road_condition_rating
+      label: road condition rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: road_condition_rating_note
+      label: road condition rating note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: road_defects
+      label: road defects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: road_defects_note
+      label: road defects note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: road_condition_comments
+      label: road condition comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: road_condition_comments_note
+      label: road condition comments note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

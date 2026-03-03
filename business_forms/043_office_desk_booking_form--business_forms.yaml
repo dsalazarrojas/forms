@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_desk_booking_form
+    pages:
+    - id: 1
+      name: office_desk_booking_form_page
+      label: office_desk_booking_form_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user
+      label: user
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: desk
+      label: desk
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 043_office_desk_booking_form--business_forms
+      - Other
+      required: true

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: DevOps Readiness Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: devops_experience
+      label: DevOps Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ci_cd
+      label: Continuous Integration and Continuous Delivery
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Manual
+      - Hybrid
+      required: true
+    - id: 5
+      name: automated_test
+      label: Automated Test
+      hint: null
+      type: select_multiple
+      options:
+      - Automated
+      - Manual
+      - None
+      required: true
+    - id: 6
+      name: ci_pipeline
+      label: Continuous Integration Pipeline
+      hint: null
+      type: select_one
+      options:
+      - Jenkins
+      - GitLab CI/CD
+      - None
+      required: false
+    - id: 7
+      name: ci_pipeline_version
+      label: CI Pipeline Version
+      hint: null
+      type: select_one
+      options:
+      - 2.7.4
+      - '3.3'
+      - '4.0'
+      - None
+      required: false
+    - id: 8
+      name: cd_pipeline
+      label: Continuous Delivery
+      hint: null
+      type: select_one
+      options:
+      - Jenkins
+      - GitLab CI/CD
+      - None
+      required: true
+    - id: 9
+      name: ci_cd_pipeline_version
+      label: CD Pipeline Version
+      hint: null
+      type: select_one
+      options:
+      - Jenkins
+      - GitLab CI/CD
+      - None
+      required: true
+    - id: 10
+      name: ci_server
+      label: CI Server
+      hint: null
+      type: select_one
+      options:
+      - Jenkins
+      - GitLab CI/CD
+      - None
+      required: true
+    - id: 11
+      name: monitoring
+      label: Monitoring
+      hint: null
+      type: select_one
+      options:
+      - Prometheus
+      - NewRelic
+      - None
+      required: true
+    - id: 12
+      name: log_collection
+      label: Log Collection
+      hint: null
+      type: select_one
+      options:
+      - ELK
+      - Splunk
+      - None
+      required: true
+    - id: 13
+      name: feedback
+      label: How was this form helpful?
+      hint: null
+      type: select_one
+      options:
+      - Very helpful
+      - Somewhat helpful
+      - Not helpful
+      required: true
+    - id: 14
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

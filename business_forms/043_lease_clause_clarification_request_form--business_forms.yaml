@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Clause Clarification Request Form
+    pages:
+    - id: 1
+      name: lease_clause_clarification_request_form
+      label: lease_clause_clarification_request_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: clarification_request
+      label: clarification_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: clarification_needed
+      label: clarification_needed
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Tenant
+      - Other
+      required: false
+    - id: 7
+      name: clarification_request_date
+      label: clarification_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: clarification_request_time
+      label: clarification_request_time
+      hint: null
+      type: time
+      options: []
+      required: false

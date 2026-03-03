@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Cost Reporting Consent Form
+    pages:
+    - id: 1
+      name: tenant_consent
+      label: tenant consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: utility_type
+      label: utility type
+      hint: select one
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Electric''}'
+      - '{''id'': 2, ''label'': ''Gas''}'
+      - '{''id'': 3, ''label'': ''Water''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: collection_period
+      label: collection period
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''Yearly''}'
+      required: false
+    - id: 4
+      name: reporting_frequency
+      label: reporting frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One Time''}'
+      - '{''id'': 2, ''label'': ''Every 3 months''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - '{''id'': 4, ''label'': ''Bi-Monthly''}'
+      required: false
+    - id: 5
+      name: collection_date
+      label: collection date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: collection_time
+      label: collection time
+      hint: "HH:mm"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reporting_note
+      label: reporting note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: utility_cost_reporting_consent
+      label: utility cost reporting consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false

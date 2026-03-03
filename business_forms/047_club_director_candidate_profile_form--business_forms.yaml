@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Director Candidate Profile Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_background
+      label: -- Background Information --
+      hint: Candidate's profile and history
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: club_involvement
+      label: Years of Club Involvement
+      hint: How long involved in the club
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: previous_roles
+      label: Previous Club Roles or Positions
+      hint: Positions held in the past
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: leadership_experience
+      label: Leadership Experience
+      hint: Brief description of leadership roles
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: club_attendance
+      label: Club Attendance Record
+      hint: null
+      type: select_one
+      options:
+      - Excellent - attends all meetings
+      - Good - attends most meetings
+      - Average - attends some meetings
+      - Poor - rarely attends
+      required: true
+    - id: 9
+      name: section_qualifications
+      label: -- Qualifications and Skills --
+      hint: Why this candidate is qualified
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: key_strengths
+      label: Key Strengths as a Leader
+      hint: null
+      type: select_multiple
+      options:
+      - Communication skills
+      - Organization and planning
+      - Decision making
+      - Team building
+      - Problem solving
+      - Financial management
+      - Strategic thinking
+      - Conflict resolution
+      required: true
+    - id: 11
+      name: relevant_skills
+      label: Relevant Skills or Certifications
+      hint: Professional qualifications
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: education_background
+      label: Education Background
+      hint: Schools, degrees, training
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_vision
+      label: -- Vision and Goals --
+      hint: What the candidate hopes to achieve
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: director_vision
+      label: Vision for the Club as Director
+      hint: What will you do differently
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specific_goals
+      label: Specific Goals for This Term
+      hint: Concrete objectives to achieve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: challenges_plan
+      label: How Will You Address Club Challenges
+      hint: Solutions to current problems
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_commitment
+      label: -- Commitment and Availability --
+      hint: Time and energy commitment
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: time_commitment
+      label: Time Available Per Week
+      hint: Hours per week for director role
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: term_length
+      label: Willing to Serve Full Term
+      hint: null
+      type: select_one
+      options:
+      - Yes, full term
+      - Yes, partial term
+      - Undecided
+      - false
+      required: true
+    - id: 20
+      name: availability
+      label: General Availability
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Limited flexibility
+      - Restricted availability
+      required: true
+    - id: 21
+      name: section_references
+      label: -- References --
+      hint: Character references
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reference_1
+      label: Reference 1 Name and Contact
+      hint: Someone who knows your work
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reference_2
+      label: Reference 2 Name and Contact
+      hint: Another person for reference
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you want committee to know
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: candidate_signature
+      label: Candidate Signature (Print Name)
+      hint: I certify the above information is accurate
+      type: text
+      options: []
+      required: true

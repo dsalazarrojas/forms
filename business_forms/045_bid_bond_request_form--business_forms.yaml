@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bid Bond Request Form
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Legal Name
+      hint: Official registered name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_type
+      label: Company Type
+      hint: What type of business?
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - Limited liability company
+      - Corporation
+      - Other business entity
+      required: true
+    - id: 4
+      name: registration_number
+      label: Company Registration or License Number
+      hint: Business license ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_in_business
+      label: Years in Business
+      hint: How long have you been operating?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for this request
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Person Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: office_address
+      label: Office Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_project
+      label: -- Project/Bid Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_name
+      label: Project or Contract Name
+      hint: What is the project?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_owner
+      label: Project Owner or Agency
+      hint: Who is awarding the contract?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: bid_amount
+      label: Estimated Bid Amount
+      hint: Amount of your bid
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - Other
+      required: true
+    - id: 18
+      name: bid_deadline
+      label: Bid Submission Deadline
+      hint: When is the bid due?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: project_start_date
+      label: Project Start Date
+      hint: When would work begin?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: project_duration
+      label: Project Duration
+      hint: Expected length of project
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_bond
+      label: -- Bond Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: bond_type
+      label: Type of Bond Requested
+      hint: What type of bond do you need?
+      type: select_one
+      options:
+      - Bid bond
+      - Performance bond
+      - Payment bond
+      - Combined bid and performance
+      - Other
+      required: true
+    - id: 23
+      name: bond_percentage
+      label: Bond Amount as Percentage of Bid
+      hint: Typically 5-10% of bid amount
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: bond_required_amount
+      label: Total Bond Amount Required
+      hint: Dollar amount of bond
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: section_header_financial
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: annual_revenue
+      label: Annual Company Revenue
+      hint: Last fiscal year revenue
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: current_bonding
+      label: Current Bonding Capacity
+      hint: Existing bonding limit
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: credit_rating
+      label: Company Credit Rating
+      hint: Excellent, good, fair, poor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unknown
+      required: false
+    - id: 29
+      name: bank_reference
+      label: Bank Reference Name and Contact
+      hint: Your primary bank
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: section_header_claims
+      label: -- Claims and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: prior_claims
+      label: Any Prior Bond Claims Against Your Company
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 32
+      name: claims_description
+      label: Describe Prior Claims (if applicable)
+      hint: Details of any previous claims
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: compliance
+      label: Your Company Will Comply with All Contract Terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, we commit to compliance
+      - Yes, with conditions
+      - Requires clarification
+      - false
+      required: true
+    - id: 34
+      name: additional_information
+      label: Additional Information or Context
+      hint: Anything else relevant?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Allocation And Exchange Form
+    pages:
+    - id: 1
+      name: vehicle_allocation_and_exchange_form
+      label: Vehicle Allocation And Exchange Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Truck''}'
+      - '{''id'': 3, ''label'': ''Van''}'
+      required: false
+    - id: 4
+      name: vehicle_number
+      label: vehicle_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exchange_status
+      label: exchange_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Available''}'
+      - '{''id'': 2, ''label'': ''In Exchange''}'
+      - '{''id'': 3, ''label'': ''Allocated''}'
+      required: false
+    - id: 6
+      name: allocation_date
+      label: allocation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: allocated_to
+      label: allocated_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allocation_notes
+      label: allocation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_returned
+      label: vehicle_returned
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: vehicle_returned_date
+      label: vehicle_returned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_returned_time
+      label: vehicle_returned_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_allocation_note
+      label: vehicle_allocation_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Safety Expert Contact Form
+    pages:
+    - id: 1
+      name: form_data_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_data_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_data_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_data_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_data_5
+      label: Company
+      hint: Company Name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_data_6
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_data_7
+      label: Expertise
+      hint: Select Expertise
+      type: select_multiple
+      options:
+      - Chemical
+      - Mechanical
+      - Electrical
+      - Civil
+      - Structural
+      - Environmental
+      required: false
+    - id: 8
+      name: form_data_8
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_data_9
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

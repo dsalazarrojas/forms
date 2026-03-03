@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_for_leave
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: from_date
+      label: from_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: to_date
+      label: to_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: days_required
+      label: days_required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 8
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_comment
+      label: employee_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false

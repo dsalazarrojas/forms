@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Departmental Budget Support Request Form
+    pages:
+    - id: 1
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requested_amount
+      label: Requested Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: budget_start_date
+      label: Budget Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: budget_end_date
+      label: Budget End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: documents
+      label: Attach Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachments
+      label: Attach Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - Finance Team
+      - Admin Team
+      required: true
+    - id: 9
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true

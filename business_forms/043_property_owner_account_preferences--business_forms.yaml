@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Owner Account Preferences
+    pages:
+    - id: 1
+      name: owner_contact_details
+      label: Owner Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: primary_contact_method
+      label: Primary Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Mail''}'
+      required: false
+    - id: 3
+      name: owner_communication_preferences
+      label: Owner Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Mail''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: false
+    - id: 4
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_note
+      label: Owner Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hoa_communication_preferences
+      label: HOA Communication Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false

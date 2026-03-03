@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_billing_form
+    pages:
+    - id: 1
+      name: billing_information
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 15
+      - Due Upon Receipt
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Card
+      - Cash
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_country
+      label: Billing Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Hardware Repair
+      - Software Support
+      - Network Configuration
+      - IT Consulting
+      - Training
+      required: false
+    - id: 13
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

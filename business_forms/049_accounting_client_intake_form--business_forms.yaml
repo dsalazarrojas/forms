@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Client Intake Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person (if business)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_business_info
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_type
+      label: Business Entity Type
+      hint: null
+      type: select_one
+      options:
+      - Sole proprietorship
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Partnership
+      - Non-profit
+      - Individual (no business)
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ein
+      label: Employer Identification Number (EIN)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: annual_revenue
+      label: Approximate Annual Revenue
+      hint: null
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - $500,000 - $1 million
+      - Over $1 million
+      required: true
+    - id: 14
+      name: fiscal_year_end
+      label: Fiscal Year End Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 15
+      name: section_services
+      label: -- Services Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: services_requested
+      label: Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bookkeeping
+      - Tax preparation (individual)
+      - Tax preparation (business)
+      - Payroll
+      - Financial statements
+      - Tax planning
+      - Audit or review
+      - Business consulting
+      - Other
+      required: true
+    - id: 17
+      name: current_accounting_software
+      label: Current Accounting Software
+      hint: null
+      type: select_one
+      options:
+      - QuickBooks Online
+      - QuickBooks Desktop
+      - Xero
+      - FreshBooks
+      - Wave
+      - Sage
+      - None
+      - Other
+      required: true
+    - id: 18
+      name: previous_accountant
+      label: Do You Currently Have an Accountant or Bookkeeper
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Previously had one
+      required: true
+    - id: 19
+      name: reason_for_change
+      label: Reason for Seeking New Accounting Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tax_issues
+      label: Are There Any Outstanding Tax Issues or IRS Notices
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      - In-person
+      required: true
+    - id: 22
+      name: additional_info
+      label: Additional Information or Questions
+      hint: Anything else you would like us to know about your accounting needs
+      type: text
+      options: []
+      required: false

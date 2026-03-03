@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Formation Authorization Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposed_business_name
+      label: Proposed Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: Structure of business
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: state_of_formation
+      label: State of Formation
+      hint: Where will it be formed?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Principal Place of Business
+      hint: Physical address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry Classification
+      hint: Type of business
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_purpose
+      label: Business Purpose
+      hint: What will business do?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authorized_person
+      label: -- Authorized Person --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: person_name
+      label: Full Name
+      hint: Name of authorizing person
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: person_title
+      label: Title or Role
+      hint: Position or relationship
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: person_address
+      label: Personal Address
+      hint: Home or business address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: person_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: person_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: ownership_interest
+      label: Ownership Interest
+      hint: Percentage ownership
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: authorization_details
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: authority_granted
+      label: Authority Granted
+      hint: What authority is granted?
+      type: select_multiple
+      options:
+      - File Formation Documents
+      - Sign on Behalf of Business
+      - Open Bank Accounts
+      - Enter into Contracts
+      - Hire Employees
+      - Make Financial Decisions
+      - Represent Business Legally
+      required: true
+    - id: 17
+      name: authorization_scope
+      label: Authorization Scope
+      hint: Is this limited?
+      type: select_one
+      options:
+      - Full Authority
+      - Limited to Specific Acts
+      - Temporary Authorization
+      - Other
+      required: true
+    - id: 18
+      name: scope_limitations
+      label: Scope Limitations
+      hint: Any limits on authority?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: effective_date
+      label: Effective Date
+      hint: When does authorization start?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: expiration_date
+      label: Expiration Date
+      hint: When does it end?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: certification
+      label: I Certify This Information is Accurate
+      hint: Do you certify?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

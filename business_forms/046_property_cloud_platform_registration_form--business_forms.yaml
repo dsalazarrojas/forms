@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Cloud Platform Registration Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: role
+      label: User Role
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - User
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_birth
+      label: Time Of Birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: user_role_id
+      label: User Role ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 19
+      name: confirm_status
+      label: Confirm Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: deleted_user_id
+      label: Deleted User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true

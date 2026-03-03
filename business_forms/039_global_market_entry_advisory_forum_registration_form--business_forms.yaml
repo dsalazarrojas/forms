@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Market Entry Advisory Forum Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: topic_interest_1
+      label: topic_interest_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: topic_interest_2
+      label: topic_interest_2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_acknowledgement
+      label: Submission Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submit_and_participate
+      label: Submit and Participate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submit_and_preview
+      label: Submit and Preview
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: true

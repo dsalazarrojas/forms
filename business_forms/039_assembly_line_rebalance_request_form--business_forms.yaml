@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Rebalance Request Form
+    pages:
+      - id: 1
+        name: requester_name_reb
+        label: Requester Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: engineering_dept_reb
+        label: Engineering or Production Unit
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: rebalance_reason
+        label: Primary Reason for Rebalance Request
+        hint: null
+        type: select_one
+        options:
+          - New Product Introduction
+          - Identification of Bottlenecks
+          - Installation of New Equipment
+          - Change in Demand/Volume
+          - Ergonomic Improvements
+        required: true
+      - id: 4
+        name: current_cycle_time
+        label: Current Cycle Time
+        hint: In seconds or minutes
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: target_cycle_time
+        label: Target Cycle Time
+        hint: Post-rebalance goal
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: task_reallocation_summary
+        label: Proposed Task Reallocation Summary
+        hint: Describe which tasks move to which stations
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: staffing_impact_reb
+        label: Estimated Impact on Station Staffing
+        hint: e.g. Add 2 operators to station B
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: safety_risk_reb
+        label: Safety and Ergonomic Risk Assessment
+        hint: Are there new risks introduced
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: tooling_changes_reb
+        label: Required Tooling or Jig Changes
+        hint: List any physical modifications needed
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: anticipated_down_time
+        label: Anticipated Implementation Downtime
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: manager_approval_notice
+        label: Note - This request requires secondary engineering sign-off
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: submission_date_reb
+        label: Request Date
+        hint: null
+        type: date
+        options: []
+        required: true

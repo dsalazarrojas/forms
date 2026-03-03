@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Application Form
+    pages:
+    - id: 1
+      name: facility_request_form
+      label: Maintenance Requests
+      hint: Please select one of the options below for your maintenance request.
+      type: select_multiple
+      options:
+      - Request for maintenance of facilities
+      - Request for maintenance of equipment
+      - Other
+      required: false
+    - id: 2
+      name: facility_request_date
+      label: Date of Maintenance Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: facility_request_description
+      label: Description of Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_request_service
+      label: Service Required
+      hint: null
+      type: select_one
+      options:
+      - Request for maintenance of facilities
+      - Request for maintenance of equipment
+      - Other
+      required: false
+    - id: 5
+      name: facility_request_facility
+      label: Which Facility
+      hint: null
+      type: select_multiple
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      required: false
+    - id: 6
+      name: facility_request_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_request_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: facility_request_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

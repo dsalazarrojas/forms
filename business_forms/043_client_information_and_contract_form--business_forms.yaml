@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Information And Contract Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shoot_type
+      label: Type of Shoot
+      hint: What type of photography?
+      type: select_one
+      options:
+      - Portrait
+      - Wedding
+      - Event
+      - Commercial
+      - Product
+      - Fashion
+      - Real Estate
+      - Headshot
+      - Family
+      - Other
+      required: true
+    - id: 11
+      name: shoot_date
+      label: Shoot Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: shoot_location
+      label: Shoot Location
+      hint: Where will it take place?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shoot_start_time
+      label: Shoot Start Time
+      hint: When does it begin?
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: shoot_duration
+      label: Expected Duration
+      hint: How long?
+      type: select_one
+      options:
+      - 1 Hour
+      - 2 Hours
+      - 3-4 Hours
+      - Half Day
+      - Full Day
+      - Multiple Days
+      required: true
+    - id: 15
+      name: package_selected
+      label: Photography Package
+      hint: Which package?
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Custom Package
+      required: true
+    - id: 16
+      name: package_price
+      label: Package Price
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Required to secure booking
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: deposit_paid
+      label: Has Deposit Been Paid?
+      hint: Payment status
+      type: select_one
+      options:
+      - Yes, Paid
+      - No, Pending
+      - Not Yet Due
+      required: true
+    - id: 19
+      name: balance_due_date
+      label: Balance Due Date
+      hint: When is remaining payment due?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_services
+      label: Additional Services
+      hint: Extra services requested
+      type: select_multiple
+      options:
+      - Extra Hours
+      - Additional Locations
+      - Rush Editing
+      - Photo Album
+      - Prints
+      - Digital Files
+      - Second Photographer
+      - None
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: usage_rights
+      label: Photo Usage Rights
+      hint: How can photos be used?
+      type: select_one
+      options:
+      - Personal Use Only
+      - Personal and Social Media
+      - Commercial Use Allowed
+      - Exclusive Rights
+      required: true
+    - id: 23
+      name: photographer_portfolio
+      label: May Photos Be Used in Portfolio?
+      hint: Marketing permission
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, Do Not Use
+      required: true
+    - id: 24
+      name: cancellation_policy
+      label: I Understand the Cancellation Policy
+      hint: 48-hour notice required
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 25
+      name: rescheduling_policy
+      label: I Understand the Rescheduling Policy
+      hint: Rescheduling terms
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 26
+      name: delivery_timeline
+      label: I Understand the Photo Delivery Timeline
+      hint: When you will receive photos
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 27
+      name: liability_clause
+      label: I Understand the Liability Limitations
+      hint: Photographer liability
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 28
+      name: contract_agreement
+      label: I Agree to All Terms and Conditions
+      hint: Full contract agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 29
+      name: contract_date
+      label: Contract Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: client_signature
+      label: Client Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: photographer_name
+      label: Photographer Name
+      hint: Assigned photographer
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: photographer_signature
+      label: Photographer Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false

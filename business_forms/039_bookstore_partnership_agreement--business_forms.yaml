@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookstore Partnership Agreement
+    pages:
+    - id: 1
+      name: bookstore_name
+      label: Bookstore Name
+      hint: Your bookstore name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bookstore_contact
+      label: Bookstore Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bookstore_email
+      label: Bookstore Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: bookstore_phone
+      label: Bookstore Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_name
+      label: Partner Name
+      hint: Name of individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partner_type
+      label: Partner Type
+      hint: Type of partnership
+      type: select_one
+      options:
+      - Author
+      - Publisher
+      - Distribution partner
+      - Vendor
+      - Service provider
+      - Marketing partner
+      - Other
+      required: true
+    - id: 7
+      name: partner_email
+      label: Partner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: partnership_focus
+      label: Partnership Focus
+      hint: Main purpose of partnership
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: start_date
+      label: Partnership Start Date
+      hint: When should partnership begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: duration
+      label: Partnership Duration
+      hint: Length of partnership
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - Ongoing
+      - Project-based
+      - Other
+      required: true
+    - id: 11
+      name: commission_rate
+      label: Commission or Revenue Share
+      hint: Percentage or terms
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: responsibilities_bookstore
+      label: Bookstore Responsibilities
+      hint: What will the bookstore do
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: responsibilities_partner
+      label: Partner Responsibilities
+      hint: What will the partner do
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agreement_acknowledgement
+      label: Agreement Acknowledgement
+      hint: Accept the partnership terms
+      type: select_one
+      options:
+      - I accept
+      - I need clarification
+      - I do not accept
+      required: true
+    - id: 15
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true

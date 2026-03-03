@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardinal Approval Form
+    pages:
+    - id: 1
+      name: requester_information
+      label: -- REQUESTER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_details
+      label: -- REQUEST DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_title
+      label: Request title
+      hint: Brief description of what is being requested
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Request submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: request_type
+      label: Type of approval request
+      hint: null
+      type: select_one
+      options:
+      - Budget Approval
+      - Project Approval
+      - Policy Change
+      - Personnel Decision
+      - Event Authorization
+      - Expenditure
+      - Grant
+      - Other
+      required: true
+    - id: 10
+      name: request_category
+      label: Request category
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Operations
+      - Human Resources
+      - Marketing
+      - Technology
+      - Facilities
+      - Governance
+      - Other
+      required: true
+    - id: 11
+      name: request_description
+      label: Detailed description of request
+      hint: Provide comprehensive details about what is being requested
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: request_amount
+      label: Financial amount (if applicable)
+      hint: Leave blank if not applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: priority_level
+      label: Priority level
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      - Standard
+      required: false
+    - id: 14
+      name: requested_completion_date
+      label: Requested completion/decision date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approval_routing
+      label: -- APPROVAL ROUTING --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_approver
+      label: Primary approver name
+      hint: Who needs to review and approve?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: primary_approver_email
+      label: Primary approver email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: secondary_approver
+      label: Secondary approver name (if needed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cc_list
+      label: CC list (notify additional people)
+      hint: Email addresses separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documentation
+      label: -- SUPPORTING INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attached_documents
+      label: Attached documents or files
+      hint: List of files uploaded with this request
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_source
+      label: Budget source or funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: justification
+      label: Business justification for request
+      hint: Why is this approval needed? What is the expected outcome?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: impact_assessment
+      label: Potential impact of approval
+      hint: How will this affect operations, budget, staff, etc.?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorization_confirmation
+      label: I confirm that the information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Confirm
+      - No - Corrections Needed
+      required: true

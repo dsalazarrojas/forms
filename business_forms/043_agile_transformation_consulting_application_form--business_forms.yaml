@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Transformation Consulting Application Form
+    pages:
+    - id: 1
+      name: applicant_company_name
+      label: Applicant Company Name
+      hint: Enter the name of your company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Enter the name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Enter the email address of the primary contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Enter the phone number of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_industry
+      label: Company Industry
+      hint: Select your company's industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Consulting
+      - Government
+      - Education
+      - Telecommunications
+      - Other
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Select the size of your organization
+      type: select_one
+      options:
+      - Small (1-50 employees)
+      - Medium (51-200 employees)
+      - Large (201-1000 employees)
+      - Enterprise (1000+ employees)
+      required: true
+    - id: 7
+      name: current_agile_maturity_header
+      label: -- Current Agile Maturity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_agile_adoption_level
+      label: Current Agile Adoption Level
+      hint: What is your current level of Agile adoption?
+      type: select_one
+      options:
+      - No Agile adoption
+      - Pilot teams
+      - Partial organization
+      - Organization-wide
+      - Advanced/optimized
+      required: true
+    - id: 9
+      name: agile_frameworks_currently_used
+      label: Agile Frameworks Currently Used
+      hint: Which Agile frameworks are currently in use?
+      type: select_multiple
+      options:
+      - Scrum
+      - Kanban
+      - SAFe
+      - LeSS
+      - XP
+      - Crystal
+      - DSDM
+      - None
+      - Other
+      required: true
+    - id: 10
+      name: transformation_goals_header
+      label: -- Transformation Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_transformation_goal
+      label: Primary Transformation Goal
+      hint: What is your primary goal for Agile transformation?
+      type: select_one
+      options:
+      - Increase delivery speed
+      - Improve product quality
+      - Enhance customer satisfaction
+      - Scale Agile practices
+      - Improve team collaboration
+      - Reduce time to market
+      - Other
+      required: true
+    - id: 12
+      name: specific_business_challenges
+      label: Specific Business Challenges
+      hint: What specific business challenges are you facing that Agile transformation
+        should address?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What specific outcomes do you expect from Agile transformation?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: consulting_services_needed_header
+      label: -- Consulting Services Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: consulting_services_required
+      label: Consulting Services Required
+      hint: Which consulting services do you need?
+      type: select_multiple
+      options:
+      - Assessment and roadmap
+      - Training and coaching
+      - Implementation guidance
+      - Change management
+      - Tool selection
+      - Metrics and reporting
+      - Team restructuring
+      - Leadership alignment
+      required: true
+    - id: 16
+      name: preferred_engagement_model
+      label: Preferred Engagement Model
+      hint: What engagement model do you prefer?
+      type: select_one
+      options:
+      - Full-time consultant
+      - Part-time consultant
+      - Project-based
+      - Retainer-based
+      - Workshops and training
+      - Other
+      required: true
+    - id: 17
+      name: timeline_expectations_header
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: transformation_timeline
+      label: Transformation Timeline
+      hint: What is your expected timeline for the Agile transformation?
+      type: select_one
+      options:
+      - Immediate (0-3 months)
+      - Short-term (3-6 months)
+      - Medium-term (6-12 months)
+      - Long-term (1-2 years)
+      - Multi-year initiative
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget range for the Agile transformation consulting?
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000-$150,000
+      - $150,000-$300,000
+      - $300,000-$500,000
+      - Over $500,000
+      - Budget not determined
+      required: false
+    - id: 20
+      name: decision_makers
+      label: Decision Makers
+      hint: Who are the key decision makers for this consulting engagement?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Any additional information about your Agile transformation needs
+      type: text
+      options: []
+      required: false

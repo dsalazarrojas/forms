@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_rotation_checklist
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stock_level
+      label: product_stock_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: usage_cycle
+      label: usage_cycle
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 4
+      name: date_last_updated
+      label: date_last_updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: prophets
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatj
+      - other
+      required: true
+    - id: 10
+      name: assigned_tool_2
+      label: assigned_tool_2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_experience_audit_partnership_application
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 6
+      name: experience_description
+      label: Experience Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: true

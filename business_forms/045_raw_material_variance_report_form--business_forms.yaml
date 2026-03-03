@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Variance Report Form
+    pages:
+    - id: 1
+      name: raw_material_variance
+      label: Raw Material Variance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_team
+      label: Production Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      required: false
+    - id: 3
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: actual_production_quantity
+      label: Actual Production Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: variance_percentage
+      label: Variance Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: root_cause_description
+      label: Root Cause Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Corrective Action 1
+      - Corrective Action 2
+      required: false
+    - id: 8
+      name: production_run_id
+      label: Production Run ID
+      hint: null
+      type: select_one
+      options:
+      - Run A
+      - Run B
+      required: false
+    - id: 9
+      name: production_run_description
+      label: Production Run Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_lot
+      label: Production Lot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_lot_number
+      label: Production Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_lot_description
+      label: Production Lot Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_start_date
+      label: Production Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: production_end_date
+      label: Production End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 16
+      name: raw_material_id
+      label: Raw Material ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: raw_material_description
+      label: Raw Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: raw_material_quantity
+      label: Raw Material Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: raw_material_receiving_date
+      label: Raw Material Receiving Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: raw_material_uom
+      label: Raw Material UOM
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: raw_material_uom_description
+      label: Raw Material UOM Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: raw_material_vendor
+      label: Raw Material Vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: raw_material_vendor_description
+      label: Raw Material Vendor Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: raw_material_cost
+      label: Raw Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: raw_material_note
+      label: Raw Material Note
+      hint: null
+      type: text
+      options: []
+      required: false

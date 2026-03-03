@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Disposal Form
+    pages:
+    - id: 1
+      name: equipment_disposal_form
+      label: Equipment Disposal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: disposal_date
+      label: Disposal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_multiple
+      options:
+      - Sold
+      - Donated
+      - Discarded
+      required: false
+    - id: 10
+      name: category_id_2
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: asset_tag
+      label: Asset Tag
+      hint: null
+      type: text
+      options: []
+      required: false

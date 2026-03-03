@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restart Agreement Form
+    pages:
+    - id: 1
+      name: restart_agreement_form
+      label: restart agreement form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: select_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: approval_status
+      label: select_approvals
+      hint: Select at least one
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: restart_date
+      label: restart_date
+      hint: Date of restart
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_date
+      label: follow_up_date
+      hint: Date for follow-up
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: team_lead
+      label: team leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restart_reason
+      label: reason_for_restart
+      hint: Reason for restart
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: restart_agreement_form_signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: restart_agreement_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: restart_agreement_form_approval_status_2
+      label: select_approval_status__2
+      hint: Select at least one
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

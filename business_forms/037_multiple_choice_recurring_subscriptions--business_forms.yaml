@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Choice Recurring Subscriptions
+    pages:
+    - id: 1
+      name: recurring_subscription
+      label: Select a Recurring Subscription
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 5
+      name: payment_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

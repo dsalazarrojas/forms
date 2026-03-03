@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consignment Form
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of consignment agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agreement_number
+      label: Agreement Number
+      hint: Unique identifier for this agreement
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consignor_name
+      label: Consignor Name
+      hint: Name of person or business providing goods
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consignor_address
+      label: Consignor Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consignor_phone
+      label: Consignor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consignor_email
+      label: Consignor Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: consignor_tax_id
+      label: Consignor Tax ID
+      hint: Tax identification number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consignee_name
+      label: Consignee Name
+      hint: Name of business selling goods
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consignee_address
+      label: Consignee Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consignee_phone
+      label: Consignee Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consignee_email
+      label: Consignee Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: item_description
+      label: Item Description
+      hint: Detailed description of items
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_category
+      label: Item Category
+      hint: Type of items
+      type: select_one
+      options:
+      - Artwork
+      - Jewelry
+      - Clothing
+      - Furniture
+      - Antiques
+      - Collectibles
+      - Electronics
+      - Books
+      - Other
+      required: true
+    - id: 14
+      name: item_category_other
+      label: Other Category
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: item_condition
+      label: Item Condition
+      hint: Condition of items
+      type: select_one
+      options:
+      - New
+      - Like new
+      - Excellent
+      - Good
+      - Fair
+      - Vintage or antique
+      required: true
+    - id: 17
+      name: retail_price
+      label: Retail Price
+      hint: Selling price per item
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: minimum_price
+      label: Minimum Acceptable Price
+      hint: Lowest price consignor will accept
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: commission_rate
+      label: Commission Rate
+      hint: Percentage to consignee
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: consignor_percentage
+      label: Consignor Percentage
+      hint: Percentage to consignor
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: consignment_period
+      label: Consignment Period
+      hint: How long will items be displayed
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 120 days
+      - Until sold
+      - Other
+      required: true
+    - id: 22
+      name: start_date
+      label: Start Date
+      hint: When does consignment begin
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: end_date
+      label: End Date
+      hint: When does consignment end
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: When will consignor be paid
+      type: select_one
+      options:
+      - Upon sale
+      - Within 15 days of sale
+      - Within 30 days of sale
+      - Monthly statement
+      - Other
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will consignor be paid
+      type: select_one
+      options:
+      - Check
+      - Bank transfer
+      - PayPal
+      - Store credit
+      - Other
+      required: true
+    - id: 26
+      name: unsold_items
+      label: Unsold Items Policy
+      hint: What happens to unsold items
+      type: select_one
+      options:
+      - Return to consignor
+      - Donate to charity
+      - Discount and continue selling
+      - Consignor picks up
+      required: true
+    - id: 27
+      name: return_deadline
+      label: Return Deadline
+      hint: When must unsold items be picked up
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: insurance
+      label: Insurance Coverage
+      hint: Who insures the items
+      type: select_one
+      options:
+      - Consignee covers
+      - Consignor covers
+      - Shared responsibility
+      - Not insured
+      required: true
+    - id: 29
+      name: damage_policy
+      label: Damage or Loss Policy
+      hint: What happens if items are damaged
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: marketing
+      label: Marketing Authorization
+      hint: Can items be photographed and marketed
+      type: select_one
+      options:
+      - Yes - Full authorization
+      - Yes - With approval
+      - false
+      required: true
+    - id: 31
+      name: exclusive_agreement
+      label: Is This an Exclusive Agreement
+      hint: Can consignor sell elsewhere
+      type: select_one
+      options:
+      - Yes - Exclusive
+      - No - Non-exclusive
+      required: true
+    - id: 32
+      name: termination_terms
+      label: Termination Terms
+      hint: How can agreement be ended
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other agreements
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: consignor_signature
+      label: Consignor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: consignee_signature
+      label: Consignee Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: agreement_status
+      label: Agreement Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Draft
+      - Active
+      - Completed
+      - Terminated
+      - Expired
+      required: true

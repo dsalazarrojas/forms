@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_archiving_checklist
+    pages:
+    - id: 1
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - document-type
+      - Other
+      required: true
+    - id: 2
+      name: date_archived
+      label: Date Archived
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - storage-location
+      - Other
+      required: true
+    - id: 4
+      name: retention_period
+      label: Retention Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: access_restrictions
+      label: Access Restrictions
+      hint: null
+      type: select_one
+      options:
+      - access-restrictions
+      - Other
+      required: true
+    - id: 6
+      name: storage_media
+      label: Storage Media
+      hint: null
+      type: select_multiple
+      options:
+      - storage-media
+      - Other
+      required: false
+    - id: 7
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - document-status
+      - Other
+      required: true
+    - id: 8
+      name: retention_period_unit
+      label: Retention Period Unit
+      hint: null
+      type: select_one
+      options:
+      - days
+      - months
+      - years
+      required: true
+    - id: 9
+      name: retention_start_date
+      label: Retention Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: access_restrictions_other
+      label: Other Access Restriction
+      hint: null
+      type: note
+      options: []
+      required: true

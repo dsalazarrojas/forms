@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Error Log Form
+    pages:
+    - id: 1
+      name: error_date
+      label: Error Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: error_description
+      label: Error Description
+      hint: Briefly describe the error
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: error_category
+      label: Error Category
+      hint: null
+      type: select_one
+      options:
+      - Error Type
+      - System Error
+      - User Error
+      - Equipment Error
+      required: true
+    - id: 4
+      name: error_location
+      label: Error Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: error_status
+      label: Error Status
+      hint: Select status from the following options
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      required: true
+    - id: 6
+      name: error_responsible
+      label: Error Responsible
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: error_type
+      label: Error Type
+      hint: null
+      type: select_one
+      options:
+      - Equipment
+      - System
+      - User
+      required: true
+    - id: 9
+      name: error_priority
+      label: Error Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: rejected_by
+      label: Rejected By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rejected_at
+      label: Rejected At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: error_code
+      label: Error Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

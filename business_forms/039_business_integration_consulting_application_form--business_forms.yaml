@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Integration Consulting Application Form
+    pages:
+      - id: 1
+        name: section_consulting_client_profile
+        label: -- Company Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: integration_client_company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: primary_integration_goal_selection
+        label: Primary Integration Goal
+        hint: What is the main outcome you seek
+        type: select_one
+        options:
+          - Streamline Workflows
+          - Data Synchronization
+          - Legacy System Modernization
+          - Scalability Enhancement
+          - Cost Reduction
+        required: true
+      - id: 4
+        name: section_technical_landscape
+        label: -- Technical Landscape --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: systems_to_be_integrated_selection
+        label: Systems Targeted for Integration
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - CRM (e.g. Salesforce, HubSpot)
+          - ERP (e.g. SAP, Oracle)
+          - Marketing Automation
+          - E-commerce Platform
+          - Cloud Infrastructure (AWS/Azure)
+          - On-premise Databases
+        required: true
+      - id: 6
+        name: current_data_challenges_description
+        label: Current Data or Integration Challenges
+        hint: Describe silos, manual entry, or data quality issues
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: existing_documentation_status_choice
+        label: Status of Technical Documentation
+        hint: How well is your current system documented
+        type: select_one
+        options:
+          - Fully documented (ERDs, APIs, Workflows)
+          - Partially documented
+          - Minimal / Outdated documentation
+          - No documentation
+        required: true
+      - id: 8
+        name: section_project_logistics_consulting
+        label: -- Project Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: expected_project_roi_timeframe
+        label: Expected Timeframe for ROI
+        hint: When do you expect to see the benefits
+        type: select_one
+        options:
+          - Within 3 Months
+          - 3 to 6 Months
+          - 6 to 12 Months
+          - 12+ Months
+        required: true
+      - id: 10
+        name: integration_budget_bracket_selection
+        label: Estimated Integration Budget (USD)
+        hint: null
+        type: select_one
+        options:
+          - Under 25,000
+          - 25,001 - 75,000
+          - 75,001 - 200,000
+          - 200,000+
+        required: true
+      - id: 11
+        name: project_lead_contact_name_consulting
+        label: Project Lead Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: project_lead_contact_email_consulting
+        label: Lead Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 13
+        name: desired_consulting_services_selection
+        label: Desired Consulting Services
+        hint: Select services you are interested in
+        type: select_multiple
+        options:
+          - Strategy and Planning
+          - Technical Architecture Design
+          - Development and Implementation
+          - Post-integration Support
+          - Training and Onboarding
+        required: true
+      - id: 14
+        name: consulting_application_submission_date
+        label: Date of Application
+        hint: null
+        type: date
+        options: []
+        required: true

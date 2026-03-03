@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Inspection Report
+    pages:
+    - id: 1
+      name: test_drive
+      label: Test drive
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspection_data
+      label: Inspection data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: Vehicle condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspection_notes
+      label: Inspection notes
+      hint: null
+      type: note
+      options: []
+      required: false

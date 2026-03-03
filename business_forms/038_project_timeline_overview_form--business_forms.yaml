@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_timeline_overview_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: milestones
+      label: Milestones
+      hint: null
+      type: select_multiple
+      options:
+      - Milestone 1
+      - Milestone 2
+      - Milestone 3
+      required: true
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: Briefly describe the project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

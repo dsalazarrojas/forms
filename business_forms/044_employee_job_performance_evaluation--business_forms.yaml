@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Job Performance Evaluation
+    pages:
+    - id: 1
+      name: job_performance_evaluation
+      label: Job Performance Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_area
+      label: Job Area
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - HR
+      required: false
+    - id: 3
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: functional_areas
+      label: Functional Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: areas_of_improvement
+      label: Areas of Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_completed
+      label: Evaluation Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false

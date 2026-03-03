@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Manager Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_address
+      label: Applicant Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cover_letter
+      label: Cover Letter
+      hint: Upload or paste your cover letter
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resume_attachment
+      label: Resume Attachment
+      hint: Upload your resume
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: How many years of account management experience do you have?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: relevant_industries
+      label: Relevant Industries
+      hint: Which industries have you managed accounts in?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: education_background
+      label: Education Background
+      hint: Your educational qualifications
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: certifications
+      label: Certifications
+      hint: Any relevant certifications (e.g., CRM, sales, project management)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_employer
+      label: Previous Employer
+      hint: Name of your most recent employer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_job_title
+      label: Previous Job Title
+      hint: Your most recent job title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_responsibilities
+      label: Key Responsibilities
+      hint: Describe your key responsibilities in your previous role
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: achievements_examples
+      label: Achievements Examples
+      hint: Provide examples of your key achievements in account management
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_retention_rate
+      label: Client Retention Rate
+      hint: What was your average client retention rate in your previous roles?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: revenue_growth_managed
+      label: Revenue Growth Managed
+      hint: What was the average revenue growth for accounts you managed?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: crm_proficiency
+      label: CRM Proficiency
+      hint: Which CRM systems are you proficient in?
+      type: select_multiple
+      options:
+      - Salesforce
+      - HubSpot
+      - Microsoft Dynamics
+      - SAP
+      - Oracle
+      - Pipedrive
+      - Other
+      required: true
+    - id: 18
+      name: languages_spoken
+      label: Languages Spoken
+      hint: What languages do you speak fluently?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: availability_start_date
+      label: Availability Start Date
+      hint: When would you be available to start?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: salary_expectations
+      label: Salary Expectations
+      hint: What are your salary expectations for this role?
+      type: number
+      options: []
+      required: true

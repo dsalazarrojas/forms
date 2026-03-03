@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handover Protocol Acknowledgement Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_handover_date
+      label: Shift Handover Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: handover_protocol_acknowledged
+      label: Handover Protocol Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: employee_name_of_next_shift
+      label: Employee Name of Next Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name_of_next_shift
+      label: Contact Name of Next Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_shift_start_time
+      label: Next Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: handover_details
+      label: Handover Details
+      hint: null
+      type: text
+      options: []
+      required: false

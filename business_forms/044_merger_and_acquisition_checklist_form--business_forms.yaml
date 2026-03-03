@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Merger And Acquisition Checklist Form
+    pages:
+    - id: 1
+      name: merger_and_acquisition_checklist_form_company_information
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: merger_and_acquisition_checklist_form_acquisition_type
+      label: Acquisition Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''public'', ''label'': ''Public''}'
+      - '{''value'': ''private'', ''label'': ''Private''}'
+      required: true
+    - id: 3
+      name: merger_and_acquisition_checklist_form_target_business_location
+      label: Target Business Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bangkok'', ''label'': ''Bangkok''}'
+      - Other
+      required: true
+    - id: 4
+      name: merger_and_acquisition_checklist_form_acquisition_price
+      label: Acquisition Price
+      hint: Enter a valid number
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: merger_and_acquisition_checklist_form_deal_structuring
+      label: Deal Structuring
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''asset'', ''label'': ''Asset''}'
+      - '{''value'': ''stock'', ''label'': ''Stock''}'
+      - '{''value'': ''hybrid'', ''label'': ''Hybrid''}'
+      required: true
+    - id: 6
+      name: merger_and_acquisition_checklist_form_valuation_method
+      label: Valuation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''discounted_cash_flow'', ''label'': ''Discounted Cash Flow''}'
+      - '{''value'': ''relative'', ''label'': ''Relative''}'
+      - '{''value'': ''market'', ''label'': ''Market''}'
+      required: true
+    - id: 7
+      name: merger_and_acquisition_checklist_form_deal_structure
+      label: Deal Structure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''asset'', ''label'': ''Asset''}'
+      - '{''value'': ''stock'', ''label'': ''Stock''}'
+      - '{''value'': ''hybrid'', ''label'': ''Hybrid''}'
+      required: true
+    - id: 8
+      name: merger_and_acquisition_checklist_form_valuation
+      label: Valuation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: merger_and_acquisition_checklist_form_valuation_report
+      label: Valuation Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: merger_and_acquisition_checklist_form_financial_due_diligence
+      label: Financial Due Diligence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: merger_and_acquisition_checklist_form_financial_du
+      label: Financial Du
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: merger_and_acquisition_checklist_form_tax_due_diligence
+      label: Tax Due Diligence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: merger_and_acquisition_checklist_form_risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''high'', ''label'': ''High''}'
+      required: true
+    - id: 14
+      name: merger_and_acquisition_checklist_form_risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''financial'', ''label'': ''Financial''}'
+      - '{''value'': ''regulatory'', ''label'': ''Regulatory''}'
+      - '{''value'': ''strategic'', ''label'': ''Strategic''}'
+      required: true
+    - id: 15
+      name: merger_and_acquisition_checklist_form_risk_factor_details
+      label: Risk Factor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: merger_and_acquisition_checklist_form_valuation_methodology
+      label: Valuation Methodology
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''financial'', ''label'': ''Financial''}'
+      - '{''value'': ''market'', ''label'': ''Market''}'
+      - '{''value'': ''asset'', ''label'': ''Asset''}'
+      required: true
+    - id: 17
+      name: merger_and_acquisition_checklist_form_financial_model
+      label: Financial Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: merger_and_acquisition_checklist_form_valuation_model
+      label: Valuation Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: merger_and_acquisition_checklist_form_valuation_basis
+      label: Valuation Basis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: merger_and_acquisition_checklist_form_valuation_basis
+      label: Valuation Basis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: merger_and_acquisition_checklist_form_valuation_basise
+      label: Valuation Basis e
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: merger_and_acquisition_checklist_form_financial_model_bangkok
+      label: Financial Model Bangkok
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: merger_and_acquisition_checklist_form_valuation_model_bangkok
+      label: Valuation Model Bangkok
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: merger_and_acquisition_checklist_form_valuation_basise_bangkok
+      label: Valuation Basis e Bangkok
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: merger_and_acquisition_checklist_form_valuation_basise_bangkok
+      label: Valuation Basis e Bangkok
+      hint: null
+      type: text
+      options: []
+      required: false

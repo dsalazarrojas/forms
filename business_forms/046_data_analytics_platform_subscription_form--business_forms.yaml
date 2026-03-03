@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_analytics_platform_subscription_form
+    pages:
+    - id: 1
+      name: subscribe_to_service
+      label: Subscribe to Service
+      hint: null
+      type: select_multiple
+      options:
+      - Analytics Service A
+      - Analytics Service B
+      - Analytics Service C
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 7
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

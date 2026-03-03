@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Consent Authorization Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_preferences
+      label: Consent Preferences
+      hint: How can we contact you
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_consent
+      label: Email Consent
+      hint: Can we contact you by email
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 10
+      name: email_purposes
+      label: Email Purposes
+      hint: What can we email you about
+      type: select_multiple
+      options:
+      - Service Updates
+      - Marketing Communications
+      - Newsletter
+      - Event Invitations
+      - Product Announcements
+      - Surveys and Feedback
+      - Account Notifications
+      required: false
+    - id: 11
+      name: phone_consent
+      label: Phone Consent
+      hint: Can we contact you by phone
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 12
+      name: phone_purposes
+      label: Phone Purposes
+      hint: What can we call you about
+      type: select_multiple
+      options:
+      - Service Updates
+      - Sales Calls
+      - Customer Support
+      - Appointment Reminders
+      - Surveys and Feedback
+      - Account Notifications
+      required: false
+    - id: 13
+      name: sms_consent
+      label: SMS Consent
+      hint: Can we send you text messages
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 14
+      name: sms_purposes
+      label: SMS Purposes
+      hint: What can we text you about
+      type: select_multiple
+      options:
+      - Appointment Reminders
+      - Service Updates
+      - Promotional Offers
+      - Account Notifications
+      - Security Alerts
+      required: false
+    - id: 15
+      name: mail_consent
+      label: Postal Mail Consent
+      hint: Can we send you postal mail
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 16
+      name: mail_purposes
+      label: Postal Mail Purposes
+      hint: What can we mail you
+      type: select_multiple
+      options:
+      - Marketing Materials
+      - Product Catalogs
+      - Newsletters
+      - Event Invitations
+      - Account Statements
+      required: false
+    - id: 17
+      name: contact_frequency
+      label: Contact Frequency
+      hint: How often can we contact you
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Only When Necessary
+      - Never
+      required: true
+    - id: 18
+      name: third_party_sharing
+      label: Third-Party Sharing
+      hint: Can we share your info with partners
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 19
+      name: data_processing
+      label: Data Processing
+      hint: Do you consent to data processing
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 20
+      name: consent_duration
+      label: Consent Duration
+      hint: How long is this consent valid
+      type: select_one
+      options:
+      - Until I Revoke
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      required: true
+    - id: 21
+      name: revocation_understanding
+      label: Revocation Understanding
+      hint: Do you understand you can revoke consent
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - Please Explain
+      required: true
+    - id: 22
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - No - I Do Not Accept
+      required: true
+    - id: 23
+      name: privacy_policy
+      label: Privacy Policy
+      hint: Have you read the privacy policy
+      type: select_one
+      options:
+      - Yes - I Have Read
+      - No - I Will Read
+      required: true
+    - id: 24
+      name: signature
+      label: Signature
+      hint: Your name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: witness_name
+      label: Witness Name
+      hint: Witness to signature
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other preferences
+      type: text
+      options: []
+      required: false

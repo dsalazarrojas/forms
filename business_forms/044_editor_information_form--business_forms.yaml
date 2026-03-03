@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editor Information Form
+    pages:
+    - id: 1
+      name: editor_first_name
+      label: First Name
+      hint: First name of editor
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: editor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: editor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: editor_phone
+      label: Phone
+      hint: Phone number of editor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: editor_date_of_birth
+      label: Date Of Birth
+      hint: Date of birth of editor
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: editor_time_of_birth
+      label: Time Of Birth
+      hint: Time of birth of editor
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: editor_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

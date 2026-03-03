@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Access Request Form
+    pages:
+      - id: 1
+        name: section_consultant_ident
+        label: -- Consultant and Project Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consultant_full_name_ident
+        label: Consultant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: consultant_company_legal_name
+        label: Consultant's Company/Firm
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: consultant_email_ident
+        label: Consultant Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: primary_project_assignment
+        label: Primary Project Assignment
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: internal_sponsor_name_ident
+        label: Internal Sponsor/Manager Name
+        hint: Name of the internal person responsible for this consultant
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_access_req_details
+        label: -- Access Request Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: access_start_date_ident
+        label: Requested Access Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: access_end_date_ident
+        label: Estimated Access End Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: access_type_checklist
+        label: Types of Access Required
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Physical Site Access (ID Badge)
+          - VPN/Remote Network Access
+          - Email Account (Internal)
+          - Project Portal/App Access (Procore, Jira, etc.)
+          - Internal Shared Drives (FTP, SharePoint)
+          - Administrative System Access (ERP, CRM)
+        required: true
+      - id: 11
+        name: justification_for_access_desc
+        label: Brief Justification for the Requested Access
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_it_security_compliance
+        label: -- IT and Security Compliance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: security_background_check_passed
+        label: Security Background Check Passed (If applicable)
+        hint: null
+        type: select_one
+        options:
+          - Yes - Verified
+          - In Progress
+          - Not Required
+        required: true
+      - id: 14
+        name: nda_signed_checklist
+        label: Non-Disclosure Agreement (NDA) Signed
+        hint: null
+        type: select_one
+        options:
+          - Yes - Previously signed
+          - Yes - Attached to this request
+          - No - Required before access
+        required: true
+      - id: 15
+        name: acceptable_use_policy_ack
+        label: I have read and agree to the Acceptable Use Policy (AUP)
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Disagree
+        required: true
+      - id: 16
+        name: section_administrative_logistics
+        label: -- Administrative and Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: equipment_provisioning_req
+        label: Hardware/Equipment Provisioning Required?
+        hint: e.g., Company laptop, mobile phone
+        type: select_one
+        options:
+          - No - Consultant using own device
+          - Yes - Laptop required
+          - Yes - Mobile phone required
+          - Yes - Other Specialized Equipment
+        required: true
+      - id: 18
+        name: equipment_delivery_address
+        label: Delivery Address for Equipment (If applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: section_final_submission
+        label: -- Final Submission and Date --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: additional_access_instructions
+        label: Additional Access Instructions or Notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: submission_date
+        label: Date of Access Request
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: authorized_manager_name_label
+        label: Authorized Approving Manager (Name and Title)
+        hint: For internal use
+        type: text
+        options: []
+        required: false

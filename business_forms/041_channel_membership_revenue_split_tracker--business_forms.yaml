@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Channel Membership Revenue Split Tracker
+    pages:
+    - id: 1
+      name: tracking_period
+      label: Tracking Period
+      hint: Month and year
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_date
+      label: Reporting Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: channel_name
+      label: Channel Name
+      hint: Name of channel
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: channel_manager
+      label: Channel Manager Name
+      hint: Person managing channel
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_contact
+      label: Manager Contact Information
+      hint: Email and phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_gross_revenue
+      label: Total Gross Revenue
+      hint: Revenue before splits
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: platform_commission_percent
+      label: Platform Commission Percentage
+      hint: Platform takes what percent
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: platform_commission_amount
+      label: Platform Commission Amount
+      hint: Calculated commission
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: creator_revenue_percent
+      label: Creator Revenue Percentage
+      hint: Creator gets what percent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: creator_revenue_amount
+      label: Creator Revenue Amount
+      hint: Amount to creator
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: network_revenue_percent
+      label: Network Revenue Percentage
+      hint: Network gets what percent
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: network_revenue_amount
+      label: Network Revenue Amount
+      hint: Amount to network
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: agency_revenue_percent
+      label: Agency Revenue Percentage
+      hint: Agency gets what percent
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: agency_revenue_amount
+      label: Agency Revenue Amount
+      hint: Amount to agency
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_party_percentage
+      label: Other Party Revenue Percentage
+      hint: Other parties
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: other_party_amount
+      label: Other Party Revenue Amount
+      hint: Amount to others
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: active_members
+      label: Active Members This Period
+      hint: Number of active members
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: new_members
+      label: New Members This Period
+      hint: Newly joined members
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: Has payment been processed
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Overdue
+      - Scheduled
+      required: true
+    - id: 20
+      name: notes_discrepancies
+      label: Notes or Discrepancies
+      hint: Any issues or notes
+      type: text
+      options: []
+      required: false

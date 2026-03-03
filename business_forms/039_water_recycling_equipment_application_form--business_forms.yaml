@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Recycling Equipment Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Equipment A''}'
+      - '{''option'': ''Equipment B''}'
+      - '{''option'': ''Equipment C''}'
+      required: false
+    - id: 12
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Multiple 1''}'
+      - '{''option'': ''Multiple 2''}'
+      - '{''option'': ''Multiple 3''}'
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

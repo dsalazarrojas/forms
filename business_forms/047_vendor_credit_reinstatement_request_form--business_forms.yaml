@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Credit Reinstatement Request Form
+    pages:
+    - id: 1
+      name: vendor_credit_request_form
+      label: Vendor Credit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: product_details
+      label: Product Details
+      hint: null
+      type: select_multiple
+      options:
+      - Credit 1
+      - Credit 2
+      - Credit 3
+      required: false
+    - id: 7
+      name: vendor_credit_amount
+      label: Vendor Credit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false

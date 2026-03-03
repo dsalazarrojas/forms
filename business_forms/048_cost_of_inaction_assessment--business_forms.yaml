@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Of Inaction Assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delay_period
+      label: Delay Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delay_cost
+      label: Delay Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: mitigation_strategy
+      label: Mitigation Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

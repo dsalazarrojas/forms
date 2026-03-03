@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Communication Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: adjuster_name
+      label: adjuster_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Fax
+      required: false

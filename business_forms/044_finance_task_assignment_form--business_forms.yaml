@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finance Task Assignment Form
+    pages:
+    - id: 1
+      name: task_name
+      label: Task Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: task_type
+      label: Task Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to_name
+      label: Assigned To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to_email
+      label: Assigned To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to_phone
+      label: Assigned To Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Snap Shot
+    pages:
+    - id: 1
+      name: section_business_info
+      label: -- Business Information --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Service Business
+      hint: Cleaning, landscaping, consulting, etc.
+      type: text
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: When you are completing this snapshot
+      type: date
+      required: true
+    - id: 5
+      name: section_owner_info
+      label: -- Owner Information --
+      type: note
+      required: false
+    - id: 6
+      name: owner_name
+      label: Owner Name
+      hint: Your name
+      type: text
+      required: true
+    - id: 7
+      name: owner_experience_years
+      label: Years of Industry Experience
+      hint: How long have you worked in this field
+      type: number
+      required: true
+    - id: 8
+      name: owner_education
+      label: Relevant Education or Training
+      hint: Certifications or training received
+      type: text
+      required: false
+    - id: 9
+      name: section_operations
+      label: -- Current Operations --
+      type: note
+      required: false
+    - id: 10
+      name: current_clients
+      label: Current Number of Active Clients
+      hint: How many clients do you serve
+      type: number
+      required: true
+    - id: 11
+      name: current_employees
+      label: Current Number of Employees
+      hint: Not including owner
+      type: number
+      required: true
+    - id: 12
+      name: operational_status
+      label: Current Operational Status
+      hint: Where are you in the business lifecycle
+      type: select_one
+      options:
+      - Starting out
+      - Growing
+      - Established
+      - Scaling
+      - Transitioning
+      required: true
+    - id: 13
+      name: section_financial
+      label: -- Financial Snapshot --
+      type: note
+      required: false
+    - id: 14
+      name: monthly_revenue
+      label: Average Monthly Revenue
+      hint: Current earning level
+      type: number
+      required: true
+    - id: 15
+      name: revenue_growth
+      label: Revenue Growth Rate
+      hint: Percentage growth year over year
+      type: number
+      required: false
+    - id: 16
+      name: profit_margin
+      label: Estimated Profit Margin
+      hint: Percentage profit
+      type: number
+      required: false
+    - id: 17
+      name: section_challenges
+      label: -- Current Challenges --
+      type: note
+      required: false
+    - id: 18
+      name: top_challenges
+      label: Top 3 Business Challenges
+      hint: What is holding you back
+      type: text
+      required: true
+    - id: 19
+      name: time_management_issue
+      label: Time Management Challenge
+      hint: How much time do you spend on non-revenue activities
+      type: select_one
+      options:
+      - Minimal time
+      - Some time
+      - Considerable time
+      - Most of my time
+      required: false
+    - id: 20
+      name: section_goals
+      label: -- Business Goals --
+      type: note
+      required: false
+    - id: 21
+      name: primary_goal
+      label: Primary Business Goal
+      hint: What do you want to achieve most
+      type: select_one
+      options:
+      - Increase revenue
+      - Reduce costs
+      - Build team
+      - Improve systems
+      - Expand services
+      - Work less hours
+      required: true
+    - id: 22
+      name: goals_timeline
+      label: Goal Achievement Timeline
+      hint: When do you want to reach your goals
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - 2 years
+      - Flexible
+      required: false
+    - id: 23
+      name: section_systems
+      label: -- Systems and Processes --
+      type: note
+      required: false
+    - id: 24
+      name: documented_processes
+      label: Are Your Processes Documented
+      hint: Do you have written procedures
+      type: select_one
+      options:
+      - No processes documented
+      - Some processes documented
+      - Most processes documented
+      - All processes documented
+      required: true
+    - id: 25
+      name: technology_usage
+      label: Technology and Tools Used
+      hint: Software or tools you rely on
+      type: text
+      required: false

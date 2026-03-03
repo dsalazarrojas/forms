@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Molecule Design Submission Form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submission Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: molecular_structures
+      label: Molecular Structures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: context
+      label: Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submitter_files
+      label: Submitter Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitter_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter_select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: submitter_select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: false
+    - id: 12
+      name: submitter_decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: submitter_integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: false

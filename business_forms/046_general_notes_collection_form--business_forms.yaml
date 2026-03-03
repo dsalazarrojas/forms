@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Notes Collection Form
+    pages:
+    - id: 1
+      name: general_notes_collection_form
+      label: general_notes_collection_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category_options
+      label: categories
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 6
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - priority1
+      - Other
+      required: true
+    - id: 7
+      name: attachments
+      label: attachments
+      hint: Upload a file or image
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - submitted_by1
+      - Other
+      required: true
+    - id: 11
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: select_one
+      options:
+      - submitted_by1
+      - Other
+      required: false
+    - id: 12
+      name: submission_date_time
+      label: submission_date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_date_time_time
+      label: submission_date_time_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submission_date_time_tz
+      label: submission_date_time_tz
+      hint: null
+      type: select_one
+      options:
+      - submitted_date_time_tz1
+      - Other
+      required: true
+    - id: 15
+      name: submission_date_time_format
+      label: submission_date_time_format
+      hint: null
+      type: select_one
+      options:
+      - submitted_date_time_format1
+      - Other
+      required: true

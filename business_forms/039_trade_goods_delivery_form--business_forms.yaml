@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Goods Delivery Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Cancelled
+      required: false
+    - id: 3
+      name: trade_good_id
+      label: trade good id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_id
+      label: customer id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_id
+      label: order id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_notes
+      label: delivery notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: trade_good_details
+      label: trade good details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: estimated_delivery_time
+      label: estimated delivery time
+      hint: null
+      type: number
+      options: []
+      required: false

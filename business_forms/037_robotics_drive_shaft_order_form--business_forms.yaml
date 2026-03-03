@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: robotics_drive_shaft_order_form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shaft_type
+      label: shaft_type
+      hint: null
+      type: select_one
+      options:
+      - Cycloidal Shafts
+      - Helical Shafts
+      - Planetary Shafts
+      required: true
+    - id: 4
+      name: shaft_length
+      label: shaft_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shaft_diameter
+      label: shaft_diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_multiple
+      options:
+      - Aluminum
+      - Steel
+      - Copper
+      required: true
+    - id: 7
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_shaft_type
+      label: confirm_shaft_type
+      hint: null
+      type: select_one
+      options:
+      - Cycloidal Shafts
+      - Helical Shafts
+      - Planetary Shafts
+      required: true
+    - id: 12
+      name: confirm_material_type
+      label: confirm_material_type
+      hint: null
+      type: select_multiple
+      options:
+      - Aluminum
+      - Steel
+      - Copper
+      required: true

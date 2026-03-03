@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Payment Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Mortgage Payment Authorization Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_header_info
+      label: This form is used to authorize mortgage payments.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: mortgage_account
+      label: Mortgage Account
+      hint: Enter your mortgage account number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: Select your account type
+      type: select_one
+      options:
+      - account_type_1
+      - account_type_2
+      - account_type_3
+      required: false
+    - id: 5
+      name: account_type_1
+      label: Savings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: account_type_2
+      label: Checking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: account_type_3
+      label: Credit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: authorization_method
+      label: Authorization Method
+      hint: Select the authorization method
+      type: select_one
+      options:
+      - authorization_method_1
+      - authorization_method_2
+      - authorization_method_3
+      required: false
+    - id: 9
+      name: authorization_method_1
+      label: Online
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: authorization_method_2
+      label: Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: authorization_method_3
+      label: Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: authorization_details
+      label: Authorization Details
+      hint: Enter your authorization details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorization_date
+      label: Authorization Date
+      hint: Select authorization date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: authorization_time
+      label: Authorization Time
+      hint: Select authorization time
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submit_button
+      label: Submit
+      hint: Submit form
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit_info
+      label: This form has been submitted
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: account_type_info_1
+      label: Select account type from the list
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: account_type_info_2
+      label: Select authorization method from the list
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submit_info_1
+      label: Submit form to complete the authorization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submit_info_2
+      label: Form submitted successfully
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: account_type_info_3
+      label: Select account type from the list
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: account_type_info_4
+      label: Select authorization method from the list
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submit_info_3
+      label: Please note that this form is for authorization purposes only
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: account_type_info_5
+      label: Select account type from the list
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit_info_4
+      label: Form submitted successfully
+      hint: null
+      type: note
+      options: []
+      required: false

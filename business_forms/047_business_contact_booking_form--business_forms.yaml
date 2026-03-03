@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Contact Booking Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: booking_info
+      label: Booking Information
+      hint: Appointment details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: What service do you need
+      type: select_one
+      options:
+      - General Consultation
+      - Product Demo
+      - Sales Inquiry
+      - Support
+      - Partnership Discussion
+      - Other
+      required: true
+    - id: 9
+      name: preferred_date
+      label: Preferred Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: meeting_format
+      label: Meeting Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person
+      - Video Conference
+      - Phone Call
+      - Flexible
+      required: true
+    - id: 12
+      name: duration
+      label: Expected Duration
+      hint: How long do you need
+      type: select_one
+      options:
+      - 15 Minutes
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - 2 Hours
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: Where should we meet
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: purpose
+      label: Purpose of Meeting
+      hint: What do you want to discuss
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: attendees
+      label: Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: attendee_names
+      label: Attendee Names
+      hint: Names of other attendees
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: urgency
+      label: Urgency
+      hint: How soon do you need this
+      type: select_one
+      options:
+      - Flexible
+      - Within 1 Week
+      - Within 3 Days
+      - Within 24 Hours
+      - ASAP
+      required: true
+    - id: 19
+      name: alternative_dates
+      label: Alternative Dates
+      hint: Other dates that work
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How should we remind you
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      - No Reminder
+      required: true
+    - id: 21
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

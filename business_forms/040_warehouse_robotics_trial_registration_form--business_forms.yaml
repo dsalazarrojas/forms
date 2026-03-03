@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: warehouse_robotics_trial_registration_form
+    pages:
+    - id: 1
+      name: trial_request
+      label: Trial Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_evaluation
+      label: Site Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1'', ''text'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option2'', ''text'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option3'', ''text'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trial_date
+      label: Trial Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trial_duration
+      label: Trial Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trial_site_status
+      label: Trial Site Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''site_status1'', ''text'': ''Site Status 1''}'
+      - '{''id'': 2, ''name'': ''site_status2'', ''text'': ''Site Status 2''}'
+      - '{''id'': 3, ''name'': ''site_status3'', ''text'': ''Site Status 3''}'
+      required: false
+    - id: 7
+      name: trial_site_qualification
+      label: Trial Site Qualification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''qualification1'', ''text'': ''Qualification 1''}'
+      - '{''id'': 2, ''name'': ''qualification2'', ''text'': ''Qualification 2''}'
+      - '{''id'': 3, ''name'': ''qualification3'', ''text'': ''Qualification 3''}'
+      required: false
+    - id: 8
+      name: trial_site_follow_up
+      label: Trial Site Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false

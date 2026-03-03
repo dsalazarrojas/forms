@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: shelf_label_printing_request_form
+    pages:
+    - id: 1
+      name: form_category
+      label: form-category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: form_description
+      label: form-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: print_size
+      label: print-size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: print_quantity
+      label: print-quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: due_date
+      label: due-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: content
+      label: content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_ids
+      label: form-ids
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: output_file
+      label: output-file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file_path
+      label: output-file-path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false

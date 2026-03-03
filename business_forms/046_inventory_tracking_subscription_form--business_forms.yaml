@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_tracking_subscription_form
+    pages:
+    - id: 1
+      name: stock_level
+      label: Stock Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reorder_level
+      label: Reorder Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lead_time
+      label: Lead Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: ordering_schedule
+      label: Ordering Schedule
+      hint: Select how often you need items to be reordered
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 6
+      name: reorder_frequency
+      label: Reorder Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: reorder_point
+      label: Reorder Point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reorder_quantity
+      label: Reorder Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reorder_level_type
+      label: Reorder Level Type
+      hint: Select the type of reorder level
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Percentage''}'
+      - '{''id'': 2, ''label'': ''Dollar''}'
+      required: false
+    - id: 11
+      name: reorder_level_value
+      label: Reorder Level Value
+      hint: null
+      type: number
+      options: []
+      required: false

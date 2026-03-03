@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Rental Agreement Form
+    pages:
+    - id: 1
+      name: rental_contact_header
+      label: -- Renter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_full_name
+      label: Renter Name (Individual or Rep)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renting_organization_name
+      label: Organization Name (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: renter_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: renter_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rental_event_details_header
+      label: -- Event and Facility Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: facilities_requested_rent
+      label: Facilities to be Rented
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Main Lodge / Mess Hall
+      - Upper Cabins (Total 10)
+      - Lower Cabins (Total 6)
+      - Waterfront / Beach Area
+      - Recreation Field and Pavilion
+      - Amphitheater / Fire Pit
+      required: true
+    - id: 8
+      name: type_of_event_rent
+      label: Nature of the Event
+      hint: e.g., Family Reunion, Corporate Retreat, Youth Group
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_attendance_count
+      label: Expected Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: rental_start_date_time
+      label: Rental Start Date and Time
+      hint: Check-in time
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rental_end_date_time
+      label: Rental End Date and Time
+      hint: Check-out time
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rental_agreement_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: acknowledgement_of_rental_fees
+      label: Agreement to Rental Fees and Deposits
+      hint: I agree to pay the fees and security deposit as outlined in the quote
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: facility_usage_rules_consent
+      label: Facility Usage Rules and Clean-up Policy
+      hint: I agree to follow all camp rules and leave facilities in good condition
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: insurance_requirement_acknowledgement
+      label: Insurance and Liability Requirement
+      hint: I acknowledge the requirement to provide a certificate of insurance
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: renter_digital_signature_agreement
+      label: Renter Electronic Signature
+      hint: Please type your full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: rental_agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: internal_approval_status
+      label: For Office Use - Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Denied
+      - More Information Requested
+      required: false

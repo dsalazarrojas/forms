@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Compliance Assessment Registration
+    pages:
+    - id: 1
+      name: store_compliance_assessment_registration_1
+      label: store-compliance-assessment-registration-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_audit
+      label: schedule-audit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 3
+      name: compliance_areas
+      label: compliance-areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 4
+      name: store_name
+      label: store-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact-details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

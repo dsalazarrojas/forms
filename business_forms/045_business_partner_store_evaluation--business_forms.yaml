@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Store Evaluation
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: store_name
+      label: Store Name
+      hint: Name of store being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: store_location
+      label: Store Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: store_manager
+      label: Store Manager Name
+      hint: Manager on duty
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of visit
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: visit_time
+      label: Visit Time
+      hint: Time of visit
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: store_type
+      label: Store Type
+      hint: Type of retail location
+      type: select_one
+      options:
+      - Flagship store
+      - Standard retail
+      - Outlet store
+      - Pop-up location
+      - Partner location
+      - Other
+      required: true
+    - id: 10
+      name: store_size
+      label: Store Size
+      hint: Approximate square footage
+      type: select_one
+      options:
+      - Under 1000 sq ft
+      - 1000 to 2500 sq ft
+      - 2500 to 5000 sq ft
+      - 5000 to 10000 sq ft
+      - Over 10000 sq ft
+      required: true
+    - id: 11
+      name: exterior_appearance
+      label: Exterior Appearance Rating
+      hint: Rate the outside appearance
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: interior_cleanliness
+      label: Interior Cleanliness Rating
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: product_display
+      label: Product Display Rating
+      hint: Rate product presentation
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: signage_quality
+      label: Signage Quality Rating
+      hint: Rate signage and wayfinding
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: staff_greeting
+      label: Staff Greeting
+      hint: Were you greeted by staff
+      type: select_one
+      options:
+      - Yes - promptly and warmly
+      - Yes - after waiting
+      - No - but staff was available
+      - No - staff was unavailable
+      required: true
+    - id: 16
+      name: staff_knowledge
+      label: Staff Knowledge Rating
+      hint: Rate staff product knowledge
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: true
+    - id: 17
+      name: inventory_availability
+      label: Inventory Availability
+      hint: Was product available
+      type: select_one
+      options:
+      - Fully stocked
+      - Mostly stocked
+      - Partially stocked
+      - Limited inventory
+      - Poorly stocked
+      required: true
+    - id: 18
+      name: pricing_visibility
+      label: Pricing Visibility
+      hint: Are prices clearly displayed
+      type: select_one
+      options:
+      - Yes - all prices visible
+      - Yes - most prices visible
+      - Partially - some prices missing
+      - No - prices not visible
+      required: true
+    - id: 19
+      name: checkout_experience
+      label: Checkout Experience Rating
+      hint: Rate the checkout process
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Did not checkout
+      required: true
+    - id: 20
+      name: brand_compliance
+      label: Brand Compliance
+      hint: How well does store follow brand standards
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Somewhat compliant
+      - Not compliant
+      required: true
+    - id: 21
+      name: issues_identified
+      label: Issues Identified
+      hint: Select all issues found
+      type: select_multiple
+      options:
+      - Cleanliness issues
+      - Display problems
+      - Staff issues
+      - Inventory gaps
+      - Pricing errors
+      - Maintenance needed
+      - Safety concerns
+      - No issues
+      required: true
+    - id: 22
+      name: issues_description
+      label: Issues Description
+      hint: Describe any issues in detail
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recommendations
+      label: Recommendations
+      hint: What improvements do you recommend
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: overall_rating
+      label: Overall Store Rating
+      hint: Overall evaluation score
+      type: select_one
+      options:
+      - Excellent - exceeds standards
+      - Very good - above standards
+      - Good - meets standards
+      - Fair - below standards
+      - Poor - needs immediate attention
+      required: true
+    - id: 25
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - Yes - urgent
+      - Yes - routine
+      - No - all satisfactory
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

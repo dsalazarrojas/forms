@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Address Change Declaration Form
+    pages:
+    - id: 1
+      name: declaration_intro
+      label: -- Formal Declaration of Address Change --
+      hint: Please provide details for updating your official records
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: declarant_full_name
+      label: Full Name / Legal Entity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_id
+      label: Account / Member Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: declaration_type
+      label: Type of Address Change
+      hint: null
+      type: select_one
+      options:
+      - Residential / Personal Move
+      - Business Headquarters Relocation
+      - Billing Address Update Only
+      - Seasonal / Temporary Change
+      required: true
+    - id: 5
+      name: effective_date
+      label: Effective Date of Change
+      hint: When does the new address become active?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: old_address_header
+      label: -- Previous Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: old_address_full
+      label: Full Previous Address
+      hint: Street, City, State, Zip, Country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: new_address_header
+      label: -- New Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: new_street_address
+      label: New Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: new_city
+      label: New City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: new_state_province
+      label: New State / Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_zip_postal_code
+      label: New Zip / Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_country
+      label: New Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: updated_phone
+      label: Updated Contact Phone Number
+      hint: If changed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: legal_declaration_ack
+      label: I solemnly declare that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - I Solemly Declare
+      - Other
+      required: true
+    - id: 16
+      name: declaration_date
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true

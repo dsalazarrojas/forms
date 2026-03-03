@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mutual Fund Portfolio Addition
+    pages:
+    - id: 1
+      name: portfolio_addition
+      label: portfolio_addition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allocation
+      label: allocation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: objectives
+      label: objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investment_firm
+      label: investment_firm
+      hint: null
+      type: select_one
+      options:
+      - Fidelity
+      - Vanguard
+      required: true
+    - id: 6
+      name: advisor
+      label: advisor
+      hint: null
+      type: select_one
+      options:
+      - Bob
+      - Jane
+      - Joe
+      required: true
+    - id: 7
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

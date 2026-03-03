@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finance Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active Employee
+      - Self-Employed
+      - Unemployed
+      required: true
+    - id: 7
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_multiple
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      required: true
+    - id: 11
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Personal Loan
+      - Commercial Loan
+      - Business Loan
+      required: true
+    - id: 12
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: loan_agreement
+      label: Loan Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: loan_terms_accepted
+      label: Loan Terms Accepted
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the loan terms
+      - I accept the loan terms
+      - I will review and understand the loan terms later
+      required: true
+    - id: 18
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: loan_time
+      label: Loan Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Approved with Conditions
+      required: true
+    - id: 21
+      name: reason_denied
+      label: Reason Denied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_approved
+      label: Reason Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reason_condition
+      label: Reason Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

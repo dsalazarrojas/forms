@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Overview For Financial Coaching
+    pages:
+    - id: 1
+      name: income_statement
+      label: Income Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_statement
+      label: Expense Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: financial_instruments
+      label: Financial Instruments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: financial_instruments_list
+      label: Financial Instruments List
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false

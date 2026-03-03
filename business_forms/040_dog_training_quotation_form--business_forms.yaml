@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Quotation Form
+    pages:
+    - id: 1
+      name: potential_client
+      label: Potential Client
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: dog_info
+      label: Dog Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_options
+      label: Service Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: training_quote
+      label: Training Quote
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: trainer_info
+      label: Trainer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true

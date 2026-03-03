@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Role Delegation Request Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_to_delegate
+      label: Role to Delegate
+      hint: null
+      type: select_one
+      options:
+      - Role A
+      - Role B
+      - Role C
+      required: false
+    - id: 6
+      name: new_delegate_role_to_delegate
+      label: New Delegate Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

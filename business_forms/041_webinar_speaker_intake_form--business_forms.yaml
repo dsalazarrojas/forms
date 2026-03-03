@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Speaker Intake Form
+    pages:
+    - id: 1
+      name: speaker_details
+      label: Speaker Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_topics
+      label: Speaker Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: webinar_availability
+      label: Webinar Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: speaker_availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false

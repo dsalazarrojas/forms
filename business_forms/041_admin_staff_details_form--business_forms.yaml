@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Admin Staff Details Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Full name as on payroll
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee id
+      hint: Internal identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position
+      label: Position
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager
+      label: Manager name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: office_location
+      label: Office location
+      hint: Building floor or remote
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workstation_needs
+      label: Workstation needs
+      hint: Hardware or software requirements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contract_type
+      label: Contract type
+      hint: Permanent temporary contractor
+      type: select_one
+      options: [Permanent, Temporary, Contractor]
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name relation and phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional staff details
+      type: text
+      options: []
+      required: false

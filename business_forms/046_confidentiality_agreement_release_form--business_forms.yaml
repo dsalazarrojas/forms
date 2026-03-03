@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidentiality Agreement Release Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Full Legal Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: release_type
+      label: Release Type
+      hint: What type of release
+      type: select_one
+      options:
+      - Full Release from NDA
+      - Partial Release
+      - Time-Limited Release
+      - Purpose-Specific Release
+      - Third-Party Disclosure
+      required: true
+    - id: 11
+      name: original_agreement_date
+      label: Original Agreement Date
+      hint: When NDA was signed
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: agreement_reference
+      label: Agreement Reference Number
+      hint: Contract ID if any
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: information_to_release
+      label: Information to be Released
+      hint: What needs release
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: release_reason
+      label: Reason for Release Request
+      hint: Why you need release
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: release_scope
+      label: Scope of Release
+      hint: How much information
+      type: select_one
+      options:
+      - Specific Documents Only
+      - Specific Topic Area
+      - All Related Information
+      - Unlimited Release
+      required: true
+    - id: 16
+      name: third_party_recipient
+      label: Third Party Recipient
+      hint: Who will receive info
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: third_party_relationship
+      label: Third Party Relationship
+      hint: Why they need it
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: release_duration
+      label: Release Duration
+      hint: How long release lasts
+      type: select_one
+      options:
+      - One-Time Disclosure
+      - 30 Days
+      - 90 Days
+      - 1 Year
+      - Indefinite
+      required: true
+    - id: 19
+      name: intended_use
+      label: Intended Use of Information
+      hint: What will you do with it
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: further_disclosure
+      label: Further Disclosure Planned
+      hint: Will you share further
+      type: select_one
+      options:
+      - No Further Disclosure
+      - Yes To Specified Parties
+      - Yes Public Disclosure
+      required: true
+    - id: 21
+      name: specified_parties
+      label: Specified Parties
+      hint: Who else will receive
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: security_measures
+      label: Security Measures
+      hint: How will you protect it
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: return_destruction
+      label: Return or Destruction Plan
+      hint: When will you return
+      type: select_one
+      options:
+      - Return After Use
+      - Destroy After Use
+      - Retain Indefinitely
+      - As Directed
+      required: true
+    - id: 24
+      name: compensation
+      label: Compensation for Release
+      hint: Any payment involved
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: liability_acceptance
+      label: Liability Acceptance
+      hint: Do you accept liability
+      type: select_one
+      options:
+      - Yes Accept Full Liability
+      - Yes Accept Partial Liability
+      - No Cannot Accept
+      required: true
+    - id: 26
+      name: legal_review
+      label: Legal Review
+      hint: Have you had legal advice
+      type: select_one
+      options:
+      - Yes Reviewed by Counsel
+      - No Not Reviewed
+      required: true
+    - id: 27
+      name: attorney_name
+      label: Attorney Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: understanding_statement
+      label: Understanding Statement
+      hint: Do you understand implications
+      type: select_one
+      options:
+      - Yes Fully Understood
+      - Partially Understood
+      - Need Clarification
+      required: true
+    - id: 29
+      name: voluntary_request
+      label: Voluntary Request
+      hint: Is this voluntary
+      type: select_one
+      options:
+      - Yes Voluntary
+      - No Required by Circumstances
+      required: true
+    - id: 30
+      name: release_authorization
+      label: Release Authorization
+      hint: Do you authorize release
+      type: select_one
+      options:
+      - I Authorize This Release
+      - I Do Not Authorize
+      required: true
+    - id: 31
+      name: signature_date
+      label: Date of Authorization
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: authorizing_party
+      label: Authorizing Party Name
+      hint: Who can authorize
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: authorizing_title
+      label: Authorizing Party Title
+      hint: Their position
+      type: text
+      options: []
+      required: true

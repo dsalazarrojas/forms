@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Statement Form
+    pages:
+    - id: 1
+      name: income_statement_form
+      label: income_statement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: period_start_date
+      label: period_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: period_end_date
+      label: period_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: revenue
+      label: revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost_of_goods_sold
+      label: cost_of_goods_sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gross_profit
+      label: gross_profit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: operating_expenses
+      label: operating_expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: net_income
+      label: net_income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: categories
+      label: categories
+      hint: null
+      type: select_one
+      options:
+      - Operating
+      - Nonoperating
+      - Total
+      required: true
+    - id: 10
+      name: category_1
+      label: operating_expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category_2
+      label: nonoperating_expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category_3
+      label: total_expenses
+      hint: null
+      type: text
+      options: []
+      required: false

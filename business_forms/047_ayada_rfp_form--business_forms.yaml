@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayada Request for Proposal (RFP) Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name_rfp
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address_rfp
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number_rfp
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name_rfp
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_event_basics
+      label: -- Event Details --
+      hint: Help us understand your requirements
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_type_rfp
+      label: Type of Event
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Corporate Meeting or Seminar
+      - Grand Wedding or Celebration
+      - International Conference
+      - Private Social Event
+      - Executive Retreat
+      required: true
+    - id: 8
+      name: event_date_rfp
+      label: Requested Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: flexible_dates_rfp
+      label: Are your dates flexible?
+      hint: Choose one
+      type: select_one
+      options:
+      - No, Dates are fixed
+      - Yes, Plus or minus 1-2 days
+      - Yes, High flexibility
+      required: true
+    - id: 10
+      name: guest_count_rfp
+      label: Estimated Number of Attendees
+      hint: Approximate headcount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rooms_required_rfp
+      label: Number of Sleeping Rooms Required
+      hint: Total rooms for the group
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: nights_count_rfp
+      label: Number of Nights
+      hint: Duration of stay
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: space_requirements_rfp
+      label: Meeting Spaces Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grand Ballroom
+      - Breakout Meeting Rooms
+      - Executive Boardroom
+      - Outdoor Garden or Pool Area
+      - Private Beach Area
+      required: true
+    - id: 14
+      name: section_services_rfp
+      label: -- Services and Budget --
+      hint: Additional needs for your event
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: catering_needs_rfp
+      label: Catering Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full Breakfast Buffet
+      - Working Lunch
+      - Formal Dinner Banquet
+      - Morning and Afternoon Coffee Breaks
+      - Cocktail Reception and Canapes
+      required: false
+    - id: 16
+      name: av_requirements_rfp
+      label: Audio Visual and Tech Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High-Definition Projector and Screen
+      - Professional PA System and Microphones
+      - High-Speed Dedicated WiFi
+      - Staging and Specialized Lighting
+      required: false
+    - id: 17
+      name: budget_estimate_rfp
+      label: Estimated Total Budget
+      hint: Total budget in USD
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: referral_source_rfp
+      label: How did you hear about Ayada?
+      hint: null
+      type: select_one
+      options:
+      - Social Media (LinkedIn/Instagram)
+      - Personal Referral
+      - Google or Search Engine
+      - Attended a Previous Event
+      - Trade Show or Convention
+      required: true
+    - id: 19
+      name: special_requirements_rfp
+      label: Special Requirements or Comments
+      hint: Any other details we should consider
+      type: text
+      options: []
+      required: false

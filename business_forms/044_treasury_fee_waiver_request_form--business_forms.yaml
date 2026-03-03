@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Fee Waiver Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name_of_applicant
+      label: Name Of Applicant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_of_applicant
+      label: Email Of Applicant
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number_of_applicant
+      label: Contact Number Of Applicant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Account Fee Waiver
+      - Bond Fee Waiver
+      - Other
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Strategy Feedback Survey Form
+    pages:
+    - id: 1
+      name: sales_strategy_form
+      label: Sales Strategy Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_strategy_form_1
+      label: How many sales calls do you make per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sales_strategy_form_2
+      label: What time of day do you make these calls?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: sales_strategy_form_3
+      label: What are the top industries you focus on?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Software: Software'
+      - 'Hardware: Hardware'
+      - 'Other: Other'
+      required: false
+    - id: 5
+      name: sales_strategy_form_4
+      label: Sales Strategy Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sales_strategy_form_5
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

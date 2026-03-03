@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Service Agreement Form
+    pages:
+    - id: 1
+      name: section_service_provider
+      label: -- Service Provider Information --
+      type: note
+      required: false
+    - id: 2
+      name: provider_name
+      label: Service Provider Name
+      hint: Your business name
+      type: text
+      required: true
+    - id: 3
+      name: provider_contact_person
+      label: Contact Person
+      hint: Your name
+      type: text
+      required: true
+    - id: 4
+      name: provider_email
+      label: Email Address
+      hint: Business email
+      type: email
+      required: true
+    - id: 5
+      name: provider_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: true
+    - id: 6
+      name: provider_address
+      label: Business Address
+      hint: Full address
+      type: text
+      required: true
+    - id: 7
+      name: section_client
+      label: -- Client Information --
+      type: note
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: Organization receiving services
+      type: text
+      required: true
+    - id: 9
+      name: client_contact_person
+      label: Client Contact Person
+      hint: Their name
+      type: text
+      required: true
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: Their email
+      type: email
+      required: true
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: Their phone number
+      type: text
+      required: true
+    - id: 12
+      name: section_service_details
+      label: -- Service Details --
+      type: note
+      required: false
+    - id: 13
+      name: service_description
+      label: Description of Services
+      hint: What services will be provided
+      type: text
+      required: true
+    - id: 14
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed breakdown of deliverables
+      type: text
+      required: true
+    - id: 15
+      name: service_start_date
+      label: Service Start Date
+      hint: When do services begin
+      type: date
+      required: true
+    - id: 16
+      name: service_end_date
+      label: Service End Date
+      hint: When do services end
+      type: date
+      required: true
+    - id: 17
+      name: section_pricing
+      label: -- Pricing and Payment --
+      type: note
+      required: false
+    - id: 18
+      name: total_contract_value
+      label: Total Contract Value
+      hint: Full cost of services
+      type: number
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment schedule or milestones
+      type: text
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will payment be made
+      type: text
+      required: false
+    - id: 21
+      name: section_terms
+      label: -- Terms and Conditions --
+      type: note
+      required: false
+    - id: 22
+      name: deliverables
+      label: Key Deliverables
+      hint: What will be delivered
+      type: text
+      required: true
+    - id: 23
+      name: timeline
+      label: Project Timeline and Milestones
+      hint: Key dates and phases
+      type: text
+      required: false
+    - id: 24
+      name: support_duration
+      label: Support Duration After Completion
+      hint: How long will support be provided
+      type: text
+      required: false
+    - id: 25
+      name: termination_clause
+      label: Termination or Cancellation Terms
+      hint: Under what conditions can this be terminated
+      type: text
+      required: false
+    - id: 26
+      name: section_signature
+      label: -- Agreement Acknowledgment --
+      type: note
+      required: false
+    - id: 27
+      name: agreement_acceptance
+      label: I Accept These Terms and Conditions
+      hint: Confirm agreement to terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 28
+      name: signature_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      required: true

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editor Application Form Template
+    pages:
+    - id: 1
+      name: youtube_channel
+      label: Do you have a YouTube channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: need_editor
+      label: Do you need an editor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hire_editor
+      label: Why do you want to hire an editor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience_level
+      label: How much experience do you have with video editing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: equipment_used
+      label: What equipment do you currently use for video editing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: software_used
+      label: What software are you currently using for video editing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: youtube_channel_awareness
+      label: Are you aware of any YouTube algorithm changes that may affect video
+        performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: youtube_channel_age
+      label: How long have you had a YouTube channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: availability
+      label: What is your availability for editing projects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_info
+      label: What is your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: message
+      label: Any other message
+      hint: null
+      type: text
+      options: []
+      required: false

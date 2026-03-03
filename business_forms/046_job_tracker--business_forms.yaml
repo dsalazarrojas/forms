@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Tracker
+    pages:
+    - id: 1
+      name: new_form
+      label: New form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_name
+      label: Job name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: Job description
+      hint: Brief description of the job
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact name
+      hint: Name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number of the contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_status_1
+      label: Job status 1
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 9
+      name: job_status_2
+      label: Job status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      required: false

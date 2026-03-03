@@ -1,0 +1,411 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Management Insight Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: Cash Flow Management Insight Survey
+        hint: Share your cash flow management practices and challenges
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: survey_date
+        label: Survey Date
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: business_info
+        label: Business Information
+        hint: Company details
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: business_name
+        label: Business Name
+        hint: Company name
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: business_size
+        label: Business Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - Self-employed - 1
+          - 2 to 10 employees
+          - 11 to 50 employees
+          - 51 to 200 employees
+          - 201 to 500 employees
+          - Over 500 employees
+        required: true
+      - id: 8
+        name: industry
+        label: Industry
+        hint: Business sector
+        type: select_one
+        options:
+          - Retail
+          - Manufacturing
+          - Technology
+          - Healthcare
+          - Professional services
+          - Restaurant or hospitality
+          - Construction
+          - Real estate
+          - Education
+          - Nonprofit
+          - Other
+        required: true
+      - id: 9
+        name: annual_revenue
+        label: Annual Revenue Range
+        hint: Yearly income
+        type: select_one
+        options:
+          - Under 100000
+          - 100000 to 500000
+          - 500000 to 1 million
+          - 1 million to 5 million
+          - 5 million to 10 million
+          - Over 10 million
+        required: true
+      - id: 10
+        name: years_in_business
+        label: Years in Business
+        hint: Operating history
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+        required: true
+      - id: 11
+        name: your_role
+        label: Your Role
+        hint: Job function
+        type: select_one
+        options:
+          - Owner or founder
+          - CEO or president
+          - CFO or finance director
+          - Controller or treasurer
+          - Accountant
+          - Bookkeeper
+          - Operations manager
+          - Other
+        required: true
+      - id: 12
+        name: cash_flow_practices
+        label: Cash Flow Management Practices
+        hint: Current methods
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: cash_flow_tracking
+        label: How Do You Track Cash Flow
+        hint: Methods used
+        type: select_one
+        options:
+          - Dedicated software
+          - Spreadsheet - Excel or Google Sheets
+          - Accounting software
+          - Manual records
+          - Accountant manages
+          - Not formally tracked
+        required: true
+      - id: 14
+        name: forecasting_frequency
+        label: How Often Do You Forecast Cash Flow
+        hint: Planning frequency
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Annually
+          - Irregularly
+          - Never
+        required: true
+      - id: 15
+        name: cash_flow_statement
+        label: Do You Prepare Cash Flow Statements
+        hint: Financial reporting
+        type: select_one
+        options:
+          - Yes - monthly
+          - Yes - quarterly
+          - Yes - annually
+          - Occasionally
+          - No - never
+        required: true
+      - id: 16
+        name: cash_reserve
+        label: Do You Maintain Cash Reserves
+        hint: Emergency funds
+        type: select_one
+        options:
+          - Yes - 6 plus months
+          - Yes - 3 to 6 months
+          - Yes - 1 to 3 months
+          - Yes - less than 1 month
+          - No - no reserves
+        required: true
+      - id: 17
+        name: tools_used
+        label: What Tools Do You Use
+        hint: Software and systems
+        type: select_multiple
+        options:
+          - QuickBooks
+          - Xero
+          - Sage
+          - Excel or Google Sheets
+          - Float
+          - Pulse
+          - Cash Flow Frog
+          - Custom software
+          - None
+          - Other
+        required: false
+      - id: 18
+        name: challenges
+        label: Cash Flow Challenges
+        hint: Difficulties faced
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: main_challenges
+        label: What Are Your Main Cash Flow Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Late customer payments
+          - Seasonal fluctuations
+          - Unexpected expenses
+          - Inventory management
+          - Overhead costs
+          - Growth financing
+          - Debt payments
+          - Tax obligations
+          - Payroll management
+          - Lack of visibility
+          - None
+          - Other
+        required: true
+      - id: 20
+        name: challenge_severity
+        label: How Severe Are These Challenges
+        hint: Impact level
+        type: select_one
+        options:
+          - Critical - major threat
+          - Significant - regular concern
+          - Moderate - occasional issue
+          - Minor - manageable
+          - Not challenging
+        required: true
+      - id: 21
+        name: payment_terms
+        label: What Are Your Typical Payment Terms
+        hint: Customer terms
+        type: select_one
+        options:
+          - Due on receipt
+          - Net 15
+          - Net 30
+          - Net 60
+          - Net 90
+          - Varies by customer
+        required: true
+      - id: 22
+        name: late_payments
+        label: How Often Do Customers Pay Late
+        hint: Collection issues
+        type: select_one
+        options:
+          - Always - majority late
+          - Often - more than half
+          - Sometimes - about half
+          - Occasionally - minority
+          - Rarely - almost never
+        required: true
+      - id: 23
+        name: collection_process
+        label: Do You Have a Collection Process
+        hint: Receivables management
+        type: select_one
+        options:
+          - Yes - formal process
+          - Yes - informal process
+          - No - but planning one
+          - No - not needed
+        required: true
+      - id: 24
+        name: financing_used
+        label: Do You Use Financing for Cash Flow
+        hint: Funding sources
+        type: select_one
+        options:
+          - Yes - line of credit
+          - Yes - business loan
+          - Yes - invoice factoring
+          - Yes - credit cards
+          - No - never needed
+          - No - avoid financing
+        required: true
+      - id: 25
+        name: review_habits
+        label: Cash Flow Review Habits
+        hint: Monitoring practices
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: review_frequency
+        label: How Often Do You Review Cash Flow
+        hint: Monitoring frequency
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Annually
+          - Never
+        required: true
+      - id: 27
+        name: who_reviews
+        label: Who Reviews Cash Flow
+        hint: Responsibility
+        type: select_multiple
+        options:
+          - Owner
+          - CEO
+          - CFO
+          - Controller
+          - Accountant
+          - Bookkeeper
+          - Board of directors
+          - No one
+          - Other
+        required: true
+      - id: 28
+        name: cash_flow_meetings
+        label: Do You Hold Cash Flow Meetings
+        hint: Team discussions
+        type: select_one
+        options:
+          - Yes - weekly
+          - Yes - monthly
+          - Yes - quarterly
+          - Occasionally
+          - No - never
+        required: true
+      - id: 29
+        name: kpi_tracking
+        label: Do You Track Cash Flow KPIs
+        hint: Metrics monitoring
+        type: select_one
+        options:
+          - Yes - multiple KPIs
+          - Yes - one or two
+          - Occasionally
+          - No - never
+        required: true
+      - id: 30
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: Where you need help
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: biggest_pain_point
+        label: What Is Your Biggest Cash Flow Pain Point
+        hint: Main frustration
+        type: text
+        options: []
+        required: true
+      - id: 32
+        name: desired_improvements
+        label: What Improvements Would You Like
+        hint: Goals
+        type: select_multiple
+        options:
+          - Better forecasting
+          - Faster collections
+          - Better payment terms
+          - Reduced expenses
+          - More cash reserves
+          - Better visibility
+          - Automated tracking
+          - Professional advice
+          - Better tools
+          - Other
+        required: true
+      - id: 33
+        name: confidence_level
+        label: How Confident Are You in Your Cash Flow Management
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 34
+        name: professional_help
+        label: Do You Work with Financial Professionals
+        hint: External support
+        type: select_one
+        options:
+          - Yes - CPA regularly
+          - Yes - CFO advisory
+          - Yes - financial advisor
+          - Occasionally
+          - No - handle internally
+        required: true
+      - id: 35
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights
+        type: text
+        options: []
+        required: false

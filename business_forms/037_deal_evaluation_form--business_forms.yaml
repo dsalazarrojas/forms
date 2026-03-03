@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deal Evaluation Form
+    pages:
+    - id: 1
+      name: deal_evaluation_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: deal_value
+      label: Potential Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: partner_type
+      label: Partner Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: deal_term
+      label: Deal Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: deal_size
+      label: Deal Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: deal_size_option_1
+      label: Small
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: deal_size_option_2
+      label: Medium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deal_size_option_3
+      label: Large
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: deal_size_option_4
+      label: Extra Large
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: deal_duration
+      label: Deal Duration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: deal_value
+      label: Deal Value
+      hint: null
+      type: text
+      options: []
+      required: true

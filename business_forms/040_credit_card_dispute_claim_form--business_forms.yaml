@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Dispute Claim Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dispute_type
+      label: Dispute Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 3
+      name: card_details
+      label: Card Details
+      hint: Please enter your credit card details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_dispute
+      label: Date of Dispute
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount_disputed
+      label: Amount Disputed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: dispute_description
+      label: Dispute Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Please attach supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

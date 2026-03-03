@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author's Release Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: Date of this release
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Author Email
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_phone
+      label: Author Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pen_name
+      label: Pen Name or Publishing Name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_title
+      label: Work Title
+      hint: Title of the work being released
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_description
+      label: Work Description
+      hint: Brief description of the work
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: work_type
+      label: Type of Work
+      hint: What kind of work
+      type: select_one
+      options:
+      - Article
+      - Story
+      - Poetry
+      - Essay
+      - Blog Post
+      - Book Chapter
+      - Photo Essay
+      - Other
+      required: true
+    - id: 9
+      name: publication_medium
+      label: Publication Medium
+      hint: Where will it be published
+      type: select_one
+      options:
+      - Print Publication
+      - Online Website
+      - Magazine
+      - Newspaper
+      - Newsletter
+      - Book
+      - Multiple Mediums
+      required: true
+    - id: 10
+      name: publishing_organization
+      label: Publishing Organization Name
+      hint: Name of publisher or publication
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: publication_date
+      label: Planned Publication Date
+      hint: When will it be published
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: copyright_ownership
+      label: Copyright Ownership
+      hint: Who will own the copyright
+      type: select_one
+      options:
+      - Author Retains Copyright
+      - Publisher Owns Copyright
+      - Shared Copyright
+      - Work for Hire
+      - Other Arrangement
+      required: true
+    - id: 13
+      name: exclusive_publication
+      label: Exclusive Publication Rights
+      hint: Is this exclusive to one publication
+      type: select_one
+      options:
+      - Exclusive Rights
+      - Non-Exclusive
+      - Limited Exclusivity
+      - First Publication Rights Only
+      required: true
+    - id: 14
+      name: republication_rights
+      label: Republication and Reuse Rights
+      hint: Can work be republished
+      type: select_one
+      options:
+      - No Republication
+      - Republication with Permission
+      - Republication in Compilations Only
+      - Free Republication Allowed
+      - Custom Terms
+      required: true
+    - id: 15
+      name: translation_rights
+      label: Translation Rights
+      hint: Can work be translated
+      type: select_one
+      options:
+      - Translation Rights Reserved
+      - Translation Permitted
+      - Translation with Permission
+      - No Translation Rights
+      required: false
+    - id: 16
+      name: adaptation_rights
+      label: Adaptation and Derivative Works
+      hint: Can work be adapted
+      type: select_one
+      options:
+      - No Adaptations
+      - Adaptations with Permission
+      - Free Adaptations Allowed
+      - Licensed Adaptations Only
+      required: false
+    - id: 17
+      name: compensation_payment
+      label: Compensation or Payment
+      hint: Is author being paid
+      type: select_one
+      options:
+      - No Compensation
+      - Flat Fee
+      - Per-Word Rate
+      - Royalty Based
+      - Other Arrangement
+      required: true
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: author_credit
+      label: Author Credit/Byline
+      hint: How will author be credited
+      type: select_one
+      options:
+      - Full Name with Bio
+      - Full Name Only
+      - Pen Name Only
+      - Anonymous
+      - Custom Credit
+      required: true
+    - id: 20
+      name: moral_rights
+      label: Moral Rights Reserved
+      hint: Author reserves moral rights
+      type: select_one
+      options:
+      - Yes - Rights Reserved
+      - No - Rights Waived
+      - Partial - Limited Rights
+      required: false
+    - id: 21
+      name: indemnification
+      label: Indemnification Clause
+      hint: Author warrants work is original
+      type: select_one
+      options:
+      - Author Indemnifies Publisher
+      - Mutual Indemnification
+      - Publisher Indemnifies Author
+      - No Indemnification
+      required: false
+    - id: 22
+      name: termination_clause
+      label: Termination Rights
+      hint: Can this agreement be terminated
+      type: select_one
+      options:
+      - No Termination
+      - Termination for Cause
+      - Termination by Either Party
+      - Custom Termination
+      required: true
+    - id: 23
+      name: author_signature
+      label: Author Authorization
+      hint: I authorize this release
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      - I Need Legal Review
+      required: true
+    - id: 24
+      name: additional_conditions
+      label: Additional Conditions or Restrictions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

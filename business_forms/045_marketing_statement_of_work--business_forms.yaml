@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketing_statement_of_work
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: deliverables
+      label: Deliverables
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: marketing_manager
+      label: Marketing Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false

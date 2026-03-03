@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Van Audit Tracker Form
+    pages:
+    - id: 1
+      name: van_audit_tracker_form_page_1
+      label: van_audit_tracker_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: van_audit_frequency
+      label: van_audit_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: van_standards_met
+      label: van_standards_met
+      hint: null
+      type: select_one
+      options:
+      - Van Standards
+      - Van Standards Not Met
+      required: false
+    - id: 4
+      name: van_maintenance_schedule
+      label: van_maintenance_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Every 5000 km
+      - Every 20000 km
+      - Every 50000 km
+      required: false
+    - id: 5
+      name: van_driver_info
+      label: van_driver_info
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      - Bob Johnson
+      required: false
+    - id: 6
+      name: van_last_inspection
+      label: van_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: van_last_inspection_date
+      label: van_last_inspection_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: van_downtime
+      label: van_downtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: van_total_hours
+      label: van_total_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: van_last_maintenance_cost
+      label: van_last_maintenance_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: van_last_maintenance_description
+      label: van_last_maintenance_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: van_driver_comments
+      label: van_driver_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: van_fleet_manager_comments
+      label: van_fleet_manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: van_audit_tracker_comments
+      label: van_audit_tracker_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: van_standards_description
+      label: van_standards_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: van_standards_frequency
+      label: van_standards_frequency
+      hint: null
+      type: text
+      options: []
+      required: false

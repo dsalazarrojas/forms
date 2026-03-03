@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: software_deployment_check_in_form
+    pages:
+    - id: 1
+      name: deployment_status
+      label: What is the current deployment status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - On Hold
+      - Not Applicable
+      required: false
+    - id: 2
+      name: onboarding_date
+      label: Onboarding date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: software_release_notes
+      label: Software release notes
+      hint: Add any important notes about this release
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_impact
+      label: User Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: user_impact_comments
+      label: User Impact Comments
+      hint: Add any comments about user impact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: technical_impact
+      label: Technical Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: technical_impact_comments
+      label: Technical Impact Comments
+      hint: Add any comments about technical impact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_notes
+      label: Release Notes
+      hint: Add any important notes about this release
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: Team name
+      hint: null
+      type: select_multiple
+      options:
+      - IT Team
+      - Development Team
+      - Quality Assurance Team
+      required: false
+    - id: 10
+      name: team_comments
+      label: Team Comments
+      hint: Add any comments about the team
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: Add any information about next steps
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: deployment_notes
+      label: Deployment Notes
+      hint: Add any notes about the deployment
+      type: text
+      options: []
+      required: false

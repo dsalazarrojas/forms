@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Flooding Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location_address
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_floor
+      label: Floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_areas
+      label: Affected Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: cause_source
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cause_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cause_source_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cause_source_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cause_source_damage
+      label: Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cause_source_depth
+      label: Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: cause_source_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cause_source_flow_rate
+      label: Flow Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cause_source_flow_level
+      label: Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cause_source_flow_duration
+      label: Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: cause_source_depth_value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporting_person
+      label: Reporting Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Reconciliation Summary Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: summary_request
+      hint: null
+      type: select_one
+      options:
+      - Request for Reconciliation
+      - Reconciliation Review
+      - Reconciliation Approval
+      required: false
+    - id: 2
+      name: form_2
+      label: request_date
+      hint: Date of request
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: requested_by
+      hint: Name of the user who requested the reconciliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: invoice_id
+      hint: Invoice ID
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: invoice_date
+      hint: Date of invoice
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: total_amount
+      hint: Total amount of the invoice
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: payment_status
+      hint: Payment status of the invoice
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      required: true
+    - id: 8
+      name: form_8
+      label: notes
+      hint: Additional notes about the reconciliation
+      type: note
+      options: []
+      required: false

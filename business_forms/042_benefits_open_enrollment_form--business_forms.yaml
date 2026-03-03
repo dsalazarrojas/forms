@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Benefits Open Enrollment Form
+    pages:
+    - id: 1
+      name: section_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Temporary
+      - Contract
+      required: true
+    - id: 8
+      name: section_household
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Domestic Partnership
+      - Divorced
+      - Widowed
+      required: true
+    - id: 10
+      name: number_of_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dependent_details
+      label: Dependent Details
+      hint: Names and ages of dependents
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_enrollment
+      label: -- Benefit Selections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: health_insurance_selection
+      label: Health Insurance Plan Selection
+      hint: null
+      type: select_one
+      options:
+      - PPO Plan A
+      - PPO Plan B
+      - HMO Plan
+      - High Deductible Plan
+      - Waive Coverage
+      required: true
+    - id: 14
+      name: coverage_tier
+      label: Coverage Tier
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Employee Plus Spouse
+      - Employee Plus Child
+      - Family
+      - Waive
+      required: true
+    - id: 15
+      name: dental_insurance
+      label: Dental Insurance
+      hint: null
+      type: select_one
+      options:
+      - Enroll
+      - Waive
+      - Decline
+      required: true
+    - id: 16
+      name: vision_insurance
+      label: Vision Insurance
+      hint: null
+      type: select_one
+      options:
+      - Enroll
+      - Waive
+      - Decline
+      required: true
+    - id: 17
+      name: life_insurance
+      label: Life Insurance Coverage Amount
+      hint: null
+      type: select_one
+      options:
+      - 1x Salary
+      - 2x Salary
+      - 3x Salary
+      - 5x Salary
+      - Waive
+      required: false
+    - id: 18
+      name: fsa_election
+      label: Flexible Spending Account (FSA)
+      hint: null
+      type: select_one
+      options:
+      - Enroll
+      - Waive
+      - Not Eligible
+      required: false
+    - id: 19
+      name: hsa_election
+      label: Health Savings Account (HSA)
+      hint: null
+      type: select_one
+      options:
+      - Enroll
+      - Waive
+      - Not Eligible
+      required: false
+    - id: 20
+      name: fsa_amount
+      label: FSA Annual Election Amount
+      hint: Dollar amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewed_materials
+      label: I Have Reviewed Benefit Materials
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: understand_elections
+      label: I Understand My Benefit Elections
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: enrollment_deadline
+      label: Enrollment Deadline Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: enrollment_date
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: true

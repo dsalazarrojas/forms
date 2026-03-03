@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Funding Request Form
+    pages:
+    - id: 1
+      name: section_club
+      label: -- Club Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: club_type
+      label: Club Type or Category
+      hint: Sports, academic, cultural, etc
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: founding_year
+      label: Year Club Was Founded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: club_president
+      label: Club President Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_funding
+      label: -- Funding Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requested_amount
+      label: Amount Requested - USD
+      hint: Total funds needed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: funding_purpose
+      label: Purpose of Funding Request
+      hint: What will the money be used for?
+      type: select_one
+      options:
+      - Event or competition
+      - Equipment purchase
+      - Training or development
+      - Travel
+      - General operations
+      - Other
+      required: true
+    - id: 11
+      name: detailed_purpose
+      label: Detailed Description of How Funds Will Be Used
+      hint: Be specific about expenses
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: timeline
+      label: Timeline for Fund Usage
+      hint: When will funds be needed and spent?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_justification
+      label: -- Justification and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: member_count
+      label: Current Club Membership
+      hint: Number of active members
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: expected_impact
+      label: Expected Impact of This Funding
+      hint: How will it benefit the club and members?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: community_benefit
+      label: Community or Campus Benefit
+      hint: How does this benefit the broader community?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_budget
+      label: -- Budget Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: budget_items
+      label: Itemized Budget Breakdown
+      hint: List major expenses and costs
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: other_funding_sources
+      label: Other Funding Sources or Contributions
+      hint: Are there other funds or donations?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_financials
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_balance
+      label: Current Club Fund Balance - USD
+      hint: Approximate available funds
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: last_funding_date
+      label: Last Funding Received - Date
+      hint: When did club last receive funds?
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_accountability
+      label: -- Accountability and Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reporting_plan
+      label: How Will You Report on Fund Usage?
+      hint: How will accountability be demonstrated?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: advisor_approval
+      label: Faculty Advisor Name - Approval
+      hint: Club advisor who endorses request
+      type: text
+      options: []
+      required: false

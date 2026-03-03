@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Note Form
+    pages:
+    - id: 1
+      name: supervisor_note_form_page
+      label: supervisor note form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_note_form_worker
+      label: worker id
+      hint: Required
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_note_form_note
+      label: note
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_note_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_note_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

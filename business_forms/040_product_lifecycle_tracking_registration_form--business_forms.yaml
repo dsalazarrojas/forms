@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Lifecycle Tracking Registration Form
+    pages:
+    - id: 1
+      name: product_details
+      label: product_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lifecycle_stages
+      label: lifecycle_stages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: assigned_team_members
+      label: assigned_team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_manager
+      label: product_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Strategy Records Release Form
+    pages:
+    - id: 1
+      name: corporate_strategy_records_release_form
+      label: Corporate Strategy Records Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_tool
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: select_multiple
+      options:
+      - Corporate Strategy
+      - Records Release Form
+      - Records Release Form Version
+      - Other Records Release Form
+      required: false
+    - id: 10
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

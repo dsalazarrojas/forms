@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: soothing_oak_intake
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: Briefly describe your medical history
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: preferred_contact_reported
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 7
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule_duration
+      label: Schedule Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_day
+      label: Preferred Contact Day
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 10
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_frequency
+      label: Preferred Contact Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 13
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: massage_style
+      label: Massage Style
+      hint: null
+      type: select_multiple
+      options:
+      - Deep Tissue
+      - Swedish
+      - Sports
+      - Myofascial Release
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: Briefly describe your medical history
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Clinic
+      - Mobile
+      required: false
+    - id: 18
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Stretching
+      - Acupuncture
+      - Cupping
+      required: false
+    - id: 19
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Insurance
+      - Gift
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: preferred_contact_person
+      label: Preferred Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Me
+      - Someone Else
+      required: false
+    - id: 24
+      name: schedule_time_end
+      label: Schedule Time End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: schedule_duration_end
+      label: Schedule Duration End
+      hint: null
+      type: number
+      options: []
+      required: false

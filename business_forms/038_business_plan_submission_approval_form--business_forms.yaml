@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Submission Approval Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date plan is submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitted_by_name
+      label: Submitted By
+      hint: Name of submitter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitted_by_email
+      label: Submitter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: plan_title
+      label: Business Plan Title
+      hint: Title of the plan
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: plan_version
+      label: Plan Version
+      hint: Version number (1.0, 2.0, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_period
+      label: Review Period
+      hint: What period does plan cover?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: plan_document_attached
+      label: Plan Document Attached
+      hint: Is document attached?
+      type: select_one
+      options:
+      - true
+      - false
+      - Being Prepared
+      required: true
+    - id: 9
+      name: supporting_docs_attached
+      label: Supporting Documents Attached
+      hint: Financial statements, market research, etc.
+      type: select_one
+      options:
+      - Yes, All Attached
+      - Some Attached
+      - None Attached
+      - Will Provide Later
+      required: true
+    - id: 10
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of person reviewing
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reviewer_email
+      label: Reviewer Email
+      hint: Reviewer contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_role
+      label: Reviewer Role
+      hint: Title or position
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: content_completeness
+      label: Content Completeness
+      hint: Is plan complete? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: financial_analysis_quality
+      label: Financial Analysis Quality
+      hint: Rate quality (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: market_analysis_quality
+      label: Market Analysis Quality
+      hint: Rate quality (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: operational_plan_quality
+      label: Operational Plan Quality
+      hint: Rate quality (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: presentation_quality
+      label: Presentation Quality
+      hint: Rate presentation (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: overall_quality_score
+      label: Overall Quality Score
+      hint: Overall assessment (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: approval_decision
+      label: Approval Decision
+      hint: What is your decision?
+      type: select_one
+      options:
+      - Approved
+      - Approved with Revisions
+      - Conditional Approval
+      - Rejected
+      - Needs Further Review
+      required: true
+    - id: 20
+      name: required_revisions
+      label: Required Revisions
+      hint: If applicable, specify revisions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_feedback
+      label: Reviewer Feedback
+      hint: Overall comments
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_steps
+      label: Next Steps
+      hint: What happens next?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: radar_technology_assessment
+    pages:
+    - id: 1
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - Radar System
+      - Other System
+      - No System
+      required: false
+    - id: 2
+      name: description
+      label: System Description
+      hint: A brief description of the radar system
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance
+      hint: How does the system perform?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: strength
+      label: Strengths
+      hint: List the strengths of the system
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: limitation
+      label: Limitations
+      hint: List the limitations of the system
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: Rate the system
+      type: number
+      options: []
+      required: false

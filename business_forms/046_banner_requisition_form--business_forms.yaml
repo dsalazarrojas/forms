@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banner Requisition Form
+    pages:
+    - id: 1
+      name: requisitioner_name
+      label: Requisitioner Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requisitioner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requisitioner_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Events
+      - Human Resources
+      - Operations
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: cost_center
+      label: Cost Center
+      hint: Budget code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requisition_date
+      label: Requisition Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: needed_by_date
+      label: Needed By Date
+      hint: When needed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: banner_purpose
+      label: Banner Purpose
+      hint: What is it for
+      type: select_one
+      options:
+      - Marketing Campaign
+      - Event Promotion
+      - Trade Show
+      - Office Decoration
+      - Recruitment
+      - Safety Signage
+      - Other
+      required: true
+    - id: 9
+      name: event_or_campaign
+      label: Event or Campaign Name
+      hint: Specific event
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: banner_specifications
+      label: Banner Specifications
+      hint: Size and type
+      type: select_one
+      options:
+      - Small Vinyl (2x4 ft)
+      - Medium Vinyl (3x6 ft)
+      - Large Vinyl (4x8 ft)
+      - Fabric Banner
+      - Retractable Banner
+      - Custom Specifications
+      required: true
+    - id: 11
+      name: custom_size
+      label: Custom Size
+      hint: If custom
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity_requested
+      label: Quantity Requested
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: design_requirements
+      label: Design Requirements
+      hint: What should it look like
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: text_content
+      label: Text Content
+      hint: Exact wording
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: branding_guidelines
+      label: Branding Guidelines
+      hint: Any brand requirements
+      type: select_one
+      options:
+      - Follow Standard Brand Guide
+      - Special Requirements
+      - No Brand Guidelines
+      required: true
+    - id: 16
+      name: logo_usage
+      label: Logo Usage
+      hint: Include company logo
+      type: select_one
+      options:
+      - Yes, primary logo
+      - Yes, secondary logo
+      - Yes, event logo
+      - No logo
+      required: true
+    - id: 17
+      name: color_requirements
+      label: Color Requirements
+      hint: Specific colors
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: usage_location
+      label: Usage Location
+      hint: Where will it be used
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Both
+      required: true
+    - id: 19
+      name: installation_required
+      label: Installation Required
+      hint: Do you need setup
+      type: select_one
+      options:
+      - Yes, professional installation
+      - No, will self-install
+      required: true
+    - id: 20
+      name: vendor_preference
+      label: Vendor Preference
+      hint: Preferred supplier
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Budget estimate
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: funding_source
+      label: Funding Source
+      hint: Which budget
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_approval
+      label: Manager Approval
+      hint: Supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Yet Submitted
+      required: true
+    - id: 25
+      name: additional_justification
+      label: Additional Justification
+      hint: Why is this needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any notes
+      type: text
+      options: []
+      required: false

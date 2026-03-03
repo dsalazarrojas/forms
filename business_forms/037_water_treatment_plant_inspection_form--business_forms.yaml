@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Treatment Plant Inspection Form
+    pages:
+    - id: 1
+      name: water_treatment_plant_inspection_form_data
+      label: Water Treatment Plant Inspection Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: plant_name
+      label: Plant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_id
+      label: Facility Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Offline''}'
+      - '{''id'': 3, ''label'': ''Maintenance''}'
+      required: false
+    - id: 8
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 9
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preventive_actions
+      label: Preventive Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: regulatory_standards
+      label: Regulatory Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Not Required''}'
+      required: false
+    - id: 15
+      name: preventive_action_status
+      label: Preventive Action Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Not Required''}'
+      required: false
+    - id: 16
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

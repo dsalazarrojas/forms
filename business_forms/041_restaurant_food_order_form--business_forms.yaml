@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Food Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ordered_items_table
+      label: Ordered Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_name
+      label: Food Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Price per Unit
+      hint: Enter unit price
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: receipt_number
+      label: Receipt Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_amount_due
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      required: false
+    - id: 28
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 29
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

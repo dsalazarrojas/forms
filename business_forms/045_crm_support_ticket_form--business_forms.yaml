@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Support Ticket Form
+    pages:
+    - id: 1
+      name: ticket_id
+      label: Ticket ID
+      hint: Auto-generated reference number
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_number
+      label: Account or Customer Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_date
+      label: Date Issue Occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: report_date
+      label: Date Reported
+      hint: When ticket was created
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: issue_category
+      label: Issue Category
+      hint: Type of problem
+      type: select_one
+      options:
+      - Technical issue
+      - Account problem
+      - Billing inquiry
+      - Feature request
+      - Bug report
+      - Feedback
+      - Other
+      required: true
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of issue
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 11
+      name: subject
+      label: Issue Subject or Title
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: description
+      label: Detailed Description of Issue
+      hint: Provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: steps_to_reproduce
+      label: Steps to Reproduce Issue
+      hint: Numbered steps if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: error_message
+      label: Error Message or Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: browser_os
+      label: Browser and Operating System
+      hint: What device and software
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workaround
+      label: Temporary Workaround Available
+      hint: Is there a workaround for issue
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial workaround
+      required: false
+    - id: 17
+      name: impact
+      label: Business Impact of Issue
+      hint: How does this affect operations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachments_available
+      label: Attachments Included
+      hint: Screenshots, logs, files etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: resolution_deadline
+      label: Desired Resolution Timeline
+      hint: When is this needed by
+      type: select_one
+      options:
+      - ASAP
+      - Within 24 hours
+      - Within 3 days
+      - Within 1 week
+      - Flexible
+      required: false
+    - id: 20
+      name: additional_contact
+      label: Preferred Contact Method for Resolution
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - In-person meeting
+      - Either email or phone
+      required: true

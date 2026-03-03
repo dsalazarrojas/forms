@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Quality Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workplace_location
+      label: Workplace location
+      hint: Location name or address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: perceived_air_quality
+      label: Perceived air quality
+      hint: How would you rate the air quality
+      type: select_one
+      options: [Excellent, Good, Fair, Poor]
+      required: true
+    - id: 4
+      name: reported_symptoms
+      label: Any symptoms related to air quality
+      hint: Sore throat, cough, headaches, eye irritation, etc
+      type: select_multiple
+      options: [Cough, Sore throat, Headache, Eye irritation, None]
+      required: false
+    - id: 5
+      name: work_impact
+      label: Does air quality affect work performance
+      hint: Indicate impact level
+      type: select_one
+      options: [No impact, Mild, Moderate, Severe]
+      required: false
+    - id: 6
+      name: mitigation_measures
+      label: Mitigation measures in place
+      hint: Ventilation, filters, masks, or other measures
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions to improve air quality
+      hint: Open feedback
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: Optional for follow up
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_modification_certs
+    pages:
+    - id: 1
+      name: fire_modification_cert
+      label: fire_modification_cert
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_modification_date
+      label: fire_modification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fire_modification_time
+      label: fire_modification_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: fire_modification_cause
+      label: fire_cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: fire_modification_description
+      label: fire_modification_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_modification_inspection_date
+      label: fire_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: fire_modification_inspection_time
+      label: fire_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: fire_modification_inspection_status
+      label: fire_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: fire_modification_inspection_result
+      label: fire_inspection_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_modification_inspection_notes
+      label: fire_inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fire_modification_certification_date
+      label: cert_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fire_modification_certification_time
+      label: cert_time
+      hint: null
+      type: time
+      options: []
+      required: false
