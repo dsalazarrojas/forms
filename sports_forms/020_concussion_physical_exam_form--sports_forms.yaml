@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concussion Physical Exam Form
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient name
+        hint: Full name of athlete or patient
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of birth
+        hint: Patient date of birth
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: exam_date
+        label: Exam date
+        hint: Date of physical exam
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: mechanism_of_injury
+        label: Mechanism of injury
+        hint: Brief description of how injury occurred
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: symptom_list
+        label: Symptoms reported
+        hint: Headache, dizziness, nausea, etc
+        type: select_multiple
+        options:
+          - Headache
+          - Dizziness
+          - Nausea
+          - Blurred vision
+          - Confusion
+          - Memory loss
+        required: true
+      - id: 6
+        name: neurological_findings
+        label: Neurological exam findings
+        hint: Cranial nerves, reflexes, gait
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: balance_test
+        label: Balance test outcome
+        hint: Results of balance or vestibular testing
+        type: select_one
+        options:
+          - Normal
+          - Abnormal
+          - Not performed
+        required: false
+      - id: 8
+        name: cognitive_assessment
+        label: Cognitive assessment notes
+        hint: Brief cognitive screen results
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: recommended_plan
+        label: Recommended treatment or return to play plan
+        hint: Next steps and follow up
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: clinician_signature
+        label: Clinician name and credentials
+        hint: Enter clinician name and credentials
+        type: text
+        options: []
+        required: true

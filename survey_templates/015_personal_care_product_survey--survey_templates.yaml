@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Care Product Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Toothpaste''}'
+      - '{''id'': 2, ''name'': ''Soap''}'
+      - '{''id'': 3, ''name'': ''Shampoo''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_last_purchase
+      label: Date Last Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_last_purchase
+      label: Time Last Purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Night Drop Envelope Form
+    pages:
+    - id: 1
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: damage_info
+      label: Damage Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_info
+      label: Consent Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: storekeeper_signature
+      label: Storekeeper Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: form_consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false

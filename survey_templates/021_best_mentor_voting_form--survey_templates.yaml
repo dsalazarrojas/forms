@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Mentor Voting Form
+    pages:
+      - id: 1
+        name: voter_info_header
+        label: -- Voter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: voter_role_category
+        label: Your Role
+        hint: Select the one that best describes your relationship to the mentor
+        type: select_one
+        options:
+          - Current Mentee
+          - Former Mentee
+          - Peer or Colleague
+          - Direct Supervisor
+          - Other
+        required: true
+      - id: 4
+        name: voter_email_addr
+        label: Your Contact Email
+        hint: For internal verification only
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: mentor_nomination_header
+        label: -- Mentor Nomination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: mentor_full_name
+        label: Mentor Name
+        hint: Name of the individual you are voting for
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: mentor_department_team
+        label: Mentor's Department or Team
+        hint: Where does this individual work
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: mentorship_quality_header
+        label: -- Mentorship Quality Assessment --
+        hint: Rate from 1 (Needs Improvement) to 5 (Outstanding)
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: guidance_support_rating
+        label: Guidance and Support Provided
+        hint: Help with career path and navigation
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 10
+        name: accessibility_rating
+        label: Accessibility and Availability
+        hint: How easy it is to schedule time with them
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 11
+        name: knowledge_sharing_rating
+        label: Knowledge and Expertise Sharing
+        hint: Willingness to teach and share skills
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: growth_encouragement_rating
+        label: Encouragement of Personal and Professional Growth
+        hint: Pushing you to reach your potential
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: ethics_rating
+        label: Professionalism and Ethical Conduct
+        hint: Setting a positive example
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: impact_narrative_header
+        label: -- Impact and Success --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: goals_achievement_desc
+        label: How has this mentor helped you or others achieve goals
+        hint: Be as specific as possible
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: above_and_beyond_example
+        label: Describe a time they went above and beyond
+        hint: A specific situation that highlights their mentorship
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: descriptor_word
+        label: One word that describes this mentor
+        hint: Use a single adjective
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: final_submission_header
+        label: -- Final Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: additional_voting_comments
+        label: Any other comments or feedback
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: voting_timestamp_date
+        label: Date of Vote
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Game Day Time Off Form
+    pages:
+    - id: 1
+      name: game_day_time_off_form_data
+      label: Game Day Time Off Form Data
+      hint: Please submit your Game Day Time-Off Form data here
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_memberships
+      label: Team Memberships
+      hint: Select team memberships for affected team members
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: true
+    - id: 3
+      name: game_day
+      label: Game Day
+      hint: Select the affected game day
+      type: select_one
+      options:
+      - Game Day 1
+      - Game Day 2
+      - Game Day 3
+      - Game Day 4
+      - Game Day 5
+      required: true
+    - id: 4
+      name: game_type
+      label: Game Type
+      hint: Select the type of game being played
+      type: select_one
+      options:
+      - Practice
+      - Game
+      - Tournament
+      required: true

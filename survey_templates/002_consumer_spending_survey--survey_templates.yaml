@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Spending Survey
+    pages:
+    - id: 1
+      name: survey_introduction
+      label: Survey Introduction
+      hint: Thank you for participating in our consumer spending survey
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Your Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 3
+      name: household_income
+      label: Annual Household Income
+      hint: Select your household income bracket
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000 or more
+      required: true
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      - Homemaker
+      required: true
+    - id: 5
+      name: monthly_spending
+      label: Average Monthly Spending
+      hint: Total average monthly expenditures
+      type: select_one
+      options:
+      - Under $2000
+      - $2000-$3999
+      - $4000-$5999
+      - $6000-$7999
+      - $8000 or more
+      required: true
+    - id: 6
+      name: spending_categories
+      label: Top Spending Categories
+      hint: Select all categories where you spend most
+      type: select_multiple
+      options:
+      - Housing and Utilities
+      - Food and Groceries
+      - Transportation
+      - Healthcare
+      - Entertainment
+      - Shopping
+      - Education
+      - Travel
+      required: true
+    - id: 7
+      name: grocery_spending
+      label: Weekly Grocery Spending
+      hint: Average amount spent on groceries per week
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dining_out_frequency
+      label: Dining Out Frequency
+      hint: How often do you eat at restaurants
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - 2-3 times a month
+      - Once a month or less
+      required: true
+    - id: 9
+      name: online_shopping
+      label: Monthly Online Shopping Spending
+      hint: Average monthly amount for online purchases
+      type: select_one
+      options:
+      - Under $100
+      - $100-$299
+      - $300-$499
+      - $500-$999
+      - $1000 or more
+      required: true
+    - id: 10
+      name: entertainment_budget
+      label: Monthly Entertainment Budget
+      hint: Spending on movies streaming subscriptions etc
+      type: select_one
+      options:
+      - Under $50
+      - $50-$99
+      - $100-$199
+      - $200-$299
+      - $300 or more
+      required: false
+    - id: 11
+      name: savings_rate
+      label: Percentage of Income Saved
+      hint: What percentage do you save monthly
+      type: select_one
+      options:
+      - Less than 5 percent
+      - 5-10 percent
+      - 11-20 percent
+      - 21-30 percent
+      - More than 30 percent
+      required: true
+    - id: 12
+      name: credit_card_usage
+      label: Credit Card Usage
+      hint: How do you use credit cards
+      type: select_one
+      options:
+      - Pay in full every month
+      - Carry a balance occasionally
+      - Always carry a balance
+      - Do not use credit cards
+      required: true
+    - id: 13
+      name: financial_goals
+      label: Current Financial Goals
+      hint: Select your primary financial goals
+      type: select_multiple
+      options:
+      - Building Emergency Fund
+      - Saving for Retirement
+      - Paying Off Debt
+      - Saving for Home Purchase
+      - Investing
+      - Saving for Education
+      - Travel Fund
+      required: false
+    - id: 14
+      name: economic_outlook
+      label: Economic Outlook
+      hint: How confident are you about your financial future
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Neutral
+      - Somewhat Concerned
+      - Very Concerned
+      required: true
+    - id: 15
+      name: spending_changes
+      label: Recent Spending Changes
+      hint: How has your spending changed in the past year
+      type: select_one
+      options:
+      - Increased Significantly
+      - Increased Slightly
+      - Stayed the Same
+      - Decreased Slightly
+      - Decreased Significantly
+      required: true
+    - id: 16
+      name: brand_loyalty
+      label: Brand Loyalty
+      hint: How important is brand name in purchases
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Not Very Important
+      - Not Important At All
+      required: true
+    - id: 17
+      name: email_address
+      label: Email Address
+      hint: Optional - for prize drawing notification
+      type: email
+      options: []
+      required: false

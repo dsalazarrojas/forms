@@ -1,0 +1,250 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Interest Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: grade_level
+        label: Current Grade Level
+        hint: null
+        type: select_one
+        options:
+          - "9th Grade"
+          - "10th Grade"
+          - "11th Grade"
+          - "12th Grade"
+          - "Freshman (College)"
+          - "Sophomore (College)"
+          - "Junior (College)"
+          - "Senior (College)"
+          - "Graduate Student"
+        required: true
+      - id: 5
+        name: school_name
+        label: School or University Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: current_major
+        label: Current Major or Intended Major
+        hint: If undecided, type undecided
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: primary_career_interests
+        label: Primary Career Interests
+        hint: Select your top 3 career paths
+        type: select_multiple
+        options:
+          - Technology and IT
+          - Healthcare and Medicine
+          - Engineering
+          - Business and Management
+          - Finance and Accounting
+          - Law and Criminal Justice
+          - Education and Teaching
+          - Arts and Design
+          - Communications and Media
+          - Science and Research
+          - Sales and Marketing
+          - Manufacturing and Trades
+          - Environmental and Sustainability
+          - Public Service and Government
+          - Other
+        required: true
+      - id: 8
+        name: specific_career
+        label: Specific Career or Job Title
+        hint: What specific job are you interested in?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: career_motivation
+        label: What Attracts You to This Career?
+        hint: Why are you interested in this field?
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: key_skills
+        label: Your Key Skills and Strengths
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Problem-solving
+          - Critical thinking
+          - Creativity and innovation
+          - Communication
+          - Leadership
+          - Teamwork and collaboration
+          - Technical skills
+          - Analytical skills
+          - Time management
+          - Adaptability
+          - Attention to detail
+          - Other
+        required: true
+      - id: 11
+        name: work_experience
+        label: Work or Volunteer Experience
+        hint: Briefly describe any work or volunteer history
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: relevant_coursework
+        label: Relevant Coursework or Training
+        hint: Classes or training related to career interests
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: certification_interest
+        label: Interest in Professional Certifications
+        hint: Licenses, certifications, or credentials you want
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: salary_expectations
+        label: Desired Salary Range
+        hint: Annual income expectations
+        type: select_one
+        options:
+          - Under 30k
+          - "30k-50k"
+          - "50k-75k"
+          - "75k-100k"
+          - "100k-150k"
+          - "150k+"
+          - "No preference"
+        required: false
+      - id: 15
+        name: work_environment
+        label: Preferred Work Environment
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Office
+          - Remote or work-from-home
+          - Outdoor
+          - Laboratory or research facility
+          - Travel intensive
+          - Client facing
+          - Team-based
+          - Independent work
+          - Flexible schedule
+        required: true
+      - id: 16
+        name: work_values
+        label: What Matters Most to You in a Career?
+        hint: Select top 3 values
+        type: select_multiple
+        options:
+          - Financial security
+          - Job security
+          - Helping others
+          - Making a difference
+          - Creativity and innovation
+          - Work-life balance
+          - Career growth
+          - Independence
+          - Status and prestige
+          - Stability
+          - Flexibility
+        required: true
+      - id: 17
+        name: geographic_preference
+        label: Geographic Work Preferences
+        hint: Where do you want to work?
+        type: select_one
+        options:
+          - Local or near home
+          - Regional
+          - National
+          - International
+          - No preference
+          - Multiple locations
+        required: false
+      - id: 18
+        name: role_position
+        label: Preferred Role or Position Level
+        hint: null
+        type: select_one
+        options:
+          - Entry-level
+          - Junior position
+          - Mid-level position
+          - Senior position
+          - Management or leadership
+          - Self-employed or entrepreneur
+          - No preference
+        required: false
+      - id: 19
+        name: further_education
+        label: Plans for Further Education
+        hint: Graduate school, certifications, etc.
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: career_concerns
+        label: Concerns or Challenges About This Career
+        hint: What worries you about this path?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: mentor_interest
+        label: Interested in Career Mentorship?
+        hint: Would you like a mentor in your career field?
+        type: select_one
+        options:
+          - "Yes - very interested"
+          - "Yes - somewhat interested"
+          - "Maybe - unsure"
+          - "No - not interested"
+        required: false
+      - id: 22
+        name: additional_information
+        label: Additional Information About Your Career Goals
+        hint: Any other relevant details?
+        type: text
+        options: []
+        required: false

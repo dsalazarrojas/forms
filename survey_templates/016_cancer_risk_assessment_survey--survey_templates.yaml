@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Risk Assessment Survey
+    pages:
+    - id: 1
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: biological_sex
+      label: Biological Sex
+      hint: Required for medical risk modeling
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 5
+      name: ethnicity
+      label: Ethnicity or Ancestry
+      hint: To identify inherited risk patterns
+      type: select_one
+      options:
+      - Asian
+      - Black or African
+      - Hispanic or Latino
+      - White or Caucasian
+      - Other
+      required: true
+    - id: 6
+      name: weight
+      label: Current Weight
+      hint: Specify unit (kg or lbs)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: height
+      label: Height
+      hint: Specify unit (cm or inches)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lifestyle_factors_section
+      label: -- Lifestyle Factors --
+      hint: Behaviors that can influence risk
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: smoking_status
+      label: Smoking Status
+      hint: Choose your current status
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Occasional smoker
+      - Daily smoker
+      required: true
+    - id: 10
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasional
+      - Moderate
+      - Heavy
+      required: true
+    - id: 11
+      name: physical_activity
+      label: Physical Activity Level
+      hint: Overall activity in a typical week
+      type: select_one
+      options:
+      - Sedentary
+      - Light
+      - Moderate
+      - Vigorous
+      required: true
+    - id: 12
+      name: dietary_habits
+      label: Dietary Habits
+      hint: Select all that apply to your typical diet
+      type: select_multiple
+      options:
+      - High Fruit or Veg
+      - High Processed Food
+      - High Red Meat
+      - Low Fiber
+      - Vegetarian
+      - Other
+      required: false
+    - id: 13
+      name: medical_history_section
+      label: -- Medical and Family History --
+      hint: Inherited and personal health background
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: personal_cancer_history
+      label: Personal History of Cancer
+      hint: Have you ever been diagnosed with any form of cancer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: personal_cancer_type
+      label: Type of personal cancer
+      hint: List the primary cancer site and year of diagnosis if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family_cancer_history
+      label: Family History of Cancer
+      hint: Select the types of cancer diagnosed in blood relatives
+      type: select_multiple
+      options:
+      - Breast
+      - Colon
+      - Prostate
+      - Lung
+      - Pancreas
+      - Ovarian
+      - None
+      - Other
+      required: true
+    - id: 17
+      name: affected_relatives_list
+      label: Relatives affected
+      hint: List the relationship (e.g. Mother, Paternal Grandfather) for each selection
+        above
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: symptoms_section
+      label: -- Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_symptoms
+      label: Any current concerning symptoms
+      hint: e.g. lumps, sores that won't heal, unintended weight loss
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: genetic_counseling_interest
+      label: Interest in genetic counseling
+      hint: Would you like to speak with a specialist about your risks
+      type: select_one
+      options:
+      - true
+      - false
+      - Need more information
+      required: true
+    - id: 21
+      name: assessment_date
+      label: Date of Survey
+      hint: null
+      type: date
+      options: []
+      required: true

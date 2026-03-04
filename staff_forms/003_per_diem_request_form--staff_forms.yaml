@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Per Diem Request Form
+    pages:
+    - id: 1
+      name: per_diem_request_date_from
+      label: per diem request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: per_diem_request_date_to
+      label: per diem request to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: per_diem_request_travel_destination
+      label: per diem request destination
+      hint: null
+      type: select_one
+      options:
+      - London
+      - Paris
+      - New York
+      - Rome
+      - Berlin
+      required: false
+    - id: 4
+      name: per_diem_request_travel_date_from
+      label: per diem request travel date from
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: per_diem_request_travel_date_to
+      label: per diem request travel date to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: per_diem_request_allowance
+      label: per diem request allowance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: per_diem_request_additional_info
+      label: per diem request additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: per_diem_request_attachment
+      label: per diem request attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: per_diem_request_approver
+      label: per diem request approver
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Director
+      - Supervisor
+      required: false
+    - id: 10
+      name: per_diem_request_employees
+      label: per diem request employees
+      hint: null
+      type: select_multiple
+      options:
+      - Bob
+      - John
+      required: false
+    - id: 11
+      name: per_diem_request_comments
+      label: per diem request comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: per_diem_request_approval_status
+      label: per diem request approval status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

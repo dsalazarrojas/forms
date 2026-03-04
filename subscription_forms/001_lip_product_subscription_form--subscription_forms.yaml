@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lip Product Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      required: false
+    - id: 6
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lip_product
+      label: Lip Product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_frequency
+      label: Order Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

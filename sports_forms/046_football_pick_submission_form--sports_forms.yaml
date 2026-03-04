@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Pick Submission Form
+    pages:
+    - id: 1
+      name: game_id
+      label: Game ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: pick_type
+      label: Pick Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''None''}'
+      - '{''id'': 1, ''label'': ''Home''}'
+      - '{''id'': 2, ''label'': ''Away''}'
+      required: false
+    - id: 3
+      name: points_home
+      label: Points Home
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: points_away
+      label: Points Away
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: score_home
+      label: Score Home
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: score_away
+      label: Score Away
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pick_id
+      label: Pick ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_useragent
+      label: Submitter User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_os
+      label: Submitter OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_browser
+      label: Submitter Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_timezone
+      label: Submitter Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_language
+      label: Submitter Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_ip_location
+      label: Submitter IP Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_ip_organization
+      label: Submitter IP Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_ip_isp
+      label: Submitter IP ISP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_ip_area
+      label: Submitter IP Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_ip_city
+      label: Submitter IP City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_ip_region
+      label: Submitter IP Region
+      hint: null
+      type: text
+      options: []
+      required: false

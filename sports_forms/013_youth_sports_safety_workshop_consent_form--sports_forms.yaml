@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Safety Workshop Consent Form
+    pages:
+    - id: 1
+      name: parent_permissions
+      label: Parent Permits
+      hint: Enter parent name(s) permitted for this workshop
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions or allergies the child has
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_workshop
+      label: Workshop
+      hint: null
+      type: select_one
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      required: true
+    - id: 10
+      name: emergency_contact_coach
+      label: Coach
+      hint: null
+      type: select_multiple
+      options:
+      - Coach 1
+      - Coach 2
+      - Coach 3
+      required: false
+    - id: 11
+      name: emergency_contact_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Client Feedback Survey Template
+    pages:
+    - id: 1
+      name: section_basic_info
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: Name of the coach providing the session
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Date of Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_method
+      label: How was this session delivered
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Hybrid
+      - Phone
+      required: true
+    - id: 6
+      name: section_experience
+      label: -- Your Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_helpfulness
+      label: How helpful was this coaching session
+      hint: Rate from 1 - not helpful to 5 - extremely helpful
+      type: select_one
+      options:
+      - 1 - Not helpful
+      - 2 - Somewhat helpful
+      - 3 - Neutral
+      - 4 - Very helpful
+      - 5 - Extremely helpful
+      required: true
+    - id: 8
+      name: coach_attentiveness
+      label: Coach paid attention to your needs and concerns
+      hint: Rate from 1 - strongly disagree to 5 - strongly agree
+      type: select_one
+      options:
+      - 1 - Strongly disagree
+      - 2 - Disagree
+      - 3 - Neutral
+      - 4 - Agree
+      - 5 - Strongly agree
+      required: true
+    - id: 9
+      name: coach_professionalism
+      label: Coach demonstrated professionalism
+      hint: null
+      type: select_one
+      options:
+      - 1 - Strongly disagree
+      - 2 - Disagree
+      - 3 - Neutral
+      - 4 - Agree
+      - 5 - Strongly agree
+      required: true
+    - id: 10
+      name: section_value
+      label: -- Value and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: achieved_goals
+      label: Did you achieve the goals set for this session
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully
+      - Yes, partially
+      - 'No'
+      required: true
+    - id: 12
+      name: actionable_takeaway
+      label: You have actionable takeaways to implement
+      hint: null
+      type: select_one
+      options:
+      - 1 - Strongly disagree
+      - 2 - Disagree
+      - 3 - Neutral
+      - 4 - Agree
+      - 5 - Strongly agree
+      required: true
+    - id: 13
+      name: clear_path_forward
+      label: You have a clear path forward
+      hint: null
+      type: select_one
+      options:
+      - 1 - Strongly disagree
+      - 2 - Disagree
+      - 3 - Neutral
+      - 4 - Agree
+      - 5 - Strongly agree
+      required: true
+    - id: 14
+      name: section_coach_quality
+      label: -- Coach Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: coach_knowledge_rating
+      label: Coach demonstrated good knowledge
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor knowledge
+      - 2 - Fair knowledge
+      - 3 - Good knowledge
+      - 4 - Very good knowledge
+      - 5 - Expert knowledge
+      required: true
+    - id: 16
+      name: communication_clarity
+      label: Coach communicated clearly
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very unclear
+      - 2 - Somewhat unclear
+      - 3 - Neutral
+      - 4 - Clear
+      - 5 - Very clear
+      required: true
+    - id: 17
+      name: section_feedback
+      label: -- Your Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: strengths_noticed
+      label: Coach strengths you noticed
+      hint: What did the coach do well
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas coach could improve
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_likelihood
+      label: -- Future Sessions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: likely_to_return
+      label: Likelihood of attending another session - percent
+      hint: 0 to 100 percent
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: recommend_to_friend
+      label: Would you recommend this coach to a friend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: true

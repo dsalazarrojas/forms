@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bach Flower Remedies Selection Survey
+    pages:
+      - id: 1
+        name: wellness_intro
+        label: -- Bach Flower Remedies Personal Assessment --
+        hint: Identify the flower essences that best match your current emotional state
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: section_fear
+        label: -- Feelings of Fear --
+        hint: Select any that apply to you currently
+        type: select_multiple
+        options:
+          - Fear of known things (Mimulus)
+          - Fear of losing control (Cherry Plum)
+          - Vague, unknown fears (Aspen)
+          - Fear for others' welfare (Red Chestnut)
+          - Extreme terror or panic (Rock Rose)
+        required: false
+      - id: 4
+        name: section_uncertainty
+        label: -- Feelings of Uncertainty --
+        hint: null
+        type: select_multiple
+        options:
+          - Doubting own judgment (Cerato)
+          - Indecision between two choices (Scleranthus)
+          - Discouragement after a setback (Gentian)
+          - Hopelessness and despair (Gorse)
+          - Weariness at the thought of tasks (Hornbeam)
+          - Lack of direction in life (Wild Oat)
+        required: false
+      - id: 5
+        name: section_interest
+        label: -- Lack of Interest in Present Circumstances --
+        hint: null
+        type: select_multiple
+        options:
+          - Daydreaming, not present (Clematis)
+          - Living in the past (Honeysuckle)
+          - Resignation or apathy (Wild Rose)
+          - Exhaustion after effort (Olive)
+          - Persistent unwanted thoughts (White Chestnut)
+          - Unexplained sadness (Mustard)
+          - Slow to learn from mistakes (Chestnut Bud)
+        required: false
+      - id: 6
+        name: section_loneliness
+        label: -- Feelings of Loneliness --
+        hint: null
+        type: select_multiple
+        options:
+          - Proud, aloof, independent (Water Violet)
+          - Impatience and irritation (Impatiens)
+          - Talkative, self-absorbed (Heather)
+        required: false
+      - id: 7
+        name: section_oversensitivity
+        label: -- Over-sensitivity to Influences --
+        hint: null
+        type: select_multiple
+        options:
+          - Masking problems with a smile (Agrimony)
+          - Difficulty saying no (Centaury)
+          - Protection from change/influence (Walnut)
+          - Feelings of jealousy or suspicion (Holly)
+        required: false
+      - id: 8
+        name: section_despair
+        label: -- Despondency or Despair --
+        hint: null
+        type: select_multiple
+        options:
+          - Lack of confidence (Larch)
+          - Guilt and self-reproach (Pine)
+          - Overwhelmed by responsibility (Elm)
+          - Deep mental anguish (Sweet Chestnut)
+          - After-effects of shock/trauma (Star of Bethlehem)
+          - Resentment or bitterness (Willow)
+          - Struggling on despite exhaustion (Oak)
+          - Feelings of uncleanness (Crab Apple)
+        required: false
+      - id: 9
+        name: primary_emotional_goal
+        label: What is your primary emotional goal at this time?
+        hint: e.g., Find peace, Gain confidence, Overcome fear
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: physical_manifestations
+        label: Are you experiencing any physical symptoms related to your stress?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: followup_consultation
+        label: Would you like a consultation to review your results?
+        hint: null
+        type: select_one
+        options:
+          - Yes, please contact me
+          - No, I'm just exploring
+        required: true
+      - id: 12
+        name: contact_email
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true

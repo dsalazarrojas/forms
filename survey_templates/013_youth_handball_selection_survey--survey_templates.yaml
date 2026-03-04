@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth_handball_selection_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: Player first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Player email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: Player contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: Years of experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: skill_level
+      label: Skill level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 10
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_first_name
+      label: Emergency contact first name
+      hint: Emergency contact first name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_last_name
+      label: Emergency contact last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: parent_name
+      label: Parent name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: parent_email
+      label: Parent email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: parent_phone
+      label: Parent phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: school_phone
+      label: School phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: team_phone
+      label: Team phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: player_notes
+      label: Player notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: player_signature
+      label: Player signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: coach_signature
+      label: Coach signature
+      hint: null
+      type: note
+      options: []
+      required: true

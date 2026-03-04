@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Snack Shelf Display Order Form
+    pages:
+    - id: 1
+      name: retail_snack_shelf_display_order_form_template
+      label: retail_snack_shelf_display_order_form_template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: Enter date in MM/DD format
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_time
+      label: delivery_time
+      hint: Enter time in 24-hour format
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: merchandising_details
+      label: merchandising_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: order_frequency
+      label: order_frequency
+      hint: Select frequency of order
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: order_amount
+      label: order_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: product_list
+      label: product_list
+      hint: null
+      type: select_multiple
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: true
+    - id: 17
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_manager_name
+      label: store_manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: store_manager_phone
+      label: store_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: store_manager_email
+      label: store_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: store_manager_ext_phone
+      label: store_manager_ext_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_manager_ext_email
+      label: store_manager_ext_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true

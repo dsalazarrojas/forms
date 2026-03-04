@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time And Attendance Vendor Evaluation Form
+    pages:
+    - id: 1
+      name: main
+      label: Time And Attendance Vendor Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: time_and_attendance_vendor_evaluation_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Supplier Management Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_and_attendance_vendor_evaluation_form
+      label: Time and Attendance Vendor Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ideal_for
+      label: Ideal For
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - operations
+      - procurement teams
+      required: false
+    - id: 6
+      name: main_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: main_subcategory
+      label: Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - operations
+      required: false
+    - id: 8
+      name: comparison
+      label: Comparison
+      hint: null
+      type: select_multiple
+      options:
+      - vendors
+      - renewals
+      required: false
+    - id: 9
+      name: time_and_attendance_provider
+      label: Time and Attendance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - implementation partners
+      required: false
+    - id: 10
+      name: main_ideal_for
+      label: Ideal For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: main_ideal_for_1
+      label: HR, operations, and procurement teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: main_ideal_for_2
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: time_and_attendance_vendor_evaluation_form_output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 008_time_and_attendance_vendor_evaluation_form--supplier_management_forms.yaml
+      - Other
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

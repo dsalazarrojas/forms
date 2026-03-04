@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lacrosse Team Tryout Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tryout_time
+      label: Tryout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: player_type
+      label: Player Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Goalie''}'
+      - '{''label'': ''Defenseman''}'
+      - '{''label'': ''Forward''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: team_experience
+      label: Team Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Some''}'
+      required: false
+    - id: 9
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

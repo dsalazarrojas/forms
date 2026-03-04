@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hip Hop Festival Registration Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: area_of_interest
+      label: Area Of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Hip Hop
+      - Rap
+      - Electronic
+      - Pop
+      - Rock
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

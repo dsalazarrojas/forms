@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Project Evaluation Quiz
+    pages:
+      - id: 1
+        name: evaluation_intro_note
+        label: -- Community Project Evaluation --
+        hint: Please help us evaluate the success of our project.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_name_text
+        label: Name of the Project Being Evaluated
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: project_role_selection
+        label: Your Role in the Project
+        hint: Select the most accurate role.
+        type: select_one
+        options: [Project Leader, Active Participant, Stakeholder, Interested Resident, Other]
+        required: true
+      - id: 4
+        name: project_completion_date
+        label: Date the Project Was Completed
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: goals_met_check
+        label: To what extent were the primary project goals met?
+        hint: null
+        type: select_one
+        options: [Fully Met, Partially Met, Not Met at All]
+        required: true
+      - id: 6
+        name: on_time_check
+        label: Was the project completed on time according to the schedule?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 7
+        name: within_budget_check
+        label: Was the project completed within the allocated budget?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 8
+        name: community_impact_rating
+        label: Rate the overall impact on the community
+        hint: Focus on long-term benefits.
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 9
+        name: participation_level_rating
+        label: Rate the level of community participation
+        hint: Active engagement from residents.
+        type: select_one
+        options: [High, Medium, Low]
+        required: true
+      - id: 10
+        name: success_factors_text
+        label: What were the main successes of the project?
+        hint: What went well?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: project_challenges_text
+        label: What were the main challenges encountered?
+        hint: What obstacles were faced?
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: lessons_learned_text
+        label: What key lessons were learned during this project?
+        hint: For future project planning.
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: further_action_required_check
+        label: Is further action or follow-up required?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 14
+        name: explain_further_action_text
+        label: If yes - please explain the necessary steps
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: evaluation_deadline_note
+        label: -- Evaluation Deadline --
+        hint: Evaluations must be completed within 30 days of project closure.
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: evaluation_date
+        label: Today - s Date
+        hint: null
+        type: date
+        options: []
+        required: true

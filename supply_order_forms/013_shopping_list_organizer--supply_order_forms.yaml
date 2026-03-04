@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shopping List Organizer
+    pages:
+    - id: 1
+      name: general_info_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: general_info_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shopping_info_1
+      label: Items to buy
+      hint: Comma-separated list of items to buy
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shopping_info_2
+      label: Budget
+      hint: Enter budget for this trip
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: shopping_info_3
+      label: Trip details
+      hint: Add any additional details for your trip
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: general_info_4
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: general_info_5
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shopping_info_4
+      label: Store Name
+      hint: Name of store
+      type: select_one
+      options:
+      - Costco
+      - Walmart
+      - Target
+      required: true
+    - id: 9
+      name: shopping_info_5
+      label: Store Address
+      hint: Address of store
+      type: select_multiple
+      options:
+      - Store 1
+      - Store 2
+      - Store 3
+      required: false
+    - id: 10
+      name: general_info_6
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: general_info_7
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

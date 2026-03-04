@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jotform Workout Challenge Log
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exercises_performed
+      label: Exercises Performed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: workout_type
+      label: Workout Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Strength'', ''label'': ''Strength''}'
+      - '{''id'': 2, ''name'': ''Cardio'', ''label'': ''Cardio''}'
+      - '{''id'': 3, ''name'': ''Yoga'', ''label'': ''Yoga''}'
+      required: false
+    - id: 6
+      name: intensity
+      label: Intensity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Low'', ''label'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High'', ''label'': ''High''}'
+      required: false
+    - id: 7
+      name: weight_used
+      label: Weight Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weight_lifted
+      label: Weight Lifted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: calories_burned
+      label: Calories Burned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

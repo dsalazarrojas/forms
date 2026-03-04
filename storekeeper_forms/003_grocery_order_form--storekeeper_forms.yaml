@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grocery Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_items
+      label: order_items
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit_card
+      required: true
+    - id: 6
+      name: order_amount
+      label: order_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_multiple
+      options:
+      - in_progress
+      - delivered
+      - cancelled
+      required: true
+    - id: 8
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: text
+      options: []
+      required: false

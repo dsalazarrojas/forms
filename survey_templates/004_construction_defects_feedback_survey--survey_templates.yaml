@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Defects Feedback Survey
+    pages:
+    - id: 1
+      name: section_property_details
+      label: -- Property and Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Full address of the property with the defect
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Unit or Apartment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resident_name
+      label: Resident or Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_phone
+      label: Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resident_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_defect_details
+      label: -- Defect Description and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: defect_location
+      label: Defect Location (Room/Area)
+      hint: e.g., Kitchen, Master Bedroom, Exterior Wall
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: defect_category
+      label: Defect Category
+      hint: What type of issue is being reported?
+      type: select_one
+      options:
+      - Structural
+      - Electrical
+      - Plumbing
+      - Finishing (Paint/Trim)
+      - HVAC (Heating/Cooling)
+      - Roof/Waterproofing
+      - Doors/Windows
+      - Other
+      required: true
+    - id: 10
+      name: defect_description
+      label: Detailed Defect Description
+      hint: Provide as much detail as possible about the issue
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: severity_level
+      label: Severity Level
+      hint: How urgent is this issue?
+      type: select_one
+      options:
+      - Low (Cosmetic only)
+      - Medium (Needs attention soon)
+      - High (Functional issue/safety concern)
+      - Critical (Requires immediate action)
+      required: true
+    - id: 12
+      name: date_noticed
+      label: Date Defect Was First Noticed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: access_instructions
+      label: Access Instructions for Repair Team
+      hint: e.g., Call before arriving, Key in lockbox
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: photos_attached
+      label: Photos Attached to Submission
+      hint: Please confirm if photos will be sent separately or attached
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: previous_reports
+      label: Has this issue been reported before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

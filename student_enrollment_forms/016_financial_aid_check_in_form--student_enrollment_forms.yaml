@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Aid Check In Form
+    pages:
+    - id: 1
+      name: student_enrollment_form
+      label: student_enrollment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_aid_type
+      label: financial_aid_type
+      hint: null
+      type: select_one
+      options:
+      - Financial Aid
+      - Scholarship
+      - Grant
+      - Loan
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: financial_aid_amount
+      label: financial_aid_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_aid_start_date
+      label: financial_aid_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: financial_aid_end_date
+      label: financial_aid_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_enrollment_status
+      label: student_enrollment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Active
+      - Inactive
+      - Denied
+      required: false
+    - id: 11
+      name: student_enrollment_status_note
+      label: student_enrollment_status_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_enrollment_source
+      label: student_enrollment_source
+      hint: null
+      type: select_one
+      options:
+      - Self Reported
+      - Institutional
+      - External Agency
+      - State/Province Government
+      required: false

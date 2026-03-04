@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Preparation Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contest_name
+      label: Contest Name
+      hint: Which contest are you entering?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contest_category
+      label: Contest Category
+      hint: Your category
+      type: select_one
+      options:
+      - Art
+      - Photography
+      - Writing
+      - Music
+      - Dance
+      - Speech
+      - Innovation
+      - Sports
+      required: true
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: Your experience in this category
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 6
+      name: previous_contests
+      label: Previous Contests
+      hint: How many contests have you entered?
+      type: select_one
+      options:
+      - This is my first
+      - 1-3 contests
+      - 4-10 contests
+      - 10+ contests
+      required: true
+    - id: 7
+      name: preparation_time
+      label: Preparation Time
+      hint: Hours spent preparing
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20-40 hours
+      - 40+ hours
+      required: true
+    - id: 8
+      name: preparation_areas
+      label: Preparation Areas
+      hint: What have you prepared?
+      type: select_multiple
+      options:
+      - Practice performances
+      - Equipment setup
+      - Costume or attire
+      - Rehearsals
+      - Research
+      - Coaching
+      - Material creation
+      required: true
+    - id: 9
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident do you feel?
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat nervous
+      - Very nervous
+      required: true
+    - id: 10
+      name: support_needed
+      label: Support Needed
+      hint: What support do you need?
+      type: select_multiple
+      options:
+      - Technical assistance
+      - Equipment rental
+      - Practice space
+      - Coaching
+      - Transportation
+      - Accommodation
+      - None
+      required: false
+    - id: 11
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_distance
+      label: Travel Distance
+      hint: How far are you traveling?
+      type: select_one
+      options:
+      - Local (under 25 miles)
+      - Regional (25-100 miles)
+      - Statewide (100-300 miles)
+      - Out of state (300+ miles)
+      - International
+      required: false
+    - id: 13
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need lodging assistance?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: team_or_individual
+      label: Team or Individual
+      hint: Are you competing alone?
+      type: select_one
+      options:
+      - Individual
+      - Team
+      - Duo
+      required: true
+    - id: 15
+      name: team_size
+      label: Team Size
+      hint: Number of team members
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: goals
+      label: Contest Goals
+      hint: What are your goals?
+      type: select_multiple
+      options:
+      - Win first place
+      - Place in top 3
+      - Gain experience
+      - Network with others
+      - Win a prize
+      - Personal achievement
+      required: true
+    - id: 17
+      name: concerns
+      label: Concerns or Questions
+      hint: Any worries or questions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: communication_preference
+      label: Communication Preference
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Social media
+      required: true

@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Nutrition Feedback Survey
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 4
+      name: team_level
+      label: Team Level
+      hint: Competition level
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club Team
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: nutrition_plan_status
+      label: Current Nutrition Plan Status
+      hint: Are you following a nutrition plan
+      type: select_one
+      options:
+      - Yes - Formal Plan from Nutritionist
+      - Yes - Self-Designed Plan
+      - Following General Guidelines
+      - No Plan Currently
+      required: true
+    - id: 7
+      name: meals_per_day
+      label: Meals Per Day
+      hint: Average number of meals
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: snack_frequency
+      label: Snack Frequency
+      hint: How often do you snack
+      type: select_one
+      options:
+      - Never
+      - 1-2 Times Daily
+      - 3-4 Times Daily
+      - 5+ Times Daily
+      required: true
+    - id: 9
+      name: hydration_habits
+      label: Daily Water Intake
+      hint: Average glasses of water per day
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pre_workout_nutrition
+      label: Pre-Workout Nutrition
+      hint: Do you eat before training
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: post_workout_nutrition
+      label: Post-Workout Nutrition
+      hint: Do you eat after training
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: nutrition_satisfaction
+      label: Overall Nutrition Satisfaction
+      hint: How satisfied are you with your current nutrition
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 13
+      name: energy_levels
+      label: Energy Levels During Training
+      hint: Rate your typical energy
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 14
+      name: recovery_quality
+      label: Recovery Quality
+      hint: How well do you recover between sessions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: nutrition_challenges
+      label: Nutrition Challenges
+      hint: What challenges do you face
+      type: select_multiple
+      options:
+      - Lack of Time
+      - Lack of Knowledge
+      - Limited Food Options
+      - Cost of Food
+      - Dietary Restrictions
+      - Travel Schedule
+      - Lack of Appetite
+      - Emotional Eating
+      - None
+      required: true
+    - id: 16
+      name: supplement_use
+      label: Supplement Use
+      hint: Do you use any supplements
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - false
+      required: true
+    - id: 17
+      name: supplements_taken
+      label: Supplements Taken
+      hint: List supplements if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nutritionist_consultation
+      label: Nutritionist Consultation
+      hint: Have you worked with a sports nutritionist
+      type: select_one
+      options:
+      - Yes - Currently
+      - Yes - In the Past
+      - No - Interested
+      - No - Not Interested
+      required: true
+    - id: 19
+      name: nutrition_education_topics
+      label: Nutrition Education Topics of Interest
+      hint: Select topics you want to learn about
+      type: select_multiple
+      options:
+      - Meal Planning
+      - Pre-Competition Nutrition
+      - Post-Workout Recovery
+      - Hydration Strategies
+      - Weight Management
+      - Supplement Guidance
+      - Healthy Eating on a Budget
+      - Cooking Skills
+      - None
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: List any restrictions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: nutrition_goals
+      label: Nutrition Goals
+      hint: What are your nutrition goals
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: support_needed
+      label: Nutrition Support Needed
+      hint: What support would help you
+      type: select_multiple
+      options:
+      - Individual Nutritionist Sessions
+      - Group Workshops
+      - Meal Plans
+      - Recipe Ideas
+      - Grocery Shopping Guides
+      - Mobile App Recommendations
+      - None
+      required: false
+    - id: 23
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments about your nutrition
+      type: text
+      options: []
+      required: false

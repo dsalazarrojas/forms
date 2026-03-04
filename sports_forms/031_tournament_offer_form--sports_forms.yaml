@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Offer Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teams
+      label: Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rules
+      label: Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_representative
+      label: Team Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: offer_type
+      label: Offer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single-elimination Bracket''}'
+      - '{''id'': 2, ''name'': ''Double-elimination Bracket''}'
+      - '{''id'': 3, ''name'': ''Round-robin''}'
+      - '{''id'': 4, ''name'': ''Swiss''}'
+      required: false
+    - id: 14
+      name: number_of_games
+      label: Number of Games
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: game_duration
+      label: Game Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: prize_purse
+      label: Prize Purse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: text
+      options: []
+      required: false

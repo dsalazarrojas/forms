@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Chatbot Name Suggestions
+    pages:
+    - id: 1
+      name: contributor_header
+      label: '--- Branding and Naming Initiative ---'
+      hint: Help us find the perfect identity for our new AI assistant.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_suggestion_1
+      label: Proposed Chatbot Name (Suggestion 1)
+      hint: What would you call the AI?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suggestion_1_reasoning
+      label: Why did you choose this name?
+      hint: What does it convey to the user?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suggestion_1_tone
+      label: Tone of Suggestion 1
+      hint: null
+      type: select_one
+      options:
+      - label: Professional & Serious
+        value: professional
+      - label: Friendly & Approachable
+        value: friendly
+      - label: Futuristic & Tech-focused
+        value: techy
+      - label: Minimalist & Clean
+        value: minimalist
+      - label: Playful & Witty
+        value: playful
+      required: true
+    - id: 6
+      name: name_suggestion_2
+      label: Proposed Chatbot Name (Suggestion 2)
+      hint: Optional alternative
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestion_2_reasoning
+      label: Reasoning for Suggestion 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_audience_perception
+      label: Who is the target audience for this name?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Enterprise / Corporate Users
+        value: enterprise
+      - label: General Public / Consumers
+        value: consumers
+      - label: Tech-Savvy Developers
+        value: developers
+      - label: Students / Academic
+        value: students
+      - label: Healthcare / Patient Care
+        value: healthcare
+      required: true
+    - id: 9
+      name: name_memorability_rating
+      label: Memorability Rating
+      hint: How easy is it to remember this name? (1 = Hard, 5 = Very Easy)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pronunciation_difficulty
+      label: Is the name easy to pronounce?
+      hint: null
+      type: select_one
+      options:
+      - label: Very Easy
+        value: very_easy
+      - label: Easy
+        value: easy
+      - label: Moderate
+        value: moderate
+      - label: Difficult
+        value: difficult
+      required: true
+    - id: 11
+      name: avoid_keywords
+      label: Keywords or themes to AVOID
+      hint: What should the name NOT sound like?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: potential_tagline
+      label: Suggested Tagline / Slogan
+      hint: e.g., "Your intelligent companion for..."
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: existing_options_feedback_header
+      label: '--- Feedback on Current Internal Shortlist ---'
+      hint: Please rate our current internal favorites.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: favorite_from_list
+      label: Which of these existing names do you like most?
+      hint: null
+      type: select_one
+      options:
+      - label: OmniBot
+        value: omnibot
+      - label: Flux
+        value: flux
+      - label: SageAI
+        value: sageai
+      - label: Nexus
+        value: nexus
+      - label: Echo
+        value: echo
+      - label: None of the above
+        value: none
+      required: true
+    - id: 15
+      name: logo_visualization
+      label: Visual/Logo Ideas
+      hint: Describe any visual concepts that come to mind for the name.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Email (If we want to follow up on your suggestion)
+      hint: null
+      type: email
+      options: []
+      required: false

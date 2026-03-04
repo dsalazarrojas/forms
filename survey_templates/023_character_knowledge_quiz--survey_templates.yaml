@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_quiz_taker_info
+      label: -- Quiz Taker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quiz_taker_full_name
+      label: Quiz Taker Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quiz_taker_email_address
+      label: Quiz Taker Email Address
+      hint: For quiz results and future updates
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: section_general_knowledge
+      label: -- General Character Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: quiz_identify_protagonist
+      label: Who is the main protagonist of the story being analyzed?
+      hint: Enter their full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quiz_primary_antagonist
+      label: Who is the primary antagonist in this narrative?
+      hint: Enter their full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quiz_major_character_traits
+      label: Which of the following traits describe the main character?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brave
+      - Rebellious
+      - Intelligent
+      - Cowardly
+      - Empathetic
+      - Selfish
+      required: true
+    - id: 8
+      name: section_plot_and_background
+      label: -- Plot and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: quiz_character_origin_location
+      label: What is the main character's place of origin?
+      hint: Where were they born or where do they come from?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quiz_character_primary_motivation
+      label: What is the main character's primary motivation?
+      hint: What drives their actions in the story?
+      type: select_one
+      options:
+      - Revenge
+      - Love
+      - Pursuit of Power
+      - Desire for Freedom
+      - To Save the World
+      required: true
+    - id: 11
+      name: quiz_key_event_impact
+      label: Which event had the most significant impact on the main character?
+      hint: Briefly describe one pivotal moment
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_relationships_and_dynamics
+      label: -- Relationships and Dynamics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quiz_character_allies_list
+      label: Who are the main character's closest allies?
+      hint: List 2-3 key names
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: quiz_nature_of_rivalry
+      label: What is the nature of the rivalry between Character A and Character B?
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Friendly Competition
+      - Deep-Seated Enmity
+      - Misunderstanding or Lack of Communication
+      - Past Betrayal
+      - Professional Rivalry
+      required: true
+    - id: 15
+      name: section_final_thoughts_quiz
+      label: -- Final Quiz Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accuracy_confirmation_quiz_taker
+      label: Confirmation of Knowledge Assessment
+      hint: I confirm that I have answered these questions to the best of my knowledge
+      type: select_one
+      options:
+      - I Confirm and Submit Quiz
+      - Other
+      required: true
+    - id: 17
+      name: date_of_knowledge_quiz_log
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_quiz_comments
+      label: Additional Quiz Comments
+      hint: Any other thoughts on the character's development or the story
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quiz_difficulty_rating
+      label: Quiz Difficulty Rating
+      hint: How challenging was this quiz for you?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: interest_in_future_quizzes
+      label: Would you like to take more quizzes like this?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false

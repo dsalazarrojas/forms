@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hepatitis_b_declination_form
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_status
+      label: vaccination status
+      hint: null
+      type: select_one
+      options:
+      - Hepatitis B vaccinated
+      - Unvaccinated
+      - Not vaccinated (but have antibodies)
+      - Not vaccinated (but have risk factors)
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: date_of_last_vaccination
+      label: date of last vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_testing
+      label: date of last testing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_schedule
+      label: vaccination schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Completed 2 dose series
+      - In progress
+      required: false
+    - id: 7
+      name: last_dose_date
+      label: last dose date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: patient_id_number
+      label: patient id number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_number
+      label: medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declination_date
+      label: declination date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: declination_provider_signature
+      label: Declination Provider Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Signed
+      required: false
+    - id: 12
+      name: declination_date_signed_by
+      label: Declination Date Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

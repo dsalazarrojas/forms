@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Payment Form
+    pages:
+    - id: 1
+      name: stripe_payment_form
+      label: Stripe Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Stripe''}'
+      required: true
+    - id: 3
+      name: card_number
+      label: Card Number
+      hint: Credit card number (e.g., 4242-4242-4242-4242)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exp_month
+      label: Expiration Month
+      hint: Two-digit month (01-12)
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exp_year
+      label: Expiration Year
+      hint: Four-digit year
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cvv
+      label: Cvv
+      hint: Cvv
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_on_card
+      label: Name on Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

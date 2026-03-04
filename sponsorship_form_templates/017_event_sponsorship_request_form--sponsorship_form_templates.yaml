@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Request Form
+    pages:
+    - id: 1
+      name: event_sponsorship_request_form_title
+      label: event_sponsorship_request_form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_sponsorship_request_form_description
+      label: event_sponsorship_request_form_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_sponsorship_request_form_agreement
+      label: event_sponsorship_request_form_agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to allow the event organizers to share my contact information with
+        the event sponsors.
+      - I do not agree to allow the event organizers to share my contact information
+        with the event sponsors.
+      required: true
+    - id: 10
+      name: event_sponsorship_request_form_additional_info
+      label: event_sponsorship_request_form_additional_info
+      hint: null
+      type: select_multiple
+      options:
+      - I am willing to provide additional information about my company.
+      - I am not willing to provide additional information about my company.
+      required: true

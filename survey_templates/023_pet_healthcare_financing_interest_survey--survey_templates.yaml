@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Healthcare Financing Interest Survey
+    pages:
+    - id: 1
+      name: pet_type
+      label: What type of pet do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dog''}'
+      - '{''id'': 2, ''label'': ''Cat''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_plan
+      label: What payment plan would you like to see?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

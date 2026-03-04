@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Goal Setting Form
+    pages:
+    - id: 1
+      name: goal_setting
+      label: Goal Setting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: specific_goal
+      label: Specific Goal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''weight_loss'', ''label'': ''Weight Loss''}'
+      - '{''id'': 2, ''name'': ''muscle_strengthening'', ''label'': ''Muscle Strengthening''}'
+      - '{''id'': 3, ''name'': ''flexibility'', ''label'': ''Flexibility''}'
+      - '{''id'': 4, ''name'': ''endurance'', ''label'': ''Endurance''}'
+      required: false
+    - id: 3
+      name: target_weight
+      label: Target Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: workout_frequency
+      label: Workout Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: goal_duration
+      label: Goal Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: goal_start
+      label: Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: goal_end
+      label: End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: goal_progress
+      label: Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: target_body_fat_percentage
+      label: Target Body Fat Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_body_fat_percentage
+      label: Current Body Fat Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: target_body_weight
+      label: Target Body Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: current_body_weight
+      label: Current Body Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: target_body_mass_index
+      label: Target Body Mass Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: current_body_mass_index
+      label: Current Body Mass Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: target_heart_rate
+      label: Target Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: current_heart_rate
+      label: Current Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: exercise_plan
+      label: Exercise Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_plan
+      label: Training Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''moderate'', ''label'': ''Moderate''}'
+      - '{''id'': 3, ''name'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 23
+      name: rest_days
+      label: Rest Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: workout_type
+      label: Workout Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: workout_days
+      label: Workout Days
+      hint: null
+      type: number
+      options: []
+      required: false

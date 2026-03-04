@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: metabolic_bodybuilding_intake_form
+    pages:
+    - id: 1
+      name: workout_frequency
+      label: Workout frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_intensity
+      label: Training intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workout_type
+      label: Workout type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rest_days_per_week
+      label: Rest days per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cardio_days_per_week
+      label: Cardio days per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weightlifting_days_per_week
+      label: Weightlifting days per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nutrition_plan
+      label: Nutrition plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: experience_level
+      label: Experience level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: training_days_per_week
+      label: Training days per week
+      hint: null
+      type: number
+      options: []
+      required: false

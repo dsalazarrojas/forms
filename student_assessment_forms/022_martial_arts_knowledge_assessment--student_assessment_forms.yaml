@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: martial arts knowledge assessment
+    pages:
+    - id: 1
+      name: dojos
+      label: Dojos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructors
+      label: Instructors
+      hint: null
+      type: select_multiple
+      options:
+      - 1st Dan
+      - 2nd Dan
+      - 3rd Dan
+      - 4th Dan
+      - 5th Dan
+      required: false
+    - id: 3
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: students
+      label: Students
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 5
+      name: rank
+      label: Rank
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: martial_arts_concepts
+      label: Martial Arts Concepts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: better_class_placement
+      label: Better Class Placement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: instruction_planning
+      label: Instruction Planning
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false

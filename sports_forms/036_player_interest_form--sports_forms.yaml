@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Interest Form
+    pages:
+    - id: 1
+      name: player_interest_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_interest_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_interest_form_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: player_interest_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_interest_form_which_sports
+      label: Which sports
+      hint: Select one or more sports you are interested in
+      type: select_multiple
+      options:
+      - Soccer
+      - Basketball
+      - Baseball
+      - Volleyball
+      - Tennis
+      - Golf
+      required: false
+    - id: 6
+      name: player_interest_form_what_position
+      label: What position
+      hint: Select your position
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Point Guard
+      - Point Guard
+      - Power Forward
+      - Pitcher
+      required: false
+    - id: 7
+      name: player_interest_form_which_level
+      label: What level
+      hint: Select your level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: player_interest_form_why_join
+      label: Why join
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_interest_form_agree
+      label: Agree
+      hint: null
+      type: text
+      options: []
+      required: false

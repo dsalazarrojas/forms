@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: mah_jongg_participation_survey
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: club_name
+      label: What is your club?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jubilee''}'
+      - '{''value'': ''Jolly''}'
+      - '{''value'': ''Jazz''}'
+      - '{''value'': ''Java''}'
+      - '{''value'': ''Jam''}'
+      - '{''value'': "Jammin''Jazz"}'
+      required: false
+    - id: 3
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mah Jongg''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attended
+      label: Attended
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      - '{''value'': ''Not Sure''}'
+      required: false
+    - id: 10
+      name: attended_other
+      label: Attended Other
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Other - Specify''}'
+      - '{''value'': ''Not Applicable''}'
+      required: false
+    - id: 11
+      name: attended_count
+      label: How many attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: player_feedback
+      label: Player Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''I had fun''}'
+      - '{''value'': ''I did not have fun''}'
+      - '{''value'': ''I had some fun''}'
+      required: false
+    - id: 16
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy going''}'
+      - '{''value'': ''Challenging''}'
+      - '{''value'': ''Easy''}'
+      - '{''value'': ''Fun''}'
+      required: false
+    - id: 17
+      name: club_preferences
+      label: Club Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy going''}'
+      - '{''value'': ''Challenging''}'
+      - '{''value'': ''Easy''}'
+      - '{''value'': ''Fun''}'
+      required: false
+    - id: 18
+      name: host_preferences
+      label: Host Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy going''}'
+      - '{''value'': ''Challenging''}'
+      - '{''value'': ''Easy''}'
+      - '{''value'': ''Fun''}'
+      required: false
+    - id: 19
+      name: other_preferences
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy going''}'
+      - '{''value'': ''Challenging''}'
+      - '{''value'': ''Easy''}'
+      - '{''value'': ''Fun''}'
+      required: false
+    - id: 20
+      name: attended_count
+      label: How many attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: player_comments
+      label: Player Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_host
+      label: Event Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_coordinators
+      label: Event Coordinators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_suggestions
+      label: Event Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Packaging Requisition Form
+    pages:
+    - id: 1
+      name: packaging_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: packaging_size
+      label: Packaging Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: packaging_color
+      label: Packaging Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: package_contents
+      label: Package Contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manufacturing_date
+      label: Manufacturing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: packaging_status
+      label: Packaging Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: packaging_priority
+      label: Packaging Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: packaging_quantity
+      label: Packaging Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: packaging_notes
+      label: Packaging Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: packaging_location
+      label: Packaging Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: packaging_cost
+      label: Packaging Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: packaging_time
+      label: Packaging Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: packaging_scheduling
+      label: Packaging Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: packaging_responsible
+      label: Packaging Responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: packaging_supervisor
+      label: Packaging Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: package_shipping_method
+      label: Package Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: package_shipping_cost
+      label: Package Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: package_shipping_time
+      label: Package Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: packaging_remarks
+      label: Packaging Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

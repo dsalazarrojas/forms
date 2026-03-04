@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bench Row Workout Log Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: log_date
+      label: Workout Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: log_time
+      label: Time of Workout
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: workout_duration
+      label: Workout Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: energy_level_pre
+      label: Energy Level Before Workout
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 6
+      name: bench_row_set_1_reps
+      label: Set 1 - Repetitions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bench_row_set_1_weight
+      label: Set 1 - Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bench_row_set_1_difficulty
+      label: Set 1 - Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Challenging
+      - Very Challenging
+      - Maximum Effort
+      required: false
+    - id: 9
+      name: bench_row_set_2_reps
+      label: Set 2 - Repetitions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: bench_row_set_2_weight
+      label: Set 2 - Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bench_row_set_2_difficulty
+      label: Set 2 - Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Challenging
+      - Very Challenging
+      - Maximum Effort
+      required: false
+    - id: 12
+      name: bench_row_set_3_reps
+      label: Set 3 - Repetitions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bench_row_set_3_weight
+      label: Set 3 - Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bench_row_set_3_difficulty
+      label: Set 3 - Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Challenging
+      - Very Challenging
+      - Maximum Effort
+      required: false
+    - id: 15
+      name: total_reps
+      label: Total Repetitions Today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_quality
+      label: Form Quality
+      hint: How well was the exercise performed
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 17
+      name: additional_exercises
+      label: Additional Exercises Performed
+      hint: Other exercises in today's session
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rest_periods
+      label: Rest Between Sets (seconds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: pain_discomfort
+      label: Pain or Discomfort
+      hint: Any pain during workout
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 20
+      name: recovery_rate
+      label: Recovery Rate
+      hint: How quickly did you recover
+      type: select_one
+      options:
+      - Fast
+      - Normal
+      - Slow
+      - Very Slow
+      required: false
+    - id: 21
+      name: energy_level_post
+      label: Energy Level After Workout
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 22
+      name: workout_notes
+      label: Workout Notes
+      hint: Additional observations or progress notes
+      type: text
+      options: []
+      required: false

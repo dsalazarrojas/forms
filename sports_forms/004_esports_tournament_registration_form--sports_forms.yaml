@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: esports_tournament_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''esports_tournament'', ''label'': ''esports tournament''}'
+      - '{''id'': 2, ''name'': ''esports_league'', ''label'': ''esports league''}'
+      required: false
+    - id: 6
+      name: competition_date
+      label: competition date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: event location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''offline''}'
+      - '{''id'': 3, ''name'': ''hybrid'', ''label'': ''hybrid''}'
+      required: false
+    - id: 8
+      name: team_name
+      label: team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_leader
+      label: team leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_members
+      label: team members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_member_1
+      label: team member 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_member_2
+      label: team member 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_member_3
+      label: team member 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_member_4
+      label: team member 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_member_5
+      label: team member 5
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Sign Up And Payment
+    pages:
+    - id: 1
+      name: sponsor_sign_up_and_payment_form
+      label: sponsor_sign_up_and_payment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sponsor_type
+      label: sponsor_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sponsor_details
+      label: sponsor_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

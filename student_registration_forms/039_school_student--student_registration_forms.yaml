@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Student
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter student's email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter student's phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_year
+      label: School year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_group
+      label: Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_class
+      label: Class
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: student_age
+      label: Age
+      hint: Enter student's age
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_height
+      label: Height
+      hint: Enter student's height in feet and inches
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_weight
+      label: Weight
+      hint: Enter student's weight in pounds
+      type: number
+      options: []
+      required: false

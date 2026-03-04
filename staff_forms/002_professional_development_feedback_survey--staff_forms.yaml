@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Development Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating_seminar
+      label: Rate this seminar
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: rate_workshop
+      label: Rate this workshop
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 4
+      name: seminar_rating
+      label: How do you rate the seminar?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: workshop_rating
+      label: How do you rate the workshop?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: seminar_content
+      label: What content of the seminar was most valuable to you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Presentation''}'
+      - '{''id'': 2, ''label'': ''Facilitator''}'
+      - '{''id'': 3, ''label'': ''Materials''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 7
+      name: workshop_content
+      label: What content of the workshop was most valuable to you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Presentation''}'
+      - '{''id'': 2, ''label'': ''Facilitator''}'
+      - '{''id'': 3, ''label'': ''Materials''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facilitator
+      label: Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: seminar_location
+      label: Seminar Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: seminar_name
+      label: Seminar Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments2
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rating_seminar_content
+      label: How would you rate the content of the seminar?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 25
+      name: workshop_rating_content
+      label: How would you rate the content of the workshop?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false

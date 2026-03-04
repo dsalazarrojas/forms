@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: manufacturing_process_partner_contact_form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manufacturing_capabilities
+      label: Manufacturing Capabilities
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing of small to medium-sized batches
+      - Large batch manufacturing
+      - Both
+      required: true
+    - id: 6
+      name: manufacturing_process
+      label: Manufacturing Process
+      hint: null
+      type: select_one
+      options:
+      - Injection Molding
+      - Blow Molding
+      - Tooling
+      - Both
+      required: true
+    - id: 7
+      name: manufacturing_location
+      label: Manufacturing Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manufacturing_process_description
+      label: Manufacturing Process Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

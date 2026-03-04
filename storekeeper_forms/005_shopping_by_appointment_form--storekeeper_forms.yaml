@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shopping By Appointment Form
+    pages:
+    - id: 1
+      name: shopping_by_appointment_form
+      label: shopping_sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: storekeeper
+      label: storekeeper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shopping_session
+      label: shopping_session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shopping_day
+      label: shopping_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: appointment_length
+      label: appointment_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: storekeeper_name
+      label: storekeeper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: storekeeper_phone
+      label: storekeeper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: storekeeper_email
+      label: storekeeper_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shopping_session_description
+      label: shopping_session_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shopping_session_comments
+      label: shopping_session_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shopping_session_date
+      label: shopping_session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 18
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

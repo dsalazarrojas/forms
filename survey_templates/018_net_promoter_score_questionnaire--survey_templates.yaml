@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: net_promoter_score_questionnaire
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: question1
+      label: How likely are you to recommend this business?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: question2
+      label: How likely is it that you will continue to do business with us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question3
+      label: What was the main reason for your recent visit or interaction with our
+        business?
+      hint: null
+      type: text
+      options: []
+      required: false

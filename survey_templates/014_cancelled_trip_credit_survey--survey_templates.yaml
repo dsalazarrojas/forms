@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancelled Trip Credit Survey
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_email
+      label: Booking Email Address
+      hint: Use the email you used to make your booking
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Found in your reservation confirmation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cancelled_destination
+      label: Cancelled Destination
+      hint: Where were you planning to travel
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: original_travel_date
+      label: Original Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cancellation_details_section
+      label: -- Trip Cancellation Details --
+      hint: Help us understand what happened
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: initiator_of_cancellation
+      label: Who initiated the cancellation
+      hint: null
+      type: select_one
+      options:
+      - Traveller
+      - Travel Agency
+      - Airline
+      - Other
+      required: true
+    - id: 8
+      name: primary_cancellation_reason
+      label: Main reason for cancellation
+      hint: Choose the most accurate reason
+      type: select_one
+      options:
+      - Health Reasons
+      - Natural Disaster
+      - Flight Cancellation
+      - Personal Reasons
+      - Entry Restrictions
+      - Other
+      required: true
+    - id: 9
+      name: satisfaction_section
+      label: -- Credit and Refund Satisfaction --
+      hint: Rate your experience with our recovery process
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: credit_process_satisfaction
+      label: Satisfaction with the credit process
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: ease_of_credit_rating
+      label: How easy was it to receive your credit
+      hint: 1 to 5 stars
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: full_amount_received
+      label: Did you receive the full amount expected
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partial amount
+      - false
+      - Still waiting
+      required: true
+    - id: 13
+      name: future_plans_section
+      label: -- Future Travel Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: credit_usage_plan
+      label: When do you plan to use your travel credit
+      hint: Approximate timeframe for your next trip
+      type: select_one
+      options:
+      - Within 6 months
+      - 7-12 months
+      - Over a year
+      - Unsure
+      required: true
+    - id: 15
+      name: use_service_again
+      label: Would you use this agency or service again
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 16
+      name: communication_feedback
+      label: Feedback on the communication during cancellation
+      hint: Tell us how we kept you informed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_experience_rating
+      label: Overall experience rating
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

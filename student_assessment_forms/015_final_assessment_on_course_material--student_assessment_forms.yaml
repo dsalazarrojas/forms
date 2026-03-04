@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Assessment On Course Material
+    pages:
+    - id: 1
+      name: course_overview
+      label: Course Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: key_takeaways
+      label: Key Takeaways
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_effectiveness
+      label: Course Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assessment_questions
+      label: Assessment Questions
+      hint: null
+      type: select_multiple
+      options:
+      - What was the most useful part of the course for you?
+      - What were the key takeaways from this course?
+      - How will you apply the knowledge gained from this course in your daily life?
+      required: false
+    - id: 5
+      name: course_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

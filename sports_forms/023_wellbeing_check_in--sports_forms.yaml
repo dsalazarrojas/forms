@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellbeing Check In
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wellbeing_score
+      label: Wellbeing Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wellbeing_comments
+      label: Wellbeing Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: wellbeing_frequency
+      label: How often do you exercise?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: wellbeing_purpose
+      label: Why do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 10
+      name: wellbeing_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 11
+      name: wellbeing_tools
+      label: Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 12
+      name: wellbeing_goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wellbeing_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wellbeing_form_completion
+      label: Form Completion
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true

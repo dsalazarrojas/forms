@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleeping_habits_survey
+    pages:
+    - id: 1
+      name: sleeping_habits_survey_page_1
+      label: what_do_you_do_at_night
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_time
+      label: what_time_do_you_go_to_sleep
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wake_time
+      label: what_time_do_you_wake_up
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sleep_patterns
+      label: how_do_you_sleep
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wake_up_patterns
+      label: how_do_you_wake_up
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      - Other
+      required: false
+    - id: 6
+      name: exercise_time
+      label: how_much_time_do_you_spend_exercising
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: screen_time
+      label: how_much_screen_time_do_you_spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: study_time
+      label: how_much_time_do_you_spend_studying
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: false
+    - id: 9
+      name: sleep_quality
+      label: what_is_the_quality_of_your_sleep
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: sleep_frequency
+      label: how_ofently_do_you_sleep
+      hint: null
+      type: select_one
+      options:
+      - Every night
+      - 3-4 nights
+      - 2-3 nights
+      - 1-2 nights
+      - Less than 1 night
+      - Never
+      required: false
+    - id: 11
+      name: sleep_location
+      label: where_do_you_sleep
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: sleep_enviro
+      label: what_environment_do_you_sleep_in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sleep_disturbance
+      label: have_you_been_woken_up_by_something
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sleep_disturbance_source
+      label: what_woke_you_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: sleep_disturbance_frequency
+      label: how_ofentally_did_it_happen
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 time
+      - 1-2 times
+      - 2-5 times
+      - 5-10 times
+      - More than 10 times
+      required: false
+    - id: 16
+      name: sleep_disturbance_source_description
+      label: describe_the_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sleep_quality_source
+      label: what_was_the_impact_of_the_disturbance
+      hint: null
+      type: select_one
+      options:
+      - Not impactful
+      - Somewhat impactful
+      - Very impactful
+      required: false
+    - id: 18
+      name: sleep_disturbance_source_type
+      label: what_type_of_disturbance_was_it
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: sleep_disturbance_source_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sleep_disturbance_source_other_description
+      label: describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sleep_disturbance_source_other_frequency
+      label: how_ofentally_did_it_happen
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 time
+      - 1-2 times
+      - 2-5 times
+      - 5-10 times
+      - More than 10 times
+      required: false
+    - id: 22
+      name: sleep_disturbance_source_other_description_1
+      label: describe_what_happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sleep_disturbance_source_other_description_2
+      label: describe_what_happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sleep_disturbance_source_other_description_3
+      label: describe_what_happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sleep_disturbance_source_other_description_4
+      label: describe_what_happened
+      hint: null
+      type: text
+      options: []
+      required: false

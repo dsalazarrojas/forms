@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Instructor Renewal Application Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_license
+      label: License
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 7
+      name: form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_license_status
+      label: License Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: form_licenses_renewal
+      label: Licenses Renewal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

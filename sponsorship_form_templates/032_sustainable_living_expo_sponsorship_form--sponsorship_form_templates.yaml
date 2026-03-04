@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Living Expo Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_applications
+      label: Sponsor Applications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sponsor_packages
+      label: Sponsor Packages
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: branding_details
+      label: Branding Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_info
+      label: Event Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: logo
+      label: Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: package_price
+      label: Package Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sponsorship_status
+      label: Sponsorship Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: package_description
+      label: Package Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: package_name
+      label: Package Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: package_quantity
+      label: Package Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: sponsorship_details
+      label: Sponsorship Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: package_price_range
+      label: Package Price Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: package_status
+      label: Package Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: package_notes
+      label: Package Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true

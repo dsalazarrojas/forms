@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Project Management Feedback Questionnaire
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Name of the client or organization
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: client_email
+        label: Client Email Address
+        hint: Email for follow-up communication
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: project_name
+        label: Project Name
+        hint: Name or title of the completed project
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_start_date
+        label: Project Start Date
+        hint: When did the project begin
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: project_end_date
+        label: Project End Date
+        hint: When was the project completed
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: consultant_name
+        label: Consultant Name
+        hint: Name of the assigned consultant
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction Rating
+        hint: Rate your overall satisfaction with the project
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: project_objectives_met
+        label: Were Project Objectives Met
+        hint: Select if the project achieved its goals
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Fully Met
+          - Mostly Met
+          - Partially Met
+          - Not Met
+        required: true
+      - id: 9
+        name: communication_rating
+        label: Communication Rating
+        hint: Rate the consultant's communication
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: professionalism_rating
+        label: Professionalism Rating
+        hint: Rate the consultant's professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: expertise_rating
+        label: Technical Expertise Rating
+        hint: Rate the consultant's technical knowledge
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: timeline_adherence
+        label: Timeline Adherence
+        hint: How well did the project stay on schedule
+        type: select_one
+        options:
+          - Completed Ahead of Schedule
+          - Completed On Time
+          - Minor Delays
+          - Moderate Delays
+          - Significant Delays
+        required: true
+      - id: 13
+        name: budget_adherence
+        label: Budget Adherence
+        hint: How well did the project stay within budget
+        type: select_one
+        options:
+          - Under Budget
+          - On Budget
+          - Slightly Over Budget
+          - Moderately Over Budget
+          - Significantly Over Budget
+        required: true
+      - id: 14
+        name: deliverable_quality
+        label: Quality of Deliverables
+        hint: Rate the quality of project deliverables
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 15
+        name: problem_solving
+        label: Problem Solving Effectiveness
+        hint: Rate how well issues were resolved
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: strengths
+        label: Project Strengths
+        hint: What went well during this project
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be improved in future projects
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: challenges_faced
+        label: Challenges Faced
+        hint: Describe any challenges encountered
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_recommend
+        label: Would You Recommend Our Services
+        hint: Select if you would recommend us to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: future_collaboration
+        label: Interest in Future Collaboration
+        hint: Would you work with us again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: additional_services_needed
+        label: Additional Services of Interest
+        hint: Select any other services you might need
+        type: select_multiple
+        options:
+          - Strategic Planning
+          - Process Improvement
+          - Change Management
+          - Training and Development
+          - Technology Implementation
+          - Risk Management
+          - Performance Analysis
+          - Other
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or suggestions
+        type: text
+        options: []
+        required: false

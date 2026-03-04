@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Supply Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_number
+      label: order_number
+      hint: Please enter order number from invoice
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_items
+      label: total_items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_list
+      label: item_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: item_quantity
+      label: item_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: item_unit_price
+      label: item_unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit/Debit Card
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_progress
+      - delivered
+      - cancelled
+      required: false

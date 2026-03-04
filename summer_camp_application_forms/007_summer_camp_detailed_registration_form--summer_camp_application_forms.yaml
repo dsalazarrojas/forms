@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Detailed Registration Form
+    pages:
+    - id: 1
+      name: summer_camp_detailed_registration_form_1
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_camp_detailed_registration_form_2
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: summer_camp_detailed_registration_form_3
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - State 1
+      - State 2
+      - State 3
+      - State 4
+      - State 5
+      required: true
+    - id: 7
+      name: participant_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: participant_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_tshirtsizes
+      label: t-shirt_size
+      hint: null
+      type: select_multiple
+      options:
+      - Select Multiple
+      - S-M
+      - M
+      - L
+      - XL
+      required: true
+    - id: 10
+      name: participant_allergies
+      label: medical_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_medication
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_medication_allergies
+      label: medications_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_special_needs
+      label: special_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: participant_counselors
+      label: counselors
+      hint: null
+      type: select_multiple
+      options:
+      - Select Multiple
+      - Counselor 1
+      - Counselor 2
+      - Counselor 3
+      required: true
+    - id: 17
+      name: participant_therapist
+      label: therapist
+      hint: null
+      type: select_multiple
+      options:
+      - Select Multiple
+      - Therapist 1
+      - Therapist 2
+      - Therapist 3
+      required: true
+    - id: 18
+      name: participant_therapy_sessions
+      label: therapy_sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Select Multiple
+      - Therapy 1
+      - Therapy 2
+      - Therapy 3
+      required: true
+    - id: 19
+      name: participant_family_members
+      label: family_members
+      hint: null
+      type: select_multiple
+      options:
+      - Select Multiple
+      - Family Member 1
+      - Family Member 2
+      - Family Member 3
+      required: true
+    - id: 20
+      name: participant_employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Employed
+      - Unemployed
+      - Retired
+      - Unknown
+      required: true
+    - id: 21
+      name: participant_employer_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_employer_address
+      label: employer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_employer_phone
+      label: employer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_employer_email
+      label: employer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: participant_employer_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false

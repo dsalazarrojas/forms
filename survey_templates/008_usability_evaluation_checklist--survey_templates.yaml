@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: usability_evaluation_checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_satisfaction
+      label: user_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: user_frustration
+      label: user_frustration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: usability_rating
+      label: usability_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: user_experience
+      label: user_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_usability
+      label: product_usability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Very Good''}'
+      required: true
+    - id: 8
+      name: user_satisfaction_1
+      label: user_satisfaction_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_satisfaction_2
+      label: user_satisfaction_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_satisfaction_3
+      label: user_satisfaction_3
+      hint: null
+      type: text
+      options: []
+      required: false

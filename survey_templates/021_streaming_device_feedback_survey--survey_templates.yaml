@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Device Feedback Survey
+    pages:
+    - id: 1
+      name: streaming_device_info
+      label: Streaming Device Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate Your Device
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1 - 2''}'
+      - '{''id'': 2, ''label'': ''2 - 3''}'
+      - '{''id'': 3, ''label'': ''3 - 4''}'
+      - '{''id'': 4, ''label'': ''4 - 5''}'
+      required: false
+    - id: 3
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: technical_issues_list
+      label: Technical Issues List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unsure''}'
+      required: false
+    - id: 13
+      name: technical_issues_description
+      label: Technical Issues Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: technical_issues_category
+      label: Technical Issues Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: technical_issues_severity
+      label: Technical Issues Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Minor''}'
+      - '{''id'': 2, ''label'': ''Major''}'
+      - '{''id'': 3, ''label'': ''Critical''}'
+      - '{''id'': 4, ''label'': ''Crash''}'
+      required: false
+    - id: 16
+      name: technical_issues_frequency
+      label: Technical Issues Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: technical_issues_impacts
+      label: Technical Issues Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: technical_issues_reproducible
+      label: Technical Issues Reproducibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: technical_issues_steps_to_reproduce
+      label: Technical Issues Steps to Reproduce
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: technical_issues_additional_info
+      label: Technical Issues Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: release_notes_comments
+      label: Release Notes Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: release_notes_date
+      label: Release Notes Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: release_notes_time
+      label: Release Notes Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: release_notes_additional_info
+      label: Release Notes Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: technical_issues_status
+      label: Technical Issues Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''Open''}'
+      - '{''id'': 3, ''label'': ''Fixed''}'
+      - '{''id'': 4, ''label'': ''Closed''}'
+      required: false

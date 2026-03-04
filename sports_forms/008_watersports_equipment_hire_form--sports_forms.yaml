@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Watersports Equipment Hire Form
+    pages:
+    - id: 1
+      name: watersports_equipment_hire_form
+      label: Watersports Equipment Hire Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: watersports_equipment_hire_form_details
+      label: Watersports Equipment Hire Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - kayak
+      - paddleboard
+      - surfboard
+      - wetsuit
+      - bike
+      required: false
+    - id: 9
+      name: number_of_adults
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: watersports_equipment_hire_form_submit
+      label: Watersports Equipment Hire Form Submit
+      hint: null
+      type: select_multiple
+      options:
+      - confirm
+      - agree
+      required: false

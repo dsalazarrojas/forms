@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Coaching Sheet
+    pages:
+    - id: 1
+      name: lesson_plan
+      label: Lesson Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: next_lesson
+      label: Next Lesson
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: coach_signature
+      label: Coach Signature
+      hint: null
+      type: select_one
+      options:
+      - Coach A
+      - Coach B
+      - Coach C
+      required: true
+    - id: 13
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: select_one
+      options:
+      - Student A
+      - Student B
+      - Student C
+      required: true
+    - id: 14
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

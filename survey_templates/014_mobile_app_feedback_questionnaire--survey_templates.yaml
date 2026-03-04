@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: app_name
+      label: app_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_page
+      label: submission_page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_2
+      label: email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_2
+      label: phone_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suggestion_2
+      label: suggestion_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_page_2
+      label: submission_page_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_2
+      label: time_2
+      hint: null
+      type: time
+      options: []
+      required: false

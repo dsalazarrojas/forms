@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bat Hibernation Survey
+    pages:
+    - id: 1
+      name: survey_metadata_header
+      label: -- Observation Site Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_identifier
+      label: Site Name or ID
+      hint: e.g. Cave A-42, Abandoned Mine West
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Survey Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: environmental_data_header
+      label: -- Environmental Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: external_temp_c
+      label: External Temperature (Celsius)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: internal_temp_c
+      label: Internal Site Temperature (Celsius)
+      hint: Measured at the hibernation cluster
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: relative_humidity
+      label: Relative Humidity (%)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: observation_header
+      label: -- Hibernation Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_species_observed
+      label: Primary Bat Species Observed
+      hint: null
+      type: select_one
+      options:
+      - Little Brown Bat
+      - Big Brown Bat
+      - Indiana Bat
+      - Tri-colored Bat
+      - Northern Long-eared Bat
+      - Other
+      required: true
+    - id: 12
+      name: estimated_count
+      label: Estimated Total Count of Bats
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: observation_method
+      label: Observation Method
+      hint: null
+      type: select_one
+      options:
+      - Visual Count
+      - Photography/Image Analysis
+      - Acoustic Monitoring
+      - Thermal Imaging
+      required: true
+    - id: 14
+      name: wns_symptoms_present
+      label: Are visible symptoms of White-Nose Syndrome present?
+      hint: null
+      type: select_one
+      options:
+      - Yes, visible fungal growth
+      - Possible, but not confirmed
+      - No visible symptoms
+      required: true
+    - id: 15
+      name: additional_field_notes
+      label: Additional Field Notes
+      hint: Note behavior, cluster location, or site changes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: photo_taken
+      label: Were survey photos captured?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

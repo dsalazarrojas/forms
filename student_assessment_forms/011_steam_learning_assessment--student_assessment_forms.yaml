@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: STEAM Learning Assessment
+    pages:
+    - id: 1
+      name: student_interest
+      label: Student Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: math_confidence
+      label: Math Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: science_confidence
+      label: Science Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tech_confidence
+      label: Tech Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: art_confidence
+      label: Art Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: music_confidence
+      label: Music Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: experience_1
+      label: Experience 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: experience_2
+      label: Experience 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

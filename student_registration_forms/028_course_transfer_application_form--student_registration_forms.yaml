@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Transfer Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: course_info
+      label: Course Information
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Course 1
+      - Course 2
+      required: true
+    - id: 4
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: advisor_signature
+      label: Advisor Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: Select Department
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      required: true
+    - id: 10
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      required: true
+    - id: 11
+      name: academic_level
+      label: Academic Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      required: true
+    - id: 12
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      required: true
+    - id: 13
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_of_transfer
+      label: Time of Transfer
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: course_transfer_status
+      label: Course Transfer Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transfer_comments
+      label: Transfer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transfer_recommendations
+      label: Transfer Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department_approval
+      label: Department Approval
+      hint: Select Department Approval
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: true
+    - id: 19
+      name: academic_approval
+      label: Academic Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: true
+    - id: 20
+      name: course_transfer_confirmation
+      label: Transfer Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: advisor_approval_comment
+      label: Advisor Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: departmental_transfer_request
+      label: Departmental Transfer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: transfer_request_reason
+      label: Transfer Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_acknowledgement
+      label: Student Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: final_transfer_decision
+      label: Final Transfer Decision
+      hint: Select Final Transfer Decision
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: true

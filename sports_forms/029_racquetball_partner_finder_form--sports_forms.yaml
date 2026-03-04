@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Racquetball Partner Finder Form
+    pages:
+    - id: 1
+      name: partner_interests
+      label: Partner Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: racquets
+      label: Racquets
+      hint: Number of racquetballs in the field
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: court_size
+      label: Court Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: time_preference
+      label: Time Preference
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional information about this match
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: partner_id
+      label: Partner ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: partner_location
+      label: Partner Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: my_id
+      label: My ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: my_email
+      label: My Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: my_phone
+      label: My Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: my_location
+      label: My Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: my_interests
+      label: My Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: partner_interests_2
+      label: Partner Interests 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes_2
+      label: Notes 2
+      hint: Additional information about this match
+      type: note
+      options: []
+      required: false

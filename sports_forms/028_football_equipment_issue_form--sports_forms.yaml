@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Equipment Issue Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: issue_details
+      label: Issue Details
+      hint: Please provide details about the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Team A''}'
+      - '{''label'': ''Team B''}'
+      - '{''label'': ''Team C''}'
+      required: true
+    - id: 5
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Helmet''}'
+      - '{''label'': ''Cleats''}'
+      - '{''label'': ''Gloves''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Assigned''}'
+      - '{''label'': ''Returned''}'
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''team_jimmy''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sports Forms''}'
+      - Other
+      required: false

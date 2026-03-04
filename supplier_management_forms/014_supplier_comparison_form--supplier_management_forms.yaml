@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Comparison Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quotes
+      label: quotes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''quote_1'', ''label'': ''Quote 1''}'
+      - '{''id'': 2, ''name'': ''quote_2'', ''label'': ''Quote 2''}'
+      - '{''id'': 3, ''name'': ''quote_3'', ''label'': ''Quote 3''}'
+      required: false
+    - id: 3
+      name: decision_notes
+      label: Decision Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supplier_status
+      label: Supplier Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quote_time
+      label: Quote Time
+      hint: null
+      type: time
+      options: []
+      required: false

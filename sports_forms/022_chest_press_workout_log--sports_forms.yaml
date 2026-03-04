@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chest Press Workout Log
+    pages:
+    - id: 1
+      name: workout_intro
+      label: -- Chest Press Workout Log --
+      hint: Track your chest press training sessions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_id
+      label: Athlete ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workout_date
+      label: Workout date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: workout_time
+      label: Workout time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: coach_name
+      label: Coach or trainer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workout_duration
+      label: Workout duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: exercise_variation
+      label: Chest press variation
+      hint: null
+      type: select_one
+      options:
+      - Barbell bench press
+      - Dumbbell bench press
+      - Machine press
+      - Smith machine press
+      - Cable press
+      - Medicine ball press
+      - Other
+      required: true
+    - id: 9
+      name: body_position
+      label: Body position
+      hint: null
+      type: select_one
+      options:
+      - Flat bench
+      - Incline bench
+      - Decline bench
+      - Standing
+      - Seated
+      required: true
+    - id: 10
+      name: set_1_weight
+      label: Set 1 - Weight used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: set_1_reps
+      label: Set 1 - Number of reps
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: set_2_weight
+      label: Set 2 - Weight used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: set_2_reps
+      label: Set 2 - Number of reps
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: set_3_weight
+      label: Set 3 - Weight used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: set_3_reps
+      label: Set 3 - Number of reps
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: set_4_weight
+      label: Set 4 - Weight used (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: set_4_reps
+      label: Set 4 - Number of reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: set_5_weight
+      label: Set 5 - Weight used (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: set_5_reps
+      label: Set 5 - Number of reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: weight_unit
+      label: Weight unit
+      hint: null
+      type: select_one
+      options:
+      - Pounds (lbs)
+      - Kilograms (kg)
+      required: true
+    - id: 21
+      name: perceived_difficulty
+      label: Perceived difficulty of workout
+      hint: Rate from 1 (Easy) to 10 (Very difficult)
+      type: select_one
+      options:
+      - 1 - Very easy
+      - 2-3 - Easy
+      - 4-5 - Moderate
+      - 6-7 - Difficult
+      - 8-9 - Very difficult
+      - 10 - Extremely difficult
+      required: true
+    - id: 22
+      name: muscle_soreness
+      label: Muscle soreness or fatigue
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Significant
+      - Severe
+      required: true
+    - id: 23
+      name: form_quality
+      label: Form quality assessment
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 24
+      name: notes_observations
+      label: Additional notes or observations
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Donation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: stripe_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stripe_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 7
+      name: stripe_currency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stripe_payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Card Number
+      - Payable at a Bank
+      - Apple Pay
+      - Google Pay
+      - Other
+      - Bitcoin
+      required: false

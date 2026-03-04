@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: next_stream_character_preference_survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: Survey Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: character
+      label: Character
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Character A''}'
+      - '{''id'': 2, ''label'': ''Character B''}'
+      - '{''id'': 3, ''label'': ''Character C''}'
+      required: true
+    - id: 3
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: stream_content
+      label: Stream Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: audience_habits
+      label: Audience Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: character_choices
+      label: Character Choices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Character A''}'
+      - '{''id'': 2, ''label'': ''Character B''}'
+      - '{''id'': 3, ''label'': ''Character C''}'
+      required: true
+    - id: 7
+      name: stream_content
+      label: Stream Content
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: stream_time
+      label: Stream Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: character_preferences
+      label: Character Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: output
+      label: Output
+      hint: null
+      type: text
+      options: []
+      required: false

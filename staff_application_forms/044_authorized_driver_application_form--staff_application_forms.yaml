@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorized Driver Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: When you are applying
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: position_title
+      label: Position Title
+      hint: Driver position you are applying for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: driver_license_number
+      label: Driver License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_state
+      label: License State
+      hint: State of issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: When does it expire
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: license_class
+      label: License Class
+      hint: What class of license
+      type: select_one
+      options:
+      - Class D - Standard
+      - Class A - Heavy Truck
+      - Class B - Medium Truck
+      - Class C - Commercial
+      - CDL - Commercial Driver License
+      required: true
+    - id: 16
+      name: years_driving_experience
+      label: Years of Driving Experience
+      hint: Total years as a licensed driver
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: commercial_driving_experience
+      label: Years of Commercial Driving Experience
+      hint: Commercial or professional driving years
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_types_driven
+      label: Types of Vehicles Driven
+      hint: Select all vehicle types you have driven
+      type: select_multiple
+      options:
+      - Sedan/Car
+      - SUV/Truck
+      - Van
+      - Passenger Bus
+      - Commercial Truck
+      - Tractor Trailer
+      - Specialty Vehicle
+      required: true
+    - id: 19
+      name: current_mvr_status
+      label: Current Motor Vehicle Record Status
+      hint: Have you checked your MVR recently
+      type: select_one
+      options:
+      - Clean - No Violations
+      - Minor Violations
+      - Multiple Violations
+      - Suspended License
+      - Not Checked
+      required: true
+    - id: 20
+      name: traffic_violations_3_years
+      label: Traffic Violations in Past 3 Years
+      hint: Number of violations
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: accidents_3_years
+      label: At-Fault Accidents in Past 3 Years
+      hint: Number of accidents
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: dui_conviction
+      label: DUI or DWI Conviction
+      hint: Have you been convicted of DUI/DWI
+      type: select_one
+      options:
+      - No - Never
+      - Yes - More Than 10 Years Ago
+      - Yes - Within Last 10 Years
+      - Pending
+      required: true
+    - id: 23
+      name: background_check_consent
+      label: Consent for Background Check
+      hint: Authorize background and driving record check
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - Do Not Consent
+      required: true
+    - id: 24
+      name: previous_employer
+      label: Previous Employer
+      hint: Last employer as a driver
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: references_available
+      label: Professional References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - Yes - 3 or More
+      - Yes - 1-2
+      - No - Not Available
+      required: true

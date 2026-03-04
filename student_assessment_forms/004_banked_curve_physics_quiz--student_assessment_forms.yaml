@@ -1,0 +1,172 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banked Curve Physics Quiz
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Please enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID Number
+        hint: Your student ID
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: class_section
+        label: Class Section
+        hint: Which section are you in?
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_quiz
+        label: Date of Quiz
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: question_1_definition
+        label: Question 1 - Define centripetal force
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Force directed toward the center of circular motion
+          - Force directed away from the center
+          - Force acting tangentially to the path
+          - Force opposing motion
+        required: true
+      - id: 6
+        name: question_2_banking_angle
+        label: Question 2 - What is the banking angle?
+        hint: The banking angle is most important for which scenario?
+        type: select_one
+        options:
+          - Reducing friction on curves
+          - Increasing vehicle speed
+          - Changing road texture
+          - Measuring road width
+        required: true
+      - id: 7
+        name: question_3_normal_force
+        label: Question 3 - Identify the normal force direction
+        hint: In a banked curve, the normal force is...
+        type: select_one
+        options:
+          - Perpendicular to the road surface
+          - Parallel to the road surface
+          - Pointing downward
+          - Horizontal to the ground
+        required: true
+      - id: 8
+        name: question_4_friction_role
+        label: Question 4 - What role does friction play?
+        hint: Select the correct statement about friction
+        type: select_one
+        options:
+          - It provides additional centripetal force component
+          - It eliminates the need for banking
+          - It reduces the centripetal force required
+          - It has no effect on banked curves
+        required: true
+      - id: 9
+        name: question_5_maximum_speed
+        label: Question 5 - What determines maximum safe speed?
+        hint: The maximum speed on a banked curve depends on...
+        type: select_one
+        options:
+          - Banking angle, radius, and friction coefficient
+          - Only the radius of the curve
+          - Only the banking angle
+          - Vehicle weight only
+        required: true
+      - id: 10
+        name: question_6_formula_application
+        label: Question 6 - Which formula applies to banked curves with friction?
+        hint: Select the most relevant equation
+        type: select_one
+        options:
+          - tan(theta) = v-squared divided by rg
+          - tan(theta) = r divided by v-squared times g
+          - tan(theta) = g divided by v-squared times r
+          - tan(theta) = v times r divided by g-squared
+        required: true
+      - id: 11
+        name: question_7_scenario_analysis
+        label: Question 7 - If banking angle increases, what happens at constant speed?
+        hint: null
+        type: select_one
+        options:
+          - Required friction decreases
+          - Required friction increases
+          - Centripetal force decreases
+          - Normal force decreases
+        required: true
+      - id: 12
+        name: question_8_real_world
+        label: Question 8 - Why are highway curves banked?
+        hint: Select the primary reason
+        type: select_one
+        options:
+          - To reduce reliance on friction for centripetal force
+          - To increase road surface area
+          - To improve drainage
+          - To enhance visibility
+        required: true
+      - id: 13
+        name: question_9_component_forces
+        label: Question 9 - Which force components balance vertical forces?
+        hint: null
+        type: select_multiple
+        options:
+          - Weight component
+          - Normal force component
+          - Friction component
+          - Centripetal component
+        required: true
+      - id: 14
+        name: question_10_critical_angle
+        label: Question 10 - At what angle does friction become unnecessary?
+        hint: This is called the critical banking angle when...
+        type: select_one
+        options:
+          - tan(theta) equals the coefficient of friction
+          - tan(theta) equals v-squared divided by rg
+          - tan(theta) equals zero
+          - tan(theta) equals one
+        required: true
+      - id: 15
+        name: confidence_level
+        label: How confident are you in your answers?
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Confident
+        required: false
+      - id: 16
+        name: additional_comments
+        label: Additional Comments or Questions
+        hint: Any concepts you found confusing?
+        type: text
+        options: []
+        required: false

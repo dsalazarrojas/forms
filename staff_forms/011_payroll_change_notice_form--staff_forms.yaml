@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: payroll_change_notice_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: notice_type
+      label: notice_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pay_start_date
+      label: pay_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pay_rate
+      label: pay_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pay_start_time
+      label: pay_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: pay_end_date
+      label: pay_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: pay_end_time
+      label: pay_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: change_date
+      label: change_date
+      hint: null
+      type: date
+      options: []
+      required: true

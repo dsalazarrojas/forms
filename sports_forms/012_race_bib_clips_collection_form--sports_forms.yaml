@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: race_bib_clips_collection_form
+    pages:
+    - id: 1
+      name: race_bib_clips_collection_form_1
+      label: Race Bib Clips Collection Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date of Return
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bib_number
+      label: Bib Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: race_id
+      label: Race ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Lost
+      required: false

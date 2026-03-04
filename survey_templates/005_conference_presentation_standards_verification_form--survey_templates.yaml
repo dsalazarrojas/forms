@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Presentation Standards Verification Form
+    pages:
+      - id: 1
+        name: verifier_name
+        label: Verifier Full Name
+        hint: Name of the person conducting verification
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: verifier_role
+        label: Verifier Role
+        hint: Your role in the conference
+        type: select_one
+        options:
+          - Conference Organizer
+          - Session Chair
+          - Technical Committee Member
+          - Quality Assurance Staff
+          - Other
+        required: true
+      - id: 3
+        name: verification_date
+        label: Date of Verification
+        hint: When was this verification conducted
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: presenter_name
+        label: Presenter Being Verified
+        hint: Name of the presenter
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: presentation_title
+        label: Presentation Title
+        hint: Title of the presentation
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: session_name
+        label: Session Name
+        hint: Which session does this belong to
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: slide_quality_check
+        label: Slide Quality Standards Met
+        hint: Are slides clear and readable
+        type: select_one
+        options:
+          - Yes Fully Compliant
+          - Minor Issues Noted
+          - Major Issues Require Revision
+          - Not Reviewed
+        required: true
+      - id: 8
+        name: font_size_compliance
+        label: Font Size Compliance
+        hint: Is text readable from audience distance
+        type: select_one
+        options:
+          - Yes All Text 24pt or Larger
+          - Mostly Compliant
+          - Font Too Small in Places
+          - Not Checked
+        required: true
+      - id: 9
+        name: color_contrast
+        label: Color and Contrast Standards
+        hint: Are colors accessible and readable
+        type: select_one
+        options:
+          - Excellent Contrast
+          - Acceptable Contrast
+          - Poor Contrast Needs Improvement
+          - Not Evaluated
+        required: true
+      - id: 10
+        name: accessibility_features
+        label: Accessibility Features Present
+        hint: Alt text captions etc
+        type: select_multiple
+        options:
+          - Alt Text for Images
+          - Closed Captions for Videos
+          - High Contrast Mode Available
+          - Screen Reader Compatible
+          - None Present
+          - Not Applicable
+        required: false
+      - id: 11
+        name: content_accuracy
+        label: Content Accuracy Verified
+        hint: Is information accurate and appropriate
+        type: select_one
+        options:
+          - Verified Accurate
+          - Minor Corrections Needed
+          - Significant Issues Found
+          - Not Reviewed for Content
+        required: true
+      - id: 12
+        name: branding_compliance
+        label: Conference Branding Compliance
+        hint: Are logos and branding used correctly
+        type: select_one
+        options:
+          - Fully Compliant
+          - Partially Compliant
+          - Not Compliant
+          - Branding Not Required
+        required: true
+      - id: 13
+        name: timing_appropriate
+        label: Presentation Length Appropriate
+        hint: Does content fit assigned time slot
+        type: select_one
+        options:
+          - Yes Fits Time Slot
+          - Slightly Too Long
+          - Significantly Too Long
+          - Too Short
+          - Not Evaluated
+        required: true
+      - id: 14
+        name: av_requirements_met
+        label: AV Requirements Documented
+        hint: Are technical needs clearly stated
+        type: select_one
+        options:
+          - Yes Documented and Met
+          - Documented but Not Available
+          - Not Documented
+          - No Special Requirements
+        required: true
+      - id: 15
+        name: backup_plan
+        label: Backup Plan in Place
+        hint: Is there a contingency for technical issues
+        type: select_one
+        options:
+          - Yes Backup Available
+          - Partial Backup
+          - No Backup Plan
+          - Not Discussed
+        required: true
+      - id: 16
+        name: issues_identified
+        label: Issues Identified
+        hint: List any issues found during verification
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: corrective_actions
+        label: Corrective Actions Required
+        hint: What needs to be fixed before presentation
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: follow_up_needed
+        label: Follow Up Review Needed
+        hint: Will this require re-verification
+        type: select_one
+        options:
+          - Yes Re-verification Required
+          - No Changes Complete
+          - Minor Changes No Re-review Needed
+        required: true
+      - id: 19
+        name: overall_status
+        label: Overall Verification Status
+        hint: Final status of this verification
+        type: select_one
+        options:
+          - Approved for Presentation
+          - Approved with Minor Notes
+          - Pending Revisions
+          - Not Approved
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations or notes
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: verifier_signature
+        label: Verifier Confirmation
+        hint: Confirm this verification is accurate
+        type: select_one
+        options:
+          - I Confirm This Verification
+          - Unable to Confirm
+        required: true

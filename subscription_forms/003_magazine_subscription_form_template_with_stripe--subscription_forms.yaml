@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Subscription Form Template With Stripe
+    pages:
+    - id: 1
+      name: magazine_subscription_form
+      label: Subscription Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_information
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subscription_period
+      label: Subscription Period
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

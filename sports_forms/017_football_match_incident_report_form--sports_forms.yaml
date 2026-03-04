@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Match Incident Report Form
+    pages:
+    - id: 1
+      name: player_injury
+      label: Player Injury
+      hint: null
+      type: select_multiple
+      options:
+      - Head, Neck, Arm, Back, Leg
+      - Other
+      required: false
+    - id: 2
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: referee_id
+      label: Referee ID
+      hint: Enter referee ID
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: player_involvement
+      label: Player Involvement
+      hint: null
+      type: select_one
+      options:
+      - Yes, No, Unknown
+      - Other
+      required: false
+    - id: 6
+      name: match_location
+      label: Match Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: injury_location
+      label: Injury Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: injury_description
+      label: Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: injury_time
+      label: Injury Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Weekly Feedback Form
+    pages:
+    - id: 1
+      name: section_session_info
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: Name of the coach providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: week_of
+      label: Week of - date
+      hint: Start date of the week being reviewed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: number_sessions
+      label: Number of sessions this week
+      hint: How many coaching sessions were completed
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_progress
+      label: -- Progress and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: skill_development
+      label: Skill development this week
+      hint: What skills improved or were worked on
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_rating
+      label: Overall performance rating for the week
+      hint: Rate from 1 - poor to 5 - excellent
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: consistency
+      label: Consistency of effort and practice
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very inconsistent
+      - 2 - Inconsistent
+      - 3 - Somewhat consistent
+      - 4 - Mostly consistent
+      - 5 - Highly consistent
+      required: true
+    - id: 10
+      name: improvement_areas
+      label: Key areas for improvement
+      hint: What needs work
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_attitude
+      label: -- Attitude and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: attitude_rating
+      label: Athlete attitude during sessions
+      hint: Rate from 1 - poor to 5 - excellent
+      type: select_one
+      options:
+      - 1 - Poor - negative attitude
+      - 2 - Fair - sometimes negative
+      - 3 - Good - generally positive
+      - 4 - Very Good - mostly positive
+      - 5 - Excellent - highly positive
+      required: true
+    - id: 13
+      name: focus_concentration
+      label: Focus and concentration during practice
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: coachability
+      label: Coachability - willingness to receive feedback
+      hint: null
+      type: select_one
+      options:
+      - 1 - Resistant
+      - 2 - Somewhat resistant
+      - 3 - Neutral
+      - 4 - Receptive
+      - 5 - Highly receptive
+      required: true
+    - id: 15
+      name: section_goals
+      label: -- Goals and Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: progress_toward_goals
+      label: Progress toward stated goals
+      hint: null
+      type: select_one
+      options:
+      - 1 - No progress
+      - 2 - Minimal progress
+      - 3 - On track
+      - 4 - Good progress
+      - 5 - Exceeding goals
+      required: true
+    - id: 17
+      name: goals_for_next_week
+      label: Focus areas and goals for next week
+      hint: What will you work on
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_highlights
+      label: -- Highlights and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: positive_highlights
+      label: Positive highlights from this week
+      hint: What went well
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: concerns_issues
+      label: Any concerns or issues to address
+      hint: What needs attention
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_parents
+      label: -- Parent Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_communication_needed
+      label: Does parent communication need to happen
+      hint: null
+      type: select_one
+      options:
+      - Yes - positive update
+      - Yes - concerns to discuss
+      - No - routine week
+      required: false
+    - id: 23
+      name: parent_comment
+      label: Message or talking points for parent
+      hint: If communication needed
+      type: text
+      options: []
+      required: false

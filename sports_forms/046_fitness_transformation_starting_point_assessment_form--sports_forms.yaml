@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Transformation Starting Point Assessment Form
+    pages:
+    - id: 1
+      name: form_starting_point_info
+      label: Form Starting Point Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_fitness_level
+      label: Fitness Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 3
+      name: section_fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Weight Loss''}'
+      - '{''id'': 2, ''label'': ''Muscle Gain''}'
+      - '{''id'': 3, ''label'': ''Endurance''}'
+      required: true
+    - id: 4
+      name: section_body_measurements
+      label: Body Measurements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_fitness_level_assessment
+      label: Fitness Level Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 6
+      name: section_fitness_level_comments
+      label: Fitness Level Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 7
+      name: form_completion_comments
+      label: Form Completion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_current_workout_frequency
+      label: Current Work Out Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: form_completion_comments
+      label: Form Completion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_current_workout_days
+      label: Current Work Out Days
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Management Survey Form
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_pain_overview
+      label: -- Pain Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: primary_pain_type
+      label: Primary Type of Pain
+      hint: null
+      type: select_one
+      options:
+      - Musculoskeletal
+      - Neuropathic
+      - Inflammatory
+      - Visceral
+      - Mixed
+      - Other
+      required: true
+    - id: 6
+      name: pain_location
+      label: Pain Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_current_status
+      label: -- Current Pain Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pain_today
+      label: Pain Level Today (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pain_average_week
+      label: Average Pain This Week (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pain_worst_week
+      label: Worst Pain This Week (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pain_best_week
+      label: Best Pain This Week (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_functionality
+      label: -- Functional Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: physical_activity
+      label: Ability to Engage in Physical Activity
+      hint: null
+      type: select_one
+      options:
+      - No limitation
+      - Mild limitation
+      - Moderate limitation
+      - Severe limitation
+      - Unable to participate
+      required: true
+    - id: 14
+      name: work_capacity
+      label: Current Work Capacity
+      hint: null
+      type: select_one
+      options:
+      - Full time work
+      - Part time work
+      - Limited light work
+      - Unable to work
+      - On disability
+      required: true
+    - id: 15
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: social_activities
+      label: Participation in Social Activities
+      hint: null
+      type: select_one
+      options:
+      - Very active
+      - Moderately active
+      - Somewhat limited
+      - Very limited
+      - Unable to participate
+      required: true
+    - id: 17
+      name: section_header_treatment
+      label: -- Current Treatment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_treatments
+      label: Current Treatments (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Physical therapy
+      - Psychological therapy
+      - Injections
+      - Surgery
+      - Acupuncture
+      - Massage
+      - Exercise program
+      - Mind-body techniques
+      required: false
+    - id: 19
+      name: medication_compliance
+      label: How well are you following prescribed medications
+      hint: null
+      type: select_one
+      options:
+      - Excellent compliance
+      - Good compliance
+      - Fair compliance
+      - Poor compliance
+      - Not taking medications
+      required: false
+    - id: 20
+      name: section_header_efficacy
+      label: -- Treatment Efficacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: treatment_effectiveness
+      label: How effective is your current treatment plan
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Moderately effective
+      - Slightly effective
+      - Not effective
+      - Worsening
+      required: true
+    - id: 22
+      name: satisfaction_with_care
+      label: Overall Satisfaction with Pain Management
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very unsatisfied
+      required: true
+    - id: 23
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: biggest_challenge
+      label: Biggest Challenge with Pain Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: improvements_desired
+      label: What improvements would help your pain management
+      hint: null
+      type: text
+      options: []
+      required: false

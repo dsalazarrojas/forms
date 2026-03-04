@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Leave Application Form
+    pages:
+    - id: 1
+      name: staff_leave_application_form_1
+      label: Staff Leave Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''sick_leave''}'
+      - '{''id'': 2, ''label'': ''annual_leave''}'
+      - '{''id'': 3, ''label'': ''other_leave''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''John Doe''}'
+      - '{''id'': 3, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''approved''}'
+      - '{''id'': 3, ''label'': ''denied''}'
+      required: false
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      required: false
+    - id: 17
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      required: false
+    - id: 18
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''chatjimmy''}'
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''John Doe''}'
+      - '{''id'': 3, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 24
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Staff Forms''}'
+      - '{''id'': 2, ''label'': ''Other Forms''}'
+      required: false
+    - id: 25
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

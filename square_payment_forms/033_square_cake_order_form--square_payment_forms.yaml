@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Cake Order Form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - cake
+      - frosting
+      - topping
+      required: false
+    - id: 5
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      required: true
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

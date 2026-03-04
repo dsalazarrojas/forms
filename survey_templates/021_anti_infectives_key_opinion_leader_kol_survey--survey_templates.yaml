@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Infectives Key Opinion Leader KOL Survey
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Respondent Information --
+      hint: Provide professional affiliation details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Optional if you prefer anonymity
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization or institution
+      hint: Institution or company name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: specialty_area
+      label: Specialty area or discipline
+      hint: e g Infectious diseases microbiology
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: familiarity_with_antibiotics
+      label: Familiarity with anti infective agents
+      hint: Self assessed expertise level
+      type: select_one
+      options:
+        - Low
+        - Moderate
+        - High
+        - Expert
+      required: true
+    - id: 6
+      name: perceived_unmet_needs
+      label: Perceived unmet needs in treatment
+      hint: Select key areas of unmet medical need
+      type: select_multiple
+      options:
+        - Drug resistance
+        - Adverse event management
+        - Access to newer agents
+        - Diagnostics
+        - Other
+      required: false
+    - id: 7
+      name: treatment_preferences
+      label: Treatment preferences and rationale
+      hint: Free text for clinical reasoning
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willingness_to_participate
+      label: Willingness to participate in advisory activities
+      hint: Indicate interest for future engagement
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments or recommendations
+      hint: Any final thoughts or evidence references
+      type: text
+      options: []
+      required: false

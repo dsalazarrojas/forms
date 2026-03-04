@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Observation Report
+    pages:
+    - id: 1
+      name: observation_date
+      label: observation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_number
+      label: staff_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: observed_by
+      label: observed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: observations
+      label: observations
+      hint: Enter observations
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_observed
+      label: date_observed
+      hint: null
+      type: date
+      options: []
+      required: false

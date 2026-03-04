@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Financial Assistance Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_size
+      label: Household Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: family_member_1_name
+      label: Family Member 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_member_1_relationship
+      label: Family Member 1 Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother or Father''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Grandparent''}'
+      - '{''label'': ''Guardian''}'
+      required: true
+    - id: 6
+      name: family_member_2_name
+      label: Family Member 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_member_2_relationship
+      label: Family Member 2 Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother or Father''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Grandparent''}'
+      - '{''label'': ''Guardian''}'
+      required: true
+    - id: 8
+      name: household_zip
+      label: Household Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: camp_info
+      label: Camp Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: camp_name
+      label: Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: camp_address
+      label: Camp Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: camp_dates
+      label: Camp Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: camp_fees
+      label: Camp Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: camper_info
+      label: Camper Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: camper_age
+      label: Camper Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: camper_gender
+      label: Camper Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 18
+      name: camper_ethnicity
+      label: Camper Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: camper_disability
+      label: Camper Disability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: applicant_signature
+      label: Applicant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother or Father''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Grandparent''}'
+      - '{''label'': ''Guardian''}'
+      required: true

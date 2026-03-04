@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Supply Subscription Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subscription_start_date
+      label: subscription_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: subscription_end_date
+      label: subscription_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: How often would you like your plants delivered?
+      type: select_one
+      options:
+      - Every week
+      - Every 2 weeks
+      - Every 3 weeks
+      - Every month
+      required: false
+    - id: 7
+      name: delivery_frequency_note
+      label: delivery_frequency_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: subscription_type
+      label: subscription_type
+      hint: What type of subscription would you like?
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Bi-monthly
+      - Quarterly
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: What payment method would you like to use for your subscription?
+      type: select_multiple
+      options:
+      - Cash
+      - PayPal
+      - Credit card
+      - Bank transfer
+      required: false
+    - id: 10
+      name: payment_method_note
+      label: payment_method_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Survey
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technical_requirements
+      label: Technical Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: software_development_skills
+      label: Software Development Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Python''}'
+      - '{''id'': 2, ''value'': ''Java''}'
+      - '{''id'': 3, ''value'': ''C++''}'
+      required: false
+    - id: 6
+      name: programming_languages
+      label: Programming Languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: operating_systems
+      label: Operating Systems
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Windows''}'
+      - '{''id'': 2, ''value'': ''Linux''}'
+      - '{''id'': 3, ''value'': ''macOS''}'
+      required: false
+    - id: 8
+      name: hardware_requirements
+      label: Hardware Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

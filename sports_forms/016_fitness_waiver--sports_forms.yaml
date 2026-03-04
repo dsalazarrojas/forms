@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Waiver
+    pages:
+    - id: 1
+      name: user_info
+      label: User info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Friend
+      - Other
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_other
+      label: Other contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_other_type
+      label: Type of other contact info
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Cell
+      - Other
+      required: false
+    - id: 10
+      name: emergency_contact_other_value
+      label: Other contact info value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_other_value_2
+      label: Other contact info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_info_provider
+      label: Medical Info Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_info_provider_type
+      label: Type of Medical Info Provider
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Hospital
+      - Clinic
+      - Other
+      required: false
+    - id: 19
+      name: medical_info_provider_other
+      label: Other Medical Info Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_info_provider_other
+      label: Other Medical Info Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_info_provider_type_other
+      label: Type of Other Medical Info Provider
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Hospital
+      - Clinic
+      - Other
+      required: false
+    - id: 22
+      name: medical_info_provider_other_value
+      label: Other Medical Info Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_info_provider_other_value_2
+      label: Other Medical Info Provider 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sign_up_date
+      label: Sign-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: sign_up_time
+      label: Sign-up Time
+      hint: null
+      type: time
+      options: []
+      required: false

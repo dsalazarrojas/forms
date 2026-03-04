@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reusable Carton Program Order Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_note
+      label: Additional Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AS
+      - DC
+      - DE
+      - FL
+      - GA
+      - GU
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MP
+      - MS
+      - MT
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - PR
+      - PW
+      - SC
+      - SD
+      - TN
+      - UT
+      - VA
+      - VI
+      - VT
+      - WA
+      - WV
+      - WY
+      required: true
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - PayPal
+      required: true
+    - id: 20
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

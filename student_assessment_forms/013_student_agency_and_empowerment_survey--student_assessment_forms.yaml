@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Agency And Empowerment Survey
+    pages:
+    - id: 1
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: voice
+      label: Classroom Voice
+      hint: Can students express their thoughts and ideas freely?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: choice
+      label: Classroom Choice
+      hint: Can students make choices about their own learning?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confidence
+      label: Student Confidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_culture
+      label: School Culture
+      hint: Can students feel welcome and supported?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: classroom_environment
+      label: Classroom Environment
+      hint: Can students feel free to learn and make mistakes?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: teacher_training
+      label: Teacher Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_resources
+      label: School Resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_services
+      label: Student Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Knock Consent Form
+    pages:
+    - id: 1
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name for consent record
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_name
+      label: Camper Name
+      hint: Name of the camper to whom consent applies
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_description
+      label: Consent Description
+      hint: What activities or interactions are consented to
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: Date of Consent
+      hint: Date when consent is provided
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact Phone
+      hint: Phone number to contact in emergencies
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: signature_name
+      label: Signature Name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship
+      label: Relationship to Camper
+      hint: Parent, Guardian, Other
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: true
+    - id: 8
+      name: duration_of_consent
+      label: Duration of Consent
+      hint: Time period for which consent is valid
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: withdraw_instructions
+      label: How to Withdraw Consent
+      hint: Provide contact or procedure to withdraw consent
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Presence Improvement Survey
+    pages:
+    - id: 1
+      name: stage_presence_improvement_survey
+      label: stage_presence_improvement_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: performer_name
+      label: performer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: self_assessment
+      label: self_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coaching_feedback
+      label: coaching_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_improvement_areas
+      label: performance_improvement_areas
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: improvement_actions
+      label: improvement_actions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: feedback_from
+      label: feedback_from
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

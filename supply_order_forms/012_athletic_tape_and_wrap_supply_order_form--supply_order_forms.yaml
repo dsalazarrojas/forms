@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Tape And Wrap Supply Order Form
+    pages:
+    - id: 1
+      name: ordering_information
+      label: -- Ordering Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of this supply order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: Reference number for this order
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: When do you need the supplies?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: facility_information
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility_name
+      label: Facility/Team Name
+      hint: Name of athletic facility or team
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_contact_person
+      label: Contact Person Name
+      hint: Name of authorized contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: facility_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: facility_address
+      label: Delivery Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: product_selection
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: athletic_tape_type
+      label: Athletic Tape Type
+      hint: Which type(s) of tape needed?
+      type: select_multiple
+      options:
+      - White Athletic Tape
+      - Elastic Tape
+      - Kinesiology Tape
+      - Waterproof Tape
+      - Pre-Wrap
+      required: true
+    - id: 16
+      name: athletic_tape_quantity
+      label: Athletic Tape Quantity
+      hint: Number of rolls/units needed
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: wrap_type
+      label: Wrap/Bandage Type
+      hint: Which wrap types needed?
+      type: select_multiple
+      options:
+      - Compression Wraps
+      - Elastic Bandages
+      - Cohesive Bandages
+      - ACE Bandages
+      - Ankle Supports
+      required: false
+    - id: 18
+      name: wrap_quantity
+      label: Wrap Quantity
+      hint: Number of wraps needed
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tape_width
+      label: Preferred Tape Width
+      hint: Standard widths available
+      type: select_one
+      options:
+      - 0.5 inch
+      - 1 inch
+      - 1.5 inch
+      - 2 inch
+      required: true
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific brands or specifications?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bulk_discount_eligible
+      label: Bulk Discount Eligible
+      hint: Is this order eligible for bulk pricing?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: billing_information
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: billing_address_same
+      label: Billing Address Same as Delivery?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: billing_address
+      label: Billing Address
+      hint: If different from delivery address
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false

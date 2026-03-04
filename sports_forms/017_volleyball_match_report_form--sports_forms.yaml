@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Match Report Form
+    pages:
+    - id: 1
+      name: player1_name
+      label: Player 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player1_score
+      label: Player 1 Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: player1_points
+      label: Player 1 Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: player1_serves
+      label: Player 1 Serves
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: player1_blocks
+      label: Player 1 Blocks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: player2_name
+      label: Player 2 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: player2_score
+      label: Player 2 Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: player2_points
+      label: Player 2 Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: player2_serves
+      label: Player 2 Serves
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: player2_blocks
+      label: Player 2 Blocks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: match_score
+      label: Match Score
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team A and B
+      required: true
+    - id: 12
+      name: match_outcome
+      label: Match Outcome
+      hint: null
+      type: select_one
+      options:
+      - Win
+      - Loss
+      - Draw
+      required: true
+    - id: 13
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: match_time
+      label: Match Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: referee_experience
+      label: Referee Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: match_location
+      label: Match Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

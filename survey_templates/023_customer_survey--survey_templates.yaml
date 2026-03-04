@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Survey
+    pages:
+    - id: 1
+      name: customer_survey_form
+      label: Customer Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: product_concerns
+      label: Product concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_satisfaction
+      label: Customer service satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_improvement
+      label: Customer service improvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: customer_service_improvement_other
+      label: Other customer service improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

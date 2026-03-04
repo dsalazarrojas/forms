@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Quantities Assessment
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: si_units
+      label: Si Units
+      hint: null
+      type: select_multiple
+      options:
+      - meter
+      - gram
+      - liter
+      required: false
+    - id: 3
+      name: unit_conversion
+      label: Unit Conversion
+      hint: null
+      type: select_one
+      options:
+      - Kilogram to Gram
+      - Gram to Kilogram
+      - Meter to Liter
+      - Liter to Meter
+      required: false
+    - id: 4
+      name: mass_conversion
+      label: Mass Conversion
+      hint: null
+      type: select_multiple
+      options:
+      - kilogram
+      - gram
+      required: true
+    - id: 5
+      name: length_conversion
+      label: Length Conversion
+      hint: null
+      type: select_multiple
+      options:
+      - Meter to Kilometer
+      - Kilometer to Meter
+      - Meter to Gram
+      - Gram to Meter
+      required: true
+    - id: 6
+      name: density_conversions
+      label: Density Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - kg/m3 to g/L
+      - g/L to kg/m3
+      required: false
+    - id: 7
+      name: volume_conversions
+      label: Volume Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - L to m3
+      - m3 to L
+      required: false
+    - id: 8
+      name: time_conversions
+      label: Time Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - sec to min
+      - min to sec
+      required: false
+    - id: 9
+      name: temperature_conversions
+      label: Temperature Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - C to F
+      - F to C
+      required: false
+    - id: 10
+      name: pressure_conversions
+      label: Pressure Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - Pa to N
+      - N to Pa
+      required: false
+    - id: 11
+      name: energy_conversions
+      label: Energy Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - J to kJ
+      - kJ to J
+      required: false
+    - id: 12
+      name: other_conversions
+      label: Other Conversions
+      hint: null
+      type: select_multiple
+      options:
+      - m2 to L
+      - L to m2
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: mass
+      label: Mass
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: density
+      label: Density
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: volume
+      label: Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: pressure
+      label: Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: energy
+      label: Energy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

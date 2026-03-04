@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gluten Free Meal Subscription Signup
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscription_info
+      label: Subscription Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Pickup
+      - Delivery
+      required: true
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: terms_conditions
+      label: Terms & Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: privacy_agreement
+      label: Privacy Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Source Validation Request Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_name
+      label: Material Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supplier_details
+      label: Supplier Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: material_certifications
+      label: Material Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: document_urls
+      label: Document URLs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supplier_documents
+      label: Supplier Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_characteristics
+      label: Material Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_contacts
+      label: Supplier Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

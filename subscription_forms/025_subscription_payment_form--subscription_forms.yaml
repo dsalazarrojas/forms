@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Payment Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 2
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Yearly
+      - One Time
+      required: false
+    - id: 3
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: card_expiration
+      label: Card Expiration
+      hint: null
+      type: select_one
+      options:
+      - 01/01 - 31/01
+      - 02/02 - 28/02
+      - 03/03 - 31/03
+      - 04/04 - 30/04
+      required: false
+    - id: 7
+      name: card_cvc
+      label: Card CVC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

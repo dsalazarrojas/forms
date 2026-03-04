@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Representation Agency Application Form
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Athlete Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_location
+      label: Current Residential City and Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athletic_background_header
+      label: -- Athletic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position_specialization
+      label: Position or Specialization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_organization
+      label: Current Team or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pro_years
+      label: Years Competing at Professional Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: career_achievements
+      label: Major Career Achievements and Milestones
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_ranking
+      label: Current World or National Ranking
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: representation_details_header
+      label: -- Current Representation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_agent
+      label: Current Agent or Manager Name
+      hint: Type N-A if not currently represented
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contract_expiration
+      label: Expiration Date of Current Representation Contract
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: representation_goals
+      label: Primary Goals for New Representation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contract Negotiation and Renewals
+      - Sponsorship and Endorsement Deals
+      - Media and PR Management
+      - Long-term Career Planning
+      - Financial and Wealth Management
+      required: true
+    - id: 17
+      name: media_metrics_header
+      label: -- Media and Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: instagram_handle
+      label: Instagram Handle
+      hint: e.g. @athlete_name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: twitter_handle
+      label: Twitter or X Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: highlight_reel_link
+      label: Link to Highlight Reel or Portfolio
+      hint: e.g. YouTube or Vimeo link
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_signature_header
+      label: -- Contact and Legal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: athlete_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: athlete_phone
+      label: Phone Number
+      hint: Include country code
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contract_certification
+      label: I certify that I am not under any conflicting representation contracts
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 25
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

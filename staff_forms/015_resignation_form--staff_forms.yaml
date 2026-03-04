@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resignation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: prophets name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_resignation
+      label: reason for resignation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: notice_period
+      label: notice period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: last_day_worked
+      label: last day worked
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_comments
+      label: supervisor comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: resignation_date
+      label: resignation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 101, ''label'': ''Job Opportunity''}'
+      - '{''id'': 102, ''label'': ''Other''}'
+      required: true

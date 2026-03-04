@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancellation Survey
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_email
+      label: Account Email Address
+      hint: The email associated with your cancelled service
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: cancelled_item
+      label: Service or Product Cancelled
+      hint: What did you recently cancel
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cancellation_date
+      label: Cancellation Date
+      hint: When did the cancellation take effect
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: feedback_section
+      label: -- Feedback --
+      hint: We value your honest feedback to improve our service
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_reason_main
+      label: Main reason for cancellation
+      hint: Pick the most significant factor
+      type: select_one
+      options:
+      - Price
+      - Found a competitor
+      - No longer need it
+      - Missing features
+      - Poor customer service
+      - Technical issues
+      - Other
+      required: true
+    - id: 7
+      name: cancellation_reason_elaboration
+      label: Elaborate on reason
+      hint: Provide more details about your choice
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: competitor_switched_to
+      label: Competitor switched to
+      hint: If you chose to go with someone else, who was it
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall satisfaction with the service
+      hint: How happy were you while using us
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: onboarding_satisfaction
+      label: Satisfaction with the onboarding process
+      hint: How was your initial experience setting up
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: feature_gap_section
+      label: -- Feature Gap --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: missing_feature_description
+      label: Was there a specific feature you were looking for
+      hint: Tell us what we are missing
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_support_rating
+      label: How would you rate our customer support
+      hint: 1 to 5 stars
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: re_engagement_section
+      label: -- Re-engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: return_likelihood
+      label: Would you consider using us again
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: true
+    - id: 16
+      name: improvement_suggestion
+      label: What could we have done differently to keep you
+      hint: Share how we can improve our retention
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_consent
+      label: I consent to be contacted for a follow-up interview
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

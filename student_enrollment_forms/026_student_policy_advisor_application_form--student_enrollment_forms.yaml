@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Policy Advisor Application Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_interest
+      label: Program Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: graduation_date_time
+      label: Graduation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: major
+      label: Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: student_type_other
+      label: Other Student Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: faculty
+      label: Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_group
+      label: Student Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: advisor_name
+      label: Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: advisor_email
+      label: Advisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: advisor_phone
+      label: Advisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: advisor_title
+      label: Advisor Title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: advisor_department
+      label: Advisor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

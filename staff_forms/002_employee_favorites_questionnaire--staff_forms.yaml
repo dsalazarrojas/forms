@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_favorites_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: favorite_item
+      label: favorite_item
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Pear
+      - Grape
+      required: false
+    - id: 3
+      name: favorite_activity
+      label: favorite_activity
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Exercise
+      - Playing
+      required: false
+    - id: 4
+      name: do_you_like
+      label: do_you_like
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 5
+      name: favorite_food
+      label: favorite_food
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Sushi
+      - Tacos
+      required: false
+    - id: 6
+      name: would_you_recommend
+      label: would_you_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: favorite_color
+      label: favorite_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Green
+      - Blue
+      required: false
+    - id: 8
+      name: favorite_place
+      label: favorite_place
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Store
+      required: false
+    - id: 9
+      name: favorite_time
+      label: favorite_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: favorite_date
+      label: favorite_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: favorite_month
+      label: favorite_month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      required: false
+    - id: 12
+      name: favorite_year
+      label: favorite_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: favorite_thing
+      label: favorite_thing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: favorite_number
+      label: favorite_number
+      hint: null
+      type: number
+      options: []
+      required: false

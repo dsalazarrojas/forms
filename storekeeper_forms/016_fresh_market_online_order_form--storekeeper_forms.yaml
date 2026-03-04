@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fresh Market Online Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_details
+      label: product_details_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_info
+      label: contact_info_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: delivery_info
+      label: delivery_info_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: payment_info_label
+      hint: null
+      type: text
+      options: []
+      required: false

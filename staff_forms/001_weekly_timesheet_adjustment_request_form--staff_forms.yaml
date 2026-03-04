@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_timesheet_adjustment_request_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: week
+      label: Week
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Overclock
+      - Underclock
+      - Overtime
+      - Other
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: hours
+      label: Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Orientation Survey
+    pages:
+    - id: 1
+      name: new_hire
+      label: New Hire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: questions
+      label: Questions
+      hint: What did you find most helpful during your orientation?
+      type: select_multiple
+      options:
+      - New Hire Checklist
+      - Job Description
+      - Company History
+      - Job Expectations
+      - Company Culture
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Save and Finish
+      - Exit Without Saving
+      required: true

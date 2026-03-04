@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Employee Email Creation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hire_date
+      label: Hire date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_date
+      label: Created date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_date
+      label: Updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: deleted_by
+      label: Deleted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deleted_date
+      label: Deleted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: departmental
+      label: Departmental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title_id
+      label: Job title ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: role_id
+      label: Role ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_by_id
+      label: Deleted by ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: deleted_at_id
+      label: Deleted at ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: status_id
+      label: Status ID
+      hint: null
+      type: number
+      options: []
+      required: false

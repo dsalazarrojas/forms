@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Semantic Knowledge Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_type
+      label: question type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_level
+      label: question level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: question_text
+      label: question text
+      hint: null
+      type: text
+      options: []
+      required: false

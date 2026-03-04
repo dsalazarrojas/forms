@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Steel Raw Material Order Form
+    pages:
+    - id: 1
+      name: supplier
+      label: Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Raw Material Order
+      - Steel Order
+      required: false
+    - id: 3
+      name: steel_grade
+      label: Steel Grade
+      hint: null
+      type: select_multiple
+      options:
+      - High-Strength Low-Alloy Steel
+      - Low-Carbon Steel
+      - Stainless Steel
+      required: false
+    - id: 4
+      name: material_description
+      label: Material Description
+      hint: Briefly describe the type and condition of the material requested.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Describe any specific delivery needs, if applicable.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: supplier_contact
+      label: Supplier Contact
+      hint: Include a contact method for the supplier.
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: false
+    - id: 11
+      name: procurement_request
+      label: Procurement Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_instructions_2
+      label: Delivery Instructions 2
+      hint: null
+      type: text
+      options: []
+      required: false

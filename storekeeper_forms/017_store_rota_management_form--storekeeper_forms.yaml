@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Rota Management Form
+    pages:
+    - id: 1
+      name: store_rota_form
+      label: Store Rota Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storekeeper_name
+      label: storekeeper_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: storekeeper_role
+      label: storekeeper_role
+      hint: null
+      type: select_one
+      options:
+      - Assistant Store Manager
+      - Store Manager
+      - Sales Assistant
+      required: true
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shift_length
+      label: shift_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false

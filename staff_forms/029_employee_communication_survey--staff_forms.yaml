@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Communication Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_often_email
+      label: how-often-do-you-get-emails
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: how_often_sms
+      label: how-often-do-you-get-sms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: how_often_calls
+      label: how-often-do-you-get-calls
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: how_often_meetings
+      label: how-often-do-you-have-meetings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_often_instant_msg
+      label: how-often-do-you-use-instant-message
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: how_often_video_call
+      label: how-often-do-you-use-video-call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: how_often_text_msg
+      label: how-often-do-you-use-text-message
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: how_often_phone_call
+      label: how-often-do-you-get-phone-call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: how_often_in_person
+      label: how-often-do-you-have-in-person-communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: what_channel_pref
+      label: what-channel-pref
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Instant Message
+      - Phone
+      - In Person
+      - Video Call
+      required: false
+    - id: 12
+      name: how_often_email_to_manager
+      label: how-often-do-you-get-emails-from-your-manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: how_often_email_to_direct_manager
+      label: how-often-do-you-get-emails-from-your-direct-manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: how_often_email_to_indirect_manager
+      label: how-often-do-you-get-emails-from-your-indirect-manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: how_often_email_to_team
+      label: how-often-do-you-get-emails-from-your-team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: email_preference
+      label: email-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 17
+      name: meeting_preference
+      label: meeting-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 18
+      name: instant_msg_preference
+      label: instant-msg-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 19
+      name: video_call_preference
+      label: video-call-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 20
+      name: text_msg_preference
+      label: text-msg-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 21
+      name: phone_call_preference
+      label: phone-call-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 22
+      name: in_person_preference
+      label: in-person-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 23
+      name: manager_communication_preference
+      label: manager-communication-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 24
+      name: direct_manager_communication_preference
+      label: direct-manager-communication-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 25
+      name: indirect_manager_communication_preference
+      label: indirect-manager-communication-preference
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false

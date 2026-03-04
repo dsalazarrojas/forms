@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_profile_form_template
+    pages:
+    - id: 1
+      name: profile_form
+      label: Profile Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: birth_place
+      label: birth_place
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''male''}'
+      - '{''id'': 2, ''name'': ''female''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 9
+      name: nationality
+      label: nationality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''American''}'
+      - '{''id'': 2, ''name'': ''British''}'
+      - '{''id'': 3, ''name'': ''Canadian''}'
+      - '{''id'': 4, ''name'': ''Australian''}'
+      required: false
+    - id: 10
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_group
+      label: student_group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: student_level
+      label: student_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

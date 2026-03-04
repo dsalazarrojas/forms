@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: square_meal_kit_delivery_subscription_form
+    pages:
+    - id: 1
+      name: delivery_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''once''}'
+      - '{''value'': ''twice''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''biweekly''}'
+      required: false
+    - id: 3
+      name: subscription_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: subscription_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

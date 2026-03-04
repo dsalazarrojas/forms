@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Highschool Cleaning Checklist
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: floor_number
+      label: Floor Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: clean_schedule
+      label: Clean Schedule
+      hint: null
+      type: select_one
+      options:
+      - minimalist
+      - weekly
+      - monthly
+      - quarterly
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: id_goals
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: false

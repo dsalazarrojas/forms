@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Employee Payroll Form
+    pages:
+    - id: 1
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tax_filing_status
+      label: Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Married''}'
+      - '{''label'': ''Separately''}'
+      required: false
+    - id: 5
+      name: tax_exemption
+      label: Tax Exemption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true

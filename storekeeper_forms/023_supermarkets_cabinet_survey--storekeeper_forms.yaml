@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supermarkets Cabinet Survey
+    pages:
+    - id: 1
+      name: layout_rating
+      label: Layout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: organization_rating
+      label: Organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_rating
+      label: Product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shelf_stock
+      label: Shelf Stock
+      hint: How full are the shelves?
+      type: select_one
+      options:
+      - A lot
+      - Moderately full
+      - A little full
+      - Barely any items left
+      required: false
+    - id: 5
+      name: product_offers
+      label: Product Offers
+      hint: null
+      type: select_multiple
+      options:
+      - Beer
+      - Canned Goods
+      - Baking Supplies
+      - Dairy
+      - Snacks
+      - Meat
+      - Frozen Foods
+      - Bread
+      - Nonperishable Goods
+      - Produce
+      - Seafood
+      - Health and Beauty
+      - Baby Products
+      - Household Goods
+      required: false
+    - id: 6
+      name: store_experience
+      label: Store Experience
+      hint: How would you rate our store experience?
+      type: select_one
+      options:
+      - Exceptional
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - Friendly
+      - Unfriendly
+      - Neutral
+      required: false
+    - id: 8
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Mostly clear
+      - Not very clear
+      required: false
+    - id: 9
+      name: store_cleanliness
+      label: Store Cleanliness
+      hint: How clean is the store?
+      type: select_one
+      options:
+      - Very clean
+      - Moderately clean
+      - Not very clean
+      required: false
+    - id: 10
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: store_location
+      label: Store Location
+      hint: Is the store easily accessible?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: store_staff
+      label: Store Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Very helpful
+      - Somewhat helpful
+      - Not very helpful
+      required: false
+    - id: 14
+      name: store_price
+      label: Store Price
+      hint: null
+      type: select_one
+      options:
+      - Reasonable
+      - Not reasonable
+      required: false
+    - id: 15
+      name: store_value
+      label: Store Value
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 16
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_info
+      label: Can we contact you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

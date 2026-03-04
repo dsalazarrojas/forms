@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Training Disclaimer
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and agreed to all the terms and conditions.
+      - I have not read the terms and conditions.
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone_number
+      label: Emergency Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      required: false
+    - id: 9
+      name: agree_to_privacy
+      label: Agree to Privacy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false

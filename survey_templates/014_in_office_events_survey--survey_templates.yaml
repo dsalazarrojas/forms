@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Office Events Survey
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_suggestions
+      label: event_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_priorities
+      label: event_priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: event_likert
+      label: event_likert
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: event_likert_label
+      label: Likert Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_likert_label_1
+      label: Very Unlikely
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_likert_label_2
+      label: Neither Likely Nor Unlikely
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_likert_label_3
+      label: Likely
+      hint: null
+      type: text
+      options: []
+      required: false

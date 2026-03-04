@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Young Innovators Quest Application
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: '--- Applicant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Use a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: DD/MM/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: If unsure, approximate
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: experience_level
+      label: Experience level
+      hint: Select your current skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: false
+    - id: 8
+      name: how_heard
+      label: How did you hear about us?
+      hint: Choose one option
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: false
+    - id: 9
+      name: section_header_family
+      label: '--- Family Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Name of person to contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 12
+      name: parental_consent
+      label: Parental consent
+      hint: Do you have parental consent?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: section_header_preferences
+      label: '--- Camp Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: transportation_needed
+      label: Transportation needed
+      hint: Will you need transportation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: preferred_activities
+      label: Preferred activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Robotics
+      - Coding
+      - Art
+      - Sports
+      - Music
+      - Outdoor Exploration
+      required: false
+    - id: 16
+      name: skill_area
+      label: Skill area focus
+      hint: Choose one
+      type: select_one
+      options:
+      - STEM
+      - Arts
+      - Sports
+      - Leadership
+      - None
+      required: false
+    - id: 17
+      name: availability_start_date
+      label: Availability start date
+      hint: Camp start date you are available
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: section_header_medical
+      label: '--- Medical & Safety ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: meal_preferences
+      label: Meal preferences
+      hint: Any dietary restrictions?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_medical_info
+      label: Medical conditions or allergies
+      hint: Provide any relevant information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_additional
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_needs
+      label: Special needs
+      hint: Any accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prior_camp_experience
+      label: Prior camp experience
+      hint: Have you attended a similar camp before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information you'd like us to know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Product Quality Assurance Survey
+    pages:
+    - id: 1
+      name: product_batch_id
+      label: Product Batch or Lot ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_type_category
+      label: Product Type Category
+      hint: null
+      type: select_one
+      options:
+      - Raw Material
+      - Semi-Finished Component
+      - Finished Consumer Product
+      - Packaging Material
+      required: true
+    - id: 3
+      name: overall_quality_rating
+      label: Overall Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 4
+      name: packaging_integrity
+      label: Packaging Integrity Assessment
+      hint: null
+      type: select_one
+      options:
+      - Intact and Secure
+      - Slightly Damaged - Acceptable
+      - Heavily Damaged - Rejected
+      required: true
+    - id: 5
+      name: freshness_score
+      label: Freshness or Condition Score
+      hint: Scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: compliance_status
+      label: Compliance with Safety Standards
+      hint: null
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Deviations - Correctable
+      - Major Deviations - Non-Compliant
+      required: true
+    - id: 7
+      name: observation_notes
+      label: Observations or Identified Defects
+      hint: Provide details on any issues found
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspector_name
+      label: Quality Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: corrective_action_recommendations
+      label: Recommendations for Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false

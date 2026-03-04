@@ -1,0 +1,361 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ankle Taping Procedure Survey
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Taping Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: practitioner_name
+      label: Practitioner Name
+      hint: Who performed the taping
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: practitioner_role
+      label: Practitioner Role
+      hint: null
+      type: select_one
+      options:
+      - Athletic Trainer
+      - Physical Therapist
+      - Sports Medicine Physician
+      - Coach
+      - Teammate
+      - Self-Taped
+      - Other
+      required: true
+    - id: 7
+      name: taped_ankle
+      label: Which Ankle Was Taped
+      hint: null
+      type: select_one
+      options:
+      - Left Ankle
+      - Right Ankle
+      - Both Ankles
+      required: true
+    - id: 8
+      name: taping_reason
+      label: Reason for Taping
+      hint: null
+      type: select_one
+      options:
+      - Injury Prevention
+      - Acute Injury Support
+      - Chronic Injury Support
+      - Post-Injury Return
+      - Competition Requirement
+      - Practice Requirement
+      - Other
+      required: true
+    - id: 9
+      name: injury_type
+      label: Type of Injury
+      hint: If applicable
+      type: select_one
+      options:
+      - Ankle Sprain
+      - Strain
+      - Fracture
+      - Tendonitis
+      - Instability
+      - No Injury - Preventive
+      - Other
+      required: false
+    - id: 10
+      name: injury_grade
+      label: Injury Grade
+      hint: If applicable
+      type: select_one
+      options:
+      - Grade 1 - Mild
+      - Grade 2 - Moderate
+      - Grade 3 - Severe
+      - Not Applicable
+      required: false
+    - id: 11
+      name: taping_method
+      label: Taping Method Used
+      hint: null
+      type: select_one
+      options:
+      - Closed Basket Weave
+      - Open Basket Weave
+      - Figure Eight
+      - Heel Lock
+      - Ankle Stirrup
+      - Combination
+      - Other
+      required: true
+    - id: 12
+      name: tape_type
+      label: Type of Tape Used
+      hint: null
+      type: select_one
+      options:
+      - Rigid Athletic Tape
+      - Elastic Athletic Tape
+      - Kinesiology Tape
+      - Cohesive Bandage
+      - Combination
+      - Other
+      required: true
+    - id: 13
+      name: tape_brand
+      label: Tape Brand
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pre_tape_used
+      label: Was Pre-Tape or Underwrap Used
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: skin_preparation
+      label: Skin Preparation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shaved
+      - Cleaned with Alcohol
+      - Adhesive Spray
+      - Tincture of Benzoin
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: comfort_rating
+      label: Comfort Rating During Application
+      hint: 1-10 scale
+      type: select_one
+      options:
+      - 10 - Very Comfortable
+      - 8-9 - Comfortable
+      - 6-7 - Acceptable
+      - 4-5 - Uncomfortable
+      - 1-3 - Painful
+      required: true
+    - id: 17
+      name: fit_rating
+      label: How Well Did the Tape Fit
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: support_level
+      label: Level of Support Provided
+      hint: null
+      type: select_one
+      options:
+      - Excellent Support
+      - Good Support
+      - Adequate Support
+      - Minimal Support
+      - No Support
+      required: true
+    - id: 19
+      name: mobility_rating
+      label: How Did Taping Affect Mobility
+      hint: null
+      type: select_one
+      options:
+      - No Restriction
+      - Slight Restriction
+      - Moderate Restriction
+      - Significant Restriction
+      - Too Restrictive
+      required: true
+    - id: 20
+      name: activity_performed
+      label: Activity Performed While Taped
+      hint: null
+      type: select_one
+      options:
+      - Practice
+      - Competition
+      - Training
+      - Rehabilitation
+      - Daily Activities
+      - Other
+      required: true
+    - id: 21
+      name: activity_duration
+      label: Duration of Activity
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tape_during_activity
+      label: How Did the Tape Perform During Activity
+      hint: null
+      type: select_one
+      options:
+      - Stayed Secure - No Issues
+      - Minor Loosening
+      - Moderate Loosening
+      - Significant Loosening
+      - Tape Failed
+      required: true
+    - id: 23
+      name: skin_reaction
+      label: Any Skin Reaction
+      hint: null
+      type: select_one
+      options:
+      - No Reaction
+      - Mild Redness
+      - Moderate Irritation
+      - Severe Irritation
+      - Blistering
+      - Rash
+      required: true
+    - id: 24
+      name: pain_during_activity
+      label: Pain Level During Activity
+      hint: 0-10 scale
+      type: select_one
+      options:
+      - 0 - No Pain
+      - 1-2 - Mild
+      - 3-4 - Moderate
+      - 5-6 - Uncomfortable
+      - 7-8 - Painful
+      - 9-10 - Severe
+      required: true
+    - id: 25
+      name: tape_removal
+      label: How Was Tape Removed
+      hint: null
+      type: select_one
+      options:
+      - Self-Removed
+      - Practitioner Removed
+      - Came Off During Activity
+      - Cut Off
+      required: true
+    - id: 26
+      name: removal_difficulty
+      label: Difficulty of Tape Removal
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 27
+      name: post_removal_skin
+      label: Skin Condition After Removal
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Mild Redness
+      - Moderate Irritation
+      - Severe Irritation
+      - Blistering
+      - Maceration
+      required: true
+    - id: 28
+      name: would_repeat
+      label: Would You Use This Taping Method Again
+      hint: null
+      type: select_one
+      options:
+      - Yes Definitely
+      - Yes Probably
+      - Maybe
+      - Probably No
+      - false
+      required: true
+    - id: 29
+      name: satisfaction_rating
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 30
+      name: complications
+      label: Any Complications Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Skin Irritation
+      - Allergic Reaction
+      - Circulation Issues
+      - Numbness
+      - Tingling
+      - Increased Pain
+      - Tape Burn
+      - Other
+      required: true
+    - id: 31
+      name: complications_details
+      label: Complications Details
+      hint: If any describe
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How could the taping be better
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

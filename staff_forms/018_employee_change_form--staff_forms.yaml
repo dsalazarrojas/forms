@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Change Form
+    pages:
+    - id: 1
+      name: employee_change_form_page_1
+      label: form_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_change_form_page_2
+      label: update_employment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: employee_change_form_page_3
+      label: employee_details
+      hint: Please provide the current and new details of the employee to be changed
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_change_form_page_4
+      label: reason_for_change
+      hint: Please give the reason for the status change
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_change_form_page_5
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

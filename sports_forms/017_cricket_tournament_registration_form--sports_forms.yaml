@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cricket Tournament Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_type
+      label: Team Type
+      hint: null
+      type: select_one
+      options:
+      - Cricket Club
+      - Cricket Association
+      - Other
+      required: false
+    - id: 8
+      name: team_logo
+      label: Team Logo
+      hint: null
+      type: text
+      options: []
+      required: false

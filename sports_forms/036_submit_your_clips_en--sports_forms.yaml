@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submit Your Clips EN
+    pages:
+    - id: 1
+      name: submit_your_clips_en
+      label: submit_your_clips_en
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: channel_url
+      label: channel_url
+      hint: null
+      type: select_multiple
+      options:
+      - YouTube
+      - Twitch
+      - Facebook
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Gaming
+      - Entertainment
+      required: false
+    - id: 4
+      name: video_title
+      label: video_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: video_url
+      label: video_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tags
+      label: tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: video_id
+      label: video_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_type
+      label: submit_type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Sponsored
+      - Sponsored by channel
+      required: false
+    - id: 10
+      name: channel_name
+      label: channel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: channel_name_display
+      label: channel_name_display
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: clip_start_time
+      label: clip_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: clip_duration
+      label: clip_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: clip_type
+      label: clip_type
+      hint: null
+      type: select_one
+      options:
+      - Gameplay
+      - Highlight
+      - Montage
+      - Other
+      required: false

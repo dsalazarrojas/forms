@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Assistance Request Form
+    pages:
+    - id: 1
+      name: student_loan_assistance_request
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_loan_status
+      label: Current Student Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full-time Student''}'
+      - '{''id'': 2, ''label'': ''Part-time Student''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Federal''}'
+      - '{''id'': 2, ''label'': ''Private''}'
+      - '{''id'': 3, ''label'': ''In-Loan Default''}'
+      required: false
+    - id: 4
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: repayment_plan
+      label: Repayment Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Standard Repayment''}'
+      - '{''id'': 2, ''label'': ''Income-Driven Repayment''}'
+      - '{''id'': 3, ''label'': ''Pay-As-You-Go''}'
+      required: false
+    - id: 6
+      name: loan_forgiveness
+      label: Loan Forgiveness Options
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Public Service Loan Forgiveness''}'
+      - '{''id'': 2, ''label'': ''Deferment''}'
+      - '{''id'': 3, ''label'': ''Forbearance''}'
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_loan_assistance
+      label: Student Loan Assistance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

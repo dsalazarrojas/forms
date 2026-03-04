@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Registration Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: jersey_number
+      label: Jersey Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Number Identification Assessment Form
+    pages:
+    - id: 1
+      name: number_identification_assessment_form_1
+      label: Progress Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: progress_tracking
+      label: Student Progress
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: number_recognition_progress
+      label: Number Recognition Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: learning_sessions
+      label: Learning Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: student_progress_data
+      label: Student Progress Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: number_correct_answers
+      label: Number Correct Answers
+      hint: null
+      type: select_multiple
+      options:
+      - 0-20
+      - 21-40
+      - 41-60
+      - 61-80
+      - 81-100
+      required: false
+    - id: 9
+      name: incorrect_answers
+      label: Incorrect Answers
+      hint: null
+      type: select_multiple
+      options:
+      - 0-5
+      - 6-10
+      - 11-20
+      - 21-30
+      - 31-40
+      required: false
+    - id: 10
+      name: total_answers
+      label: Total Answers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: correct_answers_percentage
+      label: Correct Answers Percentage
+      hint: null
+      type: number
+      options: []
+      required: false

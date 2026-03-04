@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Compensation Survey
+      hint: Share your thoughts on compensation at our organization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Optional - for tracking purposes
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your current department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Nursing
+      - Medical
+      - Research and Development
+      - Other
+      required: true
+    - id: 4
+      name: tenure
+      label: Length of Employment
+      hint: How long have you worked here
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - More than 10 years
+      required: true
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Per diem
+      required: true
+    - id: 6
+      name: job_level
+      label: Job Level
+      hint: Your current level
+      type: select_one
+      options:
+      - Entry Level
+      - Junior
+      - Mid-Level
+      - Senior
+      - Lead
+      - Manager
+      - Senior Manager
+      - Director
+      - Executive
+      required: true
+    - id: 7
+      name: base_salary_satisfaction
+      label: Satisfaction with base salary
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: salary_competitive
+      label: My salary is competitive
+      hint: Compared to similar roles
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 9
+      name: pay_equity
+      label: Pay is equitable across the organization
+      hint: Fairness perception
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 10
+      name: raise_frequency
+      label: How often do you receive raises
+      hint: Salary increase frequency
+      type: select_one
+      options:
+      - Annually
+      - Every 6 months
+      - Quarterly
+      - Irregularly
+      - Rarely or never
+      required: true
+    - id: 11
+      name: raise_satisfaction
+      label: Satisfaction with raise amounts
+      hint: Typical increase amounts
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: bonus_eligible
+      label: Are you bonus eligible
+      hint: Do you participate in bonus plans
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 13
+      name: bonus_satisfaction
+      label: Satisfaction with bonus program
+      hint: If applicable
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: true
+    - id: 14
+      name: health_benefits_rating
+      label: Rate your health benefits
+      hint: Quality of health coverage
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 15
+      name: retirement_benefits_rating
+      label: Rate your retirement benefits
+      hint: 401k or pension plans
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: pto_satisfaction
+      label: Satisfaction with paid time off
+      hint: Vacation and personal days
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: benefits_understanding
+      label: I understand my benefits
+      hint: Clarity of benefits information
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: compensation_communication
+      label: Compensation is well communicated
+      hint: Information clarity
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 19
+      name: feel_valued
+      label: I feel valued through my compensation
+      hint: Overall worth perception
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 20
+      name: market_awareness
+      label: I know my market value
+      hint: Awareness of external pay rates
+      type: select_one
+      options:
+      - Yes - very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 21
+      name: pay_transparency
+      label: Pay ranges should be transparent
+      hint: Your view on transparency
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 22
+      name: total_rewards_value
+      label: Total rewards package is valuable
+      hint: Overall compensation value
+      type: select_one
+      options:
+      - Very valuable
+      - Somewhat valuable
+      - Neutral
+      - Not very valuable
+      - Not valuable at all
+      required: true
+    - id: 23
+      name: most_important_factor
+      label: Most important compensation factor
+      hint: What matters most to you
+      type: select_one
+      options:
+      - Base salary
+      - Bonus potential
+      - Health benefits
+      - Retirement contributions
+      - Paid time off
+      - Work-life balance
+      - Career growth
+      - Other perks
+      required: true
+    - id: 24
+      name: consider_leaving
+      label: Have you considered leaving for better pay
+      hint: In the past year
+      type: select_one
+      options:
+      - Yes - actively looking
+      - Yes - thinking about it
+      - No - satisfied
+      - No - other reasons to stay
+      required: true
+    - id: 25
+      name: recommend_employer
+      label: Would you recommend this employer
+      hint: Based on compensation
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 26
+      name: improvements_needed
+      label: What improvements are needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Higher base salaries
+      - Better bonus structure
+      - Improved health benefits
+      - Better retirement plan
+      - More PTO
+      - More transparency
+      - Fairer raises
+      - Better communication
+      - Other
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

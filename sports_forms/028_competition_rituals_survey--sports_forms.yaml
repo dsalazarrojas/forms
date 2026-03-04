@@ -1,0 +1,297 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competition Rituals Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Competition Rituals Survey
+        hint: Share your pre-competition routines and rituals
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Your Email
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: sport_or_activity
+        label: Sport or Activity
+        hint: What do you compete in
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: competition_level
+        label: Competition Level
+        hint: Your level of competition
+        type: select_one
+        options:
+          - Recreational
+          - Amateur
+          - Collegiate
+          - Professional
+          - Elite or Olympic
+          - Other
+        required: true
+      - id: 6
+        name: years_competing
+        label: Years of Competition Experience
+        hint: How long have you competed
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 4 to 6 years
+          - 7 to 10 years
+          - More than 10 years
+        required: true
+      - id: 7
+        name: age_group
+        label: Age Group
+        hint: Your age category
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 and over
+        required: true
+      - id: 8
+        name: pre_competition_meal
+        label: Do you have a pre-competition meal ritual
+        hint: Specific food or drink routine
+        type: select_one
+        options:
+          - Yes - always the same meal
+          - Yes - similar meals
+          - Sometimes
+          - Rarely
+          - No - eat whatever
+        required: true
+      - id: 9
+        name: meal_details
+        label: Meal Ritual Details
+        hint: Describe your meal routine
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: warmup_routine
+        label: Do you have a specific warm-up routine
+        hint: Physical preparation ritual
+        type: select_one
+        options:
+          - Yes - exact same routine
+          - Yes - similar routine
+          - Sometimes
+          - Rarely
+          - No - vary each time
+        required: true
+      - id: 11
+        name: warmup_details
+        label: Warm-up Routine Details
+        hint: Describe your warm-up
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: music_usage
+        label: Do you listen to music before competing
+        hint: Music as part of ritual
+        type: select_one
+        options:
+          - Yes - always same playlist
+          - Yes - specific songs
+          - Sometimes
+          - Rarely
+          - No - never
+        required: true
+      - id: 13
+        name: music_details
+        label: Music Details
+        hint: What do you listen to
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: clothing_ritual
+        label: Do you have clothing or gear rituals
+        hint: Lucky items or specific order
+        type: select_one
+        options:
+          - Yes - lucky items
+          - Yes - specific order
+          - Sometimes
+          - Rarely
+          - No - never
+        required: true
+      - id: 15
+        name: clothing_details
+        label: Clothing Ritual Details
+        hint: Describe your ritual
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: mental_preparation
+        label: Do you have mental preparation rituals
+        hint: Meditation visualization etc
+        type: select_one
+        options:
+          - Yes - meditation
+          - Yes - visualization
+          - Yes - prayer
+          - Yes - other mental routine
+          - No - no mental ritual
+        required: true
+      - id: 17
+        name: mental_details
+        label: Mental Preparation Details
+        hint: Describe your mental routine
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: superstitions
+        label: Do you have any superstitions
+        hint: Lucky charms or behaviors
+        type: select_one
+        options:
+          - Yes - multiple
+          - Yes - one or two
+          - Maybe - not sure
+          - Rarely
+          - No - not superstitious
+        required: true
+      - id: 19
+        name: superstitions_details
+        label: Superstition Details
+        hint: Describe your superstitions
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: social_rituals
+        label: Do you have social rituals before competing
+        hint: Talking with teammates or others
+        type: select_one
+        options:
+          - Yes - team huddle
+          - Yes - talk with coach
+          - Yes - talk with family
+          - Yes - avoid social contact
+          - No - no social ritual
+        required: true
+      - id: 21
+        name: arrival_time_ritual
+        label: Do you arrive at a specific time
+        hint: Timing ritual
+        type: select_one
+        options:
+          - Yes - always early
+          - Yes - exactly on time
+          - Yes - specific timing
+          - Sometimes
+          - No - varies
+        required: true
+      - id: 22
+        name: ritual_importance
+        label: How important are your rituals
+        hint: Rate the importance
+        type: select_one
+        options:
+          - Extremely important - must do
+          - Very important
+          - Somewhat important
+          - Slightly important
+          - Not important at all
+        required: true
+      - id: 23
+        name: ritual_impact
+        label: Do rituals affect your performance
+        hint: Impact on competition
+        type: select_one
+        options:
+          - Yes - significant positive impact
+          - Yes - slight positive impact
+          - No impact
+          - Yes - negative impact
+          - Not sure
+        required: true
+      - id: 24
+        name: missed_ritual_effect
+        label: What happens if you miss a ritual
+        hint: Effect of skipping ritual
+        type: select_one
+        options:
+          - Very anxious - affects performance
+          - Somewhat anxious
+          - Slightly bothered
+          - No effect
+          - Never missed
+        required: true
+      - id: 25
+        name: ritual_origin
+        label: How did your rituals start
+        hint: Origin of your rituals
+        type: select_one
+        options:
+          - Developed over time naturally
+          - Learned from coach or mentor
+          - Copied from role model
+          - Started after a good performance
+          - Family tradition
+          - Not sure
+        required: true
+      - id: 26
+        name: rituals_by_competition_type
+        label: Do rituals vary by competition type
+        hint: Different rituals for different events
+        type: select_one
+        options:
+          - Yes - very different
+          - Yes - slightly different
+          - No - same for all
+          - Not sure
+        required: true
+      - id: 27
+        name: would_share_rituals
+        label: Would you share your rituals publicly
+        hint: Willingness to share
+        type: select_one
+        options:
+          - Yes - happy to share
+          - Maybe - with some people
+          - No - prefer private
+        required: true
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts on rituals
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arizona Living Experience Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: years_in_arizona
+      label: How long have you lived in Arizona
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      - Entire life
+      required: true
+    - id: 5
+      name: current_region
+      label: Which region of Arizona do you live in
+      hint: null
+      type: select_one
+      options:
+      - Phoenix metro area
+      - Tucson area
+      - Northern Arizona
+      - Eastern Arizona
+      - Western Arizona
+      - Other
+      required: true
+    - id: 6
+      name: section_housing
+      label: -- Housing and Community --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: housing_satisfaction
+      label: Satisfaction with your current housing
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: housing_affordability
+      label: Housing affordability in your area
+      hint: null
+      type: select_one
+      options:
+      - Very affordable
+      - Affordable
+      - Moderate cost
+      - Expensive
+      - Very expensive
+      required: true
+    - id: 9
+      name: community_connection
+      label: How connected do you feel to your community
+      hint: null
+      type: select_one
+      options:
+      - Very connected
+      - Connected
+      - Somewhat connected
+      - Not very connected
+      - Not connected at all
+      required: true
+    - id: 10
+      name: section_quality_of_life
+      label: -- Quality of Life --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: Overall satisfaction living in Arizona
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: weather_satisfaction
+      label: How do you feel about Arizona weather
+      hint: null
+      type: select_one
+      options:
+      - Love it
+      - Like it
+      - Neutral
+      - Dislike it
+      - Hate it
+      required: true
+    - id: 13
+      name: outdoor_activities
+      label: Frequency of outdoor activities
+      hint: null
+      type: select_one
+      options:
+      - Daily or almost daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 14
+      name: section_services
+      label: -- Services and Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_access
+      label: Access to healthcare services
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: education_quality
+      label: Quality of education in your area
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Very poor
+      required: false
+    - id: 17
+      name: public_transportation
+      label: Public transportation availability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - None available
+      required: true
+    - id: 18
+      name: section_challenges
+      label: -- Challenges and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_concerns
+      label: Main concerns about living in Arizona
+      hint: null
+      type: select_multiple
+      options:
+      - Heat and weather
+      - Water scarcity
+      - Cost of living
+      - Traffic and congestion
+      - Job opportunities
+      - Education quality
+      - Healthcare access
+      - Crime rates
+      - Other
+      required: false
+    - id: 20
+      name: future_plans
+      label: Do you plan to stay in Arizona
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Undecided
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional comments about Arizona living
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Delivery Simulation Feedback Form
+    pages:
+    - id: 1
+      name: section_simulation_details
+      label: -- Simulation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exercise_name
+      label: Simulation Exercise Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: simulation_date
+      label: Date of Simulation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: role_played
+      label: Your Role in the Simulation
+      hint: Which position did you occupy during the exercise?
+      type: select_one
+      options:
+      - Driver
+      - Dispatcher
+      - Warehouse Manager
+      - Customer
+      - Compliance Officer
+      - Observer
+      required: true
+    - id: 5
+      name: section_objectives
+      label: -- Learning Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: objectives_clarity
+      label: Were the simulation objectives clear?
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Neutral
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 7
+      name: scenario_realism
+      label: Rate the realism of the simulation scenario
+      hint: 1 being not realistic, 5 being very realistic
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: difficulty_level
+      label: Rate the difficulty level of the simulation
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Appropriate
+      - Challenging
+      - Too Difficult
+      required: true
+    - id: 9
+      name: section_performance
+      label: -- Performance and Coordination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: team_communication
+      label: How effective was the communication within your team?
+      hint: 1 being poor, 5 being exceptional
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: problem_solving
+      label: How effectively did your team handle simulation challenges?
+      hint: 1 being not effective, 5 being very effective
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tools_and_tech
+      label: Rate the simulation tools and technology used
+      hint: software, hardware, or materials
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: biggest_challenge
+      label: What was the biggest challenge you faced during the simulation?
+      hint: Identify a specific bottleneck or issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_feedback
+      label: -- Feedback and Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: key_takeaway
+      label: What is your main learning or takeaway from this exercise?
+      hint: What will you do differently in your real-world role?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: process_improvement
+      label: One logistical process that could be improved based on this simulation
+      hint: e.g., loading, dispatch, tracking
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: simulation_duration
+      label: Was the time allotted for the simulation sufficient?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Too short
+      - No - Too long
+      required: true
+    - id: 18
+      name: section_facilitator
+      label: -- Facilitator and Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: facilitator_guidance
+      label: Rate the quality of guidance provided by facilitators
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: debrief_effectiveness
+      label: How useful was the post-simulation debrief?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_final
+      label: -- Final Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: future_simulation_interest
+      label: Would you like to participate in similar simulations in the future?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 23
+      name: improvement_suggestions
+      label: Suggestions for improving future simulations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_rating
+      label: Overall rating of the simulation experience
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true

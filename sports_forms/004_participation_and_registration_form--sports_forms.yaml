@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participation And Registration Form
+    pages:
+    - id: 1
+      name: event_attendance
+      label: Event Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Participant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fundraising_goal
+      label: Fundraising Goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: past_experience
+      label: Past Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_terms
+      label: Consent to Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - Other
+      required: false

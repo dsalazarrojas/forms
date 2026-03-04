@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conic Sections Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_period
+      label: Class Period
+      hint: Class period or section
+      type: select_one
+      options:
+      - Period 1
+      - Period 2
+      - Period 3
+      - Period 4
+      - Period 5
+      - Period 6
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: Question 1 - What is the standard form equation of a circle
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - (x - h)^2 + (y - k)^2 = r^2
+      - x^2/a^2 + y^2/b^2 = 1
+      - x^2/a^2 - y^2/b^2 = 1
+      - y = ax^2 + bx + c
+      required: true
+    - id: 6
+      name: question_2
+      label: Question 2 - Which conic section has eccentricity equal to 0
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Circle
+      - Ellipse
+      - Parabola
+      - Hyperbola
+      required: true
+    - id: 7
+      name: question_3
+      label: Question 3 - What is the eccentricity of a parabola
+      hint: Select the correct value
+      type: select_one
+      options:
+      - 0
+      - 1
+      - Between 0 and 1
+      - Greater than 1
+      required: true
+    - id: 8
+      name: question_4
+      label: Question 4 - The equation x^2/a^2 + y^2/b^2 = 1 represents which conic
+        section
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Circle
+      - Ellipse
+      - Parabola
+      - Hyperbola
+      required: true
+    - id: 9
+      name: question_5
+      label: Question 5 - What are the two fixed points of an ellipse called
+      hint: Select the correct term
+      type: select_one
+      options:
+      - Center points
+      - Vertex points
+      - Foci
+      - Directrices
+      required: true
+    - id: 10
+      name: question_6
+      label: Question 6 - Which conic section is formed when a plane is parallel to
+        the generator of the cone
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Circle
+      - Ellipse
+      - Parabola
+      - Hyperbola
+      required: true
+    - id: 11
+      name: question_7
+      label: Question 7 - What is the standard form of a hyperbola opening left and
+        right
+      hint: Select the correct equation
+      type: select_one
+      options:
+      - x^2/a^2 + y^2/b^2 = 1
+      - x^2/a^2 - y^2/b^2 = 1
+      - y^2/a^2 - x^2/b^2 = 1
+      - y = ax^2
+      required: true
+    - id: 12
+      name: question_8
+      label: Question 8 - The distance from the center to a vertex of an ellipse is
+        called the
+      hint: Select the correct term
+      type: select_one
+      options:
+      - Minor axis
+      - Major axis
+      - Semi-major axis
+      - Focal length
+      required: true
+    - id: 13
+      name: question_9
+      label: Question 9 - What is the discriminant condition for a hyperbola in general
+        conic form
+      hint: Select the correct condition
+      type: select_one
+      options:
+      - B^2 - 4AC = 0
+      - B^2 - 4AC less than 0
+      - B^2 - 4AC greater than 0
+      - A = C
+      required: true
+    - id: 14
+      name: question_10
+      label: Question 10 - Find the center of the circle (x - 3)^2 + (y + 2)^2 = 16
+      hint: Select the correct coordinates
+      type: select_one
+      options:
+      - (3, 2)
+      - (-3, 2)
+      - (3, -2)
+      - (-3, -2)
+      required: true
+    - id: 15
+      name: question_11
+      label: Question 11 - What is the radius of the circle x^2 + y^2 = 25
+      hint: Enter the numerical value
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_12
+      label: Question 12 - The asymptotes of a hyperbola x^2/a^2 - y^2/b^2 = 1 are
+        given by
+      hint: Select the correct equations
+      type: select_one
+      options:
+      - y = plus or minus (a/b)x
+      - y = plus or minus (b/a)x
+      - y = plus or minus ax
+      - y = plus or minus bx
+      required: true
+    - id: 17
+      name: question_13
+      label: Question 13 - Which conic section has one focus and one directrix
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Circle
+      - Ellipse
+      - Parabola
+      - Hyperbola
+      required: true
+    - id: 18
+      name: question_14
+      label: Question 14 - For an ellipse, the relationship between a, b, and c is
+      hint: Select the correct formula
+      type: select_one
+      options:
+      - c^2 = a^2 + b^2
+      - c^2 = a^2 - b^2
+      - c^2 = b^2 - a^2
+      - c = a + b
+      required: true
+    - id: 19
+      name: question_15
+      label: Question 15 - What type of conic is represented by y = 2x^2 - 4x + 1
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Circle
+      - Ellipse
+      - Parabola
+      - Hyperbola
+      required: true
+    - id: 20
+      name: question_16
+      label: Question 16 - The latus rectum of a parabola is also known as the
+      hint: Select the correct term
+      type: select_one
+      options:
+      - Axis of symmetry
+      - Focal chord
+      - Directrix
+      - Vertex
+      required: true
+    - id: 21
+      name: question_17
+      label: Question 17 - If the eccentricity of an ellipse is 0.5, the ellipse is
+      hint: Select the best description
+      type: select_one
+      options:
+      - Very elongated
+      - Moderately elongated
+      - Nearly circular
+      - A perfect circle
+      required: true
+    - id: 22
+      name: question_18
+      label: Question 18 - Write the focus of the parabola y^2 = 12x
+      hint: Enter coordinates as (x, y)
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: question_19
+      label: Question 19 - The graph of xy = 1 is which type of conic section
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Circle
+      - Ellipse
+      - Parabola
+      - Hyperbola
+      required: true
+    - id: 24
+      name: question_20
+      label: Question 20 - Calculate the area of a circle with radius 5 units
+      hint: Enter your answer in terms of pi or as a decimal
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: confidence_level
+      label: Your Confidence Level
+      hint: How confident do you feel about this material
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true

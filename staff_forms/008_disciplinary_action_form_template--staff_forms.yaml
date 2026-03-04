@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Form Template
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_id_2
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

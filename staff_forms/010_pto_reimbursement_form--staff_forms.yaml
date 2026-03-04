@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTO Reimbursement Form
+    pages:
+    - id: 1
+      name: pto_request
+      label: PTO Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Reimbursed
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

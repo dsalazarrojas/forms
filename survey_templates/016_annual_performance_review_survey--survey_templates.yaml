@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Performance Review Survey
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name of person conducting review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_title
+      label: Your Position or Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: Name of employee being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_title
+      label: Employee Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: Date of this performance review
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: employment_start_date
+      label: Employment Start Date
+      hint: When employee started in current role
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: goals_achievement
+      label: Achievement of annual goals and objectives
+      hint: null
+      type: select_one
+      options:
+      - Exceeded all goals
+      - Achieved all goals
+      - Achieved most goals
+      - Achieved some goals
+      - Did not achieve goals
+      required: true
+    - id: 10
+      name: goals_percentage
+      label: Percentage of goals achieved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: job_knowledge
+      label: Job knowledge and technical skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 12
+      name: productivity
+      label: Productivity and efficiency
+      hint: Ability to accomplish work in timely manner
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 13
+      name: quality_of_work
+      label: Quality of work and attention to detail
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 14
+      name: reliability
+      label: Reliability and attendance
+      hint: Dependability and punctuality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 15
+      name: communication
+      label: Communication skills
+      hint: Ability to communicate effectively
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 16
+      name: teamwork
+      label: Teamwork and collaboration
+      hint: Works well with colleagues
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 17
+      name: customer_service
+      label: Customer service and professionalism
+      hint: Interaction with customers or clients
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Not applicable
+      required: false
+    - id: 18
+      name: initiative
+      label: Initiative and leadership potential
+      hint: Takes on additional responsibilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      - Poor
+      required: true
+    - id: 19
+      name: strengths
+      label: Key strengths and accomplishments
+      hint: What the employee does particularly well
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: areas_improvement
+      label: Areas for improvement and development
+      hint: Skills or behaviors to work on
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: development_plan
+      label: Professional development plan
+      hint: Training or growth opportunities
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_rating
+      label: Overall performance rating
+      hint: null
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Meets some expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 23
+      name: salary_increase_recommendation
+      label: Salary increase recommendation
+      hint: null
+      type: select_one
+      options:
+      - Recommended
+      - Under review
+      - Not recommended
+      - Not applicable
+      required: false

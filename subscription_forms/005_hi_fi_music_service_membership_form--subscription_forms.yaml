@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hi Fi Music Service Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: music_service
+      label: Music Service
+      hint: null
+      type: select_one
+      options:
+      - Hi Fi Music Service 1
+      - Hi Fi Music Service 2
+      - Hi Fi Music Service 3
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 8
+      name: agree_to_terms
+      label: I Agree to Terms and Conditions
+      hint: Check this box if you agree to our terms
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: agree_to_privacy
+      label: I Agree to Privacy Policy
+      hint: Check this box if you agree to our privacy policy
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: music_service_membership
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Free Membership
+      - Premium Membership
+      required: true
+    - id: 13
+      name: music_service_membership_plan
+      label: Membership Plan Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: membership_plan_duration
+      label: Membership Plan Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 1 month
+      - 6 months
+      - 1 year
+      required: true
+    - id: 15
+      name: membership_plan_price
+      label: Membership Plan Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Annually
+      required: false
+    - id: 17
+      name: payment_method_2
+      label: Alternative Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: agree_to_auto_renewal
+      label: I Agree to Auto Renewal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_frequency_2
+      label: Payment Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: membership_plan_description
+      label: Membership Plan Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: membership_plan_duration_2
+      label: Membership Plan Duration 2
+      hint: null
+      type: select_multiple
+      options:
+      - 1 year
+      - 2 years
+      required: false
+    - id: 22
+      name: membership_plan_price_2
+      label: Membership Plan Price 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_maintenance_subscription_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_preferences
+      label: services_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Changes
+      - Tire Rotations
+      - Tire Inspections
+      - Brake Checks
+      - Battery Checks
+      - Fluid Checks
+      required: false
+    - id: 4
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_frequency
+      label: service_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: service_date
+      label: service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Cash
+      - Check
+      required: false
+    - id: 12
+      name: confirm_subscription
+      label: confirm_subscription
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

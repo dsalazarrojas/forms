@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Tracker Worksheet
+    pages:
+    - id: 1
+      name: recurring_services
+      label: Recurring Services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renewal_timelines
+      label: Renewal Timelines
+      hint: Select one option
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 3
+      name: subscription_spend
+      label: Subscription Spend
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: teams
+      label: Teams Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: renewal_status
+      label: Renewal Status
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

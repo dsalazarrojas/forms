@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_injury_report_form
+    pages:
+    - id: 1
+      name: sports_injury
+      label: sports_injury
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: injury_date
+      label: injury_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: injury_description
+      label: injury_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: injury_location
+      label: injury_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: injury_type
+      label: injury_type
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      - choice3
+      - choice4
+      - choice5
+      required: false
+    - id: 6
+      name: athlete
+      label: athlete
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: coach
+      label: coach
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: training_or_competition
+      label: training_or_competition
+      hint: null
+      type: select_one
+      options:
+      - Training
+      - Competition
+      required: false
+    - id: 9
+      name: medical_attention
+      label: medical_attention
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: treatment
+      label: treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

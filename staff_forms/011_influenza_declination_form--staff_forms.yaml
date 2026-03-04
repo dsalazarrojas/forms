@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influenza Declination Form
+    pages:
+    - id: 1
+      name: person_name
+      label: person_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_declination
+      label: reason_for_declination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_declination
+      label: date_declination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_declination
+      label: time_declination
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: hospital_name
+      label: hospital_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false

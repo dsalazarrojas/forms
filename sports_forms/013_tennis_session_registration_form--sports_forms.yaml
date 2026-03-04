@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Session Registration Form
+    pages:
+    - id: 1
+      name: attendant_info
+      label: Attendees Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Tennis
+      - Squash
+      - Golf
+      - Other
+      required: false
+    - id: 7
+      name: availability_details
+      label: Availability Details
+      hint: Please specify dates and times
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendants
+      label: Attendants
+      hint: How many attendants will be coming with you?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

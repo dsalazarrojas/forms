@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting System Usability Survey
+    pages:
+    - id: 1
+      name: system_name
+      label: System Name
+      hint: Name of the software being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ease_of_navigation
+      label: Ease of Navigation
+      hint: 1 - Very Difficult, 5 - Very Easy
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 3
+      name: speed_of_task_completion
+      label: Speed of Task Completion
+      hint: How fast is the system response?
+      type: select_one
+      options:
+      - Very Slow
+      - Slow
+      - Average
+      - Fast
+      - Very Fast
+      required: true
+    - id: 4
+      name: clarity_of_error_messages
+      label: Clarity of Error Messages
+      hint: Are warnings helpful and easy to understand?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: frequency_of_system_crashes
+      label: Frequency of System Crashes
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: most_used_features
+      label: Most Used Features
+      hint: Select top choices
+      type: select_multiple
+      options:
+      - Dashboard
+      - Reporting
+      - Data Entry
+      - Reconciliation
+      - User Management
+      required: false
+    - id: 7
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend to a Colleague
+      hint: 0 - Not at all, 10 - Highly likely
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: biggest_pain_point
+      label: Biggest Pain Point
+      hint: What is the most frustrating part of using this system?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feature_request_or_improvement
+      label: Feature Request or Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: footer_note
+      label: -- Thank you for helping us improve our tools --
+      hint: null
+      type: note
+      options: []
+      required: false

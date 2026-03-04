@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Coaching Training Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 6
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_level
+      label: Team Level
+      hint: Competition level
+      type: select_one
+      options:
+      - Varsity
+      - Junior Varsity
+      - Freshman
+      - Club Team
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you played
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coach_name
+      label: Coach Name
+      hint: Primary coach
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: training_goals
+      label: Primary Training Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: Rate your fitness level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: true
+    - id: 13
+      name: training_availability
+      label: Training Availability
+      hint: When can you train
+      type: select_multiple
+      options:
+      - Early Morning (5-8 AM)
+      - Morning (8-12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-9 PM)
+      - Weekends Only
+      required: true
+    - id: 14
+      name: training_days_per_week
+      label: Days Available Per Week
+      hint: How many days can you train
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: preferred_training_focus
+      label: Preferred Training Focus
+      hint: Select areas of focus
+      type: select_multiple
+      options:
+      - Strength Training
+      - Speed and Agility
+      - Endurance
+      - Skill Development
+      - Flexibility
+      - Mental Training
+      - Recovery
+      - Game Strategy
+      required: true
+    - id: 16
+      name: injury_history
+      label: Injury History
+      hint: List any significant injuries
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_injuries
+      label: Current Injuries or Limitations
+      hint: Any current issues to note
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_clearance
+      label: Medical Clearance Status
+      hint: Are you cleared for full activity
+      type: select_one
+      options:
+      - Yes - Fully Cleared
+      - Yes - With Restrictions
+      - No - Pending Clearance
+      - Not Required
+      required: true
+    - id: 19
+      name: previous_training
+      label: Previous Training Experience
+      hint: Describe any previous training programs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_access
+      label: Equipment Access
+      hint: What equipment do you have access to
+      type: select_multiple
+      options:
+      - Full Gym
+      - Home Gym
+      - Basic Equipment Only
+      - Outdoor Facilities
+      - School Facilities
+      - Limited Access
+      required: true
+    - id: 21
+      name: nutrition_habits
+      label: Current Nutrition Habits
+      hint: Describe your typical diet
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sleep_habits
+      label: Sleep Habits
+      hint: Average hours of sleep per night
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: stress_level
+      label: Current Stress Level
+      hint: Rate your stress level
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 24
+      name: motivation_level
+      label: Motivation Level
+      hint: Rate your motivation
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 25
+      name: communication_preference
+      label: Communication Preference
+      hint: How do you prefer to communicate
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - In Person
+      - App or Portal
+      required: true
+    - id: 26
+      name: parent_contact_name
+      label: Parent or Guardian Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: parent_contact_phone
+      label: Parent or Guardian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else the coach should know
+      type: text
+      options: []
+      required: false

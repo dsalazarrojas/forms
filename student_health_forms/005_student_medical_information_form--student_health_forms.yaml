@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_medical_information_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_number
+      label: Student Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medical_observations
+      label: Medical Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_assessments
+      label: Medical Assessments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: physical_ability
+      label: Physical Ability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: mental_ability
+      label: Mental Ability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: behavioral_conduct
+      label: Behavioral Conduct
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_history2
+      label: Medical History 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: medical_history3
+      label: Medical History 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: student_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

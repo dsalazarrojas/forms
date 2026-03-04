@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Staff Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_position_info
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: position_interested
+      label: Position Interested In
+      hint: null
+      type: select_one
+      options:
+      - Cabin Counselor
+      - Activity Director
+      - Kitchen Staff
+      - Nurse
+      - Program Director
+      - Maintenance
+      - Other
+      required: true
+    - id: 13
+      name: availability
+      label: When can you start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: duration_available
+      label: How long can you commit
+      hint: null
+      type: select_one
+      options:
+      - Full summer (8+ weeks)
+      - 4-7 weeks
+      - 2-3 weeks
+      - 1 week
+      - Flexible
+      required: true
+    - id: 15
+      name: previous_camp_experience
+      label: Previous camp or youth work experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_skills
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_skills
+      label: Special skills or certifications
+      hint: Lifeguard, First Aid, CPR, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: relevant_education
+      label: Relevant education or training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: language_abilities
+      label: Languages spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reference_one_name
+      label: Reference 1 Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reference_one_relationship
+      label: Relationship to Reference 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reference_two_name
+      label: Reference 2 Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reference_two_relationship
+      label: Relationship to Reference 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

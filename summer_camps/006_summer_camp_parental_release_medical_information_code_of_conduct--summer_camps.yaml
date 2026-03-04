@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_camp_parental_release_medical_information_code_of_conduct
+    pages:
+    - id: 1
+      name: title
+      label: summer_camp_parental_release_medical_information_code_of_conduct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: summer_camps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: summer_camp_parental_release_gathers_general_information_of_the_student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_information
+      label: student_information
+      hint: Please provide student information including student id
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parents_information
+      label: parents_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_information
+      label: medical_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: health_history
+      label: health_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: Parents must sign this form to confirm all the information is correct
+      type: select_one
+      options:
+      - I confirm that all of the above information is true
+      - 'No'
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: parent_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-02'
+      - '2024-01-03'
+      - '2024-01-04'
+      - '2024-01-05'
+      - '2024-01-06'
+      - '2024-01-07'
+      - '2024-01-08'
+      - '2024-01-09'
+      - '2024-01-10'
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - 09:00
+      - '10:00'
+      - '11:00'
+      - '12:00'
+      - '13:00'
+      - '14:00'
+      - '15:00'
+      - '16:00'
+      - '17:00'
+      - '18:00'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

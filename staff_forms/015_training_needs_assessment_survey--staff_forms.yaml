@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Needs Assessment Survey
+    pages:
+    - id: 1
+      name: training_needs_assessment_survey_staff
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_needs_assessment_survey_preferences
+      label: Training Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skill_levels_assessments
+      label: Skill Levels Assessments
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: development_needs
+      label: Development Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_needs_assessment_survey_comments
+      label: Training Needs Assessment Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: training_needs_assessment_survey_email
+      label: Training Needs Assessment Survey Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: training_needs_assessment_survey_phone
+      label: Training Needs Assessment Survey Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_needs_assessment_survey_date
+      label: Training Needs Assessment Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_needs_assessment_survey_time
+      label: Training Needs Assessment Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
+      required: false

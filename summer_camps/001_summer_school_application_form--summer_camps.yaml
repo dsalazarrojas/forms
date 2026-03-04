@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Contact Number
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: 'null'
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: select_one_camp
+      label: Which camp would you like to attend?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Camp A''}'
+      - '{''value'': ''Camp B''}'
+      - '{''value'': ''Camp C''}'
+      required: true
+    - id: 7
+      name: select_multiple_camps
+      label: Which camps do you want to attend?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Camp X''}'
+      - '{''value'': ''Camp Y''}'
+      - '{''value'': ''Camp Z''}'
+      required: true
+    - id: 8
+      name: tuition_fees
+      label: Payment Method
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''value'': ''Square''}'
+      - '{''value'': ''PayPal''}'
+      required: true
+    - id: 9
+      name: tuition_amount
+      label: Amount
+      hint: Amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: 'null'
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: select_one_essay
+      label: Essay question
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Question A''}'
+      - '{''value'': ''Question B''}'
+      - '{''value'': ''Question C''}'
+      required: true
+    - id: 12
+      name: select_multiple_essay
+      label: Multi choice question
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option X''}'
+      - '{''value'': ''Option Y''}'
+      - '{''value'': ''Option Z''}'
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: 'null'
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: tuition_fees_2
+      label: Payment Method 2
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''value'': ''Square''}'
+      - '{''value'': ''PayPal''}'
+      required: true
+    - id: 15
+      name: amount_2
+      label: Amount 2
+      hint: Amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: note_2
+      label: Note 2
+      hint: 'null'
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: select_one_essay_2
+      label: Essay question 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Question A''}'
+      - '{''value'': ''Question B''}'
+      - '{''value'': ''Question C''}'
+      required: true
+    - id: 18
+      name: select_multiple_essay_2
+      label: Multi choice question 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option X''}'
+      - '{''value'': ''Option Y''}'
+      - '{''value'': ''Option Z''}'
+      required: true
+    - id: 19
+      name: time_2
+      label: Time 2
+      hint: 'null'
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: program
+      label: Program
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: select_multiple_programs
+      label: Select multiple programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Program A''}'
+      - '{''value'': ''Program B''}'
+      - '{''value'': ''Program C''}'
+      required: true
+    - id: 22
+      name: select_multiple_programs_2
+      label: Select multiple programs 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Program A''}'
+      - '{''value'': ''Program B''}'
+      - '{''value'': ''Program C''}'
+      required: true
+    - id: 23
+      name: date_2
+      label: Date 2
+      hint: 'null'
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: select_one_program_2
+      label: Select one program 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Program A''}'
+      - '{''value'': ''Program B''}'
+      - '{''value'': ''Program C''}'
+      required: true
+    - id: 25
+      name: select_multiple_program_2
+      label: Select multiple programs 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Program A''}'
+      - '{''value'': ''Program B''}'
+      - '{''value'': ''Program C''}'
+      required: true

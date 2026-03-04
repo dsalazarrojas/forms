@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Live Streaming Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: Fitness Class Live Streaming Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - studio
+      - at_home
+      - outdoor
+      required: false
+    - id: 7
+      name: streaming_type
+      label: Streaming Type
+      hint: null
+      type: select_multiple
+      options:
+      - live
+      - video
+      - recording
+      required: false
+    - id: 8
+      name: stream_type
+      label: Stream Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: streaming_schedule
+      label: Streaming Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

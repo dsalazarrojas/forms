@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product List Order Template
+    pages:
+    - id: 1
+      name: product_list
+      label: Product List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tax
+      label: Tax
+      hint: null
+      type: select_one
+      options:
+      - '5.13'
+      - '6.13'
+      required: false
+    - id: 4
+      name: shipping
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: true

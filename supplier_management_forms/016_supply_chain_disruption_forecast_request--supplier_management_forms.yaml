@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Disruption Forecast Request
+    pages:
+    - id: 1
+      name: supplier_management_forms
+      label: supply_chain_disruption_forecast_request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: segment
+      label: select_segment
+      hint: null
+      type: select_multiple
+      options:
+      - A - Americas
+      - E - EMEA
+      - AP - Asia Pacific
+      - J - Japan
+      required: true
+    - id: 3
+      name: region
+      label: select_region
+      hint: null
+      type: select_multiple
+      options:
+      - US
+      - Canada
+      - Mexico
+      - Europe
+      - Africa
+      - Asia
+      - Australia
+      required: true
+    - id: 4
+      name: product_group
+      label: select_product_group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: disruption_type
+      label: select_disruption_type
+      hint: null
+      type: select_one
+      options:
+      - Supply chain delay
+      - Material shortage
+      - Quality issue
+      - Other
+      - No Disruption
+      required: true

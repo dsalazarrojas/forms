@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Player Evaluation Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: skills_assessment
+      label: skills_assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Passing''}'
+      - '{''option'': ''Serving''}'
+      - '{''option'': ''Blocking''}'
+      - '{''option'': ''Setting''}'
+      required: false
+    - id: 5
+      name: skill_level
+      label: skill_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Beginner''}'
+      - '{''option'': ''Intermediate''}'
+      - '{''option'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: progress
+      label: progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Improve Passing''}'
+      - '{''option'': ''Improve Serving''}'
+      - '{''option'': ''Improve Blocking''}'
+      - '{''option'': ''Improve Setting''}'
+      required: false
+    - id: 8
+      name: training_plan
+      label: training_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Strength Training''}'
+      - '{''option'': ''Cardiovascular Exercise''}'
+      - '{''option'': ''Flexibility and Mobility''}'
+      required: false

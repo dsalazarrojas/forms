@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Contract Performance Evaluation Form
+    pages:
+    - id: 1
+      name: supplier_contract_performance_evaluation_form
+      label: What is your experience with the supplier?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_contract_rating
+      label: Rate the supplier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contract_start_date
+      label: Contract start date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_end_date
+      label: Contract end date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supplier_performance_rating
+      label: Supplier performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supplier_contract_review_comments
+      label: Comments on the supplier contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_rating
+      label: Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quality_rating
+      label: Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: delivery_rating
+      label: Delivery
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_rating
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: supplier_contract_review_comments
+      label: Comments on the supplier contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category_rating
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 13
+      name: supplier_contract_remarks
+      label: Remarks on the supplier contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contract_value_rating
+      label: Contract value
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 15
+      name: supplier_contract_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 16
+      name: supplier_contract_recommendation
+      label: Would you recommend?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not sure''}'
+      required: false
+    - id: 17
+      name: contract_type
+      label: Contract type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Service contract''}'
+      - '{''label'': ''Goods contract''}'
+      required: false
+    - id: 18
+      name: contract_value
+      label: Contract value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: supplier_contract_important
+      label: Is the supplier important?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 20
+      name: supplier_contract_recurring
+      label: Is the supplier recurring?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: contract_term
+      label: Contract term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contract_period
+      label: Contract period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contract_start_date
+      label: Contract start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: contract_end_date
+      label: Contract end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: contract_date
+      label: Contract date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: payment_term
+      label: Payment term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: contract_amount
+      label: Contract amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: contract_amount_currency
+      label: Contract amount currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: supplier_contract_review
+      label: Review the supplier contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: supplier_contract_status
+      label: Supplier contract status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Canceled''}'
+      required: false

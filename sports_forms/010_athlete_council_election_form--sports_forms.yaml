@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Council Election Form
+    pages:
+    - id: 1
+      name: election_info_header
+      label: -- Election Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: election_year
+      label: Election Year
+      hint: e.g. 2025
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: position_applied
+      label: Position Applied For
+      hint: Select one position only
+      type: select_one
+      options:
+      - President
+      - Vice-President
+      - Secretary
+      - Treasurer
+      - Team Representative
+      required: true
+    - id: 4
+      name: candidate_info_header
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: candidate_email
+      label: Email Address
+      hint: example@university.edu
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: academic_major
+      label: Academic Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sport_participation
+      label: Sport - Participate In
+      hint: List all sports you represent
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: study_year
+      label: Year of Study
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 11
+      name: candidate_statement_header
+      label: -- Candidate Statement --
+      hint: This will be shared with the voting body
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: motivation_statement
+      label: Why are you running for this position?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_experience
+      label: Previous Leadership Experience
+      hint: Describe roles in or out of sports
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: candidate_vision
+      label: Vision for the Athlete Council
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: key_issue
+      label: Key Issue You Plan to Address
+      hint: Top priority if elected
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reference_name
+      label: Faculty or Coach Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reference_contact
+      label: Reference Contact Information
+      hint: Email or phone number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rules_consent
+      label: I consent to abide by all election rules and guidelines
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: candidate_signature
+      label: Candidate Electronic Signature
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

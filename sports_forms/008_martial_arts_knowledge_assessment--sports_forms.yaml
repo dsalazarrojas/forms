@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Martial Arts Knowledge Assessment
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: martial_arts_experience
+      label: martial_arts_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rank
+      label: rank
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
+      - black_belt
+      required: false
+    - id: 4
+      name: martial_arts_concepts
+      label: martial_arts_concepts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - basics
+      - footwork
+      - hand_to_hand
+      - weapons
+      - theory
+      required: false
+    - id: 5
+      name: class_placement
+      label: class_placement
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - instructor-led
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_title
+      label: Instructor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_program
+      label: Training Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments_2
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

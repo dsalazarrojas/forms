@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Polymer Properties Assessment
+    pages:
+    - id: 1
+      name: polymer_sample_id
+      label: Polymer Sample ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: test_condition
+      label: Test Condition
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: test_temperature
+      label: Test Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: polymer_type
+      label: Polymer Type
+      hint: null
+      type: select_one
+      options:
+      - Polypropylene
+      - Polycarbonate
+      - Polyester
+      required: false
+    - id: 5
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: physical_characteristics
+      label: Physical Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - Flexibility
+      - Strength
+      - Elasticity
+      - Hardness
+      required: false
+    - id: 7
+      name: mechanical_behavior
+      label: Mechanical Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - Damping
+      - Stiffness
+      - Hardness
+      - Toughness
+      required: false
+    - id: 8
+      name: chemical_behavior
+      label: Chemical Behavior
+      hint: null
+      type: select_multiple
+      options:
+      - Solubility
+      - Reactivity
+      - Conductivity
+      - Absorption
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

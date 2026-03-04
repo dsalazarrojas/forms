@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Evaluation Form
+    pages:
+    - id: 1
+      name: client_progress
+      label: Client Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_days
+      label: Training Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: workout_plan
+      label: Workout Plan
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_minutes
+      label: Training Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: training_frequency
+      label: training frequency
+      hint: null
+      type: select_one
+      options:
+      - optionประก
+      - optiontwo
+      - optionthree
+      required: false
+    - id: 9
+      name: training_intensity
+      label: Training Intensity
+      hint: null
+      type: select_one
+      options:
+      - -ประก -optiontwo -optionthree
+      - Other
+      required: false
+    - id: 10
+      name: training_type
+      label: training type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: client_comments
+      label: client comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: trainer_comments
+      label: trainer comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_feedback
+      label: prophets comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_time
+      label: evaluation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: assessment
+      label: assessment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: assessment_comments
+      label: assessment comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_score
+      label: evaluation score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: next_steps
+      label: next steps
+      hint: null
+      type: note
+      options: []
+      required: false

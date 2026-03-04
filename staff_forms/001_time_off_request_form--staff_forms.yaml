@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Off Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Employee Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: Employee Email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: employee_phone
+      label: Employee Phone
+      hint: Employee Phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: Start Date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: End Date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_interval
+      label: Time Interval
+      hint: Time Interval
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

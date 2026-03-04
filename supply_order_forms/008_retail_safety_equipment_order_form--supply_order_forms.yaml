@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Safety Equipment Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Company'', ''value'': ''Company''}'
+      - '{''id'': 2, ''label'': ''Individual'', ''value'': ''Individual''}'
+      required: true
+    - id: 3
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Standard'', ''value'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Expedited'', ''value'': ''Expedited''}'
+      - '{''id'': 3, ''label'': ''Express'', ''value'': ''Express''}'
+      required: true
+    - id: 4
+      name: purchasing_details
+      label: Purchasing Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true

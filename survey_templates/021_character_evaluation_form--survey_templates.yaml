@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Evaluation Form
+    pages:
+    - id: 1
+      name: section_inner_self_intro
+      label: -- Exploring Your Inner Self --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_inner
+      label: Participant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_character_traits
+      label: -- Character Traits and Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: integrity_self_rating
+      label: Integrity Self-Rating
+      hint: How consistently do you act according to your values?
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: empathy_self_rating
+      label: Empathy Self-Rating
+      hint: How well do you understand and share the feelings of others?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: resilience_self_rating
+      label: Resilience Self-Rating
+      hint: How quickly do you recover from setbacks?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: honesty_self_rating
+      label: Honesty Self-Rating
+      hint: How truthful are you with yourself and others?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: self_discipline_rating
+      label: Self-Discipline Rating
+      hint: How well do you control your impulses and stay focused?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_behavioral_patterns
+      label: -- Behavioral Patterns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_motivation_driver
+      label: Primary Motivation Driver
+      hint: What drives your actions most often?
+      type: select_one
+      options:
+      - Personal Achievement
+      - Helping Others
+      - Seeking Knowledge
+      - Security and Stability
+      - Creativity and Expression
+      required: true
+    - id: 11
+      name: response_to_conflict_style
+      label: Response to Conflict Style
+      hint: How do you typically handle disagreement?
+      type: select_one
+      options:
+      - Collaborative (Win-Win)
+      - Competitive (Win-Lose)
+      - Avoidant
+      - Accommodating
+      - Compromising
+      required: true
+    - id: 12
+      name: section_growth_and_reflection
+      label: -- Growth and Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: area_of_character_needing_growth
+      label: Area of Character Needing Growth
+      hint: Which trait would you most like to improve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recent_example_of_integrity
+      label: Recent Example of Personal Integrity
+      hint: Describe a situation where you stood by your values
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: impact_on_others_self_perception
+      label: Impact on Others - Self-Perception
+      hint: How do you think others would describe your character?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_final_assessment
+      label: -- Final Assessment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: accuracy_confirmation_self_eval
+      label: Confirmation of Honest Self-Evaluation
+      hint: I confirm that I have answered these questions thoughtfully and honestly
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 18
+      name: date_of_character_evaluation_log
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: additional_reflection_comments
+      label: Additional Reflection Comments
+      hint: Any other thoughts on your personal character development
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: personal_motto_or_principle
+      label: Personal Motto or Guiding Principle
+      hint: null
+      type: text
+      options: []
+      required: false

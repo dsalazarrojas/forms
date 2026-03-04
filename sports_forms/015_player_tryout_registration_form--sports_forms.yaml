@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Player Tryout Registration Form
+    pages:
+    - id: 1
+      name: tryout_date
+      label: Tryout Date
+      hint: Enter tryout date
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: Player name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_contact_info
+      label: Player Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_position
+      label: Player Position
+      hint: Enter player position
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      required: false
+    - id: 6
+      name: player_height
+      label: Height
+      hint: null
+      type: select_multiple
+      options:
+      - 6ft 0in
+      - 6ft 1in
+      - 6ft 2in
+      required: false
+    - id: 7
+      name: player_weight
+      label: Weight
+      hint: null
+      type: select_multiple
+      options:
+      - 120-129
+      - 130-139
+      - 140-149
+      - 150-159
+      - 160-169
+      - 170-179
+      - 180-189
+      - 190-199
+      required: false
+    - id: 8
+      name: player_speed
+      label: Speed
+      hint: null
+      type: select_multiple
+      options:
+      - 5-5.9
+      - 6-6.9
+      - 7-7.9
+      - 8-8.9
+      - 9-9.9
+      required: false
+    - id: 9
+      name: tryout_location
+      label: Tryout Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 10
+      name: tryout_time
+      label: Tryout Time
+      hint: Enter tryout time
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Reservation Form
+    pages:
+    - id: 1
+      name: camp_name
+      label: Summer Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: camper_grade
+      label: Camper Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: camper_birthday
+      label: Camper Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: camper_gender
+      label: Camper Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: camper_age
+      label: Camper Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: camp_hours
+      label: Camp Hours
+      hint: null
+      type: select_one
+      options:
+      - 8am-4pm
+      - 4pm-8pm
+      - 8am-8pm
+      - 8am-4pm
+      - 4pm-8pm
+      required: false
+    - id: 13
+      name: camp_duration
+      label: Camp Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - 2 months
+      required: false
+    - id: 14
+      name: camp_type
+      label: Camp Type
+      hint: null
+      type: select_multiple
+      options:
+      - Arts and Crafts
+      - Music and Movement
+      - STEM Education
+      - Outdoor Adventures
+      required: false
+    - id: 15
+      name: camp_fees
+      label: Camp Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: camper_notes
+      label: Camper Notes
+      hint: null
+      type: note
+      options: []
+      required: false

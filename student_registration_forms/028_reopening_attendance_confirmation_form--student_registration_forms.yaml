@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: resources/reopening-attendance-confirmation-form
+    pages:
+    - id: 1
+      name: user_answers
+      label: Reopening Attendance Confirmation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physical_attendance
+      label: Prophets physical attendance?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes'', ''value'': ''yes''}'
+      - '{''label'': ''No'', ''value'': ''no''}'
+      required: true
+    - id: 6
+      name: attendance_date
+      label: Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: attendance_time
+      label: Attendance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

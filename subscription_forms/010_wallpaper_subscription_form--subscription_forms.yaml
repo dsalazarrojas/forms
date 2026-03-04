@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wallpaper Subscription Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Subscription Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Weekly''}'
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''Quarterly''}'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: Select a start date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: Select an end date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: frequency_2
+      label: Subscription Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Weekly''}'
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''Quarterly''}'
+      required: false
+    - id: 11
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''Quarterly''}'
+      - '{''option'': ''Yearly''}'
+      required: false
+    - id: 12
+      name: frequency_3
+      label: Subscription Frequency 3
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Weekly''}'
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''Quarterly''}'
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Bank Transfer''}'
+      - '{''option'': ''PayPal''}'
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 16
+      name: name_2
+      label: Name 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: email_2
+      label: Email 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: frequency_4
+      label: Frequency 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: subscription_frequency_2
+      label: Subscription Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: amount_2
+      label: Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: name_3
+      label: Name 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: email_3
+      label: Email 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: confirm_2
+      label: Confirm 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: name_4
+      label: Name 4
+      hint: null
+      type: text
+      options: []
+      required: false

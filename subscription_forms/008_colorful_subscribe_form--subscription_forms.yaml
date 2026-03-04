@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colorful Subscribe Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Subscriber Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_email
+      label: Email Address
+      hint: Where should we send updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: section_header_subscription_type
+      label: -- Subscription Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Choose your subscription level
+      type: select_one
+      options:
+      - Free Newsletter
+      - Basic Monthly
+      - Premium Monthly
+      - Annual Premium
+      - VIP Lifetime
+      required: true
+    - id: 5
+      name: content_preferences
+      label: Content Preferences
+      hint: What topics interest you most
+      type: select_multiple
+      options:
+      - Technology
+      - Lifestyle
+      - Health and Wellness
+      - Business
+      - Entertainment
+      - Sports
+      - Travel
+      - Food and Cooking
+      required: true
+    - id: 6
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often should we send updates
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 7
+      name: section_header_personalization
+      label: -- Personalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_format
+      label: Preferred Format
+      hint: How do you want to receive content
+      type: select_one
+      options:
+      - HTML Email
+      - Plain Text
+      - PDF Digest
+      - Mobile App Notifications
+      required: true
+    - id: 9
+      name: timezone
+      label: Your Timezone
+      hint: For scheduling deliveries
+      type: select_one
+      options:
+      - Eastern Time
+      - Central Time
+      - Mountain Time
+      - Pacific Time
+      - Alaska Time
+      - Hawaii Time
+      - International
+      required: false
+    - id: 10
+      name: favorite_topics
+      label: Favorite Topics
+      hint: Specific topics you want to see more of
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone_optional
+      label: Phone Number
+      hint: Optional - for SMS updates
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sms_updates
+      label: SMS Updates
+      hint: Would you like text message updates
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: true
+    - id: 14
+      name: promotional_emails
+      label: Promotional Emails
+      hint: Receive special offers and promotions
+      type: select_one
+      options:
+      - Yes Send Me Offers
+      - No Thanks
+      required: true
+    - id: 15
+      name: partner_sharing
+      label: Partner Sharing
+      hint: Allow sharing with trusted partners
+      type: select_one
+      options:
+      - Yes Allow
+      - No Do Not Share
+      required: true
+    - id: 16
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: For paid subscriptions
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: false
+    - id: 18
+      name: promo_code
+      label: Promo Code
+      hint: Enter discount code if available
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you find our service
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Friend Referral
+      - Advertisement
+      - Blog or Website
+      - Podcast
+      - Other
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to tell us
+      type: text
+      options: []
+      required: false

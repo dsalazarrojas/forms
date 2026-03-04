@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcasts For Children ( And Animation Fans)
+    pages:
+    - id: 1
+      name: form_id
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - summer_camps
+      - camps
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

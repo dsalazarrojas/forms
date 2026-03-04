@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: AML And TF Risk Assessment Survey
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of the organization being assessed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date when the risk assessment is conducted
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of the person conducting the assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_sector
+      label: Business Sector
+      hint: Industry or sector of the organization
+      type: select_one
+      options:
+      - Banking
+      - Insurance
+      - Securities
+      - Real Estate
+      - Money Services
+      - Other
+      required: true
+    - id: 5
+      name: customer_base_profile
+      label: Customer Base Profile
+      hint: What type of customers does the organization serve?
+      type: select_one
+      options:
+      - Individuals
+      - Businesses
+      - High Net Worth
+      - International
+      - Politically Exposed Persons
+      - Cash Intensive Businesses
+      required: true
+    - id: 6
+      name: geographic_exposure
+      label: Geographic Exposure
+      hint: Countries or regions where the organization operates
+      type: select_multiple
+      options:
+      - Domestic Only
+      - Developed Markets
+      - Emerging Markets
+      - High Risk Jurisdictions
+      - Sanctioned Countries
+      required: true
+    - id: 7
+      name: transaction_volume
+      label: Annual Transaction Volume
+      hint: Estimated annual volume of transactions processed
+      type: select_one
+      options:
+      - Low (under $1M)
+      - Medium ($1M-$10M)
+      - High ($10M-$100M)
+      - Very High (over $100M)
+      required: true
+    - id: 8
+      name: cash_transaction_percentage
+      label: Percentage of Cash Transactions
+      hint: What percentage of transactions involve cash?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: correspondent_banking
+      label: Correspondent Banking Relationships
+      hint: Does the organization have relationships with foreign banks?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: private_banking_services
+      label: Private Banking Services
+      hint: Does the organization offer private banking services?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: trade_finance_activities
+      label: Trade Finance Activities
+      hint: Is the organization involved in trade finance?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: politically_exposed_persons
+      label: Politically Exposed Persons (PEPs)
+      hint: Does the organization have clients who are PEPs?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: enhanced_due_diligence
+      label: Enhanced Due Diligence Procedures
+      hint: Are enhanced due diligence procedures in place for high-risk clients?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 14
+      name: suspicious_activity_reporting
+      label: Suspicious Activity Reporting Process
+      hint: Is there a formal process for reporting suspicious activities?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Development
+      required: true
+    - id: 15
+      name: staff_training_program
+      label: Staff Training Program
+      hint: Is there a regular training program on AML/TF risks?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Annual Only
+      required: true

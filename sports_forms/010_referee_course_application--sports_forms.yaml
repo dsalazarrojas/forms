@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Course Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referee_course
+      label: Which referee course do you want to sign up for?
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Soccer
+      - Volleyball
+      required: false
+    - id: 6
+      name: referee_course_date
+      label: Referee Course Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: referee_course_time
+      label: Referee Course Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: referee_course_duration
+      label: Referee Course Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: referee_course_instructor
+      label: Referee Course Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referee_course_comments
+      label: Referee Course Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: course_agreement
+      label: Course Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: course_agreement_date
+      label: Course Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: course_agreement_time
+      label: Course Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false

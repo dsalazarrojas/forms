@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: football_league_registration_form
+    pages:
+    - id: 1
+      name: football_league_details
+      label: football_league_details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sport
+      label: sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_range
+      label: age_range
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      required: false
+    - id: 5
+      name: registration_type
+      label: registration_type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual Registration
+      - Team Registration
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

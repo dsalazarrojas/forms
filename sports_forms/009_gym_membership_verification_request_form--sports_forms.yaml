@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Verification Request Form
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_documents
+      label: Member Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Member agrees to share personal data with the gym
+      - Member declines to share personal data with the gym
+      - Member is not sure
+      required: false
+    - id: 4
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

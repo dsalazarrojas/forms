@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conflict And Exclusivity Survey
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Full name of the employee completing this survey
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID Number
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or division
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position_title
+        label: Position Title
+        hint: Your current job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this disclosure
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: outside_employment
+        label: Do You Have Outside Employment
+        hint: Any work performed outside your primary job
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: outside_employer_details
+        label: Outside Employer Details
+        hint: Name and nature of outside employer
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: outside_hours_conflict
+        label: Does Outside Work Conflict with Company Hours
+        hint: Does external work overlap with company hours
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: false
+      - id: 9
+        name: financial_interest
+        label: Do You Have Financial Interest in Competitors
+        hint: Any ownership stake in competing businesses
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: financial_interest_details
+        label: Financial Interest Details
+        hint: Describe the nature and extent of financial interest
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: board_membership
+        label: Do You Serve on Any Board of Directors
+        hint: Board positions held outside the company
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: board_details
+        label: Board Membership Details
+        hint: List organizations and your role
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: family_employment_conflict
+        label: Do Family Members Work for Competitors
+        hint: Immediate family employed by competing organizations
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Prefer Not to Say
+        required: true
+      - id: 14
+        name: family_conflict_details
+        label: Family Conflict Details
+        hint: Describe the relationship and organization
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: vendor_relationship
+        label: Do You Have Relationship with Company Vendors
+        hint: Any personal connection to suppliers or vendors
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: vendor_relationship_details
+        label: Vendor Relationship Details
+        hint: Describe the nature of the relationship
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: client_supplier_interest
+        label: Do You Have Interest in Company Clients or Suppliers
+        hint: Financial or personal interest in business partners
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 18
+        name: client_supplier_details
+        label: Client or Supplier Interest Details
+        hint: Describe the interest and organization
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: confidential_information_use
+        label: Have You Used Confidential Information for Personal Gain
+        hint: Any misuse of company confidential information
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: confidential_info_details
+        label: Confidential Information Details
+        hint: Explain the circumstances if applicable
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: exclusivity_agreement
+        label: Are You Subject to an Exclusivity Agreement
+        hint: Any agreement limiting your work with others
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 22
+        name: exclusivity_details
+        label: Exclusivity Agreement Details
+        hint: Describe the terms and parties involved
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: non_compete_agreement
+        label: Are You Bound by a Non-Compete Agreement
+        hint: Any non-compete from previous employment
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 24
+        name: non_compete_details
+        label: Non-Compete Agreement Details
+        hint: Describe the scope and duration
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_disclosures
+        label: Additional Disclosures
+        hint: Any other potential conflicts to disclose
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: declaration_accuracy
+        label: I Declare This Information is Accurate
+        hint: Confirmation of truthfulness
+        type: select_one
+        options:
+          - Yes - I Confirm
+          - No
+        required: true

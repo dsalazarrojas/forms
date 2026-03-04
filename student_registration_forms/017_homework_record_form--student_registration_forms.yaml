@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Record Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: assignment_id
+      label: Assignment Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_user_id
+      label: Submitted User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

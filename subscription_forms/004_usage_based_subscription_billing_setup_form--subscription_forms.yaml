@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Usage Based Subscription Billing Setup Form
+    pages:
+    - id: 1
+      name: plan_name
+      label: Plan Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: metering_frequency
+      label: Metering Frequency
+      hint: null
+      type: select_one
+      options:
+      - Billing Period
+      - Meter
+      - Usage
+      required: false
+    - id: 3
+      name: plan_price
+      label: Plan Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorize.Net
+      required: false
+    - id: 7
+      name: payment_gateway_account
+      label: Payment Gateway Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: billing_terms
+      label: Billing Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: internal_handoffs
+      label: Internal Handoffs
+      hint: null
+      type: select_multiple
+      options:
+      - Onboarding
+      - Billing
+      - Support
+      required: false
+    - id: 11
+      name: internal_handoffs_email
+      label: Internal Handoffs Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: internal_handoffs_phone
+      label: Internal Handoffs Phone
+      hint: null
+      type: text
+      options: []
+      required: false

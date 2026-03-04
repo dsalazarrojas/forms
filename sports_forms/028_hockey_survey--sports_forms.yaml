@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hockey Survey
+    pages:
+    - id: 1
+      name: hockey_experience
+      label: hockey experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_habits
+      label: training habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_preferences
+      label: equipment preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_played
+      label: game played
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team_participation
+      label: team participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: practice_frequency
+      label: practice frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

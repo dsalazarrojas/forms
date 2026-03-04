@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: wrestling_medical_release_form
+    pages:
+    - id: 1
+      name: wrestler_info
+      label: wrestler_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: concussion_concussion
+      label: concussion_concussion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: head_injury
+      label: head_injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: knee_injury
+      label: knee_injury
+      hint: null
+      type: select_multiple
+      options:
+      - Left
+      - Right
+      - Neither
+      required: false
+    - id: 6
+      name: medical_providers
+      label: medical_providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Penicillin allergy
+      - Pain relievers
+      - Adrenaline
+      - Latex
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_name
+      label: emergency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_address
+      label: emergency_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_relationship
+      label: emergency_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_other
+      label: emergency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_providers
+      label: medical_providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: parent_or_guardian_signature
+      label: parent_or_guardian_signature
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      required: false
+    - id: 21
+      name: emergency_parent_or_guardian_signature
+      label: emergency_parent_or_guardian_signature
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Communication Awareness Survey
+    pages:
+    - id: 1
+      name: risk_communication_awareness_survey
+      label: Risk Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Assessment Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_communication_strategy_participants_understand
+      label: participants_understand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_communication_strategy_organizations_implement
+      label: organizations_implement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_communication_strategy_organizations_understand
+      label: organizations_understand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_communication_strategy_participants_agree
+      label: participants_agree
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Strongly Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 8
+      name: participant_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: submitted
+      hint: null
+      type: date
+      options: []
+      required: false

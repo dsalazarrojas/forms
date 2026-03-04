@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tuition Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reimbursement_request
+      label: Reimbursement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reimbursement_details
+      label: Reimbursement Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: Enter the total reimbursement amount.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reimbursement_reason
+      label: Reimbursement Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_manager_signature
+      label: Department Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_manager_name
+      label: Department Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_manager_title
+      label: Department Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false

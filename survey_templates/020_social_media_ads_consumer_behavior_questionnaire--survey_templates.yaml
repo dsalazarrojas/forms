@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: social-media-ads-consumer-behavior-questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trust_in_social_media
+      label: trust in social media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ad_trust_ads
+      label: ad trust
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ad_engagement_ads
+      label: ad engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ad_engagement_ads_2
+      label: how often do you engage with ads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: purchase_intent_ads
+      label: purchase intent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchase_intent_ads_2
+      label: how often do you buy after seeing ads
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ad_trust_factors
+      label: what factors affect ad trust
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: engagement_factors_ads
+      label: what factors affect ad engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: purchase_factors_ads
+      label: what factors affect purchase intent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: demographics_1
+      label: demographics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 13
+      name: age_range
+      label: age
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 14
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: income_range_1
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: purchase_habit_ads
+      label: purchase habit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: purchase_habit_ads_2
+      label: how often do you make purchases online
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: purchase_ads_satisfaction
+      label: satisfaction with ads
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 20
+      name: purchase_ads_satisfaction_2
+      label: how satisfied are you with ads
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

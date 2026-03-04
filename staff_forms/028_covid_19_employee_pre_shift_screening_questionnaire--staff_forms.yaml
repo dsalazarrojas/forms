@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Employee Pre Shift Screening Questionnaire
+    pages:
+    - id: 1
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: screening_time
+      label: Screening Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shift_time
+      label: Shift Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_1
+      label: -- Symptom Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: temperature_check
+      label: Temperature Check Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: temperature_reading
+      label: Temperature Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: fever
+      label: Do you have a fever?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: cough
+      label: Do you have a persistent cough?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: difficulty_breathing
+      label: Do you have difficulty breathing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: body_aches
+      label: Do you have muscle or body aches?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: headache
+      label: Do you have a headache?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: loss_taste_smell
+      label: Loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: section_header_2
+      label: -- Exposure Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: covid_exposure
+      label: Close contact with confirmed COVID-19 case in last 14 days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: household_illness
+      label: Anyone in your household has COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: section_header_3
+      label: -- Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cleared_to_work
+      label: Cleared to Work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: screening_staff
+      label: Screening Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: notes
+      label: Notes or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I acknowledge the information is truthful and accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

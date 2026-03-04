@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Relief Supply Requisition Form
+    pages:
+    - id: 1
+      name: section_requisition_info
+      label: -- Requisition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requisition_date
+      label: Date of Requisition
+      hint: When is this request being made
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requisition_number
+      label: Requisition Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_name
+      label: Requester Name
+      hint: Who is making this request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_contact
+      label: Requester Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_organization
+      label: Organization or Location
+      hint: Which location needs supplies
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_urgency
+      label: -- Urgency Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: urgency_level
+      label: Urgency Level
+      hint: How critical is this request
+      type: select_one
+      options:
+      - Immediate - Within 24 hours
+      - Urgent - Within 48 hours
+      - High - Within 1 week
+      - Standard - Within 2 weeks
+      required: true
+    - id: 9
+      name: emergency_justification
+      label: Justification if Urgent
+      hint: Explain why urgent action is needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: needed_by_date
+      label: Date Needed By
+      hint: When are supplies needed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_supplies
+      label: -- Supply Items Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: supply_category
+      label: Category of Supplies
+      hint: What type of relief supplies
+      type: select_one
+      options:
+      - Food and Water
+      - Medical Supplies
+      - Clothing and Bedding
+      - Hygiene Products
+      - Tools and Equipment
+      - Emergency Shelters
+      - Mixed Relief Items
+      required: true
+    - id: 13
+      name: item_1_name
+      label: Item 1 - Product Name
+      hint: Specific item needed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: How many needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: item_1_unit
+      label: Item 1 - Unit
+      hint: Boxes, Cases, Units, etc
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: item_2_name
+      label: Item 2 - Product Name
+      hint: Optional second item
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: How many of item 2
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_2_unit
+      label: Item 2 - Unit
+      hint: Boxes, Cases, Units, etc
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: delivery_location
+      label: Delivery Location
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_contact
+      label: Delivery Contact Person
+      hint: Who should receive supplies
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: delivery_phone
+      label: Delivery Location Phone
+      hint: Contact at delivery location
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_handling
+      label: Special Handling or Storage Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Volunteer Consent Form For Summer Camp
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: camp_name
+      label: Summer Camp Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camp_session
+      label: Camp Session or Dates
+      hint: When volunteering
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Unvaccinated
+      - Prefer not to answer
+      required: true
+    - id: 10
+      name: vaccine_type
+      label: Vaccine Type Received
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vaccination_date
+      label: Date of Last Vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: covid_symptoms
+      label: Currently Have COVID-19 Symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: covid_exposure
+      label: Recent Exposure to COVID-19
+      hint: Within past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: previous_covid
+      label: Previous COVID-19 Infection
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 15
+      name: acknowledge_risks
+      label: I acknowledge the risks of COVID-19 transmission
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 16
+      name: follow_protocols
+      label: I agree to follow camp COVID-19 safety protocols
+      hint: Masking, distancing, hygiene etc.
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: liability_waiver
+      label: I waive liability for COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: volunteer_signature
+      label: Volunteer Signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

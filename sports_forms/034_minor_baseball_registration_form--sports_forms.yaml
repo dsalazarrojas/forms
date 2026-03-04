@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minor Baseball Registration Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_permission
+      label: Parent Permission
+      hint: Check if under 18
+      type: select_multiple
+      options:
+      - I have permission
+      - 'No'
+      required: true
+    - id: 6
+      name: player_type
+      label: Player Type
+      hint: null
+      type: select_one
+      options:
+      - Player
+      - Coach
+      - Umpire
+      required: false
+    - id: 7
+      name: jersey_number
+      label: Jersey Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: division_id
+      label: Division ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: division_name
+      label: Division Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: league_id
+      label: League ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: season_id
+      label: Season ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: season_name
+      label: Season Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: player_name_alias
+      label: Player Name Alias
+      hint: null
+      type: text
+      options: []
+      required: false

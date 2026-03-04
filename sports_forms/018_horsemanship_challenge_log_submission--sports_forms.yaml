@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Horsemanship Challenge Log Submission
+    pages:
+    - id: 1
+      name: title
+      label: Horsemanship Challenge Log Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rider
+      label: rider
+      hint: Name of the horse or rider competing.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_distance
+      label: Session Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_reflections
+      label: Session Reflections
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: media_attachment
+      label: Media Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: media_url
+      label: Media URL
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: rider_notes
+      label: Rider Notes
+      hint: Notes about the challenge session or rider.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trainer_notes
+      label: Trainer Notes
+      hint: Notes about the challenge session or trainer.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organizer_notes
+      label: Organizer Notes
+      hint: Notes about the challenge session or organizer.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 19
+      name: challenge_level
+      label: Challenge Level
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: rider_score
+      label: Rider Score
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: trainer_score
+      label: Trainer Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: session_weather
+      label: Session Weather
+      hint: Weather conditions during the challenge session.
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: session_notes
+      label: Session Notes
+      hint: Notes about the challenge session.
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_ip
+      label: Submitted IP
+      hint: null
+      type: text
+      options: []
+      required: false

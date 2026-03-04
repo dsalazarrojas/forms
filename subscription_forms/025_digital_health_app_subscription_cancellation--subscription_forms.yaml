@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Health App Subscription Cancellation
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason for Cancellation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Cancel my subscription
+      - Do not cancel my subscription
+      required: true
+    - id: 7
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: Please enter the date of cancellation
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - I confirm I want to cancel my subscription
+      - I do not confirm
+      required: true
+    - id: 9
+      name: cancellation_details
+      label: Cancellation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

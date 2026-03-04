@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Integer Comparison Quiz
+    pages:
+    - id: 1
+      name: compare_first_int
+      label: compare_first
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: compare_second_int
+      label: compare_second
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_type
+      label: question_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: correct_answer_type
+      label: correct_answer_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question
+      label: question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit_text
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: feedback_text
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: correct_question_type
+      label: correct_question_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

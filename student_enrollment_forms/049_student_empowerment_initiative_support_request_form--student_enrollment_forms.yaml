@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Empowerment Initiative Support Request Form
+    pages:
+    - id: 1
+      name: student_empowerment_initiative_support_request_form
+      label: student_enrollment_forms_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: support_initiative
+      label: support_initiative
+      hint: null
+      type: select_one
+      options:
+      - Initiative 1
+      - Initiative 2
+      - Initiative 3
+      required: false
+    - id: 6
+      name: program_details
+      label: program_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_request_type
+      label: support_request_type
+      hint: null
+      type: select_multiple
+      options:
+      - Request for initiative 1 support
+      - Request for initiative 2 support
+      - Request for initiative 3 support
+      required: false
+    - id: 9
+      name: requested_support_duration
+      label: requested_support_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Knowledge Assessment
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your student identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your school or personal email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Which aviation course are you taking
+      type: select_one
+      options:
+      - Private Pilot Ground School
+      - Instrument Rating
+      - Commercial Pilot
+      - ATP Certification
+      - Aircraft Maintenance
+      - Air Traffic Control
+      - Aviation Management
+      - Other
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Your current instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assessment_type
+      label: Assessment Type
+      hint: What type of assessment is this
+      type: select_one
+      options:
+      - Pre-test
+      - Post-test
+      - Midterm exam
+      - Final exam
+      - Knowledge check
+      - Practical exam prep
+      - Self-assessment
+      required: true
+    - id: 8
+      name: flight_hours_total
+      label: Total Flight Hours
+      hint: Your current total flight hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pilot_certificate
+      label: Current Pilot Certificate
+      hint: Your current certification level
+      type: select_one
+      options:
+      - None - student only
+      - Student pilot
+      - Sport pilot
+      - Recreational pilot
+      - Private pilot
+      - Commercial pilot
+      - ATP
+      required: false
+    - id: 10
+      name: aircraft_category_rating
+      label: Aircraft Category Ratings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Single-engine land
+      - Multi-engine land
+      - Single-engine sea
+      - Multi-engine sea
+      - Helicopter
+      - Glider
+      - None
+      required: false
+    - id: 11
+      name: knowledge_area_1
+      label: Federal Aviation Regulations Rating
+      hint: Rate your knowledge of FARs
+      type: select_one
+      options:
+      - Excellent - very confident
+      - Good - mostly confident
+      - Fair - need review
+      - Poor - need significant study
+      - No knowledge
+      required: true
+    - id: 12
+      name: knowledge_area_2
+      label: Aircraft Systems Knowledge Rating
+      hint: Rate your knowledge of aircraft systems
+      type: select_one
+      options:
+      - Excellent - very confident
+      - Good - mostly confident
+      - Fair - need review
+      - Poor - need significant study
+      - No knowledge
+      required: true
+    - id: 13
+      name: knowledge_area_3
+      label: Weather Knowledge Rating
+      hint: Rate your meteorology knowledge
+      type: select_one
+      options:
+      - Excellent - very confident
+      - Good - mostly confident
+      - Fair - need review
+      - Poor - need significant study
+      - No knowledge
+      required: true
+    - id: 14
+      name: knowledge_area_4
+      label: Navigation Knowledge Rating
+      hint: Rate your navigation knowledge
+      type: select_one
+      options:
+      - Excellent - very confident
+      - Good - mostly confident
+      - Fair - need review
+      - Poor - need significant study
+      - No knowledge
+      required: true
+    - id: 15
+      name: knowledge_area_5
+      label: Performance and Limitations Rating
+      hint: Rate your knowledge in this area
+      type: select_one
+      options:
+      - Excellent - very confident
+      - Good - mostly confident
+      - Fair - need review
+      - Poor - need significant study
+      - No knowledge
+      required: true
+    - id: 16
+      name: knowledge_area_6
+      label: Emergency Procedures Rating
+      hint: Rate your emergency procedures knowledge
+      type: select_one
+      options:
+      - Excellent - very confident
+      - Good - mostly confident
+      - Fair - need review
+      - Poor - need significant study
+      - No knowledge
+      required: true
+    - id: 17
+      name: study_time_per_week
+      label: Hours Studied Per Week
+      hint: Average weekly study time
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: learning_style
+      label: Preferred Learning Style
+      hint: How do you learn best
+      type: select_one
+      options:
+      - Visual (diagrams, videos)
+      - Auditory (lectures, discussions)
+      - Reading/writing (manuals, notes)
+      - Kinesthetic (hands-on practice)
+      - Mixed approach
+      required: true
+    - id: 19
+      name: confidence_level
+      label: Overall Confidence Level
+      hint: How confident do you feel about the material
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident at all
+      required: true
+    - id: 20
+      name: areas_needing_improvement
+      label: Areas Needing Improvement
+      hint: Which topics do you need to study more
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_resources_needed
+      label: Additional Resources Needed
+      hint: What would help you learn better
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instructor_feedback_request
+      label: Would You Like Instructor Feedback
+      hint: Should your instructor contact you
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 23
+      name: goals_statement
+      label: Your Aviation Goals
+      hint: Briefly describe your aviation career goals
+      type: text
+      options: []
+      required: false

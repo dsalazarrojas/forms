@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: goods_movement_record_form
+    pages:
+    - id: 1
+      name: goods_movement
+      label: Goods Movement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goods_type
+      label: Goods Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: movement_type
+      label: Movement Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: warehouse
+      label: Warehouse
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: movement_date
+      label: Movement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipment_id
+      label: Shipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goods_description
+      label: Goods Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: movement_quantity
+      label: Movement Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: goods_weight
+      label: Goods Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: goods_size
+      label: Goods Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: goods_color
+      label: Goods Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: supplier
+      label: Supplier
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: goods_status
+      label: Goods Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

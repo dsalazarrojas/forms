@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batting Lesson Scheduling Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_age
+      label: Player Age
+      hint: How old is player
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: player_grade
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      - Adult
+      required: true
+    - id: 7
+      name: skill_level
+      label: Skill Level
+      hint: Current ability
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Competitive
+      required: true
+    - id: 8
+      name: years_playing
+      label: Years Playing Baseball or Softball
+      hint: Experience level
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5+ years
+      required: true
+    - id: 9
+      name: primary_position
+      label: Primary Position
+      hint: Where do you play
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Infielder
+      - Outfielder
+      - Designated Hitter
+      - Multiple Positions
+      required: false
+    - id: 10
+      name: lesson_type
+      label: Lesson Type
+      hint: What type of lesson
+      type: select_one
+      options:
+      - Private One-on-One
+      - Small Group
+      - Team Session
+      - Hitting Only
+      - Fielding Only
+      - Complete Skills
+      required: true
+    - id: 11
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: Time slot
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: coach_preference
+      label: Coach Preference
+      hint: Specific coach if any
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: focus_areas
+      label: Areas to Focus On
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Swing Mechanics
+      - Bat Speed
+      - Pitch Recognition
+      - Plate Discipline
+      - Power Hitting
+      - Contact Hitting
+      - Bunting
+      - Mental Approach
+      required: true
+    - id: 16
+      name: equipment_needed
+      label: Equipment Needed
+      hint: What to bring
+      type: select_one
+      options:
+      - Bring Own Bat and Helmet
+      - Rent Equipment
+      - Facility Provides All
+      required: true
+    - id: 17
+      name: previous_injuries
+      label: Previous Injuries
+      hint: Any relevant injuries
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: goals
+      label: Goals for Lessons
+      hint: What do you want to improve
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: package_selection
+      label: Lesson Package
+      hint: Which package
+      type: select_one
+      options:
+      - Single Lesson
+      - 5 Lesson Package
+      - 10 Lesson Package
+      - Monthly Unlimited
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

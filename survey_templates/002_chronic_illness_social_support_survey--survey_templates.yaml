@@ -1,0 +1,245 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Social Support Survey
+    pages:
+      - id: 1
+        name: section_header_demographics
+        label: -- Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - 18-30
+          - 31-45
+          - 46-60
+          - 61-75
+          - 76+
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: null
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to self-describe
+          - Prefer not to say
+        required: false
+      - id: 4
+        name: marital_status
+        label: Marital Status
+        hint: null
+        type: select_one
+        options:
+          - Single
+          - Married
+          - Divorced
+          - Widowed
+          - In a relationship
+        required: false
+      - id: 5
+        name: section_header_support_sources
+        label: -- Support Sources --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: family_support
+        label: How satisfied are you with family support
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat unsatisfied
+          - Very unsatisfied
+          - Not applicable
+        required: true
+      - id: 7
+        name: friend_support
+        label: How satisfied are you with friend support
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat unsatisfied
+          - Very unsatisfied
+          - Not applicable
+        required: true
+      - id: 8
+        name: healthcare_provider_support
+        label: How satisfied are you with healthcare provider support
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat unsatisfied
+          - Very unsatisfied
+        required: true
+      - id: 9
+        name: support_types_received
+        label: Types of Support You Receive (Select all that apply)
+        hint: What forms of support are most helpful to you
+        type: select_multiple
+        options:
+          - Emotional support
+          - Practical help with daily tasks
+          - Financial assistance
+          - Transportation
+          - Companionship
+          - Medical information
+          - Spiritual support
+        required: true
+      - id: 10
+        name: most_helpful_support
+        label: What type of support is MOST helpful to you
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: section_header_support_needs
+        label: -- Support Needs and Gaps --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: support_adequacy
+        label: Do you feel you have adequate support for your condition
+        hint: null
+        type: select_one
+        options:
+          - Yes, I have adequate support
+          - Somewhat adequate
+          - I need more support
+          - I need significantly more support
+        required: true
+      - id: 13
+        name: support_gaps
+        label: Areas Where You Need More Support (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - Emotional support
+          - Financial assistance
+          - Practical help
+          - Medical information
+          - Social connection
+          - Mental health support
+          - Work-related accommodations
+        required: false
+      - id: 14
+        name: support_barriers
+        label: Barriers to Getting Support (Select all that apply)
+        hint: What prevents you from getting needed support
+        type: select_multiple
+        options:
+          - Limited resources
+          - Geographic isolation
+          - Lack of aware of services
+          - Stigma or shame
+          - Transportation issues
+          - Language barriers
+          - Difficulty asking for help
+        required: false
+      - id: 15
+        name: section_header_isolation
+        label: -- Social Connection and Isolation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: social_connection_frequency
+        label: How often do you feel socially connected
+        hint: null
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 17
+        name: loneliness_impact
+        label: How much has your illness affected your social life
+        hint: null
+        type: select_one
+        options:
+          - No impact
+          - Minimal impact
+          - Moderate impact
+          - Significant impact
+          - Severe impact
+        required: true
+      - id: 18
+        name: ability_to_participate
+        label: Your ability to participate in activities you enjoy
+        hint: null
+        type: select_one
+        options:
+          - Not affected
+          - Slightly affected
+          - Moderately affected
+          - Significantly affected
+          - Unable to participate
+        required: true
+      - id: 19
+        name: section_header_suggestions
+        label: -- Feedback and Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: improved_support
+        label: What would improve your support experience
+        hint: Please describe any suggestions or needs
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: willing_to_share_more
+        label: Would you be willing to participate in a follow-up interview
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+          - 'Maybe'
+        required: false
+      - id: 22
+        name: contact_email
+        label: Email for Follow-up (Optional)
+        hint: Only if you selected Yes or Maybe above
+        type: email
+        options: []
+        required: false

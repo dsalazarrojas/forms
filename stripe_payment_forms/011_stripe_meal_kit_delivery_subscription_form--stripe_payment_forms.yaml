@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_meal_kit_delivery_subscription_form
+    pages:
+    - id: 1
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''January''}'
+      - '{2: ''February''}'
+      - '{3: ''March''}'
+      - '{4: ''April''}'
+      - '{5: ''May''}'
+      - '{6: ''June''}'
+      - '{7: ''July''}'
+      - '{8: ''August''}'
+      - '{9: ''September''}'
+      - '{10: ''October''}'
+      - '{11: ''November''}'
+      - '{12: ''December''}'
+      required: false
+    - id: 8
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cvv
+      label: CVV
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: 1}'
+      - '{2: 2}'
+      - '{3: 3}'
+      - '{4: 4}'
+      - '{5: 5}'
+      - '{6: 6}'
+      - '{7: 7}'
+      - '{8: 8}'
+      - '{9: 9}'
+      - '{10: 10}'
+      required: false
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

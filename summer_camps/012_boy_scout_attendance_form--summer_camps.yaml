@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scout Attendance Form
+    pages:
+      - id: 1
+        name: meeting_date
+        label: Meeting date
+        hint: Date of meeting or event
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: scout_name
+        label: Scout name
+        hint: Full name of scout
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: troop_number
+        label: Troop number
+        hint: Assigned troop identifier
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: attendance_status
+        label: Attendance status
+        hint: Mark present or absent
+        type: select_one
+        options:
+          - Present
+          - Absent
+          - Excused
+        required: true
+      - id: 5
+        name: arrival_time
+        label: Arrival time
+        hint: Optional time of arrival
+        type: time
+        options: []
+        required: false
+      - id: 6
+        name: departure_time
+        label: Departure time
+        hint: Optional time of departure
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: notes
+        label: Notes
+        hint: Any special information about attendance
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: leader_initials
+        label: Leader initials
+        hint: Signing leader initials for record
+        type: text
+        options: []
+        required: true

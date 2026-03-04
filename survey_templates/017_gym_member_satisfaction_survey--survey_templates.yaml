@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_member_satisfaction_survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Gym Member Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 5}'
+      - '{''label'': 4}'
+      - '{''label'': 3}'
+      - '{''label'': 2}'
+      - '{''label'': 1}'
+      required: false
+    - id: 3
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: staff_attitude
+      label: Staff Attitude
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: facilities_quality
+      label: Facilities Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 10
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 11
+      name: parking
+      label: Parking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 12
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 13
+      name: overall_impression
+      label: Overall Impression
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Negative''}'
+      required: false
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: member_since
+      label: Member Since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''2-3 times a week''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 21
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''First time''}'
+      - '{''label'': ''Second time''}'
+      - '{''label'': ''Third time''}'
+      - '{''label'': ''Fourth or more time''}'
+      required: false
+    - id: 23
+      name: staff_interaction
+      label: Staff Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 24
+      name: staff_helpfulness_rating
+      label: Staff Helpfulness Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 25
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Canceled''}'
+      required: false

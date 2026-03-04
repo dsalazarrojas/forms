@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shift Pass On Form
+    pages:
+    - id: 1
+      name: next_shift
+      label: next shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: shift_start_time
+      label: shift start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: staff_members
+      label: staff members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''shift leader''}'
+      - senior staff
+      - junior staff
+      required: false
+    - id: 4
+      name: replacement_shift
+      label: replacement shift
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''morning''}'
+      - afternoons
+      - night
+      required: false
+    - id: 5
+      name: replacement_shift_staff
+      label: replacement shift staff
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''shift leader''}'
+      - senior staff
+      - junior staff
+      required: false
+    - id: 6
+      name: replacement_shift_staff_name
+      label: replacement shift staff name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: shift
+      label: shift
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''morning''}'
+      - afternoons
+      - night
+      required: false
+    - id: 10
+      name: shift_start_time
+      label: shift start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: staff
+      label: staff
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''shift leader''}'
+      - senior staff
+      - junior staff
+      required: false
+    - id: 12
+      name: replacement_shift_staff_name
+      label: replacement shift staff name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: replacement_shift_start_time
+      label: replacement shift start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: replacement_staff
+      label: replacement staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''shift leader''}'
+      - senior staff
+      - junior staff
+      required: false
+    - id: 15
+      name: replacement_shift_start
+      label: replacement shift start
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''morning''}'
+      - afternoon
+      - night
+      required: false
+    - id: 16
+      name: replacement_staff
+      label: replacement staff
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''shift leader''}'
+      - senior staff
+      - junior staff
+      required: false
+    - id: 17
+      name: replacement_shift
+      label: replacement shift
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''morning''}'
+      - afternoons
+      - night
+      required: false
+    - id: 18
+      name: next_shift
+      label: next shift
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''morning''}'
+      - afternoon
+      - night
+      required: false
+    - id: 19
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: staff_member
+      label: staff member
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''shift leader''}'
+      - senior staff
+      - junior staff
+      required: false
+    - id: 23
+      name: replacement_shift_name
+      label: replacement shift name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: replacement_staff_name
+      label: replacement staff name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

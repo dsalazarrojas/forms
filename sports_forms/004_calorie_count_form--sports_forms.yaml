@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calorie Count Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 4
+      name: height
+      label: Height in cm
+      hint: Your height in centimeters
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: weight
+      label: Current Weight in kg
+      hint: Your current weight in kilograms
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: activity_level
+      label: Activity Level
+      hint: How active are you on a typical day
+      type: select_one
+      options:
+      - Sedentary - little or no exercise
+      - Lightly active - 1-3 days per week
+      - Moderately active - 3-5 days per week
+      - Very active - 6-7 days per week
+      - Extremely active - physical job plus training
+      required: true
+    - id: 7
+      name: fitness_goal
+      label: Primary Fitness Goal
+      hint: What is your main objective
+      type: select_one
+      options:
+      - Weight loss
+      - Muscle gain
+      - Maintain current weight
+      - Improve athletic performance
+      - Better overall health
+      - Train for an event
+      required: true
+    - id: 8
+      name: daily_meals
+      label: How many meals do you eat per day
+      hint: Include snacks
+      type: select_one
+      options:
+      - 1-2 meals
+      - 3 meals
+      - 4-5 meals
+      - 6 or more meals
+      required: true
+    - id: 9
+      name: breakfast_items
+      label: Breakfast Foods and Beverages
+      hint: List what you typically eat for breakfast
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lunch_items
+      label: Lunch Foods and Beverages
+      hint: List what you typically eat for lunch
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dinner_items
+      label: Dinner Foods and Beverages
+      hint: List what you typically eat for dinner
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: snack_items
+      label: Snacks Throughout the Day
+      hint: List your typical snacks
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beverage_consumption
+      label: Daily Beverage Consumption
+      hint: What and how much do you drink daily
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Shellfish allergy
+      - Soy allergy
+      - Other
+      required: true
+    - id: 15
+      name: eating_out_frequency
+      label: How often do you eat at restaurants
+      hint: Select frequency
+      type: select_one
+      options:
+      - Never
+      - 1-2 times per month
+      - 1-2 times per week
+      - 3-5 times per week
+      - Daily
+      required: true
+    - id: 16
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How many alcoholic drinks per week
+      type: select_one
+      options:
+      - None
+      - 1-3 drinks
+      - 4-7 drinks
+      - 8-14 drinks
+      - 15 or more drinks
+      required: false
+    - id: 17
+      name: water_intake
+      label: Daily Water Intake
+      hint: How many glasses of water per day
+      type: select_one
+      options:
+      - Less than 2 glasses
+      - 2-4 glasses
+      - 5-7 glasses
+      - 8-10 glasses
+      - More than 10 glasses
+      required: true
+    - id: 18
+      name: health_conditions
+      label: Existing Health Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Diabetes
+      - High blood pressure
+      - Heart disease
+      - Thyroid issues
+      - Digestive disorders
+      - Eating disorder history
+      - Other
+      required: false
+    - id: 19
+      name: medications
+      label: Current Medications or Supplements
+      hint: List any medications or supplements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nutrition_goals
+      label: Specific Nutrition Goals
+      hint: What do you want to achieve nutritionally
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: food_preferences
+      label: Foods You Love
+      hint: Foods you enjoy and want to keep in your diet
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: foods_to_avoid
+      label: Foods You Dislike or Want to Avoid
+      hint: Foods you do not want in your meal plan
+      type: text
+      options: []
+      required: false

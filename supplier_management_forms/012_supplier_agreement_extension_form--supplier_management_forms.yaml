@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Agreement Extension Form
+    pages:
+    - id: 1
+      name: supplier
+      label: Supplier
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: extension_date
+      label: Extension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: supplier_id
+      label: Supplier ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Promotion Interest Form
+    pages:
+    - id: 1
+      name: promotion_intro_note
+      label: -- Support Our Community Promotion --
+      hint: Help us spread the word about what makes our community great!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: promoter_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: promoter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: promoter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: promoter_organization
+      label: Associated Organization or Business
+      hint: Optional.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: initiative_interest_selection
+      label: Which initiatives are you interested in promoting?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Upcoming Local Events
+      - Volunteer Opportunities
+      - Community Fundraising
+      - Support Local Businesses
+      - New Resident Programs
+      - Environmental Projects
+      required: true
+    - id: 7
+      name: promotional_method_support
+      label: How can you help us with promotion?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Social Media Posting
+      - Flyer and Poster Distribution
+      - Word of Mouth
+      - Emailing My Network
+      - Writing Blog Posts or Articles
+      - Public Speaking
+      required: true
+    - id: 8
+      name: background_experience_text
+      label: Tell us more about your background in promotion or community work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weekly_hours_dedication
+      label: Weekly hours you can dedicate to promotion
+      hint: Choose your commitment level.
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - More than 5 hours
+      required: true
+    - id: 10
+      name: social_media_following_check
+      label: Do you have a significant social media following?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: social_media_handles_info
+      label: Please provide your social media handles
+      hint: Required if you answered Yes above.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: strategy_team_interest
+      label: Would you like to join our promotional strategy team?
+      hint: Help us plan and coordinate campaigns.
+      type: select_one
+      options:
+      - Yes - I - m in!
+      - No - Not at this time
+      required: true
+    - id: 13
+      name: additional_support_ideas_text
+      label: Other ways you - d like to support the community
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_consent_agreement
+      label: I agree to be contacted for promotional opportunities.
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: next_steps_note
+      label: -- Next Steps --
+      hint: We will reach out within 48 hours to discuss how we can work together.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: application_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

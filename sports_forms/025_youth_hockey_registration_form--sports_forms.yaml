@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Hockey Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_info
+      label: program_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: jersey_size
+      label: Jersey Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: jersey_color
+      label: Jersey Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_notes
+      label: Emergency Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: coach_info
+      label: Coach Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: true

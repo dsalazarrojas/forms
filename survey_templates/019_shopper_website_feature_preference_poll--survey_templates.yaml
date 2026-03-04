@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shopper Website Feature Preference Poll
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feature_improvement
+      label: How important is improving the following feature?
+      hint: null
+      type: select_multiple
+      options:
+      - Website navigation
+      - Search functionality
+      - Product recommendations
+      - Order tracking
+      - Checkout process
+      required: false
+    - id: 3
+      name: feature_satisfaction
+      label: How satisfied are you with the following features?
+      hint: null
+      type: select_multiple
+      options:
+      - Website navigation
+      - Search functionality
+      - Product recommendations
+      - Order tracking
+      - Checkout process
+      required: false
+    - id: 4
+      name: priority_improvement
+      label: Priority improvement features
+      hint: null
+      type: select_one
+      options:
+      - Website navigation
+      - Search functionality
+      - Product recommendations
+      - Order tracking
+      - Checkout process
+      required: false
+    - id: 5
+      name: priority_improvement_other
+      label: Specify other improvement features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_other
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_other
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

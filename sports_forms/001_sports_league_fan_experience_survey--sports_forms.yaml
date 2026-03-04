@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_league_fan_experience_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: how_many_games_attended
+      label: how many games have you attended
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: attendance_frequency
+      label: how often do you visit our sports venue
+      hint: null
+      type: select_one
+      options:
+      - stadium
+      - arena
+      - field
+      - other
+      required: false
+    - id: 4
+      name: game_day_experiences
+      label: what do you do during a game day?
+      hint: null
+      type: select_multiple
+      options:
+      - watch game
+      - eat and drink
+      - buy merchandise
+      - take photos
+      - socialize
+      required: false
+    - id: 5
+      name: satisfaction
+      label: how satisfied are you with our sports experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: improvement_area
+      label: what would you like to improve on our sports experience?
+      hint: null
+      type: select_multiple
+      options:
+      - parking
+      - concessions
+      - merchandise
+      - staff
+      - other
+      required: false
+    - id: 7
+      name: contact_us
+      label: contact us
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_media_links
+      label: social media links
+      hint: null
+      type: select_multiple
+      options:
+      - instagram
+      - twitter
+      - facebook
+      - snapchat
+      required: false
+    - id: 10
+      name: favorite_team
+      label: which team is your favorite
+      hint: null
+      type: select_one
+      options:
+      - home team
+      - away team
+      - neither
+      required: false
+    - id: 11
+      name: feedback
+      label: any additional feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: survey_completed
+      label: survey completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: survey_started
+      label: survey started
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: survey_finished
+      label: survey finished
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: survey_time_spend
+      label: survey time spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: accessibility
+      label: accessibility
+      hint: null
+      type: select_one
+      options:
+      - wheelchair
+      - mobility scooter
+      - other
+      - none
+      required: false
+    - id: 19
+      name: sponsorship
+      label: sponsorship
+      hint: null
+      type: select_one
+      options:
+      - main sponsor
+      - secondary sponsor
+      - none
+      - both
+      required: false
+    - id: 20
+      name: partners
+      label: partners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parking
+      label: parking
+      hint: null
+      type: select_multiple
+      options:
+      - parking lot
+      - parking garage
+      - none
+      required: false
+    - id: 22
+      name: accessibility_features
+      label: accessibility features
+      hint: null
+      type: select_multiple
+      options:
+      - accessible entrance
+      - accessible concession stand
+      - accessible restrooms
+      - none
+      required: false
+    - id: 23
+      name: accessibility_equipment
+      label: accessibility equipment
+      hint: null
+      type: select_multiple
+      options:
+      - wheelchair accessibility
+      - hearing assistance
+      - sign language
+      - none
+      required: false
+    - id: 24
+      name: accessibility_facility
+      label: accessibility facility
+      hint: null
+      type: select_multiple
+      options:
+      - accessible entrance
+      - accessible concession stand
+      - accessible restrooms
+      - none
+      required: false
+    - id: 25
+      name: accessibility_aid
+      label: accessibility aid
+      hint: null
+      type: select_multiple
+      options:
+      - wheelchair
+      - hearing aid
+      - sign aid
+      - none
+      required: false

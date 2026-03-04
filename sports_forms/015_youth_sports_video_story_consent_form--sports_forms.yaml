@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Video Story Consent Form
+    pages:
+    - id: 1
+      name: consent_to_record_video
+      label: consent_to_record_video
+      hint: We will record video of your child participating in this event.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: share_video
+      label: share_video
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''parent'', ''label'': "Parent''s Email"}'
+      - '{''id'': 2, ''name'': ''coach'', ''label'': ''Coach/Assistant Coach''}'
+      - '{''id'': 3, ''name'': ''organization'', ''label'': ''Organization''}'
+      required: true
+    - id: 3
+      name: consent_to_share
+      label: consent_to_share_video
+      hint: We will share the recorded video with other parents, coaches, and staff
+        members.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_to_share_details
+      label: share_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''parent'', ''label'': "Parent''s Email"}'
+      - '{''id'': 2, ''name'': ''coach'', ''label'': ''Coach/Assistant Coach''}'
+      - '{''id'': 3, ''name'': ''organization'', ''label'': ''Organization''}'
+      required: true
+    - id: 5
+      name: consent_to_analytics
+      label: share_with_analytics
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''analytics'', ''label'': ''Analytics''}'
+      - '{''id'': 2, ''name'': ''non_analytics'', ''label'': ''Non-Analytics''}'
+      - '{''id'': 3, ''name'': ''staff'', ''label'': ''Staff''}'
+      required: true
+    - id: 6
+      name: consent_to_social_media
+      label: share_on_social_media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''facebook'', ''label'': ''Facebook''}'
+      - '{''id'': 2, ''name'': ''instagram'', ''label'': ''Instagram''}'
+      - '{''id'': 3, ''name'': ''twitter'', ''label'': ''Twitter''}'
+      required: false
+    - id: 7
+      name: consent_to_video_storage
+      label: video_storage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_preference
+      label: contact_preference
+      hint: How would you like to be contacted about the recorded video?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''phone'', ''label'': ''Phone''}'
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: emergency_contact_info
+      hint: Is there an emergency contact person that we should notify in case of
+        an accident or injury?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''parent'', ''label'': ''Parent/Guardian''}'
+      - '{''id'': 2, ''name'': ''coach'', ''label'': ''Coach/Assistant Coach''}'
+      - '{''id'': 3, ''name'': ''staff'', ''label'': ''Staff''}'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: Additional comments or notes for the video recorders.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: video_id
+      label: recorded_video_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: video_url
+      label: recorded_video_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: record_video
+      label: record_video
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 15
+      name: video_file
+      label: recorded_video_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: record_audio
+      label: record_audio
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 17
+      name: record_image
+      label: record_image
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 18
+      name: record_audio_description
+      label: audio_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: record_video_description
+      label: video_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone_number
+      label: emergency_contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone_ext
+      label: emergency_contact_phone_ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_phone_ext2
+      label: emergency_contact_phone_ext2
+      hint: null
+      type: text
+      options: []
+      required: false

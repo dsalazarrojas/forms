@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Due Diligence Checklist
+    pages:
+    - id: 1
+      name: vendor_due_diligence_checklist
+      label: Page 1 - Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Reseller
+      - Manufacturer
+      - Service Provider
+      - Distributor
+      - Consultant
+      - Contractor
+      required: false
+    - id: 4
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      - Archived
+      required: false
+    - id: 5
+      name: vendor_location
+      label: Vendor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: vendor_rating
+      label: Vendor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vendor_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Page 10 - Additional
+      hint: null
+      type: text
+      options: []
+      required: false

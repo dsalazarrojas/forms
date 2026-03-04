@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: wrestling_match_prediction_survey
+    pages:
+    - id: 1
+      name: match_prediction
+      label: Predict the Match
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_prediction
+      label: Reason for Prediction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: match_outcome
+      label: Predicted Match Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: match_picks
+      label: Match Picks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_outcome
+      label: Reason for Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confidence_reason
+      label: Confidence Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: match_picks_1
+      label: Match Picks 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: match_picks_2
+      label: Match Picks 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: match_picks_3
+      label: Match Picks 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: match_picks_4
+      label: Match Picks 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

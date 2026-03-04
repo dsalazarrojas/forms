@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Probationary Evaluation Form
+    pages:
+    - id: 1
+      name: new_employees
+      label: New Employees
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adjusting_to_work
+      label: Adjusting to Work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: new_role
+      label: New Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: new_technologies
+      label: New Technologies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_received
+      label: Training Received
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication_with_colleagues
+      label: Communication with Colleagues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: communication_with_supervisors
+      label: Communication with Supervisors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Neutral
+      - Not Satisfied
+      - Not Applicable
+      - Unknown
+      - Other
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Scanning Subscription Cancellation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Cancelled
+      - Active
+      required: false
+    - id: 3
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Inactive Subscription
+      - Unable to scan documents
+      - Unsatisfied with service
+      - Other
+      required: false
+    - id: 4
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Documents
+      - Certified Documents
+      - Specialized Documents
+      - Other
+      required: false
+    - id: 5
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_note
+      label: Staff Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: staff_message
+      label: Staff Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancellation_confirmation
+      label: Cancellation Confirmation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirmation_signature
+      label: Confirmation Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Inactive Subscription
+      - Unable to scan documents
+      - Unsatisfied with service
+      - Other
+      required: false
+    - id: 19
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false

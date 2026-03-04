@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sincerity And Heart Survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: survey_template
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emotional_openness
+      label: emotional_openness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: authentic_relationships
+      label: authentic_relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sincere_conversation
+      label: sincere_conversation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: heartfelt_comments
+      label: heartfelt_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: coaching_goals
+      label: coaching_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: coaching_approach
+      label: coaching_approach
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: benefits_package
+      label: Benefits Package
+      hint: null
+      type: select_multiple
+      options:
+      - Health Insurance
+      - Retirement Package
+      - Employee Assistance Program
+      required: false
+    - id: 3
+      name: satisfaction_level_health_insurance
+      label: Satisfaction with Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - Strongly Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Neither Satisfied nor Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: satisfaction_level_retirement_package
+      label: Satisfaction with Retirement Package
+      hint: null
+      type: select_one
+      options:
+      - Strongly Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Neither Satisfied nor Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: satisfaction_level_employee_assistance_program
+      label: Satisfaction with Employee Assistance Program
+      hint: null
+      type: select_one
+      options:
+      - Strongly Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Neither Satisfied nor Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: benefits_package_value
+      label: Benefits Package Value
+      hint: How much value do you derive from the overall benefits package
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: benefits_package_satisfaction
+      label: Satisfaction with Benefits Package
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggest an improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: benefits_satisfied
+      label: Benefits Satisfied
+      hint: null
+      type: select_one
+      options:
+      - Strongly Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Neither Satisfied nor Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: suggestions_for_change
+      label: Suggest a change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_nickname
+      label: Employee Nickname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_suggestions
+      label: Employee Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_nickname
+      label: Supervisor Nickname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_suggestions
+      label: Supervisor Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

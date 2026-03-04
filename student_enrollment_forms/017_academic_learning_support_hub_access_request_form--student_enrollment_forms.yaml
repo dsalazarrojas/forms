@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Learning Support Hub Access Request Form
+    pages:
+    - id: 1
+      name: support_hub_intro
+      label: Academic Learning Support Hub Access Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the person requesting access
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Institutional email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_id
+      label: Student/Staff ID
+      hint: Your official identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_role
+      label: Role/Status
+      hint: Your current status at the institution
+      type: select_one
+      options: ["Undergraduate student", "Graduate student", "Faculty member", "Staff member", "Postdoctoral researcher", "Visiting scholar", "Other"]
+      required: true
+    - id: 6
+      name: academic_program
+      label: Academic Program/Department
+      hint: Your current program or department affiliation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: support_services_needed
+      label: Support Services Needed
+      hint: Which support services are you requesting access to? (Select all that apply)
+      type: select_multiple
+      options: ["Tutoring services", "Writing center", "Math lab", "Study groups", "Academic coaching", "Disability services", "Library research support", "Technology training"]
+      required: false
+    - id: 8
+      name: specific_academic_area
+      label: Specific Academic Area
+      hint: What subject area do you need support in?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_frequency
+      label: Preferred Support Frequency
+      hint: How often would you like to access support services?
+      type: select_one
+      options: ["Weekly", "Bi-weekly", "As needed", "Intensive short-term", "Long-term ongoing"]
+      required: true
+    - id: 10
+      name: availability_schedule
+      label: Availability Schedule
+      hint: When are you typically available for support sessions?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: learning_challenges
+      label: Learning Challenges
+      hint: What specific challenges are you facing academically?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_support_experience
+      label: Previous Support Experience
+      hint: Have you used support services before?
+      type: select_one
+      options: ["Yes, regularly", "Yes, occasionally", "No, this is my first time", "No, but interested"]
+      required: false
+    - id: 13
+      name: accommodation_requirements
+      label: Accommodation Requirements
+      hint: Do you have any special accommodation needs?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_support_format
+      label: Preferred Support Format
+      hint: How would you prefer to receive support?
+      type: select_one
+      options: ["In-person", "Online/virtual", "Hybrid", "Group sessions", "One-on-one", "Self-paced modules"]
+      required: true
+    - id: 15
+      name: expected_outcome
+      label: Expected Outcome
+      hint: What do you hope to achieve through these services?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_to_data_use
+      label: Consent to Data Use
+      hint: Do you consent to having your usage data collected for service improvement?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your support needs?
+      type: text
+      options: []
+      required: false

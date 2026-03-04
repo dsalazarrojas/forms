@@ -1,0 +1,286 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Broker Accreditation Survey
+    pages:
+    - id: 1
+      name: broker_information_header
+      label: -- Broker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: broker_name
+      label: Broker Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: broker_license_number
+      label: License Number
+      hint: Your broker license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: firm_name
+      label: Firm Name
+      hint: Your current firm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: accreditation_experience_header
+      label: -- Accreditation Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: accreditation_process_rating
+      label: Rate the Accreditation Process
+      hint: How would you rate the overall accreditation process
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 7
+      name: clarity_of_requirements
+      label: Clarity of Requirements
+      hint: Were the accreditation requirements clearly explained
+      type: select_one
+      options:
+      - Not Clear at All
+      - Somewhat Unclear
+      - Neutral
+      - Somewhat Clear
+      - Very Clear
+      required: true
+    - id: 8
+      name: application_ease
+      label: Application Ease
+      hint: How easy was the application process to complete
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Neutral
+      - Easy
+      - Very Easy
+      required: true
+    - id: 9
+      name: response_time
+      label: Response Time
+      hint: How satisfied with the response time from the organization
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: communication_quality
+      label: Communication Quality
+      hint: Quality of communication during the process
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: support_services_header
+      label: -- Support Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: support_staff_rating
+      label: Support Staff Rating
+      hint: Rate the helpfulness of support staff
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 13
+      name: technical_support
+      label: Technical Support
+      hint: Rate the technical support if used
+      type: select_one
+      options:
+      - Did Not Use
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: false
+    - id: 14
+      name: resources_provided
+      label: Resources Provided
+      hint: Were the provided resources helpful
+      type: select_one
+      options:
+      - Not Helpful
+      - Somewhat Helpful
+      - Neutral
+      - Helpful
+      - Very Helpful
+      required: true
+    - id: 15
+      name: training_quality
+      label: Training Quality
+      hint: Rate the quality of any training provided
+      type: select_one
+      options:
+      - Did Not Use Training
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 16
+      name: benefits_perceived_header
+      label: -- Benefits and Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: accreditation_value
+      label: Perceived Value of Accreditation
+      hint: How valuable do you find the accreditation
+      type: select_one
+      options:
+      - Not Valuable
+      - Somewhat Valuable
+      - Neutral
+      - Valuable
+      - Very Valuable
+      required: true
+    - id: 18
+      name: professional_benefits
+      label: Professional Benefits
+      hint: How has accreditation benefited your career
+      type: select_one
+      options:
+      - No Benefits
+      - Minimal Benefits
+      - Some Benefits
+      - Significant Benefits
+      - Major Benefits
+      required: true
+    - id: 19
+      name: recommend_accreditation
+      label: Would You Recommend Accreditation
+      hint: Likelihood of recommending to other brokers
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Not Sure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 20
+      name: overall_satisfaction_header
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: overall_experience_rating
+      label: Overall Experience Rating
+      hint: Your overall experience with the accreditation
+      type: select_one
+      options:
+      - "1 - Poor"
+      - "2"
+      - "3"
+      - "4"
+      - "5 - Excellent"
+      required: true
+    - id: 22
+      name: likelihood_return
+      label: Likelihood to Renew
+      hint: How likely are you to renew your accreditation
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Not Sure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 23
+      name: strengths_header
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: biggest_strength
+      label: Biggest Strength
+      hint: What is the biggest strength of the accreditation program
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas could be improved
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: follow_up_consent
+      label: May we contact you for follow-up
+      hint: Select if you can be contacted
+      type: select_one
+      options:
+      - Yes you may contact me
+      - No please do not contact me
+      required: true
+    - id: 28
+      name: contact_email
+      label: Contact Email
+      hint: Email for follow-up if yes
+      type: email
+      options: []
+      required: false

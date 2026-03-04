@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teen Screen Time Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: What is your age
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_screen_time
+      label: How often do you use a screen
+      hint: null
+      type: select_one
+      options:
+      - Screen Time 1-2 hours
+      - Screen Time 3-4 hours
+      - Screen Time 5 or more hours
+      required: true
+    - id: 3
+      name: survey_habits
+      label: Screen habits
+      hint: null
+      type: select_multiple
+      options:
+      - Watching TV/ Videos
+      - Playing games
+      - Listening to music
+      - Browsing the web
+      - Chatting with friends
+      - Watching movies
+      - Playing video games
+      - Listening to music or podcasts
+      required: true
+    - id: 4
+      name: survey_frequency
+      label: How often do you use a phone or tablet?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally (1-2 times a week)
+      - Almost every day
+      - Several times a day
+      required: true
+    - id: 5
+      name: survey_screen_habit_type
+      label: What screens do you have access to?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Tablet
+      - Computer
+      - TV
+      - Gaming Console
+      required: true
+    - id: 6
+      name: survey_frequency_device
+      label: Frequency of device use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: true
+    - id: 7
+      name: survey_screen_time_device
+      label: Device screen time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_frequency_educational
+      label: Educational screen time
+      hint: null
+      type: select_multiple
+      options:
+      - Watching videos
+      - Browsing the web
+      - Chatting with friends
+      - Playing games
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: survey_consequences
+      label: What are the consequences of too much screen time?
+      hint: null
+      type: select_multiple
+      options:
+      - Negative impact on relationships
+      - Negative impact on grades
+      - Negative impact on physical health
+      - Negative impact on mental health
+      - Negative impact on sleep
+      - Negative impact on social life
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: survey_consequence_other
+      label: Other consequences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_why_screen_time
+      label: Why do you use a screen?
+      hint: null
+      type: select_multiple
+      options:
+      - To relax
+      - To socialize
+      - To learn
+      - To be creative
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: survey_other_why_screen_time
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_parent_involvement
+      label: Parental involvement in screen use
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some involvement
+      - Significant involvement
+      - Very significant involvement
+      required: false
+    - id: 15
+      name: survey_parent_conversation
+      label: Have you discussed screen time with your parents?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Some of the time
+      - Almost every time
+      - Almost every time
+      required: false
+    - id: 16
+      name: survey_parent_screen_time
+      label: How often do your parents set limits on screen time?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Almost every time
+      - Almost every time
+      required: false
+    - id: 17
+      name: survey_parent_rules
+      label: Do parents set clear rules for screen time?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Yes, partially
+      required: false
+    - id: 18
+      name: survey_parent_monitoring
+      label: Do parents monitor screen time?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Sometimes
+      required: false
+    - id: 19
+      name: survey_parent_approve
+      label: Do parents approve screen time?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Yes, partially
+      required: false
+    - id: 20
+      name: survey_parent_screen_time
+      label: Parental screen time
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: false
+    - id: 21
+      name: survey_screening
+      label: Screening time for screen time?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Sometimes
+      required: false
+    - id: 22
+      name: survey_screen_time_limit
+      label: Screen time limit set by parents
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 23
+      name: survey_screening_time_limit_reason
+      label: Reason for screen time limit?
+      hint: null
+      type: select_multiple
+      options:
+      - To protect eyes
+      - To avoid addiction
+      - To prevent social comparison
+      - To prevent cyberbullying
+      - Other (please specify)
+      required: false
+    - id: 24
+      name: survey_screen_time_limit_type
+      label: Type of screen time limit?
+      hint: null
+      type: select_multiple
+      options:
+      - Time limit
+      - Content filter
+      - App limit
+      - Device limit
+      - Other (please specify)
+      required: false
+    - id: 25
+      name: survey_screening_time_limit_hours
+      label: Screen time limit hours
+      hint: null
+      type: number
+      options: []
+      required: false

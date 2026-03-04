@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Accessories Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_service
+      label: Subscription Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: first_name_alt
+      label: First Name Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: last_name_alt
+      label: Last Name Alt
+      hint: null
+      type: text
+      options: []
+      required: false

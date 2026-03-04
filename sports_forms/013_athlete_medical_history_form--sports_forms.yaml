@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Medical History Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: athlete_id
+      label: Athlete ID Number
+      hint: Student or team identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to athlete
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: primary_physician
+      label: Primary Physician Name
+      hint: Name of regular doctor
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: primary_physician_phone
+      label: Primary Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: blood_type
+      label: Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - A Positive
+      - A Negative
+      - B Positive
+      - B Negative
+      - O Positive
+      - O Negative
+      - AB Positive
+      - AB Negative
+      - Unknown
+      required: false
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications and dosages
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medication_allergies
+      label: Medication Allergies
+      hint: List any medication allergies
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: food_allergies
+      label: Food Allergies
+      hint: List any food allergies
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: other_allergies
+      label: Other Allergies
+      hint: List any other allergies like latex, insect stings, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: List any ongoing conditions like asthma, diabetes, etc.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: previous_injuries
+      label: Previous Sports Injuries
+      hint: List any significant sports injuries
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: previous_surgeries
+      label: Previous Surgeries
+      hint: List any surgeries and dates
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: hospitalizations
+      label: Previous Hospitalizations
+      hint: List any hospitalizations and reasons
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: heart_conditions
+      label: Family History of Heart Conditions
+      hint: Any family history of heart problems or sudden cardiac events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 26
+      name: concussion_history
+      label: History of Concussions
+      hint: Have you ever had a concussion
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: concussion_details
+      label: Concussion Details
+      hint: Provide details about any concussions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: exercise_symptoms
+      label: Symptoms During Exercise
+      hint: Do you ever experience chest pain, dizziness, or fainting during exercise
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: additional_medical_info
+      label: Additional Medical Information
+      hint: Any other medical information the coaching staff should know
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: information_accuracy
+      label: Information Accuracy Confirmation
+      hint: I confirm that the information provided is accurate and complete
+      type: select_one
+      options:
+      - Yes - I Confirm
+      - 'No'
+      required: true
+    - id: 31
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

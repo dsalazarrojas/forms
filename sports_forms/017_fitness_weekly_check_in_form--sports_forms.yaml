@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Weekly Check In Form
+    pages:
+    - id: 1
+      name: weekly_goal
+      label: Weekly Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rest_days
+      label: Rest Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: workout_type
+      label: Workout Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: exercises_completed
+      label: Exercises Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: distance_run
+      label: Distance Run
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight_lifted
+      label: Weight Lifted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: workout_time
+      label: Workout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: workout_time_minutes
+      label: Workout Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: zumba_feedback_form
+    pages:
+    - id: 1
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Zumba
+      - Strength
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: instructor_phone
+      label: Instructor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instructor_comments
+      label: Instructor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Joe
+      - Jane
+      required: false
+    - id: 18
+      name: form_submitted_to
+      label: Form Submitted To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Mary
+      - David
+      required: false

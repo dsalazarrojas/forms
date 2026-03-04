@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Staff Application Form
+    pages:
+    - id: 1
+      name: medical_staff_first_page_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_staff_first_page_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_staff_first_page_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: medical_staff_second_page_contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_staff_second_page_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_staff_third_page_education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      required: false
+    - id: 7
+      name: medical_staff_third_page_experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_staff_fourth_page_license
+      label: license
+      hint: null
+      type: select_one
+      options:
+      - MD
+      - PhD
+      - RN
+      required: false

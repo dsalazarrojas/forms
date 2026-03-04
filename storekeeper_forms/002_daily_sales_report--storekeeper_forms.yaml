@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Sales Report
+    pages:
+    - id: 1
+      name: daily_sales_page
+      label: Daily Sales Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: daily_sales_date
+      label: daily_sales_date
+      hint: Report date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sales_amount
+      label: sales_amount
+      hint: Enter sales amount
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_category
+      label: product_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Electronics''}'
+      - '{''id'': 2, ''name'': ''Clothing''}'
+      - '{''id'': 3, ''name'': ''Toys''}'
+      required: false
+    - id: 5
+      name: product_id
+      label: product_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_person
+      label: sales_person
+      hint: Sales Person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Shipped''}'
+      - '{''id'': 3, ''name'': ''Cancelled''}'
+      required: false
+    - id: 13
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Payment by Cash''}'
+      - '{''id'': 2, ''name'': ''Payment by Card''}'
+      - '{''id'': 3, ''name'': ''Payment by Bank Transfer''}'
+      required: false
+    - id: 14
+      name: total_orders
+      label: total_orders
+      hint: Total Orders
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: storekeeper
+      label: storekeeper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: storekeeper_note
+      label: storekeeper_note
+      hint: Note to storekeeper
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_note
+      label: customer_note
+      hint: Note to customer
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sales_note
+      label: sales_note
+      hint: Sales Note
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_note
+      label: product_note
+      hint: Product Note
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_note
+      label: order_note
+      hint: Order Note
+      type: text
+      options: []
+      required: false

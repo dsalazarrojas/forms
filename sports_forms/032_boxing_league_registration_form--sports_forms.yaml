@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing League Registration Form
+    pages:
+    - id: 1
+      name: boxer_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: boxer_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Home ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: For league communications
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to boxer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weight_class
+      label: Weight Class
+      hint: Select your competition weight class
+      type: select_one
+      options:
+      - Flyweight (up to 112 lbs)
+      - Bantamweight (up to 118 lbs)
+      - Featherweight (up to 126 lbs)
+      - Lightweight (up to 135 lbs)
+      - Welterweight (up to 147 lbs)
+      - Middleweight (up to 160 lbs)
+      - Light Heavyweight (up to 175 lbs)
+      - Heavyweight (over 175 lbs)
+      required: true
+    - id: 15
+      name: current_weight
+      label: Current Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reach
+      label: Reach
+      hint: Arm reach in inches if known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: boxing_experience
+      label: Boxing Experience
+      hint: How long have you been boxing
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 19
+      name: skill_level
+      label: Skill Level
+      hint: How would you rate your skill
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 20
+      name: amateur_record
+      label: Amateur Record
+      hint: Wins-losses-draws if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: gym_affiliation
+      label: Gym Affiliation
+      hint: Name of your boxing gym
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: coach_name
+      label: Coach Name
+      hint: Your primary coach
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach contact number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_insurance
+      label: Medical Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know about
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: previous_head_injuries
+      label: Previous Head Injuries
+      hint: Any history of concussions
+      type: select_one
+      options:
+      - None
+      - 1 concussion
+      - 2-3 concussions
+      - More than 3 concussions
+      required: true
+    - id: 28
+      name: league_division
+      label: League Division
+      hint: Which division are you registering for
+      type: select_one
+      options:
+      - Novice Division
+      - Intermediate Division
+      - Advanced Division
+      - Elite Division
+      required: true
+    - id: 29
+      name: registration_fee
+      label: Registration Fee
+      hint: Fee amount paid
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: payment_method
+      label: Payment Method
+      hint: How did you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Check
+      - Online payment
+      required: true
+    - id: 31
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand and accept the risks of boxing
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 32
+      name: medical_clearance
+      label: Medical Clearance
+      hint: I have medical clearance to compete
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: rules_acknowledgment
+      label: Rules Acknowledgment
+      hint: I have read and agree to follow league rules
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 34
+      name: boxer_signature
+      label: Boxer Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if under 18
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Correction Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_issue
+      label: Product Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_issue_happened
+      label: Date Issue Happened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_resolution
+      label: Expected Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolution 1
+      - Resolution 2
+      - Resolution 3
+      required: false
+    - id: 11
+      name: actual_resolution
+      label: Actual Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - Resolution 1
+      - Resolution 2
+      - Resolution 3
+      - Resolution 4
+      required: false

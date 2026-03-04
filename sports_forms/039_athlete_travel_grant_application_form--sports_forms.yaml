@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Travel Grant Application Form
+    pages:
+    - id: 1
+      name: applicant_details_header
+      label: -- Athlete and Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: competition_level
+      label: Current Competition Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_affiliation
+      label: Team or Club Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: trip_event_header
+      label: -- Trip and Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event or Competition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: City and Country
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_dates
+      label: Event Dates
+      hint: e.g. March 10 to 15, 2026
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attendance_purpose
+      label: Primary Purpose of Attendance
+      hint: null
+      type: select_one
+      options:
+      - International Competition
+      - National Championship
+      - Olympic or World Qualifier
+      - High-Performance Training Camp
+      required: true
+    - id: 12
+      name: selection_evidence
+      label: Evidence of Selection or Eligibility
+      hint: Describe your qualification or provide a link to the official selection
+        letter
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_funding_header
+      label: -- Budget and Funding Request --
+      hint: All amounts should be in USD
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: total_trip_cost
+      label: Total Estimated Cost of Trip
+      hint: Include all travel, lodging, and fees
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: grant_requested_amount
+      label: Grant Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: expense_breakdown
+      label: Detailed Breakdown of Expenses
+      hint: e.g. Flights - 800, Accommodation - 500, Entry Fees - 100
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: other_funding_sources
+      label: Other Sources of Funding
+      hint: List any other grants, sponsorships, or personal contributions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: financial_need_statement
+      label: Statement of Financial Need
+      hint: Why is this grant essential for your participation?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: impact_benefits_header
+      label: -- Impact and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: athletic_development_impact
+      label: How will this event support your long-term athletic development?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_grants_received
+      label: List any previous travel grants received in the last 2 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_certification_header
+      label: -- Contact and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: athlete_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: athlete_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: accuracy_certification
+      label: I certify that all estimated costs and information provided are accurate
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 26
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: guardian_signature
+      label: Parent or Guardian Electronic Signature
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

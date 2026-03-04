@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copper Supply Source Survey
+    pages:
+    - id: 1
+      name: sourcing_regions
+      label: Sourcing Regions
+      hint: Sourcing regions to supply from
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: available_capacity
+      label: Available Capacity
+      hint: Available capacity
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: certifications
+      label: Certifications
+      hint: Certifications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: supply_source_name
+      label: Supply Source Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supply_source_address
+      label: Supply Source Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supply_source_email
+      label: Supply Source Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: supply_source_phone
+      label: Supply Source Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supply_source_notes
+      label: Supply Source Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: supply_source_rating
+      label: Supply Source Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: supply_source_rating_notes
+      label: Supply Source Rating Notes
+      hint: null
+      type: note
+      options: []
+      required: false

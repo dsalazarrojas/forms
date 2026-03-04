@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Price Tag Roll Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_description
+      label: Order Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_evaluation_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Finance
+      - IT
+      - Marketing
+      - Sales
+      - Customer Service
+      - Operations
+      - Quality Assurance
+      - Engineering
+      required: false
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: select_one
+      options:
+      - Project Alpha
+      - Project Beta
+      - Project Gamma
+      - Project Delta
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Lead
+      - Software Engineer
+      - Data Scientist
+      - Marketing Manager
+      - Sales Representative
+      - Customer Service Representative
+      - Quality Assurance Engineer
+      - Operations Manager
+      required: false
+    - id: 6
+      name: skills_tested
+      label: Skills Tested
+      hint: List of skills to be tested.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

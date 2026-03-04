@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Nutrition Education Impact Survey
+    pages:
+    - id: 1
+      name: education_session_details
+      label: Education Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: education_outcomes
+      label: Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Better Nutrition Knowledge
+      - Improved Food Choices
+      - Increased Food Security
+      - Better Health Outcomes
+      - Other
+      required: false
+    - id: 6
+      name: education_outcomes_others
+      label: Other Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pre_session_knowledge
+      label: Pre-Session Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: post_session_knowledge
+      label: Post-Session Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - Doctoral
+      required: false
+    - id: 11
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_spent_learning
+      label: Time Spent Learning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: education_facilitator
+      label: Education Facilitator
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - John
+      - Jane
+      - Jane Doe
+      required: false
+    - id: 15
+      name: education_facilitator_others
+      label: Other Education Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_one
+      options:
+      - 30-60
+      - 1-2 hours
+      - 2-4 hours
+      required: false
+    - id: 17
+      name: education_location
+      label: Education Location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Community Center
+      required: false
+    - id: 18
+      name: education_notes
+      label: Education Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_email
+      label: Follow-up E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_phone
+      label: Follow-up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

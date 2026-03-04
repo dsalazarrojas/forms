@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_team_fan_engagement_consent_form
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_marketing
+      label: consent_to_marketing
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_communication_channels
+      label: preferred_communication_channels
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: true

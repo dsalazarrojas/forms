@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Broadcasting Test Survey
+    pages:
+    - id: 1
+      name: test_information_header
+      label: -- Test Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_date
+      label: Test Date
+      hint: Date when the broadcast test was conducted
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: test_time
+      label: Test Time
+      hint: Time when the broadcast test was conducted
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: test_location
+      label: Test Location
+      hint: Where the broadcast test took place
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: test_type
+      label: Broadcast Test Type
+      hint: Type of broadcast test performed
+      type: select_one
+      options:
+      - Live Broadcast
+      - Pre-Recorded
+      - Stream Test
+      - Audio Only
+      - Emergency Alert
+      - Other
+      required: true
+    - id: 6
+      name: technical_quality_header
+      label: -- Technical Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: video_quality_rating
+      label: Video Quality Rating
+      hint: Rate the overall video quality from 1 to 5
+      type: select_one
+      options:
+      - "1 - Poor"
+      - "2 - Fair"
+      - "3 - Good"
+      - "4 - Very Good"
+      - "5 - Excellent"
+      required: true
+    - id: 8
+      name: audio_quality_rating
+      label: Audio Quality Rating
+      hint: Rate the overall audio quality from 1 to 5
+      type: select_one
+      options:
+      - "1 - Poor"
+      - "2 - Fair"
+      - "3 - Good"
+      - "4 - Very Good"
+      - "5 - Excellent"
+      required: true
+    - id: 9
+      name: stream_stability_rating
+      label: Stream Stability Rating
+      hint: Rate how stable the stream was during the test
+      type: select_one
+      options:
+      - "1 - Poor"
+      - "2 - Fair"
+      - "3 - Good"
+      - "4 - Very Good"
+      - "5 - Excellent"
+      required: true
+    - id: 10
+      name: latency_rating
+      label: Latency Rating
+      hint: Rate the delay in broadcast transmission
+      type: select_one
+      options:
+      - "1 - High Latency"
+      - "2 - Moderate Latency"
+      - "3 - Acceptable"
+      - "4 - Low Latency"
+      - "5 - Minimal Latency"
+      required: true
+    - id: 11
+      name: viewer_experience_header
+      label: -- Viewer Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: device_used
+      label: Device Used for Viewing
+      hint: What device did you use to view the test
+      type: select_multiple
+      options:
+      - Desktop Computer
+      - Laptop
+      - Tablet
+      - Smartphone
+      - Smart TV
+      - Streaming Device
+      - Other
+      required: true
+    - id: 13
+      name: platform_used
+      label: Platform Used
+      hint: Which platform was used to access the broadcast
+      type: select_one
+      options:
+      - Website
+      - Mobile App
+      - Social Media
+      - Direct Link
+      - Third-Party Platform
+      required: true
+    - id: 14
+      name: connection_type
+      label: Internet Connection Type
+      hint: Type of internet connection used
+      type: select_one
+      options:
+      - WiFi
+      - Mobile Data
+      - Ethernet
+      - Satellite
+      required: false
+    - id: 15
+      name: issues_experienced
+      label: Issues Experienced
+      hint: Select any issues you encountered during the test
+      type: select_multiple
+      options:
+      - Buffering
+      - Freezing
+      - Audio Sync Issues
+      - Video Artifacts
+      - Connection Drop
+      - No Issues
+      required: true
+    - id: 16
+      name: issues_description
+      label: Issues Description
+      hint: Describe any issues in detail if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: feedback_header
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you with the broadcast test
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 19
+      name: likelihood_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend this broadcast service
+      type: select_one
+      options:
+      - "0 - Not Likely"
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      - "6"
+      - "7"
+      - "8"
+      - "9"
+      - "10 - Very Likely"
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tester_name
+      label: Tester Name
+      hint: Your name for follow-up purposes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tester_email
+      label: Tester Email
+      hint: Your email for follow-up purposes
+      type: email
+      options: []
+      required: false

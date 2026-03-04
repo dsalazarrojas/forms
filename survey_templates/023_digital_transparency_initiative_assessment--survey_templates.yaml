@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Transparency Initiative Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: digital_transparency_initiative_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessment_time
+      label: assessment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: assessment_location
+      label: assessment_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_size
+      label: team_size
+      hint: null
+      type: select_one
+      options:
+      - Team Size Options
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 6
+      name: assessment_frequency
+      label: assessment_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_type
+      label: team_type
+      hint: null
+      type: select_one
+      options:
+      - Team Types - Internal - External
+      - Other
+      required: true
+    - id: 8
+      name: assessment_comments
+      label: assessment_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_lead_email
+      label: team_lead_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: team_lead_name
+      label: team_lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_lead_phone
+      label: team_lead_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_lead_title
+      label: team_lead_title
+      hint: null
+      type: text
+      options: []
+      required: false

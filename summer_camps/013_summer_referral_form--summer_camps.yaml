@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Referral Form
+    pages:
+    - id: 1
+      name: summer_referral_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_referral_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: summer_referral_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: summer_referral_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: summer_referral_form_program_type
+      label: Program Type
+      hint: Summer Camp, School, or Community Organization
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: summer_referral_form_program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: summer_referral_form_program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: summer_referral_form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: summer_referral_form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: summer_referral_form_referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: summer_referral_form_referral_number
+      label: Referral Number
+      hint: null
+      type: number
+      options: []
+      required: false

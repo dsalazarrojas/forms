@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paper Supply Quote Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_one
+      options:
+      - A4
+      - Letter
+      - Legal
+      - Tabloid
+      required: false
+    - id: 6
+      name: page_size
+      label: Page Size
+      hint: null
+      type: select_multiple
+      options:
+      - A3
+      - A4
+      - A5
+      - Letter
+      - Legal
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

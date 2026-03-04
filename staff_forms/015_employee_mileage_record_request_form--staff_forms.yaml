@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Mileage Record Request Form
+    pages:
+    - id: 1
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_started
+      label: Date Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: mileage_start
+      label: Start Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mileage_end
+      label: End Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employer
+      label: Employer
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

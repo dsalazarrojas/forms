@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: running_course_feedback_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: trainer
+      label: Trainer
+      hint: null
+      type: select_one
+      options:
+      - Coach A
+      - Coach B
+      - Coach C
+      required: true
+    - id: 6
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

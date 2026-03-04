@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Netball Finals Venue Feedback Survey
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: venue_facilities
+      label: Venue Facilities
+      hint: What was the condition of the venue's facilities?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_scheduling
+      label: Event Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_scheduling_start
+      label: Event Scheduling Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_scheduling_end
+      label: Event Scheduling End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: venue_environment
+      label: Venue Environment
+      hint: What was the condition of the venue's environment?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: netball_equipment
+      label: Netball Equipment
+      hint: null
+      type: select_one
+      options:
+      - Netball Court
+      - Netball Balls
+      - Netball Shoes
+      - Other
+      required: false
+    - id: 9
+      name: netball_officials
+      label: Netball Officials
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: netball_officials_dress
+      label: Netball Officials Dress
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: netball_officials_suggestions
+      label: Netball Officials Suggestions
+      hint: Any suggestions for our netball officials?
+      type: text
+      options: []
+      required: false

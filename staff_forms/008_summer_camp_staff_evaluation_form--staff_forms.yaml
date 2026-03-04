@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_camp_staff_evaluation_form
+    pages:
+    - id: 1
+      name: camp_counselor_id
+      label: camp_counselor_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: camper_id
+      label: camper_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': 4}'
+      - '{''label'': ''Low'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: staff_feedback
+      label: staff_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: camper_feedback
+      label: camper_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

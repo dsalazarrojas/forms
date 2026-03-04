@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women In Sports History Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: favorite_athlete
+      label: Favorite Athlete
+      hint: null
+      type: select_one
+      options:
+      - '{''title'': ''Serena Williams''}'
+      - '{''title'': ''Maria Sharapova''}'
+      - '{''title'': ''Martina Navratilova''}'
+      - '{''title'': ''Naomi Osaka''}'
+      required: true
+    - id: 6
+      name: favorite_sport
+      label: Favorite Sport
+      hint: null
+      type: select_multiple
+      options:
+      - '{''title'': ''Tennis''}'
+      - '{''title'': ''Basketball''}'
+      - '{''title'': ''Football''}'
+      - '{''title'': ''Baseball''}'
+      - '{''title'': ''Volleyball''}'
+      required: false
+    - id: 7
+      name: sport_participated
+      label: Sport Participated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''title'': ''Tennis''}'
+      - '{''title'': ''Basketball''}'
+      - '{''title'': ''Football''}'
+      - '{''title'': ''Baseball''}'
+      - '{''title'': ''Volleyball''}'
+      - '{''title'': ''Golf''}'
+      required: true
+    - id: 8
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true

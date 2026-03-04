@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: favorite_booking_app_poll
+    pages:
+    - id: 1
+      name: user_preferences
+      label: User preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_feedback
+      label: User feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: recommended_booking_applications
+      label: Recommended booking applications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_booking_applications
+      label: Preferred booking applications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

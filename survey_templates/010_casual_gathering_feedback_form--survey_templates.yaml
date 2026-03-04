@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Casual Gathering Feedback Form
+    pages:
+      - id: 1
+        name: gathering_info_header
+        label: -- Event Details --
+        hint: We hope you enjoyed the gathering
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: guest_name
+        label: Name (Optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: gathering_date
+        label: Date of the Gathering
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: overall_satisfaction
+        label: How would you rate the overall event
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Great"
+          - "Good"
+          - "Fair"
+          - "Poor"
+        required: true
+      - id: 5
+        name: arrival_experience
+        label: How easy was it to find the location and settle in
+        hint: null
+        type: select_one
+        options:
+          - "Very Easy"
+          - "Moderate"
+          - "Difficult"
+        required: false
+      - id: 6
+        name: section_food_beverage
+        label: -- Food and Drinks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: food_quality_rating
+        label: Food Quality and Variety
+        hint: null
+        type: select_one
+        options:
+          - "Highly Satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+        required: true
+      - id: 8
+        name: drinks_variety_rating
+        label: Beverage Selection
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Could be improved"
+        required: false
+      - id: 9
+        name: favorite_food_item
+        label: What was your favorite dish or drink
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_atmosphere
+        label: -- Atmosphere and Activities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: music_volume_rating
+        label: Music and Noise Level
+        hint: null
+        type: select_one
+        options:
+          - "Just right"
+          - "Too loud"
+          - "Too quiet"
+        required: false
+      - id: 12
+        name: venue_suitability
+        label: Rating of the venue or location
+        hint: null
+        type: select_one
+        options:
+          - "5 - Perfect"
+          - "4"
+          - "3"
+          - "2"
+          - "1 - Not suitable"
+        required: true
+      - id: 13
+        name: most_enjoyable_part
+        label: What was the most enjoyable part of the gathering
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: future_suggestions
+        label: Suggestions for future gatherings
+        hint: Themes, locations, or activities
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: next_time_interest
+        label: Would you attend a similar event in the future
+        hint: null
+        type: select_one
+        options:
+          - "Definitely"
+          - "Probably"
+          - "Maybe"
+          - "Unlikely"
+        required: true
+      - id: 16
+        name: referrals
+        label: Would you recommend our events to a friend
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false

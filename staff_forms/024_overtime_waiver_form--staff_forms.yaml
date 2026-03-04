@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overtime Waiver Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_waiver
+      label: Date Of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: period_of_waiver
+      label: Period Of Waiver
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Tryouts Register
+    pages:
+    - id: 1
+      name: tryout_header
+      label: -- Minor League Basketball Tryout Registration --
+      hint: Please fill out all professional and contact details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: player_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: physical_profile_header
+      label: -- Physical Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: height_inches
+      label: Height (Total Inches)
+      hint: e.g. 74 for 6 foot 2
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight_lbs
+      label: Weight (Pounds)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: primary_position
+      label: Primary Position
+      hint: null
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 10
+      name: wingspan_inches
+      label: Wingspan (Inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: experience_header
+      label: -- Professional and Academic Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: highest_level_played
+      label: Highest Level of Competition Played
+      hint: null
+      type: select_one
+      options:
+      - Professional (International)
+      - G-League
+      - NCAA Division I
+      - NCAA Division II/III
+      - NAIA
+      - Junior College
+      - High School Varsity
+      required: true
+    - id: 13
+      name: last_team_played
+      label: Most Recent Team and Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: career_stats_summary
+      label: Career Statistics Summary
+      hint: PPG, RPG, APG, FG%
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: video_highlights_url
+      label: Link to Highlight Reel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agency_representation
+      label: Do you have professional representation (Agent)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: tryout_fee_payment
+      label: Registration Fee ($150) Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Payment Completed Online
+      - Will Pay at the Door (Additional Fee)
+      required: true
+    - id: 18
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

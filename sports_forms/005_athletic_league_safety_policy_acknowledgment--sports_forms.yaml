@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic League Safety Policy Acknowledgment
+    pages:
+    - id: 1
+      name: form_section_introduction
+      label: -- Safety Policy Acknowledgment Form --
+      hint: Please review and acknowledge all safety policies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the athlete, coach, or parent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_role
+      label: Your Role
+      hint: Select your role in the athletic program
+      type: select_one
+      options:
+      - Athlete
+      - Coach
+      - Parent/Guardian
+      - Staff
+      - Volunteer
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Athletic Organization/Team
+      hint: Name of the league, team, or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: acknowledgment_date
+      label: Date of Acknowledgment
+      hint: Date you are signing this form
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: injury_prevention_policy
+      label: I acknowledge the Injury Prevention Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 9
+      name: concussion_protocol
+      label: I understand the Concussion Protocol and Return to Play procedures
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 10
+      name: equipment_safety
+      label: I acknowledge proper use of safety equipment is mandatory
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 11
+      name: emergency_procedures
+      label: I understand emergency procedures and evacuation protocols
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 12
+      name: first_aid_availability
+      label: I acknowledge first aid and medical resources are available
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 13
+      name: heat_illness_prevention
+      label: I understand heat illness prevention and hydration protocols
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: communication_policy
+      label: I understand the communication protocol for safety issues
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 15
+      name: substance_abuse_policy
+      label: I acknowledge the substance abuse and banned substance policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 16
+      name: conduct_expectations
+      label: I understand expectations for safe and respectful conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 17
+      name: harassment_policy
+      label: I acknowledge the Harassment and Bullying Prevention Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 18
+      name: training_completed
+      label: I have completed required safety training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 19
+      name: questions_concerns
+      label: Do you have any questions or concerns about these policies?
+      hint: Describe any questions or concerns
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_clearance
+      label: I have obtained required medical clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 21
+      name: acknowledgment_signature
+      label: I acknowledge that I have read and agree to all safety policies
+      hint: Please confirm your agreement
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - I Do Not Agree
+      required: true

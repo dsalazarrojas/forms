@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Policy Panel Sponsorship Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Sponsor''}'
+      - '{''id'': 2, ''value'': ''Partner''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Individual''}'
+      - '{''id'': 2, ''value'': ''Organization''}'
+      - '{''id'': 3, ''value'': ''Both''}'
+      required: false
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''USD''}'
+      - '{''id'': 2, ''value'': ''EUR''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sponsorship_type
+      label: Type of Sponsorship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Monetary Support''}'
+      - '{''id'': 2, ''value'': ''Product/Service''}'
+      - '{''id'': 3, ''value'': ''Both''}'
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''One-time payment''}'
+      - '{''id'': 2, ''value'': ''Ongoing payment''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 16
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      required: false
+    - id: 19
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      required: false

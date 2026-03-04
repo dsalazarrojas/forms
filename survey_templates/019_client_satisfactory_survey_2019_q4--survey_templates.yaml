@@ -1,0 +1,280 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfactory Survey 2019 Q4
+    pages:
+      - id: 1
+        name: survey_header
+        label: Client Satisfaction Survey Q4 2019
+        hint: Thank you for your business. Please share your thoughts on our service.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: client_id
+        label: Client ID
+        hint: If you have one
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_used
+        label: Which Service Did You Use
+        hint: null
+        type: select_one
+        options:
+          - Consulting
+          - Product Purchase
+          - Support Services
+          - Training
+          - Maintenance
+          - Installation
+          - Other
+        required: true
+      - id: 5
+        name: service_date
+        label: When Did You Receive Service
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall How Satisfied Are You with Our Service
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: service_quality
+        label: How Would You Rate the Quality of Service
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: value_for_money
+        label: How Would You Rate Value for Money
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: staff_knowledge
+        label: How Would You Rate Staff Knowledge and Expertise
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: staff_courtesy
+        label: How Would You Rate Staff Courtesy
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: response_time
+        label: How Would You Rate Response Time
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: problem_resolution
+        label: How Well Was Your Issue Resolved
+        hint: null
+        type: select_one
+        options:
+          - Completely Resolved
+          - Mostly Resolved
+          - Partially Resolved
+          - Minimally Resolved
+          - Not Resolved
+          - Did Not Have Issue
+        required: true
+      - id: 13
+        name: communication_quality
+        label: How Would You Rate Communication Quality
+        hint: Clarity frequency helpfulness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: ease_of_working
+        label: How Easy Was It to Work with Us
+        hint: null
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 15
+        name: met_expectations
+        label: Did We Meet Your Expectations
+        hint: null
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Partially Met Expectations
+          - Did Not Meet Expectations
+        required: true
+      - id: 16
+        name: timeline_adherence
+        label: How Well Did We Adhere to Timelines
+        hint: null
+        type: select_one
+        options:
+          - Always On Time
+          - Mostly On Time
+          - Sometimes Delayed
+          - Often Delayed
+          - Always Delayed
+          - Not Applicable
+        required: false
+      - id: 17
+        name: likelihood_to_return
+        label: How Likely Are You to Use Our Services Again
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 18
+        name: likelihood_to_recommend
+        label: How Likely Are You to Recommend Us to Others
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 19
+        name: compared_to_competitors
+        label: How Do We Compare to Competitors
+        hint: null
+        type: select_one
+        options:
+          - Much Better
+          - Somewhat Better
+          - About the Same
+          - Somewhat Worse
+          - Much Worse
+          - Have Not Used Competitors
+        required: false
+      - id: 20
+        name: most_satisfied_with
+        label: What Were You Most Satisfied With
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Product Quality
+          - Service Speed
+          - Staff Friendliness
+          - Pricing
+          - Communication
+          - Problem Resolution
+          - Professionalism
+          - Other
+        required: false
+      - id: 21
+        name: least_satisfied_with
+        label: What Were You Least Satisfied With
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Nothing
+          - Product Quality
+          - Service Speed
+          - Staff Friendliness
+          - Pricing
+          - Communication
+          - Problem Resolution
+          - Professionalism
+          - Other
+        required: false
+      - id: 22
+        name: improvement_suggestions
+        label: What Could We Improve
+        hint: Your suggestions are valuable
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_services_needed
+        label: Are There Additional Services You Would Like
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else you would like to share
+        type: text
+        options: []
+        required: false

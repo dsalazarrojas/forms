@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_data_sheet_form
+    pages:
+    - id: 1
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_duties
+      label: Job Duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_records
+      label: Performance Records
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

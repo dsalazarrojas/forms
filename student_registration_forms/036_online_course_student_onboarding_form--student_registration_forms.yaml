@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Student Onboarding Form
+    pages:
+    - id: 1
+      name: student_registration
+      label: student_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_selection
+      label: select_course
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Course A'', ''value'': ''Course A''}'
+      - '{''label'': ''Course B'', ''value'': ''Course B''}'
+      - '{''label'': ''Course C'', ''value'': ''Course C''}'
+      required: false
+    - id: 3
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_notes
+      label: student_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash'', ''value'': ''Cash''}'
+      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
+      required: false
+    - id: 10
+      name: agreement
+      label: agreement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit'', ''value'': ''Submit''}'
+      - '{''label'': ''Save for Later'', ''value'': ''Save for Later''}'
+      required: false

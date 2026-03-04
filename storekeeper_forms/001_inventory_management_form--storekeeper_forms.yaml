@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Store Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: Item Name
+      hint: Enter item name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_desc
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: Enter quantity
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: Enter price
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Books
+      - Sportswear
+      - Toys
+      required: false
+    - id: 7
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Gadgets
+      - Novelty Books
+      - Sportswear
+      - Dolls
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: Enter location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_email
+      label: Employee Email
+      hint: Enter employee email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_location
+      label: Employee Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_location
+      label: Customer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_id
+      label: Employee ID
+      hint: Enter employee ID
+      type: number
+      options: []
+      required: false

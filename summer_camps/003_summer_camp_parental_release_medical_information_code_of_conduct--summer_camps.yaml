@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_camp_parental_release_medical_information_code_of_conduct
+    pages:
+    - id: 1
+      name: general_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_dob
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_term_1
+      label: I have read and understand the terms and conditions of this form.
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: consent_term_2
+      label: I agree to all the terms and conditions.
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 11, ''name'': ''medical_condition_1'', ''label'': ''Does the student
+        have a medical condition that requires medication?'', ''type'': ''select_one'',
+        ''options'': [{''id'': 1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 12, ''name'': ''medical_condition_2'', ''label'': ''If Yes, please
+        describe the condition.'', ''type'': ''text'', ''options'': []}'
+      - '{''id'': 13, ''name'': ''medical_condition_3'', ''label'': ''Has the student
+        ever been treated in a hospital?'', ''type'': ''select_one'', ''options'':
+        [{''id'': 1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 14, ''name'': ''medical_condition_4'', ''label'': ''Has the student
+        ever had any allergies?'', ''type'': ''select_one'', ''options'': [{''id'':
+        1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 15, ''name'': ''medical_condition_5'', ''label'': ''Has the student
+        ever been prescribed any medication?'', ''type'': ''select_one'', ''options'':
+        [{''id'': 1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 16, ''name'': ''medical_condition_6'', ''label'': ''Has the student
+        ever had any medical tests or examinations?'', ''type'': ''select_one'', ''options'':
+        [{''id'': 1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 17, ''name'': ''medical_condition_7'', ''label'': ''Has the student
+        ever had any surgeries?'', ''type'': ''select_one'', ''options'': [{''id'':
+        1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 18, ''name'': ''medical_condition_8'', ''label'': ''Has the student
+        ever had any medical conditions that may affect their physical ability to
+        participate in camp activities?'', ''type'': ''select_one'', ''options'':
+        [{''id'': 1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 19, ''name'': ''medical_condition_9'', ''label'': ''Has the student
+        ever had any allergies or medical conditions that may impact the ability of
+        any camp staff to care for the student?'', ''type'': ''select_one'', ''options'':
+        [{''id'': 1, ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 20, ''name'': ''medical_condition_10'', ''label'': ''Has the student
+        ever had any medical conditions that may impact their ability to participate
+        in camp activities?'', ''type'': ''select_one'', ''options'': [{''id'': 1,
+        ''label'': True}, {''id'': 2, ''label'': False}]}'
+      - '{''id'': 21, ''name'': ''terms_and_conditions'', ''label'': ''Terms and Conditions'',
+        ''type'': ''text'', ''options'': []}'
+      required: false
+    - id: 11
+      name: terms_and_conditions_read
+      label: I have read and understand the terms and conditions.
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: terms_and_conditions_agree
+      label: I agree to all the terms and conditions.
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 13
+      name: signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

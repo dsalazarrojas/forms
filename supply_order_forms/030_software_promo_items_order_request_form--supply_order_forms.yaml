@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Promo Items Order Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Software Promo Items Order Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: Software Promo Items Order Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Software'', ''label'': ''Software''}'
+      - '{''value'': ''Hardware'', ''label'': ''Hardware''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: form_4
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: Marketing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Marketing'', ''label'': ''Marketing''}'
+      - '{''value'': ''Event'', ''label'': ''Event''}'
+      required: false
+    - id: 6
+      name: form_6
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Shipping'', ''label'': ''Shipping''}'
+      - '{''value'': ''Not Shipping'', ''label'': ''Not Shipping''}'
+      required: false
+    - id: 8
+      name: form_8
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: Needed By
+      hint: null
+      type: date
+      options: []
+      required: false

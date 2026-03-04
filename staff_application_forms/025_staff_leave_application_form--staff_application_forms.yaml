@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Leave Application Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: leave_start_time
+      label: Leave Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: leave_end_time
+      label: Leave End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: leave_location
+      label: Leave Location
+      hint: null
+      type: text
+      options: []
+      required: false

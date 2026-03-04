@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Separation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_separation
+      label: Reason for Separation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: separation_date
+      label: Separation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: last_working_day
+      label: Last Working Day
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: final_salary
+      label: Final Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reason_for_separation_had_previous_job_offers
+      label: Reason for Separation Had Previous Job Offers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_separation_did_not_join_another_company
+      label: Reason for Separation Did Not Join Another Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_separation_other
+      label: Reason for Separation Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: employee_separation_form_id
+      label: Employee Separation Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: date_assigned
+      label: Date Assigned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: time_reported_by
+      label: Time Reported By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: time_reported_to
+      label: Time Reported To
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

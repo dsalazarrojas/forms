@@ -1,0 +1,297 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2016 Council For Life Fort Worth Beneficiary Application
+    pages:
+    - id: 1
+      name: section_organization
+      label: '--- Organization Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Official Organization Name
+      hint: Enter the legal name as filed with the IRS
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id_ein
+      label: Federal Tax ID (EIN)
+      hint: 9-digit Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: physical_address
+      label: Primary Facility Address
+      hint: Street address where services are provided
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: year_established
+      label: Year Organization Established
+      hint: Four-digit year (e.g., 1995)
+      type: integer
+      options: []
+      required: true
+    - id: 6
+      name: executive_director
+      label: Executive Director / CEO Name
+      hint: Current leadership
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_contact
+      label: '--- Primary Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Primary Contact Name
+      hint: Person responsible for this application
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title/Role
+      hint: e.g., Development Director, Board President
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: Primary email for correspondence regarding this application
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone Number
+      hint: Direct line or main office number
+      type: phone
+      options: []
+      required: true
+    - id: 12
+      name: section_application_type
+      label: '--- Application Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: application_type
+      label: Type of Application
+      hint: Select the category that applies to your organization
+      type: select_one
+      options:
+      - New Applicant
+      - Renewal - 2015 Beneficiary
+      - Renewal - Earlier Beneficiary (pre-2015)
+      - Transfer from Another Market
+      - Amendment to Existing Agreement
+      required: true
+    - id: 14
+      name: application_date
+      label: Application Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: fiscal_year_end
+      label: Fiscal Year End Date
+      hint: e.g., December 31 or June 30
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: section_services
+      label: '--- Program Services & Statistics ---'
+      hint: Provide current information about your PRC services
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: service_model
+      label: Primary Service Model
+      hint: Select your organization's main operational focus
+      type: select_one
+      options:
+      - Medical Clinic (with ultrasound)
+      - Non-Medical Peer Counseling Center
+      - Maternity Home / Residential Facility
+      - Adoption Agency / Services
+      - Hybrid Model / Multiple Sites
+      required: true
+    - id: 18
+      name: annual_client_volume
+      label: Annual Client Volume (2015)
+      hint: Total unduplicated clients served last calendar year
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: services_provided
+      label: Services Provided (Select All That Apply)
+      hint: Check all services currently offered at your facility
+      type: select_multiple
+      options:
+      - Pregnancy Testing
+      - Limited Ultrasound
+      - STI/STD Testing & Treatment
+      - Options Counseling
+      - Parenting Classes
+      - Material Assistance (diapers, clothes, etc.)
+      - Adoption Referrals
+      - Post-Abortion Support/Recovery
+      - Fatherhood/Male Involvement Programs
+      required: true
+    - id: 20
+      name: primary_service_area
+      label: Primary Service Area / Counties Served
+      hint: Geographic area your center primarily serves
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_financial
+      label: '--- Financial Information ---'
+      hint: Budget and funding details for comparison and planning
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: operating_budget
+      label: Current Annual Operating Budget
+      hint: Select the range for your current fiscal year
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $249,999
+      - $250,000 - $499,999
+      - $500,000 - $999,999
+      - $1,000,000 - $2,000,000
+      - Over $2,000,000
+      required: true
+    - id: 23
+      name: grant_amount_requested
+      label: Grant Amount Requested from Council For Life
+      hint: Dollar amount requested for 2016 (numbers only, e.g., 15000)
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: grants_anticipated
+      label: Other Grants Anticipated for 2016
+      hint: List major grants expected or pending (source and amount)
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: funding_sources
+      label: Current Funding Sources (Select All)
+      hint: Revenue streams currently supporting operations
+      type: select_multiple
+      options:
+      - Individual Donors
+      - Churches/Religious Organizations
+      - Private Foundations
+      - Federal Grants (e.g., Title X, CAPTA)
+      - State/Local Government
+      - Fundraising Events
+      - Client Fees (medical services)
+      - In-Kind Donations
+      required: true
+    - id: 26
+      name: section_compliance
+      label: '--- Accreditation & Compliance ---'
+      hint: Standards and affiliations
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: accreditation_status
+      label: Current Accreditation/Affiliation
+      hint: Select your primary network affiliation
+      type: select_one
+      options:
+      - Care Net Affiliate
+      - Heartbeat International Affiliate
+      - Both Care Net and Heartbeat
+      - National Institute of Family and Life Advocates (NIFLA)
+      - State PRC Association
+      - Other National Network
+      - None / Independent Center
+      required: true
+    - id: 28
+      name: nonprofit_verified
+      label: 501(c)(3) Status Verification
+      hint: Current tax-exempt status
+      type: select_one
+      options:
+      - Verified Active 501(c)(3)
+      - Pending 501(c)(3) Application
+      - Fiscal Sponsor with 501(c)(3) status
+      - Other Tax-Exempt Status
+      required: true
+    - id: 29
+      name: section_narrative
+      label: '--- Narrative Questions ---'
+      hint: Detailed responses for grant consideration
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: grant_purpose
+      label: Purpose of Grant Request
+      hint: How will Council For Life funds be used? Be specific about programs, staffing,
+        or equipment needs.
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: unique_contribution
+      label: Unique Contribution to Pro-Life Movement
+      hint: What distinguishes your center from others in the Fort Worth area? What
+        specific gap do you fill?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: anticipated_outcomes
+      label: Anticipated Outcomes for 2016
+      hint: Measurable goals for clients served, lives saved, families helped, etc.
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Any other relevant details for the review committee
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skate School Consent Form
+    pages:
+    - id: 1
+      name: summer_camp_consent_form
+      label: Summer Camp Consent Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sports_forms
+      label: Sports Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rules_and_regulations
+      label: Rules and Regulations
+      hint: null
+      type: text
+      options: []
+      required: false

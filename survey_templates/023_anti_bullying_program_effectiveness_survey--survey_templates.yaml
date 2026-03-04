@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bullying Program Effectiveness Survey
+    pages:
+    - id: 1
+      name: respondent_type
+      label: Respondent Category
+      hint: null
+      type: select_one
+      options:
+      - Staff
+      - Student
+      - Parent
+      required: true
+    - id: 2
+      name: program_recognition
+      label: Do you recognize the name of the current Anti-Bullying Program?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 3
+      name: material_rating
+      label: Quality of Program Materials and Resources
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: culture_impact
+      label: Impact on Overall School Culture
+      hint: null
+      type: select_one
+      options:
+      - Significant Improvement
+      - Minor Improvement
+      - No Change
+      - Worse
+      required: true
+    - id: 5
+      name: reporting_accessibility
+      label: Accessibility of Reporting Tools
+      hint: How easy is it to report an incident?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Average
+      - Difficult
+      required: true
+    - id: 6
+      name: response_time_rating
+      label: Administrative Response Time to Reported Issues
+      hint: null
+      type: select_one
+      options:
+      - Very Fast
+      - Adequate
+      - Slow
+      - Unresponsive
+      required: true
+    - id: 7
+      name: helpful_sessions
+      label: Which workshops or sessions were most helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ongoing_safety_concerns
+      label: Areas of the school where you feel least safe
+      hint: e.g. Locker rooms, playground, online
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_support_adequacy
+      label: Do you feel staff are adequately trained to handle bullying?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: additional_feedback
+      label: Other Comments for Program Coordinators
+      hint: null
+      type: text
+      options: []
+      required: false

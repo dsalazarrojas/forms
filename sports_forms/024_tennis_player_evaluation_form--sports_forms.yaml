@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: tennis_player_evaluation_form
+    pages:
+    - id: 1
+      name: player_performance
+      label: Player Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: player_manners
+      label: Player Manners
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tennis_skills
+      label: Tennis Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Forehand Shot
+      - Backhand Shot
+      - Slicing
+      - Volleys
+      - Overrule
+      - Net Play
+      - Volleys Play
+      - Ground Strokes
+      - Backhand Volleys
+      - Overhead Shots
+      - Return of Serve
+      required: false
+    - id: 5
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: player_comments
+      label: Player Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: note
+      options: []
+      required: false

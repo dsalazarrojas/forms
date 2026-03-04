@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Requisition Of Office Maintenance Supplies Form
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: item
+      label: Item
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_cost
+      label: Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supplier
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - Supplier A
+      - Supplier B
+      - Supplier C
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Alice
+      required: false
+    - id: 9
+      name: requisitioner
+      label: Requisitioner
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jack
+      - Jill
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Alice
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Alice
+      required: false
+    - id: 15
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: requisition_no
+      label: Requisition No
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Furniture
+      - Paper
+      required: false
+    - id: 18
+      name: item_subcategory
+      label: Item Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Office Supplies
+      - Hardware
+      - Software
+      required: false
+    - id: 19
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: rejected_reason
+      label: Rejected Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approved_by_title
+      label: Approved By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

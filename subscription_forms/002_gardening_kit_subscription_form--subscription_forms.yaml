@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: gardening_kit_subscription_form
+    pages:
+    - id: 1
+      name: subscribe_to_kit
+      label: Subscribe To Kit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_postal_code
+      label: Shipping Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name_of_shipper
+      label: Name Of Shipper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_frequency
+      label: Shipping Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option_0'': ''Daily''}'
+      - '{''option_1'': ''Weekly''}'
+      - '{''option_2'': ''Monthly''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

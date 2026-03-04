@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Journal Subscription Quote Request
+    pages:
+    - id: 1
+      name: subscription_request_intro
+      label: Academic Journal Subscription Quote Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting the quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Professional email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_institution
+      label: Institution
+      hint: University, college, or organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Department
+      hint: Academic department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_position
+      label: Position/Title
+      hint: Your role at the institution
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: journal_title
+      label: Journal Title
+      hint: Full name of the journal you're interested in
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: publisher_name
+      label: Publisher Name
+      hint: Name of the journal publisher
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subscription_type
+      label: Subscription Type
+      hint: What type of subscription are you interested in?
+      type: select_one
+      options:
+      - Individual subscription
+      - Institutional subscription
+      - Multi-user license
+      - Site license
+      - Consortium license
+      - Other
+      required: true
+    - id: 10
+      name: access_requirements
+      label: Access Requirements
+      hint: How many people need access to the journal?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: coverage_requirements
+      label: Coverage Requirements
+      hint: What time period of articles do you need access to?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: What is your approximate budget for this subscription?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: intended_users
+      label: Intended Users
+      hint: Who will be using this journal? (faculty, students, researchers, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: usage_frequency
+      label: Expected Usage Frequency
+      hint: How often do you anticipate using this journal?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Occasionally
+      - For specific research projects
+      required: true
+    - id: 15
+      name: special_features_needed
+      label: Special Features Needed
+      hint: Do you need any special features? (alerts, RSS feeds, API access, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_alternatives
+      label: Current Alternatives
+      hint: Are you currently using alternative resources?
+      type: select_one
+      options:
+      - Yes, but looking for better option
+      - Yes, considering upgrade
+      - No, this is our first choice
+      - Evaluating multiple options
+      required: false
+    - id: 17
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When do you need to make a decision about this subscription?
+      type: date
+      options: []
+      required: true

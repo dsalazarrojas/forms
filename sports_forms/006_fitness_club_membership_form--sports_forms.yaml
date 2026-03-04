@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Club Membership Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      required: false
+    - id: 6
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_start_date
+      label: Payment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_end_date
+      label: Payment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

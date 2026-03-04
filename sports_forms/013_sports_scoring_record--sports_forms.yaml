@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Scoring Record
+    pages:
+    - id: 1
+      name: game_date
+      label: Game Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: game_team1
+      label: Team 1 Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_team2
+      label: Team 2 Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: game_score1
+      label: Team 1 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: game_score2
+      label: Team 2 Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: game_referee
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: game_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

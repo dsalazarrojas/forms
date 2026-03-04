@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Survey
+    pages:
+    - id: 1
+      name: participant_intro
+      label: -- Player Experience Survey --
+      hint: Your feedback helps us improve our basketball program.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: season_played
+      label: Which season are you providing feedback for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coaching_rating
+      label: Rate the quality of coaching received
+      hint: 1 - Poor, 5 - Excellent
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: teamwork_rating
+      label: How would you rate the team chemistry and cooperation?
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Exceptional
+      required: true
+    - id: 6
+      name: skill_development
+      label: Do you feel your basketball skills improved this season?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, somewhat
+      - Stayed the same
+      - false
+      required: true
+    - id: 7
+      name: specific_skills_learned
+      label: Which specific skills did you work on most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shooting
+      - Ball Handling
+      - Defense
+      - Rebounding
+      - Conditioning
+      - Strategy
+      required: false
+    - id: 8
+      name: facilities_rating
+      label: Rate the quality of the practice and game facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: favorite_moment
+      label: What was your favorite moment or highlight of the season?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_improvements
+      label: What is one thing we could do to improve the program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: return_next_season
+      label: Do you plan to return next season?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 12
+      name: recommend_program
+      label: Would you recommend this program to a friend?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: completion_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

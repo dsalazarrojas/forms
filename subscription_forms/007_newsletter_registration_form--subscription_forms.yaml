@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: subscribe
+      label: Subscribe
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

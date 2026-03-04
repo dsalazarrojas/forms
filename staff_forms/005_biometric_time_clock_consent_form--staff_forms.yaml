@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Biometric Time Clock Consent Form
+    pages:
+      - id: 1
+        name: section_introduction
+        label: -- Biometric Time Clock Consent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consent_notice
+        label: This form requests your consent to participate in our biometric timekeeping system
+        hint: Please read carefully and indicate your agreement
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: section_employee_information
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: employee_first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: employee_last_name
+        label: Last Name
+        hint: Your last name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: employee_id
+        label: Employee ID
+        hint: Your unique employee identifier
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: employee_email
+        label: Email Address
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: employee_department
+        label: Department
+        hint: Your department name
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: employee_position
+        label: Position Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_biometric_disclosure
+        label: -- Biometric Data Disclosure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: biometric_type_disclosure
+        label: The company intends to collect and use the following biometric data for timekeeping
+        hint: Select which biometric methods will be used
+        type: select_multiple
+        options:
+          - Fingerprint Recognition
+          - Facial Recognition
+          - Iris Recognition
+          - Voice Recognition
+          - Hand Geometry
+        required: true
+      - id: 12
+        name: data_collection_purpose
+        label: Primary Purpose of Data Collection
+        hint: Biometric data will be used for employee timekeeping and attendance tracking
+        type: select_one
+        options:
+          - Attendance Tracking Only
+          - Attendance and Security Access
+          - Attendance and Payroll Integration
+          - Other Business Purpose
+        required: true
+      - id: 13
+        name: section_privacy_rights
+        label: -- Your Privacy Rights --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: privacy_acknowledgment
+        label: I understand my biometric data is subject to company privacy policies
+        hint: Check to confirm understanding
+        type: select_one
+        options:
+          - I Understand
+          - I Do Not Understand
+        required: true
+      - id: 15
+        name: data_retention_period
+        label: Biometric Data Retention Period
+        hint: How long will the company retain biometric data
+        type: select_one
+        options:
+          - While Employed Only
+          - 1 Year After Employment Ends
+          - 3 Years After Employment Ends
+          - Company Discretion
+        required: true
+      - id: 16
+        name: section_rights_notification
+        label: -- Your Rights --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: right_to_access
+        label: I understand I have the right to access my biometric data
+        hint: You may request copies of your biometric data
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 18
+        name: right_to_deletion
+        label: I understand I can request deletion of my biometric data
+        hint: You may request data deletion under applicable law
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 19
+        name: section_consent
+        label: -- Consent and Agreement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: voluntary_consent
+        label: I voluntarily consent to the collection and use of my biometric data
+        hint: This consent is given freely without coercion
+        type: select_one
+        options:
+          - I Consent
+          - I Do Not Consent
+        required: true
+      - id: 21
+        name: acknowledgment_of_terms
+        label: I acknowledge I have read and understand all terms in this consent form
+        hint: Check to confirm you fully understand
+        type: select_one
+        options:
+          - I Acknowledge and Agree
+          - I Do Not Agree
+        required: true
+      - id: 22
+        name: consent_date
+        label: Date of Consent
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 23
+        name: questions_concerns
+        label: Questions or Concerns
+        hint: Share any questions about the biometric system
+        type: text
+        options: []
+        required: false

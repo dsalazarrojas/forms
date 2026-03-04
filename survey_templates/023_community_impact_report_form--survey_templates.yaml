@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Impact Report Form
+    pages:
+    - id: 1
+      name: reporting_period
+      label: Reporting Period
+      hint: Select the period this report covers
+      type: select_one
+      options:
+      - Quarter 1 (Jan-Mar)
+      - Quarter 2 (Apr-Jun)
+      - Quarter 3 (Jul-Sep)
+      - Quarter 4 (Oct-Dec)
+      - Annual Report
+      required: true
+    - id: 2
+      name: organization_name
+      label: Full Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Name of Person Submitting Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: total_reach
+      label: Total Unique Individuals Reached
+      hint: Across all programs in this period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: key_achievements
+      label: List Key Achievements and Milestones
+      hint: What significant goals were met?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: major_challenges
+      label: Major Challenges and Obstacles Encountered
+      hint: Describe what hindered impact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: community_feedback
+      label: Community Feedback Highlights
+      hint: Summary of feedback received from participants
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact_results
+      label: Impact Measurement Results
+      hint: Specific data points or KPIs tracked
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: future_recommendations
+      label: Future Recommendations and Adjustments
+      hint: Based on current results, what should change?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_submitted
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_needed
+      label: Does this report require a follow-up meeting?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

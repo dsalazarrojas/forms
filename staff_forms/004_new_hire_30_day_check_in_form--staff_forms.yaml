@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire 30 Day Check In Form
+    pages:
+    - id: 1
+      name: page_1
+      label: New Hire 30 Day Check In Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales''}'
+      - '{''id'': 2, ''name'': ''Marketing''}'
+      - '{''id'': 3, ''name'': ''Operations''}'
+      required: true
+    - id: 7
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_expected_start
+      label: Date Expected Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''Part Time''}'
+      - '{''id'': 3, ''name'': ''Contract''}'
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: page_2
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Highlights Voting Form
+    pages:
+    - id: 1
+      name: section_voter_info
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Voter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email Address
+      hint: For confirmation purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: voter_affiliation
+      label: Affiliation or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_voting_instructions
+      label: -- Voting Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: highlight_one_description
+      label: Highlight Option 1
+      hint: First key achievement or event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: highlight_one_impact
+      label: Impact Rating for Option 1
+      hint: How significant is this highlight?
+      type: select_one
+      options:
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Major Impact
+      - Critical Impact
+      required: true
+    - id: 8
+      name: highlight_two_description
+      label: Highlight Option 2
+      hint: Second key achievement or event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: highlight_two_impact
+      label: Impact Rating for Option 2
+      hint: How significant is this highlight?
+      type: select_one
+      options:
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Major Impact
+      - Critical Impact
+      required: true
+    - id: 10
+      name: highlight_three_description
+      label: Highlight Option 3
+      hint: Third key achievement or event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: highlight_three_impact
+      label: Impact Rating for Option 3
+      hint: How significant is this highlight?
+      type: select_one
+      options:
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Major Impact
+      - Critical Impact
+      required: true
+    - id: 12
+      name: section_top_choice
+      label: -- Top Choice Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: top_highlight_choice
+      label: Select your top highlight
+      hint: Which of the three options is most important?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: choice_justification
+      label: Why is this your top choice?
+      hint: Explain your reasoning
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_highlights
+      label: Additional highlights to consider
+      hint: Are there other achievements worth highlighting?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: voting_confidence
+      label: Confidence in this selection
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true

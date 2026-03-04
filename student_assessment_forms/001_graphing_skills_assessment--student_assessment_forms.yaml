@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphing Skills Assessment
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: graphing_skill
+      label: Graphing Skill
+      hint: null
+      type: select_one
+      options:
+      - Graphing
+      - Calculus
+      - Algebra
+      - Geometry
+      - Trigonometry
+      required: false
+    - id: 4
+      name: tool_used
+      label: Which tool(s) used
+      hint: null
+      type: select_multiple
+      options:
+      - Graphing Calculator
+      - Graphing Software
+      - Online Graphing Tools
+      - None
+      required: false
+    - id: 5
+      name: challenges_faced
+      label: What challenges faced
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: proficiency_level
+      label: What is their current proficiency level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 7
+      name: rating
+      label: Rating of Graphing Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

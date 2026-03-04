@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Class Participant Questionnaire
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exercise_class_schedule
+      label: Exercise Class Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 8
+      name: exercise_class_frequency
+      label: Exercise Class Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: trainer
+      label: Trainer
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 10
+      name: exercise_class_duration
+      label: Exercise Class Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: exercise_class_type
+      label: Exercise Class Type
+      hint: null
+      type: select_one
+      options:
+      - Aerobics
+      - Yoga
+      - Strength Training
+      required: true
+    - id: 12
+      name: workout_level
+      label: Work Out Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advance
+      required: false
+    - id: 13
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false

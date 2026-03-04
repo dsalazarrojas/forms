@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: ranking_survey_rate_your_preferences
+    pages:
+    - id: 1
+      name: user_preferences
+      label: user_preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: topic_1_name
+      label: topic_1_label
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 3
+      name: topic_1_rating
+      label: topic_1_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: topic_2_name
+      label: topic_2_label
+      hint: null
+      type: select_multiple
+      options:
+      - option_2
+      - option_4
+      - option_1
+      required: false
+    - id: 5
+      name: topic_2_rating
+      label: topic_2_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: topic_3_name
+      label: topic_3_label
+      hint: null
+      type: select_one
+      options:
+      - option_3
+      - option_5
+      required: false
+    - id: 7
+      name: topic_3_rating
+      label: topic_3_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: topic_4_name
+      label: topic_4_label
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_6
+      required: false
+    - id: 9
+      name: topic_4_rating
+      label: topic_4_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ranking
+      label: ranking
+      hint: null
+      type: select_multiple
+      options:
+      - first
+      - second
+      - third
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18 - 25
+      - 26 - 35
+      - 36 - 45
+      - 46 - 55
+      - 55+
+      required: true
+    - id: 3
+      name: skin_type
+      label: How would you describe your skin type?
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 4
+      name: section_routines
+      label: -- Beauty Routines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: skincare_steps_count
+      label: How many steps are in your daily skincare routine?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: makeup_usage_frequency
+      label: How often do you wear makeup?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times a week
+      - Weekends only
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: hair_care_importance
+      label: On a scale of 1-10, how important is hair care to you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_preferences
+      label: -- Preferences and Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shopping_location
+      label: Where do you primarily buy your beauty products?
+      hint: null
+      type: select_multiple
+      options:
+      - Drugstore
+      - Specialty Stores (Sephora/Ulta)
+      - Department Stores
+      - Online Direct-to-Consumer
+      - Subscription Boxes
+      required: true
+    - id: 10
+      name: purchase_influencers
+      label: What influences your beauty purchases the most?
+      hint: null
+      type: select_one
+      options:
+      - Social Media Influencers
+      - Dermatologist Recommendation
+      - Friend/Family Recommendations
+      - Price/Promotions
+      - Brand Reputation
+      required: true
+    - id: 11
+      name: monthly_spend
+      label: Approximately how much do you spend on beauty products monthly?
+      hint: null
+      type: select_one
+      options:
+      - Under $50
+      - $50 - $100
+      - $101 - $250
+      - Over $250
+      required: true
+    - id: 12
+      name: ingredient_priority
+      label: How important is it that your products are "Clean" or "Natural"?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Not Important
+      required: false
+    - id: 13
+      name: favorite_beauty_category
+      label: What is your favorite beauty category?
+      hint: null
+      type: select_one
+      options:
+      - Skincare
+      - Makeup
+      - Haircare
+      - Fragrance
+      - Body Care
+      required: true
+    - id: 14
+      name: open_feedback
+      label: Is there anything else you'd like to share about your beauty journey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

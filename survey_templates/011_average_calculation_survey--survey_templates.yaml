@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Average Calculation Survey
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: survey_topic
+      label: Survey Topic
+      hint: What are you measuring?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_data_entry
+      label: -- Numeric Data Entry --
+      hint: Please enter the numeric values to be averaged
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: value_1
+      label: Value 1
+      hint: First data point
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: value_2
+      label: Value 2
+      hint: Second data point
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: value_3
+      label: Value 3
+      hint: Third data point
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: value_4
+      label: Value 4
+      hint: Fourth data point
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: value_5
+      label: Value 5
+      hint: Fifth data point
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: calculation_note
+      label: Calculation Methodology
+      hint: Our system will auto-calculate the arithmetic mean of the provided values
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: section_meta_data
+      label: -- Metadata and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: data_quality
+      label: Data Quality Rating
+      hint: Rate the reliability of your data
+      type: select_one
+      options:
+      - 1 - Unreliable
+      - 2 - Poor
+      - 3 - Moderate
+      - 4 - Good
+      - 5 - Very Reliable
+      required: true
+    - id: 14
+      name: data_sources
+      label: Comments on Data Sources
+      hint: Where did this data come from?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: collection_frequency
+      label: Frequency of Data Collection
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 16
+      name: data_verified
+      label: Has this data been verified?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Verified
+      - No, Preliminary
+      required: true

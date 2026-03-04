@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Name Suggestions Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name_ideas
+      label: Event Name Ideas
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: page_2
+      label: Additional Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: phased_return_to_work_form
+    pages:
+    - id: 1
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: leave_duration
+      label: leave_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gradual_return_start
+      label: gradual_return_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gradual_return_end
+      label: gradual_return_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_frequency
+      label: work_frequency
+      hint: null
+      type: select_one
+      options:
+      - full-time
+      - part-time
+      - telecommute
+      required: false
+    - id: 7
+      name: work_days
+      label: work_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_approvals
+      label: supervisor_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - supervisor
+      - HR
+      - Manager
+      required: false
+    - id: 10
+      name: work_arrangement
+      label: work_arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Flexible
+      - Flexible (hybrid)
+      - Modified duty hours
+      - Regular
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Missed Clock Out Form
+    pages:
+    - id: 1
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_missed_clock_out
+      label: reason_for_missed_clock_out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: missed_clock_out_duration
+      label: Missed Clock Out Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: missed_clock_out_date
+      label: Missed Clock Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: missed_clock_out_incentives_deductions
+      label: Missed Clock Out Incentives/Deductions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_note
+      label: Manager's Note
+      hint: null
+      type: text
+      options: []
+      required: false

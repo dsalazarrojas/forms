@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Participant Wristband Reorder Form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reorder_item_id
+      label: Reorder Item Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reorder_item_type
+      label: reorder item type
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      required: false
+    - id: 11
+      name: shipping_date
+      label: shipping date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Survey
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address (for follow-up)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - Over 65
+      required: true
+    - id: 5
+      name: section_header_2
+      label: -- Baseball Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fan_status
+      label: How would you describe yourself?
+      hint: null
+      type: select_one
+      options:
+      - Casual Fan
+      - Regular Fan
+      - Devoted Fan
+      - Professional/Player
+      - Not a Fan
+      required: true
+    - id: 7
+      name: favorite_team
+      label: Favorite MLB team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: watch_frequency
+      label: How often do you watch baseball?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times a Week
+      - Weekly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: section_header_3
+      label: -- Game Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attended_games
+      label: Have you attended a live baseball game?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: games_attended
+      label: If yes, how many times?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: play_experience
+      label: Have you played baseball?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Professionally
+      - Yes - Recreationally
+      - Yes - Youth Level
+      - false
+      required: true
+    - id: 13
+      name: section_header_4
+      label: -- Preferences and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: favorite_position
+      label: Favorite position to watch
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Infielder
+      - Outfielder
+      - All Equally
+      - No Preference
+      required: false
+    - id: 15
+      name: most_enjoy
+      label: What do you most enjoy about baseball?
+      hint: null
+      type: select_multiple
+      options:
+      - Skill and Strategy
+      - Home Runs
+      - Team Dynamics
+      - Individual Performances
+      - Statistics
+      - Social Experience
+      required: false
+    - id: 16
+      name: preferred_format
+      label: Preferred format to watch
+      hint: null
+      type: select_one
+      options:
+      - Live at Stadium
+      - Television
+      - Streaming Online
+      - Radio
+      - All Equally
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Opinions and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: game_length
+      label: Is the length of games appropriate?
+      hint: null
+      type: select_one
+      options:
+      - Too Short
+      - About Right
+      - Too Long
+      required: false
+    - id: 19
+      name: pace_improvement
+      label: Pace of play improvements - your opinion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: baseball_popularity
+      label: Should baseball be more or less popular?
+      hint: null
+      type: select_one
+      options:
+      - More Popular
+      - Current Level is Fine
+      - Less Popular
+      required: false
+    - id: 21
+      name: improvements_suggestions
+      label: Any suggestions for improving baseball?
+      hint: null
+      type: text
+      options: []
+      required: false

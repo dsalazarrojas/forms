@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing strategy subscription form
+    pages:
+    - id: 1
+      name: marketing_strategy_subscription_form
+      label: Marketing strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: marketing_channels
+      label: Marketing channels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: marketing_budget
+      label: Marketing budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: Target audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: marketing_strategy_subscription
+      label: Marketing strategy subscription
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: marketing_preferences
+      label: Marketing preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_needs
+      label: Marketing needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

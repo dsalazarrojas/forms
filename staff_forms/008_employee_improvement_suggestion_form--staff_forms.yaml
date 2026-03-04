@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Improvement Suggestion Form
+    pages:
+    - id: 1
+      name: employee_improvement_suggestion
+      label: Employee Improvement Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suggestion_category
+      label: Suggestion Category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: false
+    - id: 3
+      name: suggestion_subcategory
+      label: Suggestion Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - subcategory_1
+      - subcategory_2
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestion_text
+      label: Suggestion Text
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christian Survey
+    pages:
+    - id: 1
+      name: demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 5
+      name: faith_background
+      label: -- Faith Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: denomination
+      label: Christian Denomination
+      hint: null
+      type: select_one
+      options:
+      - Catholic
+      - Baptist
+      - Methodist
+      - Pentecostal
+      - Lutheran
+      - Presbyterian
+      - Anglican
+      - Non-denominational
+      - Other
+      required: true
+    - id: 7
+      name: years_christian
+      label: How many years have you been Christian?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: spiritual_practices
+      label: -- Spiritual Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: prayer_frequency
+      label: How often do you pray?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - A few times per month
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: bible_reading
+      label: How often do you read the Bible?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - A few times per month
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: church_involvement
+      label: What is your level of church involvement?
+      hint: null
+      type: select_one
+      options:
+      - Very active (multiple roles/commitments)
+      - Active (regular participation)
+      - Moderate (attend regularly)
+      - Minimal (attend occasionally)
+      - Not involved
+      required: true
+    - id: 12
+      name: service_areas
+      label: In what areas do you serve? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Worship and music
+      - Teaching
+      - Youth ministry
+      - Community outreach
+      - Administration
+      - Prayer ministry
+      - Other
+      required: false
+    - id: 13
+      name: beliefs_section
+      label: -- Beliefs and Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: beliefs_important
+      label: What beliefs are most important to you? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Jesus Christ as Savior
+      - Salvation through grace
+      - The Trinity
+      - The Holy Spirit
+      - The resurrection
+      - Biblical authority
+      required: true
+    - id: 15
+      name: spiritual_growth
+      label: How would you rate your spiritual growth in the last year?
+      hint: null
+      type: select_one
+      options:
+      - Significant growth
+      - Moderate growth
+      - Some growth
+      - No growth
+      - Spiritual decline
+      required: true
+    - id: 16
+      name: community_feedback
+      label: -- Community Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: suggested_improvements
+      label: What improvements would you suggest for our church community?
+      hint: Optional - help us serve better
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: cricket_coach_application_form
+    pages:
+    - id: 1
+      name: personal_details
+      label: personal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: cricket_background
+      label: cricket_background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: sport_management
+      label: sport_management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: coaching_certification
+      label: coaching_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

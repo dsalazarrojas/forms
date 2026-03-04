@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Fundraiser Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsorship_date
+      label: Sponsorship Date
+      hint: Date of sponsorship commitment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: Name of sponsor or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_type
+      label: Sponsor Type
+      hint: Type of sponsoring entity
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Business
+      - Corporation
+      - Foundation
+      - Nonprofit
+      - Government Agency
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: Business or organization name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization_address
+      label: Organization Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event or Program Name
+      hint: What event are you sponsoring
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Select sponsorship tier
+      type: select_one
+      options:
+      - Platinum - $10,000+
+      - Gold - $5,000 to $9,999
+      - Silver - $2,500 to $4,999
+      - Bronze - $1,000 to $2,499
+      - Friend - $500 to $999
+      - Supporter - $100 to $499
+      - Custom Amount
+      required: true
+    - id: 12
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Total commitment amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_schedule
+      label: Payment Schedule
+      hint: How will you pay
+      type: select_one
+      options:
+      - Full payment now
+      - 50 percent now, 50 percent later
+      - Quarterly payments
+      - Monthly payments
+      - Custom schedule
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Bank transfer
+      - In-kind donation
+      - Stock transfer
+      required: true
+    - id: 15
+      name: sponsorship_focus
+      label: Area of Focus
+      hint: Which conservation area to support
+      type: select_one
+      options:
+      - Where most needed
+      - Land acquisition
+      - Wildlife conservation
+      - Water conservation
+      - Forest restoration
+      - Education programs
+      - Research
+      - Community outreach
+      required: true
+    - id: 16
+      name: recognition_preferences
+      label: Recognition Preferences
+      hint: How would you like to be recognized
+      type: select_multiple
+      options:
+      - Event signage
+      - Website listing
+      - Social media mention
+      - Press release
+      - Program booklet
+      - Plaque or certificate
+      - Anonymous
+      - No recognition needed
+      required: true
+    - id: 17
+      name: logo_submission
+      label: Will You Submit a Logo
+      hint: For recognition materials
+      type: select_one
+      options:
+      - Yes - Will submit
+      - false
+      required: true
+    - id: 18
+      name: logo_email
+      label: Logo Submission Email
+      hint: Email for logo submission
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: booth_space_needed
+      label: Do You Need Booth Space
+      hint: For events with vendor booths
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: volunteer_participation
+      label: Will Your Team Volunteer
+      hint: Employee volunteer interest
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 21
+      name: volunteer_count
+      label: Estimated Number of Volunteers
+      hint: How many team members
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: in_kind_donation
+      label: Are You Making In-Kind Donation
+      hint: Goods or services instead of cash
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: in_kind_details
+      label: In-Kind Donation Details
+      hint: Describe goods or services
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: in_kind_value
+      label: Estimated Value
+      hint: Dollar value of in-kind donation
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: matching_gift
+      label: Is This a Matching Gift
+      hint: Will others match your donation
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: tax_receipt_needed
+      label: Tax Receipt Needed
+      hint: Do you need tax documentation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: tax_id_number
+      label: Tax ID Number
+      hint: EIN or tax ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: sponsor_signature
+      label: Sponsor Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: sponsorship_status
+      label: Sponsorship Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Pledged
+      - Payment pending
+      - Partially paid
+      - Paid in full
+      - Completed
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Registration Form
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Athlete Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_relationship
+      label: Relationship to Athlete
+      hint: e.g. Parent, Spouse, Guardian
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sport_training_header
+      label: -- Sport and Training Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: competition_level
+      label: Current Competition Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner / Novice
+      - Intermediate
+      - Advanced / Competitive
+      - Professional
+      required: true
+    - id: 14
+      name: preferred_schedule
+      label: Preferred Training Schedule
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      required: true
+    - id: 15
+      name: health_safety_header
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: Please list any conditions our trainers should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_consent
+      label: I consent to emergency medical treatment if required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: payment_membership_header
+      label: -- Membership and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly Subscription
+      - Quarterly Membership
+      - Annual Membership
+      - Pay-as-you-go
+      required: true
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash at Facility
+      - Mobile Payment
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: I have read and agree to the Waiver of Liability
+      hint: View terms on our membership page
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 23
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: athlete_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

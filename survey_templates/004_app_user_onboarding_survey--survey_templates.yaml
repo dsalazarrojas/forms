@@ -1,0 +1,172 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App User Onboarding Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: username
+      label: Username or Account ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: signup_date
+      label: When did you create your account?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_experience
+      label: -- Onboarding Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: setup_clarity
+      label: How clear was the setup process?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 7
+      name: setup_ease
+      label: How easy was it to set up your account?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 8
+      name: time_to_setup
+      label: How much time did setup take?
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15-30 minutes
+      - More than 30 minutes
+      required: false
+    - id: 9
+      name: first_impressions
+      label: What was your first impression of the app?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 10
+      name: initial_challenges
+      label: Did you encounter any challenges during onboarding?
+      hint: null
+      type: select_one
+      options:
+      - No challenges
+      - Minor challenges
+      - Moderate challenges
+      - Significant challenges
+      - Couldn't complete onboarding
+      required: true
+    - id: 11
+      name: challenge_description
+      label: Please describe the challenges you faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feature_understanding
+      label: -- Feature Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: core_features_understood
+      label: Do you understand the core features?
+      hint: null
+      type: select_one
+      options:
+      - Fully understand
+      - Mostly understand
+      - Partially understand
+      - Barely understand
+      - Don't understand
+      required: true
+    - id: 14
+      name: help_resources
+      label: Which help resources were most useful?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tutorial videos
+      - Documentation
+      - Interactive walkthrough
+      - Live chat support
+      - Email support
+      required: false
+    - id: 15
+      name: confidence_level
+      label: How confident are you using the app now?
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident at all
+      required: true
+    - id: 16
+      name: ready_to_explore
+      label: Are you ready to explore advanced features?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, maybe later
+      - Not sure
+      - No
+      required: false

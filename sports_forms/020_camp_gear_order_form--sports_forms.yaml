@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Gear Order Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization Name
+      hint: Organization placing the order
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_sku
+      label: Item SKU or Description
+      hint: Specific item to order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: size_options
+      label: Size Options
+      hint: Select size if applicable
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship the order
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_info
+      label: Billing Information
+      hint: PO number or billing account
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: required_by_date
+      label: Required By Date
+      hint: Date the gear is needed by
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: Internal approval required for orders
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: Any other instructions for fulfillment
+      type: text
+      options: []
+      required: false

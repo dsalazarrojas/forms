@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Attitude Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: How do you feel about your work environment?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: How satisfied are you with your job?
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: communication
+      label: How do you feel about communication among team members?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: false
+    - id: 4
+      name: manager_support
+      label: How much support do you receive from your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: work_life_balance
+      label: How do you feel about your work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: false
+    - id: 6
+      name: employee_satisfaction
+      label: How satisfied are you with your job?
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: feedback
+      label: Any feedback about your work environment?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_survey_8
+      label: How do you feel about your work environment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_satisfaction_9
+      label: How satisfied are you with your job?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: communication_10
+      label: How do you feel about communication among team members?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_support_11
+      label: How much support do you receive from your manager?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracurricular Activities Declaration Form
+    pages:
+    - id: 1
+      name: student_participation
+      label: Student Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: club_affiliations
+      label: Club Affiliations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sports_participation
+      label: Sports Participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_leaderships
+      label: Student Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sports_coaches
+      label: Sports Coaches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_clubs
+      label: Student Clubs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: other_extracurricular
+      label: Other Extracurricular
+      hint: null
+      type: text
+      options: []
+      required: false

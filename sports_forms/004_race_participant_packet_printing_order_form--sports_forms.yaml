@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: race-participant-packet-printing-order-form
+    pages:
+    - id: 1
+      name: race_participant_packet_printing_order_form
+      label: race-participant-packet-printing-order-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_quantity
+      label: order-quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details_1
+      label: delivery-details-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_details_2
+      label: delivery-details-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_1
+      label: payment-1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: packet_type
+      label: packet-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: order_quantity_2
+      label: order-quantity-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_2
+      label: payment-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_quantity_3
+      label: order-quantity-3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_3
+      label: payment-3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_details_3
+      label: delivery-details-3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false

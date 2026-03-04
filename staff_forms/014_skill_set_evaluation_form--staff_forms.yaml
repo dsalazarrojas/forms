@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Set Evaluation Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: programming_languages
+      label: Programming Languages
+      hint: null
+      type: select_one
+      options:
+      - C++
+      - C#
+      - Java
+      - Python
+      - C
+      - C#
+      required: true
+    - id: 6
+      name: development_environment
+      label: Development Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - Linux
+      - Mac
+      required: false
+    - id: 7
+      name: databases_used
+      label: Databases Used
+      hint: null
+      type: select_multiple
+      options:
+      - SQL
+      - NoSQL
+      - Oracle
+      required: false
+    - id: 8
+      name: programming_languages_proficient
+      label: Proficient Programming Languages
+      hint: null
+      type: select_multiple
+      options:
+      - C++
+      - C#
+      - Java
+      required: true
+    - id: 9
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

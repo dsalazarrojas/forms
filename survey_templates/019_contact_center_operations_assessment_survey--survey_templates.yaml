@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Center Operations Assessment Survey
+    pages:
+    - id: 1
+      name: section_agent_info
+      label: -- Agent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: Your full name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_department
+      label: Team/Department
+      hint: Select your team
+      type: select_one
+      options:
+      - Customer Support
+      - Technical Support
+      - Sales/Inbound
+      - Billing/Account Management
+      - Other
+      required: true
+    - id: 4
+      name: tenure_in_contact_center
+      label: Tenure in Contact Center (Months)
+      hint: How long have you been with the team?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: section_training_assessment
+      label: -- Training and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quality_of_initial_training
+      label: Quality of Initial Training
+      hint: Rate the training you received upon hire
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: accessibility_of_knowledge_base
+      label: Accessibility of Knowledge Base
+      hint: Can you find information when you need it?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: adequacy_of_hardware_software
+      label: Adequacy of Hardware and Software
+      hint: Rate the tools you use to perform your job
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: training_needs
+      label: Training Needs
+      hint: What areas do you need more training in?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_communication
+      label: -- Communication and Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: effectiveness_of_manager_communication
+      label: Effectiveness of Manager Communication
+      hint: Rate how well your manager communicates goals
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: frequency_of_feedback
+      label: Frequency of Feedback
+      hint: How often do you receive coaching or feedback?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 13
+      name: team_collaboration
+      label: Team Collaboration
+      hint: Rate the level of teamwork in your department
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: section_job_satisfaction
+      label: -- Job Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: overall_job_satisfaction
+      label: Overall Job Satisfaction
+      hint: How satisfied are you with your role?
+      type: select_one
+      options:
+      - 1 - Dissatisfied
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Satisfied
+      required: true
+    - id: 16
+      name: likelihood_to_stay_6_months
+      label: Likelihood to Stay (Next 6 Months)
+      hint: Do you plan to remain in your current role?
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Neutral
+      - Not Likely
+      required: true
+    - id: 17
+      name: biggest_challenge_in_role
+      label: Biggest Challenge in Your Role
+      hint: What is the most difficult part of your job?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suggestions_for_improvement
+      label: Suggestions for Operations Improvement
+      hint: How can we make the contact center better?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

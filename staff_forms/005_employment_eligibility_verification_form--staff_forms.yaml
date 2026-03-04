@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Eligibility Verification Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employer_info
+      label: Employer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_employment
+      label: Date Of Employment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_day_of_employment
+      label: Last Day Of Employment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_employment_termination
+      label: Reason For Employment Termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''label'': ''Still employed'', ''hint'': None, ''value'': ''employed''}'
+      - '{''id'': 14, ''label'': ''Not employed'', ''hint'': None, ''value'': ''not_employed''}'
+      - '{''id'': 15, ''label'': ''Terminated'', ''hint'': None, ''value'': ''terminated''}'
+      required: false
+    - id: 13
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_date_worked
+      label: Last Date Worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: last_date_pay
+      label: Last Date Paid
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rate_of_pay
+      label: Rate Of Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: gross_salary
+      label: Gross Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: net_pay
+      label: Net Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

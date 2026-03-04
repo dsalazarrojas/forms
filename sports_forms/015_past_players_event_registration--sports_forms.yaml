@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Past Players Event Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Maybe'', ''value'': ''maybe''}'
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''label'': ''Not Started'', ''value'': ''not_started''}'
+      required: false

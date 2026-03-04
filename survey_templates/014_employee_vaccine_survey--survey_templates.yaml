@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Vaccine Survey
+    pages:
+    - id: 1
+      name: survey_template
+      label: Employee Vaccine Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_group
+      label: Healthcare Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: vaccination_type
+      label: Type of Vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: date_administered
+      label: Date Administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: survey_completed
+      label: Have you completed your vaccinations?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,359 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chinese Language Proficiency Assessment
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: Basic details about the student
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: English and Chinese if applicable
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chinese_name
+      label: Chinese Name
+      hint: Characters if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Current Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      - Adult learner
+      - Other
+      required: true
+    - id: 7
+      name: school_or_organization
+      label: School or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: Student or parent email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: background_information
+      label: Language Background
+      hint: Your Chinese language experience
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: heritage_background
+      label: Do you have Chinese heritage
+      hint: null
+      type: select_one
+      options:
+      - Yes, both parents
+      - Yes, one parent
+      - Yes, grandparent
+      - No Chinese heritage
+      required: true
+    - id: 11
+      name: home_language
+      label: Is Chinese spoken at home
+      hint: null
+      type: select_one
+      options:
+      - Yes, primarily
+      - Yes, sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: years_studying
+      label: How many years have you studied Chinese
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5-6 years
+      - 7-10 years
+      - More than 10 years
+      - Native speaker
+      required: true
+    - id: 13
+      name: previous_study
+      label: Where have you studied Chinese
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Public school
+      - Private school
+      - Chinese school
+      - Online courses
+      - Private tutor
+      - University
+      - Self-study
+      - In China
+      - Other
+      required: false
+    - id: 14
+      name: living_experience
+      label: Have you lived in a Chinese-speaking country
+      hint: null
+      type: select_one
+      options:
+      - Yes, currently living there
+      - Yes, for more than 2 years
+      - Yes, for 1-2 years
+      - Yes, for less than 1 year
+      - No, never
+      required: true
+    - id: 15
+      name: self_assessment
+      label: Self-Assessment
+      hint: Rate your own abilities
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: listening_skill
+      label: How would you rate your listening skills
+      hint: Understanding spoken Chinese
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Fluent
+      - Native
+      required: true
+    - id: 17
+      name: speaking_skill
+      label: How would you rate your speaking skills
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Fluent
+      - Native
+      required: true
+    - id: 18
+      name: reading_skill
+      label: How would you rate your reading skills
+      hint: Understanding written Chinese
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Fluent
+      - Native
+      required: true
+    - id: 19
+      name: writing_skill
+      label: How would you rate your writing skills
+      hint: Writing Chinese characters
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Fluent
+      - Native
+      required: true
+    - id: 20
+      name: character_recognition
+      label: Approximately how many Chinese characters can you recognize
+      hint: null
+      type: select_one
+      options:
+      - Less than 100
+      - 100-300
+      - 301-500
+      - 501-1000
+      - 1001-2000
+      - 2001-3000
+      - More than 3000
+      required: true
+    - id: 21
+      name: pinyin_knowledge
+      label: How comfortable are you with Pinyin
+      hint: Chinese romanization system
+      type: select_one
+      options:
+      - Not familiar
+      - Basic understanding
+      - Comfortable
+      - Very comfortable
+      - Expert level
+      required: true
+    - id: 22
+      name: tones_knowledge
+      label: How well can you distinguish and produce tones
+      hint: null
+      type: select_one
+      options:
+      - Cannot distinguish tones
+      - Can distinguish but struggle to produce
+      - Can produce with difficulty
+      - Generally accurate
+      - Very accurate
+      required: true
+    - id: 23
+      name: learning_goals
+      label: Learning Goals
+      hint: Your objectives for studying Chinese
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: primary_goal
+      label: What is your primary goal for learning Chinese
+      hint: null
+      type: select_one
+      options:
+      - Heritage connection
+      - Travel
+      - Business
+      - Academic purposes
+      - Personal interest
+      - Work requirement
+      - Immigration
+      - Other
+      required: true
+    - id: 25
+      name: target_skills
+      label: Which skills do you most want to improve
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Listening
+      - Speaking
+      - Reading
+      - Writing
+      - Character recognition
+      - Pronunciation
+      - Grammar
+      - Conversation
+      - Business Chinese
+      - Test preparation
+      required: true
+    - id: 26
+      name: test_preparation
+      label: Are you preparing for a Chinese proficiency test
+      hint: null
+      type: select_one
+      options:
+      - Yes, HSK
+      - Yes, AP Chinese
+      - Yes, IB Chinese
+      - Yes, OPI
+      - Yes, other test
+      - false
+      required: true
+    - id: 27
+      name: writing_sample
+      label: Writing Sample
+      hint: Demonstrate your writing ability
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: write_introduction
+      label: Please write a brief self-introduction in Chinese
+      hint: Use characters if possible
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: write_paragraph
+      label: Write a short paragraph about your hobbies
+      hint: In Chinese characters
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: assessment_purpose
+      label: Assessment Purpose
+      hint: Why this assessment is needed
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: assessment_reason
+      label: Reason for Assessment
+      hint: null
+      type: select_one
+      options:
+      - Course placement
+      - Program admission
+      - Scholarship application
+      - Employment
+      - Personal evaluation
+      - Other
+      required: true
+    - id: 32
+      name: preferred_dialect
+      label: Which Chinese dialect are you studying
+      hint: null
+      type: select_one
+      options:
+      - Mandarin
+      - Cantonese
+      - Taiwanese
+      - Shanghainese
+      - Other
+      - Multiple
+      required: true
+    - id: 33
+      name: simplified_or_traditional
+      label: Which character system do you prefer
+      hint: null
+      type: select_one
+      options:
+      - Simplified
+      - Traditional
+      - Both
+      - Neither
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false

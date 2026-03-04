@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_drill_checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_drill_schedule
+      label: Fire Drill Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: alarm_system_test
+      label: Alarm System Test
+      hint: null
+      type: select_one
+      options:
+      - Fire Alarm System Test
+      - Fire Alarm System Inspection
+      - Fire Alarm System Maintenance
+      required: false
+    - id: 5
+      name: fire_drill_procedures
+      label: Fire Drill Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_info
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assembly_area_evacuation
+      label: Assembly Area Evacuation
+      hint: null
+      type: select_multiple
+      options:
+      - North Side of Building
+      - East Side of Building
+      - South Side of Building
+      - West Side of Building
+      - Other
+      - Other - specify
+      required: false
+    - id: 8
+      name: evacuation_route
+      label: Evacuation Route
+      hint: null
+      type: select_multiple
+      options:
+      - Stairwell
+      - Elevator
+      - Other
+      - Other - specify
+      required: false
+    - id: 9
+      name: safety_equipment_testing
+      label: Safety Equipment Testing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 11
+      name: first_aid_kits
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid Kit
+      - Other
+      - Other - specify
+      required: false
+    - id: 12
+      name: emergency_exit_signs
+      label: Emergency Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: fire_drill_signs
+      label: Fire Drill Signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: sprinkler_systems
+      label: Sprinkler Systems
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      - Other - specify
+      required: false
+    - id: 15
+      name: fire_extinguishing_systems
+      label: Fire Extinguishing Systems
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 16
+      name: emergency_exit_signs_location
+      label: Emergency Exit Signs Location
+      hint: null
+      type: select_one
+      options:
+      - Near Fire Extinguishers
+      - Near Exit Doors
+      - Other
+      - Other - specify
+      required: false
+    - id: 17
+      name: fire_alarm_system_location
+      label: Fire Alarm System Location
+      hint: null
+      type: select_multiple
+      options:
+      - Near Fire Extinguishers
+      - Near Exit Doors
+      - Other
+      - Other - specify
+      required: false
+    - id: 18
+      name: fire_drill_annually
+      label: Fire Drills Annually
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: fire_drill_quarterly
+      label: Fire Drills Quarterly
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: first_aid_training
+      label: First Aid Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: staff_familiarization
+      label: Staff Familiarization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: fire_drill_annually_frequency
+      label: Fire Drills Annually Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Quarterly
+      - Other
+      required: false
+    - id: 23
+      name: first_aid_training_frequency
+      label: First Aid Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Quarterly
+      - Other
+      required: false
+    - id: 24
+      name: fire_drill_annually_frequency_location
+      label: Fire Drills Annually Frequency Location
+      hint: null
+      type: select_one
+      options:
+      - Near Fire Extinguishers
+      - Near Exit Doors
+      - Other
+      - Other - specify
+      required: false
+    - id: 25
+      name: fire_extinguishing_system_frequency
+      label: Fire Extinguishing Systems Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Quarterly
+      - Other
+      - Other - specify
+      required: false

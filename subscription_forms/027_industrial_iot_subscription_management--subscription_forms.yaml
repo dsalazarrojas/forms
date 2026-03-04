@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial IoT Subscription Management
+    pages:
+    - id: 1
+      name: main
+      label: Industrial
+      hint: null
+      type: select_one
+      options:
+      - Industrial
+      - Service
+      required: true
+    - id: 2
+      name: plan
+      label: Plan
+      hint: Select a plan for your industrial IoT subscription
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_changes
+      label: Account Changes
+      hint: List any account changes
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: onboarding
+      label: Onboarding
+      hint: null
+      type: select_multiple
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: terms
+      label: Confirm Plan
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      required: true
+    - id: 12
+      name: onboarded
+      label: Onboarded
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: onboarded_how
+      label: Onboarded How
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Email & Phone
+      required: true
+    - id: 14
+      name: onboarded_at
+      label: Onboarded At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: onboarded_at_time
+      label: Onboarded At Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - Onboarding Notes
+      - Account Changes
+      - Onboarding Schedule
+      required: true
+    - id: 17
+      name: notes_text
+      label: Notes Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: onboarded_how_text
+      label: Onboarded How Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: onboarded_at_text
+      label: Onboarded At Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: onboarded_at_time_text
+      label: Onboarded At Time Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: onboarded_at_datetime
+      label: Onboarded At Datetime
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: onboarded_at_date
+      label: Onboarded At Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: onboarded_at_time_text
+      label: Onboarded At Time Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: onboarded_at_datetime_text
+      label: Onboarded At Datetime Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: onboarded_at_datetime_text_2
+      label: Onboarded At Datetime Text 2
+      hint: null
+      type: text
+      options: []
+      required: true

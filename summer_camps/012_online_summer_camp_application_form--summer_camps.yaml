@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_summer_camp_application_form
+    pages:
+    - id: 1
+      name: summer_camp_name
+      label: Summer Camp Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: summer_camp_type
+      label: Summer Camp Type
+      hint: null
+      type: select_one
+      options:
+      - Nature
+      - Adventure
+      - Water
+      - Arts
+      - Sports
+      - Other
+      required: true
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatjanie
+      - other
+      required: true

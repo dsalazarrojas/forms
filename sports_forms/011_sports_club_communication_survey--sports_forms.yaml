@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_club_communication_survey
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sports_section
+      label: Sport
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Soccer''}'
+      - '{''label'': ''Basketball''}'
+      - '{''label'': ''Football''}'
+      - '{''label'': ''Hockey''}'
+      required: false
+    - id: 5
+      name: coach_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_no
+      label: Contact No
+      hint: null
+      type: text
+      options: []
+      required: false

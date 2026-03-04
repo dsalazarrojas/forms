@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Repayment Form
+    pages:
+    - id: 1
+      name: student_registration_forms_loan_repayment_form_fields_loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_registration_forms_loan_repayment_form_fields_issuer
+      label: issuer
+      hint: null
+      type: select_one
+      options:
+      - Student Loan A
+      - Student Loan B
+      - Student Loan C
+      required: false
+    - id: 3
+      name: student_registration_forms_loan_repayment_form_fields_interest_rate
+      label: interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_registration_forms_loan_repayment_form_fields_repayment_date
+      label: repayment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_registration_forms_loan_repayment_form_fields_repayment_frequency
+      label: repayment_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once a month
+      - Twice a month
+      - Three times a month
+      - Four times a month
+      required: false
+    - id: 6
+      name: student_registration_forms_loan_repayment_form_fields_total_repayment
+      label: total_repayment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_registration_forms_loan_repayment_form_fields_additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_registration_forms_loan_repayment_form_fields_issuer_email
+      label: issuer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_registration_forms_loan_repayment_form_fields_issuer_phone
+      label: issuer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_registration_forms_loan_repayment_form_fields_issuer_name
+      label: issuer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_registration_forms_loan_repayment_form_fields_issuer_address
+      label: issuer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_registration_forms_loan_repayment_form_fields_issuer_note
+      label: issuer_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Program Admission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: academic_background
+      label: academic background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gpa
+      label: gpa
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: test_scores
+      label: test scores
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: language_proficiency
+      label: language proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: english_proficiency
+      label: english proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: programming_languages
+      label: programming languages
+      hint: null
+      type: select_multiple
+      options:
+      - c
+      - c++
+      - java
+      - python
+      - ruby
+      required: false
+    - id: 14
+      name: computer_science_background
+      label: computer science background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_experience
+      label: work experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_background
+      label: education background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: references
+      label: references
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent_to_process
+      label: consent to process
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Exhibition Supplies Order Form
+    pages:
+      - id: 1
+        name: order_id
+        label: Order ID
+        hint: Internal order reference
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requestor
+        label: Requestor name
+        hint: Person placing the order
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: delivery_address
+        label: Delivery address
+        hint: Where supplies should be delivered
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: supply_items
+        label: Supply items required
+        hint: List items and quantities
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: required_by_date
+        label: Required by date
+        hint: Date items are needed
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: vendor_preference
+        label: Vendor preference
+        hint: Preferred supplier if any
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: budget_code
+        label: Budget code
+        hint: Internal accounting code
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: approval_status
+        label: Approval status
+        hint: Approval flow for procurement
+        type: select_one
+        options: [Pending, Approved, Denied]
+        required: true
+      - id: 9
+        name: approver_name
+        label: Approver name
+        hint: Name of approving manager
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: delivery_instructions
+        label: Delivery instructions
+        hint: Special delivery notes
+        type: text
+        options: []
+        required: false

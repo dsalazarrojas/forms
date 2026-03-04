@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Goer Future Event Preferences Survey
+    pages:
+      - id: 1
+        name: introduction
+        label: Introduction
+        hint: Help us plan better events by sharing your preferences
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - for follow-up contact
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: Receive updates about future events
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 5
+        name: music_preferences
+        label: Music Preferences
+        hint: Select all genres you enjoy
+        type: select_multiple
+        options:
+          - Rock
+          - Pop
+          - Classical
+          - Jazz
+          - Country
+          - Electronic/EDM
+          - Hip Hop/Rap
+          - R and B/Soul
+          - Folk/Acoustic
+          - Other
+        required: true
+      - id: 6
+        name: preferred_event_size
+        label: Preferred Event Size
+        hint: What size venue do you prefer
+        type: select_one
+        options:
+          - Small intimate venue under 500
+          - Medium venue 500 to 2000
+          - Large venue 2000 to 10000
+          - Arena or stadium over 10000
+        required: true
+      - id: 7
+        name: preferred_day_of_week
+        label: Preferred Day of Week
+        hint: Which days work best for you
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 8
+        name: preferred_time
+        label: Preferred Start Time
+        hint: What time do you prefer events to start
+        type: select_one
+        options:
+          - Matinee 1 PM to 4 PM
+          - Early Evening 5 PM to 7 PM
+          - Prime Time 7 PM to 9 PM
+          - Late Night 9 PM or later
+        required: true
+      - id: 9
+        name: ticket_price_range
+        label: Ticket Price Range
+        hint: What price range is comfortable for you
+        type: select_one
+        options:
+          - Budget friendly under $30
+          - Moderate $30 to $75
+          - Premium $75 to $150
+          - VIP $150 or more
+        required: true
+      - id: 10
+        name: seating_preference
+        label: Seating Preference
+        hint: How do you prefer to experience concerts
+        type: select_one
+        options:
+          - Standing room near stage
+          - Assigned seating
+          - General admission flexible
+          - VIP reserved seating
+          - Balcony or elevated view
+        required: false
+      - id: 11
+        name: additional_services
+        label: Additional Services of Interest
+        hint: Select services you would pay extra for
+        type: select_multiple
+        options:
+          - Meet and greet with artists
+          - Exclusive merchandise
+          - Food and beverage packages
+          - Parking passes
+          - Early entry
+          - Commemorative photos
+          - Behind the scenes tours
+        required: false
+      - id: 12
+        name: notification_preference
+        label: How Do You Prefer to Hear About Events
+        hint: Select your preferred communication channels
+        type: select_multiple
+        options:
+          - Email newsletter
+          - Social media
+          - Text messages
+          - Mobile app notifications
+          - Word of mouth
+          - Local radio
+        required: false
+      - id: 13
+        name: travel_distance
+        label: Maximum Travel Distance
+        hint: How far would you travel for a concert
+        type: select_one
+        options:
+          - Within 10 miles
+          - 10 to 25 miles
+          - 25 to 50 miles
+          - 50 to 100 miles
+          - Over 100 miles willing to travel
+        required: true
+      - id: 14
+        name: group_attendance
+        label: Typical Group Size
+        hint: How many people do you usually attend with
+        type: select_one
+        options:
+          - Solo
+          - 2 people
+          - 3 to 5 people
+          - 6 to 10 people
+          - More than 10 people
+        required: false
+      - id: 15
+        name: special_needs
+        label: Accessibility Requirements
+        hint: Do you require any accessibility accommodations
+        type: select_multiple
+        options:
+          - Wheelchair accessible seating
+          - Assistive listening devices
+          - Sign language interpretation
+          - Service animal accommodation
+          - None required
+          - Other
+        required: false
+      - id: 16
+        name: artist_suggestions
+        label: Artists You Would Like to See
+        hint: Suggest artists or bands for future events
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_feedback
+        label: Additional Suggestions
+        hint: Any other ideas to improve our events
+        type: text
+        options: []
+        required: false

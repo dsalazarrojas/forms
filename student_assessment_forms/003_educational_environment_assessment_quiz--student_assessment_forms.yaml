@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Environment Assessment Quiz
+    pages:
+    - id: 1
+      name: class_resources
+      label: Class Resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_safety
+      label: class_safety
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: teaching_quality
+      label: teaching_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

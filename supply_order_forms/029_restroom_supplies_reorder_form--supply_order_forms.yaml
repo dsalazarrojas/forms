@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restroom Supplies Reorder Form
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''same-day''}'
+      - '{''value'': ''next-business-day''}'
+      - '{''value'': ''unspecified''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false

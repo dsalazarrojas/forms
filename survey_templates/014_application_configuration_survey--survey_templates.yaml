@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Configuration Survey
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: app_name
+        label: Application name
+        hint: Which application are you configuring
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: current_config
+        label: Current configuration summary
+        hint: Describe current settings briefly
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: desired_changes
+        label: Desired configuration changes
+        hint: What changes would improve usability
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: difficulty_level
+        label: Difficulty of configuration
+        hint: Rate how difficult configuration is
+        type: select_one
+        options: [Very easy, Easy, Moderate, Difficult, Very difficult]
+        required: true
+      - id: 6
+        name: important_features
+        label: Most important features
+        hint: List top 3 features for success
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: integration_requirements
+        label: Integration requirements
+        hint: External systems that must integrate
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: contact_for_follow_up
+        label: Contact for follow up
+        hint: Email if follow up is allowed
+        type: email
+        options: []
+        required: false
+      - id: 9
+        name: overall_satisfaction
+        label: Overall satisfaction
+        hint: Rate overall satisfaction
+        type: select_one
+        options: [Very satisfied, Satisfied, Neutral, Unsatisfied, Very unsatisfied]
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

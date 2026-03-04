@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Committee Meeting Scheduling Survey
+    pages:
+      - id: 1
+        name: section_survey_intro
+        label: -- Committee Meeting Scheduling Survey --
+        hint: Please provide your availability and preferences to help us schedule the next meeting.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: committee_name_survey
+        label: Full Committee Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: participant_role
+        label: Committee Member Role
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_general_availability
+        label: -- Weekly Availability and Patterns --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: best_days_pattern
+        label: Which days of the week generally work best for committee meetings
+        hint: null
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+        required: true
+      - id: 7
+        name: preferred_time_period
+        label: What is your preferred time of day for meetings
+        hint: null
+        type: select_one
+        options:
+          - Early Morning (8am - 10am)
+          - Late Morning (10am - 12pm)
+          - Early Afternoon (12pm - 2pm)
+          - Late Afternoon (2pm - 4pm)
+          - Evening (After 5pm)
+        required: true
+      - id: 8
+        name: section_proposed_dates
+        label: -- Proposed Specific Meeting Dates --
+        hint: Please rate your availability for each of the following dates
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: date_option_A
+        label: Monday, June 14
+        hint: null
+        type: select_one
+        options:
+          - Available (Best)
+          - Available (Acceptable)
+          - Not Available
+        required: true
+      - id: 10
+        name: date_option_B
+        label: Tuesday, June 15
+        hint: null
+        type: select_one
+        options:
+          - Available (Best)
+          - Available (Acceptable)
+          - Not Available
+        required: true
+      - id: 11
+        name: date_option_C
+        label: Thursday, June 17
+        hint: null
+        type: select_one
+        options:
+          - Available (Best)
+          - Available (Acceptable)
+          - Not Available
+        required: true
+      - id: 12
+        name: section_format_logistics
+        label: -- Meeting Format and Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: meeting_format_preference
+        label: What is your preferred meeting format for this session
+        hint: null
+        type: select_one
+        options:
+          - In-person at HQ
+          - Online via Zoom
+          - Hybrid (Some in-person, some online)
+        required: true
+      - id: 14
+        name: maximum_meeting_duration
+        label: What is the maximum duration we should aim for
+        hint: null
+        type: select_one
+        options:
+          - 45 Minutes
+          - 60 Minutes
+          - 90 Minutes
+          - 2 Hours
+        required: true
+      - id: 15
+        name: agenda_suggestions
+        label: Are there any specific topics you would like to see on the agenda
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: travel_requirements
+        label: Do you have any specific travel or accessibility requirements
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: section_submission
+        label: -- Form Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: survey_submission_date
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: followup_contact
+        label: Can the committee chair contact you directly if there are scheduling conflicts
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

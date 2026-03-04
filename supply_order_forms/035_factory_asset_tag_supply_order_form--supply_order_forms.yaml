@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Asset Tag Supply Order Form
+    pages:
+    - id: 1
+      name: factory_asset_tag_supply_order_form_1
+      label: Select Item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: item_description_1
+      label: description
+      hint: A brief description of the item
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_tag_1
+      label: Item Tag
+      hint: The item tag to be used
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 4
+      name: item_tag_2
+      label: Item Tag 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: item_tag_3
+      label: Item Tag 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: order_date_1
+      label: Order Date
+      hint: Date of the order
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time_1
+      label: Order Time
+      hint: Time of the order
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: item_quantity_1
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_frequency_1
+      label: Order Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: order_status_1
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: false
+    - id: 11
+      name: order_note_1
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false

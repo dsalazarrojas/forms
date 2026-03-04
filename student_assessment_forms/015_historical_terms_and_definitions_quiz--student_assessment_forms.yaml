@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Terms And Definitions Quiz
+    pages:
+    - id: 1
+      name: quiz_form
+      label: Quiz Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: history_quiz_question
+      label: What is this word?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1 value''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2 value''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3 value''}'
+      required: false
+    - id: 3
+      name: historical_period
+      label: Historical Period
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ancient'', ''value'': ''Ancient''}'
+      - '{''label'': ''Medieval'', ''value'': ''Medieval''}'
+      - '{''label'': ''Modern'', ''value'': ''Modern''}'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: historical_date
+      label: Historical Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

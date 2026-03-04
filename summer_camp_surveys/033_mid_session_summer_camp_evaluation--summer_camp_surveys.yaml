@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mid Session Summer Camp Evaluation
+    pages:
+    - id: 1
+      name: summer_camp_evaluation_form_data_1
+      label: What was your experience at summer camp?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_camp_evaluation_form_data_2
+      label: How many days did you attend summer camp?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: summer_camp_evaluation_form_data_5
+      label: What time is your first name scheduled?
+      hint: "Please enter time as HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: summer_camp_evaluation_form_data_6
+      label: Which camp activities did you participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - Arts and Crafts
+      - Climbing
+      - Games
+      - Music
+      - Sports
+      - Swimming
+      - Wildlife
+      required: false
+    - id: 8
+      name: summer_camp_evaluation_form_data_7
+      label: How would you rate your overall satisfaction with your summer camp experience?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: summer_camp_evaluation_form_data_8
+      label: Will you attend summer camp again next year?
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 10
+      name: email
+      label: Email (Optional)
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: summer_camp_evaluation_form_data_9
+      label: Phone number (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: summer_camp_evaluation_form_data_10
+      label: Do you have any suggestions for improving our summer camp?
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_product_subscription_form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: ehr_transition_services_survey
+    pages:
+    - id: 1
+      name: form_intro
+      label: Form Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ehr_implementation_experiences
+      label: EHR Implementation Experiences
+      hint: Describe your EHR implementation experiences
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: training_effectiveness
+      label: Training Effectiveness
+      hint: Rate your EHR training effectiveness
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: transition_challenges
+      label: Transition Challenges
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: future_improvement_suggestions
+      label: Future Improvement Suggestions
+      hint: What can be improved in future EHR implementations?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ehr_system_experience
+      label: EHR System Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ehr_training_attended
+      label: EHR Training Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: ehr_system_experience_rating
+      label: EHR System Experience Rating
+      hint: Rate your EHR system experience
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_evaluation_rubric
+    pages:
+    - id: 1
+      name: video_evaluation_rubric
+      label: Video Evaluation Rubric
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Student Performance
+      - Peer-to-Peer Review
+      - Peer-to-Peer Self-Review
+      required: false
+    - id: 3
+      name: creativity
+      label: Creativity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: originality
+      label: Originality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: relevance
+      label: Relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: effectiveness
+      label: Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: impact
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false

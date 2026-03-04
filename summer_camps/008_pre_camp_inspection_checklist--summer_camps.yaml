@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-camp-inspection-checklist
+    pages:
+    - id: 1
+      name: checklists
+      label: Checklists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazards
+      label: Hazards
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 3
+      name: facilities
+      label: Facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff
+      label: Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emails
+      label: Emails
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phones
+      label: Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Cat 1
+      - Cat 2
+      - Cat 3
+      required: true
+    - id: 11
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Subcat 1
+      - Subcat 2
+      - Subcat 3
+      required: false

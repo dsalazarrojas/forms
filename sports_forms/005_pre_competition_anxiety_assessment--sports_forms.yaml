@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Competition Anxiety Assessment
+    pages:
+    - id: 1
+      name: pre_competition_anxiety_assessment
+      label: pre_competition_anxiety_assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: athlete_name
+      label: athlete_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_id
+      label: athlete_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: event_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time_of_event
+      label: date_and_time_of_event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pre_game_anxiety_level
+      label: pre_game_anxiety_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: anxiety_level_reasons
+      label: anxiety_level_reasons
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

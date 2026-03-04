@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Supply Chain Update Request Form
+    pages:
+    - id: 1
+      name: pet_product_supply_chain_update_request_form_page_1
+      label: Pet Product Supply Chain Update Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_product_supply_chain_update_request_form_page_2
+      label: Inventory Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pet_product_supply_chain_update_request_form_page_3
+      label: Shipment Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_product_supply_chain_update_request_form_page_4
+      label: Product Update Request
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: pet_product_supply_chain_update_request_form_page_5
+      label: Product Update Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_product_supply_chain_update_request_form_page_6
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_product_supply_chain_update_request_form_page_7
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: pet_product_supply_chain_update_request_form_page_8
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: true

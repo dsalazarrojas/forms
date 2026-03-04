@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ascended Strength And Power PT Consultation Questionnaire
+    pages:
+    - id: 1
+      name: client_full_name_pt
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_age_pt
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: client_occupation_pt
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fitness_goals_pt
+      label: Primary Fitness Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Weight Loss
+      - Muscle Gain/Hypertrophy
+      - Endurance/Stamina
+      - Flexibility/Mobility
+      - Strength/Power
+      - Sport-specific Training
+      required: true
+    - id: 5
+      name: current_activity_level_pt
+      label: Current Activity Level
+      hint: 1 - sedentary, 5 - very active
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: medical_history_pt
+      label: Medical History and Previous Injuries
+      hint: Please list any conditions that might affect exercise
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nutritional_habits_pt
+      label: General Nutritional Habits
+      hint: Describe your typical daily diet
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sleep_hours_pt
+      label: Average hours of sleep per night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: stress_level_pt
+      label: Current Stress Level
+      hint: 1 - very low, 10 - extreme stress
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: training_availability_pt
+      label: Availability for Personal Training
+      hint: e.g. Mon/Wed/Fri mornings
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: motivation_pt
+      label: Why do you want to start training now
+      hint: null
+      type: text
+      options: []
+      required: true

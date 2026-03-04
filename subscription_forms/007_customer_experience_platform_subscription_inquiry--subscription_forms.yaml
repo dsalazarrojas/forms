@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Experience Platform Subscription Inquiry
+    pages:
+    - id: 1
+      name: customer_experience_platform_subscription_inquiry_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_experience_platform_subscription_inquiry_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_experience_platform_subscription_inquiry_3
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_experience_platform_subscription_inquiry_6
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - Plan A
+      - Plan B
+      - Plan C
+      required: true
+    - id: 7
+      name: customer_experience_platform_subscription_inquiry_7
+      label: Rollout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_experience_platform_subscription_inquiry_8
+      label: Rollout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: customer_experience_platform_subscription_inquiry_9
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 7 days
+      - 14 days
+      - 30 days
+      required: false
+    - id: 10
+      name: customer_experience_platform_subscription_inquiry_10
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_experience_platform_subscription_inquiry_11
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_experience_platform_subscription_inquiry_12
+      label: Sales Rep Email
+      hint: null
+      type: email
+      options: []
+      required: false

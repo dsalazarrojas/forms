@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admission Form For Secondary School
+    pages:
+    - id: 1
+      name: admission_header
+      label: -- Secondary School Admission Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_name
+      label: Parent/Guardian Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_email
+      label: Parent/Guardian Email
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_phone
+      label: Parent/Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_full_name
+      label: Student Full Name
+      hint: Child's full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: Child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: student_gender
+      label: Student Gender
+      hint: Child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 13
+      name: grade_applying_for
+      label: Grade Applying For
+      hint: What grade level is the student applying for?
+      type: select_one
+      options:
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 14
+      name: previous_school
+      label: Previous School
+      hint: Name of the student's previous school
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_grade_completed
+      label: Previous Grade Completed
+      hint: What grade did the student complete last year?
+      type: select_one
+      options:
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      required: true
+    - id: 16
+      name: academic_transcript_attached
+      label: Academic Transcript Attached
+      hint: Is the academic transcript attached to this application?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will be sent separately
+      required: true
+    - id: 17
+      name: standardized_test_scores
+      label: Standardized Test Scores
+      hint: Any standardized test scores to include
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_needs
+      label: Special Educational Needs
+      hint: Does the student have any special educational needs?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: special_needs_details
+      label: Special Needs Details
+      hint: If yes, please describe the special needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Does the student have any medical conditions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: medical_conditions_details
+      label: Medical Conditions Details
+      hint: If yes, please describe the medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications_required
+      label: Medications Required
+      hint: Does the student require any medications during school hours?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to the student
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Does the student need transportation to/from school?
+      type: select_one
+      options:
+      - School bus
+      - Private transportation
+      - Walking
+      - Biking
+      - Other
+      required: true
+    - id: 27
+      name: extracurricular_interests
+      label: Extracurricular Interests
+      hint: What extracurricular activities is the student interested in?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: application_date
+      label: Application Date
+      hint: Date of submitting this application
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: Electronic signature to confirm application
+      type: text
+      options: []
+      required: true

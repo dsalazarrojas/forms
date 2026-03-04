@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_probation_form
+    pages:
+    - id: 1
+      name: review_performance
+      label: Review Performance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: new_hire
+      label: New Hire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: probation_period
+      label: Probation Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Unsatisfactory
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

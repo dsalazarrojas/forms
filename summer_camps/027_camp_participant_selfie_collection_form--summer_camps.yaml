@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Participant Selfie Collection Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Name of the camper in the selfie
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_taken
+        label: Date Photo Taken
+        hint: Date when the selfie was taken
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: uploader_name
+        label: Name of Person Uploading Photo
+        hint: Camper or staff member uploading the image
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: consent_for_use
+        label: Consent for Photo Use
+        hint: Permission to use photo in camp communications
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 5
+        name: photo_description
+        label: Photo Description
+        hint: Brief description of the photo content
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: location_of_photo
+        label: Location Where Photo Was Taken
+        hint: Camp area or activity
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: photographer_name
+        label: Photographer Name
+        hint: Person who took the photo if different
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: usage_limitations
+        label: Usage Limitations
+        hint: Any restrictions on how the photo may be used
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: parent_contacted
+        label: Parent Contacted about Photo
+        hint: Whether parent or guardian was informed
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other context for the photo submission
+        type: text
+        options: []
+        required: false

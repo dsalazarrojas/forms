@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: gap_analysis_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_performance
+      label: Current Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_goals
+      label: Business Goals
+      hint: null
+      type: select_one
+      options:
+      - Options 1
+      - Options 2
+      - Options 3
+      - Options 4
+      - Options 5
+      - Options 6
+      - Options 7
+      - Options 8
+      required: false
+    - id: 4
+      name: performance_gap
+      label: Performance Gap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: business_stakeholders
+      label: Business Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      required: false
+    - id: 6
+      name: stakeholder_insights
+      label: Stakeholder Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

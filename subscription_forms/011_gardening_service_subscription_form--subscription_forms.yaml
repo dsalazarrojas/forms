@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Service Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Your phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: Your start date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End date
+      hint: Your end date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_details
+      label: Service details
+      hint: Additional details about the service
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Service type
+      hint: Type of service
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A'', ''value'': ''A''}'
+      - '{''id'': 2, ''label'': ''B'', ''value'': ''B''}'
+      required: true

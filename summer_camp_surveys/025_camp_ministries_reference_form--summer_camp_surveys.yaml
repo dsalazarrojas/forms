@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Ministries Reference Form
+    pages:
+      - id: 1
+        name: referee_name
+        label: Referee Name
+        hint: Person providing the reference
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: referee_contact
+        label: Referee Contact Information
+        hint: Phone or email of the referee
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: candidate_name
+        label: Candidate Name
+        hint: Name of volunteer or applicant
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: relationship_to_candidate
+        label: Relationship to Candidate
+        hint: How the referee knows the candidate
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: suitability_rating
+        label: Suitability Rating
+        hint: How suitable is the candidate for camp ministry
+        type: select_one
+        options: [Highly Suitable, Suitable, Unsure, Not Suitable]
+        required: true
+      - id: 6
+        name: strengths
+        label: Candidate Strengths
+        hint: Key strengths and qualities observed
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: areas_for_development
+        label: Areas for Development
+        hint: Suggestions for growth or training
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommendation
+        label: Recommendation
+        hint: Would you recommend this person for the role
+        type: select_one
+        options: [Yes, No, Maybe]
+        required: true
+      - id: 9
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other relevant information for selection
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: date_of_reference
+        label: Date of Reference
+        hint: When this reference was provided
+        type: date
+        options: []
+        required: false

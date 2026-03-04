@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firearm Dry Fire Training Log
+    pages:
+    - id: 1
+      name: dry_fire_date
+      label: Dry Fire Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: firearm_used
+      label: Firearm Used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: caliber_used
+      label: Caliber Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rounds_fired
+      label: Rounds Fired
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: dry_fire_type
+      label: Dry Fire Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_distance
+      label: Target Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rounds_stripped
+      label: Rounds Stripped
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_practicing
+      label: Time Spent Practicing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_coach
+      label: Assigned Coach
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

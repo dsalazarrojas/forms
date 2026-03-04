@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diabetes Exercise Myths Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: myths
+      label: common-myths
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Myth 1''}'
+      - '{''label'': ''Myth 2''}'
+      - '{''label'': ''Myth 3''}'
+      required: true
+    - id: 3
+      name: physical_activity
+      label: physical-activity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: education
+      label: educational-experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: beliefs
+      label: beliefs-about-diabetes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exercise_frequency
+      label: exercise-frequencies
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: exercise_duration
+      label: exercise-duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: physical_activity_levels
+      label: physical-activity-levels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: exercise_type
+      label: exercise-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 10
+      name: exercise_facility
+      label: exercise-facility
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: exercise_duration_outside
+      label: exercise-duration-outside
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 12
+      name: exercise_frequency_outside
+      label: exercise-frequency-outside
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 13
+      name: exercise_facility_outside
+      label: exercise-facility-outside
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: physical_activity_duration
+      label: physical-activity-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: exercise_frequency_in_facility
+      label: exercise-frequencies-in-facility
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 16
+      name: exercise_duration_in_facility
+      label: exercise-duration-in-facility
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 17
+      name: educational_experience_outside
+      label: educational-experience-outside
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 18
+      name: exercise_type_outside
+      label: exercise-type-outside
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 19
+      name: physical_activity_duration_outside
+      label: physical-activity-duration-outside
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: beliefs_about_diabetes_outside
+      label: beliefs-about-diabetes-outside
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 21
+      name: exercise_facility_outside_type
+      label: exercise-facility-outside-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 22
+      name: exercise_duration_outside_type
+      label: exercise-duration-outside-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 23
+      name: exercise_facility_outside_duration
+      label: exercise-facility-outside-duration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 24
+      name: physical_activity_duration_outside
+      label: physical-activity-duration-outside
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: educational_experience_outside
+      label: educational-experience-outside
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true

@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Survey
+    pages:
+    - id: 1
+      name: farm_profile_header
+      label: -- Farm Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: State or Region
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_activity
+      label: Primary Activity
+      hint: Main focus
+      type: select_one
+      options:
+      - Crop Farming
+      - Livestock Rearing
+      - Mixed Farming
+      - Aquaculture
+      - Forestry
+      required: true
+    - id: 5
+      name: resources_header
+      label: -- Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: water_source
+      label: Main Water Source
+      hint: Primary irrigation method
+      type: select_one
+      options:
+      - Well / Groundwater
+      - River / Stream
+      - Rainfed
+      - Municipal Supply
+      - Canal System
+      required: true
+    - id: 7
+      name: soil_quality
+      label: Soil Quality Rating
+      hint: General assessment
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 8
+      name: inputs_header
+      label: -- Inputs and Yields --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fertilizer_usage
+      label: Fertilizer Usage
+      hint: Type used most often
+      type: select_one
+      options:
+      - Chemical / Synthetic
+      - Organic / Manure
+      - Both
+      - None
+      required: true
+    - id: 10
+      name: pest_control
+      label: Pest Control Methods
+      hint: How do you manage pests?
+      type: select_multiple
+      options:
+      - Chemical Pesticides
+      - Biological Control
+      - Crop Rotation
+      - Manual Removal
+      - None
+      required: true
+    - id: 11
+      name: annual_yield
+      label: Annual Yield Description
+      hint: e.g. 50 tons of corn
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: challenges
+      label: Major Challenges
+      hint: Biggest obstacles
+      type: select_multiple
+      options:
+      - Climate / Weather
+      - Market Prices
+      - Labor Shortage
+      - Pest Infestations
+      - Input Costs
+      - Access to Credit
+      required: true
+    - id: 13
+      name: future_plans
+      label: Future Investment Plans
+      hint: Do you plan to expand?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Uncertain
+      required: true
+    - id: 14
+      name: contact_info
+      label: Contact Email
+      hint: If you wish to receive results
+      type: email
+      options: []
+      required: false

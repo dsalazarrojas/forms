@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Volunteer Staff Reference Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the volunteer applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_applying_for
+      label: Position Applying For
+      hint: Volunteer role
+      type: select_one
+      options:
+      - Camp counselor
+      - Activity leader
+      - Support staff
+      - Kitchen helper
+      - Administrative support
+      - Maintenance
+      - Medical staff
+      - Other
+      required: true
+    - id: 5
+      name: reference_name
+      label: Reference Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reference_title
+      label: Reference Title or Position
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reference_organization
+      label: Reference Organization
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reference_email
+      label: Reference Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: reference_phone
+      label: Reference Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship_to_applicant
+      label: Relationship to Applicant
+      hint: How do you know them
+      type: select_one
+      options:
+      - Employer or supervisor
+      - Teacher or professor
+      - Pastor or ministry leader
+      - Colleague or coworker
+      - Friend
+      - Neighbor
+      - Family friend
+      - Other
+      required: true
+    - id: 11
+      name: relationship_duration
+      label: How Long Have You Known the Applicant
+      hint: Select duration
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - Over 5 years
+      required: true
+    - id: 12
+      name: applicant_character_rating
+      label: How Would You Rate the Applicant Character
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 13
+      name: applicant_reliability
+      label: How Reliable Is the Applicant
+      hint: Rate reliability
+      type: select_one
+      options:
+      - Very reliable
+      - Mostly reliable
+      - Somewhat reliable
+      - Not very reliable
+      - Unreliable
+      required: true
+    - id: 14
+      name: applicant_responsibility
+      label: How Responsible Is the Applicant
+      hint: Rate responsibility
+      type: select_one
+      options:
+      - Very responsible
+      - Responsible
+      - Somewhat responsible
+      - Not very responsible
+      - Irresponsible
+      required: true
+    - id: 15
+      name: applicant_honesty
+      label: How Would You Rate Their Honesty and Integrity
+      hint: Rate honesty
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: applicant_work_ethic
+      label: How Would You Rate Their Work Ethic
+      hint: Rate work ethic
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 17
+      name: applicant_teamwork
+      label: How Well Does the Applicant Work with Others
+      hint: Rate teamwork
+      type: select_one
+      options:
+      - Excellent team player
+      - Good team player
+      - Works well alone
+      - Some teamwork challenges
+      - Poor team player
+      required: true
+    - id: 18
+      name: applicant_youth_interaction
+      label: How Well Does the Applicant Interact with Youth
+      hint: Rate if observed
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Have not observed
+      required: true
+    - id: 19
+      name: applicant_strengths
+      label: What Are the Applicant Greatest Strengths
+      hint: Describe strengths
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: applicant_weaknesses
+      label: What Areas Could the Applicant Improve
+      hint: Describe areas for growth
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: concerns_about_applicant
+      label: Do You Have Any Concerns About This Applicant
+      hint: Any concerns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: would_trust_with_children
+      label: Would You Trust This Applicant with Your Children
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - completely
+      - Yes - with some reservations
+      - Not sure
+      - false
+      required: true
+    - id: 23
+      name: would_recommend
+      label: Would You Recommend This Applicant for Camp Volunteer Staff
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - highly recommend
+      - Yes - recommend
+      - Somewhat recommend
+      - Would not recommend
+      - Cannot recommend
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reference_signature
+      label: Reference Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overtime Authorization Form
+    pages:
+    - id: 1
+      name: overtime_authorization
+      label: Overtime Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_number
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overtime_type
+      label: Overtime Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Regular'', ''label'': ''Regular''}'
+      - '{''id'': 2, ''name'': ''Double'', ''label'': ''Double''}'
+      - '{''id'': 3, ''name'': ''Triple'', ''label'': ''Triple''}'
+      required: true
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Manager'', ''label'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''Team Lead'', ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''name'': ''Department Head'', ''label'': ''Department Head''}'
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Manager'', ''label'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''Team Lead'', ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''name'': ''Department Head'', ''label'': ''Department Head''}'
+      required: true
+    - id: 13
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: approved_time
+      label: Approved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: total_hours_approved
+      label: Total Hours Approved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: overtime_status
+      label: Overtime Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approved'', ''label'': ''Approved''}'
+      - '{''id'': 2, ''name'': ''Pending'', ''label'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''Denied'', ''label'': ''Denied''}'
+      required: true
+    - id: 17
+      name: overtime_notes
+      label: Overtime Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Transformation Expo Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_email
+      label: Email
+      hint: Enter sponsor email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_website
+      label: Website
+      hint: Enter sponsor website URL
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_logo
+      label: Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Platinum''}'
+      - '{''option'': ''Diamond''}'
+      - '{''option'': ''Gold''}'
+      required: true
+    - id: 7
+      name: sponsorship_details
+      label: Sponsorship Details
+      hint: Describe the sponsorship opportunity
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sponsor_name_agreement
+      label: Sponsor Name on Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sponsor_signature
+      label: Sponsor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sponsor_notes
+      label: Sponsor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sponsor_address
+      label: Sponsor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sponsor_zip
+      label: ZIP/Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sponsor_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sponsor_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''CA''}'
+      - '{''option'': ''NY''}'
+      - '{''option'': ''TX''}'
+      required: true
+    - id: 16
+      name: sponsor_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: sponsor_representative
+      label: Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sponsor_title
+      label: Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: sponsor_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: terms_acceptance
+      label: Acceptance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: agreement_signed_date
+      label: Agreement Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: sponsor_agreement_signed_by
+      label: Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: sponsor_agreement_notes
+      label: Agreement Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: sponsor_agreement_signed_at
+      label: Agreement Signed At
+      hint: null
+      type: time
+      options: []
+      required: true

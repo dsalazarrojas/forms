@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: prom_guest_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''9th'', ''label'': ''9th''}'
+      - '{''name'': ''10th'', ''label'': ''10th''}'
+      - '{''name'': ''11th'', ''label'': ''11th''}'
+      required: false
+    - id: 8
+      name: student_grade_other
+      label: student_grade_other
+      hint: null
+      type: text
+      options: []
+      required: false

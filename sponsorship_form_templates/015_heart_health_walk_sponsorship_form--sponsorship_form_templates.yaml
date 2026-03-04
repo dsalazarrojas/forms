@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heart Health Walk Sponsorship Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sponsorship_frequency
+      label: Sponsorship Frequency
+      hint: null
+      type: select_one
+      options:
+      - Heart Health Walk
+      - Other Events
+      - Ongoing Support
+      required: false
+    - id: 7
+      name: sponsorship_type
+      label: Sponsorship Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Sponsorship
+      - In-Kind Donations
+      - Both
+      required: false
+    - id: 8
+      name: sponsorship_start_date
+      label: Sponsorship Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sponsorship_end_date
+      label: Sponsorship End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: modified_at
+      label: Modified At
+      hint: null
+      type: time
+      options: []
+      required: false

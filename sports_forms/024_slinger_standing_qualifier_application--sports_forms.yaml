@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slinger Standing Qualifier Application
+    pages:
+    - id: 1
+      name: main_info
+      label: Slinger Standing Qualifier Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: When are you available?
+      type: select_multiple
+      options:
+      - 6am-10am
+      - 10am-2pm
+      - 2pm-6pm
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: You must be 18 or older.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - I am a qualified event organizer
+      - I am not a qualified event organizer
+      required: false

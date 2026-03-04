@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form I 9 Employment Eligibility Verification
+    pages:
+    - id: 1
+      name: form_i_9_employment_eligibility_verification
+      label: Form I 9 Employment Eligibility Verification
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select a tool'', ''value'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 5
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true

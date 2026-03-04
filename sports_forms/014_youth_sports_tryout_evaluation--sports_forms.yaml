@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Tryout Evaluation
+    pages:
+    - id: 1
+      name: youth_sports_tryout_evaluation_form
+      label: tryout_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: athlete_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tryout_date
+      label: tryout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: athlete_position
+      label: athlete_position
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Goalkeeper''}'
+      - '{''option'': ''Defender''}'
+      - '{''option'': ''Forward''}'
+      - '{''option'': ''Goalkeeper''}'
+      - '{''option'': ''Midfielder''}'
+      - '{''option'': ''Midfielder''}'
+      - '{''option'': ''Sweeper''}'
+      required: true
+    - id: 6
+      name: athlete_ability
+      label: athlete_ability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Exceptional ball control''}'
+      - '{''option'': ''Good vision''}'
+      - '{''option'': ''Strong footwork''}'
+      - '{''option'': ''Good vision''}'
+      - '{''option'': ''Strong ball control''}'
+      - '{''option'': ''Good communication''}'
+      - '{''option'': ''Strong team work''}'
+      required: false
+    - id: 7
+      name: tryout_coach_comments
+      label: tryout_coach_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tryout_location
+      label: tryout_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tryout_time
+      label: tryout_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: athlete_skill
+      label: athlete_skill
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 2}'
+      - '{''option'': 3}'
+      - '{''option'': 4}'
+      required: true
+    - id: 13
+      name: tryout_level
+      label: tryout_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Developmental''}'
+      - '{''option'': ''Developmental''}'
+      - '{''option'': ''Intermediate''}'
+      - '{''option'': ''Intermediate''}'
+      - '{''option'': ''Advanced''}'
+      - '{''option'': ''Intermediate''}'
+      required: false
+    - id: 14
+      name: athlete_attitude
+      label: athlete_attitude
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Positive''}'
+      - '{''option'': ''Positive''}'
+      - '{''option'': ''Negative''}'
+      - '{''option'': ''Positive''}'
+      - '{''option'': ''Neutral''}'
+      - '{''option'': ''Negative''}'
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coach_comments
+      label: coach_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: event_type
+      label: event_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tryout_date2
+      label: tryout_date2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: tryout_location2
+      label: tryout_location2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coach_phone
+      label: coach_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: coach_email
+      label: coach_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: team_name2
+      label: team_name2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: coach_name2
+      label: coach_name2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: coach_comments2
+      label: coach_comments2
+      hint: null
+      type: note
+      options: []
+      required: false

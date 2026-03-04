@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Set Up Time Selection
+    pages:
+    - id: 1
+      name: move_in_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: set_up_time
+      label: Set Up Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: move_in_details
+      label: Move In Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: set_up_details
+      label: Set Up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: move_out_time
+      label: Move Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false

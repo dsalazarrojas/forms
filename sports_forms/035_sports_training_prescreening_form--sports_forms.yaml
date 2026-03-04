@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_training_prescreening_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship_type
+      label: Emergency Contact Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Partner
+      - Friend
+      - Other
+      required: false
+    - id: 10
+      name: emergency_contact_relationship_notes
+      label: Emergency Contact Relationship Notes
+      hint: null
+      type: text
+      options: []
+      required: false

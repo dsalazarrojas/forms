@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sponsorship Application Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_type
+      label: Type of Sponsorship
+      hint: null
+      type: select_one
+      options:
+      - Individual Animal Sponsorship
+      - General Program Sponsorship
+      - Emergency Fund Sponsorship
+      - Medical Care Sponsorship
+      - Food and Supplies Sponsorship
+      - Facility Support
+      - Other
+      required: true
+    - id: 9
+      name: preferred_animal
+      label: Would You Like to Sponsor a Specific Animal
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Have a Specific Animal in Mind
+      - No - Please Assign Based on Need
+      - No Preference
+      required: true
+    - id: 10
+      name: animal_name
+      label: Animal Name or ID
+      hint: If sponsoring specific animal
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: animal_type
+      label: Preferred Animal Type
+      hint: If no specific animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Any Animal in Need
+      required: false
+    - id: 12
+      name: sponsorship_amount
+      label: Monthly Sponsorship Amount
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: sponsorship_duration
+      label: Sponsorship Duration
+      hint: null
+      type: select_one
+      options:
+      - One Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - Ongoing Until Further Notice
+      - One-Time Gift
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card - Monthly
+      - Debit Card - Monthly
+      - Bank Transfer - Monthly
+      - PayPal - Monthly
+      - One-Time Payment
+      - Check by Mail
+      required: true
+    - id: 15
+      name: card_type
+      label: Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 16
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expiration_date
+      label: Expiration Date
+      hint: MM-YYYY
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cvv
+      label: Security Code
+      hint: CVV on back of card
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: communication_preferences
+      label: How Would You Like to Receive Updates
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email Updates
+      - Monthly Newsletter
+      - Photos and Letters
+      - Social Media Updates
+      - Phone Calls
+      - No Updates Needed
+      required: true
+    - id: 20
+      name: visit_interest
+      label: Would You Like to Visit Your Sponsored Animal
+      hint: null
+      type: select_one
+      options:
+      - Yes - Interested in Visiting
+      - Maybe - Will Consider
+      - No - Prefer Remote Sponsorship
+      required: false
+    - id: 21
+      name: gift_sponsorship
+      label: Is This Sponsorship a Gift
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: gift_recipient_name
+      label: Gift Recipient Name
+      hint: If gift sponsorship
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: gift_message
+      label: Gift Message
+      hint: Optional message to recipient
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: honor_memory
+      label: Is This Sponsorship In Honor or Memory
+      hint: null
+      type: select_one
+      options:
+      - In Honor Of
+      - In Memory Of
+      - Not Applicable
+      required: false
+    - id: 25
+      name: honoree_name
+      label: Honoree Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: receipt_preference
+      label: Tax Receipt Preference
+      hint: null
+      type: select_one
+      options:
+      - Email Receipt
+      - Mail Receipt
+      - No Receipt Needed
+      required: true
+    - id: 27
+      name: employer_matching
+      label: Will You Request Employer Matching
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Eligible
+      required: false
+    - id: 28
+      name: referral_source
+      label: How Did You Hear About Our Sponsorship Program
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email
+      - Friend or Family
+      - Event
+      - Other
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_acceptance
+      label: I Accept the Sponsorship Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 31
+      name: sponsor_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

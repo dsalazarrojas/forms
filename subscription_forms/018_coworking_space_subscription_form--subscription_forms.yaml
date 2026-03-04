@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coworking Space Subscription Form
+    pages:
+    - id: 1
+      name: workspace_selection
+      label: Select a Workspace
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_details
+      label: User Details
+      hint: Enter your details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscription_details
+      label: Subscription Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: Enter payment details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_start
+      label: Start Date
+      hint: Select start date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subscription_end
+      label: End Date
+      hint: Select end date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: Select subscription frequency
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: Select payment terms
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

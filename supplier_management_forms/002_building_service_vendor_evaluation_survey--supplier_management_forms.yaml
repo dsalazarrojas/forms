@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Service Vendor Evaluation Survey
+    pages:
+      - id: 1
+        name: evaluator_information
+        label: -- Evaluator Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: evaluator_name
+        label: Your Name
+        hint: Full name of person completing this evaluation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_department
+        label: Department or Team
+        hint: Your department or area of responsibility
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date this evaluation is being completed
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: vendor_information
+        label: -- Vendor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: vendor_name
+        label: Vendor Company Name
+        hint: Name of the service vendor being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: vendor_contact_person
+        label: Contact Person at Vendor
+        hint: Primary contact name at vendor company
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: service_type
+        label: Type of Service Provided
+        hint: Category of building service
+        type: select_one
+        options:
+          - Cleaning and Janitorial
+          - Maintenance and Repairs
+          - HVAC Services
+          - Electrical Services
+          - Plumbing Services
+          - Security Services
+          - Landscaping
+          - Other
+        required: true
+      - id: 9
+        name: contract_period
+        label: Contract Period Evaluated
+        hint: How long has vendor provided service
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2+ years
+        required: true
+      - id: 10
+        name: service_quality
+        label: Service Quality Rating
+        hint: Rate the quality of work performed
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: timeliness_rating
+        label: Timeliness and Reliability
+        hint: Rate how promptly and reliably services are delivered
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: professionalism_rating
+        label: Professionalism and Communication
+        hint: Rate staff professionalism and communication skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: cost_rating
+        label: Cost Value for Service
+        hint: Is the pricing fair and competitive
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Below average value
+          - Poor value
+        required: true
+      - id: 14
+        name: problem_responsiveness
+        label: Problem Resolution and Responsiveness
+        hint: How quickly are issues addressed when they arise
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Below Average
+          - Poor
+        required: true
+      - id: 15
+        name: equipment_standards
+        label: Equipment and Materials Quality
+        hint: Quality of tools and materials used
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: safety_compliance
+        label: Safety and Compliance Standards
+        hint: Adherence to safety protocols and regulations
+        type: select_one
+        options:
+          - Full Compliance
+          - Generally Compliant
+          - Needs Improvement
+          - Non-compliant
+        required: true
+      - id: 17
+        name: strengths
+        label: Vendor Strengths
+        hint: What does this vendor do particularly well
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: Specific areas where vendor could improve
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: recommendation
+        label: Overall Recommendation
+        hint: Would you recommend continuing with this vendor
+        type: select_one
+        options:
+          - Strongly Recommend
+          - Recommend
+          - Neutral
+          - Do Not Recommend
+          - Strongly Advise Against
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or observations
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Submit Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_benefit
+      label: Employee Benefit
+      hint: Select an employee benefit
+      type: select_one
+      options:
+      - 401(k)
+      - Health Insurance
+      - Life Insurance
+      - Flexible PTO
+      required: false
+    - id: 5
+      name: benefit_details
+      label: Benefit Details
+      hint: Describe your benefit request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Work Location
+      hint: Select locations
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - San Francisco
+      - Chicago
+      required: false
+    - id: 7
+      name: submit_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit_time
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select tool
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: Your Email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm your email address
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone
+      hint: Confirm your phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_note
+      label: Confirm Note
+      hint: Confirm additional information
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: confirmation_status
+      label: Confirmation Status
+      hint: Confirmation status
+      type: select_one
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: false
+    - id: 18
+      name: confirmation_date
+      label: Date of Confirmation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: confirmation_time
+      label: Time of Confirmation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: confirmation_note
+      label: Note of Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: confirm_submit_request
+      label: Re-Submit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_submit_request
+      label: Re-Submit Request Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirm_submit_request_status
+      label: Re-Submit Request Status
+      hint: Re-Submit Request Status
+      type: select_one
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: false
+    - id: 24
+      name: confirm_confirmation_status
+      label: Confirm Confirmation Status
+      hint: Confirm Confirmation Status
+      type: select_one
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: false
+    - id: 25
+      name: confirm_date_of_confirmation
+      label: Confirm Date of Confirmation
+      hint: Confirm Date of Confirmation
+      type: date
+      options: []
+      required: false

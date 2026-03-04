@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Charity Donation Form
+    pages:
+    - id: 1
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount_currency
+      label: Donation Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      required: false
+    - id: 6
+      name: donation_fees
+      label: Donation Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: donation_fees_currency
+      label: Donation Fee Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit card
+      - Paypal
+      required: false

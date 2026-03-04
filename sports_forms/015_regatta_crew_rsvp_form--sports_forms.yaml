@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: regatta_crew_rsvp_form
+    pages:
+    - id: 1
+      name: regatta_date
+      label: regatta date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: crew_name
+      label: crew name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: regatta_location
+      label: regatta location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_status
+      label: event status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 10
+      name: crew_participation
+      label: crew participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 11
+      name: rsvp_comments
+      label: rsvp comments
+      hint: null
+      type: text
+      options: []
+      required: false

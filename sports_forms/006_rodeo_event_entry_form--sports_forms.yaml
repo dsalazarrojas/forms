@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: rodeo_event_entry_form
+    pages:
+    - id: 1
+      name: rodeo_event_entry_form_rodeo_event_name
+      label: Rodeo Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rodeo_event_entry_form_participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rodeo_event_entry_form_participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rodeo_event_entry_form_participant_contact_info
+      label: Participant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rodeo_event_entry_form_equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: rodeo_event_entry_form_participant_weight
+      label: Participant Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: rodeo_event_entry_form_participant_height
+      label: Participant Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rodeo_event_entry_form_equipment_size
+      label: Equipment Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rodeo_event_entry_form_equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rodeo_event_entry_form_participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

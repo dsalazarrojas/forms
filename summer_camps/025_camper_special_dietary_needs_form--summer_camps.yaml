@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Special Dietary Needs Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: camp_session
+      label: Camp Session Attending
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_parent_info
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_dietary_restrictions
+      label: -- Dietary Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions_present
+      label: Does your child have dietary restrictions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: restriction_type
+      label: Type of Dietary Restriction
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 13
+      name: restriction_description
+      label: Describe the dietary restriction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_allergies
+      label: -- Food Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: food_allergies_present
+      label: Does your child have food allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: allergen_list
+      label: Allergens
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Peanuts
+      - Tree Nuts
+      - Milk
+      - Eggs
+      - Fish
+      - Shellfish
+      - Soy
+      - Wheat
+      - Sesame
+      - Other
+      required: false
+    - id: 17
+      name: allergy_severity
+      label: Allergy Severity
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Life-threatening
+      required: false
+    - id: 18
+      name: allergy_symptoms
+      label: Allergy Symptoms or Reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: epinephrine_auto_injector
+      label: Does child have Epinephrine auto-injector
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: section_preferences
+      label: -- Food Preferences and Likes/Dislikes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: favorite_foods
+      label: Favorite foods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: foods_disliked
+      label: Foods your child dislikes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_preparation
+      label: Any foods that need special preparation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: accuracy_confirmation
+      label: I confirm the dietary information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Enrollment Form
+    pages:
+    - id: 1
+      name: new_student
+      label: New Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parents
+      label: Parents
+      hint: Enter student's parent's name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_name
+      label: Guardian Name
+      hint: Enter guardian's name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fee_type
+      label: Fee Type
+      hint: null
+      type: select_one
+      options:
+      - Full Fee
+      - Half Fee
+      - Free Fee
+      required: false
+    - id: 6
+      name: student_enrollment_date
+      label: Student Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_enrollment_time
+      label: Student Enrollment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_note
+      label: Student Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

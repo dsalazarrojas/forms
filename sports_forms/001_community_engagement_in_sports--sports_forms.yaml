@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Engagement In Sports
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full name
+      hint: Please provide first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For event updates and confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Optional mobile or landline number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age group
+      hint: Select the range that applies
+      type: select_one
+      options:
+      - Under 12
+      - 12 to 17
+      - 18 to 35
+      - 36 to 60
+      - Over 60
+      required: true
+    - id: 6
+      name: sports_interests
+      label: Sports interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Soccer
+      - Basketball
+      - Volleyball
+      - Running
+      - Swimming
+      - Other
+      required: true
+    - id: 7
+      name: availability
+      label: Availability for participation
+      hint: Weekdays or weekends preferred
+      type: select_one
+      options:
+      - Weekdays
+      - Evenings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 8
+      name: volunteer_interest
+      label: Interested in volunteering
+      hint: Help with coaching or event support
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments or accommodations
+      hint: Share any accessibility needs or notes
+      type: text
+      options: []
+      required: false

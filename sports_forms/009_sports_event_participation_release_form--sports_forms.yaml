@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_event_participation_release_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_or_guardian
+      label: parent_or_guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_info
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_medical
+      label: participant_medical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_acknowledgement
+      label: risk_acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - emergency_contact
+      - emergency_contact_2
+      - emergency_contact_3
+      required: true
+    - id: 11
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_staff_check_out_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_contact_date
+      label: next_contact_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: next_contact_time
+      label: next_contact_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: next_contact_method
+      label: next_contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

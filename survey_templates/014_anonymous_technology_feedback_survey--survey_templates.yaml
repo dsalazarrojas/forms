@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Technology Feedback Survey
+    pages:
+    - id: 1
+      name: technology_name
+      label: Tool or Software Name
+      hint: Which technology are you providing feedback for?
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: usage_frequency
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 3
+      name: primary_purpose
+      label: Primary Purpose
+      hint: What do you use this tool for?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ease_of_use
+      label: Ease of Use Rating
+      hint: 1 is very hard, 5 is very easy
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reliability_rating
+      label: Reliability and Uptime Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Unreliable
+      - Unreliable
+      - Reliable
+      - Very Reliable
+      required: true
+    - id: 6
+      name: performance_rating
+      label: Speed and Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Slow
+      - Average
+      - Fast
+      - Excellent
+      required: true
+    - id: 7
+      name: feature_satisfaction
+      label: Satisfaction with Available Features
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bug_reports
+      label: Known Issues or Bugs
+      hint: Please describe any persistent issues
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_received
+      label: Have you received adequate training for this tool?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some
+      required: true
+    - id: 10
+      name: support_quality
+      label: Technical Support Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Average
+      - Good
+      - N/A
+      required: false
+    - id: 11
+      name: improvement_suggestions
+      label: Suggestions for Improvements or New Features
+      hint: null
+      type: text
+      options: []
+      required: false

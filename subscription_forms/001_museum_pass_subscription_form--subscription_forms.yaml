@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Museum Pass Subscription Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pass_type
+      label: Select Pass Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Standard''}'
+      - '{''label'': ''Premium''}'
+      - '{''label'': ''Basic''}'
+      required: false
+    - id: 3
+      name: subscription_period
+      label: Subscription Period
+      hint: Select how long youd like to subscribe for
+      type: select_multiple
+      options:
+      - '{''label'': ''Month''}'
+      - '{''label'': ''Month-to-Month''}'
+      - '{''label'': ''Year''}'
+      required: false
+    - id: 4
+      name: subscription_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: user_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: user_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pay Online''}'
+      - '{''label'': ''Pay By Mail''}'
+      - '{''label'': ''Pay In Person''}'
+      required: false
+    - id: 9
+      name: pay_online_details
+      label: Online Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

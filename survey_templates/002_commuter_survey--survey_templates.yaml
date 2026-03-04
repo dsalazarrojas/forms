@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commuter Survey
+    pages:
+    - id: 1
+      name: primary_transport_mode
+      label: What is your primary mode of transportation for commuting?
+      hint: Choose the mode you use most frequently
+      type: select_one
+      options:
+      - Private Car
+      - Bus
+      - Train/Subway
+      - Bicycle
+      - Walking
+      - Rideshare (Uber/Lyft)
+      - Motorcycle/Scooter
+      required: true
+    - id: 2
+      name: commute_frequency
+      label: How many days per week do you commute?
+      hint: Total days you travel to your primary destination
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: average_commute_distance
+      label: What is the approximate one-way distance of your commute?
+      hint: Enter distance in miles
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: average_commute_time
+      label: How long does your one-way commute typically take?
+      hint: Enter time in minutes
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: typical_departure_time
+      label: What time do you usually leave for your commute?
+      hint: Morning departure time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: commute_satisfaction
+      label: Overall, how satisfied are you with your daily commute?
+      hint: 1 being very dissatisfied, 5 being very satisfied
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 7
+      name: commute_stress_level
+      label: Rate the stress level of your commute
+      hint: From low to high stress
+      type: select_one
+      options:
+      - Low Stress
+      - Moderate Stress
+      - High Stress
+      required: false
+    - id: 8
+      name: alternative_mode_consideration
+      label: Have you considered switching to a more sustainable mode of transport?
+      hint: e.g., switching from car to bus or bike
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, occasionally
+      - false
+      - Not applicable
+      required: true
+    - id: 9
+      name: barriers_to_public_transport
+      label: What are the main barriers to using public transportation?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Unreliable schedule
+      - Long travel time
+      - Cost
+      - Distance to stops
+      - Safety concerns
+      - Lack of routes
+      required: false
+    - id: 10
+      name: improvements_suggestion
+      label: What single improvement would most enhance your commuting experience?
+      hint: Share your thoughts on infrastructure, services, or routes
+      type: text
+      options: []
+      required: false

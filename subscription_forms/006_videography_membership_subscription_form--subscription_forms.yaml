@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Videography Membership Subscription Form
+    pages:
+    - id: 1
+      name: videography_membership_subscription_form_1
+      label: subscribe_for_videographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: member_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: member_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_plan
+      label: membership_plan_selection
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Lifetime
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method_selection
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: frequency_of_payment
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Annually
+      - Per project
+      required: false
+    - id: 9
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: additional_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Failed
+      required: false
+    - id: 13
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      required: false
+    - id: 14
+      name: tax_id_number
+      label: tax_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address_line_1
+      label: address_line_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address_line_2
+      label: address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - UK
+      required: false
+    - id: 18
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      required: false
+    - id: 19
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - One-time payment
+      - Monthly payment
+      - Annually payment
+      required: false
+    - id: 22
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_gateway_fee
+      label: payment_gateway_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_status_note
+      label: payment_status_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

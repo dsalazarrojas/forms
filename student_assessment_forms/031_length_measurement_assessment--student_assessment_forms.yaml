@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Length Measurement Assessment
+    pages:
+    - id: 1
+      name: input_length
+      label: input_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: input_measurement_method
+      label: input_measurement_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: input_observation
+      label: input_observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: input_unit
+      label: input_unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: input_comments
+      label: input_comments
+      hint: null
+      type: text
+      options: []
+      required: false

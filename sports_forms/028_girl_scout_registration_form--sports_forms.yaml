@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - Extra Large
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Full Membership
+      - Free Membership
+      - Trial Membership
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false

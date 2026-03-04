@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comic Convention Sponsorship Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for sponsorship
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Business contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: URL to your company website
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_type
+      label: Company Type
+      hint: What best describes your business
+      type: select_one
+      options:
+      - Publisher
+      - Retailer
+      - Artist/Creator
+      - Media Company
+      - Technology Company
+      - Food/Beverage
+      - Entertainment
+      - Other
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: How long has your company operated
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 10
+      name: company_description
+      label: Company Description
+      hint: Brief description of your business
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_sponsorship_level
+      label: -- Sponsorship Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sponsorship_tier
+      label: Sponsorship Tier
+      hint: Select desired sponsorship level
+      type: select_one
+      options:
+      - Bronze Sponsor ($1,000)
+      - Silver Sponsor ($2,500)
+      - Gold Sponsor ($5,000)
+      - Platinum Sponsor ($10,000)
+      - Diamond Sponsor ($25,000)
+      - Custom Package
+      required: true
+    - id: 13
+      name: previous_sponsor
+      label: Previous Convention Sponsor
+      hint: Have you sponsored before
+      type: select_one
+      options:
+      - Yes Previously Sponsored
+      - No First Time
+      required: true
+    - id: 14
+      name: section_header_benefits
+      label: -- Desired Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: booth_space
+      label: Booth Space Required
+      hint: Do you need exhibition space
+      type: select_one
+      options:
+      - Yes Need Booth
+      - No Booth Needed
+      - Maybe
+      required: true
+    - id: 16
+      name: logo_placement
+      label: Logo Placement
+      hint: Where should your logo appear
+      type: select_multiple
+      options:
+      - Website
+      - Program Book
+      - Banners
+      - Badges
+      - Social Media
+      - Press Releases
+      - Not Required
+      required: true
+    - id: 17
+      name: speaking_opportunity
+      label: Speaking Opportunity Interest
+      hint: Interested in panel participation
+      type: select_one
+      options:
+      - Yes Interested
+      - No Not Interested
+      required: false
+    - id: 18
+      name: vip_access
+      label: VIP Access
+      hint: VIP event access for representatives
+      type: select_one
+      options:
+      - Yes Interested
+      - No Not Needed
+      required: false
+    - id: 19
+      name: section_header_marketing
+      label: -- Marketing Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: marketing_goals
+      label: Marketing Goals
+      hint: What are your sponsorship goals
+      type: select_multiple
+      options:
+      - Brand Awareness
+      - Product Launch
+      - Lead Generation
+      - Direct Sales
+      - Community Engagement
+      - Media Coverage
+      required: true
+    - id: 21
+      name: social_media_handles
+      label: Social Media Handles
+      hint: Your social media accounts
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: logo_upload
+      label: Logo Upload
+      hint: Link to high-resolution logo
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Wire Transfer
+      - Check
+      - Purchase Order
+      required: true
+    - id: 25
+      name: payment_schedule
+      label: Payment Schedule
+      hint: Preferred payment arrangement
+      type: select_one
+      options:
+      - Full Payment Upfront
+      - 50% Deposit 50% Before Event
+      - Quarterly Payments
+      - Custom Schedule
+      required: true
+    - id: 26
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: billing_address
+      label: Billing Address
+      hint: Address for invoices
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

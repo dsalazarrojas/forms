@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Receipt Form
+    pages:
+    - id: 1
+      name: issuance_date
+      label: Issuance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_number
+      label: Equipment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_number
+      label: Item Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 9
+      name: issued_to
+      label: Issued To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issued_by
+      label: Issued By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: storekeeper
+      label: Storekeeper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_remarks
+      label: Date Remarks
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: storekeeper_signature
+      label: Storekeeper Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approved_signature
+      label: Approved Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: remarks_verified
+      label: Remarks Verified
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: date_verified
+      label: Date Verified
+      hint: null
+      type: date
+      options: []
+      required: false

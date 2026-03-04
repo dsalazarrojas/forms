@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Release Form
+    pages:
+    - id: 1
+      name: holiday_release_form_title
+      label: Holiday Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Enter student name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_release
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_release
+      label: Time of Release
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature_of_parent
+      label: Signature of Parent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: student_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: student_signature_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - JohnDoe
+      - JaneDoe
+      required: true
+    - id: 14
+      name: assigned_user_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user_at
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_date
+      label: Assigned To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: denied_at
+      label: Denied At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: approved_status
+      label: Approved Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: false
+    - id: 24
+      name: approved_by_status
+      label: Approved By Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

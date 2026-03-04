@@ -1,0 +1,120 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advocacy SWOT Analysis Survey
+    pages:
+    - id: 1
+      name: organization_info
+      label: -- Organization Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: advocacy_focus
+      label: Primary Advocacy Focus
+      hint: e.g., Environment, Human Rights, Education.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: strengths_header
+      label: -- Strengths (Internal) --
+      hint: What do we do well?
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: key_strengths
+      label: List Key Strengths
+      hint: Resources, capabilities, reputation, etc.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: strength_impact
+      label: Impact of Strengths
+      hint: How do these help our mission?
+      type: select_one
+      options:
+      - High Impact
+      - Moderate Impact
+      - Low Impact
+      required: false
+    - id: 7
+      name: weaknesses_header
+      label: -- Weaknesses (Internal) --
+      hint: Where do we need to improve?
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: key_weaknesses
+      label: List Key Weaknesses
+      hint: Gaps in resources, skills, reach, etc.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weakness_severity
+      label: Severity of Weaknesses
+      hint: How much do these hinder us?
+      type: select_one
+      options:
+      - Critical
+      - Major
+      - Minor
+      required: false
+    - id: 10
+      name: opportunities_header
+      label: -- Opportunities (External) --
+      hint: What external factors can we leverage?
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: key_opportunities
+      label: List Key Opportunities
+      hint: Policy changes, funding trends, partnerships.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: threats_header
+      label: -- Threats (External) --
+      hint: What external factors pose a risk?
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: key_threats
+      label: List Key Threats
+      hint: Opposition, funding cuts, regulatory changes.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: strategic_priorities
+      label: Top Strategic Priority
+      hint: Based on this analysis, what should be #1?
+      type: text
+      options: []
+      required: true

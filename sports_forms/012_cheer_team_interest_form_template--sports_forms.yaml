@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Team Interest Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: Name of your school
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - College Freshman
+      - College Sophomore
+      - College Junior
+      - College Senior
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Parent contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: cheer_experience
+      label: Cheerleading Experience
+      hint: How much experience do you have
+      type: select_one
+      options:
+      - No experience
+      - Less than 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5+ years
+      required: true
+    - id: 12
+      name: previous_team
+      label: Previous Team
+      hint: Name of previous cheer team if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: position_interest
+      label: Position Interest
+      hint: Which positions interest you
+      type: select_multiple
+      options:
+      - Flyer
+      - Base
+      - Back spot
+      - Front spot
+      - All positions
+      required: true
+    - id: 14
+      name: skills_assessment
+      label: Skills You Can Perform
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cartwheel
+      - Roundoff
+      - Back handspring
+      - Back tuck
+      - Front tuck
+      - Full twist
+      - Basket toss
+      - Pyramid skills
+      - Stunting
+      required: true
+    - id: 15
+      name: tumbling_level
+      label: Tumbling Level
+      hint: Your current tumbling ability
+      type: select_one
+      options:
+      - Beginner - No tumbling
+      - Novice - Basic skills
+      - Intermediate - Back handspring
+      - Advanced - Multiple flips
+      - Elite - Competition level
+      required: true
+    - id: 16
+      name: dance_experience
+      label: Dance Experience
+      hint: Do you have dance training
+      type: select_one
+      options:
+      - No dance experience
+      - Some dance experience
+      - 1-3 years training
+      - 4+ years training
+      - Professional training
+      required: true
+    - id: 17
+      name: availability
+      label: Practice Availability
+      hint: When are you available for practice
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Saturday mornings
+      - Saturday afternoons
+      - Sunday
+      required: true
+    - id: 18
+      name: competition_availability
+      label: Competition Availability
+      hint: Can you attend competitions
+      type: select_one
+      options:
+      - All competitions
+      - Most competitions
+      - Some competitions
+      - Cannot attend competitions
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any medical conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: why_join
+      label: Why do you want to join
+      hint: What motivates you to join the team
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: goals
+      label: Your Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_commitment
+      label: Team Commitment
+      hint: I understand the time commitment required
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 24
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: I agree to follow the team code of conduct
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

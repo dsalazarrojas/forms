@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Architect Survey
+    pages:
+    - id: 1
+      name: professional_profile_header
+      label: -- Professional Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: architect_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_organization
+      label: Current Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_in_architecture
+      label: Years of Experience as an Application Architect
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: architecture_methodologies_header
+      label: -- Methodologies and Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_architecture_pattern
+      label: Primary Architecture Pattern Used
+      hint: Which pattern do you use most frequently?
+      type: select_one
+      options:
+      - Microservices
+      - Monolithic
+      - Serverless
+      - Event-Driven
+      - Layered (n-tier)
+      - Service-Oriented (SOA)
+      required: true
+    - id: 7
+      name: agile_framework_preference
+      label: Preferred Agile Framework
+      hint: null
+      type: select_one
+      options:
+      - Scrum
+      - Kanban
+      - SAFe (Scaled Agile Framework)
+      - XP (Extreme Programming)
+      - None - Traditional Waterfall
+      required: true
+    - id: 8
+      name: design_documentation_tools
+      label: Preferred Tools for Design and Documentation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lucidchart
+      - Draw.io
+      - Miro
+      - Enterprise Architect
+      - Visio
+      - Confluence / Wiki
+      required: true
+    - id: 9
+      name: technology_stack_header
+      label: -- Technology Stack and Cloud --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_programming_language
+      label: Primary Programming Language in Current Architecture
+      hint: null
+      type: select_one
+      options:
+      - Java
+      - C# / .NET
+      - Python
+      - Go
+      - Node.js (JavaScript/TypeScript)
+      - Rust
+      required: true
+    - id: 11
+      name: cloud_platform_usage
+      label: Primary Cloud Platform
+      hint: null
+      type: select_one
+      options:
+      - AWS (Amazon Web Services)
+      - Microsoft Azure
+      - Google Cloud Platform (GCP)
+      - On-premises / Private Cloud
+      - Hybrid
+      required: true
+    - id: 12
+      name: database_preferences
+      label: Preferred Database Types
+      hint: null
+      type: select_multiple
+      options:
+      - Relational (SQL)
+      - Document (NoSQL)
+      - Key-Value Store
+      - Graph Database
+      - Time Series
+      required: true
+    - id: 13
+      name: challenges_and_trends_header
+      label: -- Challenges and Future Trends --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: top_architectural_challenge
+      label: What is your biggest architectural challenge today?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: security_integration_approach
+      label: How do you integrate security into your architecture?
+      hint: e.g., DevSecOps, Shift-left security
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: ai_integration_impact
+      label: How is AI impacting your architectural decisions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: future_trend_observation
+      label: Which architectural trend are you watching most closely?
+      hint: null
+      type: select_one
+      options:
+      - WebAssembly (Wasm)
+      - Edge Computing
+      - Quantum Computing
+      - Data Mesh
+      - Zero Trust Architecture
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: lc_survey
+    pages:
+    - id: 1
+      name: form_title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_description
+      label: description
+      hint: description of this form
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_survey_type
+      label: survey type
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - physical
+      required: false
+    - id: 5
+      name: form_category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Survey Templates
+      - Other
+      required: false
+    - id: 6
+      name: form_category_1
+      label: category_1
+      hint: null
+      type: select_one
+      options:
+      - Template 1
+      - Template 2
+      required: false
+    - id: 7
+      name: form_category_2
+      label: category_2
+      hint: null
+      type: select_one
+      options:
+      - Template 3
+      - Template 4
+      required: false

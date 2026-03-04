@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: tv_commercial_feedback_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: commercial_id
+      label: Commercial
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: channel
+      label: Channel
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: commercial_effectiveness
+      label: How
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: trivia_quiz_on_popular_culture
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: movie_page
+      label: movies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: music_page
+      label: music
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trend_page
+      label: trends
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: movie_genre_page
+      label: movie_genres
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Horror
+      - Romance
+      required: false
+    - id: 6
+      name: music_genre_page
+      label: music_genres
+      hint: null
+      type: select_one
+      options:
+      - Pop
+      - Rock
+      - Rap
+      - Classical
+      required: false
+    - id: 7
+      name: answer_page
+      label: answer
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 8
+      name: submit_page
+      label: submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: confirm_page
+      label: confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: rating_page
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

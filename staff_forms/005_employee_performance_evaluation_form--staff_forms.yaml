@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee-performance-evaluation-form
+    pages:
+    - id: 1
+      name: performance_period
+      label: Performance Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: strengths
+      label: Strengths
+      hint: List employee strengths.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: Areas For Improvement
+      hint: List specific areas for improvement.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Save
+      - Cancel
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: date_start_period
+      label: Date Start Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_end_period
+      label: Date End Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_last_review
+      label: Date Last Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_review_status
+      label: manager-review-status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Reviewed
+      required: true
+    - id: 16
+      name: review_date_status
+      label: review-date-status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 17
+      name: review_period_status
+      label: review-period-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - In Progress
+      required: true
+    - id: 18
+      name: review_status
+      label: review-status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 19
+      name: review_comments
+      label: review-comments
+      hint: null
+      type: text
+      options: []
+      required: false

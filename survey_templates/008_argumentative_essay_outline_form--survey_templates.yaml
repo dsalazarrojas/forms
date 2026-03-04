@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Argumentative Essay Outline Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: class_name
+      label: Class Name or Course Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_essay_topic
+      label: -- Essay Topic --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: essay_title
+      label: Essay Title or Topic
+      hint: What is your essay about
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: topic_category
+      label: Topic Category
+      hint: null
+      type: select_one
+      options:
+      - Social issue
+      - Political topic
+      - Environmental
+      - Educational
+      - Ethical issue
+      - Technology
+      - Health related
+      - Other
+      required: false
+    - id: 9
+      name: section_thesis
+      label: -- Thesis Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: thesis_statement
+      label: Your thesis statement
+      hint: Clear statement of your main argument
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: thesis_clarity
+      label: How clear is your thesis
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      required: false
+    - id: 12
+      name: section_main_arguments
+      label: -- Main Arguments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: argument_one
+      label: First main argument
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: argument_two
+      label: Second main argument
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: argument_three
+      label: Third main argument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_evidence
+      label: -- Evidence and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: evidence_sources
+      label: What types of evidence will you use
+      hint: null
+      type: select_multiple
+      options:
+      - Academic sources
+      - Statistical data
+      - Expert opinions
+      - Case studies
+      - Personal examples
+      - Historical references
+      required: true
+    - id: 18
+      name: number_sources
+      label: Approximate number of sources
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_counterargument
+      label: -- Counterargument --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: counterargument
+      label: What is the opposing viewpoint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: counterargument_response
+      label: How will you refute this counterargument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_conclusion
+      label: -- Conclusion Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: conclusion_approach
+      label: How will you conclude your essay
+      hint: null
+      type: select_one
+      options:
+      - Restatement of thesis
+      - Call to action
+      - Future implications
+      - Summary of key points
+      - Broader perspective
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional notes or questions
+      hint: null
+      type: text
+      options: []
+      required: false

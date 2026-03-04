@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Participation Preferences
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tournament_preferences
+      label: Tournament Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 4
+      name: team_details
+      label: Team Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_position
+      label: Team Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tournament_date
+      label: Tournament Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: tournament_time
+      label: Tournament Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: tournament_details
+      label: Tournament Details
+      hint: null
+      type: text
+      options: []
+      required: false

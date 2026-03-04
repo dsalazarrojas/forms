@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Deduction Form
+    pages:
+    - id: 1
+      name: payroll_deduction_form_fields
+      label: Payroll Deduction Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deduction_item
+      label: Deduction Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: active
+      label: Active
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

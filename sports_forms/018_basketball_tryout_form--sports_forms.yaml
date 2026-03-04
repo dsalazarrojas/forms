@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Tryout Form
+    pages:
+    - id: 1
+      name: athlete_info_header
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_full_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_grade
+      label: Current Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: guardian_info_header
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: If parent cannot be reached
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: policies_header
+      label: -- Tryout Program Policies --
+      hint: Please review our selection process and attendance requirements.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_consent
+      label: I give consent for my child to participate and for emergency treatment
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 14
+      name: liability_waiver
+      label: Liability Waiver and Release
+      hint: I assume all risks associated with participation
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: tryout_fee_header
+      label: -- Tryout Fee Payment --
+      hint: Non-refundable fee of $25.00
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Have you completed the fee payment?
+      hint: You will be redirected to the payment portal upon submission
+      type: select_one
+      options:
+      - Yes, I am ready to pay
+      - Other
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

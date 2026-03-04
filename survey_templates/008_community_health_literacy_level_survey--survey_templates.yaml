@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Literacy Level Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Basic Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: primary_language
+      label: Primary Language Spoken at Home
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_knowledge
+      label: -- Health Knowledge Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: nutrition_knowledge
+      label: Self-rated Knowledge of Nutrition and Healthy Eating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 6
+      name: chronic_disease_knowledge
+      label: Self-rated Knowledge of Chronic Disease Prevention
+      hint: e.g., Diabetes, Heart Disease
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 7
+      name: health_info_sources
+      label: Where do you primarily find health information?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Internet and Search Engines
+      - Family Doctor or Clinic
+      - Social Media
+      - TV and News
+      - Community Health Center
+      - Family and Friends
+      required: true
+    - id: 8
+      name: understanding_labels
+      label: How easy is it for you to understand medical labels or prescriptions?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Somewhat Difficult
+      - Very Difficult
+      required: true
+    - id: 9
+      name: doctor_communication
+      label: How comfortable are you asking your doctor questions?
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      required: true
+    - id: 10
+      name: interest_in_workshops
+      label: Are you interested in attending health literacy workshops?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: preferred_topics
+      label: Preferred health topics for future workshops
+      hint: Describe what you would like to learn
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: education_level
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - Primary School
+      - High School
+      - Vocational Training
+      - Associate Degree
+      - Bachelor Degree
+      - Post-graduate
+      required: false

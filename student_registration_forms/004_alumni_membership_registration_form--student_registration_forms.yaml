@@ -1,0 +1,321 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Membership Registration Form
+    pages:
+    - id: 1
+      name: section_membership_type
+      label: -- Membership Type Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: membership_category
+      label: Membership Category
+      hint: Select the membership type that applies to you
+      type: select_one
+      options:
+      - Recent Graduate (0-2 years)
+      - Standard Alumni (3-10 years)
+      - Senior Alumni (11+ years)
+      - Life Member
+      - International Alumni
+      - Retired Faculty/Staff
+      required: true
+    - id: 3
+      name: section_personal_details
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: section_contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: This will be your primary contact method
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address for membership materials
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country of Residence
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 16
+      name: section_academic_background
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: institution_name
+      label: Institution Name
+      hint: Name of the school you graduated from
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: degree_earned
+      label: Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Professional Certificate
+      - Other
+      required: true
+    - id: 20
+      name: major_field_study
+      label: Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: student_id_number
+      label: Student ID Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_membership_benefits
+      label: -- Membership Benefits Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: newsletter_subscription
+      label: Alumni Newsletter Subscription
+      hint: Receive quarterly alumni news
+      type: select_one
+      options:
+      - Yes - Digital Version
+      - Yes - Print Version
+      - Yes - Both
+      - No - Not interested
+      required: true
+    - id: 24
+      name: event_discounts
+      label: Event Discounts Enrollment
+      hint: Receive discounts on alumni events
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: career_services
+      label: Career Services Access
+      hint: Access to job boards and career resources
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: library_access
+      label: Library Access Request
+      hint: Access to institutional library resources
+      type: select_one
+      options:
+      - Yes - Full Access
+      - Yes - Digital Only
+      - No - Not needed
+      required: false
+    - id: 27
+      name: section_payment
+      label: -- Membership Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: membership_fee
+      label: Membership Fee Amount
+      hint: Annual membership dues
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: payment_method
+      label: Payment Method
+      hint: Select your preferred payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check by Mail
+      required: true
+    - id: 30
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often would you like to pay
+      type: select_one
+      options:
+      - Annually
+      - Quarterly
+      - Monthly
+      - One-time Life Membership
+      required: true
+    - id: 31
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: section_agreements
+      label: -- Terms and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I have read and agree to the membership terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true
+    - id: 37
+      name: privacy_policy
+      label: Privacy Policy Acknowledgment
+      hint: I acknowledge the privacy policy
+      type: select_one
+      options:
+      - I acknowledge and accept
+      - Other
+      required: true
+    - id: 38
+      name: communication_consent
+      label: Communication Consent
+      hint: I consent to receive communications from the alumni association
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true

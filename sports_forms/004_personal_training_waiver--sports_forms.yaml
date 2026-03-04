@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Waiver
+    pages:
+    - id: 1
+      name: personal_training_waiver
+      label: Personal Training Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Brother
+      - Sister
+      - Child
+      - Parent
+      - Spouse
+      - Brother
+      - Sister
+      - Child
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: Specify other relationship here
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High Blood Pressure
+      - Diabetes
+      - Other
+      required: false
+    - id: 11
+      name: emergency_medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Knee Surgery
+      - Other
+      required: false
+    - id: 12
+      name: personal_trainer_agreed
+      label: I have agreed to the waiver terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false

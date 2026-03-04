@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Network Participation Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Peer Network Participation Request --
+      hint: Submit your request to join an academic peer network group. Please complete
+        all required fields.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student email address
+      hint: Use your institutional email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_program
+      label: Current academic program or major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: year_of_study
+      label: Year of study
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate - Masters
+      - Graduate - Doctoral
+      required: true
+    - id: 9
+      name: preferred_network
+      label: Which peer network would you like to join
+      hint: null
+      type: select_one
+      options:
+      - Study Skills and Tutoring
+      - Research Methods
+      - Writing and Communication
+      - STEM Collaboration
+      - Social Sciences Discussion
+      - Arts and Humanities Exchange
+      required: true
+    - id: 10
+      name: participation_goals
+      label: What are your goals for participating in the peer network
+      hint: Briefly describe what you hope to gain
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: availability
+      label: When are you typically available for peer network meetings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      required: true
+    - id: 12
+      name: meeting_preference
+      label: Preferred meeting format
+      hint: null
+      type: select_one
+      options:
+      - In-person only
+      - Online only
+      - Hybrid (both in-person and online)
+      - No preference
+      required: true
+    - id: 13
+      name: previous_participation
+      label: Have you previously participated in any academic peer network or study
+        group
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: special_accommodations
+      label: Do you require any special accommodations for participation
+      hint: Please describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement
+      label: I agree to actively participate and abide by the peer network guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true

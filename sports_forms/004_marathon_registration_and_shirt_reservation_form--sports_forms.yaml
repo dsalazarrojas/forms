@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marathon Registration And Shirt Reservation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 5
+      name: marathon_date
+      label: Marathon Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: marathon_time
+      label: Marathon Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      required: false
+    - id: 8
+      name: finisher_bib_number
+      label: Finisher Bib Number
+      hint: null
+      type: number
+      options: []
+      required: true

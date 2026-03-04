@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Project Submission Tracking Form
+    pages:
+    - id: 1
+      name: student_project_submission_tracking_form_data
+      label: Student Project Submission Tracking Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_project_submission_tracking_form_comments
+      label: Student Project Submission Tracking Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_due_date
+      label: Project Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_submission_status
+      label: Project Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_project_submission_tracking_form_comments
+      label: Student Project Submission Tracking Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Review
+      - Submitted
+      - Rejected
+      - In Progress
+      - Not Started
+      required: false
+    - id: 18
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership St. Pete 2017 Sponsorship Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Leadership St. Pete 2017 Sponsorship Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Leadership Development
+      - Community Development
+      - Economic Development
+      - Community Building
+      - Education
+      - Arts and Culture
+      - Parks and Recreation
+      - Other
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: Enter a brief description of your contribution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: form_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_why_sponsor
+      label: Why Sponsor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_sponsorship_committee
+      label: Sponsorship Committee
+      hint: null
+      type: select_one
+      options:
+      - Sponsorship Committee A
+      - Sponsorship Committee B
+      - Sponsorship Committee C
+      - Sponsorship Committee D
+      - Sponsorship Committee E
+      - Sponsorship Committee F
+      required: true
+    - id: 15
+      name: form_additional
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_agree
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Not Agree
+      - Undecided
+      required: true
+    - id: 17
+      name: form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: form_time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true

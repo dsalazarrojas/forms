@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_rental_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: Customer information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: swimmer_info
+      label: swimmer_info
+      hint: Swimmer information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pool_booking
+      label: pool_booking
+      hint: Pool booking
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: Payment method
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: swimmer_contact
+      label: swimmer_contact
+      hint: Swimmer contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: swimmer_phone
+      label: swimmer_phone
+      hint: Swimmer phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pool_address
+      label: pool_address
+      hint: Pool address
+      type: select_multiple
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      - '{''label'': ''Location 4''}'
+      required: true

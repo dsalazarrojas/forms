@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Subscription Incentive
+    pages:
+    - id: 1
+      name: email_subscription_incentive_form
+      label: Email Subscription Incentive Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incentive_reward
+      label: incentive_reward
+      hint: null
+      type: select_one
+      options:
+      - Reward 1
+      - Reward 2
+      - Reward 3
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incentive_type
+      label: incentive_type
+      hint: null
+      type: select_multiple
+      options:
+      - Incentive 1
+      - Incentive 2
+      - Incentive 3
+      required: false
+    - id: 8
+      name: email_optin
+      label: email_optin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email_frequency
+      label: email_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Daily
+      - Weekly
+      required: false
+    - id: 10
+      name: incentive_amount
+      label: incentive_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: signup_bonus
+      label: signup_bonus
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: email_frequency_frequency
+      label: email_frequency_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Weekly
+      - Daily
+      required: false
+    - id: 13
+      name: email_frequency_type
+      label: email_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Continuous
+      - Periodically
+      required: false
+    - id: 14
+      name: email_frequency_interval
+      label: email_frequency_interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incentive_email
+      label: incentive_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: confirm_optin
+      label: confirm_optin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: email_frequency_unit
+      label: email_frequency_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_optout
+      label: email_optout
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

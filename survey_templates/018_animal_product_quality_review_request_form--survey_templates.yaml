@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Product Quality Review Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_organization
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: Product Name to be Reviewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: review_reason
+      label: Reason for Review Request
+      hint: null
+      type: select_one
+      options:
+      - Routine Quality Check
+      - Investigation of Customer Complaint
+      - Regulatory Compliance Requirement
+      - Evaluation of New Supplier
+      - Product Re-certification
+      required: true
+    - id: 5
+      name: testing_kpis
+      label: Key Performance Indicators to be Tested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Nutritional Value and Composition
+      - Purity and Absence of Contaminants
+      - Shelf Life and Stability
+      - Palatability and Acceptance
+      - Structural Integrity
+      required: true
+    - id: 6
+      name: sampling_methodology
+      label: Sampling Method Employed
+      hint: Describe how samples were collected
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: target_completion_date
+      label: Desired Review Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: specifications_provided
+      label: Have technical specifications been provided?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Included in this form
+      required: true
+    - id: 9
+      name: technical_notes
+      label: Additional Technical Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Report Delivery Email Address
+      hint: null
+      type: email
+      options: []
+      required: true

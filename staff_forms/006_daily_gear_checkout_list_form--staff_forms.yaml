@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Gear Checkout List Form
+    pages:
+    - id: 1
+      name: equipment_list
+      label: equipment_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_department
+      label: staff_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: staff_location
+      label: staff_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

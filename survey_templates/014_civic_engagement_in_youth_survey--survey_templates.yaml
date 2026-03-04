@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement In Youth Survey
+    pages:
+    - id: 1
+      name: youth_info_header
+      label: -- Youth Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level or Education Status
+      hint: null
+      type: select_one
+      options:
+      - Middle school
+      - High school
+      - College
+      - Post-secondary
+      - Not in school
+      - Other
+      required: true
+    - id: 4
+      name: name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: engagement_header
+      label: -- Civic Engagement Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: engagement_activities
+      label: Civic activities you have participated in - select all
+      hint: null
+      type: select_multiple
+      options:
+      - School government or clubs
+      - Community service projects
+      - Volunteering
+      - Social activism or advocacy
+      - Political campaign work
+      - Local government meetings
+      - Online civic discussions
+      - Petition signing
+      - Fundraising for causes
+      - None
+      required: true
+    - id: 8
+      name: engagement_frequency
+      label: How often do you participate in civic activities
+      hint: null
+      type: select_one
+      options:
+      - Very frequently
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: causes_interest
+      label: What causes or issues interest you most
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attitudes_header
+      label: -- Attitudes and Beliefs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: government_impact
+      label: Do you believe youth can impact government decisions
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 12
+      name: civic_responsibility
+      label: Do you feel a responsibility to participate in civic life
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: voting_intention
+      label: Do you plan to vote when eligible
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Unsure
+      - Probably no
+      - Definitely no
+      required: false
+    - id: 14
+      name: barriers_header
+      label: -- Barriers to Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: barriers
+      label: Barriers to civic engagement - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of time
+      - Lack of knowledge
+      - Lack of interest
+      - Lack of opportunity
+      - Transportation
+      - Family discouragement
+      - Distrust in system
+      - Other
+      - No barriers
+      required: false
+    - id: 16
+      name: support_needed
+      label: What support would help you engage more civically
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: role_models_header
+      label: -- Inspiration and Role Models --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: role_models
+      label: Do you have civic role models or mentors
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 19
+      name: information_sources
+      label: How do you learn about civic and political issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - News media
+      - School
+      - Family
+      - Friends/peers
+      - Community organizations
+      - Government websites
+      - Other
+      required: false
+    - id: 20
+      name: future_involvement
+      label: What would increase your civic involvement in the future
+      hint: null
+      type: text
+      options: []
+      required: false

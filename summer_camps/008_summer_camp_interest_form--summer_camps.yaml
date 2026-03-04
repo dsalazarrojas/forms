@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Interest Form
+    pages:
+    - id: 1
+      name: summer_camp_interest_form
+      label: summer_camp_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_anticipation
+      label: How much is your summer camp event being anticipated?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Highly''}'
+      - '{''option2'': ''Somewhat''}'
+      - '{''option3'': ''Not at all''}'
+      required: false
+    - id: 3
+      name: register_count
+      label: How many people would register?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

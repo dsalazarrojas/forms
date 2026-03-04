@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Access And Attendance Survey
+    pages:
+    - id: 1
+      name: technology_access
+      label: What devices do you have access to?
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Desktop
+      - Tablet
+      - Mobile
+      - Other
+      required: false
+    - id: 2
+      name: internet_reliability
+      label: How often is your internet unreliable?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Seldom
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: attendance_barriers
+      label: Which of the following tech-related attendance barriers do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Device-related issues
+      - Internet connection issues
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: tech_issues_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_attendance
+      label: How often do you attend school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_attendance_frequency
+      label: What is the frequency of your school attendance?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - 2-3 times a week
+      - 1-2 times a month
+      - Less than a month
+      required: false
+    - id: 7
+      name: tech_issues_school
+      label: What kind of tech issues do you experience at school?
+      hint: null
+      type: select_multiple
+      options:
+      - Device-related issues
+      - Internet connection issues
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: program_leaders_attendance
+      label: How often does the program leader attend school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_leaders_attendance_frequency
+      label: What is the frequency of the program leader's attendance?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - 2-3 times a week
+      - 1-2 times a month
+      - Less than a month
+      required: false
+    - id: 10
+      name: tech_issues_leaders
+      label: What kind of tech issues do you experience with the program leader?
+      hint: null
+      type: select_multiple
+      options:
+      - Device-related issues
+      - Internet connection issues
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: tech_issues_others
+      label: What other tech issues do you experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Device-related issues
+      - Internet connection issues
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: other_issue
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_issue_description
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school
+      label: Which school do you attend?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_email
+      label: School email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: school_phone
+      label: School phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_website
+      label: School website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_facebook
+      label: School Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_twitter
+      label: School Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: school_instagram
+      label: School Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: program
+      label: Which program do you participate in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: program_email
+      label: Program email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: program_phone
+      label: Program phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: program_website
+      label: Program website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: program_facebook
+      label: Program Facebook
+      hint: null
+      type: text
+      options: []
+      required: false

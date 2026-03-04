@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: KOL Review Form
+    pages:
+    - id: 1
+      name: kol_form_questions
+      label: KOL Review Form Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: kol_form_performance
+      label: KOL Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: kol_form_engagement
+      label: KOL Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: kol_form_recommendation
+      label: KOL Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

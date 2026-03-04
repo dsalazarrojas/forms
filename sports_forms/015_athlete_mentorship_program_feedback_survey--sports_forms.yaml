@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Mentorship Program Feedback Survey
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 4
+        name: team_level
+        label: Team Level
+        hint: Competition level
+        type: select_one
+        options:
+          - Varsity
+          - Junior Varsity
+          - Freshman
+          - Club Team
+        required: true
+      - id: 5
+        name: mentorship_role
+        label: Your Role in Mentorship Program
+        hint: Are you a mentor or mentee
+        type: select_one
+        options:
+          - Mentor
+          - Mentee
+          - Both
+        required: true
+      - id: 6
+        name: program_duration
+        label: How Long Have You Been in the Program
+        hint: Duration of participation
+        type: select_one
+        options:
+          - Less Than 1 Month
+          - 1 to 3 Months
+          - 3 to 6 Months
+          - 6 Months to 1 Year
+          - Over 1 Year
+        required: true
+      - id: 7
+        name: meeting_frequency
+        label: How Often Do You Meet
+        hint: Frequency of mentorship meetings
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - As Needed
+        required: true
+      - id: 8
+        name: meeting_format
+        label: Meeting Format
+        hint: How do you typically meet
+        type: select_one
+        options:
+          - In Person
+          - Video Call
+          - Phone Call
+          - Text or Email
+          - Mixed Format
+        required: true
+      - id: 9
+        name: relationship_quality
+        label: Mentor-Mentee Relationship Quality
+        hint: Rate the quality of your relationship
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: Rate how well you communicate
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: goal_setting_support
+        label: Goal Setting Support
+        hint: Rate the support you receive in setting goals
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: skill_development
+        label: Skill Development Support
+        hint: Rate the support for developing athletic skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: personal_growth
+        label: Personal Growth Support
+        hint: Rate the support for personal development
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: academic_support
+        label: Academic Support
+        hint: Rate the support for academic success
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Not Applicable
+        required: true
+      - id: 15
+        name: program_benefits
+        label: Biggest Benefits of the Program
+        hint: What has been most helpful
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: program_challenges
+        label: Challenges Faced
+        hint: What challenges have you encountered
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: program_improvements
+        label: Suggested Improvements
+        hint: How could the program be improved
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: mentor_match_satisfaction
+        label: Satisfaction with Mentor-Mentee Match
+        hint: How satisfied are you with your pairing
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 19
+        name: continue_participation
+        label: Will You Continue in the Program
+        hint: Do you plan to continue participating
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: recommend_to_others
+        label: Would You Recommend to Other Athletes
+        hint: Would you recommend this program
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: additional_resources_needed
+        label: Additional Resources Needed
+        hint: What additional resources would help
+        type: select_multiple
+        options:
+          - More Meeting Time
+          - Group Sessions
+          - Workshop Topics
+          - Online Resources
+          - Peer Support Groups
+          - Professional Counseling
+          - Career Guidance
+          - None
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: follow_up_contact
+        label: May We Contact You for Follow-Up
+        hint: Can we contact you for more feedback
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

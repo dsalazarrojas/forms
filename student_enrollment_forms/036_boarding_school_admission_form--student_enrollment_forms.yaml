@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boarding School Admission Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Student birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: grade_applying_for
+      label: Grade applying for
+      hint: Enter grade year
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: Primary guardian contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency contact phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical conditions
+      hint: Any chronic conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_school
+      label: Previous school attended
+      hint: Name and location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: personal_statement
+      label: Personal statement
+      hint: Short essay from applicant
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,134 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Technology Adoption Farmer Insights Survey
+    pages:
+    - id: 1
+      name: demographics_header
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farmer_age
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 30
+      - 30-45
+      - 46-60
+      - Over 60
+      required: true
+    - id: 3
+      name: years_farming
+      label: Years Farming
+      hint: Experience level
+      type: select_one
+      options:
+      - 0-5 years
+      - 6-15 years
+      - 16-30 years
+      - 30+ years
+      required: true
+    - id: 4
+      name: farm_type
+      label: Farm Type
+      hint: Primary operation
+      type: select_one
+      options:
+      - Crop (Grains)
+      - Specialty Crops
+      - Livestock
+      - Dairy
+      - Mixed
+      required: true
+    - id: 5
+      name: tech_adoption_header
+      label: -- Technology Adoption --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_tech
+      label: Current Technology Usage
+      hint: What do you use now?
+      type: select_multiple
+      options:
+      - GPS Guidance / Auto-Steer
+      - Drones / UAVs
+      - Soil Moisture Sensors
+      - Yield Monitors
+      - Variable Rate Technology
+      - Farm Management Software
+      - None
+      required: true
+    - id: 7
+      name: barriers
+      label: Barriers to Adoption
+      hint: What prevents you from using more tech?
+      type: select_multiple
+      options:
+      - High Initial Cost
+      - Lack of Knowledge / Training
+      - Poor Internet / Infrastructure
+      - Unclear Return on Investment
+      - Complexity / Ease of Use
+      - Data Privacy Concerns
+      required: true
+    - id: 8
+      name: info_sources
+      label: Information Sources
+      hint: Where do you learn about new ag tech?
+      type: select_multiple
+      options:
+      - Extension Agents
+      - Equipment Dealers
+      - Other Farmers / Peers
+      - Internet / Social Media
+      - Agricultural Magazines
+      - Conferences / Trade Shows
+      required: true
+    - id: 9
+      name: adoption_likelihood
+      label: Likelihood to Adopt New Tech
+      hint: In the next 2 years (1=Unlikely, 5=Very Likely)
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: specific_interest
+      label: Specific Technology Interest
+      hint: What specific tools are you looking at?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: budget_range
+      label: Annual Technology Budget
+      hint: Estimated investment
+      type: select_one
+      options:
+      - Less than $1,000
+      - $1,000 - $5,000
+      - $5,000 - $20,000
+      - $20,000+
+      required: false

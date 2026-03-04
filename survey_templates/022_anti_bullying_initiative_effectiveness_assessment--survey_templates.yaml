@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bullying Initiative Effectiveness Assessment
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent/Guardian
+      - Faculty Member
+      - Administrative Staff
+      required: true
+    - id: 2
+      name: grade_level
+      label: Grade Level (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_awareness
+      label: Awareness of School Anti-Bullying Policies
+      hint: null
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Not Aware
+      required: true
+    - id: 4
+      name: safety_feeling
+      label: How safe do you feel at school?
+      hint: 1 is very unsafe, 5 is very safe
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: bullying_witness_freq
+      label: Frequency of witnessing bullying behaviors this semester
+      hint: Includes verbal, physical, and cyber bullying
+      type: select_one
+      options:
+      - Never
+      - Rarely (1-2 times)
+      - Occasionally (Monthly)
+      - Frequently (Weekly)
+      - Daily
+      required: true
+    - id: 6
+      name: reporting_confidence
+      label: Confidence in School - s Response to Bullying Reports
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - No Confidence
+      required: true
+    - id: 7
+      name: initiative_impact
+      label: Effectiveness of Recent Anti-Bullying Initiatives
+      hint: e.g. Workshops, Assemblies, Posters
+      type: select_one
+      options:
+      - Highly Effective
+      - Somewhat Effective
+      - Neutral
+      - Ineffective
+      required: true
+    - id: 8
+      name: perceived_changes
+      label: Positive Changes Noticed Since Initiatives Started
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gap_analysis
+      label: Gaps in Current Prevention Programs
+      hint: What is missing?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cyberbullying_concern
+      label: Level of Concern Regarding Cyberbullying
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 11
+      name: suggested_actions
+      label: Suggested Actions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false

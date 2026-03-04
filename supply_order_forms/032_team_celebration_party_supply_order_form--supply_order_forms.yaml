@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Celebration Party Supply Order Form
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_supply_selections
+      label: Party Supply Selections
+      hint: null
+      type: select_multiple
+      options:
+      - Cake
+      - Cupcakes
+      - Chips
+      - Popcorn
+      - Pizza
+      - Soda
+      - Ice Cream
+      - Fruit
+      - Snacks
+      - Candy
+      - Chocolate
+      - Chips
+      - Donuts
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: party_leads_email
+      label: Party Lead's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: party_leads_phone
+      label: Party Lead's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: party_leads_note
+      label: Party Lead's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: party_leads_delivery_date
+      label: Party Lead's Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Syntactic Knowledge Assessment
+    pages:
+    - id: 1
+      name: language_learners_sentence_structure
+      label: Language Learners Sentence Structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: built_for_educators
+      label: Built For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_teams_data_collection
+      label: Training Teams Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fast_data_collection
+      label: Fast Data Collection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: organized_form_submissions
+      label: Organized Form Submissions
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - Google Forms
+      - Other
+      required: false
+    - id: 6
+      name: educators_and_training_teams
+      label: Educators And Training Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: need_organized_data
+      label: Need Organized Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: language_learning
+      label: Language Learning
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,333 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brain Chase Escape Room Summer Camp - Staker Version
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: Camper first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Camper last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_dob
+      label: Camper Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_age
+      label: Camper Age
+      hint: Age at start of camp
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: camper_gender
+      label: Camper Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: parent_first_name
+      label: Parent First Name
+      hint: Parent or guardian first name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_last_name
+      label: Parent Last Name
+      hint: Parent or guardian last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Parent Email
+      hint: For camp communications
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent Phone
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to camper
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: camp_session
+      label: Camp Session
+      hint: Which session are you attending
+      type: select_one
+      options:
+      - Week 1 - June 12-16
+      - Week 2 - June 19-23
+      - Week 3 - June 26-30
+      - Week 4 - July 10-14
+      - Week 5 - July 17-21
+      - Week 6 - July 24-28
+      - Multiple weeks
+      required: true
+    - id: 15
+      name: camp_experience
+      label: Camp Experience
+      hint: Has camper attended before
+      type: select_one
+      options:
+      - First time camper
+      - Returning camper
+      - Brain Chase veteran
+      required: true
+    - id: 16
+      name: grade_completed
+      label: Grade Completed
+      hint: What grade has camper finished
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st grade
+      - 2nd grade
+      - 3rd grade
+      - 4th grade
+      - 5th grade
+      - 6th grade
+      - 7th grade
+      - 8th grade
+      required: true
+    - id: 17
+      name: school_name
+      label: School Name
+      hint: Name of school camper attends
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: interests
+      label: Camper Interests
+      hint: Select camper interests
+      type: select_multiple
+      options:
+      - Puzzles
+      - Reading
+      - Math
+      - Science
+      - Art
+      - Technology
+      - Gaming
+      - Escape rooms
+      - Mystery solving
+      - Team activities
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: List all allergies
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: behavioral_needs
+      label: Behavioral or Learning Needs
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: swimming_ability
+      label: Swimming Ability
+      hint: Can camper swim
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 25
+      name: pickup_authorization
+      label: Authorized Pickup Persons
+      hint: Who can pick up camper
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: medical_treatment_authorization
+      label: Medical Treatment Authorization
+      hint: I authorize emergency medical treatment
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 27
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: I consent to photos and videos
+      type: select_one
+      options:
+      - Yes, for internal use only
+      - Yes, for marketing too
+      - No consent
+      required: true
+    - id: 28
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand risks and waive liability
+      type: select_one
+      options:
+      - Yes, I waive
+      - false
+      required: true
+    - id: 29
+      name: camp_rules
+      label: Camp Rules Agreement
+      hint: Camper agrees to follow rules
+      type: select_one
+      options:
+      - Yes, agreed
+      - false
+      required: true
+    - id: 30
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For camp shirt
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      required: true
+    - id: 31
+      name: camp_fee
+      label: Camp Fee
+      hint: Fee amount
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - Online payment
+      required: true
+    - id: 33
+      name: sibling_discount
+      label: Sibling Discount
+      hint: Are you eligible for sibling discount
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: early_bird_discount
+      label: Early Bird Discount
+      hint: Did you register by early bird deadline
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 35
+      name: how_heard_about_camp
+      label: How Did You Hear About Camp
+      hint: What brought you to register
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - School referral
+      - Friend referral
+      - Previous camper
+      - Advertisement
+      - Other
+      required: false
+    - id: 36
+      name: parent_signature
+      label: Parent Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

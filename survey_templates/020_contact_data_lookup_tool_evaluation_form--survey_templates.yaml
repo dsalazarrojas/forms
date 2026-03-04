@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Data Lookup Tool Evaluation Form
+    pages:
+      - id: 1
+        name: section_tool_details
+        label: -- Tool Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: lookup_tool_name
+        label: Name of Lookup Tool Being Evaluated
+        hint: Enter the name of the software/tool
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: tool_vendor_name
+        label: Tool Vendor Name
+        hint: Who provides this tool?
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: tool_usage_purpose
+        label: Primary Purpose of Tool Usage
+        hint: Why are you using this tool?
+        type: select_multiple
+        options:
+          - Lead Generation
+          - Data Enrichment
+          - Sales Prospecting
+          - Marketing Campaigns
+          - Customer Research
+        required: true
+      - id: 5
+        name: section_performance_eval
+        label: -- Performance Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: rating_data_accuracy
+        label: Data Accuracy and Completeness
+        hint: How accurate is the contact information?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3 - Neutral
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 7
+        name: rating_lookup_speed
+        label: Lookup Speed and Response Time
+        hint: How fast does the tool return results?
+        type: select_one
+        options:
+          - 1 - Slow
+          - 2
+          - 3 - Average
+          - 4
+          - 5 - Fast
+        required: true
+      - id: 8
+        name: rating_ease_of_use
+        label: Ease of Use and Interface
+        hint: How intuitive is the tool to use?
+        type: select_one
+        options:
+          - 1 - Difficult
+          - 2
+          - 3 - Neutral
+          - 4
+          - 5 - Easy
+        required: true
+      - id: 9
+        name: integration_capabilities
+        label: Integration with Existing CRM/Systems
+        hint: How well does it connect with your other tools?
+        type: select_one
+        options:
+          - Very Poorly
+          - Poorly
+          - Moderately
+          - Well
+          - Very Well
+        required: true
+      - id: 10
+        name: section_cost_value
+        label: -- Cost and Value --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: tool_pricing_model
+        label: Tool Pricing Model
+        hint: How is the tool billed?
+        type: select_one
+        options:
+          - Pay-per-lookup
+          - Monthly Subscription
+          - Annual Subscription
+          - Credit-based System
+        required: true
+      - id: 12
+        name: rating_value_for_money
+        label: Value for Money Assessment
+        hint: Is the tool worth its cost?
+        type: select_one
+        options:
+          - Poor Value
+          - Below Average
+          - Good Value
+          - Excellent Value
+        required: true
+      - id: 13
+        name: section_final_recommendation
+        label: -- Final Recommendation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: overall_tool_rating
+        label: Overall Tool Rating
+        hint: General rating of the tool
+        type: select_one
+        options:
+          - 1 - Not Recommended
+          - 2
+          - 3 - Neutral
+          - 4
+          - 5 - Highly Recommended
+        required: true
+      - id: 15
+        name: biggest_strength_of_tool
+        label: Biggest Strength of Tool
+        hint: What do you like most?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: biggest_weakness_of_tool
+        label: Biggest Weakness of Tool
+        hint: What is the biggest drawback?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Instructor Transition Checklist
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: schedule_coverage
+      label: Schedule Coverage
+      hint: Please describe any scheduling conflicts or changes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_transfer
+      label: Client Transfer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: schedule_changes
+      label: Schedule Changes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: coverage
+      label: Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: coverage_note
+      label: Coverage Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client
+      label: Client
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 12
+      name: client_transfer_date
+      label: Client Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: client_transfer_time
+      label: Client Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: client_transfer_notes
+      label: Client Transfer Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: schedule_change_date
+      label: Schedule Change Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: schedule_change_note
+      label: Schedule Change Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: next_steps_note
+      label: Next Steps Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: next_steps_date
+      label: Next Steps Date
+      hint: null
+      type: date
+      options: []
+      required: true

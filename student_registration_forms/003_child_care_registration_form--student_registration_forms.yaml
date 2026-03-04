@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Registration Form
+    pages:
+    - id: 1
+      name: section_child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_full_name
+      label: Child Full Name
+      hint: As it appears on legal documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: Select child's birthday
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Gender
+      hint: Optional field
+      type: select_one
+      options:
+      - label: Male
+        value: male
+      - label: Female
+        value: female
+      - label: Other
+        value: other
+      required: false
+    - id: 5
+      name: section_guardian_contact
+      label: -- Parent or Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_name
+      label: Primary Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_phone
+      label: Primary Phone Number
+      hint: For emergency and updates
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: For billing and notices
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: section_medical_emergency
+      label: -- Medical and Emergency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: known_allergies
+      label: Known Allergies
+      hint: List all food and environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: chronic_conditions
+      label: Any Chronic Conditions?
+      hint: Select yes if any long-term health issues exist
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Different from primary guardian
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Available during care hours
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_schedule
+      label: -- Requested Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: requested_days
+      label: Requested Days of Attendance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Monday
+        value: mon
+      - label: Tuesday
+        value: tue
+      - label: Wednesday
+        value: wed
+      - label: Thursday
+        value: thu
+      - label: Friday
+        value: fri
+      required: true

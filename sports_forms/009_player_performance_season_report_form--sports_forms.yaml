@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Performance Season Report Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: season
+      label: Season
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: goals_scored
+      label: Goals Scored
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assists_received
+      label: Assists Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: player_comments
+      label: Player Comments
+      hint: null
+      type: text
+      options: []
+      required: false

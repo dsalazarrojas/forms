@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Supplies Order Form
+    pages:
+    - id: 1
+      name: delivery_or_pickup
+      label: Delivery or Pickup
+      hint: null
+      type: select_one
+      options:
+      - delivery
+      - pickup
+      required: false
+    - id: 2
+      name: items_needed
+      label: Items Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item1_name
+      label: Item 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item1_quantity
+      label: Item 1 Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item1_description
+      label: Item 1 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item1_price
+      label: Item 1 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: item2_name
+      label: Item 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item2_quantity
+      label: Item 2 Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: item2_description
+      label: Item 2 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item2_price
+      label: Item 2 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - shipping
+      - pickup
+      required: false

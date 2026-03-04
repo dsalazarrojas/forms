@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_multiple
+      options:
+      - female
+      - male
+      - other
+      required: false

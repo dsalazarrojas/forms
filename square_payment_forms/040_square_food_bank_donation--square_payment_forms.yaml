@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Food Bank Donation
+    pages:
+    - id: 1
+      name: form_title
+      label: Square Food Bank Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: food_amount
+      label: Food Amount
+      hint: Amount of money to be donated
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: Date of Donation
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cause_description
+      label: Sponsor Description
+      hint: Please enter sponsor description for this donation
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Donate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

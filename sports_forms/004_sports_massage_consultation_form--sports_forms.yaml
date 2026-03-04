@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Massage Consultation Form
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_concerns
+      label: Health concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: massage_needs
+      label: Massage needs
+      hint: null
+      type: select_multiple
+      options:
+      - Preventative maintenance
+      - Relaxation
+      - Rehabilitation
+      - Other
+      required: true
+    - id: 4
+      name: medical_history_details
+      label: Medical history details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_conditions
+      label: Current conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: massage_frequency
+      label: Massage frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5 or more times per week
+      required: true
+    - id: 7
+      name: massage_duration
+      label: Massage duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: massage_intensity
+      label: Massage intensity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 9
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Skill Improvement Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_role
+      label: Current Role
+      hint: Your official job title
+      type: select_one
+      options:
+      - Junior Accountant
+      - Senior Accountant
+      - Controller
+      - CFO
+      - Audit Associate
+      required: true
+    - id: 4
+      name: proficient_skills
+      label: Proficient Skills
+      hint: Areas where you are already competent
+      type: select_multiple
+      options:
+      - General Ledger
+      - Financial Reporting
+      - Tax Compliance
+      - Cost Accounting
+      - IFRS / GAAP Knowledge
+      required: false
+    - id: 5
+      name: desired_training_areas
+      label: Desired Training Areas
+      hint: Select areas for future development
+      type: select_multiple
+      options:
+      - Advanced Excel
+      - Data Analytics for Finance
+      - Ethical Leadership
+      - International Taxation
+      - Automation Tools
+      required: false
+    - id: 6
+      name: preferred_learning_style
+      label: Preferred Learning Style
+      hint: null
+      type: select_one
+      options:
+      - Self-paced Online
+      - Live Webinar
+      - In-person Workshop
+      - One-on-one Mentoring
+      required: true
+    - id: 7
+      name: hours_per_week_available_for_training
+      label: Hours Per Week Available for Training
+      hint: Realistic estimate
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_skill_gap_impact
+      label: How much do current skill gaps impact your daily productivity?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - Significant
+      required: true
+    - id: 9
+      name: specific_tools_or_software_to_learn
+      label: Specific Tools or Software to Learn
+      hint: e.g., PowerBI, NetSuite, Python
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_header
+      label: -- Developmental Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments_if_applicable
+      label: Manager Comments
+      hint: For supervisors completing this for a team member
+      type: text
+      options: []
+      required: false

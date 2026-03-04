@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dual Meet Participation Interest Survey
+    pages:
+    - id: 1
+      name: dual_meet_participation_interest_survey_form
+      label: Dual Meet Participation Interest Survey Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: club_name
+      label: club_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_team
+      label: school_team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: available_dates
+      label: available_dates
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

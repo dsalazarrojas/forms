@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Training Kit Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: kits
+      label: Select kits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: submit_request
+      label: Submit request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: review_and_ship
+      label: Review and ship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping
+      label: Shipping
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vendor_name
+      label: Vender name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Progress Monitoring Form
+    pages:
+    - id: 1
+      name: student_progress_monitoring_form
+      label: student_progress_monitoring_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: academic_term
+      label: academic_term
+      hint: null
+      type: select_one
+      options:
+      - Academic Term 1
+      - Academic Term 2
+      required: false
+    - id: 5
+      name: subject_area
+      label: subject_area
+      hint: null
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - English
+      required: false
+    - id: 6
+      name: subject_area_other
+      label: other_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assessment_time
+      label: assessment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: performance_level
+      label: performance_level
+      hint: null
+      type: select_multiple
+      options:
+      - Below Grade Level
+      - At Grade Level
+      - Above Grade Level
+      required: false
+    - id: 10
+      name: educational_goals
+      label: educational_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Writing
+      - Mathematics
+      required: false
+    - id: 11
+      name: academic_support
+      label: academic_support
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Teacher
+      - Counselor
+      required: false
+    - id: 12
+      name: progress_notes
+      label: progress_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: parent_comments
+      label: parent_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_completion_date
+      label: form_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false

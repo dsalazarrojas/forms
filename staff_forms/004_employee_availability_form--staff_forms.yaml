@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Availability Form
+    pages:
+    - id: 1
+      name: employee_availability_form_page_1
+      label: employee_availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: availability
+      label: is_available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability_date
+      label: availability_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: availability_time
+      label: availability_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_note
+      label: employee_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manager_approval_date
+      label: manager_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_approval_time
+      label: manager_approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: manager_note
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calmness Coaching Survey
+    pages:
+    - id: 1
+      name: client_intake_header
+      label: -- Calmness Coaching Intake Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For session scheduling and resources
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_stress_level
+      label: Rate your current daily stress level
+      hint: 1 (Very Low) to 10 (Extremely High)
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: stressors_list
+      label: Primary Sources of Stress
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Career and Work
+      - Family and Relationships
+      - Finances
+      - Health and Wellness
+      - Time Management
+      - World Events
+      required: true
+    - id: 6
+      name: current_coping_methods
+      label: Current Coping Mechanisms
+      hint: How do you currently handle stress?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physical_symptoms_stress
+      label: Physical Symptoms of Stress
+      hint: e.g., Headaches, tension, sleep issues
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coaching_goals_header
+      label: -- Your Goals for Coaching --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_goal
+      label: What is your
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_tools
+      label: Tools you are interested in exploring
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness Meditation
+      - Breathwork Techniques
+      - Cognitive Reframing
+      - Boundary Setting
+      - Time Blocking and Organization
+      - Physical Movement
+      required: false
+    - id: 11
+      name: commitment_level
+      label: Commitment Level
+      hint: How ready are you to make changes?
+      type: select_one
+      options:
+      - Ready for immediate action
+      - Curious and exploring
+      - Hesitant but willing to try
+      required: true
+    - id: 12
+      name: availability_sessions
+      label: General Weekly Availability
+      hint: e.g., Monday mornings, Thursday evenings
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_comments_wellness
+      label: Is there anything else you would like to share?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_info
+      label: How did you find our coaching service?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: drive_thru_customer_experience_survey
+    pages:
+    - id: 1
+      name: drive_thru_customer_experience_survey
+      label: Drive Thru Customer Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: drive_thru_service
+      label: Thru Service
+      hint: How was the service at the drive thru today?
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: drive_thru_staff
+      label: Thru Staff
+      hint: How friendly were the staff at the drive thru?
+      type: select_multiple
+      options:
+      - Very Friendly
+      - Friendly
+      - Average
+      - Not Friendly
+      required: false
+    - id: 6
+      name: drive_thru_facilities
+      label: Thru Facilities
+      hint: How clean were the drive thru facilities?
+      type: select_multiple
+      options:
+      - Very Clean
+      - Clean
+      - Average
+      - Not Clean
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Overall how satisfied were you with your visit?
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false

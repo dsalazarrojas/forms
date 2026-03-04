@@ -1,0 +1,49 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Horseracing Rider Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: horse_racing_experience
+      label: Horse Racing Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 year'', ''value'': ''less_than_1_year''}'
+      - '{''label'': ''1-2 years'', ''value'': ''1_2_years''}'
+      - '{''label'': ''2-5 years'', ''value'': ''2_5_years''}'
+      - '{''label'': ''5-10 years'', ''value'': ''5_10_years''}'
+      - '{''label'': ''More than 10 years'', ''value'': ''more_than_10_years''}'
+      required: false
+    - id: 4
+      name: jockey_info
+      label: Jockey Info
+      hint: null
+      type: note
+      options: []
+      required: false

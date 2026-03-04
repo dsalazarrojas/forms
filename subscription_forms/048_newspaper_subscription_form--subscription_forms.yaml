@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newspaper Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Alabama''}'
+      - '{''id'': 2, ''name'': ''Alaska''}'
+      - '{''id'': 3, ''name'': ''American Samoa''}'
+      - '{''id'': 4, ''name'': ''Arizona''}'
+      - '{''id'': 5, ''name'': ''Arkansas''}'
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subscription_frequency
+      label: Subscription frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''weekly''}'
+      - '{''id'': 2, ''name'': ''bi-weekly''}'
+      - '{''id'': 3, ''name'': ''monthly''}'
+      - '{''id'': 4, ''name'': ''quarterly''}'
+      - '{''id'': 5, ''name'': ''annually''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

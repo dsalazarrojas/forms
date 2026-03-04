@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'History Quiz: Division And Unification'
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: section1
+      label: Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question1
+      label: What was the main reason for the division of Europe?
+      hint: null
+      type: select_one
+      options:
+      - Nationalism
+      - Economic reasons
+      - Military reasons
+      - Religious reasons
+      - Other
+      required: true
+    - id: 4
+      name: question2
+      label: What was the main cause of the reunification of Europe?
+      hint: null
+      type: select_multiple
+      options:
+      - End of WWII
+      - European Integration
+      - Nationalism
+      - International relations
+      - Other
+      required: true
+    - id: 5
+      name: section2
+      label: Section 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question3
+      label: When was the reunification of Europe formally completed?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: question4
+      label: Time of reunification
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: section3
+      label: Section 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: question5
+      label: How do you feel about the reunification of Europe?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 10
+      name: question6
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question7
+      label: Time spent on section 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: question8
+      label: Time spent on section 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: question9
+      label: Time spent on section 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question10
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question11
+      label: How did you feel about the questions?
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Difficult
+      - Neutral
+      required: false
+    - id: 16
+      name: question12
+      label: How clear were the questions?
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Not clear
+      - Neutral
+      required: false
+    - id: 17
+      name: question13
+      label: Would you like to take the test again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Neutral
+      required: false
+    - id: 18
+      name: question14
+      label: How was the test duration?
+      hint: null
+      type: select_one
+      options:
+      - Too long
+      - Too short
+      - Neutral
+      required: false
+    - id: 19
+      name: question15
+      label: Rate this test
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true

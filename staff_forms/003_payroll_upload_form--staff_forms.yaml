@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Upload Form
+    pages:
+    - id: 1
+      name: payroll_upload_form_1
+      label: Upload Payroll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pay_rate
+      label: Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pay_amount
+      label: Pay Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: upload_type
+      label: Type of Pay
+      hint: null
+      type: select_one
+      options:
+      - '{''PAYROLL'': ''Payroll''}'
+      - '{''BENEFIT'': ''Benefit''}'
+      - '{''DEDUCTION'': ''Deduction''}'
+      required: false
+    - id: 8
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

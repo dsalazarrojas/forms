@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Evaluation
+    pages:
+    - id: 1
+      name: training_evaluation_form
+      label: Training Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course
+      label: course
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Course 1''}'
+      - '{''value'': ''Course 2''}'
+      required: false
+    - id: 3
+      name: trainee_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question1
+      label: How would you rate the instructor?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: feedback_question2
+      label: What did you find most helpful in this course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false

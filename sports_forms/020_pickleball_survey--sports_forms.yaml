@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pickleball Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 5
+      name: play_frequency
+      label: How often do you play?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: play_time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: favorite_surface
+      label: Favorite Surface
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: favorite_tool
+      label: Favorite Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_net
+      label: Favorite Net
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: favorite_net_type
+      label: Net Type
+      hint: null
+      type: select_one
+      options:
+      - 3-Piece
+      - 4-Piece
+      - 5-Piece
+      required: false
+    - id: 11
+      name: favorite_net_maintenance
+      label: Net Maintenance
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 12
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_level
+      label: Rating Level
+      hint: null
+      type: select_one
+      options:
+      - '1.0'
+      - '2.0'
+      - '3.0'
+      - '4.0'
+      - '5.0'
+      - '6.0'
+      required: false
+    - id: 14
+      name: play_with
+      label: Play With
+      hint: null
+      type: select_one
+      options:
+      - Alone
+      - Partner
+      - Partner and Friends
+      - Partner and Family
+      required: false
+    - id: 15
+      name: play_opponent_type
+      label: Opponent Type
+      hint: null
+      type: select_one
+      options:
+      - Recreational
+      - Competitive
+      - Recreational and Competitive
+      required: false
+    - id: 16
+      name: play_with_opponent
+      label: Play With Opponent
+      hint: null
+      type: select_multiple
+      options:
+      - Recreational
+      - Competitive
+      required: false
+    - id: 17
+      name: opponent_gender
+      label: Opponent Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 18
+      name: play_with_opponent_gender
+      label: Opponent Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 19
+      name: play_with_opponent_age
+      label: Opponent Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: play_with_opponent_frequency
+      label: Opponent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 21
+      name: play_with_opponent_skill_level
+      label: Opponent Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Extremely High
+      required: false
+    - id: 22
+      name: opponent_skill_level
+      label: Opponent Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Extremely High
+      required: false
+    - id: 23
+      name: play_with_opponent_favorite_surface
+      label: Opponent Favorite Surface
+      hint: null
+      type: select_one
+      options:
+      - Hard
+      - Soft
+      - Indoor
+      - Outdoor
+      - Mixed
+      required: false
+    - id: 24
+      name: play_with_opponent_favorite_net
+      label: Opponent Favorite Net
+      hint: null
+      type: select_one
+      options:
+      - 3-Piece
+      - 4-Piece
+      - 5-Piece
+      required: false
+    - id: 25
+      name: play_with_opponent_play_frequency
+      label: Opponent Play Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false

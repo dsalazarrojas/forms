@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Corps Uniform Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: uniform_type
+      label: uniform type
+      hint: null
+      type: select_multiple
+      options:
+      - Marine Corps
+      - Army
+      - Navy
+      - Air Force
+      - Other
+      required: false
+    - id: 5
+      name: unit_number
+      label: unit number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      - xl
+      - other
+      required: false
+    - id: 7
+      name: note
+      label: any notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: chatjimmy
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Staff Forms
+      - Customer Forms
+      - Sales minimalist
+      required: false
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_form_id
+      label: assigned form id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: category_2
+      label: category 2
+      hint: null
+      type: text
+      options: []
+      required: false

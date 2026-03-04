@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contestant Feedback Form
+    pages:
+      - id: 1
+        name: contestant_name
+        label: Contestant Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: contest_name
+        label: Contest Name
+        hint: Which contest did you participate in?
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contest_date
+        label: Contest Date
+        hint: Date of event
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: category
+        label: Competition Category
+        hint: Your category
+        type: select_one
+        options:
+          - Individual Sports
+          - Team Sports
+          - Art Competition
+          - Music Competition
+          - Dance Competition
+          - Academic Competition
+          - Other
+        required: true
+      - id: 6
+        name: overall_experience
+        label: Overall Experience
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: registration_process
+        label: Registration Process
+        hint: Rate the registration experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: communication_quality
+        label: Communication Quality
+        hint: Rate pre-event communication
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: venue_facilities
+        label: Venue Facilities
+        hint: Rate the venue
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 10
+        name: staff_friendliness
+        label: Staff Friendliness
+        hint: Rate staff helpfulness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: judging_fairness
+        label: Judging Fairness
+        hint: Rate the fairness of judging
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: event_organization
+        label: Event Organization
+        hint: Rate how well organized the event was
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: value_for_money
+        label: Value for Money
+        hint: Rate the entry fee value
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: best_aspect
+        label: Best Aspect
+        hint: What did you enjoy most?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be better?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend to others?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 17
+        name: participate_again
+        label: Participate Again
+        hint: Would you compete again?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

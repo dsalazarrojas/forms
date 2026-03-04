@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Trading Form
+    pages:
+    - id: 1
+      name: player_trading_form
+      label: Player Trading Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_information
+      label: player_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: league
+      label: select_one_league
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''MLB''}'
+      - '{''value'': ''NFL''}'
+      - '{''value'': ''NBA''}'
+      - '{''value'': ''NHL''}'
+      required: false
+    - id: 4
+      name: team
+      label: select_one_team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yankees''}'
+      - '{''value'': ''Dodgers''}'
+      - '{''value'': ''Lakers''}'
+      - '{''value'': ''Celtics''}'
+      required: false
+    - id: 5
+      name: players
+      label: select_multiple_players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: position
+      label: position
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Quarterback''}'
+      - '{''value'': ''Running Back''}'
+      - '{''value'': ''Wide Receiver''}'
+      required: false
+    - id: 7
+      name: contract_length
+      label: contract_length
+      hint: Enter a contract length in years
+      type: select_one
+      options:
+      - '{''value'': ''1 year''}'
+      - '{''value'': ''2 years''}'
+      - '{''value'': ''3 years''}'
+      - '{''value'': ''4 years''}'
+      required: false
+    - id: 8
+      name: trade_price
+      label: trade_price
+      hint: Enter a trade price
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: Date of the trade
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: trade_type
+      label: trade_type
+      hint: Enter a trade type
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transfer_type
+      label: transfer_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''trade''}'
+      - '{''value'': ''draft''}'
+      required: false
+    - id: 12
+      name: trade_details
+      label: trade_details
+      hint: Enter trade details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_a
+      label: team_a
+      hint: Select Team A
+      type: select_one
+      options:
+      - '{''value'': ''Yankees''}'
+      - '{''value'': ''Dodgers''}'
+      - '{''value'': ''Lakers''}'
+      - '{''value'': ''Celtics''}'
+      required: false
+    - id: 14
+      name: team_b
+      label: team_b
+      hint: Select Team B
+      type: select_one
+      options:
+      - '{''value'': ''Yankees''}'
+      - '{''value'': ''Dodgers''}'
+      - '{''value'': ''Lakers''}'
+      - '{''value'': ''Celtics''}'
+      required: false
+    - id: 15
+      name: players_a
+      label: players_a
+      hint: Select players on Team A
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: players_b
+      label: players_b
+      hint: Select players on Team B
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: date2
+      label: date2
+      hint: Date of the trade
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: trade_value
+      label: trade_value
+      hint: Enter a trade value
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: trade_value2
+      label: trade_value2
+      hint: Enter a trade value 2
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: contract_length2
+      label: contract_length2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1 year''}'
+      - '{''value'': ''2 years''}'
+      - '{''value'': ''3 years''}'
+      - '{''value'': ''4 years''}'
+      required: false
+    - id: 21
+      name: contract_length3
+      label: contract_length3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1 year''}'
+      - '{''value'': ''2 years''}'
+      - '{''value'': ''3 years''}'
+      - '{''value'': ''4 years''}'
+      required: false
+    - id: 22
+      name: date3
+      label: date3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: trade_value3
+      label: trade_value3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: trade_price2
+      label: trade_price2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: date4
+      label: date4
+      hint: null
+      type: date
+      options: []
+      required: false

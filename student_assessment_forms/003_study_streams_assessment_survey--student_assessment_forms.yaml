@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Streams Assessment Survey
+    pages:
+    - id: 1
+      name: study_streams
+      label: study_streams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: study_stream_name
+      label: study_stream_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: method_of_study
+      label: method_of_study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: teaching_method
+      label: teaching_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: format_of_study
+      label: format_of_study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false

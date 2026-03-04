@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_club_community_day_lead_generation_form
+    pages:
+    - id: 1
+      name: community_day_interest
+      label: What is your interest in Community Day
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_interest
+      label: Date of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_interest
+      label: Time of Interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_question
+      label: Follow-up question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_contact_email
+      label: Follow-up contact email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_up_contact_phone
+      label: Follow-up contact phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

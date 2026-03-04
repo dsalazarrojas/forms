@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concession Supply Order Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Contact for this order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department or vendor
+      hint: Who will receive supplies
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for order coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_list
+      label: Items requested
+      hint: List items and quantities
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date
+      label: Preferred delivery date
+      hint: Date supplies are needed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_location
+      label: Delivery location
+      hint: Building and room or dock
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: special_instructions
+      label: Special instructions
+      hint: Handling or access notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_code
+      label: Budget code
+      hint: Charge to account or code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval status
+      hint: For internal use only
+      type: select_one
+      options:
+      - Pending approval
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: order_summary
+      label: Order summary
+      hint: Read only summary after submission
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Supply Order Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business or Organization Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Full billing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: book_1_title
+      label: Book 1 - Title
+      hint: Title of first book
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: book_1_isbn
+      label: Book 1 - ISBN
+      hint: ISBN number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: book_1_quantity
+      label: Book 1 - Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: book_1_unit_price
+      label: Book 1 - Unit Price
+      hint: Price per copy
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: book_2_title
+      label: Book 2 - Title
+      hint: Title of second book
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: book_2_quantity
+      label: Book 2 - Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: book_3_title
+      label: Book 3 - Title
+      hint: Title of third book
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: book_3_quantity
+      label: Book 3 - Quantity
+      hint: Number of copies
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: additional_books
+      label: Additional Books or Details
+      hint: List any additional books not shown above
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_total
+      label: Order Total
+      hint: Total amount for this order
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: Preferred payment method
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Credit Card
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any special handling or delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false

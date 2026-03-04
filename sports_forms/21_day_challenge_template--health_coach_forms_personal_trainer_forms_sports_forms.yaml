@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 21 Day Challenge Participant Form
+    pages:
+    - id: 1
+      name: welcome_note
+      label: '--- Welcome to Your 21 Day Challenge! ---'
+      hint: Please complete this form to help us personalize your experience and provide
+        the best support on your journey to success.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: As it appears on your official ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We'll send challenge updates and resources here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: (Optional) In case we need to reach you urgently
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of someone we can contact in an emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for your emergency contact
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: section_health_profile
+      label: '--- Health & Fitness Profile ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_weight_kg
+      label: Current Weight (kg)
+      hint: Your current weight in kilograms (e.g., 72.5)
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: height_cm
+      label: Height (cm)
+      hint: Your height in centimeters (e.g., 165.0)
+      type: decimal
+      options: []
+      required: false
+    - id: 13
+      name: fitness_level_assessment
+      label: Current Fitness Level
+      hint: Your general activity level before starting the challenge
+      type: select_one
+      options:
+      - Sedentary (little to no exercise)
+      - Lightly Active (light exercise 1-3 days/week)
+      - Moderately Active (moderate exercise 3-5 days/week)
+      - Very Active (hard exercise 6-7 days/week)
+      required: true
+    - id: 14
+      name: health_limitations
+      label: Medical Conditions or Physical Limitations
+      hint: List any relevant medical conditions, injuries, or physical limitations
+        we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_considerations
+      label: Dietary Preferences or Restrictions
+      hint: Select all that apply to your diet (e.g., Vegetarian, Gluten-Free)
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Pescatarian
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Keto
+      - Paleo
+      - None
+      - Other (specify in comments)
+      required: false
+    - id: 16
+      name: section_goals
+      label: '--- Your Challenge Goals & Expectations ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: main_challenge_goal
+      label: Main Challenge Goal
+      hint: What specific, measurable outcome do you want to achieve in 21 days? (e.g.,
+        'Lose 3kg', 'Run 5k', 'Improve sleep')
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: motivation_level
+      label: My Motivation Level for this Challenge (1-5)
+      hint: 1 = Low, 5 = Extremely High
+      type: select_one
+      options:
+      - 1 - Low
+      - 2 - Moderate
+      - 3 - Good
+      - 4 - High
+      - 5 - Extremely High
+      required: true
+    - id: 19
+      name: preferred_activities
+      label: Preferred Workout Types/Activities
+      hint: Select types of physical activities you enjoy or wish to focus on
+      type: select_multiple
+      options:
+      - Strength Training
+      - Cardio (Running, Cycling)
+      - Yoga/Pilates
+      - HIIT
+      - Swimming
+      - Walking
+      - Team Sports
+      - Dancing
+      - Other
+      required: false
+    - id: 20
+      name: challenge_start_date
+      label: Target Challenge Start Date
+      hint: When do you plan to officially begin your 21-day journey?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: section_acknowledgment
+      label: '--- Important Notes & Agreement ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: acknowledgment_of_risks
+      label: Acknowledgment of Risks & Disclaimer
+      hint: By selecting 'Yes', you confirm that you have read and understood that
+        this challenge involves physical activity and potential dietary changes. You
+        agree to participate at your own risk and affirm that you have consulted with
+        a healthcare professional if you have any pre-existing health concerns.
+      type: select_one
+      options:
+      - Yes, I understand and agree.
+      - No, I have questions or concerns.
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Please provide any other information you'd like your coach to know or
+        ask any questions you have.
+      type: text
+      options: []
+      required: false

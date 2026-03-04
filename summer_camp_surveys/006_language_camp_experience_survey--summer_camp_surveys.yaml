@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Camp Experience Survey
+    pages:
+    - id: 1
+      name: summer_camp_experience
+      label: Summer Camp Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: session_name
+      label: session_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: language_camps
+      label: Language Camps
+      hint: null
+      type: select_one
+      options:
+      - Camp A
+      - Camp B
+      - Camp C
+      required: false
+    - id: 4
+      name: education_programs
+      label: Education Programs
+      hint: null
+      type: select_one
+      options:
+      - Program A
+      - Program B
+      - Program C
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: What did you enjoy about the session?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_attended
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_attended
+      label: Time Attended
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 1.5-2.5
+      - 3-5
+      - 6-7
+      - 8-10
+      - 11-12
+      required: false
+    - id: 12
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Language Camp
+      - Language and Art
+      - Language and Sports
+      required: false
+    - id: 13
+      name: feedback_question_1
+      label: Feedback Question 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: feedback_question_2
+      label: Feedback Question 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: feedback_question_3
+      label: Feedback Question 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session_length_hours
+      label: Session Length (hours)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: participant_attended
+      label: Participant Attended
+      hint: null
+      type: select_multiple
+      options:
+      - Child
+      - Adult
+      - Both
+      required: false
+    - id: 19
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Organization
+      required: false
+    - id: 20
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 21
+      name: staff_attended
+      label: Staff Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: session_attended
+      label: Session Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classic Tank Battle Feedback Form
+    pages:
+      - id: 1
+        name: player_username
+        label: Player Username
+        hint: Your in-game username
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: player_email
+        label: Email Address
+        hint: For contact regarding feedback
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: feedback_date
+        label: Date of Feedback
+        hint: When you are submitting this feedback
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: session_date
+        label: Session or Playtest Date
+        hint: When did you play?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: section_header_gameplay
+        label: -- Gameplay Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: overall_rating
+        label: Overall Game Experience Rating
+        hint: How would you rate your overall experience?
+        type: select_one
+        options:
+          - Excellent (5/5)
+          - Very Good (4/5)
+          - Good (3/5)
+          - Fair (2/5)
+          - Poor (1/5)
+        required: true
+      - id: 7
+        name: gameplay_mechanics
+        label: Gameplay Mechanics Quality
+        hint: How well did the tank controls and mechanics work?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: difficulty_balance
+        label: Game Difficulty Balance
+        hint: Was the difficulty appropriately balanced?
+        type: select_one
+        options:
+          - Too Easy
+          - Just Right
+          - Too Difficult
+        required: true
+      - id: 9
+        name: graphics_quality
+        label: Graphics and Visual Quality
+        hint: Rating of the visual presentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 10
+        name: audio_quality
+        label: Audio and Sound Effects Quality
+        hint: Rating of sound design and music
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 11
+        name: gameplay_feedback
+        label: Gameplay Feedback
+        hint: What did you like or dislike about gameplay?
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: section_header_bugs
+        label: -- Bug Reports and Issues --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: bugs_encountered
+        label: Did you encounter any bugs or technical issues?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 14
+        name: bug_description
+        label: Please describe the bugs or issues
+        hint: Be as specific as possible with what happened
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: bug_severity
+        label: Severity of Issues
+        hint: How severe were the bugs?
+        type: select_one
+        options:
+          - Critical - Game Breaking
+          - Major - Significant Impact
+          - Minor - Annoying but Playable
+          - Cosmetic - Visual Only
+        required: false
+      - id: 16
+        name: reproduction_steps
+        label: Steps to Reproduce the Bug
+        hint: How can the developers reproduce this issue?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: section_header_improvements
+        label: -- Feature Suggestions and Improvements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: feature_suggestions
+        label: Feature Suggestions
+        hint: What new features or improvements would you like to see?
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: improvement_priority
+        label: Priority of Suggested Improvements
+        hint: How important are these improvements?
+        type: select_one
+        options:
+          - Critical Priority
+          - High Priority
+          - Medium Priority
+          - Low Priority
+          - Nice to Have
+        required: false
+      - id: 20
+        name: multiplayer_interest
+        label: Would you be interested in multiplayer features?
+        hint: null
+        type: select_one
+        options:
+          - Very Interested
+          - Somewhat Interested
+          - Not Interested
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or suggestions
+        type: text
+        options: []
+        required: false

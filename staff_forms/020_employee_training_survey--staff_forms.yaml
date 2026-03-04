@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Survey
+    pages:
+    - id: 1
+      name: employee_rating
+      label: employee rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: training_programs
+      label: training programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: training_date
+      label: training date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_time
+      label: training time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: training_location
+      label: training location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_facilitator
+      label: training facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_notes
+      label: training notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: staff_feedback
+      label: staff feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager_feedback
+      label: manager feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: completed_training
+      label: completed training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_hours
+      label: training hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: attended_training
+      label: attended training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: completed_hours
+      label: completed hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: hours_spent
+      label: hours spent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: training_satisfaction
+      label: training satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 16
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 17
+      name: training_value
+      label: training value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: training_relevance
+      label: training relevance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: completed_survey
+      label: completed survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: survey_frequency
+      label: survey frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: next_steps
+      label: next steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_info
+      label: additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

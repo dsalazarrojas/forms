@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Motivation Research Consent Form
+    pages:
+    - id: 1
+      name: research_intro_header
+      label: -- Research Study Introduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_name
+      label: Research Institution or University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_researcher
+      label: Lead Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_profile_header
+      label: -- Participant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: athlete_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: athlete_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 9
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years Participating in Sport
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: consent_header
+      label: -- Research Participation Consent --
+      hint: Please confirm your understanding of the following terms
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purpose_acknowledgment
+      label: I understand the purpose and objectives of this motivation research
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 13
+      name: requirements_acknowledgment
+      label: I understand the requirements for participation (surveys, interviews,
+        etc.)
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: risk_disclosure
+      label: I acknowledge the potential risks and benefits of participation
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: privacy_acknowledgment
+      label: I understand how my data will be stored and kept confidential
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: publication_consent
+      label: I consent to the use of my anonymized data in research publications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: voluntary_agreement
+      label: I understand my participation is voluntary and I can stop at any time
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 18
+      name: withdrawal_rights
+      label: I acknowledge my right to request data removal within the study window
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 19
+      name: initial_insight_header
+      label: -- Initial Motivation Insight --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: research_participation_reason
+      label: What is your primary reason for participating in this research?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: current_motivation_rating
+      label: Overall Motivation in your Sport Today
+      hint: 1 is Not Motivated, 10 is Highly Motivated
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: consent_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

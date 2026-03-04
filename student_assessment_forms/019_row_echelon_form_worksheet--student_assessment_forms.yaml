@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Row Echelon Form Worksheet
+    pages:
+    - id: 1
+      name: row_echelon_form_worksheet_form
+      label: row_echelon_form_worksheet_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: step_number
+      label: Step Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: matrix
+      label: matrix
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reduced_matrix
+      label: reduced matrix
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: row_echelon_form_worksheet_comments
+      label: Row Echelon Form Worksheet Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_response
+      label: Student Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_response
+      label: Teacher Response
+      hint: null
+      type: text
+      options: []
+      required: false

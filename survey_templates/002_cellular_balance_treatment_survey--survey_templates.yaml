@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cellular Balance Treatment Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: Date of the cellular balance treatment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: Name of the therapist who provided treatment
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction with Treatment
+      hint: How satisfied are you with your session
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 5
+      name: energy_level_before
+      label: Energy Level Before Treatment
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_level_after
+      label: Energy Level After Treatment
+      hint: Rate on a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pain_relief
+      label: Pain or Discomfort Relief
+      hint: Did the treatment provide relief
+      type: select_one
+      options:
+      - Significant Relief
+      - Moderate Relief
+      - Slight Relief
+      - No Change
+      - Worse
+      required: false
+    - id: 8
+      name: sleep_quality_improved
+      label: Sleep Quality Improved
+      hint: Has your sleep improved since treatment
+      type: select_one
+      options:
+      - Much Better
+      - Better
+      - Same
+      - Worse
+      - Much Worse
+      required: false
+    - id: 9
+      name: recommend_treatment
+      label: Would You Recommend This Treatment
+      hint: Would you recommend to friends or family
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 10
+      name: treatment_effectiveness
+      label: How Effective Was the Treatment
+      hint: Rate effectiveness on a scale
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Minimally Effective
+      - Ineffective
+      required: true
+    - id: 11
+      name: therapist_professionalism
+      label: Therapist Professionalism
+      hint: Rate therapist's professionalism and demeanor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 12
+      name: clinic_environment
+      label: Clinic Environment and Cleanliness
+      hint: Rate the quality of the facility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 13
+      name: appointment_scheduling
+      label: Ease of Scheduling Appointment
+      hint: How easy was it to book your session
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Average
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 14
+      name: next_appointment_frequency
+      label: Desired Frequency of Future Treatments
+      hint: How often would you like to return
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Every 2-3 months
+      - As Needed
+      required: false
+    - id: 15
+      name: specific_improvements
+      label: Specific Improvements Noticed
+      hint: List any specific improvements in how you feel
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: Areas for Improvement at the Clinic
+      hint: Feedback for service improvements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_services_interest
+      label: Interest in Additional Services
+      hint: Would you be interested in other treatments
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Maybe
+      - Not Interested
+      required: false
+    - id: 18
+      name: contact_permission
+      label: May We Contact You for Follow-up
+      hint: Permission to reach out with treatment updates
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: contact_method
+      label: Preferred Contact Method
+      hint: How would you like us to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - No Preference
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false

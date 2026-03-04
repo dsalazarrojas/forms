@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Consent Form
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- Research Participation Consent --
+      hint: Please read the following information carefully before proceeding
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Study or Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participation_voluntary
+      label: I understand that my participation is voluntary and I may stop at any
+        time
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 4
+      name: anonymity_assurance
+      label: I understand that my responses will be kept strictly anonymous
+      hint: No identifying information like your name or IP address will be stored
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 5
+      name: data_usage
+      label: I consent to the use of my anonymized data for research purposes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: age_verification
+      label: Are you 18 years of age or older?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: risk_understanding
+      label: I have been informed of any potential risks associated with this study
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: contact_info_note
+      label: For questions regarding this study - please contact the program administrator
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: final_consent
+      label: I confirm that I wish to proceed with the survey
+      hint: By checking this box you are providing digital consent
+      type: select_multiple
+      options:
+      - I give my consent
+      - Other
+      required: true
+    - id: 10
+      name: consent_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

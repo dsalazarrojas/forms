@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Combat Sports Participant Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification and category placement
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For registration confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Home Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: How is this person related to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Coach
+      - Other
+      required: true
+    - id: 11
+      name: section_header_sport_details
+      label: -- Sport Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: combat_sport
+      label: Combat Sport
+      hint: Which sport are you registering for
+      type: select_one
+      options:
+      - Boxing
+      - Mixed Martial Arts (MMA)
+      - Brazilian Jiu-Jitsu
+      - Muay Thai
+      - Kickboxing
+      - Wrestling
+      - Taekwondo
+      - Karate
+      - Judo
+      required: true
+    - id: 13
+      name: experience_level
+      label: Experience Level
+      hint: Your experience in this sport
+      type: select_one
+      options:
+      - Beginner (0-1 years)
+      - Intermediate (2-5 years)
+      - Advanced (6-10 years)
+      - Professional (10+ years)
+      required: true
+    - id: 14
+      name: weight_class
+      label: Weight Class
+      hint: Your current weight class
+      type: select_one
+      options:
+      - Flyweight
+      - Bantamweight
+      - Featherweight
+      - Lightweight
+      - Welterweight
+      - Middleweight
+      - Light Heavyweight
+      - Heavyweight
+      - Not Applicable
+      required: true
+    - id: 15
+      name: competition_or_training
+      label: Registration Type
+      hint: Are you registering for competition or training
+      type: select_one
+      options:
+      - Competition
+      - Training Only
+      - Both
+      required: true
+    - id: 16
+      name: section_header_medical
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions we should know about
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: current_injuries
+      label: Current Injuries
+      hint: Any current injuries or physical limitations
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medications
+      label: Current Medications
+      hint: List any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: blood_type
+      label: Blood Type
+      hint: Your blood type if known
+      type: select_one
+      options:
+      - A+
+      - A-
+      - B+
+      - B-
+      - AB+
+      - AB-
+      - O+
+      - O-
+      - Unknown
+      required: false
+    - id: 21
+      name: section_header_waivers
+      label: -- Waivers and Consents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I accept the liability waiver
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 23
+      name: medical_release
+      label: Medical Release
+      hint: I authorize emergency medical treatment
+      type: select_one
+      options:
+      - Yes I Authorize
+      - No I Do Not Authorize
+      required: true
+    - id: 24
+      name: photo_release
+      label: Photo Release
+      hint: Allow photos for promotional use
+      type: select_one
+      options:
+      - Yes Allowed
+      - No Not Allowed
+      required: true
+    - id: 25
+      name: registration_fee
+      label: Registration Fee
+      hint: Fee amount paid
+      type: number
+      options: []
+      required: true

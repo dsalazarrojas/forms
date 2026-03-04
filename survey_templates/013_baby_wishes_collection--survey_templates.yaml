@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baby Wishes Collection
+    pages:
+      - id: 1
+        name: wishes_intro
+        label: -- Heartfelt Wishes for the New Arrival --
+        hint: Your messages will be collected into a special keepsake for the parents
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: well_wisher_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: relation_to_family
+        label: Your Relationship to the Parents
+        hint: e.g., Aunt, Grandmother, Close Friend
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: message_for_baby
+        label: My wish for the baby's future is...
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: advice_for_parents
+        label: My best piece of advice for the new parents
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: predicted_personality
+        label: I predict the baby will grow up to be...
+        hint: null
+        type: select_multiple
+        options:
+          - Adventurous and Brave
+          - Kind and Compassionate
+          - Creative and Artistic
+          - Smart and Studious
+          - Athletic and Energetic
+          - Calm and Peaceful
+        required: false
+      - id: 7
+        name: special_memory_with_parents
+        label: A special memory I have with the parents
+        hint: Something you'd love the baby to know one day
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: favorite_childrens_book
+        label: A book I recommend for your first library
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: sender_email
+        label: Your Email Address
+        hint: To send you a digital copy of the collection
+        type: email
+        options: []
+        required: false
+      - id: 10
+        name: closing_thought
+        label: Final Blessing or Thought
+        hint: null
+        type: text
+        options: []
+        required: false

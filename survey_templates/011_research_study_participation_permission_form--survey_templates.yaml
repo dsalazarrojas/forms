@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Research Study Participation Permission Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_info
+      label: Study Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_description
+      label: Study Description
+      hint: Please describe the research study in detail.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: informed_consent
+      label: Informed Consent
+      hint: Check boxes to indicate consent.
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Decline''}'
+      required: false
+    - id: 5
+      name: participant_rights
+      label: Participant Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_facilities
+      label: Research Facilities
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Lab 1''}'
+      - '{''value'': ''Lab 2''}'
+      required: false
+    - id: 7
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Public''}'
+      - '{''label'': ''Private''}'
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_coordinator
+      label: Research Coordinator
+      hint: Enter the research coordinator's name and contact information
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter the emergency contact person's name and contact information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_declaration
+      label: Participant Declaration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: research_facilities
+      label: Facilities Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: data_destruction
+      label: Data Destruction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Within 1-2 years''}'
+      - '{''label'': ''Within 5 years''}'
+      - '{''label'': ''After 5 years''}'
+      required: false
+    - id: 15
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: consent_signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Electronic Signature''}'
+      - '{''label'': ''Physical Signature''}'
+      required: false

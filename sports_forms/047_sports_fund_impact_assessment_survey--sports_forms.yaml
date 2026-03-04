@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_fund_impact_assessment_survey--sports_forms
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sport_name
+      label: sport_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_amount
+      label: funding_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: impact_indicators
+      label: impact_indicators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_evaluation
+      label: program_evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_improvement
+      label: program_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: resource_allocation
+      label: resource_allocation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_goals
+      label: program_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_success
+      label: program_success
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true

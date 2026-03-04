@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cylindrical Roller Bearing Quote Request Form
+    pages:
+    - id: 1
+      name: supplier_management_forms_cylindrical_roller_bearing_quote_request_form
+      label: Quote Request
+      hint: null
+      type: select_one
+      options:
+      - Cylindrical Roller Bearing 50x100x20
+      - Cylindrical Roller Bearing 60x120x25
+      - Cylindrical Roller Bearing 70x140x30
+      required: false
+    - id: 2
+      name: supplier_management_forms_roller_bearing_bearing_bearing_description
+      label: Bearing Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supplier_management_forms_roller_bearing_bearing_size
+      label: Bearing Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: supplier_management_forms_roller_bearing_bearing_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supplier_management_forms_roller_bearing_quote_request_comments
+      label: Quote Request Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: supplier_management_forms_roller_bearing_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: supplier_management_forms_roller_bearing_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_management_forms_roller_bearing_requested_by
+      label: Requested By
+      hint: null
+      type: select_multiple
+      options:
+      - Procurement Team
+      - Distributor
+      - Manufacturer
+      required: false
+    - id: 9
+      name: supplier_management_forms_roller_bearing_quote_request_date
+      label: Quote Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: supplier_management_forms_roller_bearing_quote_request_time
+      label: Quote Request Time
+      hint: null
+      type: time
+      options: []
+      required: false

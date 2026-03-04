@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Casual Conversion Policy Survey
+    pages:
+      - id: 1
+        name: section_employee_info
+        label: -- Employee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: null
+        type: select_one
+        options:
+          - "Human Resources"
+          - "Operations"
+          - "Sales and Marketing"
+          - "Finance"
+          - "IT and Engineering"
+          - "Customer Support"
+        required: true
+      - id: 4
+        name: tenure_period
+        label: Length of Service with the Company
+        hint: null
+        type: select_one
+        options:
+          - "Less than 6 months"
+          - "6-12 months"
+          - "1-2 years"
+          - "More than 2 years"
+        required: true
+      - id: 5
+        name: section_policy_awareness
+        label: -- Policy Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: policy_awareness
+        label: Are you aware of our Casual-to-Permanent Conversion Policy
+        hint: null
+        type: select_one
+        options:
+          - "Yes, very familiar"
+          - "Yes, somewhat aware"
+          - "No, not at all"
+        required: true
+      - id: 7
+        name: information_source
+        label: How did you first learn about this policy
+        hint: null
+        type: select_one
+        options:
+          - "Employee Handbook"
+          - "HR Information Session"
+          - "Direct Manager"
+          - "Company Intranet"
+          - "Colleague"
+        required: false
+      - id: 8
+        name: section_conversion_experience
+        label: -- Conversion Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: conversion_status
+        label: Have you ever requested or been offered a conversion
+        hint: null
+        type: select_one
+        options:
+          - "Yes, I was offered and accepted"
+          - "Yes, I was offered and declined"
+          - "Yes, I requested it"
+          - "No, not yet"
+        required: true
+      - id: 10
+        name: process_ease_rating
+        label: Rate the ease of the conversion process
+        hint: On a scale of 1 to 5
+        type: select_one
+        options:
+          - "1 - Very Difficult"
+          - "2"
+          - "3 - Neutral"
+          - "4"
+          - "5 - Very Easy"
+        required: false
+      - id: 11
+        name: information_clarity
+        label: Was the information provided during the process clear
+        hint: null
+        type: select_one
+        options:
+          - "Yes, completely"
+          - "Mostly clear"
+          - "Somewhat confusing"
+          - "No, very unclear"
+        required: false
+      - id: 12
+        name: process_duration
+        label: Approximately how long did the conversion process take
+        hint: From request/offer to finalization
+        type: select_one
+        options:
+          - "Less than 1 week"
+          - "1-2 weeks"
+          - "2-4 weeks"
+          - "More than 1 month"
+        required: false
+      - id: 13
+        name: section_feedback
+        label: -- Feedback and Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: barriers_identified
+        label: Did you encounter any barriers during the process
+        hint: Describe any issues or delays
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: improvement_suggestions
+        label: How can we improve the casual conversion process
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: interest_in_conversion
+        label: If not converted, are you interested in a permanent role
+        hint: null
+        type: select_one
+        options:
+          - "Yes, very interested"
+          - "No, I prefer casual work"
+          - "Not sure at this time"
+        required: false

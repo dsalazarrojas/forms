@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catalog Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Where to send the catalog
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 10
+      name: catalog_type
+      label: Catalog Type Requested
+      hint: Which catalog do you want
+      type: select_one
+      options:
+      - Product Catalog
+      - Service Catalog
+      - Seasonal Catalog
+      - Full Catalog Set
+      - Digital Catalog Only
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity Needed
+      hint: How many copies
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: purpose
+      label: Purpose of Request
+      hint: Why do you need this catalog
+      type: select_one
+      options:
+      - Personal Use
+      - Business Use
+      - Resale
+      - Reference
+      - Other
+      required: true
+    - id: 13
+      name: industry
+      label: Industry
+      hint: Your industry or field
+      type: select_one
+      options:
+      - Retail
+      - Wholesale
+      - Manufacturing
+      - Healthcare
+      - Education
+      - Hospitality
+      - Other
+      required: false
+    - id: 14
+      name: preferred_format
+      label: Preferred Format
+      hint: Physical or digital
+      type: select_one
+      options:
+      - Physical Copy
+      - Digital PDF
+      - Both
+      required: true
+    - id: 15
+      name: urgency
+      label: Urgency
+      hint: How soon do you need it
+      type: select_one
+      options:
+      - Standard Delivery
+      - Expedited
+      - Rush Order
+      required: false
+    - id: 16
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Trade Show
+      - Other
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: Any additional comments
+      type: text
+      options: []
+      required: false

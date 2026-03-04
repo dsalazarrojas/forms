@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: special_offers_sign_up_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_offers
+      label: Special Offers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: newsletter_integration
+      label: Newsletter Integration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sign_up_button
+      label: Sign Up
+      hint: null
+      type: text
+      options: []
+      required: false

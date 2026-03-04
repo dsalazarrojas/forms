@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chargify Magazine Subscription
+    pages:
+      - id: 1
+        name: header
+        label: -- Magazine Subscription --
+        hint: Collect subscription details and billing information
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: subscriber_name
+        label: subscriber name
+        hint: full name for delivery
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: delivery_address
+        label: delivery address
+        hint: street address, city, postal code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: email
+        hint: for digital editions and billing
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: subscription_tier
+        label: subscription tier
+        hint: select the subscription level
+        type: select_one
+        options:
+          - Basic
+          - Standard
+          - Premium
+        required: true
+      - id: 6
+        name: billing_frequency
+        label: billing frequency
+        hint: select billing interval
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Annual
+        required: true
+      - id: 7
+        name: payment_method
+        label: payment method
+        hint: card or other payment info reference
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: promo_code
+        label: promo code
+        hint: optional promotional code
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: agree_terms
+        label: agree to terms
+        hint: confirm subscription terms and renewals
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 10
+        name: start_date
+        label: start date
+        hint: subscription start date
+        type: date
+        options: []
+        required: false

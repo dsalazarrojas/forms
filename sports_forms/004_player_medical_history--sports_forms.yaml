@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: player-medical-history
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: health_card_number
+      label: Health Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: illnesses
+      label: Illnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: previous_sports_injuries
+      label: Previous Sports Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: family_heart_disease_stroke
+      label: Family History of Heart Disease or Stroke
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: paired_organs
+      label: Do you Have All of Your Paired Organs?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: asthma_heart_condition
+      label: Do You Have Asthma or a Heart Condition?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: other_conditions
+      label: Other Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

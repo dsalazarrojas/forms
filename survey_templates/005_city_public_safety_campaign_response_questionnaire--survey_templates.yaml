@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Public Safety Campaign Response Questionnaire
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Optional - for follow-up purposes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: neighborhood
+      label: What neighborhood do you live in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For future campaign updates
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: campaign_header
+      label: -- Campaign Awareness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: campaign_awareness
+      label: Were you aware of our recent public safety campaign
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - No, not at all
+      - Not sure
+      required: true
+    - id: 7
+      name: campaign_methods
+      label: How did you learn about the campaign - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Local news
+      - Posters or flyers
+      - Community meeting
+      - Word of mouth
+      - City website
+      - Other
+      required: false
+    - id: 8
+      name: message_clarity
+      label: How clear was the safety message
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Not clear at all
+      required: true
+    - id: 9
+      name: feedback_header
+      label: -- Safety Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: safety_concerns
+      label: What are your top safety concerns in the neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_rating
+      label: How safe do you feel in your neighborhood - scale 1-5
+      hint: 1 = not safe at all, 5 = very safe
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: improvement_areas
+      label: What areas need the most safety improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: police_presence
+      label: How adequate is police presence in your area
+      hint: null
+      type: select_one
+      options:
+      - Very adequate
+      - Adequate
+      - Somewhat inadequate
+      - Very inadequate
+      - Not sure
+      required: false
+    - id: 14
+      name: community_header
+      label: -- Community Involvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: willing_to_participate
+      label: Would you be willing to participate in neighborhood watch programs
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, maybe
+      - false
+      - Not sure
+      required: false
+    - id: 16
+      name: recommendations
+      label: What recommendations do you have for public safety initiatives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: campaign_effectiveness
+      label: How effective do you think the campaign was
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      - Not sure
+      required: true
+    - id: 18
+      name: future_contact
+      label: May we contact you about future safety campaigns
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

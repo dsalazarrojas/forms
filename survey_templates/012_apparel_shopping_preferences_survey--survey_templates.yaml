@@ -1,0 +1,179 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Shopping Preferences Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: false
+    - id: 5
+      name: shopping_habits
+      label: -- Shopping Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shopping_frequency
+      label: How often do you buy apparel?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: preferred_shopping_channel
+      label: Where do you prefer to shop for apparel?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical stores
+      - Online
+      - Both equally
+      - Mobile app
+      - Social media
+      required: true
+    - id: 8
+      name: favorite_brands
+      label: Which brands do you prefer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: brand_loyalty
+      label: How loyal are you to specific brands?
+      hint: null
+      type: select_one
+      options:
+      - Very loyal
+      - Somewhat loyal
+      - No brand preference
+      - Try new brands often
+      required: true
+    - id: 10
+      name: shopping_factors
+      label: -- Shopping Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: purchase_influences
+      label: What influences your purchase decisions?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Style and design
+      - Brand reputation
+      - Sustainability
+      - Recommendations
+      required: true
+    - id: 12
+      name: budget_range
+      label: Average budget per shopping trip
+      hint: null
+      type: select_one
+      options:
+      - Under $25
+      - $25-$50
+      - $50-$100
+      - $100-$200
+      - Over $200
+      required: false
+    - id: 13
+      name: fit_preference
+      label: Preferred fit style
+      hint: null
+      type: select_one
+      options:
+      - Slim fit
+      - Regular fit
+      - Loose fit
+      - Oversized
+      - No preference
+      required: false
+    - id: 14
+      name: material_preference
+      label: Preferred fabric materials
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cotton
+      - Polyester
+      - Linen
+      - Wool
+      - Blends
+      - Sustainable materials
+      required: false
+    - id: 15
+      name: style_preference
+      label: Style preference
+      hint: null
+      type: select_one
+      options:
+      - Casual
+      - Business casual
+      - Formal
+      - Athletic
+      - Fashion forward
+      required: true
+    - id: 16
+      name: sustainability_importance
+      label: How important is sustainability in your purchases?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Neutral
+      - Not important
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Project Submission Tracking Form
+    pages:
+    - id: 1
+      name: submission_tracking_form
+      label: Student Project Submission Tracking Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_due_date
+      label: Submission Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_file_multiple
+      label: Submission Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_tags
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assignment_due_date
+      label: Assignment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_reviewed
+      label: Submission Reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submission_reviewed_at
+      label: Reviewed At
+      hint: null
+      type: time
+      options: []
+      required: false

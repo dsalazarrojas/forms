@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Martial Arts Course Registration Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: belt_status
+      label: Belt Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''White Belt''}'
+      - '{''id'': 2, ''name'': ''Orange Belt''}'
+      - '{''id'': 3, ''name'': ''Yellow Belt''}'
+      - '{''id'': 4, ''name'': ''Green Belt''}'
+      - '{''id'': 5, ''name'': ''Black Belt''}'
+      - '{''id'': 6, ''name'': ''Red Belt''}'
+      - '{''id'': 7, ''name'': ''Brown Belt''}'
+      - '{''id'': 8, ''name'': ''Blue Belt''}'
+      required: false
+    - id: 4
+      name: payment_plan
+      label: Payment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Package 1''}'
+      - '{''id'': 2, ''name'': ''Package 2''}'
+      - '{''id'': 3, ''name'': ''Package 3''}'
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: course_package
+      label: Course Package
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Package A''}'
+      - '{''id'': 2, ''name'': ''Package B''}'
+      - '{''id'': 3, ''name'': ''Package C''}'
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Card''}'
+      - '{''id'': 2, ''name'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''Check''}'
+      required: false

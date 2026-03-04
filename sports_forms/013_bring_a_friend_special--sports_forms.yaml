@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bring A Friend Special
+    pages:
+    - id: 1
+      name: section_member_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: Member Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Member Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_id
+      label: Membership ID
+      hint: Enter your membership ID number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_friend_info
+      label: -- Friend Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: friend_name
+      label: Friend Name
+      hint: Enter the full name of the friend you are bringing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: friend_email
+      label: Friend Email Address
+      hint: Enter your friends email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: friend_phone
+      label: Friend Phone Number
+      hint: Enter your friends phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: friend_age
+      label: Friend Age
+      hint: Enter your friends age
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: friend_fitness_level
+      label: Friend Fitness Level
+      hint: Select your friends current fitness level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Unsure
+      required: true
+    - id: 12
+      name: section_visit_details
+      label: -- Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_visit_date
+      label: Preferred Visit Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - Early Morning (6-9 AM)
+      - Mid-Morning (9-12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-9 PM)
+      required: true
+    - id: 15
+      name: activities_interested
+      label: Activities Interested In
+      hint: Select all activities your friend is interested in
+      type: select_multiple
+      options:
+      - Gym Equipment
+      - Group Fitness Classes
+      - Swimming Pool
+      - Personal Training Session
+      - Yoga
+      - Cycling Classes
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Special Requirements or Limitations
+      hint: Describe any special requirements or limitations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_goals
+      label: -- Fitness Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: friend_goals
+      label: What are your friends fitness goals
+      hint: Select the primary fitness goals
+      type: select_multiple
+      options:
+      - Weight Loss
+      - Muscle Building
+      - General Fitness
+      - Flexibility
+      - Cardiovascular Health
+      - Sports Training
+      required: false
+    - id: 19
+      name: previous_gym_experience
+      label: Previous Gym Experience
+      hint: Indicate if your friend has previous gym experience
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - No - Never
+      required: false
+    - id: 20
+      name: how_heard
+      label: How did you hear about this promotion
+      hint: Select how you learned about this offer
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - In-Club Signage
+      - Staff Referral
+      - Friend Referral
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments or questions
+      type: text
+      options: []
+      required: false

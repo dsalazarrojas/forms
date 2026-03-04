@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artworks Studio Day Application Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: grade_level_student
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary School
+      - Middle School
+      - High School
+      - Post-secondary
+      required: true
+    - id: 5
+      name: parent_guardian_details
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_phone_studio
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: studio_date_selection
+      label: Select Your Studio Day Date
+      hint: null
+      type: select_one
+      options:
+      - Saturday, March 15
+      - Saturday, April 12
+      - Saturday, May 10
+      required: true
+    - id: 8
+      name: preferred_mediums_studio
+      label: Which mediums are you most interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Painting
+      - Digital Illustration
+      - Sculpture/Clay
+      - Printmaking
+      - Mixed Media
+      required: false
+    - id: 9
+      name: allergy_medical_notes
+      label: Food Allergies or Medical Conditions
+      hint: We provide snacks and water
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: past_art_exp
+      label: Briefly describe your previous art experience
+      hint: Beginners are welcome
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discovery_studio
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - School Teacher
+      - Social Media
+      - Word of Mouth
+      - Local Library
+      required: false
+    - id: 12
+      name: pick_up_consent
+      label: I consent to my child being picked up by authorized guardians
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true

@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Safety Training Acknowledgement Form
+    pages:
+    - id: 1
+      name: safety_training_acknowledgement_form
+      label: I have received proper safety training
+      hint: null
+      type: select_one
+      options:
+      - Safety Training Video
+      - Safety Training Manual
+      - Safety Training Session
+      required: true
+    - id: 2
+      name: safety_training_date
+      label: Date received safety training
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: staff_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Operations
+      - Administration
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_completed
+      label: Completed safety training
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Browsing History Survey
+    pages:
+    - id: 1
+      name: respondent_age
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 2
+      name: respondent_education
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - Graduate Degree
+      - Professional Certification
+      required: false
+    - id: 3
+      name: hours_online_daily
+      label: Hours Spent Online Daily
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_device
+      label: Primary Device for Internet Access
+      hint: null
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop
+      - Smartphone
+      - Tablet
+      - Multiple Devices
+      required: true
+    - id: 5
+      name: browser_preference
+      label: Primary Web Browser Used
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Opera
+      - Other
+      required: true
+    - id: 6
+      name: social_media_usage
+      label: Hours Spent on Social Media Weekly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: favorite_websites
+      label: Top 3 Websites You Visit Most
+      hint: List or describe them
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: website_categories
+      label: Website Categories You Visit Most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - News
+      - Entertainment
+      - Social Media
+      - Shopping
+      - Education
+      - Streaming
+      - Work-related
+      - Gaming
+      - Other
+      required: true
+    - id: 9
+      name: search_engine
+      label: Primary Search Engine Used
+      hint: null
+      type: select_one
+      options:
+      - Google
+      - Bing
+      - Yahoo
+      - DuckDuckGo
+      - Other
+      required: true
+    - id: 10
+      name: online_shopping
+      label: Monthly Online Shopping Frequency
+      hint: How often do you shop online
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: online_banking
+      label: Do you use online banking services
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - false
+      required: true
+    - id: 12
+      name: privacy_concern
+      label: How concerned are you about online privacy
+      hint: null
+      type: select_one
+      options:
+      - Very Concerned
+      - Somewhat Concerned
+      - Neutral
+      - Not Very Concerned
+      - Not Concerned
+      required: true
+    - id: 13
+      name: cookies_tracking
+      label: Your comfort level with cookies and tracking
+      hint: null
+      type: select_one
+      options:
+      - Accept all
+      - Selective
+      - Minimal
+      - Reject all
+      required: true
+    - id: 14
+      name: password_habits
+      label: How many unique passwords do you use
+      hint: Estimate or range
+      type: select_one
+      options:
+      - 1-3
+      - 4-6
+      - 7-10
+      - More than 10
+      required: true
+    - id: 15
+      name: video_watching
+      label: Weekly hours of online video watching
+      hint: YouTube, Netflix, streaming, etc
+      type: number
+      options: []
+      required: false

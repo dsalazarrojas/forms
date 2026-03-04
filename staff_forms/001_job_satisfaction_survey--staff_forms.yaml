@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Satisfaction Survey
+    pages:
+    - id: 1
+      name: job_satisfaction_survey
+      label: job_satisfaction_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: Please describe any comments
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false

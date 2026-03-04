@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: City Representations Quiz
+    pages:
+      - id: 1
+        name: participant_info
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 13
+          - 13-17
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 6
+        name: quiz_header
+        label: -- City Knowledge Quiz --
+        hint: Answer the following questions to test your knowledge
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: question_1
+        label: Which city is known as the City of Lights
+        hint: null
+        type: select_one
+        options:
+          - Paris, France
+          - Venice, Italy
+          - Barcelona, Spain
+          - Amsterdam, Netherlands
+        required: true
+      - id: 8
+        name: question_2
+        label: What is the capital of Australia
+        hint: null
+        type: select_one
+        options:
+          - Sydney
+          - Melbourne
+          - Canberra
+          - Brisbane
+        required: true
+      - id: 9
+        name: question_3
+        label: Which ancient wonder is located in Istanbul
+        hint: null
+        type: select_one
+        options:
+          - Hagia Sophia
+          - Colosseum
+          - Great Wall
+          - Taj Mahal
+        required: true
+      - id: 10
+        name: question_4
+        label: What is the most populous city in the world
+        hint: null
+        type: select_one
+        options:
+          - Tokyo, Japan
+          - New Delhi, India
+          - Shanghai, China
+          - Mumbai, India
+        required: true
+      - id: 11
+        name: question_5
+        label: Which city is the capital of Egypt
+        hint: null
+        type: select_one
+        options:
+          - Cairo
+          - Alexandria
+          - Giza
+          - Aswan
+        required: true
+      - id: 12
+        name: question_6
+        label: What is the Statue of Liberty located in
+        hint: null
+        type: select_one
+        options:
+          - New York City, USA
+          - Boston, USA
+          - Philadelphia, USA
+          - Washington DC, USA
+        required: true
+      - id: 13
+        name: question_7
+        label: Which city is known for its canals and gondolas
+        hint: null
+        type: select_one
+        options:
+          - Venice, Italy
+          - Amsterdam, Netherlands
+          - Bruges, Belgium
+          - Bangkok, Thailand
+        required: true
+      - id: 14
+        name: question_8
+        label: What is the capital of Japan
+        hint: null
+        type: select_one
+        options:
+          - Kyoto
+          - Osaka
+          - Tokyo
+          - Yokohama
+        required: true
+      - id: 15
+        name: question_9
+        label: Which city hosted the 2016 Summer Olympics
+        hint: null
+        type: select_one
+        options:
+          - Rio de Janeiro, Brazil
+          - London, UK
+          - Beijing, China
+          - Sydney, Australia
+        required: true
+      - id: 16
+        name: question_10
+        label: What is Big Ben located in
+        hint: null
+        type: select_one
+        options:
+          - London, UK
+          - Cambridge, UK
+          - Edinburgh, Scotland
+          - Manchester, UK
+        required: true
+      - id: 17
+        name: feedback_header
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: difficulty_rating
+        label: How difficult was this quiz
+        hint: null
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: false
+      - id: 19
+        name: enjoyed_quiz
+        label: Did you enjoy this quiz
+        hint: null
+        type: select_one
+        options:
+          - Yes, very much
+          - Yes
+          - Neutral
+          - No
+          - Not at all
+        required: false
+      - id: 20
+        name: additional_feedback
+        label: Additional feedback or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

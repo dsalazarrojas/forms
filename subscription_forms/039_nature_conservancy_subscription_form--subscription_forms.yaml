@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: nature_conservancy_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: newsletter
+      label: Newsletter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: donation
+      label: Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: unsubscribe
+      label: Unsubscribe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: subscribe
+      label: Subscribe
+      hint: null
+      type: text
+      options: []
+      required: true

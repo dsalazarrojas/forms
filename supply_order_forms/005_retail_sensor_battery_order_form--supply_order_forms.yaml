@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Sensor Battery Order Form
+    pages:
+    - id: 1
+      name: retail_sensor_battery_order_form_1
+      label: Retailer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retail_sensor_battery_order_form_2
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensor_battery_type
+      label: Sensor Battery Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false

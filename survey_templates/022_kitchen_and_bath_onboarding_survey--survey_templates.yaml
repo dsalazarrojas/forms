@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_and_bath_onboarding_survey
+    pages:
+    - id: 1
+      name: kitchen_and_bath_onboarding_survey
+      label: Kitchen And Bath Onboarding Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: project_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: renovation_goals
+      label: renovation_goals
+      hint: null
+      type: select_one
+      options:
+      - Renovation
+      - New Installation
+      - Repair
+      - Refurbishment
+      - Other
+      required: false
+    - id: 4
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: estimated_start_time
+      label: estimated_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: estimated_finish_time
+      label: estimated_finish_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_survey_questions
+      label: onboarding_survey_questions
+      hint: null
+      type: select_multiple
+      options:
+      - Which of the following styles would you like?
+      - What is your desired level of finish?
+      - What is your preferred color scheme?
+      - Do you have any specific design preferences?
+      - Any other questions or concerns?
+      required: false
+    - id: 10
+      name: preferred_finish_level
+      label: preferred_finish_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: preferred_color_scheme
+      label: preferred_color_scheme
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Traditional
+      - Rustic
+      - Other
+      required: false
+    - id: 12
+      name: design_preferences
+      label: design_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: questions_or_concerns
+      label: questions_or_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: style_preferences
+      label: style_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: style_preferences_other
+      label: style_preferences_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: finish_preferences
+      label: finish_preferences
+      hint: null
+      type: select_one
+      options:
+      - Paint
+      - Tile
+      - Carpet
+      - Other
+      required: false
+    - id: 17
+      name: finish_level_preferences
+      label: finish_level_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 18
+      name: budget_range
+      label: budget_range
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $5,000
+      - $5,000 - $10,000
+      - $10,000 - $15,000
+      - More than $15,000
+      required: false
+    - id: 19
+      name: preferred_budget_range
+      label: preferred_budget_range
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $5,000
+      - $5,000 - $10,000
+      - $10,000 - $15,000
+      - More than $15,000
+      required: false
+    - id: 20
+      name: minimalist_budget
+      label: minimalist_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: mid_range_budget
+      label: mid_range_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: budget_other
+      label: budget_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - Canceled
+      - On Hold
+      required: false
+    - id: 24
+      name: project_status_other
+      label: project_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: submitted_by_other
+      label: submitted_by_other
+      hint: null
+      type: text
+      options: []
+      required: false

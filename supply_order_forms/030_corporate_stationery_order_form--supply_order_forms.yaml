@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Stationery Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_items
+      label: Order Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Additional information to help our team better understand your needs.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stationery_preferences
+      label: Stationery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - A4
+      - A5
+      - Letter
+      - Legal
+      - Note
+      required: true
+    - id: 6
+      name: stationery_color
+      label: Stationery Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Blue
+      - Red
+      - Green
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stationery_type
+      label: Stationery Type
+      hint: null
+      type: select_one
+      options:
+      - Letterhead
+      - Envelope
+      - Card
+      - Label
+      - Note
+      required: true
+    - id: 9
+      name: stationery_layout
+      label: Stationery Layout
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - A5
+      - Letter
+      - Legal
+      required: true
+    - id: 10
+      name: stationery_orientation
+      label: Stationery Orientation
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Landscape
+      required: false
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: comments2
+      label: Comments
+      hint: Additional information to help our team better understand your needs.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: orderer_phone
+      label: Orderer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stationery_color2
+      label: Stationery Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Blue
+      - Red
+      - Green
+      required: true
+    - id: 19
+      name: stationery_layout2
+      label: Stationery Layout
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - A5
+      - Letter
+      - Legal
+      required: true
+    - id: 20
+      name: stationery_orientation2
+      label: Stationery Orientation
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Landscape
+      required: true
+    - id: 21
+      name: stationery_type2
+      label: Stationery Type
+      hint: null
+      type: select_one
+      options:
+      - Letterhead
+      - Envelope
+      - Card
+      - Label
+      - Note
+      required: true
+    - id: 22
+      name: comments3
+      label: Comments
+      hint: Additional information to help our team better understand your needs.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_name2
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: orderer_name
+      label: Orderer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

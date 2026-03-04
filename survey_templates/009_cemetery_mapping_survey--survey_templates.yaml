@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Mapping Survey
+    pages:
+      - id: 1
+        name: surveyor_info_header
+        label: -- Surveyor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: surveyor_name
+        label: Surveyor Name
+        hint: Full name of the individual conducting the survey
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: survey_time
+        label: Survey Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 5
+        name: plot_data_header
+        label: -- Plot Data Collection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: section_number
+        label: Section Number
+        hint: Identify the section being surveyed
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: row_number
+        label: Row Number
+        hint: Specify the row within the section
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: plot_number
+        label: Plot Number
+        hint: Unique identifier for the individual plot
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: plot_status
+        label: Current Plot Status
+        hint: Select the usage status of the plot
+        type: select_one
+        options:
+          - Occupied
+          - Reserved
+          - Vacant
+          - Maintenance Needed
+        required: true
+      - id: 10
+        name: monument_details_header
+        label: -- Monument Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: monument_type
+        label: Monument Type
+        hint: What kind of marker is present
+        type: select_one
+        options:
+          - Upright Headstone
+          - Flat Marker
+          - Bench
+          - Statue
+          - None
+        required: true
+      - id: 12
+        name: monument_condition
+        label: Monument Condition
+        hint: Assess the state of the marker
+        type: select_one
+        options:
+          - Good
+          - Needs Cleaning
+          - Damaged
+          - Fallen / Leaning
+        required: true
+      - id: 13
+        name: enclosure_type
+        label: Enclosure Type
+        hint: Are there any surrounding boundaries
+        type: select_one
+        options:
+          - None
+          - Curbing
+          - Fencing
+          - Hedge
+        required: true
+      - id: 14
+        name: occupancy_records_header
+        label: -- Occupancy Records --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: names_on_monument
+        label: Name(s) on Monument
+        hint: Exactly as they appear on the stone
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: earliest_burial_date
+        label: Earliest Burial Date Found
+        hint: Recorded year or full date
+        type: date
+        options: []
+        required: false
+      - id: 17
+        name: latest_burial_date
+        label: Latest Burial Date Found
+        hint: Recorded year or full date
+        type: date
+        options: []
+        required: false
+      - id: 18
+        name: survey_notes_header
+        label: -- Additional Survey Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: general_observations
+        label: Survey Observations
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Overgrown
+          - Sinking
+          - Readable Text
+          - Unreadable Text
+          - Possible Mapping Error
+        required: false
+      - id: 20
+        name: general_survey_comments
+        label: General Comments or Findings
+        hint: Any other information of note
+        type: text
+        options: []
+        required: false

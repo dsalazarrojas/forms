@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Officials Report
+    pages:
+    - id: 1
+      name: event_details
+      label: event_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_officer
+      label: event_officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: official_decision
+      label: official_decision
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: official_comments
+      label: official_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: official_signoff
+      label: official_signoff
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: other_officials
+      label: other_officials
+      hint: null
+      type: select_multiple
+      options:
+      - Other Official 1
+      - Other Official 2
+      - Other Official 3
+      required: false
+    - id: 10
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_number
+      label: game_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: game_result
+      label: game_result
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

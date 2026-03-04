@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Reimbursement Form
+    pages:
+    - id: 1
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_travel
+      label: time_of_travel
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: method_of_travel
+      label: method_of_travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reimbursement_amount
+      label: reimbursement_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mileage_rate
+      label: mileage_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: business_meal_rate
+      label: business_meal_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: personal_meal_rate
+      label: personal_meal_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lodging_rate
+      label: lodging_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other_rate
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - Chatbot
+      - Chatbot
+      - Other
+      required: false
+    - id: 13
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Staff Forms
+      - Other Forms
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category_list
+      label: category_list
+      hint: null
+      type: select_multiple
+      options:
+      - Staff
+      - Other
+      required: false
+    - id: 17
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

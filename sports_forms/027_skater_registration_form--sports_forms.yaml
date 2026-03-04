@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skater Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - Roller Skating
+      - Ice Skating
+      - Skateboarding
+      required: true
+    - id: 8
+      name: skistency
+      label: Skenity
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Ice Skating
+      - Roller Skating
+      - Skateboarding
+      required: false
+    - id: 12
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Freestyle
+      - Freeride
+      - Jumping
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - ChatJImmy
+      - ChatJimmy
+      - Chat Jimy
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: false

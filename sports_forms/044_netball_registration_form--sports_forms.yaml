@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Netball Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_age
+      label: Participant age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_session_preferences
+      label: Participant session preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 6
+      name: participant_emergency_contact
+      label: Participant emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

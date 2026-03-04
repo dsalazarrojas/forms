@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Team Mid Season Health Check In Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_date_of_birth
+      label: Player Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: injury_details
+      label: Injury Details
+      hint: Describe any injuries or medical conditions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concussion_symptoms
+      label: Concussion Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: coach_concerns
+      label: Coach Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: player_height
+      label: Player Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: player_grade
+      label: Player Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: game_injury
+      label: Game Injury
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: game_suspension
+      label: Game Suspension
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: game_suspension_ending_date
+      label: Game Suspension Ending Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: game_suspension_ending_date_start_date
+      label: Game Suspension Ending Date Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: game_suspension_start_date
+      label: Game Suspension Ending Date Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: game_suspension_end_date
+      label: Game Suspension Ending Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: concussion_protocol_completed
+      label: Concussion Protocol Completed
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 22
+      name: concussion_protocol_status
+      label: Concussion Protocol Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 23
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_provider_relationship
+      label: Relationship With Medical Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Physician
+      - Trainer
+      - Other
+      required: false
+    - id: 25
+      name: follow_up_plan
+      label: Follow Up Plan
+      hint: null
+      type: text
+      options: []
+      required: false

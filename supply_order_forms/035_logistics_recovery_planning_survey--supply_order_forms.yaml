@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Recovery Planning Survey
+    pages:
+    - id: 1
+      name: supply_order_forms
+      label: Supply Order Forms
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 2
+      name: recovery_planning_survey
+      label: Recovery Planning Survey
+      hint: Please provide details about recovery planning
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: readiness_assessment
+      label: Readiness Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: planning_gaps
+      label: Planning Gaps
+      hint: null
+      type: select_one
+      options:
+      - Gap 1
+      - Gap 2
+      - Gap 3
+      required: false
+    - id: 5
+      name: improvements_tracking
+      label: Improvements Tracking
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: team_collaboration
+      label: Team Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: true
+    - id: 7
+      name: logistics_recovery_readiness
+      label: Logistics Recovery Readiness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: survey_completion_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: survey_completion_time
+      label: Survey Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: recovery_status
+      label: Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      required: true
+    - id: 13
+      name: recovery_notes
+      label: Recovery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 17
+      name: team_lead_status
+      label: Team Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 18
+      name: team_lead_notes
+      label: Team Lead Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: logistics_recovery_status
+      label: Logistics Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Hold
+      required: true
+    - id: 20
+      name: recovery_date
+      label: Recovery Date
+      hint: null
+      type: date
+      options: []
+      required: false

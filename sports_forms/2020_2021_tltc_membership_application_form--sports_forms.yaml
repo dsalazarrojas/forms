@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 2021 TLTC Membership Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this for membership communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include area code for best contact
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Calculated from date of birth
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: address
+      label: Mailing address
+      hint: Street address, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Full name of person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 11
+      name: section_header_tennis
+      label: '--- Tennis Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: experience_level
+      label: Current tennis experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner (just learning)
+      - Intermediate (some experience)
+      - Advanced (regular player)
+      - Professional/Competitive
+      required: true
+    - id: 13
+      name: years_playing
+      label: Years playing tennis
+      hint: Approximate number of years you've played
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: dominant_hand
+      label: Dominant hand for playing
+      hint: null
+      type: select_one
+      options:
+      - Right-handed
+      - Left-handed
+      - Two-handed backhand
+      required: false
+    - id: 15
+      name: racquet_preference
+      label: Preferred racquet weight (grams)
+      hint: If you know your preferred racquet specifications
+      type: decimal
+      options: []
+      required: false
+    - id: 16
+      name: section_header_membership
+      label: '--- Membership Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: membership_type
+      label: Type of membership requested
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Senior (65+)
+      - Student
+      - Corporate
+      required: true
+    - id: 18
+      name: court_preferences
+      label: Preferred court times (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Early morning (6-9 AM)
+      - Morning (9 AM-12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-8 PM)
+      - Weekend mornings
+      - Weekend afternoons
+      required: false
+    - id: 19
+      name: coaching_interest
+      label: Interest in professional coaching
+      hint: null
+      type: select_one
+      options:
+      - Yes, interested
+      - Maybe in the future
+      - No, thank you
+      required: false
+    - id: 20
+      name: tournament_interest
+      label: Interest in participating in club tournaments
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Possibly
+      - No, just recreational play
+      required: false
+    - id: 21
+      name: how_heard
+      label: How did you hear about our tennis club?
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family referral
+      - Local newspaper
+      - Community bulletin board
+      - Online search
+      - Previous member
+      - Other
+      required: false
+    - id: 22
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: Please describe any accessibility needs or special considerations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else you'd like us to know about your tennis interests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_agreement
+      label: By submitting this form, I agree to the club rules and regulations
+      hint: null
+      type: note
+      options: []
+      required: false

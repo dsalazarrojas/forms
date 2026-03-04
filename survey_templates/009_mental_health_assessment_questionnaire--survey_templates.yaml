@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_assessment_questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_data
+      label: demographic_data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: anxiety_scale
+      label: anxiety_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: depression_scale
+      label: depression_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mood_state
+      label: mood_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_providers
+      label: mental_health_providers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_assessment
+      label: mental_health_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_status
+      label: mental_health_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''stable'', ''value'': ''stable''}'
+      - '{''label'': ''unstable'', ''value'': ''unstable''}'
+      - '{''label'': ''unsure'', ''value'': ''unsure''}'
+      required: false
+    - id: 11
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mental_health_provider_info
+      label: mental_health_provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mental_health_assessment_questionnaire
+      label: mental_health_assessment_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mental_health_plan
+      label: mental_health_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_health_concerns
+      label: other_health_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_providers_list
+      label: mental_health_providers_list
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Psychologist'', ''value'': ''Psychologist''}'
+      - '{''label'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''label'': ''Nurse'', ''value'': ''Nurse''}'
+      required: false
+    - id: 17
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mental_health_status_2
+      label: mental_health_status_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''stable'', ''value'': ''stable''}'
+      - '{''label'': ''unstable'', ''value'': ''unstable''}'
+      - '{''label'': ''unsure'', ''value'': ''unsure''}'
+      required: false
+    - id: 19
+      name: mental_health_plan_2
+      label: mental_health_plan_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mental_health_providers_list_2
+      label: mental_health_providers_list_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Psychologist'', ''value'': ''Psychologist''}'
+      - '{''label'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''label'': ''Nurse'', ''value'': ''Nurse''}'
+      required: false
+    - id: 21
+      name: mental_health_status_3
+      label: mental_health_status_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''stable'', ''value'': ''stable''}'
+      - '{''label'': ''unstable'', ''value'': ''unstable''}'
+      - '{''label'': ''unsure'', ''value'': ''unsure''}'
+      required: false
+    - id: 22
+      name: mental_health_providers_list_3
+      label: mental_health_providers_list_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Psychologist'', ''value'': ''Psychologist''}'
+      - '{''label'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''label'': ''Nurse'', ''value'': ''Nurse''}'
+      required: false
+    - id: 23
+      name: additional_comments_2
+      label: additional_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: mental_health_plan_3
+      label: mental_health_plan_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mental_health_providers_list_4
+      label: mental_health_providers_list_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Psychologist'', ''value'': ''Psychologist''}'
+      - '{''label'': ''Doctor'', ''value'': ''Doctor''}'
+      - '{''label'': ''Nurse'', ''value'': ''Nurse''}'
+      required: false

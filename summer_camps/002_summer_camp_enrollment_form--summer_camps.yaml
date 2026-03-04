@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Enrollment Form
+    pages:
+    - id: 1
+      name: child_info
+      label: child information
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Childs Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birthdate
+      label: Birthdate
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency contact
+      hint: Parent or Guardian information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Parent Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Parent Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Parent Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_record
+      label: Medical Record
+      hint: Upload your medical record for the child
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payment
+      label: Payment
+      hint: No payment is involved in this form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: confirm
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

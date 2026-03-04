@@ -1,0 +1,185 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Content Creator Nomination Form
+    pages:
+      - id: 1
+        name: nominator_info_header
+        label: -- Nominator Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nominator_email
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: nominee_info_header
+        label: -- Nominee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: creator_name
+        label: Content Creator Name
+        hint: As they are known online
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: primary_platform
+        label: Primary Content Platform
+        hint: Where they are most active
+        type: select_one
+        options:
+          - YouTube
+          - TikTok
+          - Instagram
+          - Twitch
+          - Podcast (Spotify/Apple)
+          - Personal Blog/Website
+          - X - Twitter
+          - LinkedIn
+          - Other
+        required: true
+      - id: 7
+        name: creator_link
+        label: Link to Creator Profile or Content
+        hint: Please provide a URL to their main page or a specific video/post
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: nomination_details_header
+        label: -- Nomination Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: nomination_category
+        label: Nomination Category
+        hint: null
+        type: select_one
+        options:
+          - Educational and Tutorial
+          - Entertainment and Comedy
+          - Lifestyle and Vlogs
+          - Gaming and Esports
+          - Technology and Reviews
+          - Fashion and Beauty
+          - News and Commentary
+          - Other
+        required: true
+      - id: 10
+        name: nomination_reason_detailed
+        label: Why are you nominating this creator
+        hint: Describe their impact on their audience and why they stand out
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: impactful_content_example
+        label: Most Impactful Piece of Content
+        hint: Title or description of a specific video or post that impressed you
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: follower_duration
+        label: How long have you followed this creator
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 to 12 months
+          - 1 to 2 years
+          - Over 2 years
+        required: true
+      - id: 13
+        name: social_impact_header
+        label: -- Impact and Quality Ratings --
+        hint: Rate from 1 (Low) to 5 (High)
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: consistency_rating
+        label: Consistency of Posting
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: engagement_rating
+        label: Engagement with Audience
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 16
+        name: uniqueness_rating
+        label: Uniqueness and Originality
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 17
+        name: conclusion_header
+        label: -- Conclusion --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: additional_recommendations
+        label: Any other creators you would like to recommend
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: nomination_date
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

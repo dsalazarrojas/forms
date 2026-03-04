@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Allocation Record Form
+    pages:
+    - id: 1
+      name: issued_to
+      label: Issued to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Staff Member 1''}'
+      - '{''id'': 2, ''label'': ''Staff Member 2''}'
+      - '{''id'': 3, ''label'': ''Staff Member 3''}'
+      required: false
+    - id: 2
+      name: date_issued
+      label: Date issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: uniform_item_number
+      label: Uniform Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity_issued
+      label: Quantity Issued
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_returned
+      label: Quantity Returned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_returned
+      label: Reason Returned
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Damaged''}'
+      - '{''id'': 2, ''label'': ''Unissued''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_contact
+      label: Phone Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: storekeeper_name
+      label: Storekeeper Name
+      hint: null
+      type: text
+      options: []
+      required: false

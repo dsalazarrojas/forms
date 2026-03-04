@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Class Participation Motivation Survey
+    pages:
+    - id: 1
+      name: gym_class_participation
+      label: Gym Class Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: motivation
+      label: Motivation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attendance
+      label: Attendace and Frequency
+      hint: null
+      type: date
+      options: []
+      required: false

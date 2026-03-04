@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Publication Subscription Form
+    pages:
+    - id: 1
+      name: publication_subscription
+      label: Subscription Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_selection
+      label: Select Plan
+      hint: Choose a plan
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly Plan''}'
+      - '{''id'': 2, ''label'': ''Annual Plan''}'
+      - '{''id'': 3, ''label'': ''Free Trial''}'
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Annually''}'
+      - '{''id'': 3, ''label'': ''Bi-Annually''}'
+      required: false

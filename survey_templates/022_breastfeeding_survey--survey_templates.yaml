@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breastfeeding Survey
+    pages:
+      - id: 1
+        name: respondent_type
+        label: Are you a
+        hint: Select your role
+        type: select_one
+        options:
+          - Breastfeeding mother
+          - Healthcare provider
+          - Lactation consultant
+          - Family member
+          - Community member
+          - Other
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: breastfeeding_status
+        label: Current Breastfeeding Status
+        hint: How are you feeding your baby
+        type: select_one
+        options:
+          - Exclusively breastfeeding
+          - Breastfeeding with supplements
+          - Exclusively formula
+          - Not applicable
+        required: false
+      - id: 4
+        name: infant_age
+        label: Baby Age Range
+        hint: Age of baby if applicable
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1 to 3 months
+          - 3 to 6 months
+          - 6 to 12 months
+          - Over 12 months
+          - Not applicable
+        required: false
+      - id: 5
+        name: breastfeeding_duration
+        label: How long have you breastfed or are breastfeeding
+        hint: Total duration or expected
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1 to 4 weeks
+          - 1 to 3 months
+          - 3 to 6 months
+          - 6 to 12 months
+          - Over 12 months
+          - Chose not to breastfeed
+        required: true
+      - id: 6
+        name: satisfaction
+        label: How satisfied are you with your breastfeeding experience
+        hint: Rate your satisfaction
+        type: select_one
+        options:
+          - 1 - Very dissatisfied
+          - 2 - Dissatisfied
+          - 3 - Neutral
+          - 4 - Satisfied
+          - 5 - Very satisfied
+        required: true
+      - id: 7
+        name: support_received
+        label: Did you receive adequate breastfeeding support
+        hint: Access to support services
+        type: select_one
+        options:
+          - Yes, comprehensive support
+          - Yes, some support
+          - Minimal support
+          - No support
+          - Support was not available
+        required: true
+      - id: 8
+        name: support_types
+        label: Types of Support Received
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Hospital lactation consultant
+          - Private lactation consultant
+          - Breastfeeding support group
+          - Family support
+          - Online resources
+          - Healthcare provider guidance
+          - Peer support
+          - No support
+        required: false
+      - id: 9
+        name: challenges_faced
+        label: Main Challenges Faced
+        hint: Difficulties you encountered
+        type: select_multiple
+        options:
+          - Pain or soreness
+          - Low milk supply
+          - Latch problems
+          - Engorgement
+          - Mastitis or infection
+          - Return to work
+          - Lack of support
+          - Social stigma
+          - No challenges
+        required: false
+      - id: 10
+        name: support_effectiveness
+        label: How effective was the support received
+        hint: Rate effectiveness
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Somewhat effective
+          - Minimally effective
+          - Not effective
+        required: false
+      - id: 11
+        name: recommendation
+        label: Would you recommend breastfeeding to others
+        hint: Your recommendation
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 12
+        name: improvement_areas
+        label: What could be improved in breastfeeding support
+        hint: Your suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: support_accessibility
+        label: Was support accessible when you needed it
+        hint: Accessibility of services
+        type: select_one
+        options:
+          - Always accessible
+          - Usually accessible
+          - Sometimes accessible
+          - Rarely accessible
+          - Not accessible
+        required: false
+      - id: 14
+        name: cost_barrier
+        label: Was cost a barrier to accessing support
+        hint: Financial concerns
+        type: select_one
+        options:
+          - Major barrier
+          - Moderate barrier
+          - Minor barrier
+          - Not a barrier
+          - Received free or covered services
+        required: false
+      - id: 15
+        name: education_received
+        label: Did you receive breastfeeding education
+        hint: Prenatal or postnatal education
+        type: select_one
+        options:
+          - Comprehensive education
+          - Some education
+          - Minimal education
+          - No education
+        required: false
+      - id: 16
+        name: education_timing
+        label: When did you receive education
+        hint: Timing of education
+        type: select_multiple
+        options:
+          - Prenatal period
+          - Hospital after birth
+          - Outpatient visit
+          - Online
+          - Community group
+          - Never received formal education
+        required: false
+      - id: 17
+        name: cultural_support
+        label: Was culturally sensitive support provided
+        hint: Cultural considerations
+        type: select_one
+        options:
+          - Yes, very supportive
+          - Yes, somewhat supportive
+          - Neutral
+          - No support
+          - Not applicable
+        required: false
+      - id: 18
+        name: healthcare_provider_attitude
+        label: Attitude of healthcare providers
+        hint: Your perception of provider support
+        type: select_one
+        options:
+          - Very supportive
+          - Supportive
+          - Neutral
+          - Not supportive
+          - Negative attitude
+        required: false
+      - id: 19
+        name: additional_feedback
+        label: Additional Comments or Feedback
+        hint: Any other feedback about your experience
+        type: text
+        options: []
+        required: false

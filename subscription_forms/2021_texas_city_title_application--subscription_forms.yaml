@@ -1,0 +1,244 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Texas City Title Application
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: '--- Applicant Information ---'
+      hint: Please provide your personal details as they appear on your identification.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: First Name, Middle Name, Last Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: texas_id_number
+      label: Texas Driver License or ID Number
+      hint: Enter your valid 8-digit Texas DL/ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Current Street Address
+      hint: House number and street name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Must be TX
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: 5-digit zip code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Contact Phone Number
+      hint: Primary phone for communication
+      type: phone
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address (optional)
+      hint: For electronic notifications
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: applicant_type
+      label: Type of Applicant
+      hint: Select the entity applying for the title
+      type: select_one
+      options:
+      - Individual
+      - Business/Company
+      - Trust
+      - Government Entity
+      required: true
+    - id: 12
+      name: section_vehicle_details
+      label: '--- Vehicle Details ---'
+      hint: Provide accurate information about the vehicle being titled.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_identification_number
+      label: Vehicle Identification Number (VIN)
+      hint: Must be 17 characters long
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_make
+      label: Make of Vehicle
+      hint: e.g., Ford, Toyota, Honda
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_model
+      label: Model of Vehicle
+      hint: e.g., F-150, Camry, Civic
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_year
+      label: Model Year
+      hint: 4-digit year (e.g., 2020)
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_body_style
+      label: Body Style
+      hint: e.g., Sedan, SUV, Truck, Motorcycle
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: primary_color
+      label: Primary Exterior Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: odometer_reading
+      label: Current Odometer Reading (miles)
+      hint: Provide the exact mileage at the time of application
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: section_application_details
+      label: '--- Title Request Details ---'
+      hint: Specify the type of title service requested.
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: title_application_type
+      label: Type of Title Application
+      hint: null
+      type: select_one
+      options:
+      - New Texas Title (First time titled in TX)
+      - Transfer of Title (From previous owner)
+      - Duplicate Title (Lost or damaged)
+      - Corrected Title (To fix an error)
+      required: true
+    - id: 22
+      name: date_of_sale_transfer
+      label: Date of Sale or Transfer of Ownership
+      hint: For transfers, this is the date you acquired the vehicle
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: purchase_price
+      label: Vehicle Purchase Price ($)
+      hint: Enter 0.00 if the vehicle was a gift or no money exchanged hands
+      type: decimal
+      options: []
+      required: true
+    - id: 24
+      name: lienholder_present
+      label: Is there a Lienholder on this vehicle?
+      hint: A lienholder is typically a bank or financial institution that provided
+        a loan.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: lienholder_name
+      label: Lienholder Name (if Yes above)
+      hint: Full legal name of the financial institution
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: lienholder_address
+      label: Lienholder Address (if Yes above)
+      hint: Full mailing address of the lienholder
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_declaration
+      label: '--- Declaration and Certification ---'
+      hint: Please read carefully before submitting.
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: declaration_accuracy
+      label: I certify that all statements made in this application are true and correct
+        to the best of my knowledge and belief.
+      hint: Providing false information may result in legal penalties.
+      type: select_one
+      options:
+      - I Agree and Certify
+      - I Do Not Agree
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Explanations
+      hint: Use this space for any necessary clarifications or extra details.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: application_submission_date
+      label: Application Submission Date
+      hint: Date this form is officially submitted
+      type: date
+      options: []
+      required: true

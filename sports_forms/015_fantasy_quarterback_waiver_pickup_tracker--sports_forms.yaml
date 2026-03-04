@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fantasy Quarterback Waiver Pickup Tracker
+    pages:
+    - id: 1
+      name: quarterback_waiver_request_form
+      label: Football Quarterback Waiver Request Form
+      hint: null
+      type: select_one
+      options:
+      - Player ID
+      - Team Name
+      - Waiver Type
+      - Waiver Reason
+      - Request Date
+      - Waiver Date
+      - Priority
+      - Notes
+      required: false
+    - id: 2
+      name: player_id
+      label: player_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waiver_type
+      label: waiver_type
+      hint: null
+      type: select_one
+      options:
+      - Trade
+      - Drop
+      required: false
+    - id: 5
+      name: waiver_reason
+      label: waiver_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: waiver_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: priority
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: waiver_status
+      label: waiver_status
+      hint: null
+      type: select_one
+      options:
+      - Claimed
+      - Not Claimed
+      required: false
+    - id: 13
+      name: waiver_owner
+      label: waiver_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: waiver_owner_position
+      label: waiver_owner_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: waiver_owner_salary
+      label: waiver_owner_salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_team
+      label: owner_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_salary
+      label: owner_salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: waiver_owner_salary_earned
+      label: waiver_owner_salary_earned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: player_salary
+      label: player_salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_salary
+      label: team_salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_salary_cap
+      label: owner_salary_cap
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: waiver_cap
+      label: waiver_cap
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: waiver_cap_remaining
+      label: waiver_cap_remaining
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: waiver_cap_used
+      label: waiver_cap_used
+      hint: null
+      type: text
+      options: []
+      required: false

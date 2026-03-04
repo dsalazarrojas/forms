@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobility Coaching Experience Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Mobility Coaching Experience Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_quality
+      label: How would you rate the quality of your mobility coaching sessions?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: client_satisfaction
+      label: What level of satisfaction do you feel after our sessions?
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Neutral
+      - Low
+      - Very Low
+      required: false
+    - id: 4
+      name: client_sentiment
+      label: What is your current sentiment towards mobility coaching?
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: false
+    - id: 5
+      name: session_improvement
+      label: How can we improve our sessions?
+      hint: null
+      type: select_multiple
+      options:
+      - Provide clearer instructions
+      - Offer more challenging exercises
+      - Use more advanced technology
+      - Provide additional educational resources
+      required: false
+    - id: 6
+      name: session_frequency
+      label: How frequently do you think you will attend our sessions?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 7
+      name: feedback
+      label: Do you have any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: email_confirmation
+      label: Are you happy to receive email updates?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_confirmation
+      label: Are you happy to receive phone calls?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_contact
+      label: Other Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false

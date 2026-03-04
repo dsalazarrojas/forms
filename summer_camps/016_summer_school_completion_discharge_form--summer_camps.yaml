@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Completion Discharge Form
+    pages:
+    - id: 1
+      name: summer_school_completion_discharge_form_data
+      label: summer_school_completion_discharge_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_completion
+      label: date_of_completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: academic_program_completed
+      label: academic_program_completed
+      hint: null
+      type: select_one
+      options:
+      - Academic Program A
+      - Academic Program B
+      - Academic Program C
+      required: false
+    - id: 5
+      name: academic_program_start_date
+      label: academic_program_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: academic_program_end_date
+      label: academic_program_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: academic_program_hours_completed
+      label: academic_program_hours_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: academic_program_hours_enrolled
+      label: academic_program_hours_enrolled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_progress
+      label: student_progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: select_one
+      options:
+      - Student Signature 1
+      - Student Signature 2
+      - Student Signature 3
+      required: false

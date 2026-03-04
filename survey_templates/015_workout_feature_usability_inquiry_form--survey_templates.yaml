@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workout Feature Usability Inquiry Form
+    pages:
+    - id: 1
+      name: feature_name
+      label: Enter feature name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feature_description
+      label: Briefly describe the feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Overall satisfaction with this feature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions for this feature?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: How would you categorize this feature?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Core Feature''}'
+      - '{''label'': ''Non-Core Feature''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: frequency
+      label: How often do you use this feature?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 7
+      name: improvement_plan
+      label: Are there any areas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Is there anything else you'd like to share with us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_owner
+      label: Are you the product owner or end user
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Owner''}'
+      - '{''label'': ''End user''}'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: When did you try this feature?
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false

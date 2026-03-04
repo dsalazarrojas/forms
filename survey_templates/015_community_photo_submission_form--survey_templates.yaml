@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Photo Submission Form
+    pages:
+    - id: 1
+      name: submission_info
+      label: Submission Information
+      hint: Details about your photo submission
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_category
+      label: Photo Category
+      hint: Select the category
+      type: select_one
+      options:
+      - Community Events
+      - Landscapes and Scenery
+      - People and Portraits
+      - Wildlife and Nature
+      - Architecture
+      - Street Photography
+      - Historical Photos
+      - Other
+      required: true
+    - id: 7
+      name: photo_title
+      label: Photo Title
+      hint: Give your photo a name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_description
+      label: Photo Description
+      hint: Tell the story behind your photo
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: location_taken
+      label: Location Where Photo Was Taken
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_taken
+      label: Date Photo Was Taken
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: photographer_name
+      label: Photographer Name
+      hint: If different from submitter
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: usage_rights
+      label: Usage Rights
+      hint: How can we use your photo
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ownership
+      label: Do You Own the Rights to This Photo
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Took This Photo
+      - Yes - I Have Permission
+      - false
+      required: true
+    - id: 14
+      name: usage_permission
+      label: Grant Usage Permission
+      hint: Allow us to use your photo
+      type: select_one
+      options:
+      - Yes - I Grant Permission
+      - No - For Review Only
+      required: true
+    - id: 15
+      name: usage_scope
+      label: Approved Usage Scope
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Print Publications
+      - Newsletters
+      - Promotional Materials
+      - Exhibitions
+      - Archive Only
+      required: false
+    - id: 16
+      name: attribution_preference
+      label: How Should You Be Credited
+      hint: Name for attribution
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: photo_specs
+      label: Photo Specifications
+      hint: Technical details
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_one
+      options:
+      - JPEG
+      - PNG
+      - TIFF
+      - RAW
+      - Other
+      required: true
+    - id: 19
+      name: file_size
+      label: Approximate File Size
+      hint: In MB
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resolution
+      label: Photo Resolution
+      hint: Width x Height in pixels
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previously_published
+      label: Has This Photo Been Published Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: publication_details
+      label: Publication Details
+      hint: Where and when
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contest_entry
+      label: Submit for Photo Contest
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: additional_photos
+      label: Do You Have Additional Photos to Submit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claims Satisfaction Survey
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- Claims Satisfaction Survey --
+      hint: We value your feedback on our claims process.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claim_number
+      label: Claim Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: representative_name
+      label: Name of Claims Representative
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall, how satisfied were you with the claims process?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 5
+      name: ease_of_filing
+      label: How easy was it to file your claim?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 6
+      name: communication_rating
+      label: How would you rate the communication during your claim?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: timeliness_rating
+      label: Was your claim handled in a timely manner?
+      hint: null
+      type: select_one
+      options:
+      - Much faster than expected
+      - As expected
+      - Slower than expected
+      - Unacceptably slow
+      required: true
+    - id: 8
+      name: clarity_of_explanation
+      label: Were the steps of the process clearly explained to you?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Partially
+      - No, not at all
+      required: true
+    - id: 9
+      name: fairness_rating
+      label: Do you feel the claim settlement was fair?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A (No settlement yet)
+      required: true
+    - id: 10
+      name: professional_conduct
+      label: Did the staff act professionally?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: improvement_suggestions
+      label: What could we have done better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommend_likelihood
+      label: How likely are you to recommend us to others?
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Any additional feedback?
+      hint: null
+      type: text
+      options: []
+      required: false

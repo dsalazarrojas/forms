@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: craft_kit_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_confirmation
+      label: Confirm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Check
+      required: false
+    - id: 13
+      name: payment_cycle
+      label: Payment Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 14
+      name: subscription_cycle
+      label: Subscription Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 15
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 1 Month
+      - Every 3 Months
+      - Every 6 Months
+      - Every 12 Months
+      required: false
+    - id: 18
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_interval
+      label: Payment Interval
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: email_subscription_confirmation
+      label: Email Subscription Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: phone_subscription_confirmation
+      label: Phone Subscription Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_agreement
+      label: Billing Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

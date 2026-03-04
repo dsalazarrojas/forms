@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statics Equilibrium Forces Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: concept_1
+      label: forces_in_equilibrium
+      hint: null
+      type: select_one
+      options:
+      - F = m1 a1 + m2 a2
+      - f = m1 a1 + m2 a2
+      - f = (m1 + m2) a1
+      - f = (m1 + m2) a2
+      - F = (m1 + m2) a
+      - f = (m1 + m2)
+      - f = m1 a1 + m2 a2
+      - F = m1 a1 + m2 a2
+      - F = m1 a
+      - f = m1 a1 + m2
+      - f = m1 a2
+      - F = m1 a
+      - f = m1 + m2 a
+      - f = (m1)
+      - F = m2 a1
+      - f = m2 a2
+      - F = m2 a
+      - f = m1 + m2
+      required: false
+    - id: 3
+      name: concept_2
+      label: forces_on_an_object
+      hint: null
+      type: select_multiple
+      options:
+      - F1 = m1 a1
+      - f1 = m1 a1
+      - F1 = m1 a
+      - f1 = m1 a
+      - F1 = (m1)
+      - f1 = (m1)
+      - F1 = m1
+      - f1 = m1
+      - F1 = m2 a1
+      - f1 = m2 a1
+      - F1 = m2 a
+      - f1 = m2 a
+      - F1 = m2
+      - f1 = m2
+      required: false
+    - id: 4
+      name: concept_3
+      label: resolving_forces
+      hint: null
+      type: select_multiple
+      options:
+      - a1 = m1 F1
+      - a1 = m1 f1
+      - a1 = m1 F
+      - a1 = m1 f
+      - F1 = m1 a1
+      - f1 = m1 a1
+      - a1 = m1
+      - F1 = m1
+      - a1 = m1 a
+      - F1 = m1 a
+      - a1 = m1 + m2
+      - F1 = m1 + m2
+      required: false
+    - id: 5
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

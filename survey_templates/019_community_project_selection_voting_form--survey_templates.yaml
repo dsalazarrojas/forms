@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Project Selection Voting Form
+    pages:
+      - id: 1
+        name: project_voting_intro_note
+        label: -- Community Project Selection --
+        hint: Help us prioritize future initiatives for our neighborhood!
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name_text
+        label: Your Full Name
+        hint: Optional.
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: residency_status_selection
+        label: Your Residency Status
+        hint: Select the most appropriate option.
+        type: select_one
+        options: [Resident, Non-Resident Property Owner, Business Owner, Other]
+        required: true
+      - id: 4
+        name: neighborhood_address_info
+        label: Your Neighborhood or General Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: voter_age_range
+        label: Your Age Range
+        hint: For demographic purposes.
+        type: select_one
+        options: [18-24, 25-34, 35-44, 45-54, 55-64, 65+]
+        required: true
+      - id: 6
+        name: project_types_importance
+        label: Which project types are most important to you?
+        hint: Select up to three categories.
+        type: select_multiple
+        options: [Parks and Recreation, Public Safety, Transportation and Infrastructure, Affordable Housing, Arts and Culture, Sustainability]
+        required: true
+      - id: 7
+        name: most_preferred_project_choice
+        label: Which proposed project is your top priority?
+        hint: null
+        type: select_one
+        options: [Project A - Riverwalk Restoration, Project B - Downtown Plaza Redesign, Project C - New Community Library Branch]
+        required: true
+      - id: 8
+        name: least_preferred_project_choice
+        label: Which proposed project is your lowest priority?
+        hint: null
+        type: select_one
+        options: [Project A - Riverwalk Restoration, Project B - Downtown Plaza Redesign, Project C - New Community Library Branch]
+        required: true
+      - id: 9
+        name: project_a_rating
+        label: Rate Project A - Riverwalk Restoration
+        hint: Scale of 1 to 5.
+        type: select_one
+        options: [5 - High Priority, 4, 3, 2, 1 - Low Priority]
+        required: true
+      - id: 10
+        name: project_b_rating
+        label: Rate Project B - Downtown Plaza Redesign
+        hint: Scale of 1 to 5.
+        type: select_one
+        options: [5 - High Priority, 4, 3, 2, 1 - Low Priority]
+        required: true
+      - id: 11
+        name: project_c_rating
+        label: Rate Project C - New Community Library Branch
+        hint: Scale of 1 to 5.
+        type: select_one
+        options: [5 - High Priority, 4, 3, 2, 1 - Low Priority]
+        required: true
+      - id: 12
+        name: priority_reason_text
+        label: Why did you choose your top priority project?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: additional_project_ideas_text
+        label: Do you have any other project ideas for our community?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: town_hall_interest_check
+        label: Would you attend a town hall meeting to discuss these projects?
+        hint: null
+        type: select_one
+        options: [Yes - Sign me up, No - Not at this time]
+        required: true
+      - id: 15
+        name: follow_up_email_info
+        label: Contact Email Address
+        hint: Required if you are interested in the town hall.
+        type: email
+        options: []
+        required: false
+      - id: 16
+        name: vote_submission_date
+        label: Today - s Date
+        hint: null
+        type: date
+        options: []
+        required: true

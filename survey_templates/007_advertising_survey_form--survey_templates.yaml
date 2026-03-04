@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Survey Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Consumer Insights --
+      hint: Help us improve our advertising by answering a few questions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ad_recall
+      label: Have you seen our ads recently?
+      hint: In the past 30 days.
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, once or twice
+      - No, not that I recall
+      - I am not sure
+      required: true
+    - id: 3
+      name: ad_source
+      label: Where did you see our ad?
+      hint: Select the primary location.
+      type: select_one
+      options:
+      - Facebook / Instagram
+      - YouTube
+      - Google Search
+      - TV Commercial
+      - Billboard
+      - Other
+      required: false
+    - id: 4
+      name: message_clarity
+      label: Was the message of the ad clear?
+      hint: Did you understand what was being offered?
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Neutral
+      - Confusing
+      - Very Confusing
+      required: true
+    - id: 5
+      name: relevance
+      label: How relevant was the ad to you?
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 6
+      name: engagement
+      label: Did the ad make you want to learn more?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No
+      required: true
+    - id: 7
+      name: brand_perception
+      label: How did the ad change your perception of our brand?
+      hint: null
+      type: select_one
+      options:
+      - Much more positive
+      - Slightly more positive
+      - No change
+      - Slightly more negative
+      - Much more negative
+      required: false
+    - id: 8
+      name: feedback_text
+      label: What did you like or dislike about the ad?
+      hint: Please be specific.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demographics_header
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: false
+    - id: 11
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false

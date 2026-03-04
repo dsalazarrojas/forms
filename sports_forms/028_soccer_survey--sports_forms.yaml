@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: favorite_team
+      label: Favorite Team
+      hint: null
+      type: select_one
+      options:
+      - Manchester United
+      - Barcelona
+      - Bayern Munich
+      - Chelsea
+      required: false
+    - id: 4
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: jersey_number
+      label: Jersey Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_player
+      label: Favorite Player
+      hint: null
+      type: select_one
+      options:
+      - Cristiano Ronaldo
+      - Lionel Messi
+      - Neymar
+      - Robert Lewandowski
+      required: false
+    - id: 9
+      name: favorite_position
+      label: Favorite Position
+      hint: null
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

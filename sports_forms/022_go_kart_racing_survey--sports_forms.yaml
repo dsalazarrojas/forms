@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Go Kart Racing Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: go_kart_racing_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: facilities
+      label: facility_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Kart 1
+      - Kart 2
+      - Kart 3
+      required: false
+    - id: 4
+      name: staff
+      label: staff_friendlyness
+      hint: null
+      type: select_one
+      options:
+      - Very friendly
+      - Average
+      - Not friendly at all
+      required: true
+    - id: 5
+      name: facilities
+      label: facilities_cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: facilities
+      label: facilities_safety
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: facilities
+      label: facilities_price
+      hint: null
+      type: number
+      options: []
+      required: false

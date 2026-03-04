@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Evaluation Form
+    pages:
+    - id: 1
+      name: staff_evaluation_form
+      label: staff_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: staff_member_name
+      label: staff_member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: competency_1
+      label: competency_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_form_submitted
+      label: evaluation_form_submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_form_completed
+      label: evaluation_form_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_status
+      label: evaluation_form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

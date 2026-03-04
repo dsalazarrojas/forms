@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Address Update Form
+    pages:
+    - id: 1
+      name: update_header
+      label: -- Address Update Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address on File
+      hint: Your current address as recorded in our system
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_address_line_1
+      label: New Address Line 1
+      hint: Street address, building number, apartment/unit
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: new_address_line_2
+      label: New Address Line 2 (Optional)
+      hint: Apartment, suite, unit, building, floor, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_city
+      label: City
+      hint: City of your new address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: new_state
+      label: State/Province
+      hint: State or province of your new address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: new_zip_code
+      label: ZIP/Postal Code
+      hint: Postal code of your new address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: new_country
+      label: Country
+      hint: Country of your new address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: move_effective_date
+      label: Effective Date of Change
+      hint: When should this address change take effect?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: Current phone number for contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: alternative_phone
+      label: Alternative Phone Number (Optional)
+      hint: Secondary phone number for contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_address
+      label: Email Address
+      hint: Current email for notifications
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_change
+      label: Reason for Address Change
+      hint: Why are you updating your address?
+      type: select_one
+      options:
+      - Moved to new residence
+      - Correcting error
+      - Updated apartment/unit number
+      - Changed mailing address
+      - Other
+      required: true
+    - id: 16
+      name: address_type
+      label: Type of Address
+      hint: What type of address is this?
+      type: select_one
+      options:
+      - Home address
+      - Mailing address
+      - Work address
+      - Vacation home
+      - Other
+      required: true
+    - id: 17
+      name: duration_at_new_address
+      label: Expected Duration at New Address
+      hint: How long do you expect to reside at this address?
+      type: select_one
+      options:
+      - Permanent
+      - Temporary (less than 1 year)
+      - Temporary (1-2 years)
+      - Temporary (more than 2 years)
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: How are you related to this person?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_address_duration
+      label: Duration at Previous Address
+      hint: How long were you at your previous address?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: update_date
+      label: Date of Update Request
+      hint: Date when you are submitting this update
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: employee_signature
+      label: Employee Signature
+      hint: Electronic signature to confirm address update
+      type: text
+      options: []
+      required: true

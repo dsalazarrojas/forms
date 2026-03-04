@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Equipment Issue Form
+    pages:
+    - id: 1
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reportee_name
+      label: Reportee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - IT
+      - Finance
+      - Marketing
+      - HR
+      required: false
+    - id: 7
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Computer
+      - Monitor
+      - Printer
+      - Keyboard
+      - Mouse
+      required: false
+    - id: 8
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Broken
+      - Damaged
+      - Stolen
+      required: false
+    - id: 9
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reportee_phone
+      label: Reportee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reported_by_title
+      label: Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Employee
+      required: false

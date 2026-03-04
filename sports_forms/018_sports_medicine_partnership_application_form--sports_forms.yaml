@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Medicine Partnership Application Form
+    pages:
+    - id: 1
+      name: sports_form_1
+      label: Welcome to Our Sports Medicine Partnership Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sports_medical_license
+      label: Sports Medical License
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - option.report
+      - option.training
+      - option.consulting
+      required: false
+    - id: 8
+      name: report
+      label: Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: partnership_start_date
+      label: Partnership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: partnership_end_date
+      label: Partnership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - option.weekly
+      - option.monthly
+      - option.annually
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option.paypal
+      - option.check
+      - option.bank_transfer
+      required: false
+    - id: 14
+      name: bank_account_number
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: false

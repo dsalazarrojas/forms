@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Football Activity Questionnaire
+    pages:
+    - id: 1
+      name: sports_forms
+      label: sports-forms
+      hint: null
+      type: select_multiple
+      options:
+      - Football
+      - Hockey
+      - Basketball
+      required: false
+    - id: 2
+      name: health_conditions
+      label: health-conditions
+      hint: null
+      type: select_one
+      options:
+      - Chest
+      - Back
+      - Leg
+      - Other
+      required: false
+    - id: 3
+      name: fitness_activities
+      label: fitness-activities
+      hint: null
+      type: select_multiple
+      options:
+      - Cardio
+      - Strength
+      - Flexibility
+      - Other
+      required: false
+    - id: 4
+      name: fitness_activities_2
+      label: fitness-activities-2
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Swimming
+      - Cycling
+      - Other
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: exercise-freq
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_days
+      label: training-days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - Other
+      - None
+      required: false
+    - id: 13
+      name: form_id
+      label: form-id
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Staff Expression Of Interest
+    pages:
+    - id: 1
+      name: eoi_intro_header
+      label: -- Expression of Interest - Summer Camp Staff --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: eoi_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: eoi_email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: eoi_age_verification
+      label: Current Age
+      hint: Some roles have minimum age requirements
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: eoi_school_organization
+      label: Current School or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: eoi_interest_reason
+      label: What draws you to camp staff work?
+      hint: Share your motivation for applying
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: eoi_skills_contribution
+      label: Special Skills or Talents
+      hint: How can you contribute to our program?
+      type: select_multiple
+      options:
+      - Musical Instruments / Singing
+      - Drama and Performance
+      - Sports and Athletics
+      - Arts and Crafts
+      - Nature Study / Woodcraft
+      - Storytelling
+      required: true
+    - id: 8
+      name: eoi_previous_camp_exp
+      label: Previous Camp Experience
+      hint: Have you been a camper or staff member before?
+      type: select_one
+      options:
+      - Yes - Former Camper
+      - Yes - Former Staff
+      - No - First time at camp
+      required: true
+    - id: 9
+      name: eoi_working_with_youth_pref
+      label: Preferred Age Group to Work With
+      hint: null
+      type: select_one
+      options:
+      - Ages 6-8 (Juniors)
+      - Ages 9-11 (Intermediate)
+      - Ages 12-14 (Teens)
+      - Flexible / Any
+      required: true
+    - id: 10
+      name: eoi_availability_details
+      label: General Summer Availability
+      hint: e.g., Available all of July, but gone first week of August
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: eoi_referral_source
+      label: How did you hear about this opportunity?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth / Friend
+      - School - Career Office
+      - Former Staff Member
+      - Other
+      required: false
+    - id: 12
+      name: eoi_best_contact_method
+      label: Best Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      required: true
+    - id: 13
+      name: eoi_follow_up_agreement
+      label: Consent to Follow-up
+      hint: I agree to be contacted for a formal application or interview
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 14
+      name: eoi_date_logged
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

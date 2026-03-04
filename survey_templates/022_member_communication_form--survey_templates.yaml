@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Communication Form
+    pages:
+    - id: 1
+      name: member_communication_form
+      label: member_communication_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_communication
+      label: Preferred Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Both'', ''value'': ''both''}'
+      - '{''label'': ''Never'', ''value'': ''never''}'
+      required: false
+    - id: 5
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Once a week'', ''value'': ''once_a_week''}'
+      - '{''label'': ''2-3 times a week'', ''value'': ''2-3_times_a_week''}'
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - '{''label'': ''Evening'', ''value'': ''evening''}'
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: member_id
+      label: Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: communication_status
+      label: Communication Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Communicating'', ''value'': ''communicating''}'
+      - '{''label'': ''Not Communicating'', ''value'': ''not_communicating''}'
+      required: false
+    - id: 18
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 19
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: note_3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: note_4
+      label: Note 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: note_5
+      label: Note 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: note_6
+      label: Note 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: last_modified_date
+      label: Last Modified Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Spectator Facilities Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1001, ''name'': True, ''label'': True}'
+      - '{''id'': 1002, ''name'': False, ''label'': False}'
+      required: false
+    - id: 7
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1003, ''name'': ''food_and_drinks'', ''label'': ''Food and drinks''}'
+      - '{''id'': 1004, ''name'': ''merchandise'', ''label'': ''Merchandise''}'
+      - '{''id'': 1005, ''name'': ''parking'', ''label'': ''Parking''}'
+      - '{''id'': 1006, ''name'': ''security'', ''label'': ''Security''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_time
+      label: Date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

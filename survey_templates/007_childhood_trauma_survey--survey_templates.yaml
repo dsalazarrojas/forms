@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childhood Trauma Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: All information provided is confidential
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_id
+      label: Respondent ID Number
+      hint: For confidentiality purposes only
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 55+
+      required: true
+    - id: 4
+      name: gender
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: trauma_overview
+      label: -- Trauma Exposure Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: experienced_trauma
+      label: Have you experienced trauma during childhood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 7
+      name: trauma_type
+      label: Type of trauma experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical abuse
+      - Emotional abuse
+      - Neglect
+      - Sexual abuse
+      - Domestic violence
+      - Loss or grief
+      - Accident or injury
+      - Natural disaster
+      - Community violence
+      - Medical trauma
+      required: false
+    - id: 8
+      name: trauma_duration
+      label: Approximate duration of trauma
+      hint: null
+      type: select_one
+      options:
+      - Single incident
+      - Few weeks
+      - Few months
+      - 1-2 years
+      - Multiple years
+      required: false
+    - id: 9
+      name: perpetrator_section
+      label: -- About the Trauma --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: perpetrator_relationship
+      label: Relationship of the perpetrator to you
+      hint: null
+      type: select_one
+      options:
+      - Family member
+      - Teacher or authority figure
+      - Peer or friend
+      - Stranger
+      - Not applicable
+      required: false
+    - id: 11
+      name: reported_to_authorities
+      label: Was the trauma reported to authorities
+      hint: null
+      type: select_one
+      options:
+      - Yes, it was reported
+      - No, it was not reported
+      - Unsure
+      required: false
+    - id: 12
+      name: impact_section
+      label: -- Impact on Life --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emotional_impact
+      label: Emotional impact of childhood trauma
+      hint: Rate 1 (no impact) to 5 (severe impact)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: current_symptoms
+      label: Current symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Nightmares
+      - Flashbacks
+      - Difficulty concentrating
+      - Sleep problems
+      - Trust issues
+      - Low self-esteem
+      - Avoidance behaviors
+      required: false
+    - id: 15
+      name: functional_impact
+      label: Impact on daily functioning
+      hint: Rate 1 (no impact) to 5 (severe impact)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: relationships_impact
+      label: Impact on personal relationships
+      hint: Rate 1 (no impact) to 5 (severe impact)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: recovery_section
+      label: -- Recovery and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: sought_help
+      label: Have you sought professional help
+      hint: null
+      type: select_one
+      options:
+      - Yes, currently
+      - Yes, in the past
+      - 'No'
+      required: true
+    - id: 19
+      name: treatment_types
+      label: Types of treatment received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Therapy or counseling
+      - Psychiatric medication
+      - Support groups
+      - Hospitalization
+      - Other
+      required: false
+    - id: 20
+      name: recovery_progress
+      label: Level of recovery or healing
+      hint: Rate 1 (no progress) to 5 (significant progress)
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: support_system
+      label: Do you have supportive relationships
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_club_social_responsibility_survey
+    pages:
+    - id: 1
+      name: club_name
+      label: what_sport_do_you_participate_in
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Soccer
+      - Volleyball
+      - Tennis
+      - Baseball
+      - Swimming
+      - Football
+      - Hockey
+      required: false
+    - id: 2
+      name: what_is_the_purpose_of_your_participation
+      label: what_sport_do_you_participate_in_for
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_often_do_you_participate
+      label: how_often_do_you_participate
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - Once a week
+      - Several times a week
+      - Every day
+      required: false
+    - id: 4
+      name: what_time_do_you_participate
+      label: what_time_do_you_participate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: what_level_of_commitment
+      label: what_level_of_commitment
+      hint: null
+      type: select_multiple
+      options:
+      - Casual
+      - Competitive
+      - Social
+      - Recreational
+      required: false
+    - id: 6
+      name: how_much_do_you_enjoy
+      label: how_much_do_you_enjoy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: do_you_support_the_club_sustainability
+      label: do_you_support_the_club_sustainability
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: do_you_support_the_club_charities
+      label: do_you_support_the_club_charities
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: do_you_support_the_club_volunteering
+      label: do_you_support_the_club_volunteering
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_website
+      label: contact_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: how_much_do_you_enjoy_our_sustainability
+      label: how_much_do_you_enjoy_our_sustainability
+      hint: null
+      type: number
+      options: []
+      required: false

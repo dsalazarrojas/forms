@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christian Dating Perspectives Survey
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: relationship_status
+      label: Current Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Engaged
+      - Married
+      required: true
+    - id: 8
+      name: beliefs_section
+      label: -- Faith and Beliefs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: christian_denomination
+      label: What is your Christian denomination or faith background?
+      hint: null
+      type: select_one
+      options:
+      - Catholic
+      - Protestant
+      - Orthodox
+      - Non-denominational
+      - Other
+      required: true
+    - id: 10
+      name: church_attendance
+      label: How often do you attend church?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - 2-3 times per month
+      - Monthly
+      - A few times per year
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: faith_importance
+      label: How important is faith in your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 12
+      name: dating_perspectives
+      label: -- Dating Perspectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interfaith_dating
+      label: Would you date someone from a different Christian faith?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Maybe
+      - Probably not
+      - No, definitely not
+      required: true
+    - id: 14
+      name: non_christian_dating
+      label: Would you date someone who is not Christian?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Maybe
+      - Probably not
+      - No, definitely not
+      required: true
+    - id: 15
+      name: relationship_goals
+      label: What are your primary goals in dating? (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Finding a spouse
+      - Building friendships
+      - Growing in faith together
+      - Personal growth
+      - Social engagement
+      required: true
+    - id: 16
+      name: values_alignment
+      label: How important is values alignment in a relationship?
+      hint: null
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Please share any additional thoughts or perspectives on Christian dating
+      hint: Optional - your insights help us understand community perspectives
+      type: text
+      options: []
+      required: false

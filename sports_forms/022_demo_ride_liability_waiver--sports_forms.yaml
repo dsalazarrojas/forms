@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Demo Ride Liability Waiver
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information_page
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''name'', ''label'': ''Name'', ''type'': ''text''}'
+      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email'', ''type'': ''email''}'
+      - '{''id'': 3, ''name'': ''phone'', ''label'': ''Phone'', ''type'': ''phone''}'
+      required: false
+    - id: 3
+      name: emergency_contact_page
+      label: Emergency Contact
+      hint: Enter emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waiver_consent_page
+      label: Waiver Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''name'': ''waiver-accept'', ''label'': ''Accept'', ''type'':
+        ''select_one'', ''options'': [{''id'': 1, ''label'': True}, {''id'': 2, ''label'':
+        False}]}'
+      - '{''id'': 6, ''name'': ''terms-and-conditions'', ''label'': ''Terms and Conditions'',
+        ''type'': ''text''}'
+      - '{''id'': 7, ''name'': ''emergency-contact-details'', ''label'': ''Emergency
+        Contact Details'', ''type'': ''text''}'
+      required: false
+    - id: 5
+      name: signature_page
+      label: E-Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: terms_and_conditions_signature_page
+      label: Terms and Conditions Signature
+      hint: null
+      type: time
+      options: []
+      required: false

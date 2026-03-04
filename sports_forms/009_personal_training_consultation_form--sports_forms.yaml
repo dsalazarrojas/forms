@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: training_goal
+      label: Training goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_level
+      label: Training level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 10
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 11
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false

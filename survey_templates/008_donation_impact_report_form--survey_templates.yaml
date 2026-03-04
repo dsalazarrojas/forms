@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Impact Report Form
+    pages:
+    - id: 1
+      name: donation_impact_report_form_fields
+      label: Donation Impact Report Form Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency_of_donations
+      label: Frequency of Donations
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - One-time
+      required: false
+    - id: 6
+      name: how_made_donation
+      label: How Made Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Phone
+      - Mail
+      - In-person
+      - Other
+      required: false
+    - id: 7
+      name: how_found_out_about_donation
+      label: How Found Out About Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Newsletter
+      - Word of mouth
+      - Other
+      required: false
+    - id: 8
+      name: how_made_payment
+      label: How Made Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Check
+      - Bank transfer
+      - Phone
+      - Other
+      required: false
+    - id: 9
+      name: why_make_donation
+      label: Why Make Donation
+      hint: null
+      type: select_multiple
+      options:
+      - To support a cause
+      - To support a friend or family member
+      - Other
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: impact_statement
+      label: Impact Statement
+      hint: Please describe the impact of the donation.
+      type: text
+      options: []
+      required: false

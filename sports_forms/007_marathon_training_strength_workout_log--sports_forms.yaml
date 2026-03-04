@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: marathon_training_strength_workout_log
+    pages:
+    - id: 1
+      name: exercise
+      label: Exercise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reps
+      label: reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sets
+      label: Sets
+      hint: null
+      type: select_one
+      options:
+      - Sets
+      - Reps
+      - RPE
+      required: false
+    - id: 6
+      name: rpe
+      label: rpe
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: coach_notes
+      label: coach_notes
+      hint: null
+      type: text
+      options: []
+      required: false

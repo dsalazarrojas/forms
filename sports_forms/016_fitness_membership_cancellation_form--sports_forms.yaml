@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_membership_cancellation_form
+    pages:
+    - id: 1
+      name: page_1
+      label: Membership Cancellation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

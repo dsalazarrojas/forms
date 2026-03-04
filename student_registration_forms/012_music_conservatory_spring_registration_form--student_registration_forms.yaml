@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Conservatory Spring Registration Form
+    pages:
+    - id: 1
+      name: music_conservatory_spring_registration_form
+      label: music_school
+      hint: null
+      type: select_one
+      options:
+      - Music School 1
+      - Music School 2
+      - Music School 3
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_age
+      label: student_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instrument
+      label: instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      - Drums
+      required: false

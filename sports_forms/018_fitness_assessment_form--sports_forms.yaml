@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sedentary''}'
+      - '{''value'': ''Lightly active''}'
+      - '{''value'': ''Very active''}'
+      - '{''value'': ''Extremely active''}'
+      required: false
+    - id: 3
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 6
+      name: medication
+      label: Medications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: family_history
+      label: Family History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: social_history
+      label: Social History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Several times a week''}'
+      - '{''value'': ''Rarely''}'
+      required: false
+    - id: 15
+      name: sleep_pattern
+      label: Sleep Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''7-8 hours''}'
+      - '{''value'': ''6-7 hours''}'
+      - '{''value'': ''Less than 6 hours''}'
+      - '{''value'': ''More than 8 hours''}'
+      required: false

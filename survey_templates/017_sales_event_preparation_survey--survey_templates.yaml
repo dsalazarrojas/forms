@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Event Preparation Survey
+    pages:
+    - id: 1
+      name: sales_event_preparation_survey
+      label: sales_event_preparation_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_venue
+      label: event_venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_team
+      label: sales_team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 8
+      name: sales_manager
+      label: sales_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_coordinator
+      label: event_coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_event_readiness
+      label: sales_event_readiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_event_readiness_scale
+      label: sales_event_readiness_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sales_event_readiness_scale_max
+      label: sales_event_readiness_scale_max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sales_event_readiness_scale_min
+      label: sales_event_readiness_scale_min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sales_event_readiness_scale_comment
+      label: sales_event_readiness_scale_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: priority_resources
+      label: priority_resources
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 16
+      name: resource_allocation
+      label: resource_allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: resource_allocation_max
+      label: resource_allocation_max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: resource_allocation_min
+      label: resource_allocation_min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: resource_allocation_comment
+      label: resource_allocation_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_planning_status
+      label: event_planning_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      required: true
+    - id: 21
+      name: sales_event_readiness_score
+      label: sales_event_readiness_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: sales_event_readiness_score_comment
+      label: sales_event_readiness_score_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_planning_status_comment
+      label: event_planning_status_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_event_readiness_scale_comment
+      label: sales_event_readiness_scale_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: resource_allocation_comment
+      label: resource_allocation_comment
+      hint: null
+      type: text
+      options: []
+      required: false

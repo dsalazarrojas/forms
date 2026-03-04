@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Product Order Form
+    pages:
+    - id: 1
+      name: product_order_form
+      label: product order form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apple''}'
+      - '{''id'': 2, ''label'': ''Banana''}'
+      - '{''id'': 3, ''label'': ''Orange''}'
+      required: true
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: unit_price
+      label: unit price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: subtotal
+      label: subtotal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''credit card''}'
+      - '{''id'': 2, ''label'': ''bank transfer''}'
+      - '{''id'': 3, ''label'': ''cash''}'
+      required: true
+    - id: 9
+      name: payment_method_other
+      label: payment method other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: order_notes
+      label: order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: order status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''shipped''}'
+      - '{''id'': 3, ''label'': ''delivered''}'
+      required: false

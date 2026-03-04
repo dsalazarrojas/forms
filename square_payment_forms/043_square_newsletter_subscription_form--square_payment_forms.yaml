@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Newsletter Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_format
+      label: Subscription Format
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Print
+      required: false
+    - id: 6
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 12 months
+      required: false
+    - id: 7
+      name: print_format
+      label: Print Format
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annualy
+      required: false
+    - id: 8
+      name: digital_format
+      label: Digital Format
+      hint: null
+      type: select_multiple
+      options:
+      - PDF
+      - Email
+      - Mobile App
+      required: false
+    - id: 9
+      name: preferred_email
+      label: Preferred Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_phone_number
+      label: Confirm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

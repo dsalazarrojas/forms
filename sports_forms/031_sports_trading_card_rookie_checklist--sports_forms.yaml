@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Trading Card Rookie Checklist
+    pages:
+    - id: 1
+      name: user_input_first_name
+      label: First Name
+      hint: Enter first name of the sports trading card player.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_input_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_input_birthdate
+      label: Birthdate
+      hint: Select birthdate of the sports trading card player.
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: user_input_card_set
+      label: Card Set
+      hint: Select sports trading card set.
+      type: select_multiple
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 5
+      name: user_input_grade
+      label: Grade
+      hint: Enter grade of the sports trading card (0-10).
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: user_input_series
+      label: Series
+      hint: Enter series of the sports trading card.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: user_input_number
+      label: Number
+      hint: Enter number of the sports trading card.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: user_input_card_type
+      label: Card Type
+      hint: Select type of the sports trading card.
+      type: select_one
+      options:
+      - Rookie
+      - Veteran
+      - Parallel
+      required: false
+    - id: 9
+      name: user_input_card_status
+      label: Card Status
+      hint: Select status of the sports trading card.
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Missing
+      required: false
+    - id: 10
+      name: user_input_notes
+      label: Notes
+      hint: Enter notes about the sports trading card.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_input_email
+      label: Email
+      hint: Enter email of the sports trading card owner.
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: user_input_phone
+      label: Phone
+      hint: Enter phone number of the sports trading card owner.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_input_address
+      label: Address
+      hint: Enter address of the sports trading card owner.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_input_city
+      label: City
+      hint: Enter city of the sports trading card owner.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_input_state
+      label: State
+      hint: Enter state of the sports trading card owner.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_input_zip
+      label: Zip
+      hint: Enter zip of the sports trading card owner.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_input_shipped_to
+      label: Shipped To
+      hint: Select shipped to address.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: user_input_shipped_date
+      label: Shipped Date
+      hint: Select shipped date of the sports trading card.
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: user_input_cards_shipped
+      label: Cards Shipped
+      hint: Enter number of cards shipped.
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: user_input_cards_remaining
+      label: Cards Remaining
+      hint: Enter number of cards remaining.
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: user_input_total_value
+      label: Total Value
+      hint: Enter total value of the sports trading card.
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: user_input_total_value_amount
+      label: Total Value Amount
+      hint: Enter total value amount.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_input_notes_extra
+      label: Notes Extra
+      hint: Enter additional notes about the sports trading card.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_input_date_added
+      label: Date Added
+      hint: Select date the sports trading card was added.
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: user_input_date_updated
+      label: Date Updated
+      hint: Select date the sports trading card was updated.
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: match_performance_evaluation
+    pages:
+    - id: 1
+      name: match_id
+      label: match_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_id
+      label: player_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: match_details
+      label: match_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: match_performance
+      label: match_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Team Won
+      - Team Lost
+      - Draw
+      required: false
+    - id: 5
+      name: match_outcome
+      label: match_outcome
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: player_score
+      label: player_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: match_notes
+      label: match_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: team_score
+      label: team_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: match_result
+      label: match_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_position
+      label: player_position
+      hint: null
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      required: false
+    - id: 11
+      name: player_performance
+      label: player_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_performance
+      label: team_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_notes
+      label: evaluation_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommended_actions
+      label: recommended_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coach_comments
+      label: coach_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_comments
+      label: team_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_rating
+      label: team_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: match_date
+      label: match_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: match_time
+      label: match_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: match_duration
+      label: match_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: match_location
+      label: match_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: match_weather
+      label: match_weather
+      hint: null
+      type: select_one
+      options:
+      - Sunny
+      - Cloudy
+      - Windy
+      - Rainy
+      required: false
+    - id: 23
+      name: match_notes
+      label: match_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false

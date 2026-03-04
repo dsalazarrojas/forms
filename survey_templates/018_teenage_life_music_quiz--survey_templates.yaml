@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: teenage_life_music_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: What's your favorite music genre
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Hip-Hop
+      - Pop
+      - Rock
+      - Classical
+      - Jazz
+      - Folk
+      - Alternative
+      - Metal
+      - R&B
+      - Country
+      - Opera
+      - Musical_Theater
+      - Soundtrack
+      - Other
+      required: false
+    - id: 2
+      name: favorite_artist
+      label: Favorite artist
+      hint: Type in the name of a favorite artist
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: music_listening_habits
+      label: How many hours of music do you listen to per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_album
+      label: Favorite album
+      hint: Type in the name of a favorite album
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_song
+      label: Favorite song
+      hint: Type in the name of a favorite song
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concert_attendance
+      label: Have you ever been to a concert
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: music_purchases
+      label: Do you buy music?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: music_streaming
+      label: How do you listen to music?
+      hint: null
+      type: select_multiple
+      options:
+      - Streaming
+      - Purchasing albums or CDs
+      - Downloading
+      - Radio
+      - Podcasts
+      - Other
+      - None
+      - Live Concerts
+      required: false
+    - id: 9
+      name: age_group
+      label: What's your age group
+      hint: null
+      type: select_one
+      options:
+      - 10-14
+      - 15-19
+      - 20-24
+      - 25-29
+      - 30-34
+      - 35-39
+      - 40-44
+      - 45-49
+      - 50-54
+      - 55-59
+      - 60-64
+      - 65-69
+      - 70-74
+      - 75 or older
+      - Other
+      required: false
+    - id: 10
+      name: school_level
+      label: What's your school level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle school
+      - High school
+      - College
+      - University
+      - Other
+      required: false
+    - id: 11
+      name: music_influence
+      label: Who influenced you to get into music
+      hint: null
+      type: select_multiple
+      options:
+      - Friends
+      - Family
+      - Online
+      - School
+      - Other
+      required: false
+    - id: 12
+      name: music_interests
+      label: What music interests you?
+      hint: null
+      type: select_multiple
+      options:
+      - Playing a musical instrument
+      - Creating music playlists
+      - Attending concerts
+      - Singing in a choir
+      - Other
+      required: false
+    - id: 13
+      name: music_preferences
+      label: How important is music in your life?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false
+    - id: 14
+      name: music_habits
+      label: How often do you listen to music?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - A few times a month
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 15
+      name: music_instrument
+      label: Which musical instrument do you play?
+      hint: null
+      type: select_multiple
+      options:
+      - Guitar
+      - Drums
+      - Bass
+      - Violin
+      - Piano
+      - Trumpet
+      - Other
+      required: false
+    - id: 16
+      name: music_genre
+      label: What genre of music do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - Electronic
+      - Hip-Hop
+      - Pop
+      - Rock
+      - Classical
+      - Folk
+      - Jazz
+      - Alternative
+      - Metal
+      - R&B
+      - Country
+      - Musical_Theater
+      - Opera
+      - Soundtrack
+      - Other
+      required: false
+    - id: 17
+      name: music_purchase_frequency
+      label: How often do you purchase music?
+      hint: null
+      type: select_one
+      options:
+      - Every week
+      - Several times a month
+      - A few times a year
+      - Rarely
+      - Never
+      required: false
+    - id: 18
+      name: music_streaming_platform
+      label: Which music streaming platform do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Spotify
+      - Apple Music
+      - Amazon Music
+      - Google Play Music
+      - Tidal
+      - Deezer
+      - YouTube
+      - SoundCloud
+      - Other
+      - None
+      required: false
+    - id: 19
+      name: music_format
+      label: What type of music do you usually listen to?
+      hint: null
+      type: select_multiple
+      options:
+      - MP3
+      - MP2
+      - FLAC
+      - WAV
+      - Other
+      required: false
+    - id: 20
+      name: music_device
+      label: What do you usually listen to music on?
+      hint: null
+      type: select_multiple
+      options:
+      - Smartphone
+      - Laptop
+      - Computer
+      - MP3 player
+      - Radio
+      - TV
+      - Other
+      required: false
+    - id: 21
+      name: music_cultural_importance
+      label: How important is music to you?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false
+    - id: 22
+      name: music_cultural_influence
+      label: How much does music influence your culture?
+      hint: null
+      type: select_one
+      options:
+      - Very much
+      - Somewhat
+      - Not very much
+      - Not at all
+      required: false
+    - id: 23
+      name: music_community_involvement
+      label: Have you attended a music festival?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: music_involvement
+      label: What kind of music activities do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - Listening
+      - Dancing
+      - Singing
+      - Performing
+      - Attending concerts
+      - Other
+      - None
+      required: false
+    - id: 25
+      name: music_frequency
+      label: How many hours of music do you listen to per day
+      hint: null
+      type: number
+      options: []
+      required: false

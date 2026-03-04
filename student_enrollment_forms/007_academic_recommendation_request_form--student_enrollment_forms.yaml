@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recommendation Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Recommendation Request Form --
+      hint: Use this form to request a recommendation letter from a teacher or mentor.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Student phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_program
+      label: Current academic program or major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: graduation_date
+      label: Expected graduation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: recommender_name
+      label: Name of the person you are requesting a recommendation from
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recommender_email
+      label: Recommenders email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: recommender_relationship
+      label: Your relationship with the recommender
+      hint: null
+      type: select_one
+      options:
+      - Professor - current course
+      - Professor - previous course
+      - Academic advisor
+      - Research supervisor
+      - Department head
+      - Mentor
+      required: true
+    - id: 12
+      name: recommendation_purpose
+      label: What is the recommendation for
+      hint: null
+      type: select_one
+      options:
+      - Graduate school application
+      - Scholarship application
+      - Job application
+      - Internship application
+      - Transfer application
+      - Other
+      required: true
+    - id: 13
+      name: institution_or_employer
+      label: Name of institution or employer the recommendation is being sent to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: deadline_date
+      label: Deadline for the recommendation
+      hint: Please allow at least two weeks for the recommender to prepare
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: courses_taken
+      label: List courses you took with this recommender
+      hint: Include course names and semesters
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: highlights_to_mention
+      label: Key accomplishments or skills you would like the recommender to highlight
+      hint: Provide specific examples if possible
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: waive_access
+      label: Do you waive your right to access this recommendation
+      hint: Waiving access may give the letter more credibility
+      type: select_one
+      options:
+      - Yes - I waive my right to access
+      - No - I retain my right to access
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Any additional notes for the recommender
+      hint: null
+      type: text
+      options: []
+      required: false

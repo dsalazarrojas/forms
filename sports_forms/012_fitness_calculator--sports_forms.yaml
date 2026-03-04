@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Calculator
+    pages:
+    - id: 1
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: resting_heart_rate
+      label: resting_heart_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: max_heart_rate
+      label: max_heart_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: systolic_blood_pressure
+      label: systolic_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: diastolic_blood_pressure
+      label: diastolic_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: resting_blood_pressure
+      label: resting_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: max_blood_pressure
+      label: max_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: body_temperature
+      label: body_temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: resting_heart_rate_zone
+      label: resting_heart_rate_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sedentary (Lightly active)'', ''value'': ''Sedentary
+        (Lightly active)''}'
+      - '{''id'': 2, ''label'': ''Lightly Active'', ''value'': ''Lightly Active''}'
+      - '{''id'': 3, ''label'': ''Moderately Active'', ''value'': ''Moderately Active''}'
+      - '{''id'': 4, ''label'': ''Highly Active'', ''value'': ''Highly Active''}'
+      - '{''id'': 5, ''label'': ''Very Active'', ''value'': ''Very Active''}'
+      required: true
+    - id: 12
+      name: max_heart_rate_zone
+      label: max_heart_rate_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sedentary (Lightly active)'', ''value'': ''Sedentary
+        (Lightly active)''}'
+      - '{''id'': 2, ''label'': ''Lightly Active'', ''value'': ''Lightly Active''}'
+      - '{''id'': 3, ''label'': ''Moderately Active'', ''value'': ''Moderately Active''}'
+      - '{''id'': 4, ''label'': ''Highly Active'', ''value'': ''Highly Active''}'
+      - '{''id'': 5, ''label'': ''Very Active'', ''value'': ''Very Active''}'
+      required: true
+    - id: 13
+      name: max_temperature
+      label: max_temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: resting_oxygen_saturation
+      label: resting_oxygen_saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: max_oxygen_saturation
+      label: max_oxygen_saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: respiratory_rate
+      label: respiratory_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: systolic_blood_pressure_unit
+      label: systolic_blood_pressure_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''mmHg'', ''value'': ''mmHg''}'
+      - '{''id'': 2, ''label'': ''mmmHg'', ''value'': ''mmmHg''}'
+      - '{''id'': 3, ''label'': ''kPa'', ''value'': ''kPa''}'
+      required: true
+    - id: 18
+      name: diastolic_blood_pressure_unit
+      label: diastolic_blood_pressure_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''mmHg'', ''value'': ''mmHg''}'
+      - '{''id'': 2, ''label'': ''mmmHg'', ''value'': ''mmmHg''}'
+      - '{''id'': 3, ''label'': ''kPa'', ''value'': ''kPa''}'
+      required: true
+    - id: 19
+      name: resting_blood_pressure_unit
+      label: resting_blood_pressure_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''mmHg'', ''value'': ''mmHg''}'
+      - '{''id'': 2, ''label'': ''mmmHg'', ''value'': ''mmmHg''}'
+      - '{''id'': 3, ''label'': ''kPa'', ''value'': ''kPa''}'
+      required: true
+    - id: 20
+      name: max_blood_pressure_unit
+      label: max_blood_pressure_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''mmHg'', ''value'': ''mmHg''}'
+      - '{''id'': 2, ''label'': ''mmmHg'', ''value'': ''mmmHg''}'
+      - '{''id'': 3, ''label'': ''kPa'', ''value'': ''kPa''}'
+      required: true
+    - id: 21
+      name: body_temperature_unit
+      label: body_temperature_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''C'', ''value'': ''C''}'
+      - '{''id'': 2, ''label'': ''F'', ''value'': ''F''}'
+      - '{''id'': 3, ''label'': ''K'', ''value'': ''K''}'
+      required: true
+    - id: 22
+      name: exercise_minutes
+      label: exercise_minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: exercise_intensity
+      label: exercise_intensity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Lightly'', ''value'': ''Lightly''}'
+      - '{''id'': 2, ''label'': ''Moderately'', ''value'': ''Moderately''}'
+      - '{''id'': 3, ''label'': ''Highly'', ''value'': ''Highly''}'
+      required: true
+    - id: 24
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      - '{''id'': 2, ''label'': ''Occasionally'', ''value'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Frequently'', ''value'': ''Frequently''}'
+      - '{''id'': 4, ''label'': ''Often'', ''value'': ''Often''}'
+      required: true
+    - id: 25
+      name: exercise_duration
+      label: exercise_duration
+      hint: null
+      type: number
+      options: []
+      required: true

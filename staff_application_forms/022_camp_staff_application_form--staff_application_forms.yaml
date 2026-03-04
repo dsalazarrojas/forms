@@ -1,0 +1,334 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Staff Application Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: position_applying_for
+      label: Position Applying For
+      hint: Select desired role
+      type: select_one
+      options:
+      - Camp Counselor
+      - Senior Counselor
+      - Activity Specialist
+      - Lifeguard
+      - Cook or Kitchen Staff
+      - Maintenance Staff
+      - Administrative Staff
+      - Program Director
+      - Other
+      required: true
+    - id: 11
+      name: desired_session
+      label: Desired Session
+      hint: Which session do you prefer
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Full summer
+      - Flexible
+      required: true
+    - id: 12
+      name: availability_start_date
+      label: Availability Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: availability_end_date
+      label: Availability End Date
+      hint: When must you leave
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: previous_camp_experience
+      label: Do You Have Previous Camp Experience
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - as staff
+      - Yes - as camper
+      - No - first time
+      required: true
+    - id: 15
+      name: camp_experience_details
+      label: Describe Your Camp Experience
+      hint: Provide details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relevant_skills
+      label: Relevant Skills or Certifications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CPR certified
+      - First aid certified
+      - Lifeguard certified
+      - Water safety instructor
+      - Outdoor leadership
+      - Youth counseling
+      - Conflict resolution
+      - Activity leadership
+      - Cooking or food service
+      - Maintenance or handyman
+      - Music or arts
+      - Sports coaching
+      - Other
+      required: true
+    - id: 17
+      name: education_level
+      label: Highest Education Level
+      hint: Select level
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      required: true
+    - id: 18
+      name: current_occupation
+      label: Current Occupation or Student Status
+      hint: What do you do now
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: work_with_youth_experience
+      label: Experience Working with Youth
+      hint: Describe your experience
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: age_group_preference
+      label: Preferred Age Group to Work With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 5-7 years
+      - 8-10 years
+      - 11-13 years
+      - 14-16 years
+      - 17-18 years
+      - No preference
+      required: true
+    - id: 21
+      name: special_talents
+      label: Special Talents or Abilities
+      hint: What makes you unique
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: why_do_you_want_to_work
+      label: Why Do You Want to Work at This Camp
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: strength_as_staff
+      label: What Is Your Greatest Strength as a Staff Member
+      hint: Describe your strength
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: challenge_handling
+      label: How Would You Handle a Challenging Camper
+      hint: Describe your approach
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: references_available
+      label: Can You Provide Professional References
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - 3 references
+      - Yes - 2 references
+      - Yes - 1 reference
+      - false
+      required: true
+    - id: 26
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 29
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do they know you
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: background_check_consent
+      label: I Consent to a Background Check
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 31
+      name: drug_test_consent
+      label: I Consent to a Drug Test if Required
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: false
+    - id: 32
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: Yes or no
+      type: select_one
+      options:
+      - No - I have my own
+      - Yes - need information
+      - Yes - need ride share
+      required: false
+    - id: 33
+      name: housing_needed
+      label: Do You Need Staff Housing
+      hint: Yes or no
+      type: select_one
+      options:
+      - No - local resident
+      - Yes - need housing
+      required: true
+    - id: 34
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Other
+      required: true
+    - id: 35
+      name: how_heard_about_position
+      label: How Did You Hear About This Position
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Camp website
+      - Job board
+      - Social media
+      - Friend or family
+      - Previous staff member
+      - School or university
+      - Other
+      required: false
+    - id: 36
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_date
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

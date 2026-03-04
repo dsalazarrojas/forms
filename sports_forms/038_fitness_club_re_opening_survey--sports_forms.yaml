@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Club Re Opening Survey
+    pages:
+    - id: 1
+      name: fitness_club_re_opening_survey
+      label: Fitness Club Re Opening Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Sports Forms''}'
+      - '{''option'': ''Fitness''}'
+      - '{''option'': ''Health''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: embedded_url
+      label: embedded_url
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email_addresses
+      label: email_addresses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: send_email
+      label: send_email
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 8
+      name: embedded_on_website
+      label: embedded_on_website
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false

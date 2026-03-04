@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Membership Survey
+    pages:
+      - id: 1
+        name: member_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: member_email
+        label: Email Address
+        hint: For follow-up communication if needed
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: member_id
+        label: Member ID Number
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: membership_level
+        label: Membership Level
+        hint: null
+        type: select_one
+        options:
+          - "Student"
+          - "Individual"
+          - "Professional"
+          - "Corporate"
+          - "Lifetime"
+          - "Other"
+        required: true
+      - id: 5
+        name: years_member
+        label: How long have you been a member
+        hint: null
+        type: select_one
+        options:
+          - "Less than 1 year"
+          - "1-2 years"
+          - "2-5 years"
+          - "5-10 years"
+          - "More than 10 years"
+        required: true
+      - id: 6
+        name: primary_reasons
+        label: Primary reasons for membership
+        hint: null
+        type: select_multiple
+        options:
+          - "Networking opportunities"
+          - "Access to resources"
+          - "Professional development"
+          - "Community support"
+          - "Publications and materials"
+          - "Discounts and benefits"
+          - "Industry involvement"
+          - "Other"
+        required: true
+      - id: 7
+        name: value_for_money
+        label: Membership provides good value for money
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 8
+        name: benefits_utilization
+        label: I actively use the member benefits
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 9
+        name: most_valued_benefit
+        label: Most valued membership benefit
+        hint: What do you use most
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: least_valued_benefit
+        label: Least valued or unused benefits
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: communication_quality
+        label: Quality of member communications
+        hint: Newsletter, updates, announcements
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Very poor"
+        required: true
+      - id: 12
+        name: event_participation
+        label: Participation in member events
+        hint: How often do you attend events
+        type: select_one
+        options:
+          - "Regularly"
+          - "Occasionally"
+          - "Rarely"
+          - "Never"
+        required: true
+      - id: 13
+        name: event_quality
+        label: Quality of events offered
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Not applicable"
+        required: false
+      - id: 14
+        name: website_usefulness
+        label: Usefulness of member website or portal
+        hint: null
+        type: select_one
+        options:
+          - "Very useful"
+          - "Useful"
+          - "Somewhat useful"
+          - "Not useful"
+          - "Have not used"
+        required: true
+      - id: 15
+        name: community_feeling
+        label: I feel part of this community
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 16
+        name: support_quality
+        label: Quality of member support and service
+        hint: Help when you have questions
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+          - "Have not needed support"
+        required: true
+      - id: 17
+        name: satisfaction_overall
+        label: Overall satisfaction with membership
+        hint: null
+        type: select_one
+        options:
+          - "Very satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+          - "Very dissatisfied"
+        required: true
+      - id: 18
+        name: renewal_likelihood
+        label: Likelihood to renew membership
+        hint: null
+        type: select_one
+        options:
+          - "Very likely"
+          - "Likely"
+          - "Undecided"
+          - "Unlikely"
+          - "Very unlikely"
+        required: true
+      - id: 19
+        name: improvements_needed
+        label: What improvements would you suggest
+        hint: Areas for enhancing membership
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: new_benefits_suggestions
+        label: New benefits you would like to see
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: recommend_others
+        label: Would you recommend membership to others
+        hint: null
+        type: select_one
+        options:
+          - "Definitely"
+          - "Probably"
+          - "Unsure"
+          - "Probably not"
+          - "Definitely not"
+        required: true

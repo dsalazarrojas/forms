@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: league_team_scheduling_preferences_survey
+    pages:
+    - id: 1
+      name: team_availability
+      label: Team Availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_days
+      label: Preferred Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: blackout_dates
+      label: Blackout Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 1/1/2024
+      - 1/15/2024
+      required: false
+    - id: 6
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 1/2/2024
+      - 1/8/2024
+      required: false
+    - id: 7
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 8
+      name: available_start_time
+      label: Available Start Time
+      hint: null
+      type: select_multiple
+      options:
+      - 10:00 am
+      - Other
+      required: false
+    - id: 9
+      name: available_end_time
+      label: Available End Time
+      hint: null
+      type: select_multiple
+      options:
+      - 11:00 pm
+      - Other
+      required: false
+    - id: 10
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - 10:00 am
+      - 12:00 pm
+      - 2:00 pm
+      required: false
+    - id: 11
+      name: conflict_avoidance
+      label: Conflict Avoidance
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Some of the time
+      - Often
+      required: false
+    - id: 12
+      name: conflict_avoidance_reason
+      label: Conflict Avoidance Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: conflict_avoidance_preferred_days
+      label: Conflict Avoidance Preferred Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 14
+      name: conflict_avoidance_preferred_time
+      label: Conflict Avoidance Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - 10:00 am
+      - 12:00 pm
+      required: false
+    - id: 15
+      name: conflict_avoidance_preferred_slot
+      label: Conflict Avoidance Preferred Slot
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      required: false
+    - id: 16
+      name: conflict_avoidance_blackout
+      label: Conflict Avoidance Blackout
+      hint: null
+      type: select_multiple
+      options:
+      - 1/1/2024
+      - 1/15/2024
+      required: false
+    - id: 17
+      name: conflict_avoidance_blackout_start
+      label: Conflict Avoidance Blackout Start
+      hint: null
+      type: select_multiple
+      options:
+      - 1/1/2024
+      - Other
+      required: false
+    - id: 18
+      name: conflict_avoidance_blackout_end
+      label: Conflict Avoidance Blackout End
+      hint: null
+      type: select_multiple
+      options:
+      - 1/15/2024
+      - Other
+      required: false
+    - id: 19
+      name: conflict_avoidance_blackout_dates
+      label: Conflict Avoidance Blackout Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: blackout_start_time
+      label: Blackout Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: blackout_end_time
+      label: Blackout End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: blackout_duration
+      label: Blackout Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: blackout_frequency
+      label: Blackout Frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 24
+      name: blackout_type
+      label: Blackout Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Variable
+      required: false
+    - id: 25
+      name: blackout_notes
+      label: Blackout Notes
+      hint: null
+      type: text
+      options: []
+      required: false

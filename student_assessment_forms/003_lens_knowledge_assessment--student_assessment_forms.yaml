@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lens Knowledge Assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: confidence_level
+      label: confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: applications
+      label: Real-Life Applications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: optical_lenses
+      label: Optical Lenses
+      hint: null
+      type: text
+      options: []
+      required: false

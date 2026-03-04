@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cinema Concession Requisition Form
+    pages:
+    - id: 1
+      name: section_header_location_info
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cinema_location
+      label: Cinema Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown theater
+      - Mall location
+      - Suburban complex
+      - Downtown IMAX
+      - Other location
+      required: true
+    - id: 3
+      name: location_code
+      label: Location Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_request_info
+      label: -- Requisition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: requested_by
+      label: Requested By (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_title
+      label: Position Title
+      hint: Concession Manager, Assistant Manager, etc
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: required_by_date
+      label: Required by Date
+      hint: When do you need these supplies
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_popcorn
+      label: -- Popcorn and Kernels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: popcorn_kernels_quantity
+      label: Popcorn Kernels (pounds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: popcorn_oil_quantity
+      label: Popcorn Oil (gallons)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: butter_topping_quantity
+      label: Butter Topping (gallons)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: popcorn_bags_quantity
+      label: Popcorn Bags or Containers (units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_header_beverages
+      label: -- Beverages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: soda_syrup_quantity
+      label: Soda Syrup (units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: soda_cups_quantity
+      label: Soda Cups - Various Sizes (units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: water_bottles_quantity
+      label: Bottled Water (cases)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: juice_quantity
+      label: Juice or Other Beverages (units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_header_candy_snacks
+      label: -- Candy and Snacks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: candy_boxes_quantity
+      label: Candy Boxes (select types)
+      hint: Specify quantities of each candy type
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: nachos_quantity
+      label: Nachos (units or cases)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: hot_dogs_quantity
+      label: Hot Dogs or Sausages (units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: pretzel_quantity
+      label: Pretzels (units or cases)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: section_header_supplies
+      label: -- Supplies and Packaging --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: napkins_quantity
+      label: Napkins (cases)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: straws_quantity
+      label: Straws (boxes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: condiments_quantity
+      label: Condiments - Ketchup, Mustard, etc (units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: cleaning_supplies_quantity
+      label: Cleaning Supplies (specify items)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_header_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: special_items
+      label: Special or Limited-Time Items
+      hint: Seasonal or promotional concession items
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: delivery_notes
+      label: Delivery or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

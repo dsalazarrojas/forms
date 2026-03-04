@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Path Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: Respondent Information
+      hint: Please provide your basic information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send results to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_occupation
+      label: Current Occupation or Student Status
+      hint: Describe your current role or field of study
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: career_goals
+      label: What are your primary career goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Career advancement in current field
+      - Career change to new industry
+      - Start own business
+      - Professional certification
+      - Higher education degree
+      - Skill development
+      - Work-life balance improvement
+      required: true
+    - id: 7
+      name: education_level
+      label: Highest Education Level Completed
+      hint: Select your highest completed education
+      type: select_one
+      options:
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Professional Certification
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Work Experience
+      hint: Total years in workforce
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: industry_interest
+      label: Which industry interests you most
+      hint: Select your primary interest
+      type: select_one
+      options:
+      - Technology and IT
+      - Healthcare and Medical
+      - Business and Finance
+      - Education and Training
+      - Creative and Arts
+      - Engineering and Manufacturing
+      - Sales and Marketing
+      - Public Service
+      - Other
+      required: true
+    - id: 10
+      name: skills_assessment
+      label: Rate your proficiency in these skill areas
+      hint: Be honest about your current abilities
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_skills
+      label: Communication Skills
+      hint: Written and verbal communication
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 12
+      name: technical_skills
+      label: Technical Skills
+      hint: Computer and technology proficiency
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: leadership_skills
+      label: Leadership Skills
+      hint: Managing teams and projects
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: career_challenges
+      label: What challenges are you facing in your career
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of clear direction
+      - Limited job opportunities
+      - Insufficient qualifications
+      - Work-life balance issues
+      - Low compensation
+      - Lack of mentorship
+      - Fear of change
+      - Geographic limitations
+      required: false
+    - id: 15
+      name: preferred_work_environment
+      label: Preferred Work Environment
+      hint: Where do you see yourself working
+      type: select_one
+      options:
+      - Corporate office
+      - Remote from home
+      - Hybrid remote and office
+      - Small business
+      - Startup company
+      - Government agency
+      - Nonprofit organization
+      - Self-employed
+      required: true
+    - id: 16
+      name: salary_expectations
+      label: Expected Annual Salary Range
+      hint: Your target compensation
+      type: select_one
+      options:
+      - Under 30000
+      - 30000 to 50000
+      - 50000 to 75000
+      - 75000 to 100000
+      - 100000 to 150000
+      - Over 150000
+      required: false
+    - id: 17
+      name: timeline
+      label: When do you want to achieve your career goals
+      hint: Expected timeframe
+      type: select_one
+      options:
+      - Within 6 months
+      - 6 to 12 months
+      - 1 to 2 years
+      - 2 to 5 years
+      - 5 plus years
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

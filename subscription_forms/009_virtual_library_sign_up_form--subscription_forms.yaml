@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Library Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: zip code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: book_genres
+      label: book genres
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Adventure
+      - Science
+      - Fantasy
+      - Romance
+      required: false
+    - id: 10
+      name: reading_speed
+      label: reading speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reading_frequency
+      label: reading frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 12
+      name: reading_format
+      label: reading format
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - E-book
+      - Audiobook
+      - Digital
+      - Print
+      required: true

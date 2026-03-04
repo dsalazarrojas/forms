@@ -1,0 +1,270 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Tree Preference Survey
+    pages:
+      - id: 1
+        name: resident_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: resident_email
+        label: Email Address
+        hint: For follow-up questions
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: neighborhood
+        label: Your Neighborhood
+        hint: Where do you live?
+        type: select_one
+        options:
+          - Downtown
+          - Northside
+          - Southside
+          - Eastside
+          - Westside
+          - Central District
+          - Suburbs
+          - Rural Area
+          - Other
+        required: true
+      - id: 4
+        name: street_location
+        label: Street or Area for Suggestion
+        hint: Specific location for tree planting
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: current_tree_coverage
+        label: How would you describe tree coverage in your area?
+        hint: Current state
+        type: select_one
+        options:
+          - No trees at all
+          - Very few trees
+          - Some trees
+          - Good coverage
+          - Excellent coverage
+        required: true
+      - id: 6
+        name: tree_planting_interest
+        label: Are you interested in having more trees planted in your area?
+        hint: Community interest
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, somewhat
+          - Neutral
+          - No, not really
+          - No, we have enough trees
+        required: true
+      - id: 7
+        name: preferred_tree_types
+        label: What types of trees would you prefer?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Oak
+          - Maple
+          - Pine
+          - Birch
+          - Willow
+          - Cherry Blossom
+          - Dogwood
+          - Magnolia
+          - Redwood
+          - Fruit Trees
+          - Native Species
+          - Drought-Resistant
+          - No preference
+        required: true
+      - id: 8
+        name: tree_size_preference
+        label: What size trees would you prefer?
+        hint: At planting time
+        type: select_one
+        options:
+          - Small saplings (faster growing)
+          - Medium trees (established)
+          - Large trees (immediate impact)
+          - No preference
+        required: false
+      - id: 9
+        name: planting_location_preference
+        label: Where should trees be planted?
+        hint: Select preferred locations
+        type: select_multiple
+        options:
+          - Street medians
+          - Sidewalks
+          - Parks
+          - School grounds
+          - Public buildings
+          - Parking lots
+          - Residential areas
+          - Commercial areas
+          - Along trails
+          - Near water bodies
+        required: true
+      - id: 10
+        name: primary_benefit
+        label: What is the most important benefit of trees to you?
+        hint: Primary reason
+        type: select_one
+        options:
+          - Shade and cooling
+          - Air quality improvement
+          - Aesthetic beauty
+          - Property value increase
+          - Wildlife habitat
+          - Noise reduction
+          - Stormwater management
+          - Carbon sequestration
+        required: true
+      - id: 11
+        name: secondary_benefits
+        label: Other important benefits
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Shade and cooling
+          - Air quality improvement
+          - Aesthetic beauty
+          - Property value increase
+          - Wildlife habitat
+          - Noise reduction
+          - Stormwater management
+          - Carbon sequestration
+        required: false
+      - id: 12
+        name: maintenance_concern
+        label: Do you have any concerns about tree maintenance?
+        hint: Leaf cleanup, roots, etc.
+        type: select_one
+        options:
+          - Yes, leaf litter
+          - Yes, root damage
+          - Yes, branch dropping
+          - Yes, pollen/allergies
+          - Yes, all of the above
+          - No concerns
+        required: false
+      - id: 13
+        name: maintenance_details
+        label: Please describe your maintenance concerns
+        hint: Specific issues
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: volunteer_interest
+        label: Would you be interested in volunteering for tree planting?
+        hint: Community involvement
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe, depending on schedule
+          - No, not interested
+        required: true
+      - id: 15
+        name: volunteer_capacity
+        label: If yes, how could you help?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Planting trees
+          - Watering trees
+          - Mulching
+          - Pruning
+          - Community outreach
+          - Fundraising
+          - Event coordination
+          - Not applicable
+        required: false
+      - id: 16
+        name: funding_priority
+        label: How important is tree planting compared to other community needs?
+        hint: Priority level
+        type: select_one
+        options:
+          - Top priority
+          - High priority
+          - Medium priority
+          - Low priority
+          - Not a priority
+        required: true
+      - id: 17
+        name: willing_to_contribute
+        label: Would you be willing to contribute financially to tree planting?
+        hint: Community investment
+        type: select_one
+        options:
+          - Yes, I would donate
+          - Yes, I would sponsor a tree
+          - Maybe, depending on cost
+          - No, I cannot contribute financially
+        required: false
+      - id: 18
+        name: sponsorship_amount
+        label: If yes, what amount would you consider?
+        hint: Per tree or donation
+        type: select_one
+        options:
+          - $10-$25
+          - $26-$50
+          - $51-$100
+          - $101-$250
+          - Over $250
+        required: false
+      - id: 19
+        name: tree_care_knowledge
+        label: How knowledgeable are you about tree care?
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Somewhat knowledgeable
+          - Not very knowledgeable
+          - No knowledge at all
+        required: false
+      - id: 20
+        name: education_interest
+        label: Would you be interested in tree care workshops?
+        hint: Educational opportunities
+        type: select_one
+        options:
+          - Yes, very interested
+          - Maybe, depending on topic
+          - No, not interested
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Any additional comments or suggestions?
+        hint: Your thoughts
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: survey_date
+        label: Survey Completion Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bread Subscription Preferences
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Subscriber Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_email
+      label: Email Address
+      hint: For subscription communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_phone
+      label: Phone Number
+      hint: Contact number for delivery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Choose your subscription tier
+      type: select_one
+      options:
+      - Basic - 2 Loaves Per Week
+      - Standard - 4 Loaves Per Week
+      - Premium - 6 Loaves Per Week
+      - Family - 8 Loaves Per Week
+      - Custom Plan
+      required: true
+    - id: 5
+      name: bread_preferences
+      label: Bread Preferences
+      hint: Select your favorite bread types
+      type: select_multiple
+      options:
+      - Sourdough
+      - Whole Wheat
+      - White Bread
+      - Rye
+      - Multigrain
+      - Baguette
+      - Ciabatta
+      - Focaccia
+      - Brioche
+      - Challah
+      required: true
+    - id: 6
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often should we deliver
+      type: select_one
+      options:
+      - Twice Per Week
+      - Once Per Week
+      - Every Other Week
+      - Monthly
+      required: true
+    - id: 7
+      name: delivery_day
+      label: Preferred Delivery Day
+      hint: Which day works best
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: true
+    - id: 8
+      name: delivery_time_window
+      label: Delivery Time Window
+      hint: Preferred time for delivery
+      type: select_one
+      options:
+      - Morning 7 AM to 10 AM
+      - Mid-Morning 10 AM to 12 PM
+      - Afternoon 12 PM to 3 PM
+      - Evening 3 PM to 6 PM
+      required: true
+    - id: 9
+      name: delivery_address_line1
+      label: Delivery Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_address_line2
+      label: Delivery Address Line 2
+      hint: Apartment, suite, unit
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_zip
+      label: ZIP Code
+      hint: ZIP or Postal Code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Any special instructions for delivery
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: slice_preference
+      label: Slice Preference
+      hint: How do you want your bread sliced
+      type: select_one
+      options:
+      - Unsliced
+      - Thin Sliced
+      - Medium Sliced
+      - Thick Sliced
+      - Half Loaves
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Gluten Sensitivity
+      - Celiac Disease
+      - Dairy-Free
+      - Vegan
+      - Nut Allergy
+      required: true
+    - id: 16
+      name: add_ons
+      label: Add-On Items
+      hint: Would you like to add any extras
+      type: select_multiple
+      options:
+      - Butter
+      - Jam or Preserves
+      - Honey
+      - Olive Oil
+      - Bread Sticks
+      - Rolls
+      - None
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 18
+      name: subscription_start
+      label: Subscription Start Date
+      hint: When should your subscription begin
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: vacation_hold
+      label: Vacation Hold Preferences
+      hint: How should we handle vacations
+      type: select_one
+      options:
+      - Skip with Notice
+      - Continue Delivery
+      - Donate to Charity
+      required: true
+    - id: 20
+      name: terms_accepted
+      label: Subscription Terms
+      hint: Do you accept our subscription terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

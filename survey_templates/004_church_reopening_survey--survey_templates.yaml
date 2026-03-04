@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Reopening Survey
+    pages:
+    - id: 1
+      name: reopening_welcome
+      label: -- Church Reopening Feedback Survey --
+      hint: Your safety and comfort are our priority
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_status
+      label: Are you a regular member or a guest?
+      hint: null
+      type: select_one
+      options:
+      - Regular Member
+      - Regular Attendee (non-member)
+      - Occasional Visitor
+      - New to the church
+      required: true
+    - id: 3
+      name: comfort_level_returning
+      label: How comfortable do you feel returning to in-person services?
+      hint: 1 = Very Uncomfortable, 5 = Very Comfortable
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: attendance_timeline
+      label: When do you plan to return to in-person services?
+      hint: null
+      type: select_one
+      options:
+      - Immediately upon reopening
+      - Within a few weeks
+      - After several months
+      - Not until a vaccine/treatment is widely available
+      required: true
+    - id: 5
+      name: safety_priorities
+      label: What safety measures are most important to you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Socially distanced seating
+      - Mandatory masks
+      - Hand sanitizing stations
+      - Limited capacity
+      - Professional cleaning between services
+      - No congregational singing
+      required: false
+    - id: 6
+      name: online_service_preference
+      label: Will you continue to watch online even if you attend in person?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - false
+      required: false
+    - id: 7
+      name: children_ministry_concern
+      label: Would you feel comfortable sending your children to kids' ministry?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 8
+      name: preferred_service_time
+      label: Preferred service time (if multiple are offered)
+      hint: null
+      type: select_one
+      options:
+      - 8-30 AM
+      - 10-00 AM
+      - 11-30 AM
+      - Evening Service
+      required: false
+    - id: 9
+      name: volunteer_willingness
+      label: Are you willing to volunteer to help with cleaning or ushering?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: health_screening_opinion
+      label: Do you support health screenings (e.g., temperature checks) at the door?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: false
+    - id: 11
+      name: specific_concerns
+      label: Do you have any specific health concerns we should be aware of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_suggestions
+      label: Other suggestions for a safe reopening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_for_updates
+      label: Email address for reopening updates
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: survey_completion_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

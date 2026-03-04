@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_participation_consent_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_purpose
+      label: Survey Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_usage
+      label: Data Usage
+      hint: We will use this data for the purpose of survey analysis.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_rights
+      label: Participant Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_collected
+      label: Data Collected
+      hint: 'We will collect the following types of data:'
+      type: select_multiple
+      options:
+      - Contact Information
+      - Location
+      - Survey Responses
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Please enter an email address where we may contact you.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: survey_conducter
+      label: Survey Conducter
+      hint: null
+      type: select_one
+      options:
+      - ChatJImmy
+      - Another Person
+      required: false
+    - id: 12
+      name: prophets_studied
+      label: Prophets Studied
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_survey
+      label: Participant Survey prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: participant_survey_date
+      label: Participant Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: participant_survey_time
+      label: Participant Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: participant_survey_start_time
+      label: Participant Survey Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: participant_survey_end_time
+      label: Participant Survey End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: participant_survey_duration
+      label: Participant Survey Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: participant_survey_frequency
+      label: Participant Survey Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: participant_survey_timezone
+      label: Participant Survey Timezone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: participant_survey_timezone_label
+      label: Participant Survey Timezone Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_survey_timezone_offset
+      label: Participant Survey Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: participant_survey_timezone_dst
+      label: Participant Survey Timezone DST
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_survey_timezone_name
+      label: Participant Survey Timezone Name
+      hint: null
+      type: text
+      options: []
+      required: false

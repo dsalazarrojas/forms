@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Camp Registration Form
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Parent Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergy_info
+      label: Allergy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_authorization
+      label: Medical Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_consent
+      label: Player Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coach_consent
+      label: Coach Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: camp_info
+      label: Camp Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registration_info
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - American Express
+      required: false
+    - id: 15
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: player_status
+      label: Player Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 18
+      name: coach_status
+      label: Coach Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 19
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Pending
+      - Cancelled
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false

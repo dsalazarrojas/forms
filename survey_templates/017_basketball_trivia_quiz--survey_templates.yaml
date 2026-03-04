@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Trivia Quiz
+    pages:
+    - id: 1
+      name: quiz_intro
+      label: -- Ultimate Basketball Trivia --
+      hint: Test your knowledge of the game!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: q1_inventor
+      label: Who is credited with inventing the game of basketball?
+      hint: null
+      type: select_one
+      options:
+      - James Naismith
+      - Abner Doubleday
+      - Walter Camp
+      - Michael Jordan
+      required: true
+    - id: 4
+      name: q2_hoop_height
+      label: What is the standard height of a basketball hoop in feet?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: q3_players_on_court
+      label: How many players from one team are on the court at a time?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: q4_shot_clock
+      label: What is the length of the shot clock in the NBA (in seconds)?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: q5_highest_score
+      label: Which player holds the record for most points in a single NBA game (100
+        pts)?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: q6_championships
+      label: Which team has won the most NBA Championships?
+      hint: null
+      type: select_one
+      options:
+      - Boston Celtics
+      - Los Angeles Lakers
+      - Chicago Bulls
+      - Golden State Warriors
+      required: true
+    - id: 9
+      name: q7_positions
+      label: Select all valid standard basketball positions.
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      - Quarterback
+      required: true
+    - id: 10
+      name: q8_foul_limit
+      label: How many personal fouls lead to a player being disqualified in the NBA?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: completion_feedback
+      label: How would you rate the difficulty of this quiz?
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Just Right
+      - Challenging
+      - Expert Level
+      required: false
+    - id: 12
+      name: submission_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true

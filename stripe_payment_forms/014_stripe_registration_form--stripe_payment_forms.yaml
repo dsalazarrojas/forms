@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Registration Form
+    pages:
+    - id: 1
+      name: user_id
+      label: user id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: division
+      label: division
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: enter your address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 11
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 12
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_time
+      label: payment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: division_id
+      label: division id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: division_label
+      label: division label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: division_name
+      label: division name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: player_name
+      label: player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: player_id
+      label: player id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: player_label
+      label: player label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: player_name
+      label: player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: team_id
+      label: team id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: team_label
+      label: team label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: team_name
+      label: team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: league_id
+      label: league id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: league_label
+      label: league label
+      hint: null
+      type: text
+      options: []
+      required: true

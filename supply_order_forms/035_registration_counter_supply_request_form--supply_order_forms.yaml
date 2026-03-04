@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Counter Supply Request Form
+    pages:
+    - id: 1
+      name: registration_counter_id
+      label: registration_counter_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supply_requested
+      label: supply_requested
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voluntary Resignation Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_day_of_work
+      label: Date of Last Day of Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: Please provide a short statement of your reason for leaving.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Administration''}'
+      - '{''id'': 2, ''name'': ''Finance''}'
+      - '{''id'': 3, ''name'': ''HR''}'
+      required: false
+    - id: 6
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: date
+      options: []
+      required: false

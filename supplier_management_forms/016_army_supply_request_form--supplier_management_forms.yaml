@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Supply Request Form
+    pages:
+    - id: 1
+      name: section_requestor
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_rank
+      label: Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_unit
+      label: Unit or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_contact
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_supply
+      label: -- Supply Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_name
+      label: Item Name or Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - Equipment and gear
+      - Ammunition and weapons
+      - Vehicle parts
+      - Medical supplies
+      - Office supplies
+      - Maintenance materials
+      - Other
+      required: true
+    - id: 10
+      name: item_specifications
+      label: Item Specifications or Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: Each, case, pallet, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Priority
+      - Urgent
+      required: true
+    - id: 14
+      name: date_needed
+      label: Date Needed By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_justification
+      label: -- Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: purpose
+      label: Purpose or Justification
+      hint: Why is this item needed
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: operational_impact
+      label: Operational Impact if Not Fulfilled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_budget
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Per unit cost
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_cost
+      label: Total Estimated Cost
+      hint: Quantity x unit cost
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: budget_account
+      label: Budget Account or Fund Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending approval
+      - Not approved
+      required: true
+    - id: 25
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true

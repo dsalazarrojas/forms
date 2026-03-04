@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Store Stock Requisition Form
+    pages:
+    - id: 1
+      name: requisition_info_header
+      label: -- Requisition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requisition_date
+      label: Date of Requisition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: store_location
+      label: Store Location or Branch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requesting_manager
+      label: Requesting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly are these items needed?
+      type: select_one
+      options:
+      - Routine - Within 5-7 days
+      - Priority - Within 2-3 days
+      - Urgent - Within 24 hours
+      required: true
+    - id: 6
+      name: items_requested_header
+      label: -- Items Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_1_type
+      label: Item 1 - Appliance Category
+      hint: null
+      type: select_one
+      options:
+      - Refrigerators
+      - Washing Machines
+      - Dryers
+      - Dishwashers
+      - Microwaves
+      - Ovens
+      - Small Appliances
+      required: true
+    - id: 8
+      name: item_1_model
+      label: Item 1 - Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_1_quantity
+      label: Item 1 - Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: item_2_model
+      label: Item 2 - Model Number (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: item_2_quantity
+      label: Item 2 - Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_stock_notes
+      label: Additional Inventory Notes
+      hint: Describe any specific needs or variations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: warehouse_approval_header
+      label: -- Warehouse Approval Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: approval_status
+      label: Approval Status
+      hint: To be filled by warehouse manager
+      type: select_one
+      options:
+      - Approved
+      - Partially Approved
+      - Denied
+      - Pending Stock Arrival
+      required: false
+    - id: 15
+      name: approximate_delivery_date
+      label: Approximate Delivery Date
+      hint: Expected date of arrival at store
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: warehouse_comments
+      label: Warehouse Comments
+      hint: null
+      type: text
+      options: []
+      required: false

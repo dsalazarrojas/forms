@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Camp Registration Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grade
+      label: Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_first_name
+      label: Parent/Guardian first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_last_name
+      label: Parent/Guardian last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Camp Session --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: camp_session_select
+      label: Camp session
+      hint: null
+      type: select_one
+      options:
+      - Morning Session
+      - Afternoon Session
+      - Full Day
+      - Multi-Week
+      required: true
+    - id: 13
+      name: camp_start_date
+      label: Camp start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Skill Level and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: skill_level
+      label: Skill level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 16
+      name: previous_camp
+      label: Attended basketball camp before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: health_conditions
+      label: Any health conditions or injuries?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medication_needed
+      label: Any medication needed during camp?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: waiver_agreement
+      label: I agree to the camp waiver and liability release
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: registration_confirm
+      label: I confirm this information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Book Order Form
+    pages:
+    - id: 1
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_author
+      label: book_author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: book_price
+      label: Book Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false

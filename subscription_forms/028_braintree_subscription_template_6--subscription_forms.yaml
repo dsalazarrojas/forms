@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree Subscription Template 6
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For account and billing
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_plan
+      label: -- Subscription Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: plan_selection
+      label: Select Subscription Plan
+      hint: Choose your plan tier
+      type: select_one
+      options:
+      - Basic Plan
+      - Standard Plan
+      - Premium Plan
+      - Professional Plan
+      - Enterprise Plan
+      required: true
+    - id: 8
+      name: plan_description
+      label: Plan Description
+      hint: What is included in plan
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_frequency
+      label: Billing Frequency
+      hint: How often you are billed
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annual
+      - Custom
+      required: true
+    - id: 10
+      name: monthly_cost
+      label: Monthly Cost
+      hint: Price per month
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_features
+      label: -- Plan Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: features_included
+      label: Features Included
+      hint: Select plan features
+      type: select_multiple
+      options:
+      - Basic support
+      - Priority support
+      - API access
+      - Custom reports
+      - Advanced analytics
+      - Team collaboration
+      - Unlimited storage
+      - Mobile app
+      required: false
+    - id: 13
+      name: user_limit
+      label: Number of Users
+      hint: Allowed users on plan
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_header_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state_zip
+      label: State and ZIP Code
+      hint: State and postal code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_terms
+      label: -- Subscription Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: auto_renewal
+      label: Auto Renewal
+      hint: Automatically renew subscription
+      type: select_one
+      options:
+      - Yes, enable auto-renewal
+      - No, ask to renew
+      - Manual renewal only
+      required: true
+    - id: 20
+      name: cancellation_notice
+      label: Cancel Anytime
+      hint: You can cancel your subscription
+      type: select_one
+      options:
+      - I understand
+      - Need more information
+      required: true
+    - id: 21
+      name: subscription_consent
+      label: I agree to subscription terms
+      hint: Check to start subscription
+      type: select_one
+      options:
+      - Agreed and proceed
+      - Cancel
+      required: true

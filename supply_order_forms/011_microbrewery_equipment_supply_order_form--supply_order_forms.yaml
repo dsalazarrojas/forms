@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microbrewery Equipment Supply Order Form
+    pages:
+    - id: 1
+      name: equipment_needed
+      label: Equipment Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_terms
+      label: delivery_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: supplier_info
+      label: supplier_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_terms
+      label: order_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

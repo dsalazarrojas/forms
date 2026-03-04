@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Assessment Research Application Form
+    pages:
+    - id: 1
+      name: research_project
+      label: Research Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_information
+      label: background information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: research_background
+      label: Research Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false

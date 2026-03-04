@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Season Ticket Registration
+    pages:
+    - id: 1
+      name: season_ticket_order
+      label: Season Ticket Order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: season_tickets
+      label: Season Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: game_dates
+      label: Game Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: game_times
+      label: Game Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: season_ticket_prices
+      label: Season Ticket Prices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Application Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bio
+      label: Why are you applying for this house
+      hint: This will be used to get a better picture of who you are
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability
+      label: When are you available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: move_out_date
+      label: Move-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: roommates
+      label: Roommates
+      hint: Select all roommates that you will be living with
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: room_type
+      label: Room type
+      hint: How do you want to be listed
+      type: select_one
+      options:
+      - Private
+      - Shared
+      required: true
+    - id: 11
+      name: room_size
+      label: Room size
+      hint: What is the number of roommates you will be living with
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 12
+      name: smoking
+      label: Smoking
+      hint: Do you smoke
+      type: select_one
+      options:
+      - No smoking allowed
+      - 'True'
+      required: true
+    - id: 13
+      name: pet
+      label: Pets
+      hint: Do you have pets
+      type: select_one
+      options:
+      - No pets allowed
+      - 'True'
+      required: true

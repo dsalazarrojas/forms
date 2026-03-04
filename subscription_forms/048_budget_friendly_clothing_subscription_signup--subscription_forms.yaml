@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Friendly Clothing Subscription Signup
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Subscriber name
+      hint: Full name for the subscription
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email for subscription communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: clothing_size
+      label: Clothing size
+      hint: Primary size to receive
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      required: true
+    - id: 4
+      name: style_preferences
+      label: Style preferences
+      hint: Preferred clothing styles or colors
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Delivery frequency
+      hint: How often to receive items
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Seasonal
+      required: true
+    - id: 6
+      name: budget_per_box
+      label: Budget per box
+      hint: Target spend per delivery
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping address
+      hint: Where subscription boxes should be sent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Preferred billing method
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true

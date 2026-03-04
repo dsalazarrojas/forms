@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Questionnaire Recruitment Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_school
+      label: Current School
+      hint: High school or college name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grade_graduation_year
+      label: Grade or Graduation Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city_state
+      label: City, State
+      hint: Where you currently reside
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: athletic_background
+      label: -- Athletic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sport_interested
+      label: Sport Interested In
+      hint: What sport(s) are you interested in?
+      type: select_multiple
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Soccer
+      - Volleyball
+      - Track and Field
+      - Swimming
+      - Tennis
+      - Golf
+      - Cross Country
+      - Rowing
+      - Other
+      required: true
+    - id: 12
+      name: position_played
+      label: Position/Event Played
+      hint: Your primary position or event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: club_team
+      label: Current Club or Travel Team
+      hint: Team you currently play for
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: jersey_number
+      label: Jersey Number
+      hint: Your current number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_playing
+      label: Years Playing This Sport
+      hint: How long have you been playing?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: skill_level_assessment
+      label: Self-Assessed Skill Level
+      hint: Rate your current playing ability
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      - Competitive
+      required: true
+    - id: 17
+      name: athletic_achievements
+      label: Athletic Achievements
+      hint: List any awards, honors, or accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physical_stats
+      label: -- Physical Statistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: height
+      label: Height
+      hint: Your height in inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: weight
+      label: Weight
+      hint: Your weight in pounds or kg
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: gpa
+      label: Current GPA
+      hint: Your current academic grade point average
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: motivation_interest
+      label: -- Motivation and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: recruitment_question
+      label: Why are you interested in our program?
+      hint: Tell us about your interest in joining
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: preferred_location
+      label: Preferred College Location
+      hint: Geographic preferences if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

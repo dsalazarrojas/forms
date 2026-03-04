@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_survey
+    pages:
+    - id: 1
+      name: home_fitness_equipment
+      label: Home Fitness Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gym_membership
+      label: Gym Membership
+      hint: null
+      type: select_one
+      options:
+      - Gym Membership
+      - Membership
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Par Q Form
+    pages:
+    - id: 1
+      name: physical_readiness
+      label: Has trouble taking deep breath
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Do you have a medical condition
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 3
+      name: recent_injury
+      label: Have you recently had an injury
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: recent_surgery
+      label: Have you recently had surgery
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: blood_pressure
+      label: Blood pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resting_heart_rate
+      label: Resting heart rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Do you have any medical history
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 11
+      name: medical_history_details
+      label: Medical history details
+      hint: null
+      type: text
+      options: []
+      required: false

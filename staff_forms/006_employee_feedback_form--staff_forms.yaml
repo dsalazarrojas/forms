@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback Form
+    pages:
+    - id: 1
+      name: form_1
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: employee_department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 4
+      name: comment
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: submit_button
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Transfer Coordination Request
+    pages:
+    - id: 1
+      name: stock_transfer_request
+      label: Stock Transfer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stock_transfer_date
+      label: Stock Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stock_transfer_location_from
+      label: Stock Transfer Location From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stock_transfer_location_to
+      label: Stock Transfer Location To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stock_item_transfer_id
+      label: Stock Item Transfer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stock_transfer_quantity
+      label: Stock Transfer Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stock_transfer_status
+      label: Stock Transfer Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 8
+      name: stock_transfer_notes
+      label: Stock Transfer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: stock_transfer_requester
+      label: Stock Transfer Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stock_transfer_requester_email
+      label: Stock Transfer Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: stock_transfer_requester_phone
+      label: Stock Transfer Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stock_transfer_warehouse_teams
+      label: Stock Transfer Warehouse Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stock_transfer_warehouse_teams_email
+      label: Stock Transfer Warehouse Teams Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: stock_transfer_warehouse_teams_phone
+      label: Stock Transfer Warehouse Teams Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stock_transfer_warehouse
+      label: Stock Transfer Warehouse
+      hint: null
+      type: text
+      options: []
+      required: false

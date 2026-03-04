@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Unit Assessment Form
+    pages:
+    - id: 1
+      name: unit_info_header
+      label: -- Unit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: unit_id
+      label: Unit ID
+      hint: Building or structure identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: unit_type
+      label: Unit Type
+      hint: Function of the structure
+      type: select_one
+      options:
+      - Livestock Housing
+      - Grain Storage
+      - Machinery Shed
+      - Processing Facility
+      - Chemical Storage
+      - Workshop
+      required: true
+    - id: 6
+      name: condition_header
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: structural_condition
+      label: Structural Condition
+      hint: Roof, walls, foundation
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 8
+      name: electrical_check
+      label: Electrical System Check
+      hint: Wiring, lights, panels
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 9
+      name: water_system
+      label: Water System Check
+      hint: Pipes, pumps, troughs
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 10
+      name: pest_control
+      label: Pest Control Status
+      hint: Is pest management current?
+      type: select_one
+      options:
+      - Current
+      - Overdue
+      - Evidence of Pests Found
+      required: true
+    - id: 11
+      name: safety_compliance_header
+      label: -- Safety Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: safety_signage
+      label: Safety Signage Present
+      hint: Are required signs visible?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Needs Replacement
+      required: true
+    - id: 13
+      name: fire_extinguishers
+      label: Fire Extinguishers Checked
+      hint: Are they charged and accessible?
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Missing
+      required: true
+    - id: 14
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: 1 (Dirty) to 5 (Spotless)
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: maintenance_required
+      label: Maintenance Required
+      hint: Describe specific repairs needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: urgency
+      label: Repair Urgency
+      hint: Priority of repairs
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Immediate Safety Hazard
+      required: true

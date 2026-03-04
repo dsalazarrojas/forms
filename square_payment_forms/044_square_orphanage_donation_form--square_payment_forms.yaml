@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Orphanage Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_type
+      label: donation_type
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''donation_type_1'', ''label'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''donation_type_2'', ''label'': ''In-Kind''}'
+      - '{''id'': 3, ''name'': ''donation_type_3'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_comment
+      label: Donation Comment
+      hint: 'null'
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitter_written_test
+    pages:
+    - id: 1
+      name: introduction
+      label: this-is-an-introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fitter_written_test_question_1
+      label: written-test-question-1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: written_test_question_2
+      label: written-test-question-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: written_test_question_2_answer_1
+      label: written-test-question-2-answer-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: written_test_question_3
+      label: written-test-question-3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: written_test_question_4
+      label: written-test-question-4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: written_test_question_5
+      label: written-test-question-5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: written_test_question_6
+      label: written-test-question-6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

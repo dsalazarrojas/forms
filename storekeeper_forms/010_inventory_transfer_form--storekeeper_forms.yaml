@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_transfer_form
+    pages:
+    - id: 1
+      name: inventory_transfer_form_page
+      label: inventory_transfer_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_from
+      label: transfer_from
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Member 1''}'
+      - '{''value'': ''Member 2''}'
+      - '{''value'': ''Member 3''}'
+      required: false
+    - id: 3
+      name: transfer_to
+      label: transfer_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Member 4''}'
+      - '{''value'': ''Member 5''}'
+      - '{''value'': ''Member 6''}'
+      required: false
+    - id: 4
+      name: item_description
+      label: item_description
+      hint: A short description of the item being transferred
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Cancel''}'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: text
+      options: []
+      required: false

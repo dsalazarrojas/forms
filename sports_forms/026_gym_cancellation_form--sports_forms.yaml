@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Cancellation Form
+    pages:
+    - id: 1
+      name: membership_date
+      label: membership_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confirmation_of_cancellation
+      label: confirmation_of_cancellation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: gym_name
+      label: gym_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_email
+      label: member_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: member_phone
+      label: member_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

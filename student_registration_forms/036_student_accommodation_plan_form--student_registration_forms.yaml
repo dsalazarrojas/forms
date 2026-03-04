@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Accommodation Plan Form
+    pages:
+    - id: 1
+      name: student_accommodation_preferences
+      label: student_accommodation_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_details
+      label: move_in_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_location
+      label: preferred_location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: move_in_time
+      label: move_in_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: move_in_time_am_pm
+      label: move_in_time_am_pm
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: roommate_preferences
+      label: roommate_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: move_in_method
+      label: move_in_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 14
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: move_out_time
+      label: move_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: move_out_time_am_pm
+      label: move_out_time_am_pm
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: student_status
+      label: student_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: student_dorm_status
+      label: student_dorm_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 25
+      name: student_dorm_type
+      label: student_dorm_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

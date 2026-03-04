@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Effectiveness Survey
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_role_selection
+      label: Participant Role
+      hint: Select the role that applies to you
+      type: select_one
+      options:
+      - label: Patient
+        value: patient
+      - label: Family Member/Caregiver
+        value: caregiver
+      - label: Healthcare Provider/Staff
+        value: provider
+      - label: Care Manager
+        value: care_manager
+      required: true
+    - id: 3
+      name: facility_program_name
+      label: Facility or Program Name
+      hint: Enter the name of the clinic or program you are evaluating
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coordination_ratings_header
+      label: -- Care Coordination Performance Ratings --
+      hint: Rate the following on a scale of 1 to 5 (1 - Poor, 5 - Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: timeliness_of_communication_rating
+      label: Timeliness of Communication
+      hint: How quickly did the team respond to your needs?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ease_of_access_services_rating
+      label: Ease of Access to Services
+      hint: How simple was it to get the help you needed?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: clarity_of_care_plan_rating
+      label: Clarity of Care Plan
+      hint: Did you understand the next steps and treatment goals?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: support_care_manager_rating
+      label: Support from Care Manager
+      hint: If applicable, rate the support from your primary coordinator
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coordination_with_specialists_rating
+      label: Coordination with Specialists
+      hint: How well did different doctors and therapists work together?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: patient_family_engagement_rating
+      label: Patient and Family Engagement
+      hint: Were you included in the decision-making process?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_satisfaction_header
+      label: -- Overall Experience & Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: overall_coordination_satisfaction
+      label: Overall satisfaction with care coordination
+      hint: Rate from 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: areas_for_improvement_feedback
+      label: Areas for Improvement
+      hint: Tell us what could have gone better
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: success_story_positive_feedback
+      label: Success Stories or Positive Feedback
+      hint: Share a moment where care coordination worked well
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_for_followup_selection
+      label: May we contact you for further feedback?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I am open to it
+        value: true
+      - label: No, please do not contact me
+        value: false
+      required: true
+    - id: 16
+      name: contact_email_for_followup
+      label: Email Address for follow-up
+      hint: Only if you selected yes above
+      type: email
+      options: []
+      required: false

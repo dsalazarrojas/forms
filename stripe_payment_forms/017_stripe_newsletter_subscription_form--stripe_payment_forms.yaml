@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Newsletter Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Subscriber Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: subscription_format
+      label: Subscription Format
+      hint: null
+      type: select_one
+      options:
+      - print
+      - digital
+      required: false
+    - id: 4
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - 3 months
+      - 6 months
+      - 12 months
+      required: false
+    - id: 5
+      name: newsletter_format
+      label: Newsletter Format
+      hint: null
+      type: select_multiple
+      options:
+      - Print
+      - Digital
+      - Both
+      required: false
+    - id: 6
+      name: print_format
+      label: Print Format
+      hint: null
+      type: select_multiple
+      options:
+      - A5
+      - A6
+      - A7
+      required: false
+    - id: 7
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: digital_format
+      label: Digital Format
+      hint: null
+      type: select_multiple
+      options:
+      - E-book
+      - PDF
+      - Video
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false

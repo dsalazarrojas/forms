@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Educational Toys Requisition Form
+    pages:
+    - id: 1
+      name: daycare_educational_toys_requisition_form
+      label: daycare_educational_toys_requisition_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Finance
+      - Marketing
+      required: false
+    - id: 5
+      name: toy_type
+      label: toy_type
+      hint: null
+      type: select_multiple
+      options:
+      - Educational Toy 1
+      - Educational Toy 2
+      required: false
+    - id: 6
+      name: requested_quantity
+      label: requested_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

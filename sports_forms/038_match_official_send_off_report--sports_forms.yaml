@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: match_official_send_off_report
+    pages:
+    - id: 1
+      name: player
+      label: Player
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''team1'', ''label'': ''Team 1''}'
+      - '{''value'': ''team2'', ''label'': ''Team 2''}'
+      required: true
+    - id: 3
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Goalkeeper'', ''label'': ''Goalkeeper''}'
+      - '{''value'': ''Defender'', ''label'': ''Defender''}'
+      - '{''value'': ''Midfielder'', ''label'': ''Midfielder''}'
+      - '{''value'': ''Forward'', ''label'': ''Forward''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: match_time
+      label: Match Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: send_to
+      label: Send To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Match Report'', ''label'': ''Match Report''}'
+      - '{''value'': ''Event Report'', ''label'': ''Event Report''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false

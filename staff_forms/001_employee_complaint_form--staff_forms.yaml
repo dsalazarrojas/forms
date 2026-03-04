@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Complaint Form
+    pages:
+    - id: 1
+      name: employee_complaint_form
+      label: employee_complaint_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reported_to
+      label: reported_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: complaint_description
+      label: complaint_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: complaint_date
+      label: complaint_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: complaint_time
+      label: complaint_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reported_employees
+      label: reported_employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reported_by_job_title
+      label: reported_by_job_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: reported_by_department
+      label: reported_by_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: reported_to_job_title
+      label: reported_to_job_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reported_to_department
+      label: reported_to_department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: reported_by_supervisor
+      label: reported_by_supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: reported_to_supervisor
+      label: reported_to_supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: complaint_status
+      label: complaint_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

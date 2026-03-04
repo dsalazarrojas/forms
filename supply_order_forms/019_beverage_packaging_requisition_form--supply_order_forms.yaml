@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Packaging Requisition Form
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Name of Requester
+      hint: Person submitting this request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department
+      hint: Which department are you from?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: When is this request being submitted?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_packaging
+      label: -- Packaging Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: packaging_type
+      label: Type of Packaging Required
+      hint: What type of packaging do you need?
+      type: select_one
+      options:
+      - Bottles (plastic)
+      - Bottles (glass)
+      - Cans
+      - Cartons/boxes
+      - Labels
+      - Caps and lids
+      - Shrink wrap
+      - Cardboard cases
+      - Other
+      required: true
+    - id: 9
+      name: packaging_size
+      label: Packaging Size or Specifications
+      hint: Size, capacity, or material specs
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_name
+      label: Product Name or Brand
+      hint: For which beverage product?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantity_needed
+      label: Quantity Required
+      hint: Number of units needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quantity_unit
+      label: Unit of Measurement
+      hint: Units, cases, cartons, etc.
+      type: select_one
+      options:
+      - Individual units
+      - Cases
+      - Cartons
+      - Pallets
+      - Reams (for labels)
+      - Boxes
+      - Pounds/kilograms
+      required: true
+    - id: 13
+      name: section_header_customization
+      label: -- Customization & Printing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: custom_printing
+      label: Does This Require Custom Printing
+      hint: null
+      type: select_one
+      options:
+      - Yes, new design needed
+      - Yes, standard template
+      - No, stock packaging
+      required: true
+    - id: 15
+      name: design_specifications
+      label: Design or Printing Specifications
+      hint: Colors, logos, text, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: artwork_provided
+      label: Is Artwork Already Provided
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide
+      - No, needs design
+      required: false
+    - id: 17
+      name: approved_design
+      label: Has This Design Been Approved
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully approved
+      - Yes, pending final approval
+      - No, still in review
+      - Not yet designed
+      required: true
+    - id: 18
+      name: section_header_logistics
+      label: -- Delivery & Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: needed_by_date
+      label: Date Needed By
+      hint: When do you need this packaging?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: delivery_location
+      label: Delivery Location
+      hint: Where should it be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_address
+      label: Complete Delivery Address
+      hint: Street address, building, dock info
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should it be shipped?
+      type: select_one
+      options:
+      - Standard ground delivery
+      - Express delivery
+      - Freight shipping
+      - Pickup
+      - Will arrange transport
+      required: true
+    - id: 23
+      name: section_header_budget
+      label: -- Budget & Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: estimated_cost
+      label: Estimated Cost or Budget
+      hint: Approximate cost range
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cost_center
+      label: Cost Center or Account Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: budget_approved
+      label: Is This Within Approved Budget
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, pending approval
+      - No, requires approval
+      - Uncertain
+      required: true
+    - id: 27
+      name: approval_manager
+      label: Manager Approval (if required)
+      hint: Approver name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: special_instructions
+      label: Special Instructions or Requirements
+      hint: Any special handling or notes?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: quality_standards
+      label: Quality Standards Required
+      hint: FDA compliance, food-grade, etc.
+      type: text
+      options: []
+      required: false

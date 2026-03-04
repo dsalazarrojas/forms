@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Service Experience Questionnaire
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: Which month do you subscribe to our service?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: question2
+      label: What service do you subscribe to?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: question3
+      label: What is the primary reason for your subscription?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: question4
+      label: How often do you use our service?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: question5
+      label: What time of day do you typically use our service?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: When was your first subscription?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: Have you ever changed your subscription service?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: question8
+      label: How likely are you to recommend our service to friends?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: How satisfied are you with our service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: question10
+      label: What would you like to see changed or improved in our service?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: customer_comment
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: question12
+      label: Have you used other services similar to ours?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: question13
+      label: Do you have any suggestions for our service?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

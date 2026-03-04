@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kids Baseball Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_note
+      label: Parent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: kids_interest
+      label: Kids Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 9
+      name: parent_address
+      label: Parent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: kids_name
+      label: Kids Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: kids_school
+      label: Kids School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_education
+      label: Parent Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: kids_sport
+      label: Kids Sport
+      hint: null
+      type: select_multiple
+      options:
+      - Baseball
+      - Soccer
+      - Football
+      required: false
+    - id: 14
+      name: parent_occupation
+      label: Parent Occupation
+      hint: null
+      type: text
+      options: []
+      required: false

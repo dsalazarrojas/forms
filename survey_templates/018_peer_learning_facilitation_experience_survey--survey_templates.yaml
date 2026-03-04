@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Learning Facilitation Experience Survey
+    pages:
+    - id: 1
+      name: facilitation_experience
+      label: facilitation_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facilitation_challenges
+      label: facilitation_challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: effectiveness
+      label: effectiveness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - Improved
+      - Not Improved
+      required: true
+    - id: 5
+      name: program_improvement
+      label: program_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facilitator_support
+      label: facilitator_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: facilitator_comments
+      label: facilitator_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_challenges
+      label: program_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of clear expectations
+      - Lack of resources
+      - Lack of facilitator support
+      - Other
+      required: true
+    - id: 10
+      name: program_improvement_actions
+      label: program_improvement_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facilitation_improvement
+      label: facilitation_improvement
+      hint: null
+      type: text
+      options: []
+      required: false

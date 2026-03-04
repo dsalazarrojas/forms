@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editable Activities For Students
+    pages:
+    - id: 1
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_participation
+      label: Activity Participation
+      hint: null
+      type: select_multiple
+      options:
+      - Student is participating
+      - Student is not participating
+      required: false
+    - id: 3
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_uploads
+      label: Student Uploads
+      hint: null
+      type: select_one
+      options:
+      - No files uploaded
+      - Files uploaded
+      required: false
+    - id: 5
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_interest
+      label: Date Of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_interest
+      label: Time Of Interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_participation
+      label: Date Of Participation
+      hint: null
+      type: date
+      options: []
+      required: false

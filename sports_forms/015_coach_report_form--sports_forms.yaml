@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coach Report Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Coach Report --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: coach_name
+        label: Coach name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date
+        label: Report date
+        hint: YYYY-MM-DD
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: event
+        label: Event or match name
+        hint: Match or training session
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: team_performance_summary
+        label: Team performance summary
+        hint: Brief summary of outcomes
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: injuries_reported
+        label: Injuries reported
+        hint: List any injuries and actions taken
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: standout_players
+        label: Standout players
+        hint: Names and reasons
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: follow_up_actions
+        label: Follow up actions
+        hint: Required next steps
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: resources_needed
+        label: Resources needed
+        hint: Equipment or staffing requests
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

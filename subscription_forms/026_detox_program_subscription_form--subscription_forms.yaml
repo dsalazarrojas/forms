@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: detox_prophets_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter client's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Credit Card or Bank Transfer
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 4
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Client's desired start date for subscription
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: program_length
+      label: Program Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional notes for the client
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: true
+    - id: 16
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_id
+      label: Client ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: total_months
+      label: Total Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: total_program_price
+      label: Total Program Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 22
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Detox
+      - Wellness
+      required: true
+    - id: 23
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: last_payment_date
+      label: Last Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: next_payment_date
+      label: Next Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: last_client_id
+      label: Client ID
+      hint: null
+      type: text
+      options: []
+      required: true

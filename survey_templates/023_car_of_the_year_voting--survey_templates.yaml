@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Of The Year Voting
+    pages:
+    - id: 1
+      name: voting_header
+      label: -- Car Of The Year Voting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_full_name
+      label: Voter Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email_address
+      label: Email Address
+      hint: To confirm your vote
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: car_category_voting
+      label: Voting Category
+      hint: Select the category for your vote
+      type: select_one
+      options:
+      - Best Compact Car
+      - Best SUV
+      - Best Luxury Sedan
+      - Best Electric Vehicle
+      - Best Sports Car
+      - Overall Car of the Year
+      required: true
+    - id: 5
+      name: vehicle_nominee_name
+      label: Your Nominee for Car of the Year
+      hint: Make and Model (e.g., Tesla Model 3)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_nominee_year
+      label: Nominee Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: voting_criteria_header
+      label: -- Voting Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: design_rating_voting
+      label: Rate the Design and Aesthetics
+      hint: Scale of 1 to 10 (10 being Exceptional)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: performance_rating_voting
+      label: Rate the Performance and Driving Experience
+      hint: Scale of 1 to 10 (10 being Exceptional)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: value_rating_voting
+      label: Rate the Value for Money
+      hint: Scale of 1 to 10 (10 being Exceptional)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: safety_rating_voting
+      label: Rate the Safety Features
+      hint: Scale of 1 to 10 (10 being Exceptional)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: innovation_rating_voting
+      label: Rate the Innovation and Technology
+      hint: Scale of 1 to 10 (10 being Exceptional)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: voting_reason
+      label: Why did you choose this vehicle?
+      hint: Briefly describe your decision
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: enthusiast_type
+      label: Your Automotive Enthusiast Level
+      hint: How would you describe yourself?
+      type: select_one
+      options:
+      - Casual Driver
+      - Automotive Professional
+      - Car Enthusiast / Gearhead
+      - Future Car Buyer
+      required: true
+    - id: 15
+      name: future_survey_participation
+      label: Would you like to participate in future automotive surveys?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 16
+      name: voting_acknowledgement_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: voting_acknowledgement
+      label: I acknowledge the voting terms
+      hint: See event website for details
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: signature_confirmation_voting
+      label: Type your name for voting confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_voting_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the vote
+      type: text
+      options: []
+      required: false

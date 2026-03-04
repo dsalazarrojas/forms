@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Survey
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Cat Life Survey --
+      hint: Tell us more about your feline friend
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cat_name
+      label: What is your cat name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cat_age_years
+      label: How old is your cat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: cat_breed
+      label: What breed is your cat
+      hint: e.g. Siamese, Tabby, Maine Coon
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_lifestyle
+      label: -- Lifestyle and Personality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: activity_level
+      label: How active is your cat during the day
+      hint: null
+      type: select_one
+      options:
+      - Very active - constant zoomies
+      - Moderate - plays daily
+      - Lazy - sleeps all day
+      - Only active at night
+      required: true
+    - id: 7
+      name: cat_personality
+      label: Which words best describe your cat personality
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Affectionate
+      - Independent
+      - Shy/Fearful
+      - Bold/Adventurous
+      - Aggressive
+      - Talkative
+      required: true
+    - id: 8
+      name: favorite_activity
+      label: What is your cat favorite thing to do
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_health_habits
+      label: -- Health and Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: diet_type
+      label: What kind of food does your cat eat
+      hint: null
+      type: select_one
+      options:
+      - Dry food only
+      - Wet food only
+      - Mixed wet and dry
+      - Raw diet
+      required: true
+    - id: 11
+      name: sleeping_spot
+      label: Where is your cat favorite sleeping spot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hunting_behavior
+      label: Does your cat catch mice or insects
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Never
+      - Indoor only - no access
+      required: true
+    - id: 13
+      name: vet_visit_frequency
+      label: How often do you take your cat to the vet
+      hint: null
+      type: select_one
+      options:
+      - Once a year
+      - Twice a year
+      - Only for emergencies
+      required: true
+    - id: 14
+      name: grooming_frequency
+      label: How often is your cat brushed
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 15
+      name: cat_happiness_rating
+      label: On a scale of 1 to 10, how happy is your cat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: final_comments
+      label: Any other fun facts about your cat
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: score_prediction_quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: match_info
+      label: match_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prediction
+      label: prediction
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Tie
+      - Under Team A
+      - Over Team A
+      required: true
+    - id: 4
+      name: score
+      label: score
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: true
+    - id: 5
+      name: win_lose_draw
+      label: win_lose_draw
+      hint: null
+      type: select_one
+      options:
+      - Win
+      - Lose
+      - Draw
+      required: true
+    - id: 6
+      name: score_diff
+      label: score_diff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: prediction_confidence
+      label: prediction_confidence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

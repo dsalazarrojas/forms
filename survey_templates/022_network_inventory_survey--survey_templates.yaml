@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Inventory Survey
+    pages:
+    - id: 1
+      name: device_inventory
+      label: device_inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: department_id
+      label: department_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: network_id
+      label: network_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_tag
+      label: asset_tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_contacted
+      label: last_contacted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_contacted_time
+      label: last_contacted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: upgrade_status
+      label: upgrade_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

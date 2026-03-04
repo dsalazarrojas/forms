@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Medicine Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: condition_name
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visit_start_date
+      label: Visit Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: return_to_activity_guidance
+      label: Return to Activity Guidance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: instructions_for_rehabilitation
+      label: Instructions for Rehabilitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_visit
+      label: Follow-up Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition_description
+      label: Medical Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider_name
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications_list
+      label: Medications List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergy_list
+      label: Allergy List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: clinic_visit_type
+      label: Clinic Visit Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: sports_injury_type
+      label: Sports Injury Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: medical_condition_type
+      label: Medical Condition Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

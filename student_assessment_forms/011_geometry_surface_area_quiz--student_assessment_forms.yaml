@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geometry Surface Area Quiz
+    pages:
+    - id: 1
+      name: surface_area_concepts_quiz
+      label: surface_area_concepts_quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: geometry_surface_area_quiz_questions
+      label: quiz_questions
+      hint: null
+      type: select_multiple
+      options:
+      - Square with side length 1
+      - Square with side length 2
+      - Square with side length 3
+      required: false
+    - id: 3
+      name: calculate_surface_area
+      label: calculate_surface_area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: geometry_surface_area_quiz_scores
+      label: quiz_scores
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: geometry_surface_area_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: teacher_notes
+      label: teacher_notes
+      hint: null
+      type: note
+      options: []
+      required: false

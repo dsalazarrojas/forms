@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: local-gov-services-feedback-questionnaire
+    pages:
+    - id: 1
+      name: localgovservicesfeedback
+      label: What is your current level of satisfaction with the local government
+        services?
+      hint: Please rate your satisfaction level
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 2
+      name: which_service_used
+      label: Which local government service did you use?
+      hint: null
+      type: select_multiple
+      options:
+      - City Services
+      - Park Services
+      - Waste Management
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: how_long_did_it_take
+      label: How long did it take?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: How did you contact the service?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Online
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: issue_description
+      label: Is there an issue you would like to report?
+      hint: Please describe the issue
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

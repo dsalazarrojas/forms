@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Network Coverage Satisfaction Assessment
+    pages:
+    - id: 1
+      name: first_page
+      label: Telecom Network Coverage Satisfaction Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coverage_areas
+      label: Coverage Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Public Place
+      - Other - (Specify in notes)
+      required: false
+    - id: 3
+      name: areas_issues
+      label: Any issues with these coverage areas?
+      hint: null
+      type: select_multiple
+      options:
+      - Poor Coverage
+      - No Signal
+      - Dropped Calls
+      - Slow Data Speeds
+      required: false
+    - id: 4
+      name: specific_areas
+      label: Specific Areas with Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Other notes about your experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false

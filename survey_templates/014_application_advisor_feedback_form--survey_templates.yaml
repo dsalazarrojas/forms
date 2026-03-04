@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Advisor Feedback Form
+    pages:
+    - id: 1
+      name: advisor_feedback_header
+      label: -- Application Advisor Feedback --
+      hint: Your feedback helps us improve our student support services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: advisor_name
+      label: Name of the Application Advisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_date
+      label: Date of Your Last Advising Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_quality_header
+      label: -- Service Quality Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: advisor_responsiveness
+      label: How responsive was your advisor to your inquiries?
+      hint: null
+      type: select_one
+      options:
+      - Very Responsive
+      - Somewhat Responsive
+      - Neutral
+      - Unresponsive
+      required: true
+    - id: 8
+      name: advisor_knowledge
+      label: Rate the advisor's knowledge of the application process
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: clarity_of_instructions
+      label: Were the advisor's instructions clear and easy to follow?
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Unclear
+      - Very Unclear
+      required: true
+    - id: 10
+      name: professionalism_rating
+      label: Rate the advisor's professionalism and courtesy
+      hint: null
+      type: select_one
+      options:
+      - Highly Professional
+      - Professional
+      - Needs Improvement
+      - Unprofessional
+      required: true
+    - id: 11
+      name: overall_experience_header
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: helpfulness_score
+      label: On a scale of 1-10, how helpful was the advising session?
+      hint: (1 being not helpful at all, 10 being extremely helpful)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: would_recommend_advisor
+      label: Would you recommend this advisor to other students?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 14
+      name: advisor_strengths
+      label: What did the advisor do particularly well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvement_suggestions
+      label: How can the advisor or the advising process be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Any other comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false

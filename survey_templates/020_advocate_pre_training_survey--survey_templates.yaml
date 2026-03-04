@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advocate Pre Training Survey
+    pages:
+    - id: 1
+      name: introduction_header
+      label: -- Welcome --
+      hint: This survey helps us tailor the training to your needs.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Current Advocacy Experience
+      hint: How much experience do you have?
+      type: select_one
+      options:
+      - None
+      - Beginner (< 1 year)
+      - Intermediate (1-3 years)
+      - Advanced (3-5 years)
+      - Expert (5+ years)
+      required: true
+    - id: 3
+      name: confidence_level
+      label: Confidence in Advocacy Skills
+      hint: On a scale of 1-5 (1=Low, 5=High).
+      type: select_one
+      options:
+      - 1 (Low)
+      - 2
+      - 3 (Moderate)
+      - 4
+      - 5 (High)
+      required: true
+    - id: 4
+      name: primary_goals
+      label: Primary Training Goals
+      hint: What do you hope to get out of this?
+      type: select_multiple
+      options:
+      - Learn new strategies
+      - Network with other advocates
+      - Improve public speaking
+      - Understand policy processes
+      - Digital organizing tools
+      required: true
+    - id: 5
+      name: learning_style
+      label: Preferred Learning Style
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - Visual (Charts, slides)
+      - Auditory (Listening, discussion)
+      - Kinesthetic (Hands-on activities)
+      - Reading/Writing
+      required: false
+    - id: 6
+      name: topics_of_interest
+      label: Specific Topics of Interest
+      hint: Select top 3.
+      type: select_multiple
+      options:
+      - Legislative Process
+      - Community Mapping
+      - Social Media Advocacy
+      - Fundraising
+      - Coalition Building
+      - Public Relations
+      required: true
+    - id: 7
+      name: challenges
+      label: Biggest Challenges Faced
+      hint: What is hardest for you in advocacy?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographics_header
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: organization
+      label: Organization / Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false

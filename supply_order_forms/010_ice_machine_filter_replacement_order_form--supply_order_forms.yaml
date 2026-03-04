@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ice Machine Filter Replacement Order Form
+    pages:
+    - id: 1
+      name: ice_machine_filter_replacement_order_form_page_1
+      label: Ice Machine Filter Replacement Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: machine_id
+      label: Machine Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Enter contact number here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter email here
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: filter_model
+      label: Filter Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: filter_quantity
+      label: Filter Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_parts
+      label: Total Parts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: filter_cost
+      label: Filter Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping
+      label: Shipping
+      hint: null
+      type: select_multiple
+      options:
+      - Shipping
+      - Local Pickup
+      - In-Store Pickup
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Finish Line Arch Rental Order Form
+    pages:
+    - id: 1
+      name: race_finish_line_arch_rental_order_form
+      label: race_finish_line_arch_rental_order_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 3, ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 4, ''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: arch_rental_details
+      label: arch_rental_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''label'': ''Arch 1'', ''value'': ''Arch 1''}'
+      - '{''id'': 6, ''label'': ''Arch 2'', ''value'': ''Arch 2''}'
+      - '{''id'': 7, ''label'': ''Arch 3'', ''value'': ''Arch 3''}'
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: arch_rental_date
+      label: arch_rental_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: arch_rental_time
+      label: arch_rental_time
+      hint: null
+      type: time
+      options: []
+      required: false

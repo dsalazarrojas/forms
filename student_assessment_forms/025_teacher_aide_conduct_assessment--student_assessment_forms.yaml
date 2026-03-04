@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_aide_conduct_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: conduct
+      label: conduct
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: strengths
+      label: strengths
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: overall_performance_rating
+      label: overall_performance_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_started
+      label: date_started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_due_date
+      label: date_due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_return
+      label: date_return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_version
+      label: form_version
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: user_rating
+      label: user_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: class_name
+      label: class_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: teacher_department
+      label: teacher_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: teacher_grade
+      label: teacher_grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: teacher_subject
+      label: teacher_subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: teacher_position
+      label: teacher_position
+      hint: null
+      type: text
+      options: []
+      required: true

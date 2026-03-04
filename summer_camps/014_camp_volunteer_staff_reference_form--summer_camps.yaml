@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Volunteer Staff Reference Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Volunteer Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_reference_provider
+      label: -- Reference Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reference_name
+      label: Reference Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reference_title
+      label: Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reference_organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reference_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reference_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: reference_relationship
+      label: How do you know the applicant
+      hint: null
+      type: select_one
+      options:
+      - Direct Supervisor
+      - Colleague
+      - Teacher
+      - Community Leader
+      - Coach
+      - Other Professional
+      required: true
+    - id: 13
+      name: reference_length
+      label: How long have you known the applicant
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: true
+    - id: 14
+      name: section_assessment
+      label: -- Volunteer Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reliability
+      label: Reliability and Punctuality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: work_with_children
+      label: Ability to work with children
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 17
+      name: communication_skills
+      label: Communication and interpersonal skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: teamwork_ability
+      label: Ability to work as part of a team
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: problem_solving
+      label: Problem-solving and critical thinking
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 20
+      name: character_conduct
+      label: Character and personal conduct
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 21
+      name: safety_awareness
+      label: Safety awareness and attention to detail
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 22
+      name: section_recommendation
+      label: -- Overall Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommended
+      - Recommended
+      - Recommended with Reservations
+      - Not Recommended
+      required: true
+    - id: 24
+      name: strengths
+      label: Key Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: concerns_comments
+      label: Any Concerns or Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

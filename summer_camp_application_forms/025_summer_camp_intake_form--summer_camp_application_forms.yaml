@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: camper_name
+      label: Camper's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: camper_date_of_birth
+      label: Camper's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: camper_gender
+      label: Camper's Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      - Prefer not to disclose
+      required: true
+    - id: 14
+      name: camper_grade
+      label: Camper's Grade
+      hint: null
+      type: select_one
+      options:
+      - Pre-Kindergarten
+      - Kindergarten
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 15
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      required: true
+    - id: 17
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_notes
+      label: Emergency Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: camper_parent_name
+      label: Camper's Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: camper_parent_relationship
+      label: Camper's Parent Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: camper_parent_phone
+      label: Camper's Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: camper_parent_email
+      label: Camper's Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: camper_parent_address
+      label: Camper's Parent Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Management Performance Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: team_size
+      label: Team Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_environment
+      label: Work Environment
+      hint: Tell us about your current work environment.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: true

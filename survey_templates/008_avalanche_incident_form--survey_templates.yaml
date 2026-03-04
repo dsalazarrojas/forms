@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Avalanche Incident Form
+    pages:
+    - id: 1
+      name: section_observer_info
+      label: -- Observer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observer_email
+      label: Observer Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: observer_phone
+      label: Observer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_incident_details
+      label: -- Incident Details --
+      hint: Report specifics of the avalanche event
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: incident_location
+      label: Location of Incident
+      hint: Mountain, Peak, or Basin name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: gps_coordinates
+      label: GPS Coordinates
+      hint: Lat/Long if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: avalanche_size
+      label: Avalanche Size Rating
+      hint: Scale of 1 to 5 (R1-R5)
+      type: select_one
+      options:
+      - 1 - Small (Relatively harmless to people)
+      - 2 - Medium (Could bury, injure or kill a person)
+      - 3 - Large (Could bury a car or destroy a small house)
+      - 4 - Very Large (Could destroy a railway or large forest)
+      - 5 - Extreme (Could gouge the landscape)
+      required: true
+    - id: 11
+      name: avalanche_type
+      label: Type of Avalanche
+      hint: null
+      type: select_one
+      options:
+      - Dry Slab
+      - Wet Slab
+      - Loose Snow (Dry)
+      - Loose Snow (Wet)
+      - Glide Avalanche
+      required: true
+    - id: 12
+      name: trigger_mechanism
+      label: Trigger Mechanism
+      hint: What caused the slide?
+      type: select_one
+      options:
+      - Natural (No human activity)
+      - Human (Skier, Snowboarder, Snowmobile)
+      - Remote (Triggered from a distance)
+      - Explosive (Control work)
+      - Cornice Fall
+      required: true
+    - id: 13
+      name: people_involved
+      label: Number of People Involved
+      hint: Number of people caught or buried
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: injury_status
+      label: Injuries or Fatalities
+      hint: null
+      type: select_one
+      options:
+      - No injuries reported
+      - Injuries sustained (Minor)
+      - Injuries sustained (Severe)
+      - Fatalities reported
+      required: true
+    - id: 15
+      name: rescue_equipment
+      label: Rescue Equipment Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beacon (Transceiver)
+      - Shovel
+      - Probe
+      - Recco Reflector
+      - Avalanche Airbag
+      - Professional Rescue Team
+      required: false
+    - id: 16
+      name: incident_summary
+      label: Incident Summary and Description
+      hint: Please provide a detailed account of the event
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: weather_conditions
+      label: Current Weather Conditions
+      hint: During or immediately after the incident
+      type: select_multiple
+      options:
+      - Clear and Sunny
+      - Overcast
+      - Light Snowing
+      - Heavy Snowing
+      - High Winds
+      - Raining
+      required: false

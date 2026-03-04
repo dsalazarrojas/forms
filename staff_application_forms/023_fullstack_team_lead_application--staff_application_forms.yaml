@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: FullStack Team Lead Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: experience_job_title
+      label: Experience Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: experience_company
+      label: Experience Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - Doctorate
+      required: false
+    - id: 11
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On-Site
+      - Hybrid
+      required: false
+    - id: 14
+      name: available_work_hours
+      label: Available Work Hours
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 15
+      name: available_language
+      label: Available Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Mandarin
+      - Japanese
+      - French
+      - Spanish
+      - Portuguese
+      required: false
+    - id: 16
+      name: available_tools
+      label: Available Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Sketch
+      - Figma
+      - Adobe XD
+      - Adobe Illustrator
+      - Inkscape
+      required: false
+    - id: 17
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Design
+      - Development
+      - Data Science
+      - Project Management
+      required: false
+    - id: 18
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Flexible
+      - Monday to Friday
+      - Tuesday to Thursday
+      - Monday to Wednesday
+      - Thursday to Friday
+      - Monday to Friday
+      - Flexible
+      required: false

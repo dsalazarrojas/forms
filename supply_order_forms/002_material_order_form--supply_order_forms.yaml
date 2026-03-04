@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: material_description
+      label: Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_cost
+      label: Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contractor_contact
+      label: Contractor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contractor_phone
+      label: Contractor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contractor_email
+      label: Contractor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: material_ordered
+      label: Material Ordered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: false

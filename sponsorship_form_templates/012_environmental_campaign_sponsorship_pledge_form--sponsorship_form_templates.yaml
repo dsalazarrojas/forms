@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Campaign Sponsorship Pledge Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: campaign_description
+      label: Campaign Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amount_pledges
+      label: Amount Pledges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: amount_currency
+      label: Amount Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: frequency_pledges
+      label: Frequency Pledges
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 11
+      name: pledge_start_date
+      label: Pledge Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

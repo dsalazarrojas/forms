@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Tryout Form
+    pages:
+    - id: 1
+      name: swim_tryout_form_data
+      label: Swim Tryout Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: swim_tryout_test_type
+      label: Swim Tryout Test Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: swim_tryout_test_date
+      label: Swim Tryout Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: swim_tryout_test_time
+      label: Swim Tryout Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: swim_tryout_score
+      label: Swim Tryout Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: swim_tryout_result
+      label: Swim Tryout Result
+      hint: null
+      type: select_multiple
+      options:
+      - pass
+      - no pass
+      - unknown
+      required: false
+    - id: 7
+      name: swim_tryout_comment
+      label: Swim Tryout Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: swim_tryout_coach_signature
+      label: Swim Tryout Coach Signature
+      hint: null
+      type: text
+      options: []
+      required: false

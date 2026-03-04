@@ -1,0 +1,286 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Supplies Preparation Check Form
+    pages:
+      - id: 1
+        name: camper_name
+        label: Camper Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: camp_session
+        label: Camp Session
+        hint: Which session
+        type: select_one
+        options:
+          - Session 1
+          - Session 2
+          - Session 3
+          - Session 4
+          - Full summer
+        required: true
+      - id: 4
+        name: cabin_number
+        label: Cabin or Group Number
+        hint: If known
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: sleeping_bag
+        label: Sleeping Bag
+        hint: Required item
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+          - Will borrow from camp
+        required: true
+      - id: 6
+        name: sleeping_pad
+        label: Sleeping Pad or Mattress
+        hint: Required item
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+          - Will borrow from camp
+        required: true
+      - id: 7
+        name: pillow
+        label: Pillow
+        hint: Required item
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+        required: true
+      - id: 8
+        name: sheets_blanket
+        label: Sheets and Blanket
+        hint: If using camp cots
+        type: select_one
+        options:
+          - Packed and ready
+          - Not needed
+        required: true
+      - id: 9
+        name: towels
+        label: Towels
+        hint: Bath and beach towels
+        type: select_one
+        options:
+          - Packed - 2 or more
+          - Packed - 1
+          - Need to purchase
+        required: true
+      - id: 10
+        name: clothing_quantity
+        label: Change of Clothes
+        hint: For the week
+        type: select_one
+        options:
+          - 7 or more outfits
+          - 5-6 outfits
+          - 3-4 outfits
+          - Less than 3
+        required: true
+      - id: 11
+        name: underwear_socks
+        label: Underwear and Socks
+        hint: Enough for the week plus extras
+        type: select_one
+        options:
+          - Packed - plenty
+          - Packed - enough
+          - Need to pack more
+        required: true
+      - id: 12
+        name: pajamas
+        label: Pajamas
+        hint: Sleepwear
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to pack
+        required: true
+      - id: 13
+        name: swimwear
+        label: Swimwear
+        hint: Swimsuits
+        type: select_one
+        options:
+          - Packed - 2 or more
+          - Packed - 1
+          - Need to purchase
+        required: true
+      - id: 14
+        name: footwear
+        label: Footwear
+        hint: Shoes and sandals
+        type: select_multiple
+        options:
+          - Sneakers or athletic shoes
+          - Sandals with straps
+          - Water shoes
+          - Rain boots
+          - Flip flops for shower
+          - Hiking boots
+        required: true
+      - id: 15
+        name: rain_gear
+        label: Rain Gear
+        hint: Raincoat or poncho
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+        required: true
+      - id: 16
+        name: toiletries
+        label: Toiletries
+        hint: Personal hygiene items
+        type: select_multiple
+        options:
+          - Toothbrush and toothpaste
+          - Soap and shampoo
+          - Deodorant
+          - Hairbrush or comb
+          - Sunscreen
+          - Insect repellent
+          - Lip balm
+          - Other
+        required: true
+      - id: 17
+        name: flashlight
+        label: Flashlight with Extra Batteries
+        hint: Required item
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+        required: true
+      - id: 18
+        name: water_bottle
+        label: Reusable Water Bottle
+        hint: Required item
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+        required: true
+      - id: 19
+        name: backpack_daypack
+        label: Backpack or Daypack
+        hint: For activities
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to purchase
+        required: true
+      - id: 20
+        name: laundry_bag
+        label: Laundry Bag
+        hint: For dirty clothes
+        type: select_one
+        options:
+          - Packed and ready
+          - Need to pack
+        required: true
+      - id: 21
+        name: medications
+        label: Medications
+        hint: In original containers
+        type: select_one
+        options:
+          - Packed - will check in at health center
+          - None needed
+          - Need to prepare
+        required: true
+      - id: 22
+        name: spending_money
+        label: Spending Money for Camp Store
+        hint: Optional
+        type: select_one
+        options:
+          - Yes - cash prepared
+          - Yes - will provide later
+          - No spending money
+        required: false
+      - id: 23
+        name: prohibited_items_check
+        label: Prohibited Items Not Packed
+        hint: Confirm no electronics, weapons, etc
+        type: select_one
+        options:
+          - Confirmed - no prohibited items
+          - Need to remove items
+        required: true
+      - id: 24
+        name: luggage
+        label: Luggage or Duffel Bag
+        hint: For transport
+        type: select_one
+        options:
+          - Ready with name tag
+          - Need to prepare
+        required: true
+      - id: 25
+        name: labeled_items
+        label: Are All Items Labeled with Camper Name
+        hint: Important for identification
+        type: select_one
+        options:
+          - Yes - all labeled
+          - Some labeled
+          - Need to label
+        required: true
+      - id: 26
+        name: additional_items
+        label: Additional Items Packed
+        hint: List any extra items
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: preparation_concerns
+        label: Any Concerns About Preparation
+        hint: Describe if any
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: parent_signature
+        label: Parent or Guardian Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: signature_date
+        label: Date Completed
+        hint: Date
+        type: date
+        options: []
+        required: true

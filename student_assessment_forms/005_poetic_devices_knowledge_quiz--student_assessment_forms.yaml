@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poetic Devices Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: poetic_schemes
+      label: poetic_schemes
+      hint: null
+      type: select_multiple
+      options:
+      - alliteration
+      - assonance
+      - consonance
+      - consonant
+      - metaphor
+      - metonymy
+      - personification
+      - synecdoche
+      required: false
+    - id: 3
+      name: poetic_figures
+      label: poetic_figures
+      hint: null
+      type: select_one
+      options:
+      - alliteration
+      - hyperbole
+      - metaphor
+      - onomatopoeia
+      - personification
+      - simile
+      - synecdoche
+      required: false
+    - id: 4
+      name: poetic_structures
+      label: poetic_structures
+      hint: null
+      type: select_one
+      options:
+      - imagery
+      - rhyme
+      - refrain
+      - repetition
+      - simile
+      - symbolism
+      required: false
+    - id: 5
+      name: simile_1
+      label: simile1
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: simile_2
+      label: simle2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: metaphor_1
+      label: metaphor1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: metaphor_2
+      label: metaphor2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: alliterative_device_1
+      label: alliterative1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: alliterative_device_1_choice
+      label: alliterative1choice
+      hint: null
+      type: select_one
+      options:
+      - alliteration
+      - assonance
+      - consonance
+      required: false
+    - id: 11
+      name: alliterative_device_2
+      label: alliterative2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alliterative_device_2_choice
+      label: alliterative2choice
+      hint: null
+      type: select_one
+      options:
+      - alliteration
+      - assonance
+      - consonance
+      required: false
+    - id: 13
+      name: poetic_figure_1
+      label: poetic1
+      hint: null
+      type: select_one
+      options:
+      - alliteration
+      - hyperbole
+      - metaphor
+      - onomatopoeia
+      - personification
+      - simile
+      - synecdoche
+      required: true
+    - id: 14
+      name: poetic_figure_2
+      label: poetic2
+      hint: null
+      type: select_one
+      options:
+      - imagery
+      - refrain
+      - repetition
+      - simile
+      - symbolism
+      required: true
+    - id: 15
+      name: simile_device_1
+      label: simle1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: simile_device_2
+      label: simle2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: poetic_structure_1
+      label: poetic1
+      hint: null
+      type: select_one
+      options:
+      - alliteration
+      - hyperbole
+      - metaphor
+      - onomatopoeia
+      - personification
+      - simile
+      - synecdoche
+      required: false
+    - id: 18
+      name: poetic_structure_2
+      label: poetic2
+      hint: null
+      type: select_one
+      options:
+      - alliteration
+      - hyperbole
+      - metaphor
+      - onomatopoeia
+      - personification
+      - simile
+      - synecdoche
+      required: false
+    - id: 19
+      name: hyperbole_device_1
+      label: hyperbole1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hyperbole_device_2
+      label: hyperbole2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: metaphor_device_1
+      label: metaphor1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: metaphor_device_2
+      label: metaphor2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: poetic_device_1
+      label: poetic1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: poetic_device_2
+      label: poetic2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: true

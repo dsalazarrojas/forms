@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Interior Preference Survey
+    pages:
+      - id: 1
+        name: section_aesthetic_style
+        label: -- Aesthetic Style Preferences --
+        hint: Help us design a space you love
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: preferred_style
+        label: Which interior style do you prefer for a salon?
+        hint: null
+        type: select_one
+        options:
+          - Modern Minimalist
+          - Industrial Chic
+          - Vintage / Retro
+          - Luxury / Glam
+          - Natural / Organic
+          - Bohemian
+        required: true
+      - id: 3
+        name: color_palette_preference
+        label: What color palette makes you feel most relaxed?
+        hint: null
+        type: select_multiple
+        options:
+          - Neutrals (White, Beige, Grey)
+          - Pastels (Soft Pink, Mint, Blue)
+          - Earth Tones (Green, Brown, Terracotta)
+          - Bold Colors (Jewel Tones, Black)
+          - Monochromatic
+        required: true
+      - id: 4
+        name: lighting_preference
+        label: What type of lighting do you prefer in a salon?
+        hint: null
+        type: select_one
+        options:
+          - Bright and Clinical
+          - Soft and Warm
+          - Natural / Window Light
+          - Dramatic / Accent Lighting
+        required: true
+      - id: 5
+        name: furniture_comfort
+        label: How important is seating comfort in the waiting area?
+        hint: null
+        type: select_one
+        options:
+          - Extremely Important
+          - Important
+          - Neutral
+          - Not Important
+        required: true
+      - id: 6
+        name: layout_preference
+        label: Do you prefer an open floor plan or more private stations?
+        hint: null
+        type: select_one
+        options:
+          - Open and Social
+          - Private and Quiet
+          - A Mix of Both
+        required: true
+      - id: 7
+        name: plant_usage
+        label: Do you enjoy seeing live plants in a salon environment?
+        hint: null
+        type: select_one
+        options:
+          - Yes, very much
+          - A few are nice
+          - No preference
+          - I prefer no plants
+        required: false
+      - id: 8
+        name: music_and_sound
+        label: What kind of background music/sound is best for your experience?
+        hint: null
+        type: select_one
+        options:
+          - Upbeat Pop
+          - Chill/Lo-fi
+          - Classical
+          - Nature Sounds
+          - No Music
+        required: false
+      - id: 9
+        name: waiting_area_amenities
+        label: Which amenities would you like to see in the waiting area?
+        hint: null
+        type: select_multiple
+        options:
+          - Coffee/Tea Bar
+          - Magazines
+          - Charging Stations
+          - Retail Display
+          - Water Station
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Any other design elements that are important to you?
+        hint: null
+        type: text
+        options: []
+        required: false

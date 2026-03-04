@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Release Form
+    pages:
+    - id: 1
+      name: warehouse_release_form_1
+      label: release_warehouse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: warehouse_release_form_2
+      label: goods_to_release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: warehouse_release_form_3
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: warehouse_release_form_4
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: warehouse_release_form_5
+      label: reason_for_release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: warehouse_release_form_6
+      label: released_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: warehouse_release_form_7
+      label: release_authorization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

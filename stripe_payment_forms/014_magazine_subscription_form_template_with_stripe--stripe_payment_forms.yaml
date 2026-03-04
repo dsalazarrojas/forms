@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Subscription Form Template With Stripe
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Deluxe
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

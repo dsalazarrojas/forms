@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_reported_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''M''}'
+      - '{''value'': ''F''}'
+      - '{''value'': ''O''}'
+      required: false
+    - id: 7
+      name: student_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_grade_level
+      label: grade_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: student_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: emergency_name
+      label: emergency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Low Emission Transport Vendor Application Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_services
+      label: Vendor Services
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 3
+      name: service_review
+      label: Service Review
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: qualification_status
+      label: Qualification Status
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 9
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false

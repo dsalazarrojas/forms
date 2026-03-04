@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Job Site Safety Employment Survey
+    pages:
+    - id: 1
+      name: section_employee_details
+      label: -- Employee Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID or Name
+      hint: Skip if you wish to remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_job_site
+      label: Current Assigned Job Site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_role
+      label: Current Job Role/Trade
+      hint: e.g., Carpenter, Electrician, Site Manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_safety_culture
+      label: -- Safety Culture Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: safety_first_perception
+      label: My supervisor prioritizes safety over project deadlines
+      hint: 1 - Strongly Disagree, 5 - Strongly Agree
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: stop_work_authority
+      label: I feel empowered to stop work if I see a safety hazard
+      hint: 1 - Strongly Disagree, 5 - Strongly Agree
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ppe_availability
+      label: Does the company provide all necessary PPE on time?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: section_training_eval
+      label: -- Training and Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: last_safety_meeting
+      label: When was your last safety toolbox talk or meeting?
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Within the last week
+      - Within the last month
+      - More than a month ago
+      - Never
+      required: true
+    - id: 11
+      name: training_quality_rating
+      label: Rate the quality of the safety training you've received
+      hint: 1 - Poor, 5 - Excellent
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: specific_training_needed
+      label: What additional safety training do you feel you need?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_incident_reporting
+      label: -- Incident and Hazard Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: witnessed_near_miss
+      label: Have you witnessed a near-miss or incident in the last 30 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: was_it_reported
+      label: Was the near-miss/incident reported to management?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: false
+    - id: 16
+      name: reporting_barrier_desc
+      label: If not reported, what was the reason?
+      hint: e.g., Fear of retaliation, Too much paperwork, Didn't think it was important
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_hazard_concern
+      label: Do you have any current safety concerns on your site?
+      hint: Please describe any immediate hazards
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_general_feedback
+      label: -- General Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: safety_improvement_suggestion
+      label: How can we make our job sites safer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_completion_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

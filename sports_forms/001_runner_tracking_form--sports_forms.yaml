@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: runner-tracking-form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pace
+      label: pace
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: runner_type
+      label: runner-type
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Walking
+      - Cycling
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Gym
+      - Outdoors
+      required: false
+    - id: 8
+      name: workout_duration
+      label: workout-duration
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false
+    - id: 9
+      name: running_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workout_frequency
+      label: workout-frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1x
+      - 2x
+      - 3x
+      required: false
+    - id: 13
+      name: customer_notes
+      label: customer-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_schedule
+      label: follow-up-schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: follow-up-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_notes
+      label: follow-up-notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: next_follow_up
+      label: next-follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: assigned_rep
+      label: assigned-rep
+      hint: null
+      type: select_one
+      options:
+      - Rep 1
+      - Rep 2
+      - Rep 3
+      required: false
+    - id: 19
+      name: follow_up_rep
+      label: follow-up-rep
+      hint: null
+      type: select_one
+      options:
+      - Rep 1
+      - Rep 2
+      - Rep 3
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: follow-up-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_duration
+      label: follow-up-duration
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Eligibility Validation Form
+    pages:
+    - id: 1
+      name: graduation_eligibility_validation_form_student
+      label: first_year_student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graduation_eligibility_validation_form_programs
+      label: programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: graduation_eligibility_validation_form_outstanding
+      label: outstanding_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: graduation_eligibility_validation_form_gpa
+      label: gpa
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: graduation_eligibility_validation_form_gpa_scale
+      label: gpa_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 4.0}'
+      - '{''option'': 3.0}'
+      - '{''option'': 2.0}'
+      required: false
+    - id: 6
+      name: graduation_eligibility_validation_form_semesters
+      label: semesters
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''first''}'
+      - '{''option'': ''second''}'
+      - '{''option'': ''third''}'
+      - '{''option'': ''fourth''}'
+      - '{''option'': ''fifth''}'
+      required: false
+    - id: 7
+      name: graduation_eligibility_validation_form_credits
+      label: credits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: graduation_eligibility_validation_form_recommended_by
+      label: recommended_by
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''advisor''}'
+      - '{''option'': ''faculty_member''}'
+      - '{''option'': ''other''}'
+      required: false
+    - id: 9
+      name: graduation_eligibility_validation_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: graduation_eligibility_validation_form_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: graduation_eligibility_validation_form_student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: graduation_eligibility_validation_form_student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: graduation_eligibility_validation_form_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: graduation_eligibility_validation_form_date_of_graduation
+      label: date_of_graduation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: graduation_eligibility_validation_form_major
+      label: major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: graduation_eligibility_validation_form_minor
+      label: minor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: graduation_eligibility_validation_form_program
+      label: program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: graduation_eligibility_validation_form_degree
+      label: degree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: graduation_eligibility_validation_form_concentration
+      label: concentration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: graduation_eligibility_validation_form_anticipated_date_of_graduation
+      label: anticipated_date_of_graduation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: graduation_eligibility_validation_form_current_academic_status
+      label: current_academic_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''active''}'
+      - '{''option'': ''inactive''}'
+      - '{''option'': ''on_leave''}'
+      required: false
+    - id: 22
+      name: graduation_eligibility_validation_form_previous_academic_status
+      label: previous_academic_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''active''}'
+      - '{''option'': ''inactive''}'
+      - '{''option'': ''on_leave''}'
+      required: false
+    - id: 23
+      name: graduation_eligibility_validation_form_previous_programs
+      label: previous_programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''previous_program_1''}'
+      - '{''option'': ''previous_program_2''}'
+      - '{''option'': ''previous_program_3''}'
+      - '{''option'': ''previous_program_4''}'
+      - '{''option'': ''previous_program_5''}'
+      required: false
+    - id: 24
+      name: graduation_eligibility_validation_form_previous_degrees
+      label: previous_degrees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''previous_degree_1''}'
+      - '{''option'': ''previous_degree_2''}'
+      - '{''option'': ''previous_degree_3''}'
+      required: false
+    - id: 25
+      name: graduation_eligibility_validation_form_additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false

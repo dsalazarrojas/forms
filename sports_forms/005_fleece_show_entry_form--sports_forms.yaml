@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleece Show Entry Form
+    pages:
+    - id: 1
+      name: show_details
+      label: Show Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exhibitor
+      label: Exhibitor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter exhibitor email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fleece_info
+      label: Fleece Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - None
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: judge1
+      label: Judge 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: judge2
+      label: Judge 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: judge1_score
+      label: Judge 1
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 14
+      name: judge2_score
+      label: Judge 2
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 15
+      name: judge1_notes
+      label: Judge 1 Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: judge2_notes
+      label: Judge 2 Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: class_num
+      label: Class Num
+      hint: null
+      type: text
+      options: []
+      required: false

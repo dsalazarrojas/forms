@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Documentation Workflow Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_department
+      label: Primary Department
+      hint: null
+      type: select_one
+      options:
+      - Project Management
+      - Site Supervision
+      - Estimating/Quantity Surveying
+      - Administration
+      - Health and Safety
+      - Quality Control
+      - Document Control
+      required: true
+    - id: 4
+      name: section_current_workflow
+      label: -- Current Workflow Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: doc_creation_time
+      label: Average Weekly Time Spent on Documentation
+      hint: How many hours per week?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: document_storage_method
+      label: Primary Document Storage Method
+      hint: How are project files currently kept?
+      type: select_one
+      options:
+      - Physical Files/Folders
+      - Local Network Drive
+      - Cloud Storage (General, e.g., Dropbox)
+      - Industry Specific DMS (e.g., Procore, Aconex)
+      - Hybrid (Mix of several methods)
+      required: true
+    - id: 7
+      name: retrieval_ease_rating
+      label: Ease of Document Retrieval (1-10)
+      hint: 1 - Very difficult, 10 - Instant and easy
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: biggest_bottleneck
+      label: What is the biggest bottleneck in your current documentation process?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_quality_accuracy
+      label: -- Quality and Accuracy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: version_control_frequency
+      label: How often do you encounter outdated document versions?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: rework_due_to_docs
+      label: Have you experienced rework due to incorrect/missing documentation?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Frequently
+      - Yes - Occasionally
+      - No - Never
+      required: true
+    - id: 12
+      name: approval_cycle_time
+      label: Average Approval Cycle Time for a RFI or Submittal
+      hint: null
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 1-3 Days
+      - 3-7 Days
+      - More than 1 week
+      required: true
+    - id: 13
+      name: section_improvement_ideas
+      label: -- Future Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_training_type
+      label: Preferred Training for New Documentation Systems
+      hint: null
+      type: select_multiple
+      options:
+      - In-person workshops
+      - Online video tutorials
+      - User manuals (PDF)
+      - One-on-one coaching
+      required: false
+    - id: 15
+      name: system_improvement_suggestions
+      label: Suggestions for Improving Workflow Efficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_for_follow_up
+      label: May we contact you for further details?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: email_for_follow_up
+      label: Email Address for Follow-up
+      hint: null
+      type: email
+      options: []
+      required: false

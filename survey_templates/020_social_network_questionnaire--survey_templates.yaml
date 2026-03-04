@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_network_questionnaire
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - Snapchat
+      - TikTok
+      required: true
+    - id: 5
+      name: how_often_facebook
+      label: How Often Facebook
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_often_instagram
+      label: How Often Instagram
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: how_often_twitter
+      label: How Often Twitter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: how_often_tiktok
+      label: How Often TikTok
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: how_often_snapchat
+      label: How Often Snapchat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: how_often_youtube
+      label: How Often YouTube
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: how_often_other
+      label: How Often Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: what_do_they_use_facebook_for
+      label: What Do They Use Facebook For
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Networking
+      - Advertising
+      - Socializing
+      required: true
+    - id: 13
+      name: what_do_they_use_instagram_for
+      label: What Do They Use Instagram For
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Networking
+      - Advertising
+      - Socializing
+      required: true
+    - id: 14
+      name: what_do_they_use_twitter_for
+      label: What Do They Use Twitter For
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Networking
+      - Advertising
+      - Socializing
+      required: false
+    - id: 15
+      name: how_do_they_feel_about_social_media
+      label: How Do They Feel About Social Media
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_one
+      options:
+      - CEO/Founder
+      - Marketing
+      - Sales
+      - Customer Service
+      - Other
+      required: true
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Customer Service
+      - Other
+      required: true
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Entry Level
+      - Mid-Level
+      - Senior Level
+      required: false
+    - id: 22
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 23
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 25
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Non-Profit
+      required: false

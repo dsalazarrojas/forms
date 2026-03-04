@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Absence Notification
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: Basic details to identify the athlete
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: athlete name
+      hint: Full name of the athlete
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team
+      label: team
+      hint: Team or squad name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_name
+      label: coach name
+      hint: Primary coach or manager
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_absence
+      label: date of absence
+      hint: Date the athlete will be absent
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_absence
+      label: time of absence
+      hint: If applicable provide start time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: reason for absence
+      hint: Select the reason that best matches
+      type: select_one
+      options:
+      - Illness
+      - Injury
+      - Personal
+      - Academic
+      - Other
+      required: true
+    - id: 8
+      name: expected_return_date
+      label: expected return date
+      hint: Estimated date the athlete will return
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: parent_contact
+      label: parent or guardian contact number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_details
+      label: additional details
+      hint: Any other information the team should know
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notify_via
+      label: notify via
+      hint: Preferred notification channels
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_training_contact_form
+    pages:
+    - id: 1
+      name: name
+      label: sports_training_inquiry_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: athlete_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: athlete_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: coach_availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trainer
+      label: trainer_name
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Trainer
+      - Academy
+      required: false
+    - id: 7
+      name: academy
+      label: sports_academy
+      hint: null
+      type: select_multiple
+      options:
+      - Basketball Academy
+      - Football Academy
+      - Tennis Academy
+      required: false
+    - id: 8
+      name: category
+      label: sports_category
+      hint: null
+      type: select_multiple
+      options:
+      - Running
+      - Swimming
+      - Cycling
+      required: false
+    - id: 9
+      name: message
+      label: message_to_coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date_of_interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time_of_interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: confirm
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false

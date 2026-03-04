@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_carton_size_test_order_form
+    pages:
+    - id: 1
+      name: test_request
+      label: Test Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_canton_size
+      label: Test Carton Size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Ground
+      - Other
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false

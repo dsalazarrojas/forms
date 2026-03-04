@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advisory Program Progress Survey
+    pages:
+    - id: 1
+      name: program_info_header
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Optional - leave blank for anonymous.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade / Year Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      required: true
+    - id: 4
+      name: advisor_name
+      label: Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_feedback_header
+      label: -- Session Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: How often do you meet with your advisor?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Once per semester
+      - Never
+      required: true
+    - id: 7
+      name: usefulness
+      label: Usefulness of Sessions
+      hint: How helpful are the advisory meetings?
+      type: select_one
+      options:
+      - Extremely Helpful
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Very Helpful
+      - Not Helpful at All
+      required: true
+    - id: 8
+      name: topics_discussed
+      label: Topics Covered
+      hint: What do you usually discuss?
+      type: select_multiple
+      options:
+      - Academic Performance
+      - Career Planning
+      - Personal Issues
+      - Course Selection
+      - College Applications
+      - Extracurriculars
+      required: false
+    - id: 9
+      name: goal_progress_header
+      label: -- Goal Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: goal_tracking
+      label: Progress on Personal Goals
+      hint: Are you meeting the goals set at the start of the year?
+      type: select_one
+      options:
+      - On Track
+      - Behind Schedule
+      - Ahead of Schedule
+      - No Goals Set
+      required: true
+    - id: 11
+      name: support_quality
+      label: Quality of Support
+      hint: Do you feel supported by your advisor?
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: How can we make the advisory program better?
+      type: text
+      options: []
+      required: false

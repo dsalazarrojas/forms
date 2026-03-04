@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Leave Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false

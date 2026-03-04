@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Competition Leave Of Absence Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: competition_date
+      label: Competition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: organizer_comments
+      label: Organizer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

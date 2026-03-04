@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Ordering Experience Survey
+    pages:
+    - id: 1
+      name: respondent_details
+      label: -- Respondent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_reference
+      label: Order Reference Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ordering_process
+      label: -- Ordering Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: finding_products
+      label: How easy was it to find the products you wanted?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 7
+      name: website_navigation
+      label: How would you rate the website navigation?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 8
+      name: product_descriptions
+      label: Were product descriptions clear and helpful?
+      hint: null
+      type: select_one
+      options:
+      - Very helpful
+      - Helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not helpful at all
+      required: true
+    - id: 9
+      name: checkout_process
+      label: How smooth was the checkout process?
+      hint: null
+      type: select_one
+      options:
+      - Very smooth
+      - Smooth
+      - Okay
+      - Complicated
+      - Very complicated
+      required: true
+    - id: 10
+      name: delivery_section
+      label: -- Delivery Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_timeliness
+      label: How would you rate the delivery timeliness?
+      hint: null
+      type: select_one
+      options:
+      - Faster than expected
+      - On time
+      - Slightly delayed
+      - Significantly delayed
+      - Never received
+      required: true
+    - id: 12
+      name: delivery_condition
+      label: What was the condition of your order upon arrival?
+      hint: null
+      type: select_one
+      options:
+      - Perfect condition
+      - Good condition
+      - Acceptable condition
+      - Poor condition
+      - Damaged
+      required: true
+    - id: 13
+      name: packaging_quality
+      label: How would you rate the packaging quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: false
+    - id: 14
+      name: support_section
+      label: -- Customer Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: support_response
+      label: If you contacted support, how was your experience?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Did not contact support
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: How can we improve your shopping experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: would_order_again
+      label: Would you order from us again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true

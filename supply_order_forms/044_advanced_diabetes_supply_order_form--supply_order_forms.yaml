@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Diabetes Supply Order Form
+    pages:
+    - id: 1
+      name: section_hosp
+      label: -- Hospital or Clinic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_ordering
+      label: Department Ordering
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: authorized_purchaser_name
+      label: Authorized Purchaser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_phone_number
+      label: Facility Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_patient
+      label: -- Patient Order Specifics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_identifier_internal
+      label: Patient Identifier - Internal
+      hint: medical record number or ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_supply
+      label: -- Supply Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: glucose_monitoring_supplies
+      label: Glucose Monitoring Supplies
+      hint: Select all required items
+      type: select_multiple
+      options:
+      - CGM Sensors
+      - CGM Transmitters
+      - Test Strips
+      - Lancets
+      - Control Solution
+      required: false
+    - id: 10
+      name: insulin_delivery_supplies
+      label: Insulin Delivery Supplies
+      hint: Select all required items
+      type: select_multiple
+      options:
+      - Insulin Pump Reservoirs
+      - Infusion Sets
+      - Insulin Pens
+      - Pen Needles
+      - Syringes
+      required: false
+    - id: 11
+      name: quantity_per_item_description
+      label: Quantity per Item Description
+      hint: e.g. 3 boxes Strip, 2 Sensors
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: order_urgency
+      label: Order Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine Stock
+      - Patient Discharge
+      - Emergency Need
+      required: true
+    - id: 13
+      name: section_ship
+      label: -- Shipping and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: facility location
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: billing_account_number
+      label: Billing Account Number
+      hint: registered with supply company
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_verif
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: confirm_prescriptive_authority
+      label: Confirm Prescriptive Authority
+      hint: I certify these items are ordered under valid medical direction
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

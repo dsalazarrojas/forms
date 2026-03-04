@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Impact Study Participation Consent Form
+    pages:
+      - id: 1
+        name: section_study_overview
+        label: -- Study Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name for consent record
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Participant email
+        hint: Contact for study communications
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: study_description
+        label: Brief study description
+        hint: Summary of study aims and procedures
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: expected_duration
+        label: Expected participation duration
+        hint: Time commitment for participants
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: risks_and_benefits
+        label: Summary of risks and benefits
+        hint: Key risks and potential benefits
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: confidentiality_measures
+        label: Confidentiality measures
+        hint: How participant data will be protected
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: voluntary_participation
+        label: Voluntary participation acknowledgement
+        hint: Confirm voluntary nature of participation
+        type: select_one
+        options:
+          - I understand participation is voluntary
+          - I do not understand
+        required: true
+      - id: 9
+        name: consent_signature
+        label: Electronic signature name
+        hint: Type full name to sign consent
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: consent_date
+        label: Consent date
+        hint: Date consent was given
+        type: date
+        options: []
+        required: true

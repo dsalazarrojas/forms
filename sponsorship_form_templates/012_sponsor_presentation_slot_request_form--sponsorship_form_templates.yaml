@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: sponsor_presentation_slot_request_form
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: slot_start_time
+      label: Slot Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_request_info
+      label: Sponsor Request Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Sponsor 1''}'
+      - '{''value'': ''Sponsor 2''}'
+      - '{''value'': ''Sponsor 3''}'
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Session 1''}'
+      - '{''value'': ''Session 2''}'
+      - '{''value'': ''Session 3''}'
+      required: false

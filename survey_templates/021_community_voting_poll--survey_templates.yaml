@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Voting Poll
+    pages:
+    - id: 1
+      name: voter_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: voter_email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: voter_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Residential Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: voter_id
+      label: Voter ID or Registration Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: poll_topic
+      label: What is this poll regarding?
+      hint: Topic of the vote
+      type: select_one
+      options:
+      - Neighborhood Development
+      - Park Improvements
+      - Traffic and Transportation
+      - Community Events
+      - Budget Allocation
+      - Policy Changes
+      - Facility Usage
+      - Other
+      required: true
+    - id: 7
+      name: proposal_title
+      label: Proposal Title
+      hint: Name of the proposal being voted on
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposal_description
+      label: Proposal Description
+      hint: Summary of the proposal
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vote_choice
+      label: Your Vote
+      hint: Select your choice
+      type: select_one
+      options:
+      - Yes - I Support This Proposal
+      - No - I Do Not Support This Proposal
+      - Abstain
+      required: true
+    - id: 10
+      name: vote_strength
+      label: How strongly do you feel about this issue?
+      hint: Intensity of opinion
+      type: select_one
+      options:
+      - Very Strongly
+      - Somewhat Strongly
+      - Neutral
+      - Not Very Strongly
+      - Not At All Strongly
+      required: false
+    - id: 11
+      name: vote_reason
+      label: Briefly explain your vote
+      hint: Optional explanation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: priority_level
+      label: How important is this issue to you?
+      hint: Priority ranking
+      type: select_one
+      options:
+      - Top Priority
+      - High Priority
+      - Medium Priority
+      - Low Priority
+      - Not a Priority
+      required: true
+    - id: 13
+      name: alternative_suggestion
+      label: Do you have an alternative suggestion?
+      hint: Other ideas
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: willing_to_help
+      label: Would you be willing to help implement this proposal?
+      hint: Volunteer involvement
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe, depending on time
+      - No, not able to help
+      required: false
+    - id: 15
+      name: community_impact
+      label: How do you think this will impact the community?
+      hint: Expected impact
+      type: select_one
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Very Negative
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Any additional comments?
+      hint: Your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: poll_date
+      label: Vote Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

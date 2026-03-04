@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Medical Form
+    pages:
+    - id: 1
+      name: summer_camp_medical_form_title
+      label: summer_camp_medical_form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_camp_medical_form_health_conditions
+      label: summer_camp_medical_form_health_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: summer_camp_medical_form_vaccinations
+      label: summer_camp_medical_form_vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: summer_camp_medical_form_allergies
+      label: summer_camp_medical_form_allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: summer_camp_medical_form_medications
+      label: summer_camp_medical_form_medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: summer_camp_medical_form_additional_info
+      label: summer_camp_medical_form_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Magazine Contributor Application Form
+    pages:
+    - id: 1
+      name: personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_blog
+      label: Website or Blog URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_header
+      label: -- Writing and Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_writing
+      label: Years of Writing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: beauty_expertise
+      label: Beauty Industry Expertise
+      hint: null
+      type: select_one
+      options:
+      - Makeup
+      - Skincare
+      - Hair Care
+      - Fragrance
+      - General Beauty
+      - Multiple Areas
+      required: true
+    - id: 10
+      name: previous_publications
+      label: Previous Publications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: publication_links
+      label: Links to Published Work
+      hint: Portfolio or examples
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: writing_style
+      label: Writing Style or Specialization
+      hint: Feature articles, reviews, tutorials, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: audience_reach
+      label: Current Audience or Readership
+      hint: Number and demographics
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contribution_header
+      label: -- Contribution Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contribution_frequency
+      label: Desired Contribution Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Flexible
+      required: true
+    - id: 16
+      name: topic_interests
+      label: Topic Interests for Articles
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: article_length_preference
+      label: Preferred Article Length
+      hint: null
+      type: select_one
+      options:
+      - 500-1000 words
+      - 1000-1500 words
+      - 1500-2000 words
+      - 2000+ words
+      - Flexible
+      required: true
+    - id: 18
+      name: content_header
+      label: -- Content Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: content_types
+      label: Types of Content You Can Provide
+      hint: null
+      type: select_multiple
+      options:
+      - Articles
+      - Reviews
+      - Tutorials
+      - Interviews
+      - Trend Analysis
+      - Product Recommendations
+      required: true
+    - id: 20
+      name: social_media
+      label: Social Media Presence
+      hint: Instagram handle, followers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: multimedia_skills
+      label: Photography or Video Creation Skills
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 22
+      name: availability_header
+      label: -- Availability and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: start_date
+      label: When Can You Start Contributing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: availability
+      label: Availability for Editorial Changes
+      hint: null
+      type: select_one
+      options:
+      - Flexible
+      - Limited
+      - Scheduled
+      required: true
+    - id: 25
+      name: compensation_expectations
+      label: Compensation Expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: agreement
+      label: I Agree to the Contributor Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: bio
+      label: Short Professional Bio
+      hint: 100-150 words
+      type: text
+      options: []
+      required: true

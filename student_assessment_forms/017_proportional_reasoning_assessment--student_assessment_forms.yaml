@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proportional Reasoning Assessment
+    pages:
+    - id: 1
+      name: student_assessment_forms
+      label: Proportional Reasoning Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_understanding
+      label: Student Understanding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_concept
+      label: Student Concept
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_application
+      label: Student Application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: teacher_assessment
+      label: Teacher Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_performance
+      label: Student Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_growth
+      label: Student Growth
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: teacher_comment
+      label: Teacher Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: teacher_suggestion
+      label: Teacher Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

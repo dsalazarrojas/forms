@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Safety Violation Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of the incident, including what happened
+        and what was seen or observed.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_cause
+      label: Incident Cause
+      hint: Provide a detailed description of what caused the incident.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false
+    - id: 12
+      name: incident_status_date
+      label: Incident Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: incident_status_time
+      label: Incident Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: incident_status_description
+      label: Incident Status Description
+      hint: Provide a detailed description of the current status of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reporting_employee_name
+      label: Reporting Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reporting_employee_id
+      label: Reporting Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: reporting_employee_name
+      label: Reporting Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reporting_employee_email
+      label: Reporting Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: reporting_employee_phone
+      label: Reporting Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_name
+      label: Reviewing Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_id
+      label: Reviewing Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_employee_name
+      label: Reviewing Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_employee_id
+      label: Reviewing Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_employee_email
+      label: Reviewing Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_employee_phone
+      label: Reviewing Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

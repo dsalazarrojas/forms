@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Camp Registration Form
+    pages:
+    - id: 1
+      name: camp_intro
+      label: -- Cheer Camp Registration --
+      hint: Join us for an exciting summer of cheering
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 7-9 years
+      - 10-12 years
+      - 13-15 years
+      - 16-18 years
+      - 18+ years
+      required: true
+    - id: 6
+      name: experience_level
+      label: Cheerleading experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or guardian name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_relationship
+      label: Relationship to participant
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: true
+    - id: 9
+      name: parent_email
+      label: Parent email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: camp_session
+      label: Preferred camp session
+      hint: null
+      type: select_one
+      options:
+      - Session 1 - June 15-19
+      - Session 2 - June 22-26
+      - Session 3 - July 6-10
+      - Session 4 - July 13-17
+      - Week-long intensive - July 20-24
+      required: true
+    - id: 12
+      name: skills_focus
+      label: Which skills would you like to focus on?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stunts
+      - Tumbling
+      - Dance
+      - Chants
+      - Formations
+      - Pyramid Building
+      required: true
+    - id: 13
+      name: athletic_shoes
+      label: Do you have athletic shoes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need to purchase
+      required: true
+    - id: 14
+      name: health_conditions
+      label: Any medical conditions we should know about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Do you have any allergies?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Food allergies
+      - Medication allergies
+      - Environmental allergies
+      - Other
+      required: false
+    - id: 16
+      name: allergy_details
+      label: Please describe your allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: waiver_acceptance
+      label: I accept the camp safety waiver and liability release
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 20
+      name: shirt_size
+      label: Camp shirt size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      required: true
+    - id: 21
+      name: registration_fee
+      label: Registration fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

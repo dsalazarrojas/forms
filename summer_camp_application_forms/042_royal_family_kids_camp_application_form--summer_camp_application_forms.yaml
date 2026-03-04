@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: royal_family_kids_camp_application_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: new_or_returning
+      label: New or Returning Camper
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New Camper'', ''label'': ''New Camper''}'
+      - '{''value'': ''Returning Camper'', ''label'': ''Returning Camper''}'
+      - '{''value'': ''Returning Camper with Experience'', ''label'': ''Returning
+        Camper with Experience''}'
+      required: false
+    - id: 6
+      name: experience_about_rfkc
+      label: Experience About RFK
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_about_charity
+      label: Experience About Charity
+      hint: null
+      type: text
+      options: []
+      required: false

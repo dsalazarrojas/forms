@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Daily Wellness Check In Form
+    pages:
+    - id: 1
+      name: camper_name
+      label: Camper Name
+      hint: Full name for attendance and records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: Date of wellness check
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: temperature_celsius
+      label: Temperature Celsius
+      hint: Measured body temperature
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: symptoms_present
+      label: Symptoms Present
+      hint: Select any symptoms the camper is experiencing
+      type: select_multiple
+      options:
+      - Cough
+      - Fever
+      - Sore Throat
+      - None
+      required: true
+    - id: 5
+      name: overall_wellness_rating
+      label: Overall Wellness Rating
+      hint: Staff assessment for the day
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: medication_administered
+      label: Medication Administered
+      hint: Document any medications given today
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: isolation_required
+      label: Isolation Required
+      hint: Whether the camper needs to be isolated for safety
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: staff_notes
+      label: Staff Notes
+      hint: Observations or follow up instructions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_contacted
+      label: Parent Contacted
+      hint: Was the parent or guardian notified
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: Any actions required after the wellness check
+      type: text
+      options: []
+      required: false

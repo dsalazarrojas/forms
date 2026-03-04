@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weightlifting Schedule Selection Form
+    pages:
+    - id: 1
+      name: preferred_lifting_days
+      label: Preferred lifting days
+      hint: Select all days of the week that you prefer to lift on
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: preferred_training_times
+      label: Preferred training times
+      hint: Select all available training times
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: preferred_equipment
+      label: Preferred equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: training_groups
+      label: Training groups
+      hint: Select the training groups you want to join
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: available_time
+      label: Available time
+      hint: Select the available time slot (AM/PM)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: training_days
+      label: Training days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: training_frequency
+      label: Training frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: training_duration
+      label: Training duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: training_intensity
+      label: Training intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: training_type
+      label: Training type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: rest_days
+      label: Rest days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: available_days
+      label: Available days
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: training_time
+      label: Training time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_groups
+      label: Training groups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: training_schedule
+      label: Training schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: training_time_slot
+      label: Training time slot
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: training_frequency_2
+      label: Training frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: training_duration_2
+      label: Training duration 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: training_intensity_2
+      label: Training intensity 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: training_type_2
+      label: Training type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

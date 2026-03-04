@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Abortion Survey"
+    pages:
+    - id: 1
+      name: section_header_demographics
+      label: "-- Respondent Demographics --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: "What is your age range"
+      hint: null
+      type: select_one
+      options:
+        - "18-24"
+        - "25-34"
+        - "35-44"
+        - "45-54"
+        - "55-64"
+        - "65 or older"
+      required: true
+    - id: 3
+      name: gender
+      label: "What is your gender"
+      hint: null
+      type: select_one
+      options:
+        - "Female"
+        - "Male"
+        - "Non-binary"
+        - "Prefer not to say"
+      required: true
+    - id: 4
+      name: education_level
+      label: "Highest level of education completed"
+      hint: null
+      type: select_one
+      options:
+        - "High school or equivalent"
+        - "Some college"
+        - "Associate degree"
+        - "Bachelor's degree"
+        - "Graduate or professional degree"
+        - "Prefer not to say"
+      required: false
+    - id: 5
+      name: section_header_attitudes
+      label: "-- Attitudes and Beliefs --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: general_stance
+      label: "Which best describes your general stance on abortion"
+      hint: null
+      type: select_one
+      options:
+        - "Should be legal in all cases"
+        - "Should be legal in most cases"
+        - "Should be illegal in most cases"
+        - "Should be illegal in all cases"
+        - "Unsure or no opinion"
+      required: true
+    - id: 7
+      name: acceptable_circumstances
+      label: "In which circumstances do you believe abortion should be permitted"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Risk to the life of the mother"
+        - "Severe fetal abnormality"
+        - "Cases of rape or incest"
+        - "Economic hardship"
+        - "Personal choice at any time"
+        - "None of the above"
+      required: true
+    - id: 8
+      name: access_importance
+      label: "How important is access to reproductive healthcare services in your community"
+      hint: null
+      type: select_one
+      options:
+        - "Very important"
+        - "Somewhat important"
+        - "Neutral"
+        - "Not very important"
+        - "Not important at all"
+      required: true
+    - id: 9
+      name: information_source
+      label: "Where do you primarily get information about reproductive health topics"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Healthcare provider"
+        - "Online sources"
+        - "Friends or family"
+        - "News media"
+        - "Religious or community organizations"
+        - "Academic or research publications"
+      required: false
+    - id: 10
+      name: section_header_experience
+      label: "-- Personal Experience --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: know_someone
+      label: "Do you personally know someone who has had an abortion"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Prefer not to say"
+      required: false
+    - id: 12
+      name: counseling_availability
+      label: "Do you believe adequate counseling and support services are available in your area"
+      hint: null
+      type: select_one
+      options:
+        - "Yes, adequate services exist"
+        - "Some services exist but not enough"
+        - "No, services are lacking"
+        - "I am not sure"
+      required: true
+    - id: 13
+      name: section_header_policy
+      label: "-- Policy Perspectives --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: government_role
+      label: "What role should the government play in regulating abortion"
+      hint: null
+      type: select_one
+      options:
+        - "No regulation - personal decision only"
+        - "Some regulation with exceptions"
+        - "Strict regulation"
+        - "Complete prohibition"
+        - "Unsure"
+      required: true
+    - id: 15
+      name: education_programs
+      label: "Do you support comprehensive reproductive health education programs"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly support"
+        - "Somewhat support"
+        - "Neutral"
+        - "Somewhat oppose"
+        - "Strongly oppose"
+      required: true
+    - id: 16
+      name: additional_thoughts
+      label: "Any additional thoughts or perspectives you would like to share"
+      hint: null
+      type: text
+      options: []
+      required: false

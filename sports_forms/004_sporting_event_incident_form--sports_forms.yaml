@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sporting Event Incident Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: incident time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_severity
+      label: incident severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: incident_resolution
+      label: incident resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_reporter
+      label: incident reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_notes
+      label: incident notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: incident_followup
+      label: follow-up information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_safety_improvements
+      label: safety improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_recommendations
+      label: incident recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_investigation_status
+      label: incident investigation status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: incident_closed_date
+      label: incident closed date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_closed_time
+      label: incident closed time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: incident_followers
+      label: incident followers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_investigators
+      label: incident investigators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_victims
+      label: incident victims
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_injuries
+      label: incident injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_damages
+      label: incident damages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_investigation_notes
+      label: incident investigation notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: incident_investigation_status
+      label: incident investigation status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: incident_followers
+      label: incident followers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_investigation_notes
+      label: incident investigation notes
+      hint: null
+      type: note
+      options: []
+      required: false

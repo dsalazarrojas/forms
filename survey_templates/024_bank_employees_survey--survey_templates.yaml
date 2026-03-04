@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Employees Survey
+    pages:
+    - id: 1
+      name: employee_context_header
+      label: -- Employee Context --
+      hint: Your individual responses are confidential and aggregated for reporting
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: Select your primary work area
+      type: select_one
+      options:
+      - Retail Branch Operations
+      - Corporate / Commercial Banking
+      - IT / Digital Banking
+      - Risk and Compliance
+      - Human Resources
+      - Mortgage and Lending
+      - Customer Service Center
+      required: true
+    - id: 3
+      name: tenure_years
+      label: Years of Service at the Bank
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 4
+      name: job_satisfaction_header
+      label: -- Job Satisfaction and Engagement --
+      hint: Rate the following statements
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_job_satisfaction
+      label: Overall, how satisfied are you with your job?
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 6
+      name: role_clarity
+      label: I have a clear understanding of my job responsibilities
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 7
+      name: tools_adequacy
+      label: I have the necessary tools and technology to do my job effectively
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 8
+      name: professional_growth
+      label: I see opportunities for professional growth within the bank
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 9
+      name: management_feedback_header
+      label: -- Management and Leadership --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_support
+      label: My immediate supervisor provides regular and constructive feedback
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: executive_trust
+      label: I trust the bank's executive leadership team
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: work_environment_header
+      label: -- Work Environment and Culture --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: work_life_balance
+      label: The bank supports a healthy work-life balance
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: workplace_safety
+      label: I feel safe and secure in my physical work environment
+      hint: Especially relevant for branch staff
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: team_collaboration
+      label: My team collaborates effectively to solve problems
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 16
+      name: improvement_suggestion
+      label: If you could change one thing about working here, what would it be?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: likelihood_to_recommend_employer
+      label: How likely are you to recommend this bank as a great place to work?
+      hint: (0-10)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: date_completed
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

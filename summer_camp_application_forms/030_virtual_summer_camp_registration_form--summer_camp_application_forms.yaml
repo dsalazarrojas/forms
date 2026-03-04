@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Summer Camp Registration Form
+    pages:
+    - id: 1
+      name: summer_camp_enrollment_details
+      label: Summer Camp Enrollment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parents_info
+      label: parent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: children_info
+      label: children_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: summer_camp_info
+      label: summer_camp
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''camp1'', ''label'': ''Camp 1''}'
+      - '{''id'': 2, ''name'': ''camp2'', ''label'': ''Camp 2''}'
+      - '{''id'': 3, ''name'': ''camp3'', ''label'': ''Camp 3''}'
+      required: true
+    - id: 5
+      name: session_details
+      label: session_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''session1'', ''label'': ''Session 1''}'
+      - '{''id'': 2, ''name'': ''session2'', ''label'': ''Session 2''}'
+      - '{''id'': 3, ''name'': ''session3'', ''label'': ''Session 3''}'
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: camp_start_date
+      label: Camp Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: camp_end_date
+      label: Camp End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: camp_location
+      label: Camp Location
+      hint: null
+      type: text
+      options: []
+      required: false

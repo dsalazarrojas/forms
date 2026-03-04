@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Assistance Survey
+    pages:
+    - id: 1
+      name: application_context_header
+      label: -- Application Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name_optional
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: type_of_application
+      label: What type of application did you complete?
+      hint: null
+      type: select_one
+      options:
+      - Membership Application
+      - Funding - Grant Request
+      - Job Application
+      - Educational Enrollment
+      - Permit - License Request
+      - Other
+      required: true
+    - id: 4
+      name: assistance_received_header
+      label: -- Assistance Received --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: used_assistance_tools
+      label: Did you use any of the following assistance tools?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Online Help Center / FAQ
+      - Live Chat Support
+      - Phone Support
+      - Email Support
+      - In-person Guidance
+      - None
+      required: true
+    - id: 6
+      name: ease_of_finding_help
+      label: How easy was it to find the help you needed?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Somewhat Easy
+      - Neutral
+      - Somewhat Difficult
+      - Very Difficult
+      required: true
+    - id: 7
+      name: experience_evaluation_header
+      label: -- User Experience Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: clarity_of_form_questions
+      label: How clear were the questions on the application form?
+      hint: null
+      type: select_one
+      options:
+      - Extremely Clear
+      - Mostly Clear
+      - Somewhat Confusing
+      - Very Confusing
+      required: true
+    - id: 9
+      name: technical_issues_encountered
+      label: Did you encounter any technical issues while applying?
+      hint: null
+      type: select_one
+      options:
+      - No Issues
+      - Minor Technical Glitch
+      - Major Error (Prevented Completion)
+      required: true
+    - id: 10
+      name: issue_description
+      label: If you encountered issues, please describe them
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_to_complete
+      label: Approximately how long did the application take to complete?
+      hint: null
+      type: select_one
+      options:
+      - Under 15 Minutes
+      - 15-30 Minutes
+      - 30-60 Minutes
+      - Over 1 Hour
+      required: true
+    - id: 12
+      name: improvement_suggestions_header
+      label: -- Suggestions for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: helpfulness_of_instructions
+      label: Were the instructions provided at the beginning helpful?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Very Helpful
+      - Yes - Somewhat Helpful
+      - No - Not Helpful
+      - No Instructions Provided
+      required: true
+    - id: 14
+      name: specific_improvement_feedback
+      label: What is one thing we could do to make the application process easier?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: overall_satisfaction_score
+      label: Rate your overall satisfaction with the application process
+      hint: (1-5 stars)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: additional_feedback
+      label: Any other comments you would like to share?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_submission_date
+      label: Date of Survey Completion
+      hint: null
+      type: date
+      options: []
+      required: true

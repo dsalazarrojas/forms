@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Hall Encore Voting Form
+    pages:
+      - id: 1
+        name: welcome_message
+        label: Welcome to Encore Voting
+        hint: Vote for your favorite performance to request an encore
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Your Name
+        hint: Optional identification
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: voter_email
+        label: Email Address
+        hint: For confirmation and results notification
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: concert_date
+        label: Concert Date
+        hint: Select todays concert date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: performance_section
+        label: Performance Section
+        hint: Which section of the concert are you voting for
+        type: select_one
+        options:
+          - First Half
+          - Second Half
+          - Full Program
+        required: true
+      - id: 6
+        name: encore_choice
+        label: Encore Performance Choice
+        hint: Select the piece you want to hear again
+        type: select_one
+        options:
+          - Opening Overture
+          - First Symphony Movement
+          - Second Symphony Movement
+          - Third Symphony Movement
+          - Final Symphony Movement
+          - Solo Piano Performance
+          - Violin Concerto
+          - Cello Suite
+          - Vocal Aria
+          - Chamber Music Piece
+        required: true
+      - id: 7
+        name: composer_preference
+        label: Favorite Composer of the Evening
+        hint: Which composers work did you enjoy most
+        type: select_one
+        options:
+          - Beethoven
+          - Mozart
+          - Bach
+          - Tchaikovsky
+          - Brahms
+          - Chopin
+          - Wagner
+          - Mahler
+          - Other
+        required: false
+      - id: 8
+        name: performance_rating
+        label: Overall Performance Rating
+        hint: How would you rate tonights performance
+        type: select_one
+        options:
+          - Exceptional
+          - Excellent
+          - Very Good
+          - Good
+          - Satisfactory
+        required: true
+      - id: 9
+        name: orchestra_rating
+        label: Orchestra Performance
+        hint: Rate the orchestras execution
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - Needs Improvement
+        required: false
+      - id: 10
+        name: conductor_rating
+        label: Conductor Performance
+        hint: Rate the conductors leadership
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - Needs Improvement
+        required: false
+      - id: 11
+        name: soloist_rating
+        label: Soloist Performance
+        hint: Rate any featured soloists
+        type: select_one
+        options:
+          - Outstanding
+          - Excellent
+          - Very Good
+          - Good
+          - No Soloist
+          - Not Applicable
+        required: false
+      - id: 12
+        name: venue_acoustics
+        label: Venue Acoustics
+        hint: Rate the sound quality of the hall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 13
+        name: seating_satisfaction
+        label: Seating Satisfaction
+        hint: Were you satisfied with your seat location
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: false
+      - id: 14
+        name: would_attend_again
+        label: Would You Attend Again
+        hint: Will you attend future concerts at this hall
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 15
+        name: program_suggestions
+        label: Future Program Suggestions
+        hint: What pieces would you like to hear in future concerts
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: Share any other feedback about the performance
+        type: text
+        options: []
+        required: false

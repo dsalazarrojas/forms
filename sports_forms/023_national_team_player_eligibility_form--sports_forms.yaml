@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Team Player Eligibility Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Enter player name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_id
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sport_id
+      label: Sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: nationality_id
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''US''}'
+      - '{''id'': 2, ''label'': ''Canada''}'
+      - '{''id'': 3, ''label'': ''Mexico''}'
+      required: false
+    - id: 6
+      name: sport_experience
+      label: Sport experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sport_level
+      label: Sport level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Recreational''}'
+      - '{''id'': 2, ''label'': ''Competitive''}'
+      - '{''id'': 3, ''label'': ''Professional''}'
+      required: false
+    - id: 8
+      name: emergency_contact_person
+      label: Emergency contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship with emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assistant Football Coach Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_position
+      label: Your Position
+      hint: Your coaching role
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: head_coach_name
+      label: Head Coach Being Evaluated
+      hint: Full name of head coach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: Football team name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: season_year
+      label: Season and Year
+      hint: Which season is this for?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: coaching_experience
+      label: Head Coach Coaching Experience
+      hint: Years in coaching
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period_start
+      label: Evaluation Period Start
+      hint: From when to when?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_period_end
+      label: Evaluation Period End
+      hint: End date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: game_strategy_planning
+      label: Game Strategy and Planning
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: player_development
+      label: Player Development and Coaching
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: team_management
+      label: Team Management and Discipline
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: game_management
+      label: In-Game Decision Making and Management
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: team_motivation
+      label: Team Motivation and Leadership
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 16
+      name: offensive_coaching
+      label: Offensive Strategy and Coaching
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: defensive_coaching
+      label: Defensive Strategy and Coaching
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: special_teams_coaching
+      label: Special Teams Coaching
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 19
+      name: player_recruitment_retention
+      label: Player Recruitment and Retention
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 20
+      name: overall_performance
+      label: Overall Coaching Performance
+      hint: Rate on scale of 1-5
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 21
+      name: key_strengths
+      label: Key Strengths
+      hint: What is the coach doing well?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs to improve?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: recommendations
+      label: Recommendations for Development
+      hint: Suggestions for growth
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_rating
+      label: Overall Rating
+      hint: Final evaluation rating
+      type: select_one
+      options:
+      - Unsatisfactory
+      - Needs Improvement
+      - Meets Expectations
+      - Exceeds Expectations
+      - Outstanding
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth-retreat-registration-form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Banana
+      - Orange
+      required: false
+    - id: 4
+      name: participant_activities
+      label: Participant Activities
+      hint: null
+      type: select_one
+      options:
+      - Hiking
+      - Swimming
+      - Arts and Crafts
+      required: false
+    - id: 5
+      name: participant_special_needs
+      label: Participant Special Needs
+      hint: null
+      type: select_one
+      options:
+      - Wheelchair
+      - Hearing Impaired
+      - Visual Impaired
+      required: false
+    - id: 6
+      name: participant_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 8
+      name: participant_medication
+      label: Participant Medication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: participant_physician
+      label: Participant Physician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes_for_staff
+      label: Notes for Staff
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_physician_note
+      label: Physician Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_medical_need
+      label: Participant Medical Need
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: participant_special_needs_physician
+      label: Participant Special Needs Physician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: participant_physician_contact_info
+      label: Physician Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

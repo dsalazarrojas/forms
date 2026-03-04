@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check In Scheduling Survey
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_scheduling
+      label: -- Scheduling Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name_selection
+      label: For which event are you checking in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_checkin_date
+      label: Preferred Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 08-00 AM - 10-00 AM
+      - 10-00 AM - 12-00 PM
+      - 01-00 PM - 03-00 PM
+      - 03-00 PM - 05-00 PM
+      required: true
+    - id: 9
+      name: alternative_date
+      label: Alternative Date (If primary unavailable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: group_checkin
+      label: Are you checking in as a group
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group (2-5 people)
+      - Large Group (6+ people)
+      required: true
+    - id: 11
+      name: group_size
+      label: Total Group Size
+      hint: Including yourself
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Any special requirements or assistance needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reminder_pref
+      label: How would you like to receive your confirmation
+      hint: null
+      type: select_one
+      options:
+      - Email Only
+      - SMS Only
+      - Both Email and SMS
+      required: true
+    - id: 15
+      name: survey_completion_ack
+      label: I confirm my availability as stated above
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true
+    - id: 16
+      name: comments_field
+      label: Any other comments or questions
+      hint: null
+      type: text
+      options: []
+      required: false

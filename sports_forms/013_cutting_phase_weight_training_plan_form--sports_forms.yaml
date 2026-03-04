@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cutting Phase Weight Training Plan Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_plan_date
+      label: Training Plan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: strength_goals
+      label: Strength Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workout_frequency
+      label: Workout Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly''}'
+      required: false
+    - id: 6
+      name: strength_focus
+      label: Strength Focus
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Chest''}'
+      - '{''value'': ''Back''}'
+      - '{''value'': ''Shoulders''}'
+      - '{''value'': ''Legs''}'
+      - '{''value'': ''Core''}'
+      - '{''value'': ''Cardio''}'
+      required: false
+    - id: 7
+      name: exercises_performed
+      label: Exercises Performed
+      hint: List the exercises you performed for your strength training plan
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

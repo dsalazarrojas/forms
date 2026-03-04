@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Supported Agriculture Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should we deliver your produce?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address_type
+      label: Address Type
+      hint: Type of delivery location
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Community Pickup Point
+      - Farmers Market
+      - Other
+      required: true
+    - id: 6
+      name: share_size
+      label: CSA Share Size
+      hint: How much produce do you need?
+      type: select_one
+      options:
+      - Small Share (1-2 people)
+      - Medium Share (2-4 people)
+      - Large Share (4-6 people)
+      - Extra Large Share (6+ people)
+      required: true
+    - id: 7
+      name: share_frequency
+      label: Delivery Frequency
+      hint: How often do you want deliveries?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - One-time Order
+      required: true
+    - id: 8
+      name: start_date
+      label: Preferred Start Date
+      hint: When should deliveries begin?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: produce_preferences
+      label: Produce Preferences
+      hint: Select what you prefer
+      type: select_multiple
+      options:
+      - Leafy Greens (lettuce, spinach, kale)
+      - Root Vegetables (carrots, beets, potatoes)
+      - Cruciferous (broccoli, cauliflower, cabbage)
+      - Nightshades (tomatoes, peppers, eggplant)
+      - Squash (summer, winter varieties)
+      - Herbs (basil, cilantro, parsley)
+      - Fruits (berries, melons, tree fruits)
+      - Allergic to Nightshades
+      - Allergic to Berries
+      - No Preferences
+      required: true
+    - id: 10
+      name: organic_preference
+      label: Do you prefer organic produce?
+      hint: Farming method preference
+      type: select_one
+      options:
+      - Yes, certified organic only
+      - Yes, preferably organic
+      - No preference
+      - Prefer locally grown over organic
+      required: true
+    - id: 11
+      name: add_on_eggs
+      label: Add Farm Fresh Eggs?
+      hint: Dozen eggs per delivery
+      type: select_one
+      options:
+      - false
+      - Yes, 1 dozen
+      - Yes, 2 dozen
+      - Yes, 3 dozen
+      required: false
+    - id: 12
+      name: add_on_honey
+      label: Add Local Honey?
+      hint: Jar of honey per delivery
+      type: select_one
+      options:
+      - false
+      - Yes, small jar (8oz)
+      - Yes, medium jar (16oz)
+      - Yes, large jar (32oz)
+      required: false
+    - id: 13
+      name: add_on_flowers
+      label: Add Fresh Cut Flowers?
+      hint: Seasonal bouquet
+      type: select_one
+      options:
+      - false
+      - Yes, small bouquet
+      - Yes, large bouquet
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Any dietary restrictions or allergies?
+      hint: Important for produce selection
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_window
+      label: Preferred Delivery Window
+      hint: What time works best?
+      type: select_one
+      options:
+      - Morning (7am-11am)
+      - Midday (11am-3pm)
+      - Afternoon (3pm-7pm)
+      - Evening (7pm-9pm)
+      - No preference
+      required: true
+    - id: 16
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: Gate codes, leave at door, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - SNAP/EBT
+      - Check
+      - Cash on Delivery
+      - Farm Credit (if member)
+      required: true
+    - id: 18
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often will you pay?
+      type: select_one
+      options:
+      - Pay in Full (season)
+      - Monthly Installments
+      - Per Delivery
+      required: true
+    - id: 19
+      name: farm_newsletter
+      label: Would you like to receive our farm newsletter?
+      hint: Recipes, farm updates, and news
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 20
+      name: farm_visit_interest
+      label: Interested in visiting the farm?
+      hint: Farm tours and events
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe, depending on schedule
+      - No, not interested
+      required: false
+    - id: 21
+      name: referral_source
+      label: How did you hear about our CSA?
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Farmers Market
+      - Website
+      - Community Bulletin
+      - Local Store
+      - Other
+      required: true
+    - id: 22
+      name: special_requests
+      label: Any special requests or comments?
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

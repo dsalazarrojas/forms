@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: miss_mill_creek_community_sweetheart_cash_check
+    pages:
+    - id: 1
+      name: contest_name
+      label: Contest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cash_amount
+      label: Cash Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: check_number
+      label: Check Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: check_date
+      label: Check Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: check_amount
+      label: Check Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sponsor_address
+      label: Sponsor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sponsor_email
+      label: Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_check_number
+      label: Sponsor Check Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_check_date
+      label: Sponsor Check Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: sponsor_check_amount
+      label: Sponsor Check Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: other_sponsorships
+      label: Other Sponsorships
+      hint: null
+      type: select_multiple
+      options:
+      - 1st place
+      - 2nd place
+      - 3rd place
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenny
+      required: true
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: true

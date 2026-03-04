@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 5K Sign Up Form
+    pages:
+    - id: 1
+      name: header_signup
+      label: "--- Quick Sign-Up ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Confirmation and bib info sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: For last-minute updates
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shirt_size
+      label: Shirt size
+      hint: Choose preferred size
+      type: select_one
+      options:
+        - S
+        - M
+        - L
+        - XL
+      required: true
+    - id: 7
+      name: experience_level
+      label: Running experience level
+      hint: Helps place you in appropriate start wave
+      type: select_one
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+      required: false
+    - id: 8
+      name: agree_terms
+      label: I agree to event terms and waiver
+      hint: Required to participate
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 9
+      name: donation_amount
+      label: Optional donation amount
+      hint: Enter numeric amount (optional)
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments or accessibility needs
+      hint: Describe any accommodations required
+      type: text
+      options: []
+      required: false

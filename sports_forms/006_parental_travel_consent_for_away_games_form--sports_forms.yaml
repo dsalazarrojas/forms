@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Travel Consent For Away Games Form
+    pages:
+    - id: 1
+      name: parental_travel_consent
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent has given permission'', ''value'': True}'
+      - '{''label'': ''Parent has not given permission'', ''value'': False}'
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name of emergency contact and phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_contact
+      label: Medical Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_transport
+      label: Transport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_notes
+      label: Travel Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_administration
+      label: Medical Administration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: administration_form
+      label: Administration Form
+      hint: null
+      type: text
+      options: []
+      required: false

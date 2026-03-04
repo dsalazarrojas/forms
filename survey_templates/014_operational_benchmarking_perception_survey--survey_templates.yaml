@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: operational_benchmarking_perception_survey
+    pages:
+    - id: 1
+      name: benchmarking_familiarity
+      label: benchmarking familiarity
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: effectiveness
+      label: effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 3
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: benchmarking_effectiveness
+      label: benchmarking_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: benchmarking_challenge
+      label: benchmarking_challenge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: benchmarking_benefit
+      label: benchmarking_benefit
+      hint: null
+      type: number
+      options: []
+      required: false

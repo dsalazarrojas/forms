@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Physical Examination Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: camper_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: section_vital_signs
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight
+      label: Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Enter as systolic/diastolic, e.g., 120/80
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pulse_rate
+      label: Pulse Rate (beats per minute)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: body_temperature
+      label: Body Temperature (Fahrenheit)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: recent_illness
+      label: Recent Illness or Infection
+      hint: Last 4 weeks
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Asthma, diabetes, heart condition, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: Include medication and food allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: Include name, dosage, and frequency
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_immunizations
+      label: -- Immunizations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: up_to_date_vaccinations
+      label: Up to date with vaccinations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 19
+      name: last_tetanus
+      label: Last Tetanus Shot Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: covid_vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Unknown
+      required: false
+    - id: 21
+      name: section_physical_exam
+      label: -- Physical Examination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: general_health
+      label: General Health Status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: clearance_status
+      label: Physician Clearance for Camp Activities
+      hint: null
+      type: select_one
+      options:
+      - Full Clearance
+      - Cleared with Restrictions
+      - Not Cleared
+      required: true
+    - id: 24
+      name: restrictions_notes
+      label: Activity Restrictions or Special Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_signature_date
+      label: Physician Signature and Date
+      hint: null
+      type: date
+      options: []
+      required: true

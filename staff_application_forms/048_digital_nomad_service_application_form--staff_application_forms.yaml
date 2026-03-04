@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Nomad Service Application Form
+    pages:
+    - id: 1
+      name: digital_nomad_service_application_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: digital_nomad_service_application_form_services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - Digital Marketing
+      - Social Media
+      - Graphic Design
+      - Web Development
+      - Photography
+      - Video Production
+      required: true
+    - id: 8
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: digital_nomad_service_application_form_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree with the terms and conditions of the Digital Nomad Service
+      - I don't agree with the terms and conditions of the Digital Nomad Service
+      required: true
+    - id: 10
+      name: digital_nomad_service_application_form_agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true

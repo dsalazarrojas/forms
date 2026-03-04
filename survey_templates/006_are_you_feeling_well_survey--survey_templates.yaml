@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Are You Feeling Well Survey
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: ID or Student Number
+      hint: Optional identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_survey
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_health_assessment
+      label: -- Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_wellness
+      label: How are you feeling overall today
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 7
+      name: physical_symptoms
+      label: Are you experiencing any physical symptoms
+      hint: null
+      type: select_one
+      options:
+      - No symptoms
+      - Minor symptoms
+      - Moderate symptoms
+      - Severe symptoms
+      required: true
+    - id: 8
+      name: specific_symptoms
+      label: If yes, please describe your symptoms
+      hint: Examples - headache, cough, fatigue, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fever_check
+      label: Do you have a fever or elevated temperature
+      hint: null
+      type: select_one
+      options:
+      - No
+      - Yes
+      - Unsure
+      required: true
+    - id: 10
+      name: energy_level
+      label: Energy Level
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Normal
+      - Low
+      - Very low
+      required: true
+    - id: 11
+      name: section_mental_wellness
+      label: -- Mental and Emotional Wellness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emotional_state
+      label: How would you describe your emotional state
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very negative
+      required: true
+    - id: 13
+      name: stress_level
+      label: Current stress level
+      hint: null
+      type: select_one
+      options:
+      - Not stressed
+      - Slightly stressed
+      - Moderately stressed
+      - Very stressed
+      - Extremely stressed
+      required: true
+    - id: 14
+      name: sleep_quality
+      label: Sleep quality last night
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: section_lifestyle
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: water_intake
+      label: Did you drink adequate water today
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - Somewhat
+      - No
+      required: false
+    - id: 17
+      name: physical_activity
+      label: Did you engage in physical activity
+      hint: null
+      type: select_one
+      options:
+      - Yes - vigorous
+      - Yes - moderate
+      - Yes - light
+      - No
+      required: false
+    - id: 18
+      name: nutrition
+      label: How would you rate your nutrition intake today
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medication_needed
+      label: Do you need medical attention or rest
+      hint: null
+      type: select_one
+      options:
+      - No
+      - Yes
+      - Unsure
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Any additional comments or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

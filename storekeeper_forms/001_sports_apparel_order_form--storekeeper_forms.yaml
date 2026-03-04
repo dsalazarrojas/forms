@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Apparel Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_info
+      label: order_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: shipping_info
+      label: shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false

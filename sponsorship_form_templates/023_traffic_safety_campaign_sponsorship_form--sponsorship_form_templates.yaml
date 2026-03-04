@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: traffic_safety_campaign_sponsorship_form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: campaign_date
+      label: campaign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campaign_duration
+      label: campaign_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_type
+      label: campaign_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Type 1'', ''value'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2'', ''value'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3'', ''value'': ''Type 3''}'
+      - '{''id'': 4, ''name'': ''Type 4'', ''value'': ''Type 4''}'
+      - '{''id'': 5, ''name'': ''Type 5'', ''value'': ''Type 5''}'
+      required: true
+    - id: 9
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization_address
+      label: organization_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sponsorship_details
+      label: sponsorship_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sponsor_name
+      label: sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sponsor_title
+      label: sponsor_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sponsor_organization
+      label: sponsor_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sponsor_address
+      label: sponsor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sponsor_phone
+      label: sponsor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sponsor_email
+      label: sponsor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: sponsorship_status
+      label: sponsorship_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive'', ''value'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 4, ''name'': ''Expired'', ''value'': ''Expired''}'
+      - '{''id'': 5, ''name'': ''Archived'', ''value'': ''Archived''}'
+      - '{''id'': 6, ''name'': ''Cancelled'', ''value'': ''Cancelled''}'
+      - '{''id'': 7, ''name'': ''Rejected'', ''value'': ''Rejected''}'
+      required: true

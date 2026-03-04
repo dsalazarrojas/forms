@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Burnout Prevention Awareness Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Survey Introduction --
+      hint: This survey helps us understand and prevent athlete burnout. All responses
+        are confidential.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_sport
+      label: What is your primary sport?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: competition_level
+      label: What is your current level of competition?
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Collegiate
+      - High School
+      - Youth / Academy
+      - Recreational / Club
+      required: true
+    - id: 4
+      name: awareness_header
+      label: -- Burnout Awareness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: burnout_definition
+      label: In your own words, how would you define athlete burnout?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: awareness_level
+      label: How familiar are you with the clinical signs of burnout?
+      hint: 1 is Not familiar, 5 is Very familiar
+      type: select_one
+      options:
+      - 1 - Not familiar
+      - 2 - Slightly familiar
+      - 3 - Moderately familiar
+      - 4 - Familiar
+      - 5 - Very familiar
+      required: true
+    - id: 7
+      name: exhaustion_frequency
+      label: Have you felt physically or emotionally exhausted by your sport in the
+        last 6 months?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: factors_header
+      label: -- Factors and Experiences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: stress_factors
+      label: Which factors contribute most to stress in your sport?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Performance pressure
+      - Time commitments
+      - Injury concerns
+      - Coaching style or pressure
+      - Difficulty balancing social life
+      - Lack of adequate recovery time
+      required: true
+    - id: 10
+      name: support_system_rating
+      label: Do you feel you have adequate support systems to manage sports-related
+        stress?
+      hint: 1 is No support, 5 is Excellent support
+      type: select_one
+      options:
+      - 1 - No support
+      - 2 - Minimal support
+      - 3 - Moderate support
+      - 4 - Good support
+      - 5 - Excellent support
+      required: true
+    - id: 11
+      name: training_hours
+      label: How many hours per week do you dedicate to training and competition?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: rest_day_status
+      label: Do you typically have at least one full day of rest per week?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: prevention_header
+      label: -- Prevention and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_strategies
+      label: What prevention strategies do you currently use?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Meditation or Mindfulness
+      - Goal setting and planning
+      - Scheduled breaks or vacations
+      - Nutritional optimization
+      - Talking to a mental health professional
+      - Socializing outside of sport
+      required: false
+    - id: 15
+      name: preferred_initiatives
+      label: Which initiatives would be most helpful for burnout prevention in your
+        program?
+      hint: Select your top priorities
+      type: select_multiple
+      options:
+      - Educational workshops on burnout
+      - Mandatory rest days or reduced volume
+      - Improved communication with coaching staff
+      - Access to mental health resources
+      - Peer support groups
+      required: true
+    - id: 16
+      name: workshop_interest
+      label: Would you like to receive information about upcoming wellness workshops?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: contact_email
+      label: Contact Email Address
+      hint: Optional - for workshop information
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Do you have any additional comments or concerns regarding athlete well-being?
+      hint: null
+      type: text
+      options: []
+      required: false

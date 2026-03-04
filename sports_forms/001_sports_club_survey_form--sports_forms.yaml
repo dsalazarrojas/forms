@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Club Survey Form
+    pages:
+    - id: 1
+      name: survey_form_food_selection
+      label: Food selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: frequency_of_visit
+      label: frequency_of_visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_beverage
+      label: preferred_beverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ideas_improve_facility
+      label: ideas_improve_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: survey_form_beverage
+      label: Survey Form Beverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_form_foods
+      label: Survey Form Foods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_form_frequency
+      label: Survey Form Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_form_ideas
+      label: Survey Form Ideas
+      hint: null
+      type: text
+      options: []
+      required: false

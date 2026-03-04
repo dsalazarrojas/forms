@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referee_level
+      label: Referee Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 6
+      name: sports
+      label: Sports
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      required: false
+    - id: 7
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: number
+      options: []
+      required: false

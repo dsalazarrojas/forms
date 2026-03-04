@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Fitness Questionnaire
+    pages:
+    - id: 1
+      name: physical_fitness_questionnaire
+      label: physical_fitness_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: section_1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: section_1_question_1
+      label: section_1_question_1
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 4
+      name: section_2
+      label: section_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_2_question_1
+      label: section_2_question_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: section_3
+      label: section_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_3_question_1
+      label: section_3_question_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

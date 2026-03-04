@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Adventure Skills
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: adventure_skills_1
+      label: Rock climbing
+      hint: null
+      type: select_one
+      options:
+      - Climbing
+      - Abseiling
+      - Caving
+      - Caving
+      - Kayaking
+      - Rafting
+      - Ziplining
+      - Zip lining
+      required: true
+    - id: 7
+      name: adventure_skills_2
+      label: Water sports
+      hint: null
+      type: select_one
+      options:
+      - Kayaking
+      - Rafting
+      required: true
+    - id: 8
+      name: adventure_skills_3
+      label: Land sports
+      hint: null
+      type: select_one
+      options:
+      - Hiking
+      - Cycling
+      - Geocaching
+      - Orienteering
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

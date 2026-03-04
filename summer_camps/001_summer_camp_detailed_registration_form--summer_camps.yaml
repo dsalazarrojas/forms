@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Detailed Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_address
+      label: Participant Address
+      hint: Enter participant address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_postal_code
+      label: Participant Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_special_needs
+      label: Participant Special Needs
+      hint: Enter participant special needs if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_medical_notes
+      label: Participant Medical Notes
+      hint: Enter participant medical notes if any
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Enter emergency contact relationship
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_medical_allergies
+      label: Participant Medical Allergies
+      hint: Enter participant medical allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: Enter participant medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_medical_treatment
+      label: Participant Medical Treatment
+      hint: Enter participant medical treatment
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_medical_prescription
+      label: Participant Medical Prescription
+      hint: Enter participant medical prescription
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_medical_medication
+      label: Participant Medical Medication
+      hint: Enter participant medical medication
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_medical_doctor
+      label: Participant Medical Doctor
+      hint: Enter participant medical doctor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_medical_phone
+      label: Participant Medical Phone
+      hint: Enter participant medical phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_medical_email
+      label: Participant Medical Email
+      hint: Enter participant medical email address
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: staff_name
+      label: Staff Name
+      hint: Enter staff name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: staff_email
+      label: Staff Email
+      hint: Enter staff email
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: staff_phone
+      label: Staff Phone
+      hint: Enter staff phone number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: staff_position
+      label: Staff Position
+      hint: null
+      type: select_multiple
+      options:
+      - Director
+      - Assistant Director
+      - Counselor
+      required: true
+    - id: 24
+      name: staff_special_needs
+      label: Staff Special Needs
+      hint: Enter staff special needs if any
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Enter assigned tool
+      type: text
+      options: []
+      required: true

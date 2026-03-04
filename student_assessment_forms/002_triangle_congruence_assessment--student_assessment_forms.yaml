@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Triangle Congruence Assessment
+    pages:
+    - id: 1
+      name: student_response
+      label: student_response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: congruence_criterion_1
+      label: congruence_criterion_1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: congruence_criterion_2
+      label: congruence_criterion_2
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      required: true
+    - id: 5
+      name: congruence_criterion_3
+      label: congruence_criterion_3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: congruence_criterion_4
+      label: congruence_criterion_4
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      required: true
+    - id: 7
+      name: congruence_criterion_5
+      label: congruence_criterion_5
+      hint: null
+      type: select_multiple
+      options:
+      - option8
+      - option9
+      required: true
+    - id: 8
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_caution_report_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_report
+      label: Reason for Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: details_about_incident
+      label: Details about incident
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_involvement
+      label: User Involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: user_involvement_options
+      label: User Involvement Options
+      hint: null
+      type: select_multiple
+      options:
+      - User was being harassed
+      - User was spamming
+      - User was trolling
+      - User was flaming
+      - User was abusive
+      required: false
+    - id: 9
+      name: moderator_involvement
+      label: Moderator Involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: moderator_involvement_options
+      label: Moderator Involvement Options
+      hint: null
+      type: select_multiple
+      options:
+      - Moderator was present
+      - Moderator was not present
+      - Moderator was involved
+      - Moderator was not involved
+      required: false
+    - id: 11
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: action_taken_options
+      label: Action Taken Options
+      hint: null
+      type: select_multiple
+      options:
+      - Banned User
+      - Warning Sent
+      - Chat Ban
+      - No action taken
+      required: false

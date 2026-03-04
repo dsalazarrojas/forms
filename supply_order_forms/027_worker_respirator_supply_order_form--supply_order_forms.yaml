@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Respirator Supply Order Form
+    pages:
+    - id: 1
+      name: respirator_request
+      label: Respirator Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respirator_type
+      label: Respirator Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full Face''}'
+      - '{''value'': ''Half Face''}'
+      - '{''value'': ''Full Head''}'
+      required: false
+    - id: 3
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Warehouse 1''}'
+      - '{''value'': ''Warehouse 2''}'
+      - '{''value'': ''Warehouse 3''}'
+      required: false
+    - id: 5
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: ship_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: respirator_price
+      label: Respirator Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: respirator_cost
+      label: Respirator Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: respirator_total
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ship_address
+      label: Ship Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ship_city
+      label: Ship City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ship_state
+      label: Ship State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ship_zip
+      label: Ship Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: respirator_status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false

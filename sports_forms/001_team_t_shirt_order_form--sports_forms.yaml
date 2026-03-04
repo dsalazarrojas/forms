@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team T Shirt Order Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tshirt_color
+      label: tshirt-color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 3
+      name: shirt_size
+      label: shirt-size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tshirt_design
+      label: tshirt-design
+      hint: null
+      type: select_multiple
+      options:
+      - Team Logo
+      - Player Number
+      - Player Name
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_tshirt_cost
+      label: team-tshirt-cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_tshirt_price
+      label: team-tshirt-price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_tshirt_tax
+      label: team-tshirt-tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: team_tshirt_discount
+      label: team-tshirt-discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: team_tshirt_total
+      label: team-tshirt-total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_address
+      label: customer-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_city
+      label: customer-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_state
+      label: customer-state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: false
+    - id: 19
+      name: customer_zip
+      label: customer-zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_country
+      label: customer-country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_notes
+      label: order-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - PayPal
+      required: false
+    - id: 23
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: order_time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: order_total
+      label: order-total
+      hint: null
+      type: number
+      options: []
+      required: false

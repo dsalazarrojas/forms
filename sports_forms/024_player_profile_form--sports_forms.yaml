@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Profile Form
+    pages:
+    - id: 1
+      name: coach_at_sport
+      label: Are you a coach at a school
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Non Coach
+      required: false
+    - id: 2
+      name: parents_phone
+      label: parentss phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: Body measurement height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Body measurement weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emergency_phone
+      label: emergency contact phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Parent
+      - Parent/Guardian
+      - Teacher
+      - Other
+      required: false

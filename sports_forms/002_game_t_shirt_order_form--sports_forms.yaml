@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game T Shirt Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Game T Shirt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_size
+      label: T Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 5
+      name: shipping
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Credit Card
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

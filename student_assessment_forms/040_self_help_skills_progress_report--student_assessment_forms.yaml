@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: self-help-skills-progress-report
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_progress_report
+      label: Date Progress Report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_age
+      label: Student Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      - Fourth
+      - Fifth
+      - Sixth
+      - Seventh
+      - Eighth
+      - Ninth
+      - Tenth
+      required: false
+    - id: 5
+      name: caregiver_provider_name
+      label: Caregiver/Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: caregiver_provider_title
+      label: Caregiver/Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_in_services
+      label: Time Spent in Services
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: student_progress
+      label: Student Progress
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Court Agreement Form
+    pages:
+    - id: 1
+      name: court_agreement_header
+      label: -- Sports Competition Court Usage Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_official_name
+      label: Team Name
+      hint: Official registered team name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: captain_full_name
+      label: Team Captain Name
+      hint: Primary point of contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: captain_contact_phone
+      label: Captain Phone Number
+      hint: For urgent court notifications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: division_assigned
+      label: League or Division
+      hint: Your assigned competitive group
+      type: select_one
+      options:
+      - Premier League
+      - Division A
+      - Division B
+      - Amateur / Recreational
+      - Youth Under 18
+      required: true
+    - id: 6
+      name: court_usage_section
+      label: -- Court Usage and Safety Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: court_rules_acknowledgment
+      label: I agree to adhere to all facility and court rules
+      hint: Includes equipment usage and cleanup
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 8
+      name: safety_waiver_sports
+      label: Liability and Injury Waiver
+      hint: I acknowledge that participation in sports involves risk of injury.
+      type: select_one
+      options:
+      - I acknowledge and accept the risk
+      - Other
+      required: true
+    - id: 9
+      name: insurance_coverage_status
+      label: Does the team have private liability insurance?
+      hint: Optional but recommended
+      type: select_one
+      options:
+      - Yes, fully covered
+      - Covered through league
+      - No private insurance
+      required: true
+    - id: 10
+      name: preferred_training_slots
+      label: Preferred Weekly Training Slots
+      hint: Select up to three options
+      type: select_multiple
+      options:
+      - Monday Evening
+      - Tuesday Evening
+      - Wednesday Evening
+      - Thursday Evening
+      - Friday Evening
+      - Saturday Morning
+      - Sunday Morning
+      required: false
+    - id: 11
+      name: emergency_contact_team
+      label: Team Emergency Contact Name
+      hint: Person to call in case of incident on court
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: captain_signature_date
+      label: Date of Agreement
+      hint: Select today's date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: digital_sign_ack_court
+      label: Digital Signature Acknowledgment
+      hint: Submitting this form constitutes a binding agreement.
+      type: note
+      options: []
+      required: false

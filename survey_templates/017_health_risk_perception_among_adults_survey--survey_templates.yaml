@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Risk Perception Among Adults Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: age_group_0
+      label: 18-24 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_group_1
+      label: 25-34 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group_2
+      label: 35-44 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age_group_3
+      label: 45-54 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age_group_4
+      label: 55 years and above
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_1
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: question_2
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: true
+    - id: 10
+      name: question_3
+      label: What is your weight (in kg)?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: question_4
+      label: Do you smoke?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: question_5
+      label: Do you drink alcohol regularly?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: question_6
+      label: Do you exercise regularly?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: question_7
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: question_8
+      label: What is your average monthly income?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_9
+      label: How many hours do you usually work per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: question_10
+      label: Do you get regular check-ups with a doctor?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: question_11
+      label: How many times did you get vaccinated this month?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Once
+      - Twice
+      - Three or more
+      required: true
+    - id: 19
+      name: question_12
+      label: How would you rate your overall health?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 20
+      name: question_13
+      label: How would you rate your mental health?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 21
+      name: question_14
+      label: How would you rate your physical activity level?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 22
+      name: question_15
+      label: How would you rate your stress level?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 23
+      name: question_16
+      label: Do you feel anxious or depressed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: question_17
+      label: Do you have any chronic illnesses?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: question_18
+      label: How many times do you have been hospitalized in the last 12 months?
+      hint: null
+      type: number
+      options: []
+      required: true

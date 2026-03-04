@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer-activities-staff-application-form
+    pages:
+    - id: 1
+      name: summer_activities_staff_application_form
+      label: summer_activities_Staff_Application_Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact_Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment_Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Internship
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work_Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Camping
+      - Teaching
+      - Recreation
+      required: false
+    - id: 7
+      name: education_level
+      label: Education_Level
+      hint: null
+      type: select_one
+      options:
+      - High_School
+      - Bachelor’s_Degree
+      - Master’s_Degree
+      required: false
+    - id: 8
+      name: available_dates
+      label: Available_Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: available_days
+      label: Available_Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: available_time
+      label: Available_Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: available_duration
+      label: Available_Duration
+      hint: null
+      type: select_one
+      options:
+      - 30_minutes
+      - 1_hour
+      - 2_hours
+      - 3_hours
+      required: false
+    - id: 12
+      name: work_location
+      label: Work_Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_phone
+      label: Work_Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: home_phone
+      label: Home_Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Participation Survey
+    pages:
+    - id: 1
+      name: summer_camp_participation_survey
+      label: How many campers will participate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: what_is_your_age_range
+      hint: 18-25 or 26-35
+      type: select_multiple
+      options:
+      - 18-25
+      - 26-35
+      required: false
+    - id: 3
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 4
+      name: number_of_days_attended
+      label: number_of_days_attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: summer_camp_participation_interest
+      label: what_is_your_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Music
+      - Dance
+      - Art
+      - Sports
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: how_can_we_contact_you
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_completion
+      label: form_completion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: summer_camp_participation_survey_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

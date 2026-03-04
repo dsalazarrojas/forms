@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: JumpStart Personal Training Assessment Form
+    pages:
+    - id: 1
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 5
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once a week
+      - Twice a week
+      - Three or more times a week
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - Increase Strength
+      - Improve Flexibility
+      - Increase Endurance
+      - Lose Weight
+      required: false
+    - id: 7
+      name: current_level_of_activity
+      label: Current Level of Activity
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Low
+      - High
+      required: false
+    - id: 8
+      name: exercise_background
+      label: Exercise Background
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High Blood Pressure
+      - Diabetes
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Friend
+      - Family Member
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone_2
+      label: Alternate Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_alert
+      label: Medical Alert
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Yes, please provide a medical alert
+      - No, I am not aware of any medical conditions.
+      required: false

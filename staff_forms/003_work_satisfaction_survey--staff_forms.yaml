@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Work Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: How satisfied are you with your job
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 2
+      name: pay_and_benefits
+      label: Pay and benefits
+      hint: Describe your salary, benefits, bonuses, etc.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: work_environment
+      label: Work environment
+      hint: Describe your work space, equipment, etc.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: work_life_balance
+      label: Work life balance
+      hint: Describe your balance between work and personal life
+      type: select_multiple
+      options:
+      - '{''label'': ''Too much work''}'
+      - '{''label'': ''Just right''}'
+      - '{''label'': ''Not enough work''}'
+      required: false
+    - id: 5
+      name: work_with_people
+      label: Work with people
+      hint: Describe your coworkers and managers
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: What suggestions do you have for management
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Too much responsibility''}'
+      - '{''label'': ''Just right''}'
+      - '{''label'': ''Not enough responsibility''}'
+      required: false
+    - id: 8
+      name: work_satisfaction
+      label: Overall work satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: APA 7 Direct Quotation Citation Guide
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Your full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: Your academic email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the course where you're using APA citation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of your instructor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: author_last_name
+      label: Author Last Name
+      hint: Last name of the source author
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: author_first_initial
+      label: Author First Initial(s)
+      hint: First initial(s) of the source author
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: publication_year
+      label: Publication Year
+      hint: Year the source was published
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: source_title
+      label: Source Title
+      hint: Title of the book, article, or document
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: page_number
+      label: Page Number(s)
+      hint: Page number(s) where the quote appears
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quotation_length
+      label: Length of Quotation
+      hint: How long is your quotation?
+      type: select_one
+      options:
+      - Less than 40 words
+      - 40 words or more
+      required: true
+    - id: 11
+      name: direct_quotation_text
+      label: Direct Quotation Text
+      hint: Type the exact quotation here
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: signal_phrase_needed
+      label: Signal Phrase Needed
+      hint: Do you need to introduce the quote with a signal phrase?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: integration_type
+      label: Integration Type
+      hint: How are you integrating the quote into your text?
+      type: select_one
+      options:
+      - Block Quote
+      - Embedded Quote
+      - Paraphrase with quote
+      required: false
+    - id: 14
+      name: citation_purpose
+      label: Purpose of Citation
+      hint: Why are you citing this source?
+      type: select_one
+      options:
+      - Support Argument
+      - Provide Evidence
+      - Contrast Viewpoints
+      - Define Terms
+      - Other
+      required: false

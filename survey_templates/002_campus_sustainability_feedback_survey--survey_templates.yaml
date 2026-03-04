@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Sustainability Feedback Survey
+    pages:
+    - id: 1
+      name: intro_section
+      label: -- Campus Sustainability Awareness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_level
+      label: How aware are you of campus sustainability initiatives?
+      hint: Select your level of awareness
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Slightly Aware
+      - Not Aware at All
+      required: true
+    - id: 3
+      name: sustainability_programs
+      label: Which sustainability programs have you heard about?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recycling Program
+      - Energy Conservation
+      - Water Conservation
+      - Sustainable Dining
+      - Renewable Energy
+      - Waste Reduction
+      - Green Building Practices
+      - Environmental Education
+      required: false
+    - id: 4
+      name: satisfaction_section
+      label: -- Satisfaction with Current Initiatives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: How satisfied are you with current sustainability efforts?
+      hint: Rate your satisfaction level
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 6
+      name: accessibility_rating
+      label: Are sustainability programs easily accessible to you?
+      hint: Rate the accessibility
+      type: select_one
+      options:
+      - Very Accessible
+      - Accessible
+      - Neutral
+      - Difficult to Access
+      - Very Difficult to Access
+      required: true
+    - id: 7
+      name: communication_rating
+      label: How well are sustainability initiatives communicated to students?
+      hint: Select one
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: participation_section
+      label: -- Participation and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_participation
+      label: Do you currently participate in any sustainability programs?
+      hint: Select your participation status
+      type: select_one
+      options:
+      - Actively Participate
+      - Sometimes Participate
+      - Rarely Participate
+      - Never Participate
+      required: true
+    - id: 10
+      name: participation_barriers
+      label: What prevents you from participating more?
+      hint: Select all obstacles that apply
+      type: select_multiple
+      options:
+      - Lack of awareness
+      - Inconvenience
+      - Lack of interest
+      - Time constraints
+      - Limited access
+      - No barriers - I'm satisfied
+      - Other reasons
+      required: false
+    - id: 11
+      name: would_participate
+      label: Would you be interested in participating if barriers were removed?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Unsure
+      - Probably not
+      - false
+      required: true
+    - id: 12
+      name: improvement_section
+      label: -- Suggestions for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: priority_improvements
+      label: What improvements would make the greatest impact?
+      hint: Select top 3 priorities
+      type: select_multiple
+      options:
+      - Better communication
+      - More accessible programs
+      - Incentive programs
+      - More frequent events
+      - Better facilities
+      - More education
+      - Transparency in goals
+      required: false
+    - id: 14
+      name: action_suggestions
+      label: What specific actions should the campus take?
+      hint: Please provide your ideas
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: demographics_section
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: role_at_campus
+      label: What is your role at the campus?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Administrator
+      - Other
+      required: true
+    - id: 17
+      name: years_at_campus
+      label: How long have you been at this campus?
+      hint: Select your tenure
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5-6 years
+      - 7 or more years
+      required: false
+    - id: 18
+      name: contact_for_followup
+      label: May we contact you for follow-up questions?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, email me
+      - Yes, call me
+      - No, thank you
+      required: false
+    - id: 19
+      name: email_address
+      label: Email Address (if you want follow-up)
+      hint: Optional - only if you selected yes above
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone_number
+      label: Phone Number (if you want follow-up)
+      hint: Optional - only if you selected yes above
+      type: text
+      options: []
+      required: false

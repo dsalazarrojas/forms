@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Theme Finder Quiz
+    pages:
+    - id: 1
+      name: theme_name
+      label: Wedding Theme
+      hint: null
+      type: select_one
+      options:
+      - Fantasy
+      - Rustic
+      - Vintage
+      - Beach
+      required: false
+    - id: 2
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: venue_location
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - Park
+      - Garden
+      - Castle
+      - Mountain
+      - Restaurant
+      - Beach
+      - Museum
+      - Barn
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Party
+      - Wedding
+      - Conference
+      - Banquet
+      required: false
+    - id: 5
+      name: wedding_month
+      label: Wedding Month
+      hint: null
+      type: select_one
+      options:
+      - Summer
+      - Spring
+      - Autumn
+      - Winter
+      required: false
+    - id: 6
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wedding_day
+      label: Wedding Day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: wedding_year
+      label: Wedding Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: wedding_theme
+      label: Wedding Theme
+      hint: null
+      type: select_multiple
+      options:
+      - Beach Theme
+      - Rustic
+      - Vintage Theme
+      - Beach
+      - Theme Park Theme
+      - Garden Theme
+      - Castle Theme
+      - Mountain Theme
+      - Restaurant Theme
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Practice Session Log
+    pages:
+    - id: 1
+      name: practice_date
+      label: Practice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: focus_area
+      label: Focus Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: self_assessment
+      label: Self-Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: golfer_comments
+      label: Golfer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: session_length_type
+      label: Session Length Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Viewing Habits Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: How many sports do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_sports
+      label: Which sports do you follow?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: favorite_sports
+      label: Which sports do you follow?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sports_preferences
+      label: How often do you watch sports live?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 5
+      name: sports_channels
+      label: What sports channels do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sports_games
+      label: What sports events do you watch?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sports_teams
+      label: Which sports teams do you support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sports_leagues
+      label: Which sports leagues do you watch?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sports_league
+      label: Which sports leagues do you watch?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sports_channels
+      label: What sports channels do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sports_events
+      label: Which sports events do you attend?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sports_premier_leagues
+      label: Which sports premier leagues do you watch?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sports_teams_premier_leagues
+      label: Which sports teams play in premier leagues?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sports_league_games
+      label: How often do you watch sports games in leagues?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 15
+      name: sports_leagues_premier
+      label: How often do you watch sports games in premier leagues?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Never''}'
+      required: false

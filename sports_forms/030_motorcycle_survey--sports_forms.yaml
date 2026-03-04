@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motorcycle Survey
+    pages:
+    - id: 1
+      name: motorcycle_survey
+      label: What kind of motorcycle do you drive?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motorcycle_preferences
+      label: What do you like about your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motorbike_possessions
+      label: Do you own a motorcycle?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: motorcycle_preferences_what_is
+      label: What do you like about your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: motorbike_possessions_who_is
+      label: Who does the motorcycle belong to?
+      hint: null
+      type: select_multiple
+      options:
+      - Owner
+      - Family member
+      - Friend
+      required: true
+    - id: 6
+      name: motorbike_possessions_what_year
+      label: What year was the motorcycle purchased?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: motorbike_possessions_what_type
+      label: What type of motorcycle do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Sport
+      - Touring
+      - Cruiser
+      - Off-road
+      - Commuter
+      required: false
+    - id: 8
+      name: motorbike_possessions_what_color
+      label: What color is your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: motorcycle_preferences_why
+      label: Why do you like your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: motorbike_possessions_who_is_pilot
+      label: Who is the pilot of the motorcycle?
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Friend
+      - Family member
+      required: false
+    - id: 11
+      name: motorbike_possessions_what_year_2
+      label: What year was the motorcycle last serviced?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: motorbike_possessions_what_color_2
+      label: What color was the motorcycle last painted?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: motorcycle_preferences_why_2
+      label: What do you like about your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: motorbike_possessions_what_type_2
+      label: What type of motorcycle do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Sport
+      - Touring
+      - Cruiser
+      - Off-road
+      - Commuter
+      required: false
+    - id: 15
+      name: motorbike_possessions_what_model
+      label: What model is your motorcycle?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Camp Registration And Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: camper_signature
+      label: Camper Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''Asthma''}'
+      - '{''id'': 4, ''label'': ''Epilepsy''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: allergy
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Nuts''}'
+      - '{''id'': 3, ''label'': ''Shellfish''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: medical_condition_note
+      label: Medical Condition Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship_note
+      label: Emergency Contact Relationship Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: camper_diet
+      label: Camper Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Vegetarian''}'
+      - '{''id'': 3, ''label'': ''Vegan''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: emergency_contact_permission
+      label: Emergency Contact Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 19
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 20
+      name: medical_permission
+      label: Medical Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 21
+      name: medical_permission_note
+      label: Medical Permission Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: camper_attendance
+      label: Camper Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: camper_start_date
+      label: Camper Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: camper_end_date
+      label: Camper End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: camp_name
+      label: Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false

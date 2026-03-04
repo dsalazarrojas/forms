@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: รับบ Lobby Music Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: rating_lobby_music
+      label: How do you rate our lobby music?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_background_music
+      label: How do you rate our background music?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_entertainment_music
+      label: How do you rate our entertainment music?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: favorite_music_genre
+      label: What is your favorite music genre?
+      hint: null
+      type: select_one
+      options:
+      - Jazz
+      - Pop
+      - Classical
+      - Rock
+      - Hip-Hop
+      - Country
+      - R&B
+      - Electronic
+      required: true
+    - id: 7
+      name: music_volume
+      label: Music volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: music_type
+      label: What type of music would you like to hear in the lobby?
+      hint: null
+      type: select_multiple
+      options:
+      - Jazz
+      - Pop
+      - Classical
+      - Rock
+      - Hip-Hop
+      - Country
+      - R&B
+      - Electronic
+      required: false
+    - id: 9
+      name: music_preference
+      label: How do you rate our music preference?
+      hint: null
+      type: select_one
+      options:
+      - Too quiet
+      - Just Right
+      - Too loud
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_contact
+      label: May we contact you for further feedback?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false

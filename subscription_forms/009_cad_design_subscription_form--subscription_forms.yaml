@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAD Design Subscription Form
+    pages:
+    - id: 1
+      name: subscription_intro
+      label: -- Professional CAD Services Enrollment --
+      hint: Get high-quality CAD designs with our flexible subscription plans.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Professional Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: industry_focus
+      label: Primary Industry
+      hint: null
+      type: select_one
+      options:
+      - Architecture
+      - Mechanical Engineering
+      - Interior Design
+      - Manufacturing
+      - Product Design
+      - Other
+      required: true
+    - id: 5
+      name: subscription_plan
+      label: Select Your Subscription Plan
+      hint: See website for full feature list
+      type: select_one
+      options:
+      - Basic (5 designs/month)
+      - Pro (15 designs/month)
+      - Enterprise (Unlimited)
+      - Pay-per-Project
+      required: true
+    - id: 6
+      name: software_preference
+      label: Preferred CAD Software
+      hint: Select your primary tool
+      type: select_one
+      options:
+      - AutoCAD
+      - SolidWorks
+      - Revit
+      - Rhino
+      - Fusion 360
+      - Other
+      required: true
+    - id: 7
+      name: typical_project_complexity
+      label: Typical Project Complexity
+      hint: null
+      type: select_one
+      options:
+      - 2D Drafting
+      - 3D Modeling (Standard)
+      - Complex Assemblies
+      - Rendering and Simulation
+      required: true
+    - id: 8
+      name: estimated_monthly_volume
+      label: Estimated monthly design requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: billing_cycle
+      label: Billing Frequency
+      hint: Annual plans save 15%
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      required: true
+    - id: 10
+      name: vat_number
+      label: VAT or Tax ID
+      hint: For business customers only
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_brief_method
+      label: How will you submit your project briefs?
+      hint: null
+      type: select_one
+      options:
+      - Online Dashboard
+      - Email Submission
+      - API Integration
+      required: true
+    - id: 12
+      name: communication_consent
+      label: I would like to receive design tips and updates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: agreement_confirmation
+      label: I have read and agree to the Service Level Agreement (SLA)
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: start_date
+      label: Requested Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

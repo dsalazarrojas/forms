@@ -1,0 +1,251 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airline Passenger Satisfaction Survey
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For survey confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: flight_number
+      label: Flight Number
+      hint: Flight you traveled on
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: departure_date
+      label: Departure Date
+      hint: Date of your flight
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: route_origin
+      label: Origin City
+      hint: Where you departed from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: route_destination
+      label: Destination City
+      hint: Where you traveled to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ticket_class
+      label: Class of Service
+      hint: Which cabin class you flew
+      type: select_one
+      options:
+      - Economy
+      - Premium Economy
+      - Business
+      - First Class
+      required: true
+    - id: 8
+      name: seat_comfort
+      label: Seat Comfort Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: legroom_satisfaction
+      label: Legroom Satisfaction
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: cabin_cleanliness
+      label: Cabin Cleanliness Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: cabin_temperature
+      label: Cabin Temperature Control
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: cabin_noise
+      label: Cabin Noise Level
+      hint: Rate from 1 (Too Loud) to 5 (Quiet)
+      type: select_one
+      options:
+      - 1 - Too Loud
+      - 2 - Loud
+      - 3 - Moderate
+      - 4 - Quiet
+      - 5 - Very Quiet
+      required: true
+    - id: 13
+      name: meal_quality
+      label: Meal and Beverage Quality
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: entertainment_system
+      label: In-flight Entertainment System
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: wifi_connectivity
+      label: WiFi Connectivity and Speed
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 16
+      name: cabin_crew_professionalism
+      label: Cabin Crew Professionalism
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: cabin_crew_friendliness
+      label: Cabin Crew Friendliness
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: check_in_experience
+      label: Check-in Experience
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 19
+      name: baggage_handling
+      label: Baggage Handling
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 20
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 21
+      name: likely_to_recommend
+      label: Likely to Recommend to Others
+      hint: Rate from 1 (Very Unlikely) to 5 (Very Likely)
+      type: select_one
+      options:
+      - 1 - Very Unlikely
+      - 2 - Unlikely
+      - 3 - Neutral
+      - 4 - Likely
+      - 5 - Very Likely
+      required: true
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we improve
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

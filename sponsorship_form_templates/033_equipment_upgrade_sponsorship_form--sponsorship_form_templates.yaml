@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Upgrade Sponsorship Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upgrade_cost
+      label: Upgrade Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: upgrade_value
+      label: Upgrade Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sponsorships
+      label: Sponsorships
+      hint: null
+      type: select_multiple
+      options:
+      - Sponsor 1
+      - Sponsor 2
+      - Sponsor 3
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

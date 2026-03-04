@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Line Replacement Part Order Form
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cost_center
+      label: Cost Center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_equipment
+      label: -- Equipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_id
+      label: Equipment ID or Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: automation_line
+      label: Automation Line Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_part
+      label: -- Part Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: part_number
+      label: Part Number
+      hint: Original part number from documentation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: part_description
+      label: Part Description
+      hint: Name and specifications of the part
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: part_type
+      label: Type of Part
+      hint: null
+      type: select_one
+      options:
+      - Motor
+      - Bearing
+      - Seal
+      - Belt
+      - Valve
+      - Pump
+      - Sensor
+      - Actuator
+      - Control
+      - Pneumatic
+      - Hydraulic
+      - Other
+      required: true
+    - id: 16
+      name: part_quantity
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: current_inventory
+      label: Current Inventory Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_urgency
+      label: -- Order Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Order Urgency
+      hint: null
+      type: select_one
+      options:
+      - Critical - Equipment Down
+      - High - Within 24 Hours
+      - Medium - Within 1 Week
+      - Low - Standard
+      - Stock for Future
+      required: true
+    - id: 20
+      name: required_date
+      label: Date Needed By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: section_header_supplier
+      label: -- Supplier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_supplier
+      label: Preferred Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: purchase_order
+      label: Existing Purchase Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

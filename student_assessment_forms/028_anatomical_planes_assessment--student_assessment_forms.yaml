@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anatomical Planes Assessment
+    pages:
+    - id: 1
+      name: section_instructions
+      label: -- Assessment Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Institutional ID number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_1
+      label: Identify the plane that divides the body into left and right
+      hint: Choose one
+      type: select_one
+      options: [Sagittal, Coronal, Transverse]
+      required: true
+    - id: 5
+      name: question_2
+      label: Which plane is also called frontal
+      hint: Choose one
+      type: select_one
+      options: [Coronal, Sagittal, Transverse]
+      required: true
+    - id: 6
+      name: confidence_rating
+      label: Confidence rating
+      hint: Rate confidence from 1 to 5
+      type: select_one
+      options: [1, 2, 3, 4, 5]
+      required: false
+    - id: 7
+      name: instructor_notes
+      label: Instructor notes
+      hint: For grader comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: I agree to have my results recorded
+      hint: Select yes to consent
+      type: select_one
+      options: [Yes, No]
+      required: true

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Perfume Purchase Order Form
+    pages:
+    - id: 1
+      name: retailer_name
+      label: Storekeeper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: storekeeper_phone
+      label: Storekeeper Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: storekeeper_email
+      label: Storekeeper Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: storekeeper_address
+      label: Storekeeper Address
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: product_quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: true
+    - id: 11
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - Shipped
+      - Pending
+      required: true
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit/Debit Card
+      - PayPal
+      required: true
+    - id: 19
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: true

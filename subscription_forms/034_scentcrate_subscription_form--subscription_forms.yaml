@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentscrate Subscription Form
+    pages:
+    - id: 1
+      name: subscription_type
+      label: subscription_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: questions
+      label: questions
+      hint: null
+      type: text
+      options: []
+      required: false

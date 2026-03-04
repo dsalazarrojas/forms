@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billiards Table Reservation
+    pages:
+    - id: 1
+      name: section_player_information
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: player_email
+      label: Email Address
+      hint: We'll send you a confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: player_phone
+      label: Phone Number
+      hint: Contact number for reservation updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: player_experience
+      label: Experience Level
+      hint: What is your billiards skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 7
+      name: section_reservation_details
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reservation_date
+      label: Reservation Date
+      hint: What date do you want to reserve
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reservation_time
+      label: Start Time
+      hint: What time do you want to start
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: duration_hours
+      label: Duration in Hours
+      hint: How many hours do you need the table
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: table_type
+      label: Table Type Preference
+      hint: What type of billiards table
+      type: select_one
+      options:
+      - Pool Table
+      - Snooker Table
+      - Carom Table
+      - No Preference
+      required: false
+    - id: 12
+      name: table_size
+      label: Table Size
+      hint: Preferred table size
+      type: select_one
+      options:
+      - 7-foot
+      - 8-foot
+      - 9-foot
+      - No Preference
+      required: false
+    - id: 13
+      name: section_group_details
+      label: -- Group Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: number_of_players
+      label: Number of Players
+      hint: How many people will be playing
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: group_type
+      label: Group Type
+      hint: What kind of group is this
+      type: select_one
+      options:
+      - Casual Friends
+      - Tournament
+      - League Match
+      - Corporate Event
+      - Party
+      - Other
+      required: true
+    - id: 16
+      name: tournament_name
+      label: Tournament Name
+      hint: If for a tournament, enter name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_additional_options
+      label: -- Additional Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_requests
+      label: Special Requests or Accommodations
+      hint: Any special needs or preferences
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_rental
+      label: Need to Rent Equipment
+      hint: Do you need cues, balls, or accessories
+      type: select_multiple
+      options:
+      - Cues
+      - Balls
+      - Chalk
+      - Bridge
+      - Other
+      required: false
+    - id: 20
+      name: food_beverage_order
+      label: Food and Beverage Order
+      hint: Would you like to pre-order food or drinks
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe Later
+      required: false
+    - id: 21
+      name: section_terms
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: Cancellation must be made 24 hours in advance
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: house_rules_agreement
+      label: I agree to follow house rules
+      hint: Check to confirm you'll follow all rules
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

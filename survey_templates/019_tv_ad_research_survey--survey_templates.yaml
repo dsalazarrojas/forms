@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: tv_ad_research_survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is this survey for
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Viewers demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ad_characteristics
+      label: Ad characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Length'', ''value'': ''Length''}'
+      - '{''id'': 2, ''label'': ''Music'', ''value'': ''Music''}'
+      - '{''id'': 3, ''label'': ''Color'', ''value'': ''Color''}'
+      required: false
+    - id: 4
+      name: ad_effects
+      label: Ad effects
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Appealing'', ''value'': ''Appealing''}'
+      - '{''id'': 2, ''label'': ''Repulsive'', ''value'': ''Repulsive''}'
+      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: ad_location
+      label: Ad location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Top'', ''value'': ''Top''}'
+      - '{''id'': 2, ''label'': ''Middle'', ''value'': ''Middle''}'
+      - '{''id'': 3, ''label'': ''Bottom'', ''value'': ''Bottom''}'
+      required: false
+    - id: 6
+      name: ad_time
+      label: Ad time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: ad_repetition
+      label: Ad repetition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tv_channel
+      label: TV channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ABC'', ''value'': ''ABC''}'
+      - '{''id'': 2, ''label'': ''CBS'', ''value'': ''CBS''}'
+      - '{''id'': 3, ''label'': ''NBC'', ''value'': ''NBC''}'
+      required: false
+    - id: 9
+      name: tv_show
+      label: TV show
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ad_rating
+      label: Ad rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: viewer_feedback
+      label: Viewer feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative'', ''value'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      required: false

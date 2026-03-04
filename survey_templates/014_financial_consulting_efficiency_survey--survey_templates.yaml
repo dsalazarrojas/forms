@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Consulting Efficiency Survey
+    pages:
+    - id: 1
+      name: financial_survey_form_data
+      label: Financial Survey Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_details
+      label: Financial Consultant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_1
+      label: What was the primary reason for the engagement?
+      hint: null
+      type: select_one
+      options:
+      - Client needs financial guidance
+      - Client needs financial planning
+      - Client needs financial strategy
+      required: true
+    - id: 6
+      name: question_2
+      label: What was your approach to the engagement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_3
+      label: What were the outcomes of the engagement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_4
+      label: How would you rate the client's satisfaction with the service?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true

@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Invoice
+    pages:
+    - id: 1
+      name: invoice_number
+      label: Invoice Number
+      hint: Auto-generated or enter manually
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: invoice_date
+      label: Invoice Date
+      hint: Date of invoice
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: due_date
+      label: Payment Due Date
+      hint: When payment is due
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: camper_date_of_birth
+      label: Camper Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: camp_session
+      label: Camp Session Selection
+      hint: Choose your session
+      type: select_one
+      options:
+      - Session 1 - Week 1
+      - Session 2 - Week 2
+      - Session 3 - Week 3
+      - Session 4 - Week 4
+      - Full summer program
+      - Specialty camp
+      required: true
+    - id: 15
+      name: base_registration_fee
+      label: Base Registration Fee
+      hint: Standard camp fee
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: before_camp_care
+      label: Before Camp Care
+      hint: Early drop-off service
+      type: select_one
+      options:
+      - Not needed
+      - Some days - $25
+      - All days - $50
+      required: false
+    - id: 17
+      name: after_camp_care
+      label: After Camp Care
+      hint: Late pickup service
+      type: select_one
+      options:
+      - Not needed
+      - Some days - $25
+      - All days - $50
+      required: false
+    - id: 18
+      name: transportation_service
+      label: Transportation Service
+      hint: Bus transportation
+      type: select_one
+      options:
+      - Not needed
+      - Morning only - $40
+      - Afternoon only - $40
+      - Both ways - $75
+      required: true
+    - id: 19
+      name: camp_merchandise
+      label: Camp Merchandise
+      hint: Optional items
+      type: select_multiple
+      options:
+      - None
+      - Camp T-Shirt - $15
+      - Camp Hat - $12
+      - Camp Water Bottle - $10
+      - Camp Backpack - $25
+      - Full gear pack - $50
+      required: false
+    - id: 20
+      name: sibling_discount
+      label: Sibling Discount
+      hint: Apply if applicable
+      type: select_one
+      options:
+      - Not applicable
+      - 10 percent discount
+      - 15 percent discount
+      required: false
+    - id: 21
+      name: early_bird_discount
+      label: Early Bird Discount
+      hint: Applied if registered early
+      type: select_one
+      options:
+      - Not applicable
+      - Early bird - $25 off
+      required: false
+    - id: 22
+      name: financial_aid
+      label: Financial Aid or Scholarship
+      hint: Applied if approved
+      type: select_one
+      options:
+      - Not applicable
+      - Partial aid applied
+      - Full scholarship
+      required: false
+    - id: 23
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all items
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: total_discounts
+      label: Total Discounts
+      hint: Sum of all discounts
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Final amount
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 27
+      name: payment_status
+      label: Payment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Paid in full
+      - Deposit paid
+      - Payment plan
+      - Pending
+      - Overdue
+      required: true
+    - id: 28
+      name: deposit_amount
+      label: Deposit Amount Paid
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: balance_due
+      label: Balance Due
+      hint: Remaining amount
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_and_conditions
+      label: Terms and Conditions Acceptance
+      hint: I accept the camp terms
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true

@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsored Rider Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rider_type
+      label: Rider Type
+      hint: null
+      type: select_one
+      options:
+      - Bicycle
+      - Road
+      - Mountain
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: e.g. john.doe@example.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: e.g. 123-123-1234
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship to Rider
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Spouse
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: e.g. 123-123-1234
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: e.g. john.doe@example.com
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: how_do_you_know_us
+      label: How do you know us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: years_active
+      label: Years Active
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: why_are_you_asking_for_sponsorship
+      label: Why are you asking for sponsorship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: what_do_you_hope_to_achieve
+      label: What do you hope to achieve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: what_do_you_expect_from_us
+      label: What do you expect from us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: what_makeup_of_our_sponsorship
+      label: What would you like to make up our sponsorship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

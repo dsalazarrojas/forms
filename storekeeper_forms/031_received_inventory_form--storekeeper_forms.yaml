@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: received_inventory_form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: Briefly describe the item being received
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity_received
+      label: Quantity Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false

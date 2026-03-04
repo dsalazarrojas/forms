@@ -1,0 +1,266 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airport Service Quality Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date you are taking this survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: airport_name
+      label: Airport Name
+      hint: Which airport did you visit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visit_purpose
+      label: Purpose of Visit
+      hint: Why were you at the airport
+      type: select_one
+      options:
+      - Departing Passenger
+      - Arriving Passenger
+      - Connecting Passenger
+      - Employee
+      - Visitor
+      - Other
+      required: true
+    - id: 4
+      name: visit_frequency
+      label: Frequency of Airport Visits
+      hint: How often do you use this airport
+      type: select_one
+      options:
+      - First Time
+      - Occasionally
+      - Monthly
+      - Regularly
+      - Very Frequently
+      required: true
+    - id: 5
+      name: check_in_ease
+      label: Ease of Check-in Process
+      hint: Rate from 1 (Difficult) to 5 (Very Easy)
+      type: select_one
+      options:
+      - 1 - Very Difficult
+      - 2 - Difficult
+      - 3 - Neutral
+      - 4 - Easy
+      - 5 - Very Easy
+      required: true
+    - id: 6
+      name: security_screening
+      label: Security Screening Process
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: security_wait_time
+      label: Security Screening Wait Time
+      hint: Rate from 1 (Too Long) to 5 (Quick)
+      type: select_one
+      options:
+      - 1 - Too Long
+      - 2 - Long
+      - 3 - Moderate
+      - 4 - Short
+      - 5 - Very Quick
+      required: true
+    - id: 8
+      name: terminal_cleanliness
+      label: Terminal Cleanliness
+      hint: Rate from 1 (Dirty) to 5 (Spotless)
+      type: select_one
+      options:
+      - 1 - Very Dirty
+      - 2 - Dirty
+      - 3 - Average
+      - 4 - Clean
+      - 5 - Spotless
+      required: true
+    - id: 9
+      name: wayfinding_signage
+      label: Wayfinding and Signage Quality
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: seating_availability
+      label: Seating Availability and Comfort
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: restroom_quality
+      label: Restroom Quality and Cleanliness
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: food_beverage_options
+      label: Food and Beverage Options
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: food_beverage_pricing
+      label: Food and Beverage Pricing
+      hint: Rate from 1 (Too Expensive) to 5 (Reasonable)
+      type: select_one
+      options:
+      - 1 - Too Expensive
+      - 2 - Expensive
+      - 3 - Fair
+      - 4 - Reasonable
+      - 5 - Good Value
+      required: true
+    - id: 14
+      name: retail_shopping
+      label: Retail Shopping Options
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: wifi_availability
+      label: WiFi Availability and Speed
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 16
+      name: staff_helpfulness
+      label: Staff Helpfulness and Professionalism
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: accessibility_services
+      label: Accessibility Services
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: parking_information
+      label: Parking Information and Ease
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 19
+      name: ground_transportation
+      label: Ground Transportation Options
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 20
+      name: overall_experience
+      label: Overall Airport Experience
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 21
+      name: likely_recommend
+      label: Likely to Recommend This Airport
+      hint: Rate from 1 (Very Unlikely) to 5 (Very Likely)
+      type: select_one
+      options:
+      - 1 - Very Unlikely
+      - 2 - Unlikely
+      - 3 - Neutral
+      - 4 - Likely
+      - 5 - Very Likely
+      required: true
+    - id: 22
+      name: improvements_suggestions
+      label: Suggestions for Improvement
+      hint: What could we do better
+      type: text
+      options: []
+      required: false

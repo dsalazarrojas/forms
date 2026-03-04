@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_availability_survey
+    pages:
+    - id: 1
+      name: staff_ava_survey
+      label: staff_ava_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: working_days
+      label: working_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 3
+      name: time_slots
+      label: time_slots
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00-09:00
+      - 09:00-10:00
+      - 10:00-11:00
+      - 11:00-12:00
+      - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
+      - 16:00-17:00
+      - 17:00-18:00
+      required: false
+    - id: 4
+      name: staff_ava_survey_note
+      label: staff_ava_survey_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department_id
+      label: department_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_user
+      required: false
+    - id: 9
+      name: created_by
+      label: created_by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_user
+      required: false
+    - id: 10
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_user
+      required: false

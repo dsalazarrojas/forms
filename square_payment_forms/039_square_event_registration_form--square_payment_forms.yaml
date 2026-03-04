@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Event Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: List of attendees separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: Payment amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Visa''}'
+      - '{''id'': 2, ''label'': ''Mastercard''}'
+      - '{''id'': 3, ''label'': ''Amex''}'
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

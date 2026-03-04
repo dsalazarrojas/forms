@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_tournament_location_voting_form
+    pages:
+    - id: 1
+      name: tournament_location
+      label: tournament_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_location
+      label: preferred_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: other_location_details
+      label: other_location_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: venue_capacity
+      label: venue_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: preferred_venue_type
+      label: preferred_venue_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_and_time
+      label: date_and_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      - 6:00 PM
+      - 7:00 PM
+      - 8:00 PM
+      - 9:00 PM
+      - 10:00 PM
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

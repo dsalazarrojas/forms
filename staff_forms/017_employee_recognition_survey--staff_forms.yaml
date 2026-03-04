@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_recognition_programs
+      label: Feedback On Recognition Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_recognition_events
+      label: Frequency Of Recognition Events
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a week'', ''value'': 0}'
+      - '{''label'': ''Once a week'', ''value'': 1}'
+      - '{''label'': ''Once a month'', ''value'': 2}'
+      - '{''label'': ''Every few weeks'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: perceived_value_of_recognition_programs
+      label: Perceived Value Of Recognition Programs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_feedback
+      label: Manager Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_on_recognition_process
+      label: Feedback On Recognition Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: frequency_of_recognition_events_by_department
+      label: Frequency Of Recognition Events By Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a week'', ''value'': 0}'
+      - '{''label'': ''Once a week'', ''value'': 1}'
+      - '{''label'': ''Once a month'', ''value'': 2}'
+      - '{''label'': ''Every few weeks'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: perceived_value_of_recognition_programs_by_department
+      label: Perceived Value Of Recognition Programs By Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 11
+      name: recognition_events_by_department
+      label: Recognition Events By Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 10'', ''value'': 0}'
+      - '{''label'': ''10-20'', ''value'': 1}'
+      - '{''label'': ''20-30'', ''value'': 2}'
+      - '{''label'': ''More than 30'', ''value'': 3}'
+      required: false
+    - id: 12
+      name: total_recognition_events
+      label: Total Recognition Events
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: average_recognition_events
+      label: Average Recognition Events
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: average_recognition_events_by_department
+      label: Average Recognition Events By Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: manager_recognition_events
+      label: Manager Recognition Events
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 16
+      name: manager_recognition_events_by_department
+      label: Manager Recognition Events By Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 17
+      name: employee_recognition_events
+      label: Employee Recognition Events
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_recognition_events_by_department_by_date
+      label: Employee Recognition Events By Department By Date
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a week'', ''value'': 0}'
+      - '{''label'': ''Once a week'', ''value'': 1}'
+      - '{''label'': ''Once a month'', ''value'': 2}'
+      - '{''label'': ''Every few weeks'', ''value'': 3}'
+      required: false
+    - id: 24
+      name: manager_recognition_events_by_department_by_date
+      label: Manager Recognition Events By Department By Date
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a week'', ''value'': 0}'
+      - '{''label'': ''Once a week'', ''value'': 1}'
+      - '{''label'': ''Once a month'', ''value'': 2}'
+      - '{''label'': ''Every few weeks'', ''value'': 3}'
+      required: false
+    - id: 25
+      name: employee_recognition_events_by_department
+      label: Employee Recognition Events By Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

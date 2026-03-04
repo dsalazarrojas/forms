@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Payment Request Form
+    pages:
+    - id: 1
+      name: game_details
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 3
+      name: referees_name
+      label: Referees Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referee_email
+      label: Referees Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: pay_amount
+      label: Pay Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Repeatedly
+      - Ongoing
+      required: false
+    - id: 7
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tournament_referee
+      label: Tournament Referee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: pay_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Rejected
+      required: false
+    - id: 11
+      name: pay_request
+      label: Pay Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

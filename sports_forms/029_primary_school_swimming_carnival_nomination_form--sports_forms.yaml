@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Primary School Swimming Carnival Nomination Form
+    pages:
+    - id: 1
+      name: swim_carnival_student
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: swim_carnival_class
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - Year 3
+      - Year 4
+      - Year 5
+      - Year 6
+      required: true
+    - id: 3
+      name: swim_carnival_event
+      label: Event
+      hint: null
+      type: select_multiple
+      options:
+      - 100m Freestyle
+      - 50m Backstroke
+      - 50m Breaststroke
+      - 50m Butterfly
+      - 200m Individual Medley
+      required: true
+    - id: 4
+      name: swim_carnival_teacher_approval
+      label: Teacher Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: swim_carnival_notes
+      label: Additional Notes
+      hint: Please provide any additional notes about the swimmer.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: swim_carnival_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: swim_carnival_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: swim_carnival_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: swim_carnival_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 10
+      name: swim_carnival_medical_condition
+      label: Medical Condition
+      hint: Please note any medical conditions that the swimmer has.
+      type: select_multiple
+      options:
+      - None
+      - Asthma
+      - Diabetes
+      - Epilepsy
+      - Other
+      required: false
+    - id: 11
+      name: swim_carnival_allergies
+      label: Allergies
+      hint: Please note any allergies that the swimmer has.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: swim_carnival_emergencies
+      label: Emergency Contacts
+      hint: Please provide emergency contact details for the swimmer.
+      type: text
+      options: []
+      required: false

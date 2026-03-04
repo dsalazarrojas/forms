@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shopping List Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: item_list
+      label: Item List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: store_name
+      label: Store Name
+      hint: Enter store name here
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: store_email
+      label: Store Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: store_category
+      label: Store Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: repeat
+      label: Repeat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: store_notes
+      label: Store Notes
+      hint: null
+      type: note
+      options: []
+      required: false

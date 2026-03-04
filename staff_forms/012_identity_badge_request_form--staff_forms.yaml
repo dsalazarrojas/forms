@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Badge Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_number
+      label: employee_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: badge_type
+      label: badge_type
+      hint: null
+      type: select_multiple
+      options:
+      - Badge Type 1
+      - Badge Type 2
+      - Badge Type 3
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: badge_number
+      label: badge_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - Shift 1
+      - Shift 2
+      - Shift 3
+      required: false
+    - id: 9
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: badge_status
+      label: badge_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: badge_expiration
+      label: badge_expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: badge_issuance_date
+      label: badge_issuance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liability Waiver For Youth Activities
+    pages:
+    - id: 1
+      name: guardian_consent
+      label: Guardian Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: signatures
+      label: Signatures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergy_list
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_medical_treatment
+      label: Emergency Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waiver_text
+      label: Waiver Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: waiver_date
+      label: Waiver Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: waiver_signatures
+      label: Waiver Signatures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

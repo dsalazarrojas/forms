@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outlet Auditing Form
+    pages:
+    - id: 1
+      name: outlet_name
+      label: Outlet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outlet_type
+      label: Outlet Type
+      hint: null
+      type: select_one
+      options:
+      - Outlet
+      - Socket
+      required: false
+    - id: 4
+      name: voltage
+      label: Voltage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: current
+      label: Current
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phase
+      label: Phase
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 7
+      name: power_factor
+      label: Power Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: outlet_status
+      label: Outlet Status
+      hint: null
+      type: select_one
+      options:
+      - Functional
+      - Non-Functional
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: text
+      options: []
+      required: false

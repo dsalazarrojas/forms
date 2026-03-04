@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_sports_registration_form
+    pages:
+    - id: 1
+      name: basic_information
+      label: Basic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_information
+      label: Personal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sports_experience
+      label: Sports Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_details
+      label: Emergency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree with the terms and conditions'', ''value'': 1}'
+      - '{''label'': ''I do not agree with the terms and conditions'', ''value'':
+        2}'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Player Transfer Request Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_club
+      label: Player Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_club
+      label: Requested Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_transfer_date
+      label: Player Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: transfer_request_status
+      label: Transfer Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 7
+      name: transfer_request_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transfer_request_reason
+      label: Reason for Transfer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_status
+      label: Player Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_current_club
+      label: Current Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: player_previous_club
+      label: Previous Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transfer_request_amount
+      label: Transfer Request Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: transfer_request_currency
+      label: Transfer Request Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 15
+      name: transfer_request_currency_amount
+      label: Currency Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: player_height
+      label: Player Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Novice
+      - Experienced
+      - Professional
+      required: false
+    - id: 20
+      name: player_contract_type
+      label: Player Contract Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: player_contract_length
+      label: Player Contract Length
+      hint: null
+      type: text
+      options: []
+      required: false

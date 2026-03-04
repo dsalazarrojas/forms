@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inorganic Reactions Assessment
+    pages:
+    - id: 1
+      name: reaction_type
+      label: what_is_the_type_of_reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reaction_mechanism
+      label: what_is_the_mechanism_of_reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reaction_speed
+      label: how_fast_does_the_reaction_occur
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reaction_condition
+      label: what_conditions_are_needed_for_reactions
+      hint: null
+      type: select_multiple
+      options:
+      - options1
+      - options2
+      - options3
+      required: false
+    - id: 5
+      name: reaction_temperature
+      label: what_is_the_temperature_of_reactions
+      hint: null
+      type: number
+      options: []
+      required: false

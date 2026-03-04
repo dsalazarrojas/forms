@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_animal_shelter_donation_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_details
+      label: Donation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: stripe_payment
+      label: Payment Amount
+      hint: null
+      type: select_multiple
+      options:
+      - '5.0'
+      - '10.0'
+      - '20.0'
+      required: true
+    - id: 5
+      name: stripe_payment_tier
+      label: Tier
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 6
+      name: stripe_payment_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Annually
+      required: true
+    - id: 7
+      name: stripe_payment_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stripe_payment_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: stripe_payment_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stripe_payment_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

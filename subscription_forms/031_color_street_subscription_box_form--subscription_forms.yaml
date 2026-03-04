@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Subscription Box Form
+    pages:
+    - id: 1
+      name: section_sub_intro
+      label: -- Subscription Box Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sub_customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sub_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_box_preferences
+      label: -- Box Customization --
+      hint: Tell us what you want to see in your boxes
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sub_box_frequency
+      label: How often would you like a subscription box?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Every 2 Months
+      - Quarterly (Every 3 months)
+      required: true
+    - id: 6
+      name: sub_preferred_styles
+      label: Which styles should we prioritize?
+      hint: null
+      type: select_multiple
+      options:
+      - New Releases
+      - Best Sellers
+      - Mystery Picks
+      - Seasonal/Holiday
+      - Tools and Care (Nail files, etc.)
+      required: true
+    - id: 7
+      name: sub_color_favorites
+      label: Favorite colors for your box
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sub_box_budget
+      label: Preferred price point for the box
+      hint: null
+      type: select_one
+      options:
+      - $25 - $35 (2-3 sets + goodies)
+      - $40 - $55 (4-5 sets + premium goodies)
+      - $60+ (Ultimate fan box)
+      required: true
+    - id: 9
+      name: section_sub_feedback
+      label: -- Your Ideas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sub_add_on_ideas
+      label: What "extras" would you love to see in the box?
+      hint: e.g., Lotion, cuticle oil, candy, nail art tools
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sub_current_stylist
+      label: Do you already have a Color Street Stylist?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: sub_stylist_name
+      label: If yes, what is their name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sub_interest_level
+      label: On a scale of 1-10, how likely are you to subscribe?
+      hint: 1 being not likely, 10 being definitely
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sub_launch_notification
+      label: Can I contact you when the subscription box launches?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: sub_final_thoughts
+      label: Anything else you want to share?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Game Ball Supply Order Form
+    pages:
+    - id: 1
+      name: sports_league_game_ball_supply_order_form_page
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sports_league_game_ball_supply_form_team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sports_league_game_ball_supply_form_order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sports_league_game_ball_supply_form_number_ordered
+      label: Number Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sports_league_game_ball_supply_form_team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sports_league_game_ball_supply_form_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false

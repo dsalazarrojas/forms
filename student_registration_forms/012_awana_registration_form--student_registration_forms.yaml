@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awana Registration Form
+    pages:
+    - id: 1
+      name: program_year
+      label: Program Year
+      hint: Which program year
+      type: select_one
+      options:
+      - 2025-2026
+      - 2026-2027
+      - 2027-2028
+      required: true
+    - id: 2
+      name: church_name
+      label: Church or Organization Name
+      hint: Name of your church
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_first_name
+      label: Parent/Guardian First Name
+      hint: Primary parent or guardian first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_last_name
+      label: Parent/Guardian Last Name
+      hint: Primary parent or guardian last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: home_phone
+      label: Home Phone Number
+      hint: Primary home phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mobile_phone
+      label: Mobile Phone Number
+      hint: Cell phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: child_first_name
+      label: Child First Name
+      hint: First name of child being registered
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: child_last_name
+      label: Child Last Name
+      hint: Last name of child
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: child_gender
+      label: Child Gender
+      hint: Gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 16
+      name: grade_level
+      label: Current Grade Level
+      hint: Grade in school
+      type: select_one
+      options:
+      - Pre-K (age 4)
+      - Kindergarten
+      - 1st grade
+      - 2nd grade
+      - 3rd grade
+      - 4th grade
+      - 5th grade
+      - 6th grade
+      - 7th grade
+      - 8th grade
+      - 9th grade
+      - 10th grade
+      - 11th grade
+      - 12th grade
+      required: true
+    - id: 17
+      name: awana_program_level
+      label: Awana Program Level
+      hint: Which Awana program
+      type: select_one
+      options:
+      - Puggles (age 2-Pre-K)
+      - Cubbies (age 3-K)
+      - Sparks (K-2nd)
+      - Truth & Training (3rd-6th)
+      - Journey (7th-8th)
+      - Summit (9th-12th)
+      - Unsure - please advise
+      required: true
+    - id: 18
+      name: sibling_registration
+      label: Registering Additional Children
+      hint: Do you have more children to register
+      type: select_one
+      options:
+      - No, just this child
+      - Yes, one more child
+      - Yes, two more children
+      - Yes, three or more
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to child
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any conditions or allergies we should know
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medications
+      label: Current Medications
+      hint: Any medications staff should know about
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physician_name
+      label: Physician Name
+      hint: Child's doctor name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor's phone number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: pickup_authorization
+      label: Authorized Pickup Persons
+      hint: Who besides parents can pick up child
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: photo_permission
+      label: Photo/Video Permission
+      hint: Can we use photos of your child for promotional materials
+      type: select_one
+      options:
+      - Yes, I give permission
+      - No, do not use photos
+      required: true
+    - id: 29
+      name: medical_release
+      label: Medical Release Authorization
+      hint: I authorize emergency medical treatment if needed
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 30
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: I agree to the liability waiver terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 31
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer with Awana
+      type: select_one
+      options:
+      - Yes, I'm interested
+      - No, not at this time
+      - Maybe, contact me
+      required: true
+    - id: 32
+      name: how_heard_about_awana
+      label: How Did You Hear About Awana
+      hint: Your referral source
+      type: select_one
+      options:
+      - Church announcement
+      - Friend/family
+      - Website
+      - Social media
+      - New to our church
+      - Other
+      required: false
+    - id: 33
+      name: registration_fee
+      label: Registration Fee Payment
+      hint: Fee amount per child
+      type: select_one
+      options:
+      - Paid online
+      - Will pay at registration
+      - Requesting financial assistance
+      required: true
+    - id: 34
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - Yes, I certify
+      - Other
+      required: true
+    - id: 35
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

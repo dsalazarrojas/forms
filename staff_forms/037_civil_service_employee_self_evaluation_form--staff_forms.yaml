@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Service Employee Self Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: position_title
+      label: Position title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_period
+      label: Review period
+      hint: e g Jan to Dec 2025
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: key_achievements
+      label: Key achievements
+      hint: Major accomplishments during period
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_goals
+      label: Performance goals for next period
+      hint: Specific measurable goals
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_needs
+      label: Training and development needs
+      hint: Skills to improve
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: challenges_faced
+      label: Challenges faced in role
+      hint: Resource constraints or barriers
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_support_needed
+      label: Manager support needed
+      hint: Specific assistance requested
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_self_rating
+      label: Overall self rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

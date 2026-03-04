@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Employee Management Form Template
+    pages:
+    - id: 1
+      name: remote_employees_name
+      label: Remote Employees Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: remote_employees_title
+      label: Remote Employees Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: remote_employees_phone
+      label: Remote Employees Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: remote_employees_email
+      label: Remote Employees Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: remote_employees_manager
+      label: Remote Employees Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: remote_employees_work_hours
+      label: Remote Employees Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: remote_employees_location
+      label: Remote Employees Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: remote_employees_communication_channels
+      label: Remote Employees Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: remote_employees_work_status
+      label: Remote Employees Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: remote_employees_notes
+      label: Remote Employees Notes
+      hint: null
+      type: note
+      options: []
+      required: false

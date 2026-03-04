@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Study Application Form
+    pages:
+    - id: 1
+      name: work_study_application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: '12345'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: jane.doe@example.com
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: Student Phone
+      hint: '1234567890'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_start_date
+      label: Program Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: program_end_date
+      label: Program End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: program_status
+      label: Program Status
+      hint: Active/Inactive
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: reason_for_inactivation
+      label: Reason for Inactivation
+      hint: If inactive, explain
+      type: text
+      options: []
+      required: false

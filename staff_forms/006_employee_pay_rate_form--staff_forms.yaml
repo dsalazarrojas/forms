@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Pay Rate Form
+    pages:
+    - id: 1
+      name: employee_salary
+      label: employee_salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pay_date
+      label: pay_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pay_rate
+      label: pay_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 5
+      name: pay_rate_notes
+      label: pay_rate_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - manager
+      - director
+      - HR
+      required: true
+    - id: 7
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - manager
+      - director
+      - HR
+      required: true
+    - id: 9
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Approved
+      - Rejected
+      required: true

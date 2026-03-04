@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Gear Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: camp_tshirt_quantity
+      label: Camp T-Shirt Quantity
+      hint: Number of t-shirts
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: camp_tshirt_size
+      label: Camp T-Shirt Size
+      hint: Select size
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult XXL
+      required: false
+    - id: 10
+      name: camp_hat_quantity
+      label: Camp Hat Quantity
+      hint: Number of hats
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: camp_hat_style
+      label: Camp Hat Style
+      hint: Select style
+      type: select_one
+      options:
+      - Baseball cap
+      - Bucket hat
+      - Visor
+      - Beanie
+      required: false
+    - id: 12
+      name: water_bottle_quantity
+      label: Water Bottle Quantity
+      hint: Number of water bottles
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: water_bottle_color
+      label: Water Bottle Color
+      hint: Select color
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Red
+      - Black
+      - Pink
+      - Purple
+      required: false
+    - id: 14
+      name: backpack_quantity
+      label: Backpack Quantity
+      hint: Number of backpacks
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: backpack_color
+      label: Backpack Color
+      hint: Select color
+      type: select_one
+      options:
+      - Navy Blue
+      - Forest Green
+      - Black
+      - Red
+      - Gray
+      required: false
+    - id: 16
+      name: towel_quantity
+      label: Camp Towel Quantity
+      hint: Number of towels
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sunscreen_quantity
+      label: Sunscreen Quantity
+      hint: Number of sunscreen bottles
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: insect_repellent_quantity
+      label: Insect Repellent Quantity
+      hint: Number of repellent bottles
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: first_aid_kit_quantity
+      label: First Aid Kit Quantity
+      hint: Number of kits
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: flashlight_quantity
+      label: Flashlight Quantity
+      hint: Number of flashlights
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: camp_sticker_pack_quantity
+      label: Camp Sticker Pack Quantity
+      hint: Number of sticker packs
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: order_notes
+      label: Order Notes or Special Requests
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 24
+      name: shipping_method
+      label: Shipping Method
+      hint: Select shipping speed
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Express Shipping (2-3 days)
+      - Overnight Shipping
+      - Pick up at camp office
+      required: true
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Must accept to proceed
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true

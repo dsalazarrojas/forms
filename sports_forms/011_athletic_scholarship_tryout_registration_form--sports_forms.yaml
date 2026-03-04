@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Scholarship Tryout Registration Form
+    pages:
+    - id: 1
+      name: tryout_event_section
+      label: -- Tryout Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tryout_event_name
+      label: Tryout Event Name
+      hint: Name of the scholarship tryout
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tryout_date
+      label: Tryout Date
+      hint: Date of the tryout
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tryout_location
+      label: Tryout Location
+      hint: City and venue
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: athlete_information
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: current_school
+      label: Current School/University
+      hint: Your current educational institution
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: grade_classification
+      label: Grade Classification
+      hint: Your current academic level
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Post-Grad
+      required: true
+    - id: 13
+      name: sports_background
+      label: -- Sports Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_sport
+      label: Primary Sport
+      hint: Sport for scholarship consideration
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Softball
+      - Soccer
+      - Volleyball
+      - Tennis
+      - Track and Field
+      - Swimming
+      - Cross Country
+      - Golf
+      - Other
+      required: true
+    - id: 15
+      name: position_event
+      label: Position/Event
+      hint: Your specific position or event
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years of Competitive Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: highest_level_competed
+      label: Highest Level Competed
+      hint: University, club, national, etc.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: current_club_team
+      label: Current Club/Team
+      hint: Where you currently play
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: achievements_honors
+      label: Major Achievements and Honors
+      hint: Awards, selections, championships, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physical_attributes
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: academic_information
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: current_gpa
+      label: Current GPA
+      hint: Your current academic GPA
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: test_scores
+      label: Standardized Test Scores
+      hint: SAT, ACT, or equivalent scores
+      type: text
+      options: []
+      required: false

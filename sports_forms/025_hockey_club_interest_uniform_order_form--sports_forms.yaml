@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: hockey_club_interest_uniform_order_form
+    pages:
+    - id: 1
+      name: player_details
+      label: Player Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: positions
+      label: Positions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: uniform_orders
+      label: Uniform Orders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payments
+      label: Payments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_info
+      label: Player Info
+      hint: null
+      type: text
+      options: []
+      required: false

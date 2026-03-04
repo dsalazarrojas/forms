@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 10
+      name: position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - Point Guard
+      - Power Forward
+      - Center
+      required: true
+    - id: 11
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: player_category
+      label: Player Category
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Nonbinary
+      required: true
+    - id: 14
+      name: player_level
+      label: Player Level
+      hint: null
+      type: select_one
+      options:
+      - Rookie
+      - Experienced
+      - Advanced
+      required: true
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - Coach 1
+      - Coach 2
+      - Coach 3
+      required: true
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Coach 1
+      - Coach 2
+      - Coach 3
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_of_birth_2
+      label: Date of Birth 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: height_2
+      label: Height 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: weight_2
+      label: Weight 2
+      hint: null
+      type: number
+      options: []
+      required: false

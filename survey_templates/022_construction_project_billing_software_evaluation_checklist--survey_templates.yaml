@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Billing Software Evaluation Checklist
+    pages:
+    - id: 1
+      name: section_eval_context
+      label: -- Evaluation Context and Stakeholder --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator's Name and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: software_name_eval
+      label: Name of Software Being Evaluated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: eval_phase
+      label: Evaluation Phase
+      hint: null
+      type: select_one
+      options:
+      - Initial Research/Desk Review
+      - Sales Presentation/Demo
+      - Free Trial/Sandboxing
+      - Post-Implementation Review
+      required: true
+    - id: 6
+      name: section_core_billing_features
+      label: -- Core Billing Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: progress_billing_support
+      label: Supports Progress/AIA G702-G703 Billing
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: change_order_mgmt_rating
+      label: Change Order Management Integration
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: retainage_tracking_rating
+      label: Automatic Retainage Tracking and Calculation
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: subcontract_billing_rating
+      label: Subcontractor Billing Portal/Management
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_technical_integration
+      label: -- Technical and Integration Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: erp_accounting_sync
+      label: Sync Capabilities with Accounting Software (ERP)
+      hint: e.g., Sage, QuickBooks, Oracle
+      type: select_one
+      options:
+      - Seamless Native Sync
+      - Third-party Connector Required
+      - Manual Export/Import Only
+      - No Integration Possible
+      required: true
+    - id: 13
+      name: mobile_access_rating
+      label: Mobile Accessibility for Site Personnel
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: data_security_rating
+      label: Data Security and Compliance Features
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_usability_cost
+      label: -- Usability and Cost Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ease_of_use_rating
+      label: Ease of Use and Learning Curve for New Users
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: customer_support_rating
+      label: Vendor Training and Customer Support Quality
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: value_for_money_rating
+      label: Perceived Value for Money
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: pricing_model_pref
+      label: Preferred Pricing Model for this Tool
+      hint: null
+      type: select_one
+      options:
+      - Monthly Subscription
+      - Annual Subscription (Discounted)
+      - Per-Project Fee
+      - Enterprise/Custom Quote
+      required: true
+    - id: 20
+      name: section_final_recommendation
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: final_purchase_decision
+      label: Overall Purchase Recommendation
+      hint: null
+      type: select_one
+      options:
+      - High Priority Purchase
+      - Consider with Reservations
+      - Do Not Purchase
+      - Further Research Required
+      required: true
+    - id: 22
+      name: recommendation_reason_desc
+      label: Primary Reason for Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_eval_notes
+      label: Additional Evaluation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Date Checklist Completed
+      hint: null
+      type: date
+      options: []
+      required: true

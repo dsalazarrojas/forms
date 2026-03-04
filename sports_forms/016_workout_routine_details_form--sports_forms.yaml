@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workout Routine Details Form
+    pages:
+    - id: 1
+      name: workout_routine_details_form_page
+      label: Workout Routine Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exercise_name
+      label: Exercise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exercise_description
+      label: Exercise Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: muscle_group
+      label: Muscle Group
+      hint: null
+      type: select_one
+      options:
+      - Squats
+      - Lunges
+      - Deadlifts
+      - Leg Press
+      - Chest Press
+      - Shoulder Press
+      - Back Rows
+      - Bicep Curls
+      required: false
+    - id: 5
+      name: routine_name
+      label: Routine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

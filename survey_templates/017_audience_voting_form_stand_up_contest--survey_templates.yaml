@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audience Voting Form - Stand Up Contest
+    pages:
+    - id: 1
+      name: voting_header
+      label: -- Vote for the Funniest! --
+      hint: Your vote counts towards the Audience Choice Award
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: show_title
+      label: Show Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_ballot
+      label: -- Your Ballot --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: favorite_comedian
+      label: Who was the funniest comedian tonight?
+      hint: Enter their stage name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: performance_score
+      label: How would you score their set?
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: favorite_joke
+      label: What was your favorite joke of the set?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: crowd_work_rating
+      label: How was their crowd work?
+      hint: Interaction with the audience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - N/A - No crowd work
+      required: true
+    - id: 9
+      name: stage_presence
+      label: Stage Presence and Confidence
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Comfortable
+      - Nervous but funny
+      - Needs work
+      required: true
+    - id: 10
+      name: final_comments
+      label: Any other feedback for the performers?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: voter_email_optional
+      label: Your Email (Optional)
+      hint: To join our comedy club mailing list
+      type: email
+      options: []
+      required: false

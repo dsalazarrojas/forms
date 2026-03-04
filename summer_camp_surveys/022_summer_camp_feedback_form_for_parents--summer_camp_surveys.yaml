@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Feedback Form For Parents
+    pages:
+    - id: 1
+      name: summer_camp_feedback_form_for_parents_1
+      label: summer_camp_feedback_form_for_parents_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: has_campers
+      label: has_campers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: camper_names
+      label: camper_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''phone''}'
+      - '{''id'': 2, ''label'': ''email''}'
+      - '{''id'': 3, ''label'': ''mail''}'
+      required: true
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: camp_name
+      label: camp_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: camp_address
+      label: camp_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: camp_city
+      label: camp_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: camp_state
+      label: camp_state
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CA''}'
+      - '{''id'': 2, ''label'': ''NY''}'
+      - '{''id'': 3, ''label'': ''NJ''}'
+      required: false
+    - id: 11
+      name: camp_zip
+      label: camp_zip
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Navigation Feedback Form
+    pages:
+    - id: 1
+      name: section_flight_info
+      label: -- Flight and Pilot Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pilot_name
+      label: Pilot Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pilot_email
+      label: Pilot Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: flight_date
+      label: Date of Flight
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: aircraft_type
+      label: Aircraft Type
+      hint: e.g. Cessna 182, Boeing 737
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: route_description
+      label: Route Description
+      hint: Origin, Destination, and Key Waypoints
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_navigation_feedback
+      label: -- Navigation System Performance --
+      hint: Provide details on your navigation experience
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: nav_systems_used
+      label: Navigation Systems Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Garmin G1000/G3000 Suite
+      - GNS 430/530 or GTN Series
+      - ForeFlight (EFB)
+      - Jeppesen FD (EFB)
+      - Traditional VOR/DME/ADF
+      - FMS (Honeywell/Collins)
+      required: true
+    - id: 9
+      name: database_currency
+      label: Database Currency Status
+      hint: Were the nav databases up to date?
+      type: select_one
+      options:
+      - Current and Valid
+      - Expired (Within 30 days)
+      - Expired (More than 30 days)
+      - Not Applicable
+      required: true
+    - id: 10
+      name: system_accuracy
+      label: System Accuracy Rating
+      hint: Rate the precision of the navigation data
+      type: select_one
+      options:
+      - 1 - Unreliable
+      - 2 - Poor
+      - 3 - Moderate
+      - 4 - Accurate
+      - 5 - Highly Precise
+      required: true
+    - id: 11
+      name: issues_observed
+      label: Navigation Issues Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Map Rendering Errors
+      - Waypoints Missing or Incorrect
+      - GPS Signal Loss or Degradation
+      - User Interface/Experience Issues
+      - System Performance Lag
+      - Frequency Discrepancies
+      required: false
+    - id: 12
+      name: nav_reliability_scale
+      label: Overall Navigation Reliability Rating
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: avionics_report
+      label: Reported to Avionics Maintenance?
+      hint: If there were issues, have they been logged?
+      type: select_one
+      options:
+      - Yes, Squawked/Reported
+      - No, Not reported yet
+      - Needs to be reported
+      required: true
+    - id: 14
+      name: navigation_improvements
+      label: Suggested Navigation Improvements
+      hint: How can the system or process be improved?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: final_feedback_notes
+      label: Final Feedback and Notes
+      hint: Any other comments
+      type: text
+      options: []
+      required: false

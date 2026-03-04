@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arachnid Species Registration
+    pages:
+    - id: 1
+      name: contributor_name
+      label: Contributor Name
+      hint: Full name of the person reporting the species
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: institution_affiliation
+      label: Institution or Organization
+      hint: Museum, university, or research organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: species_common_name
+      label: Common Name of Species
+      hint: The common name used to identify this arachnid
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: species_scientific_name
+      label: Scientific Name - Latin Binomial
+      hint: e.g., Latrodectus mactans
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: discovery_date
+      label: Date of Discovery
+      hint: When was this species observed or collected
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: discovery_location
+      label: Geographic Location
+      hint: Country, state, city, and coordinates if available
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: habitat_type
+      label: Habitat Type
+      hint: Select the primary habitat where found
+      type: select_one
+      options:
+      - Forest
+      - Desert
+      - Grassland
+      - Urban
+      - Wetland
+      - Mountain
+      - Other
+      required: true
+    - id: 8
+      name: specimen_photo_url
+      label: Specimen Photo or Image URL
+      hint: Link to photograph of the arachnid
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: specimen_collected
+      label: Was a specimen collected
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial collection
+      required: true
+    - id: 10
+      name: specimen_storage_location
+      label: Storage Location of Specimen
+      hint: Museum name or collection identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: size_body_length_mm
+      label: Body Length in Millimeters
+      hint: Measurement of cephalothorax and abdomen
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: color_description
+      label: Color Description
+      hint: Primary and secondary colors observed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: distinctive_features
+      label: Distinctive Features
+      hint: Markings, patterns, or unique characteristics
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: behavioral_notes
+      label: Behavioral Observations
+      hint: Activity patterns, web construction, or hunting behavior
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: associated_species
+      label: Associated Plant or Animal Species
+      hint: Other species found in same location
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: venom_toxicity_level
+      label: Venom or Medical Significance
+      hint: null
+      type: select_one
+      options:
+      - Non-toxic
+      - Mildly toxic
+      - Moderately toxic
+      - Highly toxic
+      - Unknown
+      required: false
+    - id: 17
+      name: identification_confidence
+      label: Identification Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - Certain
+      - Very likely
+      - Probable
+      - Uncertain
+      required: true
+    - id: 18
+      name: reference_materials_used
+      label: Reference Materials or Experts Consulted
+      hint: Books, papers, or specialist names
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: conservation_status
+      label: Known Conservation Status
+      hint: null
+      type: select_one
+      options:
+      - Not evaluated
+      - Data deficient
+      - Least concern
+      - Vulnerable
+      - Endangered
+      - Critically endangered
+      required: false
+    - id: 20
+      name: contributor_email
+      label: Contributor Email Address
+      hint: For follow-up questions about this record
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: contributor_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: data_sharing_permission
+      label: Permission to share this data publicly
+      hint: null
+      type: select_one
+      options:
+      - Yes, share publicly
+      - No, keep private
+      - Anonymize before sharing
+      required: true

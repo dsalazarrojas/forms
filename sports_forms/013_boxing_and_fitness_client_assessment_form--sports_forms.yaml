@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing And Fitness Client Assessment Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_fitness
+      label: -- Fitness Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: Self-assessed activity level
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Very active
+      - Athlete
+      required: true
+    - id: 8
+      name: exercise_frequency
+      label: How often do you exercise
+      hint: Days per week
+      type: select_one
+      options:
+      - Never
+      - 1-2 days per week
+      - 3-4 days per week
+      - 5-6 days per week
+      - Daily
+      required: true
+    - id: 9
+      name: boxing_experience
+      label: Boxing or Combat Sport Experience
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Beginner (less than 3 months)
+      - Intermediate (3-12 months)
+      - Advanced (1-3 years)
+      - Expert (3+ years)
+      required: true
+    - id: 10
+      name: section_header_health
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Existing Medical Conditions
+      hint: Cardiovascular, respiratory, orthopedic issues
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: injuries_history
+      label: Previous Injuries
+      hint: List any prior injuries
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: head_injury_history
+      label: History of Head Injuries or Concussions
+      hint: Important for boxing safety
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: medication_use
+      label: Current Medications
+      hint: Any prescriptions or supplements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_goals
+      label: -- Fitness Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_goal
+      label: Primary Fitness Goal
+      hint: What you want to achieve
+      type: select_one
+      options:
+      - Weight loss
+      - Muscle gain
+      - Cardiovascular fitness
+      - Stress relief
+      - Competition training
+      - General fitness
+      - Confidence building
+      required: true
+    - id: 17
+      name: area_focus
+      label: Areas of Focus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Upper body strength
+      - Core strength
+      - Cardio endurance
+      - Speed and agility
+      - Technical boxing skills
+      - Self-defense
+      - Flexibility
+      required: false
+    - id: 18
+      name: section_header_contraindications
+      label: -- Contraindications and Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: clearance_to_participate
+      label: Physician has cleared you for physical activity
+      hint: Medical approval status
+      type: select_one
+      options:
+      - Yes, cleared
+      - No clearance
+      - Not applicable
+      - Under medical review
+      required: true
+    - id: 20
+      name: liability_acknowledgment
+      label: I acknowledge the risks of boxing and fitness
+      hint: Understand potential injuries
+      type: select_one
+      options:
+      - I fully acknowledge and accept risks
+      - I need more information
+      - I do not accept risks
+      required: true
+    - id: 21
+      name: assessment_consent
+      label: I consent to this fitness assessment
+      hint: Agree to proceed with training
+      type: select_one
+      options:
+      - I fully consent
+      - I do not consent
+      required: true

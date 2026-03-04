@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Committee Meeting Scheduling Form
+    pages:
+      - id: 1
+        name: section_meeting_sched_info
+        label: -- Meeting Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: committee_title
+        label: Committee Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: scheduler_name
+        label: Your Full Name
+        hint: Person filling out availability
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: meeting_purpose
+        label: Primary Purpose of the Meeting
+        hint: e.g., Monthly Review, Project Kickoff
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_availability_grid
+        label: -- Weekly Availability --
+        hint: Select the days and times you are generally available
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: preferred_days
+        label: Which days of the week work best for you
+        hint: null
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 7
+        name: preferred_time_slots
+        label: What are your preferred time slots
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Morning (8am - 11am)
+          - Mid-day (11am - 2pm)
+          - Afternoon (2pm - 5pm)
+          - Evening (5pm - 8pm)
+        required: true
+      - id: 8
+        name: section_specific_dates
+        label: -- Specific Date Options --
+        hint: Please indicate your availability for the proposed dates
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: option_one_status
+        label: Option 1 - Monday, March 1
+        hint: null
+        type: select_one
+        options:
+          - Available
+          - Tentative
+          - Not Available
+        required: true
+      - id: 10
+        name: option_two_status
+        label: Option 2 - Wednesday, March 3
+        hint: null
+        type: select_one
+        options:
+          - Available
+          - Tentative
+          - Not Available
+        required: true
+      - id: 11
+        name: option_three_status
+        label: Option 3 - Friday, March 5
+        hint: null
+        type: select_one
+        options:
+          - Available
+          - Tentative
+          - Not Available
+        required: true
+      - id: 12
+        name: section_format_pref
+        label: -- Meeting Format and Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: preferred_format
+        label: Preferred Meeting Format
+        hint: null
+        type: select_one
+        options:
+          - In-Person
+          - Virtual (Zoom/Teams)
+          - Hybrid
+        required: true
+      - id: 14
+        name: estimated_duration
+        label: How much time should we allocate for this meeting
+        hint: null
+        type: select_one
+        options:
+          - 30 Minutes
+          - 45 Minutes
+          - 60 Minutes
+          - 90 Minutes
+          - 2 Hours
+        required: true
+      - id: 15
+        name: agenda_items_suggestions
+        label: Items you would like to include in the agenda
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: scheduler_comments
+        label: Additional Comments or Scheduling Constraints
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: sched_form_submission_date
+        label: Date Submitted
+        hint: null
+        type: date
+        options: []
+        required: true

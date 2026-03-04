@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: press_release_distribution_subscription_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: press_release_topic
+      label: Press Release Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Marketing
+      - Media
+      - News
+      - Politics
+      - Science
+      - Sports
+      - Transportation
+      - Entertainment
+      required: false
+    - id: 6
+      name: press_release_frequency
+      label: Press Release Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 7
+      name: confirmation_message
+      label: Confirmation
+      hint: You will be contacted to confirm subscription.
+      type: note
+      options: []
+      required: false

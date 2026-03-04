@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co Op Work Experience Report
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your university or college ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: School Email
+      hint: Your educational institution email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_name
+      label: Program or Major
+      hint: Your field of study
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: year_of_study
+      label: Year of Study
+      hint: What year are you in
+      type: select_one
+      options:
+      - First Year
+      - Second Year
+      - Third Year
+      - Fourth Year
+      - Graduate Student
+      - Other
+      required: true
+    - id: 7
+      name: employer_name
+      label: Employer or Company Name
+      hint: Name of organization where you worked
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Full name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Contact email for your supervisor
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: Contact phone for your supervisor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Your Job Title
+      hint: Your official title at the company
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: Which department did you work in
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: When did your co-op begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: When did your co-op end
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: hours_per_week
+      label: Hours Per Week
+      hint: Average weekly hours worked
+      type: select_one
+      options:
+      - Less than 20 hours
+      - 20-29 hours
+      - 30-39 hours
+      - 40 hours
+      - Over 40 hours
+      required: true
+    - id: 16
+      name: total_hours
+      label: Total Hours Completed
+      hint: Total hours for the co-op term
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: job_responsibilities
+      label: Main Job Responsibilities
+      hint: Describe your primary duties
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: skills_learned
+      label: New Skills Learned
+      hint: What skills did you develop
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: skills_applied
+      label: Skills Applied from School
+      hint: What classroom skills did you use
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_description
+      label: Key Projects Completed
+      hint: Describe major projects you worked on
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_rating
+      label: Supervisor Support Rating
+      hint: Rate the support from your supervisor
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: work_environment_rating
+      label: Work Environment Rating
+      hint: Rate the workplace environment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: learning_experience_rating
+      label: Learning Experience Rating
+      hint: Rate the overall learning value
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What difficulties did you encounter
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accomplishments
+      label: Key Accomplishments
+      hint: What are you most proud of
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: career_goals_impact
+      label: How Did This Impact Career Goals
+      hint: Did this experience change your goals
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: would_return
+      label: Would You Return to This Employer
+      hint: Would you work there again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 28
+      name: recommend_to_others
+      label: Would You Recommend to Other Students
+      hint: Would you suggest this co-op to peers
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 29
+      name: school_coordinator_feedback
+      label: Feedback for School Coordinator
+      hint: Comments for your academic advisor
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other reflections or feedback
+      type: text
+      options: []
+      required: false

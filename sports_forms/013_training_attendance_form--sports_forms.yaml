@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Attendance Form
+    pages:
+    - id: 1
+      name: training_attendance_form_1
+      label: what_is_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_start_date
+      label: training_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_end_date
+      label: training_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: training_hours
+      label: training_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_location
+      label: training_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_notes
+      label: training_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_attendance_percentage
+      label: student_attendance_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: student_attendance_count
+      label: student_attendance_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: employee_attendance_percentage
+      label: employee_attendance_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: employee_attendance_count
+      label: employee_attendance_count
+      hint: null
+      type: number
+      options: []
+      required: true

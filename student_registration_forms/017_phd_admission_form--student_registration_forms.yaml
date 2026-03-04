@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phd Admission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: university
+      label: University
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''University A''}'
+      - '{''id'': 2, ''name'': ''University B''}'
+      - '{''id'': 3, ''name'': ''University C''}'
+      required: false
+    - id: 4
+      name: degree
+      label: Degree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: research_area
+      label: Research Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Area A''}'
+      - '{''id'': 2, ''name'': ''Area B''}'
+      - '{''id'': 3, ''name'': ''Area C''}'
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

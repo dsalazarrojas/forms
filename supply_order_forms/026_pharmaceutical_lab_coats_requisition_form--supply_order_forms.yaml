@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Lab Coats Requisition Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lab_info
+      label: lab_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requisition_info
+      label: requisition_info
+      hint: null
+      type: text
+      options: []
+      required: true

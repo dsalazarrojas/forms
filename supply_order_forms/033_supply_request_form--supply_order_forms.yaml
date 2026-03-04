@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Request Form
+    pages:
+    - id: 1
+      name: supply_request_form
+      label: supply_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_order_date
+      label: customer_order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_delivery_date
+      label: customer_delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: supply_details
+      label: supply_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supply_description
+      label: supply_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supply_unit
+      label: supply_unit
+      hint: null
+      type: select_one
+      options:
+      - unit
+      - unit
+      required: false
+    - id: 11
+      name: supply_quantity
+      label: supply_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: supply_price
+      label: supply_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assign_supply_manager
+      label: assign_supply_manager
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - john
+      required: false
+    - id: 15
+      name: manager_confirmation
+      label: manager_confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - declined
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supply_status
+      label: supply_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_transit
+      - arrived
+      required: false
+    - id: 18
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assign_manager_comments
+      label: assign_manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_approval
+      label: customer_approval
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - declined
+      required: false

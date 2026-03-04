@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Team Survey
+    pages:
+    - id: 1
+      name: swim_team_survey_first_page
+      label: Swim Team Survey First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_id
+      label: athlete_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: swimmer_name
+      label: swimmer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: swimmer_id
+      label: swimmer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swimmer_email
+      label: swimmer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: swimmer_address
+      label: swimmer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: swimmer_phone
+      label: swimmer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: swimmer_birthdate
+      label: swimmer_birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: swim_type
+      label: swim_type
+      hint: null
+      type: select_multiple
+      options:
+      - butterfly
+      - individual
+      - medley
+      required: false
+    - id: 12
+      name: swim_distance
+      label: swim_distance
+      hint: null
+      type: select_one
+      options:
+      - 200m
+      - 400m
+      - 600m
+      - 800m
+      - 1000m
+      - 1600m
+      - 1800m
+      - 1600m
+      required: false
+    - id: 13
+      name: swim_stroke
+      label: swim_stroke
+      hint: null
+      type: select_one
+      options:
+      - front crawl
+      - backstroke
+      - breaststroke
+      - butterfly
+      - freestyle
+      required: false
+    - id: 14
+      name: swim_event
+      label: swim_event
+      hint: null
+      type: select_multiple
+      options:
+      - 100m
+      - 200m
+      - 400m
+      - 800m
+      - 1500m
+      required: false
+    - id: 15
+      name: swim_meet
+      label: swim_meet
+      hint: null
+      type: select_one
+      options:
+      - qualifying
+      - invitational
+      - championship
+      required: false
+    - id: 16
+      name: swim_meet_date
+      label: swim_meet_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: swim_meet_location
+      label: swim_meet_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: swim_meet_time
+      label: swim_meet_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: swim_meet_details
+      label: swim_meet_details
+      hint: null
+      type: select_one
+      options:
+      - warmup
+      - heat
+      - final
+      required: false
+    - id: 20
+      name: swim_meet_result
+      label: swim_meet_result
+      hint: null
+      type: select_one
+      options:
+      - won
+      - lost
+      required: false
+    - id: 21
+      name: swim_meet_notes
+      label: swim_meet_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: swim_meet_score
+      label: swim_meet_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: swim_meet_rank
+      label: swim_meet_rank
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      required: false
+    - id: 24
+      name: swim_meet_medal
+      label: swim_meet_medal
+      hint: null
+      type: select_one
+      options:
+      - gold
+      - silver
+      - bronze
+      required: false
+    - id: 25
+      name: swim_meet_ribbon
+      label: swim_meet_ribbon
+      hint: null
+      type: select_one
+      options:
+      - ribbon
+      - no_ribbon
+      required: false

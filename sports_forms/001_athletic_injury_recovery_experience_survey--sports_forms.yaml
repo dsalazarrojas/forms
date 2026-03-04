@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Injury Recovery Experience Survey
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: We will use this to follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Include country code if outside local region
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: injury_date
+      label: Date of injury
+      hint: Approximate date is acceptable
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: injury_type
+      label: Injury type
+      hint: Select the closest match
+      type: select_one
+      options:
+      - Sprain or strain
+      - Fracture
+      - Concussion
+      - Tendon or ligament injury
+      - Other
+      required: true
+    - id: 7
+      name: recovery_methods
+      label: Recovery methods used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical therapy
+      - Rest and ice
+      - Medication
+      - Surgery
+      - Alternative therapy
+      required: false
+    - id: 8
+      name: recovery_duration_weeks
+      label: Recovery duration in weeks
+      hint: Estimate number of weeks since treatment started
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pain_level
+      label: Pain level during recovery 1-10
+      hint: 1 is minimal pain and 10 is worst pain
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 10
+      name: overall_satisfaction
+      label: Overall satisfaction with recovery plan
+      hint: Choose the option that best reflects your overall experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments or feedback
+      hint: Provide any notes about treatments or outcomes
+      type: text
+      options: []
+      required: false

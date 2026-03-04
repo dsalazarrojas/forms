@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Tryout Evaluation Form
+    pages:
+    - id: 1
+      name: player_selection
+      label: player_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: skills
+      label: skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: speed
+      label: speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: agility
+      label: agility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: endurance
+      label: endurance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: team_compatibility
+      label: team_compatibility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: plays_ball_control
+      label: plays_ball_control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: ball_distribution
+      label: ball_distribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: team_fit
+      label: team_fit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall
+      label: overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coach_comments
+      label: coach_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: evaluator_comments
+      label: evaluator_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: player_comments
+      label: player_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: player_email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false

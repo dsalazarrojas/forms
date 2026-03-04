@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_training_consultation
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Option 1''}'
+      - '{''id'': 101, ''label'': ''Option 2''}'
+      - '{''id'': 102, ''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 200, ''label'': ''Option 1''}'
+      - '{''id'': 201, ''label'': ''Option 2''}'
+      - '{''id'': 202, ''label'': ''Option 3''}'
+      required: false
+    - id: 10
+      name: date_time
+      label: Date/Time
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Hotel Food Supply Order Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Luxury Hotel Food Supply Order Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Supply Order Forms'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Order Request Form'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Delivery Preference Form'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: Requested by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hotel Purchasing Team'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Hotel Staff'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Supplier'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: requested_to
+      label: Requested to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hotel'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Supplier'', ''value'': 2}'
+      required: false
+    - id: 9
+      name: supply_details
+      label: Supply Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false

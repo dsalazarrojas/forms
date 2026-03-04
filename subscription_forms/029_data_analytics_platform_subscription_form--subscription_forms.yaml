@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Analytics Platform Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plan
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Free''}'
+      - '{''label'': ''Premium''}'
+      - '{''label'': ''Enterprise''}'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''credit_card''}'
+      - '{''label'': ''paypal''}'
+      - '{''label'': ''bank_transfer''}'
+      required: false
+    - id: 7
+      name: subscription_period
+      label: Subscription Period
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Month-to-Month''}'
+      - '{''label'': ''Annual''}'
+      - '{''label'': ''Bi-Annual''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_acknowledgement
+      label: Agreement Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

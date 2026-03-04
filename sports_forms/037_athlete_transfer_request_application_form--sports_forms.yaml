@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Transfer Request Application Form
+    pages:
+    - id: 1
+      name: athlete_info_header
+      label: -- Athlete Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: competition_level
+      label: Current Competition Level
+      hint: e.g. Varsity, Junior, Professional
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: transfer_details_header
+      label: -- Transfer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_club
+      label: Current Team or Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: new_club
+      label: Desired New Team or Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: transfer_date
+      label: Requested Transfer Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: transfer_reason
+      label: Primary Reason for Transfer
+      hint: null
+      type: select_one
+      options:
+      - Geographic Relocation
+      - Enhanced Competitive Opportunity
+      - Coaching or Management Change
+      - Academic or School Conflict
+      - Personal or Family Reasons
+      - Other
+      required: true
+    - id: 11
+      name: other_reason_text
+      label: If Other - Please Provide Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: compliance_header
+      label: -- Eligibility and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contract_status
+      label: Is the athlete currently under a formal contract?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: contract_expiration
+      label: Contract Expiration Date
+      hint: Required if under contract
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: financial_obligations
+      label: Are there any outstanding financial obligations to the current club?
+      hint: e.g. Unpaid fees or equipment returns
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: previous_transfer_count
+      label: Number of Transfers in the Last 12 Months
+      hint: Enter 0 if none
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: athlete_email
+      label: Athlete Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: athlete_phone
+      label: Athlete Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guardian_phone
+      label: Parent or Guardian Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: declaration_consent_header
+      label: -- Declaration and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: info_accuracy_certification
+      label: I certify that all information provided in this application is accurate
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 24
+      name: club_notification_consent
+      label: I consent to my current club being notified of this transfer request
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 25
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: guardian_signature
+      label: Parent or Guardian Electronic Signature
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

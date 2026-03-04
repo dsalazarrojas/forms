@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contemporary Art Evaluation Form
+    pages:
+    - id: 1
+      name: artwork_title
+      label: Artwork Title
+      hint: Name or title of the artwork
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Full name of the artist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of person evaluating the artwork
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_role
+      label: Evaluator Role
+      hint: Position or title of evaluator
+      type: select_one
+      options:
+      - Curator
+      - Art Critic
+      - Gallery Owner
+      - Artist Peer
+      - Art Collector
+      - Museum Director
+      - Art Professor
+      required: true
+    - id: 6
+      name: artwork_medium
+      label: Artwork Medium
+      hint: Primary medium used in the artwork
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Installation
+      - Performance Art
+      - Video Art
+      - Mixed Media
+      required: true
+    - id: 7
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Height x Width x Depth (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: year_created
+      label: Year Created
+      hint: Year the artwork was completed
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: conceptual_strength
+      label: Conceptual Strength
+      hint: Rate the strength of the concept or idea
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: technical_execution
+      label: Technical Execution
+      hint: Rate the technical skill demonstrated
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: originality
+      label: Originality
+      hint: Rate the originality and uniqueness
+      type: select_one
+      options:
+      - Highly Original
+      - Very Original
+      - Somewhat Original
+      - Derivative
+      - Unoriginal
+      required: true
+    - id: 12
+      name: visual_impact
+      label: Visual Impact
+      hint: Rate the visual impact and presence
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Moderate
+      - Weak
+      - Minimal
+      required: true
+    - id: 13
+      name: emotional_resonance
+      label: Emotional Resonance
+      hint: Rate the emotional impact on viewer
+      type: select_one
+      options:
+      - Very Moving
+      - Moving
+      - Somewhat Moving
+      - Neutral
+      - No Emotional Impact
+      required: true
+    - id: 14
+      name: cultural_relevance
+      label: Cultural Relevance
+      hint: Rate the relevance to contemporary issues
+      type: select_one
+      options:
+      - Highly Relevant
+      - Very Relevant
+      - Somewhat Relevant
+      - Slightly Relevant
+      - Not Relevant
+      required: true
+    - id: 15
+      name: craftsmanship
+      label: Craftsmanship
+      hint: Rate the quality of craftsmanship
+      type: select_one
+      options:
+      - Exceptional
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: presentation_quality
+      label: Presentation Quality
+      hint: Rate the quality of presentation
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: overall_rating
+      label: Overall Rating
+      hint: Overall evaluation of the artwork
+      type: select_one
+      options:
+      - Outstanding
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: acquisition_recommendation
+      label: Acquisition Recommendation
+      hint: Would you recommend acquisition?
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Consider
+      - Do Not Recommend
+      - Strongly Advise Against
+      required: true
+    - id: 19
+      name: exhibition_suitability
+      label: Exhibition Suitability
+      hint: Is this artwork suitable for exhibition?
+      type: select_one
+      options:
+      - Highly Suitable
+      - Suitable
+      - Somewhat Suitable
+      - Not Suitable
+      required: true
+    - id: 20
+      name: strengths
+      label: Strengths
+      hint: Describe the main strengths of this artwork
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: weaknesses
+      label: Weaknesses
+      hint: Describe areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or feedback
+      type: text
+      options: []
+      required: false

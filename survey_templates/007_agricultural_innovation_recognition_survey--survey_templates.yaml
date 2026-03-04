@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Innovation Recognition Survey
+    pages:
+    - id: 1
+      name: nominator_info_header
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Nominator Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or Institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: innovation_details_header
+      label: -- Innovation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: innovation_title
+      label: Innovation Title
+      hint: Name of the product or process
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: Primary area of innovation
+      type: select_one
+      options:
+      - Biotechnology
+      - Machinery/Hardware
+      - Digital/Software
+      - Sustainable Practices
+      - Supply Chain
+      - Processing
+      required: true
+    - id: 8
+      name: problem_solved
+      label: Problem Solved
+      hint: What issue does this address?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: innovation_description
+      label: Innovation Description
+      hint: Detailed explanation of how it works
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: impact
+      label: Impact
+      hint: Measurable benefits or results
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sustainability_rating
+      label: Sustainability Rating
+      hint: Environmental impact
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Transformative
+      required: true
+    - id: 12
+      name: scalability
+      label: Scalability
+      hint: Potential for widespread adoption
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - Global
+      required: true
+    - id: 13
+      name: supporting_docs_note
+      label: Supporting Documents
+      hint: Please email technical papers to awards@ag-innovate.org
+      type: note
+      options: []
+      required: false

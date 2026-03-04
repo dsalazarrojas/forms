@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Betrayal Support Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is the current level of your overall well-being?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 2
+      name: support_needs
+      label: What kind of support do you need in your life right now?
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional Support
+      - Practical Support
+      - Spiritual Support
+      - Physical Support
+      required: false
+    - id: 3
+      name: recovery_pattern
+      label: What recovery patterns you are familiar with or interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Counseling
+      - Coaching
+      - Peer Support
+      - Online Support
+      required: false
+    - id: 4
+      name: current_support
+      label: What kind of current support do you have in place?
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Family
+      - Friend
+      - Peer Support Group
+      - Online Support
+      required: false
+    - id: 5
+      name: current_counseling
+      label: Currently seeing a therapist or counselor?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 6
+      name: counseling_frequency
+      label: How often would you like to meet with a counselor?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: current_coaching
+      label: Currently seeing a coach or mentor?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 8
+      name: coaching_frequency
+      label: How often would you like to meet with a coach or mentor?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: current_peer_support
+      label: Currently part of a peer support group?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: peer_support_frequency
+      label: How often do you plan to meet with a peer support group?
+      hint: null
+      type: number
+      options: []
+      required: false

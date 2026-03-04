@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Bonding Session Planning Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Team Bonding Session Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_preferences
+      label: Date Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time_preferences
+      label: Time Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: activity_preferences
+      label: Activity Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: venue_preferences
+      label: Venue Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

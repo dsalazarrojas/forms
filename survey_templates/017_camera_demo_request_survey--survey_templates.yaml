@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camera Demo Request Survey
+    pages:
+    - id: 1
+      name: requester_contact_header
+      label: -- Camera Demo Request Contact Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_person_name
+      label: Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_org_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title_demo
+      label: Job Title - Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_demo
+      label: Professional Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone_demo
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: demo_needs_header
+      label: -- Demo Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: camera_use_case
+      label: Primary Intended Use Case
+      hint: How will this equipment be used?
+      type: select_one
+      options:
+      - Commercial Film Production
+      - Security and Surveillance
+      - Live Event Streaming
+      - Scientific Research
+      - Education and Training
+      - Other
+      required: true
+    - id: 9
+      name: specific_model_interest
+      label: Specific Model Interest
+      hint: List specific cameras you wish to see
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: projected_unit_count
+      label: Projected Number of Units Needed
+      hint: Estimated fleet size
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: demo_format_pref
+      label: Preferred Demo Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person (Our Site)
+      - In-Person (Vendor Site)
+      - Virtual Live Demo
+      - Loaner Equipment for Evaluation
+      required: true
+    - id: 12
+      name: preferred_demo_date
+      label: Requested Demo Date
+      hint: Subject to availability
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: technical_requirements_notes
+      label: Specific Technical Requirements
+      hint: e.g., low-light performance, 8K resolution, weatherproofing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: budget_status
+      label: Current Budget Status
+      hint: null
+      type: select_one
+      options:
+      - Budget Approved
+      - Seeking Approval
+      - Early Research Phase
+      - Next Fiscal Year
+      required: true
+    - id: 15
+      name: referral_vendor
+      label: How did you hear about our camera solutions?
+      hint: null
+      type: select_one
+      options:
+      - Trade Show
+      - Industry Publication
+      - Referral
+      - Online Search
+      - Direct Sales Outreach
+      required: false

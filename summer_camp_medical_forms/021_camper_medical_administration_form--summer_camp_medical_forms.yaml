@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Medical Administration Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: camper_id_number
+      label: Camp ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Known Allergies
+      hint: Include medication allergies and environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergy_severity
+      label: Allergy Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Life-threatening
+      required: false
+    - id: 9
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Asthma, diabetes, epilepsy, heart condition, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_surgeries
+      label: Previous Surgeries or Hospitalizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_medications
+      label: Current Medications
+      hint: Include medication name, dosage, and frequency
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_administration_consent
+      label: Authorization to administer medications at camp
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorized
+      - false
+      - Conditional
+      required: true
+    - id: 13
+      name: section_physician_info
+      label: -- Physician Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: physician_name
+      label: Primary Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_phone
+      label: Physician Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_medical_contact
+      label: Emergency Medical Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_special_needs
+      label: -- Special Health Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions or Special Food Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mobility_limitations
+      label: Mobility Limitations or Physical Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mental_health_conditions
+      label: Mental Health Conditions
+      hint: Anxiety, depression, ADHD, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_authorization
+      label: -- Authorization and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: emergency_treatment_consent
+      label: Consent to emergency medical treatment if needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true

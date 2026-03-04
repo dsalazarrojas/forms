@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Study Guide Quiz
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: prophets
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confidence_level
+      label: confidence_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false

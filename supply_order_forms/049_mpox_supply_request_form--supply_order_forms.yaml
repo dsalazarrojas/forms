@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Supply Request Form
+    pages:
+    - id: 1
+      name: supply_request_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supply_request_form_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supply_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: supply_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supply_request_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: supply_request_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: supply_request_form_description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: supply_request_form_mpox_type
+      label: mpox_type
+      hint: null
+      type: select_one
+      options:
+      - Mpox
+      - Mpox2
+      - Mpox3
+      required: true
+    - id: 9
+      name: supply_request_form_justification
+      label: justification
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: supply_request_form_requested_by
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      required: true
+    - id: 11
+      name: supply_request_form_ordered_by
+      label: ordered_by
+      hint: null
+      type: select_one
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      required: true
+    - id: 12
+      name: supply_request_form_date_ordered
+      label: date_ordered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: supply_request_form_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 14
+      name: supply_request_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supply_request_form_mpox_location
+      label: mpox_location
+      hint: null
+      type: note
+      options: []
+      required: true

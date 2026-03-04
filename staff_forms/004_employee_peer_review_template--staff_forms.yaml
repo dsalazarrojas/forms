@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Peer Review Template
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: strengths
+      label: Strengths
+      hint: Please list the strengths of the employee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: areas_for_improvement
+      label: Areas For Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: development_areas
+      label: Development Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Teamwork
+      - Leadership
+      required: false
+    - id: 6
+      name: specific_behavioral_issues
+      label: Specific Behavioral Issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_last_review
+      label: Date Of Last Review
+      hint: YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_next_review
+      label: Date Of Next Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: peer_reviewer_name
+      label: Peer Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: graduate_career_monitoring_survey
+    pages:
+    - id: 1
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Internship
+      - Freelance
+      required: true
+    - id: 2
+      name: current_employment
+      label: Current Employment
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Unemployed
+      - Retired
+      - Pursuing education
+      - Other
+      - Prefer not to answer
+      required: true
+    - id: 3
+      name: current_location
+      label: Current Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Finance
+      - Healthcare
+      - Education
+      - Other
+      - Prefer not to answer
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_one
+      options:
+      - Management
+      - Development
+      - Engineering
+      - Other
+      - Prefer not to answer
+      required: false
+    - id: 9
+      name: years_in_role
+      label: Years in current role
+      hint: Years in your current role
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: years_of_experience
+      label: Years of Experience
+      hint: Number of years of experience
+      type: number
+      options: []
+      required: true

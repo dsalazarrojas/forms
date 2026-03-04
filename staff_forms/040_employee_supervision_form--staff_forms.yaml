@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Supervision Form
+    pages:
+    - id: 1
+      name: employee_supervision_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_supervision_form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_supervision_form_3
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_supervision_form_4
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Assistant Manager''}'
+      - '{''id'': 3, ''label'': ''Team Lead''}'
+      - '{''id'': 4, ''label'': ''Employee''}'
+      required: false
+    - id: 5
+      name: employee_supervision_form_5
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: employee_supervision_form_6
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_supervision_form_7
+      label: Supervision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_supervision_form_8
+      label: Supervision Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: employee_supervision_form_9
+      label: Performance Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: false

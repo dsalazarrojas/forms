@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre_festival_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Festival Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: festival_frequency
+      label: how_many_festivals_attended_in_last_2_years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feeling_temperature_checklist
+      label: how_do_you_feel_in_the_last_24_hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feeling_temperature_scale
+      label: what_is_your_temperature
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Feverish
+      - Feverish with chills
+      - Feverish with difficulty breathing
+      - Feverish with difficulty breathing and confusion
+      required: true
+    - id: 5
+      name: contact_tracking
+      label: have_you_been_contacted_with_someone_with_covid_19
+      hint: null
+      type: select_multiple
+      options:
+      - Yes - household member
+      - Yes - friend/ colleague/ family member
+      - Yes - Public transport
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: symptoms_last_2_weeks
+      label: have_you_experienced_any_symptoms_last_2_weeks
+      hint: fever, cough, fatigue, shortness of breath, etc.
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Shortness of breath
+      - Headache
+      - Sore throat
+      - Runny nose
+      - Muscle aches
+      - Diarrhea
+      - Nausea
+      - Loss of appetite
+      required: true
+    - id: 7
+      name: travel_history
+      label: have_you_traveled_outside_your_country_last_2_weeks
+      hint: null
+      type: select_multiple
+      options:
+      - Yes - International travel
+      - Yes - Domestic travel
+      - 'No'
+      required: true
+    - id: 8
+      name: travel_details
+      label: travel_destination
+      hint: Country/Region
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_status
+      label: have_you_been_vaccinated_against_covid_19
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Unknown
+      required: true
+    - id: 10
+      name: mask
+      label: do_you_wear_mask
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: true
+    - id: 11
+      name: handwashing
+      label: how_often_do_you_wash_your_hands
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 12
+      name: social_distancing
+      label: have_you_practiced_social_distancing
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 13
+      name: handwashing_frequency
+      label: how_often_do_you_wash_your_hands
+      hint: null
+      type: select_multiple
+      options:
+      - Before eating
+      - After using the bathroom
+      - After blowing nose, sneezing or coughing
+      - After using the kitchen
+      - After being outdoors
+      - Before a meal
+      - Before a drink
+      - Before a snack
+      - Before a meal
+      - After petting an animal
+      - After touching raw meat/poultry
+      - Before a nap
+      required: true
+    - id: 14
+      name: contactless_payment
+      label: do_you_prefer_contactless_payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: social_distancing_frequency
+      label: how_often_do_you_practice_social_distancing
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 16
+      name: handwashing_frequency_2
+      label: how_often_do_you_wash_your_hands_2
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 17
+      name: vaccination_availability
+      label: have_you_been_vaccinated_awaiting_vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 18
+      name: have_you_been_vaccinated
+      label: have_you_been_vaccinated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 19
+      name: mask_availability
+      label: have_you_been_vaccinated_with_the_mrna_vaccine
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 20
+      name: travel_history_1
+      label: have_you_traveled_outside_your_area_last_2_weeks
+      hint: null
+      type: select_multiple
+      options:
+      - Yes - International travel
+      - Yes - Domestic travel
+      - 'No'
+      required: true
+    - id: 21
+      name: travel_frequency_1
+      label: how_often_do_you_traveled_outside_your_area_last_2_weeks
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 22
+      name: mask
+      label: do_you_wear_mask_1
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: true
+    - id: 23
+      name: handwashing_1
+      label: how_often_do_you_wash_your_hands_1
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 24
+      name: social_distancing_1
+      label: how_often_do_you_practice_social_distancing_1
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 25
+      name: travel_history_2
+      label: have_you_traveled_outside_your_area_last_2_weeks
+      hint: null
+      type: select_multiple
+      options:
+      - Yes - International travel
+      - Yes - Domestic travel
+      - 'No'
+      required: true

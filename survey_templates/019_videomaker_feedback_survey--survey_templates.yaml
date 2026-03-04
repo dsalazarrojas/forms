@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Videomaker Feedback Survey
+    pages:
+    - id: 1
+      name: client_feedback
+      label: client_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_services
+      label: production_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false

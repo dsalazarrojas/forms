@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: VLQ Submission Form
+    pages:
+    - id: 1
+      name: vlq_participant_info
+      label: VlqParticipantInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participantName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_name_other
+      label: participantNameOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: participantEmail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: participantPhone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_date_of_birth
+      label: participantDateOfBirth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_date_of_death
+      label: participantDateOfDeath
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_vlq_start_date
+      label: participantVlqStartDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_vlq_end_date
+      label: participantVlqEndDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participant_reason_for_participation
+      label: participantReasonForParticipation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_vlq_level
+      label: participantVlqLevel
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 12
+      name: participant_vlq_group
+      label: participantVlqGroup
+      hint: null
+      type: select_one
+      options:
+      - Group 1
+      - Group 2
+      required: true
+    - id: 13
+      name: participant_vlq_comments
+      label: participantVlqComments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: participant_vlq_files
+      label: participantVlqFiles
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: true
+    - id: 15
+      name: participant_other_info
+      label: participantOtherInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_other_info_other
+      label: participantOtherInfoOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_other_files
+      label: participantOtherFiles
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: false
+    - id: 18
+      name: participant_other_files_other
+      label: participantOtherFilesOther
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: participant_vlq_agreement
+      label: participantVlqAgreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: participant_vlq_agreement_other
+      label: participantVlqAgreementOther
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: participant_vlq_agreement_other_info
+      label: participantVlqAgreementOtherInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_vlq_agreement_other_info_other
+      label: participantVlqAgreementOtherInfoOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_vlq_agreement_other_other
+      label: participantVlqAgreementOtherOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_vlq_agreement_other_other_info
+      label: participantVlqAgreementOtherOtherInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_vlq_agreement_other_other_info_other
+      label: participantVlqAgreementOtherOtherInfoOther
+      hint: null
+      type: text
+      options: []
+      required: false

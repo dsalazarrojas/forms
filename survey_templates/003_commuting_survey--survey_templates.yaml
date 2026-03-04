@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commuting Survey
+    pages:
+    - id: 1
+      name: home_zip_code
+      label: What is your home zip code?
+      hint: Used for geographic planning analysis
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_zip_code
+      label: What is your work or destination zip code?
+      hint: Destination for your most frequent commute
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_travel_mode
+      label: Primary Mode of Transportation
+      hint: Which mode covers the longest distance of your trip?
+      type: select_one
+      options:
+      - Driving Alone
+      - Carpooling
+      - Public Transit (Bus/Train)
+      - Bicycling
+      - Walking
+      - Other
+      required: true
+    - id: 4
+      name: secondary_travel_mode
+      label: Secondary Mode of Transportation
+      hint: Any other mode used during the same trip (e.g., walking to the bus stop)
+      type: select_one
+      options:
+      - None
+      - Walking
+      - Bicycling
+      - Bus
+      - Train
+      - Scooter
+      required: false
+    - id: 5
+      name: reason_for_mode_choice
+      label: Why do you choose this mode of transport?
+      hint: Select the primary reason
+      type: select_one
+      options:
+      - Speed / Time Savings
+      - Cost Effectiveness
+      - Convenience
+      - Lack of Alternatives
+      - Environmental Impact
+      - Health / Exercise
+      required: true
+    - id: 6
+      name: monthly_commute_cost
+      label: Estimated Monthly Commute Cost
+      hint: Include fuel, parking, transit passes, or maintenance
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: environmental_impact_awareness
+      label: How much does environmental impact influence your travel choices?
+      hint: 1 is not at all, 5 is a major factor
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2
+      - 3
+      - 4
+      - 5 - Major factor
+      required: true
+    - id: 8
+      name: transit_frequency
+      label: How often do you use public transit?
+      hint: Frequency of use per month
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times per week
+      - Once a week
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: parking_availability_satisfaction
+      label: How satisfied are you with parking availability at your destination?
+      hint: Only if you drive
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Any additional feedback for transportation planners?
+      hint: Suggestions for new routes, bike lanes, or transit timing
+      type: text
+      options: []
+      required: false

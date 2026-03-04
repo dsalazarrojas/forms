@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: World Cup 2026 Viewing Survey
+    pages:
+    - id: 1
+      name: viewing_plans
+      label: How often do you plan to watch the World Cup?
+      hint: null
+      type: select_multiple
+      options:
+      - Watching every match
+      - Watching some matches
+      - Not watching
+      required: false
+    - id: 2
+      name: excitement_level
+      label: How excited are you about the World Cup?
+      hint: null
+      type: select_one
+      options:
+      - Very excited
+      - Somewhat excited
+      - Not at all excited
+      required: false
+    - id: 3
+      name: favorite_player
+      label: Who is your favorite player?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: favorite_team
+      label: Which team do you support?
+      hint: null
+      type: select_one
+      options:
+      - Brazil
+      - Argentina
+      - Germany
+      - France
+      - Other
+      required: false
+    - id: 5
+      name: favorite_team_other
+      label: If other, which team is it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: watching_with
+      label: Who will you be watching with?
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friends
+      - Alone
+      - Other
+      required: false
+    - id: 7
+      name: favorite_player_other
+      label: If other, who is it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: country
+      label: What country do you live in?
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - UK
+      - Australia
+      - Other
+      required: false
+    - id: 10
+      name: country_other
+      label: If other, which country do you live in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: How often do you receive sports news updates via email?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 12
+      name: phone_number
+      label: How often do you receive sports news updates via phone?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 13
+      name: social_media
+      label: How often do you use social media for sports news?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 14
+      name: email_address
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

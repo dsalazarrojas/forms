@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: spatialreg
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_first_name
+      label: emergency_contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_last_name
+      label: emergency_contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: fee
+      label: fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fee_frequency
+      label: fee_frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - one-time
+      required: true
+    - id: 13
+      name: fee_type
+      label: fee_type
+      hint: null
+      type: select_one
+      options:
+      - campus
+      - off-campus
+      required: true
+    - id: 14
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - parent
+      - guardian
+      - friend
+      required: true
+    - id: 16
+      name: emergency_contact_relation_note
+      label: emergency_contact_relation_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone_number
+      label: emergency_contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: fee_frequency_note
+      label: fee_frequency_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fee_type_note
+      label: fee_type_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accommodation_note
+      label: accommodation_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_note
+      label: emergency_contact_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lodging_preferences
+      label: lodging_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_id_note
+      label: student_id_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: student_id_note_2
+      label: student_id_note_2
+      hint: null
+      type: text
+      options: []
+      required: false

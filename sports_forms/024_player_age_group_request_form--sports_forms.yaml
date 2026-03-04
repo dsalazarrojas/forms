@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Age Group Request Form
+    pages:
+    - id: 1
+      name: player_age_group_request_form_1
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''8U''}'
+      - '{''value'': ''9U''}'
+      - '{''value'': ''10U''}'
+      - '{''value'': ''11U''}'
+      - '{''value'': ''12U''}'
+      - '{''value'': ''13U''}'
+      - '{''value'': ''14U''}'
+      - '{''value'': ''15U''}'
+      - '{''value'': ''16U''}'
+      - '{''value'': ''17U''}'
+      - '{''value'': ''18U''}'
+      required: false
+    - id: 3
+      name: player_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: player_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Non-binary''}'
+      - '{''value'': ''Prefer not to specify''}'
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Admission Checklist
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name of the camper
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name of the camper
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_date_of_birth
+      label: Camper Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camper_gender
+      label: Camper Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_1_name
+      label: Parent or Guardian 1 Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_1_phone
+      label: Parent or Guardian 1 Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_1_email
+      label: Parent or Guardian 1 Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: parent_guardian_2_name
+      label: Parent or Guardian 2 Full Name
+      hint: Optional second parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_guardian_2_phone
+      label: Parent or Guardian 2 Phone Number
+      hint: Secondary contact number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to camper
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_insurance_policy
+      label: Insurance Policy Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Known Allergies
+      hint: List all allergies including food, insect, medication
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any chronic conditions or health concerns
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: List all medications with dosages
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physician_name
+      label: Primary Physician Name
+      hint: Doctor name and clinic
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: physician_phone
+      label: Physician Phone Number
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any special dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 25
+      name: swimming_ability
+      label: Swimming Ability Level
+      hint: Select swimming skill level
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Competitive swimmer
+      required: true
+    - id: 26
+      name: special_needs
+      label: Does the camper have any special needs
+      hint: Yes or no
+      type: select_one
+      options:
+      - false
+      - Yes - learning disability
+      - Yes - physical disability
+      - Yes - behavioral support needed
+      - Yes - other
+      required: true
+    - id: 27
+      name: special_needs_details
+      label: Special Needs Details
+      hint: Describe accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: transportation_needed
+      label: Is Transportation Needed
+      hint: Does camper need bus service
+      type: select_one
+      options:
+      - false
+      - Yes - morning pickup
+      - Yes - afternoon dropoff
+      - Yes - both
+      required: false
+    - id: 29
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For camp shirt
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 30
+      name: how_heard_about_camp
+      label: How Did You Hear About This Camp
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School referral
+      - Friend or family
+      - Social media
+      - Website search
+      - Previous camper
+      - Community flyer
+      - Other
+      required: false

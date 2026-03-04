@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Sports Agency Online Footballers Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Register to join
+      hint: null
+      type: select_multiple
+      options:
+      - Psl
+      - Nfd
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: identity_document
+      label: Identity document
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - ID
+      - Birth certificate
+      required: false
+    - id: 4
+      name: registration_fee
+      label: Registration fee
+      hint: R2 500.00
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: registration_fee_confirmed
+      label: Has paid registration fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: has_contacted
+      label: Contacted us for more information
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false

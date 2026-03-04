@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Community Feature Voting Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Gaming Community Feature Voting Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: Select one or more categories
+      type: select_multiple
+      options:
+      - Gaming Forms
+      - Survey Templates
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 10
+      name: form_select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: form_decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: form_integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: true

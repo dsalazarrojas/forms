@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Interest Form
+    pages:
+    - id: 1
+      name: summer_camp_title
+      label: Summer Camp Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_camp_description
+      label: Summer Camp Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: summer_camp_date
+      label: Summer Camp Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: summer_camp_time
+      label: Summer Camp Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: summer_camp_location
+      label: Summer Camp Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: summer_camp_anticipated
+      label: Anticipated Summer Camp
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: summer_camp_register
+      label: Register for Summer Camp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: summer_camp_comments
+      label: Summer Camp Comments
+      hint: null
+      type: text
+      options: []
+      required: false

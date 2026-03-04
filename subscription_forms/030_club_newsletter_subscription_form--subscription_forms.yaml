@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Newsletter Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscriber_email
+      label: Email Address
+      hint: Where to send the newsletter
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subscription_date
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: club_name
+      label: Which Club Newsletter
+      hint: Select the club you follow
+      type: select_one
+      options:
+      - Sports Club
+      - Arts Club
+      - Technology Club
+      - Service Club
+      - Professional Club
+      - Social Club
+      - Other
+      required: true
+    - id: 6
+      name: interests
+      label: Content Interests
+      hint: What topics interest you
+      type: select_multiple
+      options:
+      - Events and Announcements
+      - Member Spotlights
+      - News and Updates
+      - Tips and Resources
+      - Call for Volunteers
+      - Fundraising
+      - All Content
+      required: true
+    - id: 7
+      name: frequency
+      label: Newsletter Frequency Preference
+      hint: How often should you receive updates
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed Only
+      required: true
+    - id: 8
+      name: member_status
+      label: Are You a Club Member
+      hint: null
+      type: select_one
+      options:
+      - Yes, Active Member
+      - Yes, Inactive Member
+      - Alumni
+      - No, Non-Member
+      - Not Sure
+      required: true
+    - id: 9
+      name: member_id
+      label: Member ID
+      hint: If you are a member
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_preference
+      label: Communication Preference
+      hint: How do you prefer to stay informed
+      type: select_one
+      options:
+      - Email Only
+      - Email and Text
+      - Email and Phone
+      - Email Only
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: If you want text or phone updates
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_announcements
+      label: Notify About Special Announcements
+      hint: Important club news
+      type: select_one
+      options:
+      - Yes, Notify Me
+      - Only Major Events
+      - false
+      required: false
+    - id: 13
+      name: language_preference
+      label: Language Preference
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 14
+      name: privacy_agreement
+      label: I Agree to Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

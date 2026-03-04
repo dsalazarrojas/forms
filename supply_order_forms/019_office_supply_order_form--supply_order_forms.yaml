@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Supply Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item
+      label: item
+      hint: null
+      type: select_one
+      options:
+      - item_1
+      - item_2
+      - item_3
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - paypal
+      - apple_pay
+      required: false
+    - id: 9
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false

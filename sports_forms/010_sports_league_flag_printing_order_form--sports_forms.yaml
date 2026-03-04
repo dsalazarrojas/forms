@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Flag Printing Order Form
+    pages:
+    - id: 1
+      name: sports_league_flag_printing_order_form
+      label: sports-league-flag-printing-order-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order
+      label: Order
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: true
+    - id: 3
+      name: flag_orders
+      label: flag-orders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flag_design
+      label: flag-design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artwork
+      label: artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payments
+      label: payments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: custom_flag_orders
+      label: custom-flag-orders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: artwork_details
+      label: artwork-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flag_color
+      label: flag-color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Color 1'', ''value'': ''color_1''}'
+      - '{''label'': ''Color 2'', ''value'': ''color_2''}'
+      - '{''label'': ''Color 3'', ''value'': ''color_3''}'
+      required: true
+    - id: 11
+      name: flag_size
+      label: flag-size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Size 1'', ''value'': ''size_1''}'
+      - '{''label'': ''Size 2'', ''value'': ''size_2''}'
+      - '{''label'': ''Size 3'', ''value'': ''size_3''}'
+      required: true
+    - id: 12
+      name: flag_material
+      label: flag-material
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Material 1'', ''value'': ''material_1''}'
+      - '{''label'': ''Material 2'', ''value'': ''material_2''}'
+      - '{''label'': ''Material 3'', ''value'': ''material_3''}'
+      required: true
+    - id: 13
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: artwork_size
+      label: artwork-size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quantity
+      label: quantity-2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: flag_color2
+      label: flag-color2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Color 1'', ''value'': ''color_1''}'
+      - '{''label'': ''Color 2'', ''value'': ''color_2''}'
+      required: false
+    - id: 17
+      name: team_color
+      label: team-color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Color 1'', ''value'': ''color_1''}'
+      - '{''label'': ''Color 2'', ''value'': ''color_2''}'
+      - '{''label'': ''Color 3'', ''value'': ''color_3''}'
+      required: false
+    - id: 18
+      name: team_flag_color
+      label: team-flag-color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Color 1'', ''value'': ''color_1''}'
+      - '{''label'': ''Color 2'', ''value'': ''color_2''}'
+      - '{''label'': ''Color 3'', ''value'': ''color_3''}'
+      required: true
+    - id: 19
+      name: flag_size2
+      label: flag-size2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Size 1'', ''value'': ''size_1''}'
+      - '{''label'': ''Size 2'', ''value'': ''size_2''}'
+      required: false
+    - id: 20
+      name: artwork_flag_type
+      label: artwork-flag-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type 1'', ''value'': ''type_1''}'
+      - '{''label'': ''Type 2'', ''value'': ''type_2''}'
+      required: true
+    - id: 21
+      name: team
+      label: team-name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Team 1'', ''value'': ''team_1''}'
+      - '{''label'': ''Team 2'', ''value'': ''team_2''}'
+      required: true
+    - id: 22
+      name: artwork_type
+      label: artwork-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Artwork 1'', ''value'': ''artwork_1''}'
+      - '{''label'': ''Artwork 2'', ''value'': ''artwork_2''}'
+      required: false
+    - id: 23
+      name: artwork_color
+      label: artwork-color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Color 1'', ''value'': ''color_1''}'
+      - '{''label'': ''Color 2'', ''value'': ''color_2''}'
+      required: false
+    - id: 24
+      name: flag_type
+      label: flag-type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type 1'', ''value'': ''type_1''}'
+      - '{''label'': ''Type 2'', ''value'': ''type_2''}'
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

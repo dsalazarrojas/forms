@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bribery And Corruption Training Feedback Survey
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: -- Training Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Sales
+      - Procurement
+      - Legal/Compliance
+      - Operations
+      - Other
+      required: true
+    - id: 3
+      name: training_date
+      label: Date of Training Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: instructor_rating
+      label: Rate the Instructor - s Knowledge and Delivery
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: content_clarity
+      label: Clarity of Anti-Bribery and Corruption Policies
+      hint: How well did you understand the core concepts?
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Neutral
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 6
+      name: role_relevancy
+      label: Relevancy of Training to Your Specific Role
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 7
+      name: red_flag_confidence
+      label: Confidence in Identifying Potential Red Flags
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: most_useful_section
+      label: Most Useful Section of the Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: areas_for_improvement
+      label: Areas Needing More Detail or Clarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_materials_quality
+      label: Quality of Training Materials and Case Studies
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 11
+      name: reporting_understanding
+      label: Do you know how to report a suspected violation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - No, I need more info
+      required: true
+    - id: 12
+      name: additional_comments
+      label: General Suggestions for Future Compliance Training
+      hint: null
+      type: text
+      options: []
+      required: false

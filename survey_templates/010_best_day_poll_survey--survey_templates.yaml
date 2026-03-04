@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Day Poll Survey
+    pages:
+      - id: 1
+        name: event_interest_header
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: event_name_text
+        label: Event or Meeting Name
+        hint: What event are you providing availability for
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: availability_header
+        label: -- Availability and Timing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: available_days_selection
+        label: Available Days
+        hint: Select all days you are generally free
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 7
+        name: preferred_start_time
+        label: Preferred Start Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 8
+        name: preferred_end_time
+        label: Preferred End Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 9
+        name: top_choice_day
+        label: Most Preferred Day
+        hint: If you had to pick only one day
+        type: select_one
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 10
+        name: event_preferences_header
+        label: -- Event Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: event_format_choice
+        label: Preferred Event Format
+        hint: null
+        type: select_one
+        options:
+          - In-person only
+          - Online/Virtual only
+          - Hybrid - both options
+        required: true
+      - id: 12
+        name: location_preference_desc
+        label: Location or Platform Preference
+        hint: Suggested venue or online platform
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: dietary_requirements_text
+        label: Dietary Requirements
+        hint: Please list any allergies or restrictions
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: additional_info_header
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: guest_status
+        label: Will you be bringing a guest
+        hint: null
+        type: select_one
+        options:
+          - Yes - 1 guest
+          - Yes - Multiple guests
+          - No - attending alone
+          - Unsure at this time
+        required: true
+      - id: 16
+        name: preference_reasoning
+        label: Reason for Your Preferred Day
+        hint: Why does this day work best for you
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: blackout_days
+        label: Days You Cannot Attend
+        hint: Any days that are absolutely impossible
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: false
+      - id: 18
+        name: general_comments_text
+        label: General Comments or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: submission_date_stamp
+        label: Date of Response
+        hint: null
+        type: date
+        options: []
+        required: true

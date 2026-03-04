@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Vaccination Status Form
+    pages:
+    - id: 1
+      name: student_covid_19_vaccination_status_form
+      label: student_covid_19_vaccination_status_form
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: vaccinated_on
+      label: vaccinated_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vaccinated_location
+      label: vaccinated_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_certificate
+      label: vaccination_certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_vaccination_status_notes
+      label: student_vaccination_status_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_vaccination_status_last_updated
+      label: student_vaccination_status_last_updated
+      hint: null
+      type: date
+      options: []
+      required: false

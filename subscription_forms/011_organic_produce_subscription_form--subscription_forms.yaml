@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Produce Subscription Form
+    pages:
+    - id: 1
+      name: subscription_form
+      label: Subscription Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''weekly''}'
+      - '{''id'': 2, ''name'': ''bi_weekly''}'
+      - '{''id'': 3, ''name'': ''monthly''}'
+      required: false
+    - id: 3
+      name: produce_types
+      label: Produce Types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fruits''}'
+      - '{''id'': 2, ''name'': ''vegetables''}'
+      - '{''id'': 3, ''name'': ''leafy_greens''}'
+      - '{''id'': 4, ''name'': ''berries''}'
+      - '{''id'': 5, ''name'': ''herbs''}'
+      required: false
+    - id: 4
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

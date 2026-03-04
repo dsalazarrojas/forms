@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Registration Form
+    pages:
+    - id: 1
+      name: base_form
+      label: Base Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: disclaimer
+      label: how_the_program_works
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: athlete_details
+      label: athlete_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: prefered_position
+      label: athlete_position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: guardian
+      label: guardian_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian_consent
+      label: guardian_consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: athlete_signature
+      label: athlete_signature
+      hint: null
+      type: number
+      options: []
+      required: false

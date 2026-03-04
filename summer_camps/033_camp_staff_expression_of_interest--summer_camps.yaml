@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Staff Expression Of Interest
+    pages:
+      - id: 1
+        name: name
+        label: Full Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Preferred contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: role_interest
+        label: Role of Interest
+        hint: Which staff roles are you interested in
+        type: select_multiple
+        options: [Counselor, Activity Leader, Kitchen Staff, Volunteer Coordinator]
+        required: true
+      - id: 4
+        name: availability
+        label: Availability Dates
+        hint: Dates you are available to work
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: relevant_experience
+        label: Relevant Experience
+        hint: Brief summary of experience working with youth
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: training_certificates
+        label: Training Certificates
+        hint: List any relevant certifications
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: references
+        label: References
+        hint: Contact details for two references
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: motivation_statement
+        label: Motivation Statement
+        hint: Why do you want to work at camp
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: background_check_consent
+        label: Consent for Background Check
+        hint: Permission to run background checks if required
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 10
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other information for the team
+        type: text
+        options: []
+        required: false

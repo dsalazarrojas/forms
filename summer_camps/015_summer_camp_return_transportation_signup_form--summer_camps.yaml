@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_camp_return_transportation_signup_form
+    pages:
+    - id: 1
+      name: return_transportation
+      label: Summer Camp Return Transportation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: camper_name
+      hint: Please enter camper's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: vehicle
+      label: vehicle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: Please enter 10 digits
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: Please enter camper's email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: address
+      hint: Please enter camper's address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

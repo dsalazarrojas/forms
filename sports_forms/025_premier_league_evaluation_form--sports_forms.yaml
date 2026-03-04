@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: premier-league-evaluation-form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_position
+      label: player-position
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Volleyball
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Average
+      - Below Average
+      required: false
+    - id: 10
+      name: player_level
+      label: Player Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: wellness_coaching_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physical_activity_level
+      label: physical_activity_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: sleep_habit
+      label: sleep_habit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Sometimes
+      required: false
+    - id: 4
+      name: water_intake
+      label: water_intake
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stress_level
+      label: stress_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: physical_pain
+      label: physical_pain
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Sometimes
+      required: false
+    - id: 8
+      name: mental_pain
+      label: mental_pain
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: overall_feeling
+      label: overall_feeling
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: exercise_frequency_days
+      label: exercise_frequency_days
+      hint: null
+      type: number
+      options: []
+      required: false

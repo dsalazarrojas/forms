@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: sunday_night_football_rsvp_form
+    pages:
+    - id: 1
+      name: sunday_night_football_rsvp_form
+      label: Sunday Night Football RSVP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: will_play
+      label: will_play
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: game_time
+      label: game_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: player_position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

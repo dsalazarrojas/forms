@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: office-party-venue-poll
+    pages:
+    - id: 1
+      name: office_party_venue_poll_1
+      label: what_is_your_favorite_food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_date
+      label: party_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: venue
+      label: venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: venuetype
+      label: venue_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: guest_list
+      label: guest_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: guest_list_2
+      label: guest_list_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: partytime
+      label: partytime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: partytime_2
+      label: partytime_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email_2
+      label: contact_email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone_2
+      label: contact_phone_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone_3
+      label: contact_phone_3
+      hint: null
+      type: text
+      options: []
+      required: false

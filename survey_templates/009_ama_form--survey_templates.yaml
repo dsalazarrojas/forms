@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AMA Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Email
+      hint: Your email (optional, for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: question_category
+      label: Question Category
+      hint: What topic does your question relate to?
+      type: select_one
+      options: ["Business", "Technology", "Career Advice", "Industry Trends", "Personal Development", "Other"]
+      required: false
+    - id: 4
+      name: question_text
+      label: Your Question
+      hint: Ask your question here
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_priority
+      label: Question Priority
+      hint: How important is this question to you?
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: false
+    - id: 6
+      name: anonymous_question
+      label: Submit Anonymously
+      hint: Check this box if you prefer to submit anonymously
+      type: select_one
+      options: ["Yes", "No"]
+      required: false
+    - id: 7
+      name: follow_up_requested
+      label: Follow-up Requested
+      hint: Would you like a follow-up response?
+      type: select_one
+      options: ["Yes", "No"]
+      required: false
+    - id: 8
+      name: question_context
+      label: Additional Context
+      hint: Provide any background information that might help answer your question
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_response_format
+      label: Preferred Response Format
+      hint: How would you prefer to receive the answer?
+      type: select_one
+      options: ["Text", "Video", "Audio", "Any"]
+      required: false
+    - id: 10
+      name: response_deadline
+      label: Desired Response Deadline
+      hint: When would you like to receive an answer by?
+      type: date
+      options: []
+      required: false

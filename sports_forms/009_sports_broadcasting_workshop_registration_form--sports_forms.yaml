@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Broadcasting Workshop Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Seattle
+      - Philadelphia
+      - Boston
+      - Dallas
+      - Miami
+      - San Francisco
+      - Denver
+      - Washington
+      - Portland
+      - San Jose
+      - Phoenix
+      - Oakland
+      - Austin
+      - San Antonio
+      - Dallas
+      - Portland
+      - San Francisco
+      - Los Angeles
+      - Chicago
+      - Seattle
+      - New York
+      - Houston
+      - Denver
+      - Miami
+      - Washington
+      - Philadelphia
+      - Boston
+      - Oakland
+      - Dallas
+      - San Jose
+      - Phoenix
+      - Atlanta
+      - Austin
+      - Portland
+      - Los Angeles
+      - Chicago
+      - San Jose
+      - San Francisco
+      - Philadelphia
+      - New York
+      - Dallas
+      - Seattle
+      - Boston
+      - Miami
+      - Washington
+      - Chicago
+      - San Antonio
+      - Portland
+      required: false
+    - id: 7
+      name: selected_workshop
+      label: Selected Workshop
+      hint: null
+      type: select_multiple
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      - Workshop 4
+      - Workshop 5
+      - Workshop 6
+      - Workshop 7
+      - Workshop 8
+      - Workshop 9
+      - Workshop 10
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      - I'm unsure
+      required: false
+    - id: 10
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

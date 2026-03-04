@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Service Satisfaction Poll
+    pages:
+    - id: 1
+      name: service_interaction
+      label: service_interaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: follow_up_needs
+      label: follow_up_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_contact
+      label: follow_up_contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_interaction
+      label: next_interaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: follow_up_followed
+      label: follow_up_followed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up_followed_other
+      label: follow_up_followed_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_other
+      label: follow_up_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_needs_other
+      label: follow_up_needs_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false

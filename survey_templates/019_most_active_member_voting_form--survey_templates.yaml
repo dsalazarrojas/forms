@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Most Active Member Voting Form
+    pages:
+    - id: 1
+      name: survey_templates_event_registration_forms
+      label: Most Active Member Voting Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: most_active_member_voting_form
+      label: The Most Active Member Voting Form allows organizations to recognize
+        outstanding members by facilitating a streamlined voting process that collects
+        votes efficiently and effectively.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Survey Templates
+      - Event Registration Forms
+      required: true
+    - id: 6
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: select_multiple
+      options:
+      - '1198'
+      - '24087'
+      required: true
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_file_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: output_file_format
+      label: Output File Format
+      hint: null
+      type: select_one
+      options:
+      - yaml
+      - Other
+      required: true
+    - id: 10
+      name: output_file_path
+      label: Output File Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file_overwrite
+      label: Overwrite Existing File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file_remove
+      label: Remove Existing File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

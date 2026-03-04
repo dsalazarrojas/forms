@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Impact Framework Quiz
+    pages:
+    - id: 1
+      name: section_trainee_info
+      label: -- Trainee and Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainee_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Name of Your Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_date
+      label: Date of Training Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pillar_question
+      label: What are the three primary pillars of the Community Impact Framework?
+      hint: Choose the best answer from the session
+      type: select_one
+      options:
+      - Social, Economic, and Environmental Impact
+      - Planning, Execution, and Measurement
+      - People, Profit, and Planet
+      - Input, Output, and Outcomes
+      required: true
+    - id: 6
+      name: tool_question
+      label: Which foundational tool is most effective for community impact planning?
+      hint: null
+      type: select_one
+      options:
+      - Logic Model
+      - Project Gantt Chart
+      - Financial CRM
+      - Marketing Funnel
+      required: true
+    - id: 7
+      name: feedback_question
+      label: Why is collecting community feedback considered essential for the framework?
+      hint: Select the primary reason discussed
+      type: select_one
+      options:
+      - To prove program success to donors
+      - To facilitate continuous program improvement
+      - To fulfill legal reporting requirements
+      - To increase social media engagement
+      required: true
+    - id: 8
+      name: definition_question
+      label: Briefly define the difference between an Outcome and an Output
+      hint: Use examples from the training
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: smart_goal_question
+      label: What does the SMART acronym stand for in goal setting?
+      hint: Specific, Measurable...
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: score_placeholder
+      label: Final Quiz Score
+      hint: To be entered by the instructor
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_feedback
+      label: Feedback on the Training Session
+      hint: What was the most useful part for you?
+      type: text
+      options: []
+      required: false

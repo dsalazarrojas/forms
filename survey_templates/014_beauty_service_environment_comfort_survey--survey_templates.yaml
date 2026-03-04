@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Service Environment Comfort Survey
+    pages:
+    - id: 1
+      name: section_ambiance
+      label: -- Salon Ambiance --
+      hint: Rate your surroundings during your visit
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_ambiance_rating
+      label: How would you rate the overall ambiance of the salon?
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: lighting_level
+      label: Was the lighting comfortable for your service?
+      hint: null
+      type: select_one
+      options:
+      - Too Bright
+      - Just Right
+      - Too Dim
+      required: true
+    - id: 4
+      name: temperature_comfort
+      label: Was the temperature in the salon comfortable?
+      hint: null
+      type: select_one
+      options:
+      - Too Warm
+      - Comfortable
+      - Too Cold
+      required: true
+    - id: 5
+      name: music_volume
+      label: Was the background music at an appropriate volume?
+      hint: null
+      type: select_one
+      options:
+      - Too Loud
+      - Appropriate
+      - Too Quiet
+      - No Music
+      required: false
+    - id: 6
+      name: section_cleanliness
+      label: -- Cleanliness and Hygiene --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: station_cleanliness
+      label: Was your service station clean and tidy?
+      hint: null
+      type: select_one
+      options:
+      - Yes, impeccable
+      - Mostly clean
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 8
+      name: restroom_cleanliness
+      label: How would you rate the cleanliness of the restrooms?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Did not use
+      required: false
+    - id: 9
+      name: tool_sanitization_perception
+      label: Did you observe proper tool sanitization practices?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I believe so
+      - false
+      - I did not notice
+      required: true
+    - id: 10
+      name: section_comfort_amenities
+      label: -- Comfort and Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: seating_comfort
+      label: How comfortable was the seating during your service?
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Somewhat Comfortable
+      - Neutral
+      - Uncomfortable
+      required: true
+    - id: 12
+      name: waiting_area_comfort
+      label: How would you rate the waiting area comfort?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: beverage_offering_satisfaction
+      label: Were you offered a beverage and was it satisfactory?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very satisfied
+      - Yes, but could be better
+      - No, I was not offered
+      - N/A
+      required: false
+    - id: 14
+      name: section_staff_interaction
+      label: -- Staff and Professionalism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: staff_friendliness
+      label: How friendly was our staff during your visit?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: professional_appearance
+      label: Did the staff present a professional appearance?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Somewhat
+      - false
+      required: true
+    - id: 17
+      name: suggestion_for_environment
+      label: Any suggestions to make our environment more comfortable?
+      hint: null
+      type: text
+      options: []
+      required: false

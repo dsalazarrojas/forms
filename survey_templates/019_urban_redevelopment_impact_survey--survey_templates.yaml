@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_redevelopment_impact_survey
+    pages:
+    - id: 1
+      name: awareness
+      label: Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impacts
+      label: Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - impacts_affecting_business
+      - impacts_affecting_environment
+      - impacts_affecting_livability
+      - impacts_affecting_safety
+      - impacts_affecting_sustainability
+      - impacts_affecting_quality_of_life
+      - impacts_affecting_health
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: redeveloped_area_description
+      label: Redeveloped Area Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: redeveloped_area_map
+      label: Redeveloped Area Map
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: redeveloped_area_address
+      label: Redeveloped Area Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: redeveloped_area_city
+      label: Redeveloped Area City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: redeveloped_area_state
+      label: Redeveloped Area State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: redeveloped_area_zip
+      label: Redeveloped Area Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_manager_email
+      label: Project Manager E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_manager_title
+      label: Project Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_manager_contact
+      label: Project Manager Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

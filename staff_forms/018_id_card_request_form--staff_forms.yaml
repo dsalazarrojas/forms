@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: id_card_request_form
+    pages:
+    - id: 1
+      name: id_request_reason
+      label: id_request_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: id_number
+      label: id_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: id_card_type
+      label: id_card_type
+      hint: null
+      type: select_one
+      options:
+      - Employee ID Card
+      - Non-Employee ID Card
+      - Replacement ID Card
+      required: true
+    - id: 4
+      name: id_type
+      label: id_type
+      hint: null
+      type: select_multiple
+      options:
+      - Employee ID
+      - Non-Employee ID
+      - Replacement ID
+      required: false
+    - id: 5
+      name: id_card_number
+      label: id_card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_damage
+      label: date_of_damage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_loss
+      label: date_of_loss
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_information_change
+      label: date_of_information_change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: employee_number
+      label: employee_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: branch
+      label: branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_number
+      label: manager_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_number
+      label: supervisor_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: id_request_note
+      label: id_request_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

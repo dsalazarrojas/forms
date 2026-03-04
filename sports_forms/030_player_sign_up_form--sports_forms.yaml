@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Sign Up Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false

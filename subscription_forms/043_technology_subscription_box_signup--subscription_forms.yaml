@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Subscription Box Signup
+    pages:
+    - id: 1
+      name: subscription_signups
+      label: subscription_signups
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 2
+      name: plan_selections
+      label: plan_selections
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly - 30 day free trial''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 3
+      name: delivery_preferences
+      label: delivery_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Office''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: delivery_address
+      label: delivery_address
+      hint: Enter your delivery address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_city
+      label: delivery_city
+      hint: Enter your city
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_zip
+      label: delivery_zip
+      hint: Zip/Postal Code
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''Bank Transfer''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: card_number
+      label: card_number
+      hint: Card Number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expiry_date
+      label: expiry_date
+      hint: Expiry Date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stripe''}'
+      - '{''value'': ''PayPal''}'
+      required: false
+    - id: 11
+      name: card_cvv
+      label: card_cvv
+      hint: Security Code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: card_zip
+      label: card_zip
+      hint: Zip Code
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: plan_duration
+      label: plan_duration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-Month''}'
+      - '{''value'': ''3-Month''}'
+      - '{''value'': ''6-Month''}'
+      required: false
+    - id: 14
+      name: plan_frequency
+      label: plan_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 15
+      name: payment_method_details
+      label: payment_method_details
+      hint: Payment Method Details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method_id
+      label: payment_method_id
+      hint: Payment Method ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_total
+      label: order_total
+      hint: Order Total
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: shipping_cost
+      label: shipping_cost
+      hint: Shipping Cost
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tax_rate
+      label: tax_rate
+      hint: Tax Rate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_rate
+      label: shipping_rate
+      hint: Shipping Rate
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: phone
+      label: phone
+      hint: Phone
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: name
+      label: name
+      hint: Name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: company
+      label: company
+      hint: Company
+      type: text
+      options: []
+      required: false

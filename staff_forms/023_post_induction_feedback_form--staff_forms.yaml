@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_induction_feedback_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Trainee''}'
+      - '{''id'': 2, ''name'': ''Supervisor''}'
+      - '{''id'': 3, ''name'': ''Trainer''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_induction
+      label: Date of Induction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_induction
+      label: Time of Induction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: How was your induction experience?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Satisfactory''}'
+      - '{''id'': 3, ''name'': ''Unsatisfactory''}'
+      required: true
+    - id: 9
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Trainee''}'
+      - '{''id'': 2, ''name'': ''Supervisor''}'
+      - '{''id'': 3, ''name'': ''Trainer''}'
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false

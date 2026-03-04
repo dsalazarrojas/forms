@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Series Pre Order Form
+    pages:
+    - id: 1
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: schedule_preferences_2
+      label: Schedule Preferences 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fitness_class
+      label: Fitness Class
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Class A'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Class B'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Class C'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: participant_details_2
+      label: Participant Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Any additional information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_confirmation
+      label: Participant Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: participant_confirmation_2
+      label: Participant Confirmation 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: schedule_preferences_3
+      label: Schedule Preferences 3
+      hint: null
+      type: time
+      options: []
+      required: false

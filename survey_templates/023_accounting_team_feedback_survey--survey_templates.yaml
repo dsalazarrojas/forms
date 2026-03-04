@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Team Feedback Survey
+    pages:
+    - id: 1
+      name: role_title
+      label: Role Title
+      hint: e.g., Staff Accountant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: Overall how satisfied are you?
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 3
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 4
+      name: biggest_challenges
+      label: Biggest Challenges
+      hint: Select your top hurdles
+      type: select_multiple
+      options:
+      - Tight Deadlines
+      - Software Issues
+      - Communication Gaps
+      - High Workload
+      - Lack of Training
+      required: false
+    - id: 5
+      name: feeling_valued_at_work
+      label: I feel valued for my contributions
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 6
+      name: specific_achievements_this_quarter
+      label: Specific Achievements This Quarter
+      hint: What are you proud of?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: career_growth_opportunities
+      label: Career Growth Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Not Available
+      - Limited
+      - Plentiful
+      required: true
+    - id: 8
+      name: tools_needed_to_improve_performance
+      label: Tools Needed to Improve Performance
+      hint: e.g., Faster PC, Dual Monitors, Specific Software
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: general_feedback_for_management
+      label: General Feedback for Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_completion_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

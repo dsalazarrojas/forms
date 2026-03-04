@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Withdrawal Form
+    pages:
+    - id: 1
+      name: withdrawal_form_1
+      label: student
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: withdrawal_date
+      label: Withdrawal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason for Withdrawal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_signature
+      label: Counselor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

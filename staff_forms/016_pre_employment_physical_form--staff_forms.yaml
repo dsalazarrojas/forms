@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-employment-physical-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: height_in_inches
+      label: Height in inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight_in_pounds
+      label: Weight in pounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_restrictions
+      label: Medical Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Limited
+      - Full
+      required: false
+    - id: 10
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Conditional
+      - Not Clear
+      required: true
+    - id: 11
+      name: medical_supervision
+      label: Medical Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
+      required: true
+    - id: 14
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_insurance_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Group
+      - Medicaid
+      - Other
+      required: true
+    - id: 18
+      name: medical_insurance_provider
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_group_provider
+      label: Group Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_insurance_group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_primary_care_provider
+      label: Primary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_secondary_care_provider
+      label: Secondary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

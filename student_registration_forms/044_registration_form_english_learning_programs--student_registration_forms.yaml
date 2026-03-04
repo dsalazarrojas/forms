@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Form English Learning Programs
+    pages:
+    - id: 1
+      name: form_header
+      label: Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Student Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_interest
+      label: Program Interest
+      hint: null
+      type: select_one
+      options:
+      - English Language Arts
+      - English Language and Culture
+      - English Language and Literature
+      - English Language and Linguistics
+      required: false
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: Select a start date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end_date
+      label: Program End Date
+      hint: Select an end date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_duration
+      label: Program Duration
+      hint: Enter duration
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 10
+      name: program_notes
+      label: Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Submitted
+      - Saved
+      - Not Submitted
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: Select a submission date
+      type: date
+      options: []
+      required: false

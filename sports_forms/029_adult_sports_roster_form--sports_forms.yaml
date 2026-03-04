@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Sports Roster Form
+    pages:
+    - id: 1
+      name: section_team
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: captain_name
+      label: Captain Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: captain_email
+      label: Captain Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sport_type
+      label: Sport Type
+      hint: null
+      type: select_one
+      options:
+      - Soccer
+      - Basketball
+      - Volleyball
+      - Baseball
+      - Other
+      required: true
+    - id: 6
+      name: league_division
+      label: League Division
+      hint: Skill level category
+      type: select_one
+      options:
+      - Competitive
+      - Recreational
+      - Social
+      required: true
+    - id: 7
+      name: section_roster
+      label: -- Roster Members --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: player_1_name
+      label: Player 1 Name
+      hint: Captain or first player
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: player_1_email
+      label: Player 1 Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: player_2_name
+      label: Player 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_2_email
+      label: Player 2 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: player_3_name
+      label: Player 3 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: player_3_email
+      label: Player 3 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: player_4_name
+      label: Player 4 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: player_4_email
+      label: Player 4 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: player_5_name
+      label: Player 5 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: player_5_email
+      label: Player 5 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: section_additional
+      label: -- Additional Players --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_players_list
+      label: Additional Players List
+      hint: List names and emails for more than 5 players
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_comp
+      label: -- League Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: all_players_met_age_requirements
+      label: All Players Met Age Requirements
+      hint: Check ID for all participants
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

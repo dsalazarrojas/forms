@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Park Feedback Survey Form
+    pages:
+    - id: 1
+      name: survey_form_1
+      label: survey_form_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_rating_1
+      label: equipment_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_rating_1_hint
+      label: how_did_you_find_equipment
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: cleanliness_rating_1
+      label: cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cleanliness_rating_1_hint
+      label: how_did_you_find_cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction_1_hint
+      label: how_satisfied_are_you
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Somewhat Unsatisfied
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false

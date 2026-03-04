@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Liability Waiver Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: camp_session
+      label: Camp Session
+      hint: Which session is your camper attending
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Full summer
+      - Specialty camp
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: physician_name
+      label: Primary Physician Name
+      hint: Doctor and clinic
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any conditions we should know about
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: Include food, insect, and medication allergies
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: activity_risks_acknowledged
+      label: Acknowledgement of Activity Risks
+      hint: I understand camp activities involve inherent risks
+      type: select_one
+      options:
+      - Yes - I acknowledge and understand
+      - No - I need more information
+      required: true
+    - id: 21
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I voluntarily assume all risks associated with camp
+      type: select_one
+      options:
+      - Yes - I accept
+      - No - I do not accept
+      required: true
+    - id: 22
+      name: release_of_liability
+      label: Release of Liability
+      hint: I release the camp from liability for injuries
+      type: select_one
+      options:
+      - Yes - I release liability
+      - No - I do not release
+      required: true
+    - id: 23
+      name: medical_treatment_authorization
+      label: Medical Treatment Authorization
+      hint: I authorize emergency medical treatment
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - I do not authorize
+      required: true
+    - id: 24
+      name: transportation_authorization
+      label: Transportation Authorization
+      hint: I authorize camp transportation if needed
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - I will provide transport
+      required: true
+    - id: 25
+      name: photo_video_release
+      label: Photo and Video Release
+      hint: I allow camp to use photos and videos
+      type: select_one
+      options:
+      - Yes - I give permission
+      - No - do not use
+      required: true
+    - id: 26
+      name: code_of_conduct_agreement
+      label: Code of Conduct Agreement
+      hint: Camper agrees to follow all camp rules
+      type: select_one
+      options:
+      - Yes - we agree
+      - No - we do not agree
+      required: true
+    - id: 27
+      name: pickup_authorization
+      label: Authorized Pickup Persons
+      hint: List all individuals authorized to pick up camper
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: legal_guardian_confirmation
+      label: I Confirm I Am the Legal Guardian
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I am the legal guardian
+      - No - I am an authorized representative
+      required: true
+    - id: 29
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as legal signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: witness_name
+      label: Witness Name
+      hint: Optional witness
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: witness_signature
+      label: Witness Signature
+      hint: Optional witness signature
+      type: text
+      options: []
+      required: false

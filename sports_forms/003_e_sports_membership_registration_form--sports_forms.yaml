@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_sports_membership_registration_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Advanced
+      required: false
+    - id: 4
+      name: game_preferences
+      label: Game Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Fortnite
+      - League of Legends
+      - Overwatch
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: team_info
+      label: Team Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Tutoring Camp Registration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parents_info
+      label: Parents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_interests
+      label: Student Interests
+      hint: What are the student's interests?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter student's email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Enter parent's phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Enter parent's address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: Enter payment details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Payment Option 1
+      - Payment Option 2
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

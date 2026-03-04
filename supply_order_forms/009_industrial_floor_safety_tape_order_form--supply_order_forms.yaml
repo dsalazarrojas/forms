@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_floor_safety_tape_order_form
+    pages:
+    - id: 1
+      name: order_tape
+      label: Order Tape
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tape_type
+      label: tape_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''yellow''}'
+      - '{''id'': 2, ''name'': ''blue''}'
+      - '{''id'': 3, ''name'': ''red''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''PVC''}'
+      - '{''id'': 2, ''name'': ''PVC with adhesive''}'
+      - '{''id'': 3, ''name'': ''Paper-based''}'
+      required: false
+    - id: 5
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true

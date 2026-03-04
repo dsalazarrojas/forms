@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: post-update-satisfaction-check-in
+    pages:
+    - id: 1
+      name: player_feedback
+      label: Player Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Likely to recommend
+      - Not likely to recommend
+      required: false
+    - id: 3
+      name: favorite_feature
+      label: Favorite Feature
+      hint: null
+      type: select_multiple
+      options:
+      - feature1
+      - feature2
+      - feature3
+      - feature4
+      - feature5
+      required: false
+    - id: 4
+      name: least_favorite_feature
+      label: Least Favorite Feature
+      hint: null
+      type: select_multiple
+      options:
+      - feature1
+      - feature2
+      - feature3
+      - feature4
+      - feature5
+      required: false
+    - id: 5
+      name: fix_priority
+      label: Fix Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: fix_plan
+      label: Fix Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: update_duration
+      label: Update Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: game_version
+      label: Game Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_questions
+      label: Player Questions
+      hint: null
+      type: select_multiple
+      options:
+      - question1
+      - question2
+      - question3
+      required: false

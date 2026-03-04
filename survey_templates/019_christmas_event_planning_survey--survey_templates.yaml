@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Event Planning Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_preferences
+      label: -- Event Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: What type of Christmas celebration are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Corporate holiday party
+      - Family gathering
+      - Community event
+      - Charitable celebration
+      - Friend gathering
+      - Religious service and celebration
+      - Other
+      required: true
+    - id: 8
+      name: ideal_guest_count
+      label: Ideal Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: budget_range
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      required: true
+    - id: 10
+      name: venue_preference
+      label: Venue Preference
+      hint: null
+      type: select_one
+      options:
+      - Indoors
+      - Outdoors
+      - Both options
+      - No preference
+      required: false
+    - id: 11
+      name: activities_interests
+      label: -- Activity Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: desired_activities
+      label: Activities of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dining and food
+      - Entertainment
+      - Games and competitions
+      - Gift exchange
+      - Caroling or music
+      - Holiday decorations
+      - Charity or service
+      required: true
+    - id: 13
+      name: entertainment_preferences
+      label: Entertainment Preferences
+      hint: null
+      type: select_one
+      options:
+      - Live music
+      - DJ and dancing
+      - Holiday movies
+      - Comedy show
+      - None needed
+      - Other
+      required: false
+    - id: 14
+      name: dining_preferences
+      label: -- Food & Dining --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_dining_style
+      label: Preferred Dining Style
+      hint: null
+      type: select_one
+      options:
+      - Formal sit-down dinner
+      - Buffet
+      - Cocktail party
+      - Casual
+      - Picnic style
+      required: false
+    - id: 16
+      name: dietary_considerations
+      label: Dietary Considerations to Plan For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian options
+      - Vegan options
+      - Gluten-free
+      - Nut allergies
+      - Shellfish allergies
+      - Halal
+      - Kosher
+      required: false
+    - id: 17
+      name: timeline_section
+      label: -- Planning Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_date_preference
+      label: Preferred Event Date
+      hint: null
+      type: select_one
+      options:
+      - Before December 15
+      - December 15-20
+      - December 20-24
+      - December 25
+      - After December 25
+      - Flexible
+      required: false
+    - id: 19
+      name: planning_timeline
+      label: Planning Timeline
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-2 months
+      - 2-3 months
+      - 3+ months
+      - As soon as possible
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Entry Screening Form
+    pages:
+    - id: 1
+      name: main_section
+      label: Workplace Entry Screening Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Employee Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fever'', ''value'': ''Fever''}'
+      - '{''label'': ''Cough'', ''value'': ''Cough''}'
+      - '{''label'': ''Runny nose'', ''value'': ''Runny nose''}'
+      required: false
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Recent travel within the last 14 days'', ''value'': ''Recent
+        travel within the last 14 days''}'
+      - '{''label'': ''None'', ''value'': ''None''}'
+      required: true
+    - id: 5
+      name: contact_info_2
+      label: Employee Contact Information 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: symptoms_2
+      label: Symptoms 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: workplace_info
+      label: Workplace Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Office'', ''value'': ''Office''}'
+      - '{''label'': ''Home'', ''value'': ''Home''}'
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: other_symptoms
+      label: Other Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fever'', ''value'': ''Fever''}'
+      - '{''label'': ''Cough'', ''value'': ''Cough''}'
+      - '{''label'': ''Runny nose'', ''value'': ''Runny nose''}'
+      - '{''label'': ''Headache'', ''value'': ''Headache''}'
+      - '{''label'': ''Fatigue'', ''value'': ''Fatigue''}'
+      required: false
+    - id: 12
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: medical_info_2
+      label: Medical Information 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fever'', ''value'': ''Fever''}'
+      - '{''label'': ''Cough'', ''value'': ''Cough''}'
+      - '{''label'': ''Runny nose'', ''value'': ''Runny nose''}'
+      - '{''label'': ''Headache'', ''value'': ''Headache''}'
+      - '{''label'': ''Fatigue'', ''value'': ''Fatigue''}'
+      required: false
+    - id: 14
+      name: date_of_last_symptom
+      label: Date of Last Symptom
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contact_info_3
+      label: Contact Information 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: workplace_info_2
+      label: Workplace Info 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Office'', ''value'': ''Office''}'
+      - '{''label'': ''Home'', ''value'': ''Home''}'
+      required: false
+    - id: 17
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: date_of_last_symptom_2
+      label: Date of Last Symptom 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: medical_info_3
+      label: Medical Information 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: contact_info_4
+      label: Contact Information 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: other_info
+      label: Other Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_info_5
+      label: Contact Information 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: other_info_2
+      label: Other Info 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: contact_info_6
+      label: Contact Information 6
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Attitude Survey
+    pages:
+    - id: 1
+      name: employee_attitude_survey
+      label: Employee Attitude Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: management_support
+      label: Management support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: job_security
+      label: Job security
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_work
+      label: Team work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

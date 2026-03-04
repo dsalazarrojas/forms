@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Race Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- PARTICIPANT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_first_name
+      label: Driver first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: driver_last_name
+      label: Driver last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: driver_license_number
+      label: Driver license number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: racing_experience_years
+      label: Years of racing experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: racing_license
+      label: Racing license number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_engine_size
+      label: Engine size (cc or liters)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_modifications
+      label: Vehicle modifications
+      hint: List any modifications made
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: registration_details
+      label: -- REGISTRATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: race_category
+      label: Race category
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Open Class
+      required: true
+    - id: 22
+      name: race_distance
+      label: Race distance
+      hint: null
+      type: select_one
+      options:
+      - Sprint
+      - Medium Distance
+      - Long Distance
+      - Endurance
+      required: true
+    - id: 23
+      name: entry_fee_paid
+      label: Entry fee amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: health_insurance_confirmation
+      label: Do you have health insurance coverage?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Being Arranged
+      required: true
+    - id: 25
+      name: safety_gear_confirmation
+      label: Safety equipment checklist (select all provided)
+      hint: null
+      type: select_multiple
+      options:
+      - Racing Helmet
+      - Flame-Resistant Suit
+      - Racing Gloves
+      - Racing Shoes
+      - HANS Device
+      - Fire Extinguisher
+      - Emergency Kit
+      required: true

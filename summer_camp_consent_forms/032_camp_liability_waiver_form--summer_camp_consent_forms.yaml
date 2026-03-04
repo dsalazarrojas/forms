@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Liability Waiver Form
+    pages:
+    - id: 1
+      name: waiver_parties_header
+      label: -- Liability Waiver and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_full_name_waiver
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_full_name_waiver
+      label: Camper Full Name (The Minor)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_birthdate_waiver
+      label: Camper Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: risk_acknowledgement_header
+      label: -- Assumption of Risk --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: acknowledgement_of_risks_waiver
+      label: Acknowledgment of Inherent Risks
+      hint: I understand that camp activities involve risks of injury or illness
+      type: select_one
+      options:
+      - I Have Read and Understand
+      - Other
+      required: true
+    - id: 7
+      name: release_of_liability_waiver
+      label: Release and Waiver of Liability
+      hint: I release the camp and its staff from claims arising from participation
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 8
+      name: indemnification_agreement_waiver
+      label: Indemnification Agreement
+      hint: I agree to indemnify the camp against costs resulting from my child's
+        actions
+      type: select_one
+      options:
+      - I Have Read and Agree
+      - Other
+      required: true
+    - id: 9
+      name: medical_authorization_waiver
+      label: Emergency Medical Authorization
+      hint: I permit the camp to seek medical care in my absence
+      type: select_one
+      options:
+      - I Authorize Medical Care
+      - Other
+      required: true
+    - id: 10
+      name: physical_condition_certification_waiver
+      label: Certification of Physical Condition
+      hint: I certify that my child is physically fit to participate in activities
+      type: select_one
+      options:
+      - I Certify This Is True
+      - Other
+      required: true
+    - id: 11
+      name: specific_medical_restrictions_waiver
+      label: List any specific activity restrictions
+      hint: e.g., No high-ropes, no deep-water swimming
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_info_waiver
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: waiver_signature_parent_digital
+      label: Parent - Guardian Electronic Signature
+      hint: Please type your full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: waiver_signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: witness_name_waiver_optional
+      label: Witness Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: legal_disclaimer_waiver
+      label: -- Legal Disclaimer --
+      hint: This document is a legally binding contract that affects your legal rights.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: electronic_record_consent_waiver
+      label: Consent to Electronic Record
+      hint: I agree to use electronic signatures for this document
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

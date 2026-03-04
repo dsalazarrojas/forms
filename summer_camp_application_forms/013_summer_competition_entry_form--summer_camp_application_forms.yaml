@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Competition Entry Form
+    pages:
+    - id: 1
+      name: summer_competition_entry_form
+      label: Summer Competition Entry Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_1
+      label: Event 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_2
+      label: Event 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Here is a competition entry form in a summer carnival event that allows
+        the entrants to choose the events they would like to perform and collect their
+        consent to the terms and conditions.
+      type: note
+      options: []
+      required: true

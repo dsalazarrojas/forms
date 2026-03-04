@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_international_student_application_form
+    pages:
+    - id: 1
+      name: personal_details
+      label: First and last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: housing_info
+      label: Housing information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: documents_list
+      label: List of documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: required_files
+      label: Required documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - Albania
+      - Albania
+      - Algeria
+      - Algeria
+      - Andorra
+      - '...'
+      required: false

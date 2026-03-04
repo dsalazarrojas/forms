@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facilities Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: facilities_rating
+      label: Facilities Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_type
+      label: Type of Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''General Feedback'', ''label'': ''General Feedback''}'
+      - '{''id'': 2, ''name'': ''Suggestion'', ''label'': ''Suggestion''}'
+      - '{''id'': 3, ''name'': ''Complaint'', ''label'': ''Complaint''}'
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

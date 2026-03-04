@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: TV Pilot Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pilot_title
+      label: what_do_you_think_of_the_pilot_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_score
+      label: rate_your_impressions_of_the_pilot
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: what_was_your_favorite_part_of_the_pilot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_character
+      label: which_character_did_you_enjoy_the_most
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: favorite_character_other
+      label: other_character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: enter_your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: enter_your_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: demographics_gender
+      label: gender
+      hint: null
+      type: select_multiple
+      options:
+      - female
+      - male
+      - non_binary
+      - prefer_not_to_say
+      required: true
+    - id: 11
+      name: demographics_age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: demographics_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: demographics_occ
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: true

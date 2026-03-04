@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Attitudes Survey Template
+    pages:
+    - id: 1
+      name: survey_templates
+      label: Survey Templates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_satisfaction_evaluation_forms
+      label: Customer Satisfaction Evaluation Forms
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: marketer_forms
+      label: Marketer Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customer_insights_departments
+      label: Customer Insights Departments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_attitudes_survey
+      label: The Customer Attitudes Survey Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: market_research_teams
+      label: Market Research Teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_experience_teams
+      label: Customer Experience Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_insights_teams
+      label: Customer Insights Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

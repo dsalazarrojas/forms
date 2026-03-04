@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Supply Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: Supply Order Form
+      hint: Please complete all fields to process your order
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_id
+      label: Customer ID
+      hint: Your account number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: billing_section
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: billing_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: billing_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: billing_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: billing_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_section
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: same_as_billing
+      label: Shipping address same as billing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: shipping_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_details_section
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: item_one_name
+      label: Item 1 - Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: item_one_sku
+      label: Item 1 - SKU or Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item_one_quantity
+      label: Item 1 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: item_one_unit_price
+      label: Item 1 - Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: item_one_total
+      label: Item 1 - Total Price
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: item_two_name
+      label: Item 2 - Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: item_two_quantity
+      label: Item 2 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: item_two_unit_price
+      label: Item 2 - Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: item_two_total
+      label: Item 2 - Total Price
+      hint: null
+      type: number
+      options: []
+      required: false

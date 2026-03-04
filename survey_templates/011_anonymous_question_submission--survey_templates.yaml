@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Question Submission
+    pages:
+    - id: 1
+      name: event_name
+      label: Event or Meeting Name
+      hint: Which session is this question for?
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic_category
+      label: Question Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Project Operations
+      - Strategy
+      - Finance
+      - General Inquiry
+      required: true
+    - id: 3
+      name: question_text
+      label: Your Question
+      hint: Please be clear and concise
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_context
+      label: Background or Context (Optional)
+      hint: Provide detail to help us answer better
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: How important is this question to you?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 6
+      name: target_audience
+      label: Who should answer this question?
+      hint: e.g. CEO, Dept Manager
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: public_response
+      label: Would you like this question answered during the live Q - A?
+      hint: null
+      type: select_one
+      options:
+      - Yes, publicly
+      - No, via general update
+      required: true
+    - id: 8
+      name: channel_feedback
+      label: How easy was it to submit this question?
+      hint: null
+      type: number
+      options: []
+      required: false

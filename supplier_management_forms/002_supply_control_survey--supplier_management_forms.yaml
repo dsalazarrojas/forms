@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Control Survey
+    pages:
+    - id: 1
+      name: stock_levels
+      label: Stock Levels
+      hint: null
+      type: select_multiple
+      options:
+      - Stock level is low
+      - Stock level is medium
+      - Stock level is high
+      required: false
+    - id: 2
+      name: stockout
+      label: Stockout
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: ordering_performance
+      label: Ordering Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: stockouts
+      label: Stockouts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: stock_levels_historical
+      label: Stock Levels Historical
+      hint: null
+      type: note
+      options: []
+      required: false

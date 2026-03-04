@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Handover Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Enter the customer's contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Customer's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Customer's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Customer's email for receipt and warranty
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bike_details
+      label: Bike Details
+      hint: Enter the bicycle information
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bike_brand
+      label: Bike Brand
+      hint: Manufacturer of the bicycle
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bike_model
+      label: Bike Model
+      hint: Specific model name or number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bike_serial_number
+      label: Serial Number
+      hint: Frame serial number for registration
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bike_color
+      label: Color
+      hint: Primary color of the bike
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bike_size
+      label: Frame Size
+      hint: Frame size in inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: accessories_included
+      label: Accessories Included
+      hint: Select all items included with the bike
+      type: select_multiple
+      options:
+      - Helmet
+      - Bike Lock
+      - Lights
+      - Water Bottle Holder
+      - Bike Pump
+      - Repair Kit
+      - None
+      required: true
+    - id: 13
+      name: handover_details
+      label: Handover Details
+      hint: Complete the handover information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: handover_date
+      label: Handover Date
+      hint: Date when bike is handed to customer
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: handover_time
+      label: Handover Time
+      hint: Scheduled pickup time
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: bike_condition
+      label: Bike Condition at Handover
+      hint: Select the condition of the bike
+      type: select_one
+      options:
+      - Brand New
+      - Excellent
+      - Good
+      - Fair
+      - Refurbished
+      required: true
+    - id: 17
+      name: warranty_included
+      label: Warranty Included
+      hint: Is a warranty provided with this bike
+      type: select_one
+      options:
+      - Yes - Full Warranty
+      - Yes - Limited Warranty
+      - No Warranty
+      required: true
+    - id: 18
+      name: warranty_duration
+      label: Warranty Duration
+      hint: Length of warranty coverage
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: total_price
+      label: Total Price
+      hint: Final purchase amount including accessories
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How was the purchase paid
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Financing
+      - Gift Card
+      required: true
+    - id: 21
+      name: customer_signature
+      label: Customer Acknowledgment
+      hint: Customer confirms receipt and condition
+      type: select_one
+      options:
+      - I acknowledge receipt of the bike in the condition described
+      - I have inspected the bike and accept it as-is
+      required: true
+    - id: 22
+      name: staff_notes
+      label: Staff Notes
+      hint: Any additional notes from the handover
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mandatory Overtime Complaint Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action
+      label: Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weighted Dip Exercise Form
+    pages:
+    - id: 1
+      name: workout_date
+      label: Workout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exercise_name
+      label: Exercise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rep
+      label: Reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: set
+      label: Set
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - Barbell
+      - Dumbbell
+      - Kettlebell
+      - Resistance Band
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

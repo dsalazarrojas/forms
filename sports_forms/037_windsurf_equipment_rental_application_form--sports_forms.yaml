@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: windsurf_equipment_rental_application_form
+    pages:
+    - id: 1
+      name: windsurf_application_info
+      label: windsurf_application_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: windsurf_equipment_details
+      label: windsurf_equipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: windsurf_rental_agreement
+      label: windsurf_rental_agreement
+      hint: Select the correct rental agreement
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''windsurf_rental_agreement_1''}'
+      - '{''id'': 2, ''label'': ''windsurf_rental_agreement_2''}'
+      - '{''id'': 3, ''label'': ''windsurf_rental_agreement_3''}'
+      required: true
+    - id: 4
+      name: windsurf_payment_terms
+      label: windsurf_payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: windsurf_payment_terms_1
+      label: windsurf_payment_terms_1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: windsurf_payment_terms_2
+      label: windsurf_payment_terms_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: windsurf_total_amount_paid
+      label: windsurf_total_amount_paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: windsurf_discount
+      label: windsurf_discount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: windsurf_taxes
+      label: windsurf_taxes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: windsurf_equipment_status
+      label: windsurf_equipment_status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: tournament_photography_and_filming_consent_form
+    pages:
+    - id: 1
+      name: tournament_host_name
+      label: Tournament Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_guardian_consent
+      label: Parent/Guardian Consent
+      hint: Check this box to indicate you are the parent/guardian of the participant
+        and you have given consent
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: filming_consent
+      label: Filming Consent
+      hint: Check this box if you give consent for filming
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: photography_consent
+      label: Photography Consent
+      hint: Check this box if you give consent for photography
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: media_permissions
+      label: Media Permissions
+      hint: null
+      type: select_one
+      options:
+      - Tournament Photography and Filming
+      - Social Media
+      - Both
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

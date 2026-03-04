@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Sustainability Compliance Report Form
+    pages:
+    - id: 1
+      name: vendor_sustainability_report_form
+      label: Vendor Sustainability Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_sustainability_practices
+      label: Sustainability Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sustainability_certifications
+      label: Sustainability Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sustainability_certifications_list
+      label: List of Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: report_form
+      label: Report Form
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: esg_report_status
+      label: ESG Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: compliance_report_status
+      label: Compliance Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: supplier_comments
+      label: Supplier Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_uploads
+      label: Document Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

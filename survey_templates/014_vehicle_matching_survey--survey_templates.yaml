@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Matching Survey
+    pages:
+    - id: 1
+      name: buyer_needs
+      label: buyer_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_budget
+      label: buyer_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: what_vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Kia
+      - Hyundai
+      - Volkswagen
+      required: false
+    - id: 4
+      name: desired_vehicle_age
+      label: desired_vehicle_age
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Both
+      required: false
+    - id: 5
+      name: target_lead_status
+      label: lead_status
+      hint: null
+      type: select_multiple
+      options:
+      - Qualified
+      - Disqualified
+      - Not Started
+      required: false
+    - id: 6
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - Grey
+      - White
+      - Purple
+      required: false
+    - id: 7
+      name: budget_range
+      label: budget_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: target_price
+      label: target_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_to_purchase
+      label: time_to_purchase
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      - 5 weeks
+      - More than 5 weeks
+      required: false
+    - id: 10
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_multiple
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Kia
+      - Hyundai
+      - Volkswagen
+      - Nissan
+      - Subaru
+      - Mazda
+      required: false
+    - id: 11
+      name: desired_vehicle_mileage
+      label: desired_vehicle_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: preferred_dealership
+      label: preferred_dealership
+      hint: null
+      type: select_multiple
+      options:
+      - Dealership A
+      - Dealership B
+      - Dealership C
+      required: false
+    - id: 13
+      name: preferred_dealership_address
+      label: preferred_dealership_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_dealership_phone
+      label: preferred_dealership_phone
+      hint: null
+      type: text
+      options: []
+      required: false

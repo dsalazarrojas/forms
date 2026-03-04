@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Technology Survey
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_tech_stack
+      label: Current Tech Stack
+      hint: Select all that apply to your firm
+      type: select_multiple
+      options:
+      - Cloud ERP
+      - Desktop Software
+      - OCR Tools
+      - Automated Reconciliation
+      - Data Visualization
+      required: true
+    - id: 3
+      name: technology_adoption_level
+      label: Technology Adoption Level
+      hint: How quickly do you adopt new tech?
+      type: select_one
+      options:
+      - Laggard
+      - Late Majority
+      - Early Majority
+      - Early Adopter
+      required: true
+    - id: 4
+      name: cloud_vs_on_premise_preference
+      label: Cloud vs On-Premise Preference
+      hint: null
+      type: select_one
+      options:
+      - Cloud-First
+      - On-Premise
+      - Hybrid
+      required: true
+    - id: 5
+      name: tech_budget_adequacy
+      label: Technology Budget Adequacy
+      hint: null
+      type: select_one
+      options:
+      - Underfunded
+      - Adequate
+      - Well-funded
+      required: true
+    - id: 6
+      name: planned_tech_investments
+      label: Planned Tech Investments
+      hint: Future focus areas
+      type: select_multiple
+      options:
+      - AI / Machine Learning
+      - Blockchain
+      - Advanced Analytics
+      - Cybersecurity
+      required: false
+    - id: 7
+      name: impact_of_automation_on_efficiency
+      label: Impact of Automation on Efficiency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 8
+      name: most_valuable_software_currently_used
+      label: Most Valuable Software Currently Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: biggest_tech_frustration
+      label: Biggest Tech Frustration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: interest_in_beta_testing_new_tools
+      label: Interest in Beta Testing New Tools
+      hint: Would you like to try early-release software?
+      type: select_one
+      options:
+      - Interested
+      - Not Interested
+      required: true

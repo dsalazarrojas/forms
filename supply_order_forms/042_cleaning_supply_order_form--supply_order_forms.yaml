@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Supply Order Form
+    pages:
+    - id: 1
+      name: section_header_order
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date this order is placed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_id
+      label: Order ID Number
+      hint: Internal reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: requester_name
+      label: Requester Name
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department/Location
+      hint: Which facility or area?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_supplies
+      label: -- Supplies to Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: item_1_name
+      label: Item 1 - Product Name
+      hint: Name of cleaning supply
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_1_type
+      label: Item 1 - Type
+      hint: Category of product
+      type: select_one
+      options:
+      - Cleaning Chemicals
+      - Paper Products
+      - Cleaning Tools
+      - Safety Equipment
+      - Disinfectants
+      - Floor Care
+      - Other
+      required: true
+    - id: 12
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: How many units?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_1_unit
+      label: Item 1 - Unit of Measure
+      hint: Boxes, bottles, gallons, etc.
+      type: select_one
+      options:
+      - Boxes
+      - Bottles
+      - Gallons
+      - Cases
+      - Rolls
+      - Count
+      - Other
+      required: true
+    - id: 14
+      name: item_1_unit_cost
+      label: Item 1 - Unit Cost
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: item_2_name
+      label: Item 2 - Product Name
+      hint: Name of cleaning supply
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_2_type
+      label: Item 2 - Type
+      hint: Category of product
+      type: select_one
+      options:
+      - Cleaning Chemicals
+      - Paper Products
+      - Cleaning Tools
+      - Safety Equipment
+      - Disinfectants
+      - Floor Care
+      - Other
+      required: false
+    - id: 17
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: How many units?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_3_name
+      label: Item 3 - Product Name
+      hint: Name of cleaning supply
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_3_quantity
+      label: Item 3 - Quantity
+      hint: How many units?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: additional_items
+      label: Additional Items
+      hint: List any other supplies needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_urgency
+      label: -- Delivery and Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should items be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: delivery_date_needed
+      label: Date Needed By
+      hint: When do you need the supplies?
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly do you need this?
+      type: select_one
+      options:
+      - Standard - 1-2 weeks
+      - Expedited - 3-5 days
+      - Rush - 1-2 days
+      - Emergency - Same Day
+      required: true
+    - id: 25
+      name: section_header_budget
+      label: -- Budget and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: budget_code
+      label: Budget Code or Cost Center
+      hint: For accounting purposes
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: estimated_total_cost
+      label: Estimated Total Cost
+      hint: Approximate order total
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: budget_approval
+      label: Is This Within Budget?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Approval
+      required: true
+    - id: 29
+      name: section_header_notes
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: special_requests
+      label: Special Requests or Specifications
+      hint: Any specific brands or types?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: preferred_vendor
+      label: Preferred Vendor
+      hint: Any preference for supplier?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

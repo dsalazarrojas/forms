@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catalyst Evaluation Survey
+    pages:
+      - id: 1
+        name: study_details_header
+        label: -- Study and Catalyst Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: study_id
+        label: Project or Study ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: catalyst_code
+        label: Catalyst Identification Code
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluator_name
+        label: Evaluator Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: evaluation_date
+        label: Date of Evaluation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: application_area
+        label: Primary Application Area
+        hint: null
+        type: select_one
+        options:
+          - "Automotive Exhaust"
+          - "Chemical Synthesis"
+          - "Petroleum Refining"
+          - "Environmental Remediation"
+          - "Industrial Processing"
+        required: true
+      - id: 7
+        name: section_performance
+        label: -- Performance Metrics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: catalyst_efficiency_rating
+        label: Conversion Efficiency Rating
+        hint: Rate from 1 (Low) to 5 (High)
+        type: select_one
+        options:
+          - "1"
+          - "2"
+          - "3"
+          - "4"
+          - "5"
+        required: true
+      - id: 9
+        name: reaction_selectivity
+        label: Reaction Selectivity Rating
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Poor"
+        required: true
+      - id: 10
+        name: catalyst_durability
+        label: Catalyst Durability/Lifespan
+        hint: Resistance to deactivation
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: operating_conditions
+        label: Optimal Operating Temperature Range
+        hint: e.g. 200-400 C
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_stability
+        label: -- Stability and Cost --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: thermal_stability_rating
+        label: Thermal Stability
+        hint: null
+        type: select_one
+        options:
+          - "Highly Stable"
+          - "Stable"
+          - "Marginal"
+          - "Unstable"
+        required: true
+      - id: 14
+        name: cost_effectiveness
+        label: Estimated Cost-Effectiveness
+        hint: Compared to industry standard
+        type: select_one
+        options:
+          - "High"
+          - "Moderate"
+          - "Low"
+        required: true
+      - id: 15
+        name: comparative_results
+        label: How does this compare to the previous benchmark catalyst
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: recommendation_for_scaling
+        label: Recommendation for Pilot Scaling
+        hint: null
+        type: select_one
+        options:
+          - "Highly Recommended"
+          - "Recommended with modifications"
+          - "Not Recommended"
+        required: true
+      - id: 17
+        name: additional_technical_notes
+        label: Additional Technical Observations
+        hint: null
+        type: text
+        options: []
+        required: false

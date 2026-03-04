@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing Waiver Form Template
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of boxing event or match
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where the event will take place
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: opponent_name
+      label: Opponent Name
+      hint: Name of opponent if known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: weight_class
+      label: Weight Class
+      hint: Competition weight class
+      type: select_one
+      options:
+      - Flyweight
+      - Bantamweight
+      - Featherweight
+      - Lightweight
+      - Welterweight
+      - Middleweight
+      - Light Heavyweight
+      - Heavyweight
+      required: true
+    - id: 12
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand boxing involves risk of injury
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 13
+      name: injury_risks
+      label: Injury Risks Acknowledged
+      hint: I understand risks include cuts, bruises, fractures, and head injuries
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 14
+      name: serious_injury_risk
+      label: Serious Injury Risk
+      hint: I understand there is risk of serious injury including brain damage
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 15
+      name: death_risk
+      label: Death Risk Acknowledgment
+      hint: I understand there is a remote risk of death
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 16
+      name: medical_examination
+      label: Medical Examination
+      hint: I have undergone a medical examination and am fit to compete
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: medical_clearance_date
+      label: Medical Clearance Date
+      hint: Date of medical clearance
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: physician_name
+      label: Physician Name
+      hint: Name of examining physician
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: I have medical insurance coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: liability_release
+      label: Liability Release
+      hint: I release organizers from liability for injuries
+      type: select_one
+      options:
+      - Yes, I release
+      - false
+      required: true
+    - id: 22
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I voluntarily assume all risks associated with boxing
+      type: select_one
+      options:
+      - Yes, I assume
+      - false
+      required: true
+    - id: 23
+      name: rules_compliance
+      label: Rules Compliance
+      hint: I agree to follow all boxing rules and regulations
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 24
+      name: referee_authority
+      label: Referee Authority
+      hint: I agree to abide by referee decisions
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 25
+      name: medical_treatment_authorization
+      label: Medical Treatment Authorization
+      hint: I authorize medical treatment if needed
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 26
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: I consent to photos and videos being taken
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 27
+      name: media_usage
+      label: Media Usage
+      hint: Event organizers may use media for promotional purposes
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 28
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: I am participating voluntarily without coercion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: sobriety_confirmation
+      label: Sobriety Confirmation
+      hint: I confirm I am not under the influence of drugs or alcohol
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 30
+      name: equipment_confirmation
+      label: Equipment Confirmation
+      hint: I confirm my equipment meets safety standards
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: promoter_signature
+      label: Promoter Signature
+      hint: Event promoter signature
+      type: text
+      options: []
+      required: true

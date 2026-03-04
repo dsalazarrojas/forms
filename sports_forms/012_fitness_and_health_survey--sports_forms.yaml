@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fitness And Health Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_health
+      label: General Health
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 3
+      name: physical_education_participation
+      label: Physical Education Participation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 4
+      name: health_habits
+      label: Health Habits
+      hint: What are your daily habits?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fitness_activities
+      label: Fitness Activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Running''}'
+      - '{''value'': ''Biking''}'
+      - '{''value'': ''Dancing''}'
+      - '{''value'': ''Hiking''}'
+      required: false
+    - id: 6
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Bad''}'
+      required: false
+    - id: 7
+      name: physical_education_classes
+      label: Physical Education Classes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 8
+      name: physical_education_frequency
+      label: Physical Education Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than once a week''}'
+      - '{''value'': ''1-2 times a week''}'
+      - '{''value'': ''3-4 times a week''}'
+      - '{''value'': ''Almost every day''}'
+      required: false
+    - id: 9
+      name: physical_education_duration
+      label: Physical Education Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than 30 minutes''}'
+      - '{''value'': ''30-60 minutes''}'
+      - '{''value'': ''1-2 hours''}'
+      - '{''value'': ''2-4 hours''}'
+      required: false
+    - id: 10
+      name: physical_education_frequency_of_classes
+      label: Physical Education Frequency Of Classes
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Never''}'
+      - '{''value'': ''1-2 per month''}'
+      - '{''value'': ''2-4 per month''}'
+      - '{''value'': ''5 or more per month''}'
+      required: false

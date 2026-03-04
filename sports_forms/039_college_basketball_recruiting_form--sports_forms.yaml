@@ -1,0 +1,338 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Basketball Recruiting Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: high_school_name
+      label: High School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: high_school_address
+      label: High School Address
+      hint: School address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: graduation_year
+      label: Graduation Year
+      hint: When you graduate
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: gpa
+      label: Current GPA
+      hint: Unweighted
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: class_rank
+      label: Class Rank
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sat_score
+      label: SAT Score
+      hint: Total score
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: act_score
+      label: ACT Score
+      hint: Composite score
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: position
+      label: Primary Position
+      hint: What position do you play
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 20
+      name: secondary_position
+      label: Secondary Position
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dominant_hand
+      label: Dominant Hand
+      hint: Right or left
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Ambidextrous
+      required: true
+    - id: 22
+      name: jersey_number
+      label: Jersey Number
+      hint: Uniform number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_name
+      label: Current Team Name
+      hint: School or AAU team
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: coach_name
+      label: Head Coach Name
+      hint: Current coach
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach phone
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: ppg
+      label: Points Per Game
+      hint: Average points
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: rpg
+      label: Rebounds Per Game
+      hint: Average rebounds
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: apg
+      label: Assists Per Game
+      hint: Average assists
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: spg
+      label: Steals Per Game
+      hint: Average steals
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: bpg
+      label: Blocks Per Game
+      hint: Average blocks
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: fg_percentage
+      label: Field Goal Percentage
+      hint: Shooting percentage
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: three_point_percentage
+      label: Three-Point Percentage
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: ft_percentage
+      label: Free Throw Percentage
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: honors_awards
+      label: Basketball Honors and Awards
+      hint: All-state, MVP, etc
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: team_achievements
+      label: Team Achievements
+      hint: Championships, tournaments
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: video_highlights
+      label: Highlight Video Link
+      hint: YouTube, Hudl, or other
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: schedule_link
+      label: Game Schedule Link
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: college_interest
+      label: Colleges You Are Interested In
+      hint: List schools
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: recruiting_status
+      label: Current Recruiting Status
+      hint: Any offers or interest
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: parent_email
+      label: Parent Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 43
+      name: parent_phone
+      label: Parent Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: academic_interests
+      label: Academic Interests
+      hint: Intended major
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: campus_visit_interest
+      label: Interested in Campus Visit
+      hint: Would you like to visit
+      type: select_one
+      options:
+      - Yes Very Interested
+      - Yes Somewhat Interested
+      - false
+      required: true
+    - id: 46
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Supply Order Form
+    pages:
+    - id: 1
+      name: supply_order_form_1
+      label: Medical Supply Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supply_type
+      label: supply_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''item'': ''Bandages''}'
+      - '{''item'': ''Dressings''}'
+      - '{''item'': ''Gloves''}'
+      - '{''item'': ''Other''}'
+      required: true
+    - id: 6
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supplier_contact
+      label: supplier_contact
+      hint: Enter your contact information for the supplier
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_name
+      label: supplier_name
+      hint: Enter the supplier's name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''item'': ''Credit Card''}'
+      - '{''item'': ''Cash''}'
+      - '{''item'': ''Check''}'
+      - '{''item'': ''Other''}'
+      required: false
+    - id: 11
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

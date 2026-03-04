@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Demographic Survey
+    pages:
+    - id: 1
+      name: age_group
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 2
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 3
+      name: ethnicity
+      label: Race or Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black or African American
+      - Hispanic or Latino
+      - Asian
+      - Native American
+      - Pacific Islander
+      - Other
+      required: false
+    - id: 4
+      name: education_level
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Professional Degree
+      required: true
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Student
+      required: true
+    - id: 6
+      name: income_range
+      label: Annual Household Income
+      hint: null
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $49,999
+      - $50,000 - $74,999
+      - $75,000 - $99,999
+      - $100,000 - $149,999
+      - $150,000 or more
+      required: false
+    - id: 7
+      name: geographic_region
+      label: Geographic Region
+      hint: null
+      type: select_one
+      options:
+      - Northeast
+      - Midwest
+      - South
+      - West
+      - International
+      required: true
+    - id: 8
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Domestic Partnership
+      required: false
+    - id: 9
+      name: household_size
+      label: Number of people in your household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: industry_work
+      label: Primary Industry of Employment
+      hint: null
+      type: text
+      options: []
+      required: false

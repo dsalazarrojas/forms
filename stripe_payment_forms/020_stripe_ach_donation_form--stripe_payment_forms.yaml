@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe ACH Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter a positive amount to donate.
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: 'null'
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      required: false
+    - id: 3
+      name: donor_name
+      label: Donor Name
+      hint: Enter your name.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: donor_phone
+      label: Donor Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: donation_note
+      label: Donation Note
+      hint: Optional
+      type: note
+      options: []
+      required: false

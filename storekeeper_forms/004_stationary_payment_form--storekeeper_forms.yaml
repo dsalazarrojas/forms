@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stationary Payment Form
+    pages:
+    - id: 1
+      name: storekeeper_forms
+      label: storekeeper_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stationary_products
+      label: stationary_products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_time
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false

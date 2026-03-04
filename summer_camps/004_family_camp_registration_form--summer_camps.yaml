@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: family_camp_registration_form
+    pages:
+    - id: 1
+      name: camper_info
+      label: Camper Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: camp_activities
+      label: Previous Camping Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: questions_comments
+      label: Questions/Comments
+      hint: null
+      type: text
+      options: []
+      required: false

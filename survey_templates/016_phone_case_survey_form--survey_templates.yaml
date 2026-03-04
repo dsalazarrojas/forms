@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Case Survey Form
+    pages:
+    - id: 1
+      name: current_case_use
+      label: Are you currently using a phone case
+      hint: null
+      type: select_one
+      options:
+      - case
+      - no_case
+      - unsure
+      required: false
+    - id: 2
+      name: preferred_design
+      label: What is your preferred phone case design
+      hint: null
+      type: select_multiple
+      options:
+      - leather
+      - rubber
+      - plastic
+      - metal
+      required: false
+    - id: 3
+      name: price_range
+      label: How much are you willing to pay for a phone case
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: case_quality
+      label: How important is case quality to you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: case_functionalities
+      label: What case features do you want in a phone case
+      hint: null
+      type: select_multiple
+      options:
+      - shockproof
+      - waterproof
+      - scratch_resistant
+      - anti_bacterial
+      required: false
+    - id: 6
+      name: case_color
+      label: What color do you prefer in a phone case
+      hint: null
+      type: select_one
+      options:
+      - black
+      - white
+      - red
+      - blue
+      - green
+      - purple
+      required: false
+    - id: 7
+      name: case_material
+      label: What material do you prefer for a phone case
+      hint: null
+      type: select_one
+      options:
+      - leather
+      - rubber
+      - plastic
+      - metal
+      required: false
+    - id: 8
+      name: case_size
+      label: What size do you prefer in a phone case
+      hint: null
+      type: select_one
+      options:
+      - compact
+      - standard
+      - large
+      - extra_large
+      required: false
+    - id: 9
+      name: case_protection
+      label: How important is case protection to you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: case_price
+      label: What is your budget for a phone case
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: case_satisfaction
+      label: How satisfied are you with your current phone case
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: case_warranty
+      label: What do you think of case warranty
+      hint: null
+      type: select_one
+      options:
+      - always
+      - sometimes
+      - never
+      required: false
+    - id: 13
+      name: case_recommend
+      label: Would you recommend a case to a friend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: case_ideas
+      label: Do you have any additional ideas on case improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: case_ideas_details
+      label: Please specify your ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: case_ideas_comments
+      label: Comments on case ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: case_ideas_improvements
+      label: How can we improve cases
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: case_ideas_implement
+      label: How can we implement case improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: case_ideas_ideas
+      label: More ideas for cases
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: case_ideas_priority
+      label: Priority of case ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: case_ideas_implement_details
+      label: Details on implementing case ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: case_ideas_comments
+      label: Comments on case ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: case_ideas_improvements_priority
+      label: Priority of case improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: case_ideas_implement_ideas
+      label: Ideas on implementing case improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: case_ideas_implement_comments
+      label: Comments on implementing case improvements
+      hint: null
+      type: note
+      options: []
+      required: false

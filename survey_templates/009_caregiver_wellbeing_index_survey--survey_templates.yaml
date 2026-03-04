@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Wellbeing Index Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Participant Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name (optional)
+      hint: leave blank for anonymity
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: caregiver_type
+      label: Caregiver Type
+      hint: null
+      type: select_one
+      options:
+      - Paid or Professional
+      - Family Member
+      - Volunteer
+      - Other
+      required: true
+    - id: 4
+      name: hours_per_week
+      label: Average caregiving hours per week
+      hint: Enter the total number of hours
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_emotional
+      label: -- Stress and Emotional Wellbeing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stress_level
+      label: How would you rate your current stress level?
+      hint: 1 being low stress, 10 being extremely high stress
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: burnout_frequency
+      label: How often do you feel burnt out by your caregiving role?
+      hint: physical or emotional exhaustion
+      type: select_one
+      options:
+      - Every Day
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: mood_rating
+      label: In the last 2 weeks, how would you describe your overall mood?
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 9
+      name: sleep_quality
+      label: Rate the quality of your sleep
+      hint: 1 being poor, 5 being restful
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_physical
+      label: -- Physical Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: physical_strain
+      label: How physically demanding is your caregiving role?
+      hint: 1 being not demanding, 5 being very demanding
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: health_impact
+      label: Has caregiving negatively impacted your physical health?
+      hint: back pain, fatigue, headaches, etc.
+      type: select_one
+      options:
+      - Significant Impact
+      - Minor Impact
+      - No Impact
+      - Unsure
+      required: true
+    - id: 13
+      name: health_maintenance
+      label: Do you have time to attend to your own health needs?
+      hint: doctors visits, exercise, proper nutrition
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: section_support
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: support_network
+      label: Do you have a reliable support system outside of work?
+      hint: friends, family, or community groups
+      type: select_one
+      options:
+      - true
+      - false
+      - Some Support
+      required: true
+    - id: 16
+      name: organizational_support
+      label: How well does your organization support your wellbeing?
+      hint: 1 being not supportive, 5 being very supportive
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: access_to_counseling
+      label: Are you aware of counseling or mental health resources available to you?
+      hint: employee assistance programs or community resources
+      type: select_one
+      options:
+      - true
+      - false
+      - Need more info
+      required: true
+    - id: 18
+      name: section_self_care
+      label: -- Self-Care Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: self_care_frequency
+      label: How often do you engage in self-care activities?
+      hint: hobbies, relaxation, meditation
+      type: select_one
+      options:
+      - Daily
+      - A few times a week
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 20
+      name: favorite_self_care
+      label: What is your preferred way to recharge?
+      hint: share one or two activities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_suggestions
+      label: -- Suggestions for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: wellness_program_ideas
+      label: What wellness programs would you benefit from?
+      hint: workshops, fitness, meditation sessions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Anything else you want to share about your wellbeing?
+      hint: null
+      type: text
+      options: []
+      required: false

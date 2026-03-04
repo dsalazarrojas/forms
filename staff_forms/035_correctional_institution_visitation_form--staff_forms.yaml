@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Correctional Institution Visitation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: visitor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: visitor_date
+      label: visitor_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: visitor_time
+      label: visitor_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: visit_reason
+      label: visit_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visit_type
+      label: visit_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: visit_duration
+      label: visit_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle
+      label: vehicle
+      hint: null
+      type: text
+      options: []
+      required: false

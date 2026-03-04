@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Public Services Effectiveness Assessment Form
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_resident
+      label: How long have you lived in this city
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: services_header
+      label: -- Service Effectiveness Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: police_services
+      label: Police Services - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fire_services
+      label: Fire Services - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: public_works
+      label: Public Works and Maintenance - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: parks_recreation
+      label: Parks and Recreation - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: waste_management
+      label: Waste Management and Recycling - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: transportation
+      label: Transportation Services - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: library_services
+      label: Library Services - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: health_services
+      label: Public Health Services - effectiveness rating 1-5
+      hint: 1 = not effective, 5 = very effective
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: feedback_header
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: most_satisfied
+      label: Which service are you most satisfied with and why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: least_satisfied
+      label: Which service needs the most improvement and why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: response_time
+      label: How would you rate response times for city services
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: communication
+      label: How effective is city communication about services
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

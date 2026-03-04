@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Education Corner Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Name
+      hint: Name of individual or organization sponsoring
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email for sponsorship correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Choose a level of support
+      type: select_one
+      options:
+      - Supporter
+      - Partner
+      - Sponsor
+      - Benefactor
+      required: true
+    - id: 4
+      name: amount
+      label: Sponsorship Amount
+      hint: Monetary commitment amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: recognition_options
+      label: Recognition Options
+      hint: How sponsor wishes to be recognized
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: invoice_required
+      label: Invoice Required
+      hint: If an invoice is required for payment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: billing_details
+      label: Billing Details
+      hint: Provide billing name and address if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone for sponsorship coordination
+      type: text
+      options: []
+      required: false

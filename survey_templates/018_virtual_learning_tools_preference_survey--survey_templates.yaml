@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_learning_tools_preference_survey
+    pages:
+    - id: 1
+      name: platform_usage
+      label: How often do you use the platform?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Rarely
+      - Never
+      required: true
+    - id: 2
+      name: satisfaction
+      label: What is your overall satisfaction with the platform?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Not Satisfied
+      - Very Not Satisfied
+      required: true
+    - id: 3
+      name: improvement_needs
+      label: What are your improvement needs for the platform?
+      hint: Describe your answers
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: platform_features
+      label: Which platform features do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Video conferencing
+      - Live streaming
+      - Virtual events
+      - Discussion forums
+      - Chatting
+      - File sharing
+      required: true
+    - id: 5
+      name: improvement_priorities
+      label: What are your priorities for platform improvements?
+      hint: null
+      type: select_multiple
+      options:
+      - Content creation
+      - Content sharing
+      - Platform accessibility
+      - User support
+      - Other
+      required: true
+    - id: 6
+      name: contact_preferences
+      label: How do you prefer to contact us?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Messaging app
+      - In-person
+      required: false
+    - id: 7
+      name: feedback
+      label: Do you have any feedback for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: platform_usage_why
+      label: Why do you use the platform?
+      hint: null
+      type: select_multiple
+      options:
+      - For personal development
+      - For team collaboration
+      - For business meetings
+      - For social events
+      required: true
+    - id: 12
+      name: platform_usage_what
+      label: What do you use the platform for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: platform_usage_frequency
+      label: How often do you use the platform?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: satisfaction_what
+      label: What do you like most about the platform?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: satisfaction_why
+      label: Why do you like most about the platform?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvement_why
+      label: Why do you think the platform could be improved?
+      hint: Describe your answers
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: improvement_what
+      label: What improvements would you suggest?
+      hint: Describe your answers
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_why
+      label: Why do you contact us?
+      hint: Describe your answers
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_what
+      label: What method do you prefer to contact us?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Messaging app
+      - In-person
+      required: true
+    - id: 20
+      name: feedback_why
+      label: Why do you have feedback for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: feedback_what
+      label: What feedback do you have for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvement_what_ever
+      label: Any other improvements or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments_ever
+      label: Do you have any other comments for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_who
+      label: Who is your email address?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: phone_who
+      label: Who is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Union Membership Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Research
+      - Other
+      required: false
+    - id: 7
+      name: faculty
+      label: Faculty
+      hint: null
+      type: select_one
+      options:
+      - Faculty of Arts and Sciences
+      - Faculty of Engineering and Architecture
+      - Other
+      required: false
+    - id: 8
+      name: membership_date
+      label: Membership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: membership_time
+      label: Membership Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: student_union
+      label: Student Union
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: student_union_reason
+      label: Reason for Joining Student Union
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_union_interests
+      label: Student Union Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Other
+      required: false
+    - id: 16
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false

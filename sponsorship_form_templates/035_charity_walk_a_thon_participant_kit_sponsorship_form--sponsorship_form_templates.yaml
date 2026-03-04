@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Walk A Thon Participant Kit Sponsorship Form
+    pages:
+    - id: 1
+      name: section_sponsor_info
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: Your name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company
+      hint: Sponsor organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_walkathon
+      label: -- Walk-a-Thon Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Walk-a-Thon Event Name
+      hint: Name of the charity walk event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When is the walk-a-thon
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Where will the walk-a-thon take place
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: Who is walking with your sponsorship
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_kit_sponsorship
+      label: -- Kit Sponsorship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: kit_type
+      label: Type of Kit Sponsorship
+      hint: What components are you sponsoring
+      type: select_multiple
+      options:
+      - T-Shirt
+      - Bib Number
+      - Water Bottle
+      - Snacks
+      - Medal or Award
+      - Full Kit
+      - Custom Items
+      required: true
+    - id: 14
+      name: kit_quantity
+      label: Number of Kits
+      hint: How many participant kits
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_sponsorship_level
+      label: -- Sponsorship Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sponsorship_tier
+      label: Sponsorship Tier
+      hint: Level of sponsorship commitment
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Community Partner
+      - Custom
+      required: true
+    - id: 17
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Dollar amount of sponsorship
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_recognition
+      label: -- Recognition Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: recognition_method
+      label: How Would You Like to Be Recognized
+      hint: Recognition at event
+      type: select_multiple
+      options:
+      - Logo on Kit
+      - Announcement at Event
+      - Website Listing
+      - Media Materials
+      - No Recognition Needed
+      required: false
+    - id: 20
+      name: logo_provided
+      label: Will You Provide Your Logo
+      hint: For recognition materials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: section_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: email_updates
+      label: Receive Event Updates
+      hint: Get information about the walk-a-thon
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: phone_contact
+      label: Prefer Phone Communication
+      hint: Call about sponsorship details
+      type: select_one
+      options:
+      - 'Yes'
+      - Email Only
+      required: false
+    - id: 24
+      name: section_payment
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_due_date
+      label: Expected Payment Due Date
+      hint: When payment should be made
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: submission_date
+      label: Sponsorship Form Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

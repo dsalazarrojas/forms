@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_league_team_registration_form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_league_level
+      label: Team League Level
+      hint: null
+      type: select_one
+      options:
+      - level1
+      - level2
+      - level3
+      required: true
+    - id: 5
+      name: team_sport
+      label: Team Sport
+      hint: null
+      type: select_multiple
+      options:
+      - sport1
+      - sport2
+      - sport3
+      required: true
+    - id: 6
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - division1
+      - division2
+      - division3
+      required: true
+    - id: 7
+      name: team_sport_date
+      label: Team Sport Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: team_league_date
+      label: Team League Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_slogan
+      label: Team Slogan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_logo
+      label: Team Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_website
+      label: Team Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_notes
+      label: Team Notes
+      hint: null
+      type: note
+      options: []
+      required: false

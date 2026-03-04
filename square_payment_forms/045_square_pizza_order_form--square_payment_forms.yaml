@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Pizza Order Form
+    pages:
+    - id: 1
+      name: address
+      label: address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: select_one_label
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''option_1''}'
+      - '{''text'': ''option_2''}'
+      - '{''text'': ''option_3''}'
+      required: true
+    - id: 9
+      name: select_multiple
+      label: select_multiple_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''option_4''}'
+      - '{''text'': ''option_5''}'
+      required: true
+    - id: 10
+      name: decimal
+      label: decimal_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: integer
+      label: integer_label
+      hint: null
+      type: number
+      options: []
+      required: false

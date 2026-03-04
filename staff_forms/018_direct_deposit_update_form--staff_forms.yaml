@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Deposit Update Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bank_phone
+      label: Bank Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bank_fax
+      label: Bank Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bank_address_line_1
+      label: Bank Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bank_address_line_2
+      label: Bank Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Money Market
+      required: true
+    - id: 18
+      name: bank_account_type
+      label: Bank Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - Checking
+      - Savings
+      - Money Market
+      required: true
+    - id: 19
+      name: bank_branch
+      label: Bank Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bank_aba
+      label: Bank ABA
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bank_routing
+      label: Bank Routing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bank_account
+      label: Bank Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: direct_deposit_ending
+      label: Direct Deposit Ending
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: direct_deposit_starting
+      label: Direct Deposit Starting
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: direct_deposit_frequency
+      label: Direct Deposit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Bi-Weekly
+      - Semi-Monthly
+      - Annually
+      - Bi-Monthly
+      - Quarterly
+      required: true

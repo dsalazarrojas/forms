@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Slip Mat Supply Order Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person name
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery address
+      hint: Full street address for shipment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zipcode
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mat_size
+      label: Mat size needed
+      hint: Select the dimensions you require
+      type: select_one
+      options:
+      - 2x3 feet
+      - 3x5 feet
+      - 4x6 feet
+      - 3x10 feet
+      - Custom size
+      required: true
+    - id: 10
+      name: mat_thickness
+      label: Mat thickness
+      hint: Select desired thickness in inches
+      type: select_one
+      options:
+      - 0.5 inch
+      - 0.75 inch
+      - 1 inch
+      - 1.5 inches
+      required: true
+    - id: 11
+      name: mat_color
+      label: Preferred mat color
+      hint: Select color or pattern
+      type: select_one
+      options:
+      - Black
+      - Gray
+      - Brown
+      - Yellow
+      - Yellow and Black Stripe
+      - Custom
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity of mats
+      hint: Number of mats to order
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: application_area
+      label: Primary application area
+      hint: Where will mats be used?
+      type: select_one
+      options:
+      - Workshop
+      - Kitchen
+      - Bathroom
+      - Retail Store
+      - Industrial Facility
+      - Other
+      required: true
+    - id: 14
+      name: budget_amount
+      label: Budget amount per mat
+      hint: Expected price range
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: rush_delivery
+      label: Do you need rush delivery?
+      hint: null
+      type: select_one
+      options:
+      - Standard (7-10 days)
+      - Express (3-5 days)
+      - Rush (1-2 days)
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Any special requirements or customizations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: installation_assistance
+      label: Do you need installation assistance?
+      hint: null
+      type: select_one
+      options:
+      - Yes, full installation
+      - Yes, partial assistance
+      - No, self-install
+      required: false
+    - id: 18
+      name: warranty_preference
+      label: Warranty preference
+      hint: Select warranty coverage desired
+      type: select_one
+      options:
+      - Basic (1 year)
+      - Standard (2 years)
+      - Extended (3 years)
+      - No warranty
+      required: true
+    - id: 19
+      name: purchase_order_number
+      label: Purchase order number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional notes or special instructions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Team Personal Ad Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_affiliation
+      label: Team Affiliation
+      hint: Which team are you associated with
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ad_type
+      label: Ad Type
+      hint: Select the type of personal ad
+      type: select_one
+      options:
+      - Player Spotlight
+      - Achievement Announcement
+      - Birthday Tribute
+      - Graduation Announcement
+      - Recruitment Ad
+      - Memorial Tribute
+      - Other
+      required: true
+    - id: 6
+      name: ad_size
+      label: Ad Size
+      hint: Select ad dimensions
+      type: select_one
+      options:
+      - Small - Quarter Page
+      - Medium - Half Page
+      - Large - Full Page
+      - Extra Large - Double Page
+      required: true
+    - id: 7
+      name: player_name
+      label: Player Name
+      hint: Name of player featured in ad
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: player_number
+      label: Player Number
+      hint: Jersey number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: player_position
+      label: Player Position
+      hint: Position played
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ad_headline
+      label: Ad Headline
+      hint: Main headline for your ad
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: ad_message
+      label: Ad Message
+      hint: Full message content for the ad
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: photo_upload
+      label: Photo Upload
+      hint: Upload player photo if available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: publication_date
+      label: Preferred Publication Date
+      hint: When should the ad be published
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: color_option
+      label: Color Option
+      hint: Choose color or black and white
+      type: select_one
+      options:
+      - Black and White
+      - Full Color
+      required: true
+    - id: 15
+      name: quantity
+      label: Quantity
+      hint: Number of copies or prints needed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Cash
+      required: true

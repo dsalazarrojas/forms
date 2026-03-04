@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jacket Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_comments
+      label: order comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: storekeeper
+      label: storekeeper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: storekeeper_notes
+      label: storekeeper notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sale_method
+      label: sale method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sale_date
+      label: sale date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: sale_time
+      label: sale time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned
+      label: assigned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_state
+      label: customer state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_zip
+      label: customer zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: customer_country
+      label: customer country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: storekeeper_notes
+      label: storekeeper notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: storekeeper
+      label: storekeeper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: storekeeper_phone
+      label: storekeeper phone
+      hint: null
+      type: text
+      options: []
+      required: true

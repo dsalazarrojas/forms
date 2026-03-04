@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Co Ed Softball League Registration Form
+    pages:
+    - id: 1
+      name: section_player
+      label: -- Player Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_full_name
+      label: Player Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Must be 18 or older to participate
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: For league balancing purposes
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Primary way to receive schedule updates
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_experience
+      label: -- Player Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skill_level
+      label: Skill Level
+      hint: Please be honest for fair team drafting
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 9
+      name: preferred_positions
+      label: Preferred Positions
+      hint: Select all that you enjoy playing
+      type: select_multiple
+      options:
+      - Pitcher
+      - Catcher
+      - First Base
+      - Second Base
+      - Third Base
+      - Shortstop
+      - Outfield
+      required: false
+    - id: 10
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For your team jersey
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 11
+      name: section_team
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual - Free Agent
+      - Team Captain
+      - Team Member
+      required: true
+    - id: 13
+      name: team_name_if_applicable
+      label: Team Name if Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_waiver
+      label: -- Waiver and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: liability_waiver_consent
+      label: Liability Waiver Consent
+      hint: I understand the risks associated with sports activities
+      type: select_one
+      options:
+      - I agree to the waiver
+      - I do not agree
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clock In Out Error Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Staff identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email or contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_error
+      label: -- Error Details --
+      hint: Information about the clock error
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: error_date
+      label: Date of Error
+      hint: The date when the error occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: error_type
+      label: Type of Clock Error
+      hint: What kind of error occurred
+      type: select_one
+      options:
+      - Forgot to clock in
+      - Forgot to clock out
+      - Clocked in twice
+      - Clocked out twice
+      - Wrong time recorded
+      - System glitch
+      - Card malfunction
+      - Other
+      required: true
+    - id: 8
+      name: section_timing
+      label: -- Actual Timing Information --
+      hint: When you actually arrived and left
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: actual_arrival_time
+      label: Actual arrival time
+      hint: What time you actually started work
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: actual_departure_time
+      label: Actual departure time
+      hint: What time you actually left work
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: recorded_clock_in
+      label: Recorded clock in time
+      hint: Time shown in system, if applicable
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: recorded_clock_out
+      label: Recorded clock out time
+      hint: Time shown in system, if applicable
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: section_shift
+      label: -- Shift Information --
+      hint: Details about your shift
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shift_type
+      label: Type of Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning shift
+      - Afternoon shift
+      - Evening shift
+      - Overnight shift
+      - Split shift
+      - Part-time
+      - Full-time
+      required: true
+    - id: 15
+      name: supervisor_name
+      label: Supervisor or Manager Name
+      hint: Person overseeing your shift
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_cause
+      label: -- Cause of Error --
+      hint: What caused the mistake
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: error_cause
+      label: What caused the error
+      hint: null
+      type: select_one
+      options:
+      - Forgot or overlooked
+      - System malfunction
+      - Equipment issue
+      - Miscommunication
+      - Confusion about procedure
+      - Distraction or urgency
+      - Other
+      required: true
+    - id: 18
+      name: cause_description
+      label: Describe the cause in detail
+      hint: Provide full context
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_impact
+      label: -- Impact Assessment --
+      hint: How this error affects records
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: time_adjustment
+      label: Time adjustment needed in minutes
+      hint: Positive or negative adjustment
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: this_first_error
+      label: Is this your first timing error
+      hint: null
+      type: select_one
+      options:
+      - Yes, first error
+      - No, has happened before
+      - Not sure
+      required: true
+    - id: 22
+      name: section_resolution
+      label: -- Resolution --
+      hint: How to correct this error
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: requested_action
+      label: What correction do you request
+      hint: null
+      type: select_one
+      options:
+      - Adjust clock in time
+      - Adjust clock out time
+      - Add missing time entry
+      - Manual hour adjustment
+      - Full shift adjustment
+      - Other
+      required: true
+    - id: 24
+      name: submission_date
+      label: Form Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false

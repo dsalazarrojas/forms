@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Clock Correction Form
+    pages:
+    - id: 1
+      name: time_clock_correction_form_start
+      label: Start of work hours correction form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_error
+      label: Date of error
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: corrected_duration
+      label: Corrected duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: correct_to
+      label: Correct to
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 8
+      name: correct_date
+      label: Corrected date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

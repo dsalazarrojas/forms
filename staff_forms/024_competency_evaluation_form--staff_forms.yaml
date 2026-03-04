@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competency Evaluation Form
+    pages:
+    - id: 1
+      name: staff_eval_header
+      label: -- Staff Competency and Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_member_name
+      label: Staff Member Name
+      hint: Full name of the employee being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_period_range
+      label: Evaluation Period
+      hint: e.g., Annual Review 2025, Probationary Review
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_role_competency_header
+      label: -- Behavioral and Professional Abilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: initiative_competency_rating
+      label: Initiative and Self-Direction
+      hint: Takes responsibility for tasks without constant supervision
+      type: select_one
+      options:
+      - Always demonstrates
+      - Often demonstrates
+      - Sometimes demonstrates
+      - Rarely demonstrates
+      - Not observed
+      required: true
+    - id: 6
+      name: reliability_competency_rating
+      label: Reliability and Consistency
+      hint: Delivers work on time and meets commitments
+      type: select_one
+      options:
+      - Highly Reliable
+      - Consistent
+      - Inconsistent
+      - Unreliable
+      required: true
+    - id: 7
+      name: professionalism_rating
+      label: Professionalism and Ethics
+      hint: Adherence to company values and professional standards
+      type: select_one
+      options:
+      - Role Model
+      - Professional
+      - Needs Guidance
+      - Unprofessional
+      required: true
+    - id: 8
+      name: conflict_resolution_rating
+      label: Conflict Resolution and Negotiation
+      hint: Ability to handle disagreements constructively
+      type: select_one
+      options:
+      - Exceptional
+      - Competent
+      - Developing
+      - Struggles with conflict
+      required: true
+    - id: 9
+      name: summary_and_goals_header
+      label: -- Evaluation Summary and Future Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_achievements_summary
+      label: Major Achievements in this Period
+      hint: List significant contributions or projects
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: development_goals_next_period
+      label: Goals for the Next Evaluation Period
+      hint: Specific, Measurable goals (SMART)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_comments_final
+      label: Manager General Comments
+      hint: Additional context from the supervisor
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: staff_signature_acknowledgment
+      label: I have discussed this evaluation with my manager
+      hint: Employee acknowledgement
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 14
+      name: evaluation_signoff_date
+      label: Date of Sign-off
+      hint: Today's date
+      type: date
+      options: []
+      required: true

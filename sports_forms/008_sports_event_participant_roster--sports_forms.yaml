@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports-event-participant-roster
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''United States''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Mexico''}'
+      required: true
+    - id: 6
+      name: participant_relationship
+      label: Participant Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Team Player''}'
+      - '{''label'': ''Team Staff''}'
+      - '{''label'': ''Spectator''}'
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Football''}'
+      - '{''label'': ''Baseball''}'
+      - '{''label'': ''Basketball''}'
+      - '{''label'': ''Soccer''}'
+      required: true
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_submitter
+      label: Participant Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submitter''}'
+      - '{''label'': ''Participant''}'
+      - '{''label'': ''Organizer''}'
+      required: true
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

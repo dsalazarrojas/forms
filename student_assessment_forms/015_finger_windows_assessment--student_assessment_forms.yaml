@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_notes
+      label: Evaluator Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_performance
+      label: Participant Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_performance_rating
+      label: Participant Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_date
+      label: Participant Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: participant_time
+      label: Participant Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: participant_duration
+      label: Participant Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_score
+      label: Participant Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: participant_score_2
+      label: Participant Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: evaluator_agreement
+      label: Evaluator Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: evaluator_disagreement
+      label: Evaluator Disagreement
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_rating_score
+      label: Participant Rating Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: participant_rating_score_2
+      label: Participant Rating Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: prophets_score
+      label: Prophets Score
+      hint: null
+      type: number
+      options: []
+      required: false

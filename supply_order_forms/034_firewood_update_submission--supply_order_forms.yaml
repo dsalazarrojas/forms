@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firewood Update Submission
+    pages:
+    - id: 1
+      name: firewood_type
+      label: firewood_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: status_notes
+      label: status_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

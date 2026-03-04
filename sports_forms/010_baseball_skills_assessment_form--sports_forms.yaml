@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Skills Assessment Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_number
+      label: Player number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: coach_name
+      label: Coach name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Batting Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: batting_stance
+      label: Batting stance and approach
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: swing_mechanics
+      label: Swing mechanics and form
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: contact_rate
+      label: Contact rate (ability to hit pitched balls)
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: power_potential
+      label: Power potential and bat speed
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: batting_consistency
+      label: Batting consistency and focus
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Fielding Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fielding_mechanics
+      label: Fielding mechanics and footwork
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: arm_strength
+      label: Arm strength and accuracy
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: glove_work
+      label: Glove work and hand-eye coordination
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: range
+      label: Range and positioning
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_4
+      label: -- Baserunning and Speed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: base_running
+      label: Baserunning technique and decision making
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: speed_agility
+      label: Speed and agility
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Mental and Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: baseball_iq
+      label: Baseball IQ and game understanding
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: coachability
+      label: Coachability and willingness to improve
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: physical_fitness
+      label: Overall physical fitness and conditioning
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_header_6
+      label: -- Summary and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: strengths
+      label: Player's greatest strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: areas_improvement
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: recommendations
+      label: Recommendations for development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: overall_rating
+      label: Overall player rating
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true

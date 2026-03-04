@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine HR Survey
+    pages:
+    - id: 1
+      name: employee_header
+      label: -- Employee Information --
+      hint: Please provide your basic details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id_hr
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_hr
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name_hr
+      label: Direct Manager Name
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_type
+      label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      required: true
+    - id: 7
+      name: on_site_frequency
+      label: On-Site Work Frequency
+      hint: How often do you work on-site
+      type: select_one
+      options:
+      - Full-Time On-Site
+      - Hybrid Schedule
+      - Remote
+      - Occasional On-Site
+      required: true
+    - id: 8
+      name: vaccination_intent_header
+      label: -- Vaccination Intent --
+      hint: Please indicate your intentions
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_interest
+      label: Are You Interested in Getting the COVID-19 Vaccine
+      hint: Your interest in vaccination
+      type: select_one
+      options:
+      - Yes, definitely interested
+      - Probably yes
+      - Unsure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 10
+      name: vaccination_timeline
+      label: If Interested, When Would You Get Vaccinated
+      hint: Your preferred timeline
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - After more information available
+      - Not planning to vaccinate
+      required: false
+    - id: 11
+      name: vaccination_reasons_header
+      label: -- Vaccination Concerns and Reasons --
+      hint: Tell us about your thoughts on vaccination
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reasons_for_vaccinating
+      label: Reasons You Would Get Vaccinated - Select All That Apply
+      hint: Check all reasons that apply
+      type: select_multiple
+      options:
+      - Protect myself from COVID-19
+      - Protect my family
+      - Return to normal work conditions
+      - Protect vulnerable populations
+      - Required by employer
+      - Required for travel
+      - Recommended by healthcare provider
+      - Peer influence
+      required: false
+    - id: 13
+      name: concerns_about_vaccine
+      label: Concerns About the Vaccine - Select All That Apply
+      hint: Check all concerns you have
+      type: select_multiple
+      options:
+      - Speed of vaccine development
+      - Safety concerns
+      - Side effects
+      - Allergic reactions
+      - Effectiveness concerns
+      - Religious reasons
+      - Political reasons
+      - Previous adverse vaccine reactions
+      - Pregnancy or breastfeeding
+      - No concerns
+      required: false
+    - id: 14
+      name: health_status_header
+      label: -- Health Status --
+      hint: Information about your health
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: pre_existing_conditions
+      label: Do You Have Any Pre-Existing Health Conditions
+      hint: Any chronic health conditions
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: false
+    - id: 16
+      name: conditions_details
+      label: If Yes, Please Describe Your Conditions
+      hint: Details about your health conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: immunocompromised_status_hr
+      label: Are You Immunocompromised
+      hint: Do you have a compromised immune system
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Prefer Not to Say
+      required: false
+    - id: 18
+      name: pregnant_or_nursing
+      label: Are You Pregnant or Nursing
+      hint: Current pregnancy or breastfeeding status
+      type: select_one
+      options:
+      - Pregnant
+      - Nursing
+      - Neither
+      - Prefer Not to Say
+      required: false
+    - id: 19
+      name: previous_covid_status_hr
+      label: Have You Had COVID-19
+      hint: Previous COVID-19 infection status
+      type: select_one
+      options:
+      - Yes, confirmed positive
+      - Yes, probably had it
+      - false
+      - Unsure
+      required: false
+    - id: 20
+      name: covid_infection_date_hr
+      label: Approximate Date of COVID-19 Infection
+      hint: When did you have COVID-19
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: previous_vaccine_doses_hr
+      label: Number of COVID-19 Vaccine Doses You Have Received
+      hint: How many doses already received
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: information_needs_header
+      label: -- Information Needs --
+      hint: What information would help you decide
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: information_needed
+      label: What Information Would Help You Make Your Decision
+      hint: Check all that would be helpful
+      type: select_multiple
+      options:
+      - Safety and efficacy data
+      - Long-term side effects data
+      - How vaccines work
+      - Comparison of vaccine types
+      - Information for my health condition
+      - Religious or ethical guidance
+      - Employer policy clarification
+      - Testimonials from vaccinated people
+      - One-on-one consultation
+      - None needed
+      required: false
+    - id: 24
+      name: additional_comments_hr
+      label: Additional Comments or Questions
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

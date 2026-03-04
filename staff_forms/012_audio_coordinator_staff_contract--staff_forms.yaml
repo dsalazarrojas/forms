@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Coordinator Staff Contract
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Employee Full Name
+      hint: Legal name of staff member
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_address
+      label: Mailing Address
+      hint: Full address for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Official job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Department or division
+      type: select_one
+      options:
+      - Audio Engineering
+      - Live Sound
+      - Studio Production
+      - Post-Production
+      - Broadcast
+      - Events
+      required: true
+    - id: 7
+      name: employment_type
+      label: Employment Type
+      hint: Type of employment
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Freelance
+      - Temporary
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: Employment start date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contract_end_date
+      label: Contract End Date
+      hint: End date (if applicable)
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Agreed hourly compensation in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overtime_eligible
+      label: Overtime Eligible
+      hint: Is this position eligible for overtime?
+      type: select_one
+      options:
+      - Yes, eligible for overtime
+      - No, salaried position
+      required: true
+    - id: 12
+      name: work_schedule
+      label: Work Schedule
+      hint: Expected work schedule
+      type: select_one
+      options:
+      - Standard business hours
+      - Evening shifts
+      - Weekend events
+      - Variable schedule
+      - On-call as needed
+      required: true
+    - id: 13
+      name: primary_responsibilities
+      label: Primary Responsibilities
+      hint: Main job duties
+      type: select_multiple
+      options:
+      - Audio system setup
+      - Live sound mixing
+      - Equipment maintenance
+      - Staff supervision
+      - Client consultation
+      - Inventory management
+      - Technical troubleshooting
+      required: true
+    - id: 14
+      name: equipment_provided
+      label: Equipment Provided
+      hint: Will company provide equipment?
+      type: select_one
+      options:
+      - Yes, all equipment provided
+      - Partial equipment provided
+      - No, use personal equipment
+      required: true
+    - id: 15
+      name: travel_required
+      label: Travel Required
+      hint: Is travel required for this role?
+      type: select_one
+      options:
+      - Yes, frequent travel
+      - Occasional travel
+      - Local travel only
+      - No travel required
+      required: true
+    - id: 16
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I agree to maintain confidentiality of client information
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: non_compete_agreement
+      label: Non-Compete Agreement
+      hint: I agree to non-compete terms during employment
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: benefits_enrollment
+      label: Benefits Enrollment
+      hint: Are you enrolling in company benefits?
+      type: select_one
+      options:
+      - Yes, enrolling in all benefits
+      - Partial benefits enrollment
+      - Declining benefits
+      - Not eligible
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employee_signature
+      label: Employee Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

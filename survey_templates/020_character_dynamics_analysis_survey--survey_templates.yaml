@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Dynamics Analysis Survey
+    pages:
+    - id: 1
+      name: section_basic_details
+      label: -- Basic Analysis Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: analyst_full_name
+      label: Analyst Full Name
+      hint: e.g., Writer, Educator, or Student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_or_story_title
+      label: Project or Story Title
+      hint: Name of the work being analyzed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_characters_involved
+      label: -- Characters Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_character_name
+      label: Character A Name
+      hint: The first character in the dynamic
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: second_character_name
+      label: Character B Name
+      hint: The second character in the dynamic
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: type_of_relationship
+      label: Primary Relationship Type
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Protagonist and Antagonist
+      - Mentorship
+      - Rivalry
+      - Familial (Sibling, Parent-Child)
+      - Romantic
+      - Allies or Partners
+      - Other
+      required: true
+    - id: 8
+      name: section_dynamic_traits
+      label: -- Dynamic Traits and Roles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: power_balance_rating
+      label: Power Balance Rating
+      hint: Rate from 1 (Character A is dominant) to 5 (Character B is dominant)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: levels_of_conflict_rating
+      label: Level of Conflict Rating
+      hint: How much friction exists between them?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: shared_goals_status
+      label: Shared Goals Status
+      hint: Do they want the same things?
+      type: select_one
+      options:
+      - Identical Goals
+      - Overlapping Goals
+      - Divergent Goals
+      - Opposing Goals
+      required: true
+    - id: 12
+      name: section_key_interactions
+      label: -- Key Interactions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: turning_point_interaction_summary
+      label: Turning Point Interaction Summary
+      hint: Describe one interaction that changed their dynamic
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: primary_source_of_friction
+      label: Primary Source of Friction
+      hint: What is the main cause of their conflict?
+      type: select_one
+      options:
+      - Differing Values
+      - Misunderstanding or Lack of Communication
+      - Competition for Resources
+      - Past Betrayal
+      - External Pressure
+      - Other
+      required: true
+    - id: 15
+      name: section_emotional_arc
+      label: -- Emotional Arc --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: initial_emotional_state_a_to_b
+      label: Character A Initial Feelings for B
+      hint: How does A start out feeling about B?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: initial_emotional_state_b_to_a
+      label: Character B Initial Feelings for A
+      hint: How does B start out feeling about A?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: final_emotional_state_a_to_b
+      label: Character A Final Feelings for B
+      hint: How does A end up feeling about B?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: final_emotional_state_b_to_a
+      label: Character B Final Feelings for A
+      hint: How does B end up feeling about A?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_analysis_confirmation
+      label: -- Analysis Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accuracy_confirmation_analyst
+      label: Confirmation of Analysis Completion
+      hint: I confirm that this analysis is complete and accurate
+      type: select_one
+      options:
+      - I Confirm and Log Analysis
+      - Other
+      required: true
+    - id: 22
+      name: date_of_analysis_log_submission
+      label: Date of Analysis
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_analysis_comments
+      label: Additional Analysis Comments
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: analyst_role_type
+      label: Your Role as Analyst
+      hint: Select your primary role in this analysis
+      type: select_one
+      options:
+      - Professional Writer
+      - Student or Learner
+      - Educator
+      - Story Editor
+      - Critic or Reviewer
+      required: false

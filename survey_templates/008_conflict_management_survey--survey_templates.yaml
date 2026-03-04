@@ -1,0 +1,259 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Management Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - you may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: department
+        label: Department
+        hint: Your department or division
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: tenure
+        label: Length of Employment
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - More than 10 years
+        required: true
+      - id: 4
+        name: conflict_frequency
+        label: How Often Do You Experience Workplace Conflict
+        hint: Frequency of conflict in your work environment
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Very Often
+        required: true
+      - id: 5
+        name: conflict_source
+        label: What Is the Most Common Source of Conflict
+        hint: Select the primary source you observe
+        type: select_one
+        options:
+          - Communication Issues
+          - Personality Clashes
+          - Resource Competition
+          - Unclear Roles
+          - Management Style
+          - Workload Distribution
+          - Different Work Styles
+          - Values Differences
+        required: true
+      - id: 6
+        name: conflict_level
+        label: At What Level Does Conflict Occur
+        hint: Where do you most often see conflict
+        type: select_multiple
+        options:
+          - Between Coworkers
+          - Between Teams
+          - Between Manager and Employee
+          - Between Departments
+          - With Clients or Customers
+          - With Vendors
+        required: true
+      - id: 7
+        name: conflict_impact
+        label: How Does Conflict Affect Your Work
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Reduces Productivity
+          - Increases Stress
+          - Affects Team Morale
+          - Causes Absenteeism
+          - Leads to Mistakes
+          - Damages Relationships
+          - No Significant Impact
+        required: true
+      - id: 8
+        name: resolution_awareness
+        label: Are You Aware of Conflict Resolution Procedures
+        hint: Do you know how to report or address conflict
+        type: select_one
+        options:
+          - Yes - Very Aware
+          - Somewhat Aware
+          - Not Aware
+        required: true
+      - id: 9
+        name: resolution_effectiveness
+        label: How Effective Are Current Resolution Methods
+        hint: Your perception of how well conflicts are resolved
+        type: select_one
+        options:
+          - Very Effective
+          - Somewhat Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+          - Do Not Know
+        required: true
+      - id: 10
+        name: management_response
+        label: How Does Management Handle Conflict
+        hint: Your observation of management response
+        type: select_one
+        options:
+          - Proactively Addresses Issues
+          - Responds When Reported
+          - Minimizes or Ignores
+          - Makes Situation Worse
+          - Not Involved
+        required: true
+      - id: 11
+        name: hr_support_rating
+        label: How Would You Rate HR Support for Conflict
+        hint: Rating of HR assistance in conflict situations
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Never Used HR Support
+        required: true
+      - id: 12
+        name: comfortable_reporting
+        label: Are You Comfortable Reporting Conflict
+        hint: Do you feel safe raising conflict concerns
+        type: select_one
+        options:
+          - Yes - Very Comfortable
+          - Somewhat Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 13
+        name: fear_retaliation
+        label: Do You Fear Retaliation for Reporting
+        hint: Concern about negative consequences
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 14
+        name: training_received
+        label: Have You Received Conflict Resolution Training
+        hint: Any formal training on managing conflict
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 15
+        name: training_helpfulness
+        label: How Helpful Was the Training
+        hint: If you received training how useful was it
+        type: select_one
+        options:
+          - Very Helpful
+          - Somewhat Helpful
+          - Not Helpful
+          - Did Not Receive Training
+        required: true
+      - id: 16
+        name: preferred_resolution_method
+        label: Preferred Method of Conflict Resolution
+        hint: How would you prefer conflicts be handled
+        type: select_one
+        options:
+          - Direct Discussion Between Parties
+          - Mediation by Manager
+          - Mediation by HR
+          - External Mediator
+          - Written Process
+          - Team Meeting
+        required: true
+      - id: 17
+        name: communication_improvement
+        label: Would Better Communication Reduce Conflict
+        hint: Your view on communication improvements
+        type: select_one
+        options:
+          - Yes - Significantly
+          - Yes - Somewhat
+          - No - Would Not Help
+        required: true
+      - id: 18
+        name: policy_clarity
+        label: Are Conflict Policies Clear
+        hint: Clarity of existing policies and procedures
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 19
+        name: additional_resources_needed
+        label: What Additional Resources Would Help
+        hint: Select all that would be beneficial
+        type: select_multiple
+        options:
+          - More Training
+          - Clearer Policies
+          - Dedicated Mediator
+          - Anonymous Reporting
+          - Team Building Activities
+          - Better Communication Tools
+          - Management Coaching
+          - None Needed
+        required: true
+      - id: 20
+        name: willingness_participate_training
+        label: Would You Participate in Conflict Resolution Training
+        hint: Interest in future training opportunities
+        type: select_one
+        options:
+          - Yes - Definitely
+          - Maybe
+          - No
+        required: true
+      - id: 21
+        name: suggestions
+        label: Suggestions for Improving Conflict Management
+        hint: Your ideas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you wish to share
+        type: text
+        options: []
+        required: false

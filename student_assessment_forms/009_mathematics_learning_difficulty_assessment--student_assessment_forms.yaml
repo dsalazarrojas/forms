@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mathematics Learning Difficulty Assessment
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: math_challenge
+      label: math challenge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: math_challenge_other
+      label: Other math challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: math_challenge_other_other
+      label: Other math challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_support
+      label: Student support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher_support
+      label: Teacher support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: teacher_support_other
+      label: Other teacher support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: math_challenge_date
+      label: Math challenge date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: math_challenge_time
+      label: Math challenge time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: student_assessment
+      label: Student assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: teacher_assessment
+      label: Teacher assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_progress
+      label: Student progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: teacher_progress
+      label: Teacher progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: student_outcomes
+      label: Student outcomes
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Marginal
+      - Unsatisfactory
+      required: false

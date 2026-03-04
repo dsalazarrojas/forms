@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Needs Student Progress Assessment
+    pages:
+    - id: 1
+      name: student_progress_assessment_form
+      label: Student Progress Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_needs
+      label: student_needs
+      hint: null
+      type: select_one
+      options:
+      - Needs 1
+      - Needs 2
+      - Needs 3
+      required: true
+    - id: 3
+      name: student_outcomes
+      label: student_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Outcomes 1
+      - Outcomes 2
+      - Outcomes 3
+      required: true
+    - id: 4
+      name: student_growth
+      label: Student Growth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress_rating
+      label: Progress Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_progress_graph
+      label: Student Progress Graph
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: progress_frequency
+      label: Progress Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: true
+    - id: 10
+      name: progress_start_date
+      label: Progress Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: progress_end_date
+      label: Progress End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: progress_time_period
+      label: Progress Time Period
+      hint: null
+      type: time
+      options: []
+      required: false

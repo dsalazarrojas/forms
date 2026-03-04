@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Call To Action Review Form
+    pages:
+      - id: 1
+        name: asset_info_header
+        label: -- Marketing Asset Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: asset_title
+        label: Asset Title or Name
+        hint: e.g., Spring Promo Landing Page, Q3 Newsletter
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: asset_type
+        label: Marketing Asset Type
+        hint: null
+        type: select_one
+        options:
+          - Landing Page
+          - Email Campaign
+          - Social Media Post
+          - Banner Ad
+          - Blog Post
+        required: true
+      - id: 4
+        name: review_section_header
+        label: -- CTA Performance Review --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: cta_text
+        label: Primary CTA Text
+        hint: Copy of the main button or link text
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: cta_placement
+        label: CTA Placement and Visibility
+        hint: How easily can the user find the call to action?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 7
+        name: visual_clarity
+        label: Visual Clarity
+        hint: Does the design make the CTA stand out?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 8
+        name: relevance_to_content
+        label: Relevance to Content
+        hint: Does the CTA match the surrounding copy?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: value_proposition
+        label: Perceived Value
+        hint: Is it clear what the user gets by clicking?
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Unclear
+        required: true
+      - id: 10
+        name: likelihood_to_click
+        label: Likelihood to Click
+        hint: In your opinion, how effective is this CTA?
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 11
+        name: suggested_improvements
+        label: Suggested Improvements
+        hint: How could we make this CTA more effective?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: competitor_comparison
+        label: Comparison to Competitor CTAs
+        hint: How does our approach compare?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: reviewer_name
+        label: Reviewer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: review_date
+        label: Date of Review
+        hint: null
+        type: date
+        options: []
+        required: true

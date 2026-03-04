@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carnival Event Feedback Survey
+    pages:
+    - id: 1
+      name: section_attendee_overview
+      label: -- Attendee Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name (optional)
+      hint: leave blank for anonymity
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address (optional)
+      hint: provide if you'd like to be entered into our prize draw
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_attended
+      label: Date Attended
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Your Age Group
+      hint: helps us understand our audience
+      type: select_one
+      options:
+      - Under 12
+      - 13 to 18
+      - 19 to 30
+      - 31 to 50
+      - 51 and over
+      required: true
+    - id: 6
+      name: section_event_experience
+      label: -- Event Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall rating of the carnival
+      hint: 1 being poor, 10 being exceptional
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: favorite_attraction
+      label: What was your favorite attraction or ride?
+      hint: name one specific item
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: least_favorite_attraction
+      label: What was your least favorite part of the event?
+      hint: tell us what we should improve
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_atmosphere
+      label: Rate the atmosphere and decor
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_food_services
+      label: -- Food and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: food_quality_rating
+      label: Quality of food and beverages
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: food_variety_rating
+      label: Variety of food options
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: staff_helpfulness
+      label: Friendliness and helpfulness of staff
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: cleanliness_rating
+      label: Cleanliness of the venue and restrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_value_logistics
+      label: -- Value and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ticket_value
+      label: Rate the value for the ticket price
+      hint: null
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair
+      - Poor Value
+      required: true
+    - id: 18
+      name: queue_times
+      label: Were the wait times for attractions acceptable?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - No - Too long
+      required: true
+    - id: 19
+      name: signage_and_navigation
+      label: Was the event easy to navigate?
+      hint: maps, signs, and directions
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      required: true
+    - id: 20
+      name: section_future
+      label: -- Future Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recommend_likelihood
+      label: How likely are you to recommend this carnival to others?
+      hint: 1 being not likely, 10 being very likely
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: attend_next_year
+      label: Do you plan to attend next year?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 23
+      name: improvement_suggestions
+      label: One thing we could do to make next year better
+      hint: specific feedback is appreciated
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Any other feedback
+      hint: null
+      type: text
+      options: []
+      required: false

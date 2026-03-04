@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Research Checklist
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Low''}'
+      - '{2: ''Medium''}'
+      - '{3: ''High''}'
+      required: false
+    - id: 5
+      name: product_score
+      label: Product Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Member 1''}'
+      - '{2: ''Member 2''}'
+      - '{3: ''Member 3''}'
+      required: false
+    - id: 7
+      name: buying
+      label: Buying Decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: merchandising_decision
+      label: Merchandising Decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: marketing_decision
+      label: Marketing Decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: product_notes
+      label: Product Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_contact
+      label: Phone Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_url
+      label: Product URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_image
+      label: Product Image
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: product_time
+      label: Product Time
+      hint: null
+      type: time
+      options: []
+      required: false

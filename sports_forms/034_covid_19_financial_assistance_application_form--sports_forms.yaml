@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Financial Assistance Application Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: profession
+      label: Professional Title
+      hint: Tennis professional, instructor, coach, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years in Profession
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: primary_employment
+      label: Primary Source of Employment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- COVID-19 Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: income_before_covid
+      label: Annual Income Before COVID-19
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: current_annual_income
+      label: Current Annual Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: income_loss_percentage
+      label: Percentage of Income Lost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: impact_details
+      label: How COVID-19 Impacted Your Employment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_5
+      label: -- Financial Need --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: assistance_amount
+      label: Amount of Assistance Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: assistance_purpose
+      label: Purpose of Assistance
+      hint: Living expenses, rent, medical, etc.
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: other_assistance_received
+      label: Other Assistance Received
+      hint: Unemployment, grants, PPP loans, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: financial_hardship
+      label: Describe Your Financial Hardship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

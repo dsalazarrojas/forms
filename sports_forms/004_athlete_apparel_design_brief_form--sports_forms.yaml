@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Apparel Design Brief Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Official name of the team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sport
+      label: Sport
+      hint: Which sport is this apparel for
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Other
+      required: true
+    - id: 3
+      name: apparel_type
+      label: Type of Apparel
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Jerseys
+      - Shorts
+      - Warm-up Suits
+      - Practice Uniforms
+      - Game Uniforms
+      - Hats or Caps
+      - Socks
+      - Jackets
+      - Hoodies
+      required: true
+    - id: 4
+      name: quantity_needed
+      label: Total Quantity Needed
+      hint: Approximate number of items
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: primary_color
+      label: Primary Color
+      hint: Main color for the apparel
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Black
+      - White
+      - Yellow
+      - Orange
+      - Purple
+      - Gray
+      - Navy
+      required: true
+    - id: 6
+      name: secondary_color
+      label: Secondary Color
+      hint: Accent or secondary color
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Black
+      - White
+      - Yellow
+      - Orange
+      - Purple
+      - Gray
+      - Navy
+      required: false
+    - id: 7
+      name: team_logo
+      label: Team Logo
+      hint: Do you have a team logo to include
+      type: select_one
+      options:
+      - Yes - Will Upload
+      - Yes - Already on File
+      - No - Need Design Help
+      required: true
+    - id: 8
+      name: design_style
+      label: Design Style Preference
+      hint: What style are you looking for
+      type: select_one
+      options:
+      - Modern and Sleek
+      - Classic and Traditional
+      - Bold and Aggressive
+      - Minimalist
+      - Retro or Vintage
+      required: true
+    - id: 9
+      name: sizing_breakdown
+      label: Sizing Breakdown
+      hint: Provide quantity per size needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_features
+      label: Special Features
+      hint: Any special requirements like moisture-wicking, compression, etc.
+      type: select_multiple
+      options:
+      - Moisture-Wicking Fabric
+      - Compression Fit
+      - Reflective Elements
+      - Ventilation Panels
+      - Padded Areas
+      - Reversible Design
+      - None
+      required: false
+    - id: 11
+      name: text_to_include
+      label: Text to Include
+      hint: Team name, slogans, or other text for the apparel
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspiration_references
+      label: Inspiration or References
+      hint: Describe any designs you like as inspiration
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for this order
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1000
+      - $1000 - $2500
+      - $2500 - $5000
+      - Over $5000
+      required: true
+    - id: 14
+      name: deadline
+      label: Required Delivery Date
+      hint: When do you need the apparel by
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for this order
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: Email for order communications
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details about your design request
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Remote Worker Assessment Form
+    pages:
+    - id: 1
+      name: remote_worker_assessment_form_1
+      label: Remote Worker Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: remote_worker_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 3
+      name: remote_worker_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_assessment
+      label: Time of Assessment
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: remote_worker_productivity
+      label: Productivity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 7
+      name: remote_worker_performance
+      label: Performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 8
+      name: remote_worker_attendance
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 9
+      name: remote_worker_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

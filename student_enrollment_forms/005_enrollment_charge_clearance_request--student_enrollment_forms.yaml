@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enrollment Charge Clearance Request
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Student's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_clearance
+      label: Reason for Clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_clearance
+      label: Date of Clearance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_clearance
+      label: Time of Clearance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: cleared_by
+      label: Cleared By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      required: false
+    - id: 15
+      name: cleared_date
+      label: Cleared Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: cleared_time
+      label: Cleared Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 18
+      name: submitted
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cleared
+      label: Cleared
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      required: false
+    - id: 24
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false

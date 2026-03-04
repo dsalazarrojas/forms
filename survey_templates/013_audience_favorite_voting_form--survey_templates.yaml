@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audience Favorite Voting Form
+    pages:
+      - id: 1
+        name: intro_note
+        label: -- Audience Choice Award --
+        hint: Vote for your favorite act or performance of the night!
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: event_title
+        label: Name of Event or Show
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: favorite_act
+        label: Which act was your absolute favorite?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: performance_rating
+        label: Overall Show Rating
+        hint: null
+        type: select_one
+        options:
+          - 5 Stars - Amazing
+          - 4 Stars - Great
+          - 3 Stars - Good
+          - 2 Stars - Okay
+          - 1 Star - Poor
+        required: true
+      - id: 5
+        name: favorite_moment
+        label: What was the most memorable moment?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: venue_feedback
+        label: Venue Satisfaction
+        hint: Comfort, visibility, etc.
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+        required: true
+      - id: 7
+        name: hearing_about_event
+        label: How did you hear about this show?
+        hint: null
+        type: select_multiple
+        options:
+          - Social Media
+          - Word of Mouth
+          - Poster or Flyer
+          - Local News
+          - Website
+          - Other
+        required: true
+      - id: 8
+        name: recommendation_likelihood
+        label: Would you recommend this show to a friend?
+        hint: null
+        type: select_one
+        options:
+          - Definitely
+          - Probably
+          - Maybe
+          - Not likely
+        required: true
+      - id: 9
+        name: additional_comments
+        label: Any other feedback for the organizers?
+        hint: null
+        type: text
+        options: []
+        required: false

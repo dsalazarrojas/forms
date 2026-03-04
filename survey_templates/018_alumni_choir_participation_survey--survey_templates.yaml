@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Choir Participation Survey
+    pages:
+    - id: 1
+      name: alumni_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alumni_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_year
+      label: Class Year
+      hint: Year you graduated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For choir updates and communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_city
+      label: Current City
+      hint: Where you currently live
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_state
+      label: Current State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_choir_experience
+      label: -- Choir Experience --
+      hint: Your background in music
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: choir_participation
+      label: Did You Participate in School Choir
+      hint: Were you in choir as a student
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 10
+      name: voice_type
+      label: Voice Type
+      hint: Your vocal range
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Other
+      required: false
+    - id: 11
+      name: singing_experience
+      label: Years of Singing Experience
+      hint: How many years have you sung
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: current_musical_involvement
+      label: Current Musical Involvement
+      hint: Are you actively involved in music now
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_participation
+      label: -- Participation Interest --
+      hint: Your interest in alumni choir
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: interest_level
+      label: Interest in Alumni Choir
+      hint: How interested are you
+      type: select_one
+      options:
+      - Very Interested
+      - Interested
+      - Somewhat Interested
+      - Not Interested
+      required: true
+    - id: 15
+      name: participation_frequency
+      label: Desired Participation Frequency
+      hint: How often could you participate
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Special Events Only
+      - As Often as Possible
+      required: false
+    - id: 16
+      name: time_availability
+      label: Available Meeting Times
+      hint: When you could attend rehearsals
+      type: select_multiple
+      options:
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Flexible
+      required: false
+    - id: 17
+      name: section_concert_interest
+      label: -- Concert and Performance Interest --
+      hint: Your interest in performances
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: concert_interest
+      label: Interest in Alumni Choir Concerts
+      hint: Would you attend concerts
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 19
+      name: performance_types
+      label: Preferred Performance Types
+      hint: What kind of concerts interest you
+      type: select_multiple
+      options:
+      - Traditional Classical
+      - Pop and Show Tunes
+      - Sacred Music
+      - Contemporary
+      - Seasonal Concerts
+      - Reunion Concerts
+      required: false
+    - id: 20
+      name: performance_participation
+      label: Willing to Perform
+      hint: Would you want to perform
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 21
+      name: section_communication
+      label: -- Communication Preferences --
+      hint: How we should contact you
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How you prefer to receive updates
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Social Media
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

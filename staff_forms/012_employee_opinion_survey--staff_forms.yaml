@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_opinion_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What do you think is the biggest change we can make to improve our organization?
+      hint: null
+      type: select_one
+      options:
+      - Improve our company culture
+      - Improve our customer service
+      - Improve our management
+      required: false
+    - id: 3
+      name: rating1
+      label: On a scale of 1-10, how would you rate the organization's communication?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: What do you like most about the organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating2
+      label: On a scale of 1-10, how would you rate the work-life balance of the organization?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: What do you like least about the organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question4
+      label: Do you feel that your work is meaningful and contributes to the organization's
+        goals?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 8
+      name: question5
+      label: On a scale of 1-10, how likely are you to recommend the organization
+        to a friend or family member?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating3
+      label: On a scale of 1-10, how satisfied are you with your job?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question6
+      label: Do you feel that the organization is transparent about its goals and
+        objectives?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 11
+      name: question7
+      label: What changes would you suggest to improve the organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question8
+      label: Are there any other comments or suggestions you would like to make?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question9
+      label: Is the organization doing enough to support diversity and inclusion?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 14
+      name: question10
+      label: Is there anything else you would like to say about your experience with
+        the organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question11
+      label: What are your thoughts on how the organization can improve communication?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question12
+      label: Do you have any other thoughts or suggestions about the organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question13
+      label: Is there anything else you would like to share?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question14
+      label: Are you an employee or a non-employee?
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Non-Employee
+      - Other
+      required: false

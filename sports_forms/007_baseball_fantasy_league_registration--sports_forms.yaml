@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Fantasy League Registration
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Manager Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_first_name
+      label: Manager first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_last_name
+      label: Manager last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: manager_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: team_name
+      label: Fantasy team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_abbreviation
+      label: Team abbreviation (3-4 characters)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: league_experience
+      label: Years of fantasy baseball experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Draft Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: draft_preference
+      label: Preferred draft format
+      hint: null
+      type: select_one
+      options:
+      - Snake Draft
+      - Auction Draft
+      - Salary Cap
+      required: true
+    - id: 12
+      name: draft_timing
+      label: Preferred draft timing
+      hint: null
+      type: select_one
+      options:
+      - Spring Training
+      - Opening Day
+      - Anytime Before Season Starts
+      - No Preference
+      required: false
+    - id: 13
+      name: autodraft_allowed
+      label: Authorize auto-draft if unable to attend?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Use League Settings
+      required: false
+    - id: 14
+      name: section_header_4
+      label: -- Scoring and Rules --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: scoring_preference
+      label: Preferred scoring format
+      hint: null
+      type: select_one
+      options:
+      - Points-Based
+      - Head-to-Head
+      - Rotisserie
+      - Custom
+      required: true
+    - id: 16
+      name: league_rules_agreement
+      label: I have read and agree to the league rules
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Have Questions
+      required: true
+    - id: 17
+      name: section_header_5
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: communication_method
+      label: Preferred communication method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - League Website
+      - Mobile App
+      required: false
+    - id: 19
+      name: email_updates
+      label: Send me league updates and notifications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Weekly Digest Only
+      required: false
+    - id: 20
+      name: section_header_6
+      label: -- Registration Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: registration_fee_paid
+      label: Registration fee payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Will Pay Later
+      - Invoice Needed
+      required: true
+    - id: 22
+      name: agreement_confirmation
+      label: I confirm my registration information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

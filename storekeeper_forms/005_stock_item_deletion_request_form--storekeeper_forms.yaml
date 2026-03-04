@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Item Deletion Request Form
+    pages:
+    - id: 1
+      name: stock_item_deletion_request
+      label: Stock Item Deletion Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stock_item_name
+      label: Stock Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: storekeeper_name
+      label: Storekeeper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stock_item_quantity
+      label: Stock Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_deletion
+      label: Reason for Deletion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_storekeeper_form
+      label: Select Storekeeper
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 7
+      name: storekeeper_form_comment
+      label: Storekeeper Form Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: storekeeper_form_status
+      label: Storekeeper Form Status
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false

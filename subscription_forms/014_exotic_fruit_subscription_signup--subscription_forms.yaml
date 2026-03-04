@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exotic Fruit Subscription Signup
+    pages:
+    - id: 1
+      name: title
+      label: Exotic Fruit Subscription Signup
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Berries
+      - Cherries
+      - Grapes
+      - Oranges
+      - Pears
+      - Pineapple
+      - Watermelon
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: payment method
+      hint: Please select one payment method
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 8
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_frequency
+      label: payment frequency
+      hint: Select how often you want to pay
+      type: select_one
+      options:
+      - One time payment
+      - Recurring payment
+      required: false
+    - id: 10
+      name: delivery_notes
+      label: delivery notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: delivery_frequency
+      label: delivery frequency
+      hint: Select how often you want to receive your delivery
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Bi-Monthly
+      - Monthly
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_status
+      label: payment status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_status_note
+      label: payment status note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_status
+      label: delivery status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_status_note
+      label: delivery status note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: subscription_status
+      label: subscription status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: subscription_status_note
+      label: subscription status note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: deleted_at
+      label: deleted at
+      hint: null
+      type: date
+      options: []
+      required: false

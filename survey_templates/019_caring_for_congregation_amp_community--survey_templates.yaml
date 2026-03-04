@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caring For Congregation & Community
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Physical Address
+      hint: helpful for location-based assistance or volunteering
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_interaction_type
+      label: -- Type of Interaction --
+      hint: choose your main reason for filling out this form
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interaction_type
+      label: How would you like to interact today?
+      hint: null
+      type: select_one
+      options:
+      - I need assistance
+      - I would like to volunteer or offer help
+      - I have a general inquiry
+      required: true
+    - id: 8
+      name: section_assistance
+      label: -- Assistance Needed --
+      hint: complete this if you are requesting help
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assistance_category
+      label: If you need help, what category?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Grocery or Pharmacy delivery
+      - Prayer request
+      - Financial assistance
+      - Transportation
+      - Home maintenance
+      - Mental health support
+      required: false
+    - id: 10
+      name: detailed_need
+      label: Please provide more details about your request
+      hint: tell us specifically how we can support you
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: urgency_level
+      label: How urgent is this request?
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Urgent
+      - Immediate
+      required: false
+    - id: 12
+      name: section_volunteering
+      label: -- Volunteering and Offers --
+      hint: complete this if you are offering assistance
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_category
+      label: If you are offering help, in what areas?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Food preparation
+      - Driving
+      - Professional services
+      - Labor or Manual work
+      - Admin support
+      - Friendly check-ins
+      required: false
+    - id: 14
+      name: availability
+      label: When are you available to help?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Weekdays
+      - Evenings
+      - Weekends
+      - On-call
+      required: false
+    - id: 15
+      name: skills_description
+      label: Brief description of skills or resources you can offer
+      hint: describe your abilities
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_connection
+      label: -- Membership and Connection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: congregation_status
+      label: Are you a member of this congregation?
+      hint: helps us direct your message
+      type: select_one
+      options:
+      - true
+      - false
+      - Regular Attendee
+      - Visiting
+      required: true
+    - id: 18
+      name: connection_interest
+      label: Would you like to be added to our mailing list?
+      hint: for news and updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: section_final
+      label: -- Final Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: referral_source
+      label: How did you hear about this program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Any other comments or prayer requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: privacy_confirmation
+      label: I agree to have my information shared with the relevant parish team
+      hint: necessary to process your request or offer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

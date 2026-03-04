@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Team Culture Survey
+    pages:
+    - id: 1
+      name: team_culture_form
+      label: Team Culture Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_morale
+      label: Team Morale
+      hint: How would you rate your team's morale?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: team_communication
+      label: Team Communication
+      hint: How would you rate your team's communication?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_belonging
+      label: Team Belonging
+      hint: How would you rate your team's belonging?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_leadership
+      label: Team Leadership
+      hint: How would you rate the performance of your team's leadership?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: team_leadership_hands_on
+      label: Team leadership hands on approach
+      hint: How would you rate the hands-on approach of your team's leadership?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: team_leadership_style
+      label: Team leadership style
+      hint: What style of leadership does your team have?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: team_leadership_support
+      label: Team leadership support
+      hint: How much support do you receive from team leadership?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: team_culture
+      label: Team Culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_culture_comments
+      label: Team Culture Comments
+      hint: Add any additional comments about your team culture.
+      type: text
+      options: []
+      required: false

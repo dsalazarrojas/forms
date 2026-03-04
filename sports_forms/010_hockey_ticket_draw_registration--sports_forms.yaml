@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hockey Ticket Draw Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: jersey_number
+      label: Jersey Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - defense
+      - midfield
+      - attack
+      - _goals
+      required: true
+    - id: 10
+      name: position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - Forward
+      - Goalkeeper
+      - Defense
+      - Midfielder
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_of_registration
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: team_reaktions
+      label: Team Reektions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: team_reaktions_2
+      label: Team Reektions 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Confidential Information Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: camper_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: section_parent_info
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_first_name
+      label: Parent or Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_last_name
+      label: Parent or Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_relationship
+      label: Relationship to Camper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: parent_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parent_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: parent_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_emergency_contact
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship to Camper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_health_medical
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: allergies
+      label: Food and Environmental Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergy_severity
+      label: Allergy Severity
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Life-threatening
+      - No allergies
+      required: true
+    - id: 24
+      name: medications
+      label: Current Medications and Dosages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_conditions
+      label: Medical Conditions or Health Concerns
+      hint: Asthma, diabetes, heart condition, epilepsy, etc.
+      type: text
+      options: []
+      required: false

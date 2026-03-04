@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Names Survey
+    pages:
+    - id: 1
+      name: introduction_note
+      label: Help us choose a name for our baby!
+      hint: We value your input and suggestions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_suggestion_1
+      label: First Name Suggestion
+      hint: Enter a name you think would be great
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: baby_gender_preference
+      label: Best suited for
+      hint: null
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - Neutral
+      required: true
+    - id: 5
+      name: rating_suggestion_1
+      label: How much do you love this name?
+      hint: 1 is okay, 5 is amazing
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: name_meaning
+      label: Do you know the meaning of this name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name_suggestion_2
+      label: Second Name Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name_style
+      label: What style of name do you prefer for us?
+      hint: null
+      type: select_multiple
+      options:
+      - Classic and Traditional
+      - Modern and Trendy
+      - Unique and Rare
+      - Nature-inspired
+      - Family names
+      required: false
+    - id: 9
+      name: middle_name_ideas
+      label: Any middle name suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Why do you think these names fit us?
+      hint: null
+      type: text
+      options: []
+      required: false

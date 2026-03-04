@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: running_tournament_registration_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_details
+      label: registration_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_info_2
+      label: additional_info
+      hint: More info is required
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_participant_info
+      label: confirm_participant_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: confirm_event_info
+      label: confirm_event_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: confirm_registration_details
+      label: confirm_registration_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: submit_form
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

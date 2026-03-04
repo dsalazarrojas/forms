@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Shop Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_info
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: items_ordered
+      label: Items Ordered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Team Uniforms
+      - Sports Fan Gear
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Cash
+      - PayPal
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 16
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false

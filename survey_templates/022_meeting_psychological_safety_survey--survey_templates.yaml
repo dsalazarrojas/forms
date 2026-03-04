@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Psychological Safety Survey
+    pages:
+    - id: 1
+      name: meeting_psychological_safety_survey
+      label: meeting_psychological_safety_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_leaders
+      label: team_leaders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: psychological_safety_rating
+      label: psychological_safety_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: speaking_upcomfort
+      label: speaking_up_comfort
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_leaders_speak_up
+      label: team_leaders_speak_up
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: team_members_speak_up
+      label: team_members_speak_up
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: culture_and_speak_up
+      label: culture_and_speak_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: better_facilitation
+      label: better_facilitation
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 9
+      name: inclusive_collaboration
+      label: inclusive_collaboration
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false

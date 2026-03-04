@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: final_exam_preparation_checklist
+    pages:
+    - id: 1
+      name: study_progress
+      label: Study Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: exam_dates
+      label: Exam Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: confidence_levels
+      label: Confidence Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: revision_planning
+      label: Revision Planning
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: study_goals
+      label: Study Goals
+      hint: null
+      type: text
+      options: []
+      required: false

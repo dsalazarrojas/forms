@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call For Composers
+    pages:
+    - id: 1
+      name: composer_header
+      label: -- Composer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: composer_name
+      label: Composer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: composer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: composer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: composer_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: composer_experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_composing
+      label: Years of Composing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: education
+      label: Music Education or Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_work
+      label: Previous Compositions or Performances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: composition_header
+      label: -- Composition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: composition_title
+      label: Composition Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: composition_style
+      label: Musical Style or Genre
+      hint: null
+      type: select_one
+      options:
+      - Classical
+      - Contemporary
+      - Jazz
+      - Electronic
+      - Experimental
+      - Hybrid
+      - Other
+      required: true
+    - id: 13
+      name: duration
+      label: Duration (in minutes)"
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: instrumentation
+      label: Instrumentation
+      hint: Instruments used
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: composition_description
+      label: Composition Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: premiere_header
+      label: -- Premiere and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: world_premiere
+      label: Is This a World Premiere?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 18
+      name: performance_rights
+      label: Do You Hold All Performance Rights?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 19
+      name: recording_header
+      label: -- Recording Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recording_sample
+      label: Audio Sample URL (if available)
+      hint: YouTube, SoundCloud, Dropbox link
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: score_submission
+      label: Music Score Attached
+      hint: PDF or image format
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_header
+      label: -- Submission Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: original_work
+      label: This is original, unpublished work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: agree_to_perform
+      label: I agree to have this work performed publicly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: royalties_agreement
+      label: I understand I may receive royalties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

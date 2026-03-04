@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiation Biology Quiz
+    pages:
+    - id: 1
+      name: student_answers
+      label: Radiation biology quiz questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1_answer
+      label: What is radioactivity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question1_score
+      label: Score for question 1
+      hint: 0/1
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question2_answer
+      label: What are the main principles of radiation dosimetry?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: question2_score
+      label: Score for question 2
+      hint: 0/1
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question3_answer
+      label: What is the biological effect of radiation?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 7
+      name: question3_score
+      label: Score for question 3
+      hint: 0/1
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question4_answer
+      label: What is the difference between ionizing and non-ionizing radiation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question4_score
+      label: Score for question 4
+      hint: 0/1
+      type: number
+      options: []
+      required: false

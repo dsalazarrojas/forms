@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Orientation Survey Template
+    pages:
+    - id: 1
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_impression
+      label: Overall Impression
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: onboarding_experience
+      label: Onboarding Experience
+      hint: null
+      type: select_one
+      options:
+      - Onboarding was thorough and well planned
+      - Onboarding was not thorough
+      - Other, please specify
+      required: false
+    - id: 5
+      name: onboarding_feedback
+      label: Onboarding Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Not very good
+      - Very poor
+      required: false
+    - id: 6
+      name: onboarding_department
+      label: Onboarding Department
+      hint: null
+      type: select_one
+      options:
+      - Human Resource Department
+      - Other
+      required: false
+    - id: 7
+      name: onboarding_device
+      label: Onboarding Device
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Mobile
+      - Tablets
+      required: false
+    - id: 8
+      name: onboarding_comments
+      label: Onboarding Comments
+      hint: null
+      type: note
+      options: []
+      required: false

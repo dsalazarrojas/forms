@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Break Schedule Request Form
+    pages:
+    - id: 1
+      name: volunteer_break_schedule_request_form_page
+      label: Volunteer Shift Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_shift_start_time
+      label: Volunteer Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_shift_end_time
+      label: Volunteer Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: break_duration
+      label: Break Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': 1}'
+      - '{''value'': 5, ''text'': 5}'
+      - '{''value'': 10, ''text'': 10}'
+      - '{''value'': 15, ''text'': 15}'
+      required: false
+    - id: 7
+      name: break_frequency_other
+      label: Break Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coverage_details
+      label: Coverage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shift_coverage
+      label: Shift Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Volunteer 1'', ''text'': ''Volunteer 1''}'
+      - '{''value'': ''Volunteer 2'', ''text'': ''Volunteer 2''}'
+      - '{''value'': ''Volunteer 3'', ''text'': ''Volunteer 3''}'
+      - '{''value'': ''Volunteer 4'', ''text'': ''Volunteer 4''}'
+      - '{''value'': ''Volunteer 5'', ''text'': ''Volunteer 5''}'
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

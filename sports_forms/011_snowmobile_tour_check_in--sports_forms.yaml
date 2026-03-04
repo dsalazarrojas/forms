@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snowmobile Tour Check In
+    pages:
+    - id: 1
+      name: tour_operator
+      label: snowmobile tour operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_details
+      label: medical details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: waiver_acceptance
+      label: waiver acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - parent
+      - sibling
+      - spouse
+      - other
+      required: true
+    - id: 10
+      name: emergency_contact_address
+      label: emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false

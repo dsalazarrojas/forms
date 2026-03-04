@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Efficiency Benchmark Survey
+    pages:
+    - id: 1
+      name: section_organizational_info
+      label: -- Organizational Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_size
+      label: Total Number of Employees
+      hint: All office and field staff
+      type: select_one
+      options:
+      - 1-20 Employees
+      - 21-100 Employees
+      - 101-500 Employees
+      - More than 500
+      required: true
+    - id: 4
+      name: annual_project_volume
+      label: Average Number of Projects per Year
+      hint: Active projects within a 12-month period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_efficiency_benchmarks
+      label: -- Efficiency Benchmarks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_schedule_accuracy
+      label: On-Time Completion Rate (%)
+      hint: Percentage of projects completed on or before the original deadline
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: budget_adherence_rate
+      label: Projects Within Original Budget (%)
+      hint: Percentage of projects completed without exceeding the baseline budget
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: site_waste_reduction
+      label: Material Waste Management Efficiency (1-10)
+      hint: 1 - Poor/No Program, 10 - Highly Efficient/Zero-Waste Goals
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rework_cost_estimate
+      label: Estimated Average Rework Cost (%)
+      hint: Percentage of total project cost spent on fixing errors/defects
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_tech_adoption
+      label: -- Technology and Innovation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: digital_adoption_maturity
+      label: Level of Digital Tool Adoption
+      hint: Overall maturity of digital tools in daily operations
+      type: select_one
+      options:
+      - No Digital Tools
+      - Limited/Ad-hoc Use
+      - Standardized in Some Departments
+      - Fully Integrated/Paperless
+      required: true
+    - id: 12
+      name: bim_utilization
+      label: BIM Implementation Level
+      hint: Frequency of Building Information Modeling use
+      type: select_one
+      options:
+      - Never Used
+      - Rarely/Experimental
+      - Most Projects (3D)
+      - All Projects (4D/5D Integrated)
+      required: true
+    - id: 13
+      name: section_labor_productivity
+      label: -- Labor and Productivity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: non_productive_time_estimate
+      label: Estimated Daily Non-Productive Time per Worker (Hours)
+      hint: Travel, waiting for materials, instructions, etc.
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: absenteeism_rate
+      label: Average Monthly Absenteeism Rate (%)
+      hint: Percentage of planned shifts missed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: training_investment_annual
+      label: Annual Training Investment per Employee ($)
+      hint: Amount spent on professional development/certifications
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_performance_goals
+      label: -- Future Performance Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_improvement_target
+      label: Primary Goal for Efficiency Improvement in Next 12 Months
+      hint: null
+      type: select_one
+      options:
+      - Reducing Rework Costs
+      - Improving Schedule Accuracy
+      - Enhancing Site Safety
+      - Accelerating Digital Adoption
+      - Material Cost Management
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Context or Observations
+      hint: null
+      type: text
+      options: []
+      required: false

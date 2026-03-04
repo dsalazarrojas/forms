@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote For Favorite Coaches
+    pages:
+    - id: 1
+      name: coach1
+      label: Coach1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: coach2
+      label: Coach2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vote1
+      label: Vote1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vote2
+      label: Vote2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vote3
+      label: Vote3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: note1
+      label: Note1
+      hint: null
+      type: note
+      options: []
+      required: false

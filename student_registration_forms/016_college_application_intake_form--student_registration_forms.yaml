@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Application Intake Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: false
+    - id: 7
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_of_interest
+      label: School or College of Interest
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Liberal Arts
+      - Business
+      - Health Sciences
+      - STEM
+      - Other
+      required: true
+    - id: 12
+      name: degree_level
+      label: Degree Level Sought
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's
+      - Associate
+      - Graduate
+      - Certificate
+      required: true
+    - id: 13
+      name: start_date_preference
+      label: Preferred Start Date
+      hint: What semester or year
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: prior_education
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Some College
+      - Other
+      required: true
+    - id: 15
+      name: gpa_on_entry
+      label: Current or Previous GPA
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: standardized_test_taken
+      label: Standardized Test Results Submitted
+      hint: SAT, ACT, GRE, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Plan to submit
+      required: true
+    - id: 17
+      name: english_proficiency_concern
+      label: English as Second Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: disability_accommodations
+      label: Require Accessibility Accommodations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Please specify your needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: financial_aid_interested
+      label: Interested in Financial Aid Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: international_student_status
+      label: International Student Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. Citizen
+      - International
+      - Permanent Resident
+      required: true
+    - id: 22
+      name: how_did_you_hear
+      label: How did you hear about our college
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Word of Mouth
+      - College Fair
+      - Advertisement
+      - Other
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Health Declaration Form
+    pages:
+      - id: 1
+        name: section_student
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_dob
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: student_grade
+        label: Grade
+        hint: null
+        type: select_one
+        options:
+          - Kindergarten
+          - "1st Grade"
+          - "2nd Grade"
+          - "3rd Grade"
+          - "4th Grade"
+          - "5th Grade"
+          - "6th Grade"
+          - "7th Grade"
+          - "8th Grade"
+        required: true
+      - id: 5
+        name: section_health_history
+        label: -- Health History --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: known_allergies
+        label: Known Allergies
+        hint: Include food, medication, and environmental allergies
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: chronic_conditions
+        Label: Chronic Health Conditions
+        hint: Asthma, diabetes, epilepsy, etc.
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: current_medications
+        label: Current Medications
+        hint: Include dosage and frequency
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_immunizations
+        label: -- Immunizations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: immunizations_current
+        label: Immunizations Are Current
+        hint: According to school requirements
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - In Progress
+        required: true
+      - id: 11
+        name: vaccination_exemption
+        Label: Requesting Vaccination Exemption
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes - Medical"
+          - "Yes - Religious"
+          - "Yes - Philosophical"
+        required: false
+      - id: 12
+        name: last_physical
+        label: Date of Last Physical Exam
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 13
+        name: section_physician
+        label: -- Physician Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: physician_name
+        label: Primary Care Physician Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: physician_phone
+        Label: Physician Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 16
+        name: section_parent_info
+        label: -- Parent/Guardian Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: parent_name
+        Label: Parent/Guardian Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: parent_phone
+        label: Parent Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 19
+        name: emergency_contact
+        label: Emergency Contact Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: emergency_phone
+        Label: Emergency Contact Phone
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 21
+        name: parent_signature_date
+        label: Declaration Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: accuracy_confirmation
+        Label: I Confirm This Information is Accurate and Complete
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

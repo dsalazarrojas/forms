@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Registration And Waiver Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 2
+      name: medical_concerns
+      label: medical_concerns_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: waiver_agreement
+      label: waiver_agreement_label
+      hint: null
+      type: select_one
+      options:
+      - option_0
+      - option_1
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_phone
+      label: emergency_phone_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_name
+      label: emergency_name_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_address
+      label: emergency_address_label
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 8
+      name: student_information
+      label: student_information_label
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 9
+      name: instructor_information
+      label: instructor_information_label
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 10
+      name: emergency_information
+      label: emergency_information_label
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 11
+      name: medical_history
+      label: medical_history_label
+      hint: null
+      type: select_one
+      options:
+      - option_0
+      - option_1
+      - option_2
+      required: false

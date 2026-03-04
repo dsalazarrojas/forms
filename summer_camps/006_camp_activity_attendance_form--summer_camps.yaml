@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Activity Attendance Form
+    pages:
+    - id: 1
+      name: camp_name
+      label: Camp Name
+      hint: Name of the camp program
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: activity_name
+      label: Activity Name
+      hint: Name of the specific activity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_date
+      label: Activity Date
+      hint: Date of the activity
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: counselor_name
+      label: Counselor Name
+      hint: Name of the supervising counselor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: Time of the activity session
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: activity_type
+      label: Activity Type
+      hint: Select the type of activity
+      type: select_one
+      options:
+      - Sports
+      - Arts and Crafts
+      - Swimming
+      - Nature Exploration
+      - Team Building
+      - Educational Workshop
+      - Free Play
+      - Field Trip
+      - Other
+      required: true
+    - id: 7
+      name: location
+      label: Activity Location
+      hint: Where is the activity taking place
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: camper_1_name
+      label: Camper 1 Name
+      hint: Full name of first camper
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: camper_1_attendance
+      label: Camper 1 Attendance Status
+      hint: Did this camper attend
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late Arrival
+      - Early Departure
+      required: true
+    - id: 10
+      name: camper_2_name
+      label: Camper 2 Name
+      hint: Full name of second camper
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: camper_2_attendance
+      label: Camper 2 Attendance Status
+      hint: Did this camper attend
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late Arrival
+      - Early Departure
+      required: false
+    - id: 12
+      name: camper_3_name
+      label: Camper 3 Name
+      hint: Full name of third camper
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: camper_3_attendance
+      label: Camper 3 Attendance Status
+      hint: Did this camper attend
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late Arrival
+      - Early Departure
+      required: false
+    - id: 14
+      name: total_present
+      label: Total Number Present
+      hint: Total count of campers present
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Select if outdoor activity
+      type: select_one
+      options:
+      - Sunny
+      - Cloudy
+      - Rainy
+      - Windy
+      - Indoor activity
+      - Not applicable
+      required: false
+    - id: 16
+      name: incidents_occurred
+      label: Were there any incidents during the activity
+      hint: Yes or no
+      type: select_one
+      options:
+      - No incidents
+      - Minor injury
+      - Behavioral issue
+      - Equipment problem
+      - Other
+      required: true
+    - id: 17
+      name: incident_details
+      label: Incident Details
+      hint: Describe any incidents if they occurred
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: activity_notes
+      label: Activity Notes
+      hint: Additional notes about the activity
+      type: text
+      options: []
+      required: false

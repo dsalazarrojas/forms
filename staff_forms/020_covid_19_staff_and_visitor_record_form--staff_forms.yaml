@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Staff And Visitor Record Form
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: entry_time
+      label: Entry Time
+      hint: Time of entry
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: exit_time
+      label: Exit Time
+      hint: Time of exit
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: person_type
+      label: Person Type
+      hint: Visitor or staff
+      type: select_one
+      options:
+      - Employee or staff
+      - Contractor or vendor
+      - Visitor
+      - Delivery person
+      - Patient or client
+      - Other
+      required: true
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_or_department
+      label: Company or Department
+      hint: Organization or dept
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Reason for coming
+      type: select_one
+      options:
+      - Business meeting
+      - Delivery or pickup
+      - Maintenance or repair
+      - Healthcare appointment
+      - Interview
+      - Training or education
+      - Social visit
+      - Other
+      required: true
+    - id: 15
+      name: purpose_details
+      label: Purpose Details
+      hint: More information
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_visited
+      label: Areas of Facility Visited
+      hint: Locations within building
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: people_met
+      label: Names of People Met
+      hint: Staff or others contacted
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Make, model, color, license plate
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: temperature
+      label: Temperature Reading
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: symptom_screening
+      label: Are you experiencing any COVID-19 symptoms
+      hint: Health screening
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste or smell
+      - Muscle aches
+      - Headache
+      - Fatigue
+      - None
+      required: false
+    - id: 22
+      name: recent_exposure
+      label: Have you been in close contact with a COVID-19 positive person in the
+        past 14 days
+      hint: Exposure screening
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 23
+      name: recent_travel
+      label: Have you traveled outside the area in the past 14 days
+      hint: Travel history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 24
+      name: mask_worn
+      label: Are you wearing a mask
+      hint: Mask compliance
+      type: select_one
+      options:
+      - true
+      - false
+      - Medical exemption
+      required: true
+    - id: 25
+      name: hand_sanitized
+      label: Did you sanitize your hands upon entry
+      hint: Hand hygiene
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: host_name
+      label: Host or Staff Member Name
+      hint: Person receiving visitor
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: contact_tracing_consent
+      label: I consent to my information being used for contact tracing purposes if
+        necessary
+      hint: Contact tracing agreement
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true

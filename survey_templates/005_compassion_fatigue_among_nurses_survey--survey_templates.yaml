@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Fatigue Among Nurses Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: -- Survey Introduction --
+      hint: this survey is confidential and intended for program improvement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nurse_name
+      label: nurse name
+      hint: optional leave blank for anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: clinical department
+      hint: select primary area
+      type: select_one
+      options:
+      - Emergency
+      - Intensive Care
+      - Pediatrics
+      - Medical Surgical
+      - Other
+      required: false
+    - id: 4
+      name: years_experience
+      label: years of nursing experience
+      hint: round to nearest year
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: compassion_fatigue_frequency
+      label: how often do you experience compassion fatigue
+      hint: select the option that best describes frequency
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 6
+      name: stress_level
+      label: current perceived stress level
+      hint: 1 is low and 10 is high
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: main_stressors
+      label: main stressors at work
+      hint: select up to three
+      type: select_multiple
+      options:
+      - Workload
+      - Emotional burden
+      - Staffing shortages
+      - Administrative tasks
+      - Lack of support
+      required: false
+    - id: 8
+      name: coping_strategies
+      label: coping strategies used
+      hint: brief description of what helps
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: access_to_support
+      label: do you have access to mental health support at work
+      hint: resources provided by employer
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 10
+      name: suggestions
+      label: suggestions for organizational support
+      hint: optional suggestions to improve wellbeing
+      type: text
+      options: []
+      required: false

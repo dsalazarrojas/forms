@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Golf Season Feedback Survey
+    pages:
+    - id: 1
+      name: staff_golf_season_survey
+      label: Staff Golf Season Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_organizer
+      label: Event Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: golf_season_rating
+      label: Golf Season Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

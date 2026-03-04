@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Family Communication Assessment Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Family Communication Assessment Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_level
+      label: "How would you describe your family member\u2019s communication level?"
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 3
+      name: emotional_support
+      label: Does your family member provide emotional support?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: conflict_level
+      label: Conflict Level
+      hint: How often do you get into arguments or conflicts with your family member?
+      type: select_one
+      options:
+      - '{''label'': ''0-1 time in a month''}'
+      - '{''label'': ''2-3 times in a month''}'
+      - '{''label'': ''4 or more times in a month''}'
+      required: false
+    - id: 5
+      name: communication_skills
+      label: Communication skills
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: family_dynamics
+      label: Family Dynamics
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cooperative''}'
+      - '{''label'': ''Competitive''}'
+      - '{''label'': ''Independent''}'
+      - '{''label'': ''Authoritative''}'
+      required: false
+    - id: 7
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Collaborative''}'
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Avoiding''}'
+      - '{''label'': ''Frustrating''}'
+      required: false
+    - id: 8
+      name: emotional_maturity
+      label: Emotional Maturity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: conflict_frequency
+      label: How often do you get into conflicts with your family member?
+      hint: How often do you get into conflicts with your family member?
+      type: select_one
+      options:
+      - '{''label'': ''0-1 time in a month''}'
+      - '{''label'': ''2-3 times in a month''}'
+      - '{''label'': ''4 or more times in a month''}'
+      required: false
+    - id: 10
+      name: family_participation
+      label: Family Participation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 11
+      name: support_measurement
+      label: Support Measurement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false

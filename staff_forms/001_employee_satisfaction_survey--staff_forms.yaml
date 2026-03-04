@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Satisfaction Survey
+    pages:
+    - id: 1
+      name: employee_satisfaction_survey
+      label: employee_satisfaction_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: Please provide contact details
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Marketing''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      - '{''id'': 3, ''label'': ''Support''}'
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title_2
+      label: job_title_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_hours_2
+      label: work_hours_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 9
+      name: manager_name_2
+      label: manager_name_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 10
+      name: work_hours_3
+      label: work_hours_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      required: false
+    - id: 11
+      name: department_2
+      label: department_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Marketing''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      - '{''id'': 3, ''label'': ''Support''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false

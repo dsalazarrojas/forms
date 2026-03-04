@@ -1,0 +1,246 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Motivation Research Consent Form
+    pages:
+      - id: 1
+        name: athlete_name
+        label: Athlete Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: athlete_id
+        label: Athlete ID Number
+        hint: Student or team identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM-DD-YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: sport
+        label: Sport
+        hint: Primary sport
+        type: select_one
+        options:
+          - Football
+          - Basketball
+          - Soccer
+          - Track and Field
+          - Swimming
+          - Volleyball
+          - Baseball
+          - Softball
+          - Tennis
+          - Other
+        required: true
+      - id: 5
+        name: team_level
+        label: Team Level
+        hint: Competition level
+        type: select_one
+        options:
+          - Varsity
+          - Junior Varsity
+          - Freshman
+          - Club Team
+        required: true
+      - id: 6
+        name: research_study_title
+        label: Research Study Title
+        hint: Name of the research study
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: principal_investigator
+        label: Principal Investigator
+        hint: Name of lead researcher
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: research_institution
+        label: Research Institution
+        hint: University or organization conducting research
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: research_purpose
+        label: Research Purpose
+        hint: What is the goal of this research
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: participation_activities
+        label: Participation Activities
+        hint: What will participation involve
+        type: select_multiple
+        options:
+          - Surveys
+          - Interviews
+          - Psychological Assessments
+          - Performance Testing
+          - Focus Groups
+          - Observation
+          - Video Analysis
+        required: true
+      - id: 11
+        name: time_commitment
+        label: Time Commitment
+        hint: Expected time required
+        type: select_one
+        options:
+          - Less Than 1 Hour Total
+          - 1 to 5 Hours Total
+          - 5 to 10 Hours Total
+          - Over 10 Hours
+          - Ongoing Participation
+        required: true
+      - id: 12
+        name: potential_risks
+        label: Potential Risks
+        hint: Are you aware of any potential risks
+        type: select_one
+        options:
+          - "Yes - Minimal Risk"
+          - "Yes - Some Risk"
+          - "No - No Known Risks"
+          - "I Need More Information"
+        required: true
+      - id: 13
+        name: potential_benefits
+        label: Potential Benefits
+        hint: What benefits might you gain
+        type: select_one
+        options:
+          - Better Understanding of Motivation
+          - Improved Performance Insights
+          - Contribution to Sports Science
+          - No Direct Benefits
+          - Other
+        required: true
+      - id: 14
+        name: confidentiality_understanding
+        label: Confidentiality Understanding
+        hint: Do you understand how your data will be protected
+        type: select_one
+        options:
+          - "Yes - Fully Understood"
+          - "Yes - Partially Understood"
+          - "No - Need More Information"
+        required: true
+      - id: 15
+        name: data_usage
+        label: Data Usage Consent
+        hint: How can your data be used
+        type: select_multiple
+        options:
+          - Research Analysis Only
+          - Publication in Academic Journals
+          - Presentation at Conferences
+          - Educational Purposes
+          - Future Related Research
+        required: true
+      - id: 16
+        name: voluntary_participation
+        label: Voluntary Participation Understanding
+        hint: Do you understand participation is voluntary
+        type: select_one
+        options:
+          - "Yes - I Understand"
+          - "No"
+        required: true
+      - id: 17
+        name: withdrawal_rights
+        label: Withdrawal Rights Understanding
+        hint: Do you understand you can withdraw at any time
+        type: select_one
+        options:
+          - "Yes - I Understand"
+          - "No"
+        required: true
+      - id: 18
+        name: compensation
+        label: Compensation
+        hint: Will you receive compensation
+        type: select_one
+        options:
+          - "Yes - Monetary Payment"
+          - "Yes - Course Credit"
+          - "Yes - Other"
+          - "No Compensation"
+        required: true
+      - id: 19
+        name: questions_contact
+        label: Questions Contact Information
+        hint: Do you have contact info for questions
+        type: select_one
+        options:
+          - "Yes - Received"
+          - "No - Need This Information"
+        required: true
+      - id: 20
+        name: motivation_factors
+        label: Primary Motivation Factors
+        hint: What motivates you most in sports
+        type: select_multiple
+        options:
+          - Winning
+          - Personal Improvement
+          - Team Camaraderie
+          - Competition
+          - Scholarships
+          - Professional Career
+          - Fitness and Health
+          - Fun and Enjoyment
+          - Recognition
+        required: true
+      - id: 21
+        name: parent_guardian_name
+        label: Parent or Guardian Name
+        hint: Required if athlete is under 18
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: athlete_signature
+        label: Athlete Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: parent_guardian_signature
+        label: Parent or Guardian Signature
+        hint: Type full name as signature if under 18
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: consent_date
+        label: Date of Consent
+        hint: Date this form is signed
+        type: date
+        options: []
+        required: true

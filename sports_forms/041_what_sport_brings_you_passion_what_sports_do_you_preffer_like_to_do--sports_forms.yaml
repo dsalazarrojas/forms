@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: What Sport Brings You Passion? What Sports Do You Preffer/ Like To Do
+    pages:
+    - id: 1
+      name: sports_preferences
+      label: what_sports_do_you_prefer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sports_preferences
+      label: passion
+      hint: null
+      type: select_multiple
+      options:
+      - Soccer
+      - Football
+      - Basketball
+      - Baseball
+      required: false
+    - id: 3
+      name: sports_preferred
+      label: which_sports_do_you_like_to_do
+      hint: null
+      type: select_one
+      options:
+      - Soccer
+      - Football
+      - Basketball
+      - Baseball
+      - Tennis
+      required: false
+    - id: 4
+      name: other_sport
+      label: other_sports
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: other_sport
+      label: other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

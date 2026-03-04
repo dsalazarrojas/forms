@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: snail_mailing_list_request
+    pages:
+    - id: 1
+      name: snail_mailing_list_request
+      label: snail_mailing_list_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one_1
+      label: interested_in
+      hint: null
+      type: select_one
+      options:
+      - snail
+      - postcard
+      - newsletter
+      - email_newsletter
+      - snail_email
+      - snail_and_postcard
+      - snail_and_newsletter
+      - snail_and_newsletter_and_postcard
+      - snail_email_and_postcard
+      - snail_and_email
+      - snail_and_newsletter_and_email
+      - snail_and_email_and_postcard
+      - snail_newsletter
+      - snail_and_postcard
+      required: false
+    - id: 6
+      name: snail_mail
+      label: how_often
+      hint: null
+      type: select_multiple
+      options:
+      - once_a_year
+      - twice_a_year
+      - three_to_four_times_a_year
+      - five_to_six_times_a_year
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 7
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

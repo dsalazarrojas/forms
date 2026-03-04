@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Horse Show Entry Form
+    pages:
+    - id: 1
+      name: horse_number
+      label: Horse Number
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: horse_name
+      label: Horse Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: breed
+      label: Breed
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height_in_inches
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight_in_pounds
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rider_name
+      label: Rider Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rider_experience
+      label: Rider Experience
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: competition_category
+      label: Competition Category
+      hint: 'null'
+      type: select_one
+      options:
+      - 'null'
+      - Hunter
+      - Jumpers
+      - Trail
+      - Barrel
+      required: true
+    - id: 10
+      name: competition_type
+      label: Competition Type
+      hint: 'null'
+      type: select_one
+      options:
+      - 'null'
+      - Show
+      - Hunter
+      - Jumpers
+      - Trail
+      - Barrel
+      required: true
+    - id: 11
+      name: entry_class
+      label: Class
+      hint: 'null'
+      type: select_one
+      options:
+      - 'null'
+      - Amateur
+      - Amateur-Owner
+      - Open
+      - Junior
+      required: true
+    - id: 12
+      name: competition_date
+      label: Competition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: show_start_time
+      label: Show Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: show_duration
+      label: Show Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: show_time
+      label: Show Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: video_url
+      label: Video URL
+      hint: null
+      type: text
+      options: []
+      required: false

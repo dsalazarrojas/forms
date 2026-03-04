@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canadian Financing Initiative Survey
+    pages:
+    - id: 1
+      name: applicant_info_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name of your entity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Type of Entity
+      hint: Legal structure of the organization
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: primary_industry
+      label: Primary Industry
+      hint: Choose the sector that best describes your work
+      type: select_one
+      options:
+      - Agriculture
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Finance
+      - Services
+      - Other
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Total gross revenue from the last fiscal year
+      type: select_one
+      options:
+      - Less than $500k
+      - $500k-$2M
+      - $2M-$10M
+      - Over $10M
+      required: true
+    - id: 6
+      name: province_operation
+      label: Province of Operation
+      hint: Where is the organization primarily based
+      type: select_one
+      options:
+      - Alberta
+      - BC
+      - Manitoba
+      - NB
+      - NL
+      - NS
+      - Ontario
+      - PEI
+      - Quebec
+      - Saskatchewan
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: Name of the individual representing the applicant
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: financing_needs_section
+      label: -- Financing Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: funding_purpose
+      label: Purpose of Funding
+      hint: What will the funds be used for
+      type: select_multiple
+      options:
+      - Expansion
+      - Equipment
+      - Working Capital
+      - R&D
+      - Debt Refinancing
+      - Other
+      required: true
+    - id: 11
+      name: funding_amount
+      label: Estimated Funding Required
+      hint: Amount in CAD
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: financial_challenges
+      label: Current Financial Challenges
+      hint: Briefly describe any barriers to growth
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_applications
+      label: Have you applied for other initiatives
+      hint: Includes other government or private grants/loans
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: evaluation_section
+      label: -- Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: job_creation
+      label: Anticipated Job Creation
+      hint: Estimated number of new roles created within 12 months
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: community_impact
+      label: Community Impact Description
+      hint: How will this funding benefit your local community
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_success_likelihood
+      label: Likelihood of project success without funding
+      hint: If this application is not successful, can the project proceed
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 18
+      name: preferred_financing
+      label: Preferred Financing Type
+      hint: Select your top choice for funding structure
+      type: select_one
+      options:
+      - Loan
+      - Grant
+      - Equity
+      - Hybrid
+      required: true
+    - id: 19
+      name: upload_consent
+      label: Document Upload Consent
+      hint: Do you agree to provide full financial records upon request
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

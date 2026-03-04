@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Futsal League Team Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_email
+      label: team_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: team_contact_person_name
+      label: Team Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_city
+      label: Team City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_province
+      label: Team Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_postal_code
+      label: Team Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_website
+      label: Team Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_social_media
+      label: Team Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: league_event_id
+      label: League Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_players
+      label: Number of Players
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_teams
+      label: Number of Teams
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

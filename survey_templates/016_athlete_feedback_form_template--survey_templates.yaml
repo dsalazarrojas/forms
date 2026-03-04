@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Feedback Form Template
+    pages:
+      - id: 1
+        name: personal_details_header
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_name
+        label: Athlete Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: guardian_name
+        label: Parent or Guardian Name
+        hint: If applicable (for athletes under 18)
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: program_enrolled
+        label: Program or Class Name
+        hint: e.g. Elite Performance, Youth Soccer Skills
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: enrollment_duration
+        label: How long have you been with our program?
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 to 12 months
+          - 1 to 2 years
+          - More than 2 years
+        required: true
+      - id: 6
+        name: training_experience_header
+        label: -- Training and Development Experience --
+        hint: 1 is Poor, 5 is Excellent
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: coaching_quality
+        label: Quality of Coaching and Instruction
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Very Good
+          - 5 - Exceptional
+        required: true
+      - id: 8
+        name: training_intensity
+        label: Training Intensity Level
+        hint: How do you find the physical workload?
+        type: select_one
+        options:
+          - Too Low
+          - Moderately Low
+          - Just Right
+          - Moderately High
+          - Too High
+        required: true
+      - id: 9
+        name: progress_rating
+        label: Progress Towards Your Athletic Goals
+        hint: null
+        type: select_one
+        options:
+          - 1 - No Progress
+          - 2 - Slow Progress
+          - 3 - Moderate Progress
+          - 4 - Significant Progress
+          - 5 - Exceeded Goals
+        required: true
+      - id: 10
+        name: engagement_rating
+        label: Engagement and Fun Level
+        hint: null
+        type: select_one
+        options:
+          - 1 - Not Engaged
+          - 2 - Slightly Engaged
+          - 3 - Engaged
+          - 4 - Very Engaged
+          - 5 - Highly Motivated
+        required: true
+      - id: 11
+        name: environment_header
+        label: -- Facility and Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: equipment_rating
+        label: Availability and Quality of Equipment
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 13
+        name: schedule_rating
+        label: Schedule Flexibility and Consistency
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 14
+        name: communication_rating
+        label: Effectiveness of Staff Communication
+        hint: Emails, updates, feedback, etc.
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 15
+        name: satisfaction_header
+        label: -- Overall Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: net_promoter_score
+        label: How likely are you to recommend our program to others?
+        hint: 0 is Not at all likely, 10 is Extremely likely
+        type: select_one
+        options:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 17
+        name: positive_feedback
+        label: What do you enjoy most about our program?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvement_suggestion
+        label: What is one thing we could do better to improve your experience?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: follow_up_interest
+        label: Would you like to be contacted to discuss your feedback?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: contact_method
+        label: Preferred Contact Method
+        hint: Required if you selected Yes above
+        type: select_one
+        options:
+          - Email
+          - Phone Call
+          - In-person Meeting
+        required: false
+      - id: 21
+        name: submission_date
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true

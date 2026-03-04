@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: United States Marine Corps Officer Screening Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: screening_officer
+      label: screening_officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: screening_officer_phone
+      label: screening_officer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_clearance
+      label: security_clearance
+      hint: null
+      type: select_one
+      options:
+      - Clearance Level
+      - Secret
+      - Top Secret
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: true
+    - id: 12
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: military_experience
+      label: military_experience
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - 1-5 years
+      - 6-10 years
+      - 11-15 years
+      - 16-20 years
+      - 21-25 years
+      - More than 25 years
+      required: true
+    - id: 14
+      name: highest_degree
+      label: highest_degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: highest_degree_field_of_study
+      label: field_of_study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Other (Please specify in the notes section)
+      required: true
+    - id: 17
+      name: notes
+      label: additional_information
+      hint: Please provide any additional information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: military_branch
+      label: branch
+      hint: null
+      type: select_one
+      options:
+      - Marines
+      - Army
+      - Navy
+      required: true
+    - id: 19
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_details
+      label: medical_condition_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_provider_name
+      label: medical_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_provider_phone
+      label: medical_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_clearance
+      label: medical_clearance
+      hint: null
+      type: select_one
+      options:
+      - No medical clearance
+      - Medical clearance
+      required: true

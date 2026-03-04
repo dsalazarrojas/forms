@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Product Reservation Form Template
+    pages:
+    - id: 1
+      name: reservation_header
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for reservation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_sku
+      label: Product SKU
+      hint: Internal stock keeping unit
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_name
+      label: Product name
+      hint: Name of reserved product
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity to reserve
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pickup_date
+      label: Preferred pickup date
+      hint: Date for customer pickup
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: store_branch
+      label: Store branch for pickup
+      hint: Choose pickup location
+      type: select_one
+      options:
+      - Central warehouse
+      - Downtown branch
+      - Mall branch
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: Any notes for fulfillment
+      type: text
+      options: []
+      required: false

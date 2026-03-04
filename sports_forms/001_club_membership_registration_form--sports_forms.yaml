@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Membership Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will use this for club communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number for you
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: Choose the membership level that suits you
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Family
+      required: true
+    - id: 9
+      name: start_date
+      label: Preferred Start Date
+      hint: When would you like your membership to begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: Select how you will pay membership fees
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Direct Debit
+      required: true
+    - id: 11
+      name: section_activities
+      label: -- Activities of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sports_interests
+      label: Which sports are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Basketball
+      - Tennis
+      - Swimming
+      - Volleyball
+      - Fitness
+      - Badminton
+      required: true
+    - id: 13
+      name: experience_level
+      label: Experience Level
+      hint: What is your skill level in these sports
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Competitive
+      required: true
+    - id: 14
+      name: section_health
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Do you have any medical conditions we should know about
+      hint: This helps us provide better support
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: waiver_acceptance
+      label: I accept the club liability waiver and terms of service
+      hint: You must accept to complete registration
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 19
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: how_heard_about_us
+      label: How did you hear about our club
+      hint: null
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Internet Search
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Any additional comments or questions
+      hint: Tell us anything else you would like us to know
+      type: text
+      options: []
+      required: false

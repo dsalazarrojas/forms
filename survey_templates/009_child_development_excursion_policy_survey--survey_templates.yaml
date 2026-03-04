@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Development Excursion Policy Survey
+    pages:
+    - id: 1
+      name: section_parent_child
+      label: -- Parent and Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Full Name
+      hint: Name of person completing survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Full Name
+      hint: Student name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_policy_review
+      label: -- Policy Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: policy_read
+      label: Have you read the Excursion Policy?
+      hint: Available in the handbook
+      type: select_one
+      options:
+      - label: Yes - Read and Understood
+        value: true
+      - label: No - Need a Copy
+        value: false
+      required: true
+    - id: 6
+      name: safety_protocols
+      label: Do you understand the safety protocols?
+      hint: Includes staff ratios and risk assessment
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 7
+      name: section_consent
+      label: -- Consent Section --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: excursion_types
+      label: I consent to my child participating in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Walking excursions in local area
+        value: walking
+      - label: Bus excursions to regional sites
+        value: bus
+      - label: Visits to local parks
+        value: park
+      - label: Library and community visits
+        value: community
+      required: true
+    - id: 9
+      name: section_emergency
+      label: -- Emergency Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_phone
+      label: Emergency Contact Number
+      hint: Reachable during excursion hours
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_needs
+      label: Specific medical needs for excursions
+      hint: e.g., inhaler, epipen, sun sensitivity
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: today_date
+      label: Today Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

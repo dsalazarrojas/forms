@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_video_reflection_survey
+    pages:
+    - id: 1
+      name: intro
+      label: weekly_video_reflection_survey_intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: video_url
+      label: enter_video_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: takeaways
+      label: weekly_takeaways
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question
+      label: weekly_question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: action_steps
+      label: weekly_action_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: engagement
+      label: weekly_engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress
+      label: weekly_progress
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: weekly_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Survey Templates
+      - Feedback Surveys
+      - Education Surveys
+      required: true
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

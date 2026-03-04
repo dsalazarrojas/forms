@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Gaming Subscription Pricing Inquiry
+    pages:
+    - id: 1
+      name: family_preferences
+      label: family_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget_details
+      label: budget_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age_range
+      label: family_members_age_range
+      hint: null
+      type: select_one
+      options:
+      - 0-5
+      - 6-12
+      - 13-17
+      - 18+
+      required: true
+    - id: 4
+      name: gaming_preferences
+      label: what_games_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Fortnite
+      - Roblox
+      - Minecraft
+      - Other
+      required: true
+    - id: 5
+      name: budget
+      label: what_is_your_budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Call/Text
+      - Email
+      - Mail
+      required: true
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: select_multiple
+      options:
+      - Nintendo
+      - Sony
+      - Microsoft
+      required: true
+    - id: 9
+      name: other_info
+      label: other_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Save and Submit
+      - Cancel
+      required: true

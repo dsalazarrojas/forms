@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Attendance Form
+    pages:
+    - id: 1
+      name: daycareserviceprovider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: child_name
+      label: Childs Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_service
+      label: Time Of Service
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: number_of_children
+      label: Number Of Children
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: daycare_name
+      label: Daycare Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: daycare_license
+      label: Daycare License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

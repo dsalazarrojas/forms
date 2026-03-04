@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classic Literature Reading Checklist
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Book Club or Organization
+      hint: Name of the book club or library
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participation_period
+      label: Reporting Period
+      hint: Month and year for this reading report
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_classics
+      label: -- Classic Literature Titles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: jane_eyre
+      label: Jane Eyre - Charlotte Bronte
+      hint: Have you read this book?
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Started
+      - Not Started
+      required: false
+    - id: 6
+      name: pride_prejudice
+      label: Pride and Prejudice - Jane Austen
+      hint: Have you read this book?
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Started
+      - Not Started
+      required: false
+    - id: 7
+      name: wuthering_heights
+      label: Wuthering Heights - Emily Bronte
+      hint: Have you read this book?
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Started
+      - Not Started
+      required: false
+    - id: 8
+      name: great_expectations
+      label: Great Expectations - Charles Dickens
+      hint: Have you read this book?
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Started
+      - Not Started
+      required: false
+    - id: 9
+      name: moby_dick
+      label: Moby Dick - Herman Melville
+      hint: Have you read this book?
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Started
+      - Not Started
+      required: false
+    - id: 10
+      name: jane_eyre_rating
+      label: Jane Eyre - Rating and Reflection
+      hint: Please rate and share your thoughts if read
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pride_prejudice_rating
+      label: Pride and Prejudice - Rating and Reflection
+      hint: Please rate and share your thoughts if read
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_additional
+      label: -- Additional Reading --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: other_classics_read
+      label: Other Classic Books Read This Period
+      hint: Any additional classic literature you have read
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: total_books_read
+      label: Total Books Read This Period
+      hint: Number of classic literature books completed
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_header_preferences
+      label: -- Reading Preferences and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: favorite_genre
+      label: Favorite Classic Literature Genre
+      hint: What type of classics do you prefer?
+      type: select_one
+      options:
+      - Romance
+      - Mystery
+      - Gothic
+      - Historical Fiction
+      - Adventure
+      - Literary Fiction
+      - Science Fiction
+      required: false
+    - id: 17
+      name: reading_difficulty
+      label: How would you rate the difficulty of these classics?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Challenging
+      - Very Challenging
+      required: false
+    - id: 18
+      name: reading_frequency
+      label: How often do you read classic literature?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times Per Week
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      required: false
+    - id: 19
+      name: discussion_interest
+      label: Are you interested in group discussions about these books?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Share any feedback about the reading program
+      type: text
+      options: []
+      required: false

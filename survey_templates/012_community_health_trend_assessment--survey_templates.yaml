@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Trend Assessment
+    pages:
+      - id: 1
+        name: respondent_zip
+        label: Residential Zip Code
+        hint: To track trends by neighborhood
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: primary_health_concern
+        label: Primary Health Concern in Your Neighborhood
+        hint: What is the most pressing issue?
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: activity_frequency
+        label: Frequency of Physical Activity
+        hint: Walking, sports, gym, etc.
+        type: select_one
+        options:
+          - Daily
+          - 3-5 times a week
+          - Weekly
+          - Monthly
+          - Rarely or Never
+        required: true
+      - id: 4
+        name: food_access
+        label: Access to Healthy and Affordable Food
+        hint: Fresh produce, grocery stores
+        type: select_one
+        options:
+          - Easy Access
+          - Somewhat Difficult
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 5
+        name: public_resource_use
+        label: Use of Public Parks or Community Gyms
+        hint: null
+        type: select_one
+        options:
+          - Regularly
+          - Sometimes
+          - Never
+        required: true
+      - id: 6
+        name: service_awareness
+        label: Awareness of Local Public Health Services
+        hint: Clinics, screening events, health fairs
+        type: select_one
+        options:
+          - Very Aware
+          - Somewhat Aware
+          - Not Aware at All
+        required: true
+      - id: 7
+        name: healthcare_barriers
+        label: Barriers to Accessing Healthcare
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - High Cost
+          - Lack of Transportation
+          - Long Wait Times
+          - Language Barriers
+          - No Health Insurance
+          - Lack of Childcare
+        required: false
+      - id: 8
+        name: household_illness
+        label: Recent Illness in Your Household (Last 3 months)
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Flu or Cold
+          - Chronic Condition Flare-up
+          - Injury
+          - Mental Health Concerns
+          - COVID-19
+          - None
+        required: false
+      - id: 9
+        name: environmental_concerns
+        label: Environmental Concerns Affecting Health
+        hint: null
+        type: select_multiple
+        options:
+          - Poor Air Quality
+          - Water Quality Issues
+          - Noise Pollution
+          - Sanitation and Trash
+          - Neighborhood Safety
+        required: false
+      - id: 10
+        name: health_improvement_suggestion
+        label: One suggestion to improve community health
+        hint: null
+        type: text
+        options: []
+        required: false

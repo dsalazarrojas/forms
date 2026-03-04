@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Onsite Audit Report Form
+    pages:
+    - id: 1
+      name: supplier_onsite_audit_form
+      label: supplier onsite audit form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: visit_start_time
+      label: visit start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: visit_end_time
+      label: visit end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: rating_1
+      label: rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_2
+      label: rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: visit_type
+      label: visit type
+      hint: null
+      type: select_one
+      options:
+      - Onsite Audit
+      - Other
+      required: false
+    - id: 8
+      name: visit_location
+      label: visit location
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Warehousing
+      - Offices
+      required: false
+    - id: 9
+      name: findings
+      label: findings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating_3
+      label: rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_4
+      label: rating 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_5
+      label: rating 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rating_6
+      label: rating 6
+      hint: null
+      type: number
+      options: []
+      required: false

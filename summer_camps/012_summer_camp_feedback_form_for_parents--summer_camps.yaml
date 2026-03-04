@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Feedback Form For Parents
+    pages:
+    - id: 1
+      name: form_data
+      label: Summer Camp Feedback Form For Parents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: summer_camps
+      hint: null
+      type: select_multiple
+      options:
+      - Camp One
+      - Camp Two
+      - Camp Three
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: Would you like to make sure your campers have a good time on your camp?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: camper_id
+      label: camper_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parent_id
+      label: parent_id
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Transfer Request Form
+    pages:
+    - id: 1
+      name: wholesale_transfer_request_form_1
+      label: Supply Order Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: transfer_request_1
+      label: request form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: collection_location_1
+      label: from location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collection_location_1
+      label: to location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transfer_date_1
+      label: transfer date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: transfer_time_1
+      label: transfer time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: quantity_1
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes_1
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to_1
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_by_1
+      label: assigned by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

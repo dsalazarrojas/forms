@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Knowledge Assessment
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Full name of the student
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: grade_level
+        label: Grade Level
+        hint: Current grade or year level
+        type: select_one
+        options:
+          - Kindergarten
+          - Grade 1
+          - Grade 2
+          - Grade 3
+          - Grade 4
+          - Grade 5
+          - Grade 6
+          - Grade 7
+          - Grade 8
+          - Grade 9
+          - Grade 10
+          - Grade 11
+          - Grade 12
+        required: true
+      - id: 3
+        name: subject_area
+        label: Subject Area
+        hint: Which subject is this assessment for
+        type: select_one
+        options:
+          - Mathematics
+          - Science
+          - English Language Arts
+          - Social Studies
+          - Foreign Language
+          - Arts
+          - Physical Education
+          - Other
+        required: true
+      - id: 4
+        name: lesson_topic
+        label: Lesson Topic
+        hint: Specific topic or unit covered
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: teacher_name
+        label: Teacher Name
+        hint: Name of the instructor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: understanding_rating
+        label: Overall Understanding Rating
+        hint: How well do you understand the material
+        type: select_one
+        options:
+          - Excellent - I understand everything
+          - Good - I understand most concepts
+          - Fair - I understand some concepts
+          - Poor - I need significant help
+        required: true
+      - id: 8
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident are you in applying what you learned
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Neutral
+          - Somewhat Unconfident
+          - Very Unconfident
+        required: true
+      - id: 9
+        name: key_concepts_learned
+        label: Key Concepts Learned
+        hint: List the main concepts you learned
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: challenging_areas
+        label: Challenging Areas
+        hint: Which areas did you find most difficult
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: study_time
+        label: Study Time Outside Class
+        hint: How many hours per week do you study this subject
+        type: select_one
+        options:
+          - Less than 1 hour
+          - 1-2 hours
+          - 3-5 hours
+          - 6-10 hours
+          - More than 10 hours
+        required: false
+      - id: 12
+        name: learning_style_preference
+        label: Learning Style Preference
+        hint: How do you learn best
+        type: select_multiple
+        options:
+          - Visual aids and diagrams
+          - Hands-on activities
+          - Group discussions
+          - Reading textbooks
+          - Video tutorials
+          - Practice problems
+          - Lectures
+        required: false
+      - id: 13
+        name: additional_support_needed
+        label: Additional Support Needed
+        hint: Do you need extra help in any area
+        type: select_one
+        options:
+          - No - I am doing well
+          - Yes - Tutoring sessions
+          - Yes - Additional practice materials
+          - Yes - One-on-one teacher help
+          - Yes - Study group
+        required: true
+      - id: 14
+        name: student_comments
+        label: Student Comments
+        hint: Any additional comments or questions
+        type: text
+        options: []
+        required: false

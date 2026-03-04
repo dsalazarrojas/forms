@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Honors Program Assessment
+    pages:
+    - id: 1
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: honors_experience
+      label: Honors Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact_evaluation
+      label: Impact Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Absenteeism Form
+    pages:
+    - id: 1
+      name: employee_absenteeism_form_page_1
+      label: Employee Absenteeism Form Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_absenteeism_form_page_2
+      label: Employee Absenteeism Form Page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_absenteeism_form_page_3
+      label: Employee Absenteeism Form Page 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Medical Reasons'', ''label'': ''Medical Reasons''}'
+      - '{''id'': 2, ''name'': ''Personal Reasons'', ''label'': ''Personal Reasons''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: number_of_absences
+      label: Number of Absences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: duration_of_absence
+      label: Duration of Absence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

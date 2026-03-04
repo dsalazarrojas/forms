@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Playground Design Voting Form
+    pages:
+    - id: 1
+      name: voter_info
+      label: Voter Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Must be in community
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: playground_info
+      label: Playground Information
+      hint: Which playground
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: playground_name
+      label: Playground Name or Location
+      hint: null
+      type: select_one
+      options:
+      - Central Park Playground
+      - Riverside Playground
+      - Memorial Playground
+      - Oak Street Playground
+      - Community Center Playground
+      - Other
+      required: true
+    - id: 12
+      name: design_preferences
+      label: Design Preferences
+      hint: Vote for your favorites
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_theme
+      label: Preferred Theme
+      hint: null
+      type: select_one
+      options:
+      - Nature and Wildlife
+      - Space and Astronomy
+      - Castle and Medieval
+      - Nautical and Ships
+      - Sports and Recreation
+      - Traditional
+      - Modern and Abstract
+      required: true
+    - id: 14
+      name: age_group_focus
+      label: Primary Age Group Focus
+      hint: null
+      type: select_one
+      options:
+      - Toddlers (2-5)
+      - Children (6-12)
+      - Teens (13-17)
+      - All Ages
+      required: true
+    - id: 15
+      name: equipment_votes
+      label: Equipment Preferences
+      hint: Select up to 5
+      type: select_multiple
+      options:
+      - Swings
+      - Slides
+      - Climbing Structures
+      - Monkey Bars
+      - Seesaws
+      - Merry-Go-Round
+      - Spring Riders
+      - Balance Beams
+      - Sand Play Area
+      - Water Play Features
+      required: true
+    - id: 16
+      name: surface_material
+      label: Preferred Surface Material
+      hint: null
+      type: select_one
+      options:
+      - Rubber Mulch
+      - Poured-in-Place Rubber
+      - Engineered Wood Fiber
+      - Artificial Turf
+      - Sand
+      - No Preference
+      required: true
+    - id: 17
+      name: accessibility
+      label: Accessibility Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair Accessible Ramps
+      - Adaptive Swings
+      - Transfer Platforms
+      - Accessible Ground Play
+      - Sensory Play Elements
+      - Accessible Parking
+      - Accessible Restrooms
+      required: true
+    - id: 18
+      name: shade_preference
+      label: Shade Structures
+      hint: null
+      type: select_one
+      options:
+      - Large Shade Canopy
+      - Multiple Small Shades
+      - Natural Tree Shade
+      - No Preference
+      required: true
+    - id: 19
+      name: seating
+      label: Seating Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Benches
+      - Picnic Tables
+      - Shade Seating
+      - Play Seating
+      - Bleachers
+      required: false
+    - id: 20
+      name: additional_features
+      label: Additional Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fitness Equipment
+      - Basketball Court
+      - Soccer Field
+      - Walking Path
+      - Bike Racks
+      - Water Fountain
+      - Restroom Facilities
+      - Lighting
+      - Fencing
+      - Art Installations
+      required: false
+    - id: 21
+      name: budget_priority
+      label: Budget Priority
+      hint: What matters most
+      type: select_one
+      options:
+      - Safety Features
+      - Variety of Equipment
+      - Aesthetic Design
+      - Durability
+      - Accessibility
+      required: true
+    - id: 22
+      name: maintenance
+      label: Maintenance Priority
+      hint: null
+      type: select_one
+      options:
+      - Low Maintenance
+      - Moderate Maintenance Acceptable
+      - High Quality Worth Maintenance
+      required: true
+    - id: 23
+      name: timeline
+      label: Preferred Completion Timeline
+      hint: null
+      type: select_one
+      options:
+      - As Soon As Possible
+      - Within 6 Months
+      - Within 1 Year
+      - Quality Over Speed
+      required: true
+    - id: 24
+      name: volunteer_interest
+      label: Would You Like to Volunteer
+      hint: Help with the project
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 25
+      name: fundraising_interest
+      label: Would You Like to Help with Fundraising
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Share your ideas
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Build Your Own Training Manual Form
+    pages:
+      - id: 1
+        name: manual_info
+        label: -- Training Manual Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: manual_title
+        label: Training manual title
+        hint: Name for your custom manual
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: manual_description
+        label: Manual description
+        hint: Brief overview of the manual purpose
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department or team
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: created_by
+        label: Created by
+        hint: Your name or training team
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: version_number
+        label: Version number
+        hint: Example - 1.0, 2.1
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: target_audience
+        label: -- Target Audience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: audience_type
+        label: Target audience for this manual
+        hint: null
+        type: select_multiple
+        options:
+          - New employees
+          - Existing staff
+          - Managers
+          - Contractors
+          - Customers
+          - All staff
+        required: true
+      - id: 9
+        name: required_reading
+        label: Is this manual required reading?
+        hint: null
+        type: select_one
+        options:
+          - Yes, mandatory
+          - Yes, recommended
+          - No, optional
+        required: false
+      - id: 10
+        name: training_topics
+        label: -- Training Topics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: selected_topics
+        label: Select topics to include
+        hint: null
+        type: select_multiple
+        options:
+          - Company policies
+          - Safety procedures
+          - Equipment operation
+          - Customer service
+          - IT systems
+          - Emergency protocols
+          - Compliance requirements
+          - Role-specific tasks
+          - Communication standards
+          - Time tracking
+        required: true
+      - id: 12
+        name: additional_topics
+        label: Additional custom topics
+        hint: List any other topics to cover
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: manual_structure
+        label: -- Manual Structure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: table_of_contents
+        label: Include table of contents?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 15
+        name: index_included
+        label: Include index?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: glossary_included
+        label: Include glossary of terms?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 17
+        name: formatting_preferences
+        label: -- Formatting and Design --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: manual_format
+        label: Manual format
+        hint: null
+        type: select_one
+        options:
+          - PDF
+          - HTML
+          - Digital interactive
+          - Printed booklet
+        required: true
+      - id: 19
+        name: color_scheme
+        label: Preferred color scheme
+        hint: null
+        type: select_one
+        options:
+          - Black and white
+          - Brand colors
+          - Professional blue
+          - Custom
+        required: false
+      - id: 20
+        name: include_images
+        label: Include images and diagrams?
+        hint: null
+        type: select_one
+        options:
+          - Yes, many
+          - Yes, some
+          - Minimal
+          - No
+        required: false
+      - id: 21
+        name: deadline
+        label: -- Delivery Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: completion_date
+        label: Needed by date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: review_needed
+        label: Will this manual require review and approval?
+        hint: null
+        type: select_one
+        options:
+          - Yes, by manager
+          - Yes, by compliance
+          - Yes, by legal
+          - No
+        required: false
+      - id: 24
+        name: distribution_method
+        label: How should this manual be distributed?
+        hint: null
+        type: select_multiple
+        options:
+          - Email to staff
+          - Online portal
+          - Printed copies
+          - Intranet
+          - Training sessions
+        required: false

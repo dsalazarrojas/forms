@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant POS System Refill Order Form
+    pages:
+    - id: 1
+      name: supply_order_form
+      label: Supply Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Restaurant A''}'
+      - '{''name'': ''Restaurant B''}'
+      - '{''name'': ''Restaurant C''}'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Confirmed''}'
+      - '{''name'': ''Cancelled''}'
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''Bank Transfer''}'
+      - '{''name'': ''Cash''}'
+      required: false
+    - id: 15
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false

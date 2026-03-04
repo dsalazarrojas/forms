@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Campaign Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_email
+      label: Email Address
+      hint: We will send campaign updates to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Education
+      - Manufacturing
+      - Other
+      required: false
+    - id: 7
+      name: campaign_interests
+      label: Which campaigns are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media Advertising
+      - Email Marketing
+      - Search Engine Marketing
+      - Display Advertising
+      - Video Advertising
+      - Influencer Marketing
+      required: true
+    - id: 8
+      name: campaign_budget
+      label: Estimated Monthly Marketing Budget
+      hint: null
+      type: select_one
+      options:
+      - Less than $1000
+      - $1000 - $5000
+      - $5000 - $10000
+      - $10000 - $25000
+      - $25000 - $50000
+      - More than $50000
+      required: false
+    - id: 9
+      name: target_audience
+      label: Primary Target Audience
+      hint: Who do you want to reach with your ads
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_goals
+      label: Primary Marketing Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Brand Awareness
+      - Lead Generation
+      - Sales Conversion
+      - Website Traffic
+      - Customer Retention
+      required: true
+    - id: 11
+      name: preferred_platforms
+      label: Preferred Advertising Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook and Instagram
+      - Google Ads
+      - LinkedIn
+      - TikTok
+      - Twitter
+      - YouTube
+      required: false
+    - id: 12
+      name: campaign_frequency
+      label: How often would you like campaign communications?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 13
+      name: experience_level
+      label: Your advertising experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 14
+      name: current_campaigns
+      label: Are you currently running any ad campaigns?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: previous_results
+      label: Previous campaign performance
+      hint: Describe results you have seen with past campaigns
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: how_heard
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Search engine
+      - Social media
+      - Referral
+      - Industry publication
+      - Webinar or event
+      - Other
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional information or questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 19
+      name: newsletter_opt_in
+      label: Subscribe to our marketing newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

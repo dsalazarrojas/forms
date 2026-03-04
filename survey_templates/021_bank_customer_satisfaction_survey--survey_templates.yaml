@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Customer Satisfaction Survey
+    pages:
+    - id: 1
+      name: demographics_header
+      label: -- Customer Demographics --
+      hint: This information remains confidential
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 3
+      name: primary_account_holder
+      label: Are you the primary account holder?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 4
+      name: products_used_header
+      label: -- Banking Products Used --
+      hint: Select all products you currently have with us
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: accounts_held
+      label: Current Accounts and Services
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Checking
+      - Savings / CD
+      - Credit Card
+      - Home Mortgage
+      - Personal Loan
+      - Auto Loan
+      - Investment Services
+      required: true
+    - id: 6
+      name: experience_header
+      label: -- Service Experience Ratings --
+      hint: Please rate your level of satisfaction
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: online_banking_rating
+      label: Online / Desktop Banking Portal
+      hint: Ease of navigation and features
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 8
+      name: mobile_banking_rating
+      label: Mobile App Functionality
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 9
+      name: branch_experience_rating
+      label: Overall Branch Experience
+      hint: Cleanliness, wait times, staff
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: communication_clarity
+      label: Clarity of Communication (Statements, Notifications)
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: brand_perception_header
+      label: -- Brand Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: trustworthy_rating
+      label: Do you consider our bank to be trustworthy?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: innovative_rating
+      label: How innovative do you find our services compared to competitors?
+      hint: null
+      type: select_one
+      options:
+      - Behind the Market
+      - Average
+      - Leading the Market
+      required: true
+    - id: 14
+      name: likelihood_to_stay
+      label: How likely are you to continue banking with us for the next 2 years?
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 15
+      name: competitor_consideration
+      label: Have you considered switching to another bank recently?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: key_improvement_area
+      label: Which area needs the MOST improvement?
+      hint: null
+      type: select_one
+      options:
+      - Lowering Fees
+      - Higher Interest Rates on Savings
+      - Better Mobile App Features
+      - More Branch Locations
+      - Improved Customer Support Wait Times
+      - Faster Loan Processing
+      required: true
+    - id: 17
+      name: open_ended_feedback
+      label: Is there anything else you would like to share about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: nps_score
+      label: Net Promoter Score
+      hint: How likely are you to recommend us to friends or family? (0-10)
+      type: number
+      options: []
+      required: true

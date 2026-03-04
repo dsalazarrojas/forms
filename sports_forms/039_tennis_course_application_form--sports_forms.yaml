@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Course Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_selection
+      label: Select Tennis Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: class_schedule
+      label: Schedule Your Class
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: practice_frequency
+      label: Practice Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tennis_facility
+      label: Tennis Facility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: class_level
+      label: Class Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: practice_duration
+      label: Practice Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: practice_frequency_2
+      label: Practice Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

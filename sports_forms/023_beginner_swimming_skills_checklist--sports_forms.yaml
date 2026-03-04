@@ -1,0 +1,328 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beginner Swimming Skills Checklist
+    pages:
+    - id: 1
+      name: swimmer_name
+      label: Swimmer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: swimmer_age
+      label: Swimmer Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: swimmer_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of assessing instructor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: water_comfort
+      label: Water Comfort Level
+      hint: How comfortable is swimmer in water
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Somewhat Comfortable
+      - Nervous
+      - Very Anxious
+      required: true
+    - id: 10
+      name: enters_water
+      label: Enters Water Independently
+      hint: Can enter water without assistance
+      type: select_one
+      options:
+      - Yes confidently
+      - Yes with hesitation
+      - With assistance
+      - No unable
+      - Not assessed
+      required: true
+    - id: 11
+      name: submerges_head
+      label: Submerges Head Underwater
+      hint: Can put head completely underwater
+      type: select_one
+      options:
+      - Yes confidently
+      - Yes with hesitation
+      - Chin only
+      - No unable
+      - Not assessed
+      required: true
+    - id: 12
+      name: blows_bubbles
+      label: Blows Bubbles in Water
+      hint: Can blow bubbles with mouth and nose
+      type: select_one
+      options:
+      - Yes consistently
+      - Yes occasionally
+      - Attempted but difficult
+      - No unable
+      - Not assessed
+      required: true
+    - id: 13
+      name: opens_eyes_underwater
+      label: Opens Eyes Underwater
+      hint: Can open eyes while submerged
+      type: select_one
+      options:
+      - Yes comfortably
+      - Yes with goggles
+      - Hesitant
+      - No unable
+      - Not assessed
+      required: true
+    - id: 14
+      name: front_float
+      label: Front Float
+      hint: Can float on front independently
+      type: select_one
+      options:
+      - Yes 10 seconds or more
+      - Yes 5-9 seconds
+      - With assistance
+      - No unable
+      - Not assessed
+      required: true
+    - id: 15
+      name: back_float
+      label: Back Float
+      hint: Can float on back independently
+      type: select_one
+      options:
+      - Yes 10 seconds or more
+      - Yes 5-9 seconds
+      - With assistance
+      - No unable
+      - Not assessed
+      required: true
+    - id: 16
+      name: glides_on_front
+      label: Glides on Front
+      hint: Can glide in streamlined position
+      type: select_one
+      options:
+      - Yes 5 feet or more
+      - Yes 3-4 feet
+      - Yes 1-2 feet
+      - No unable
+      - Not assessed
+      required: true
+    - id: 17
+      name: glides_on_back
+      label: Glides on Back
+      hint: Can glide on back in streamlined position
+      type: select_one
+      options:
+      - Yes 5 feet or more
+      - Yes 3-4 feet
+      - Yes 1-2 feet
+      - No unable
+      - Not assessed
+      required: true
+    - id: 18
+      name: kicks_on_front
+      label: Kicking on Front
+      hint: Can perform flutter kick
+      type: select_one
+      options:
+      - Yes proper form 10 feet
+      - Yes some form 5-9 feet
+      - Attempted minimal distance
+      - No unable
+      - Not assessed
+      required: true
+    - id: 19
+      name: kicks_on_back
+      label: Kicking on Back
+      hint: Can perform back kick
+      type: select_one
+      options:
+      - Yes proper form 10 feet
+      - Yes some form 5-9 feet
+      - Attempted minimal distance
+      - No unable
+      - Not assessed
+      required: true
+    - id: 20
+      name: arm_pull
+      label: Arm Pull
+      hint: Can perform basic arm stroke
+      type: select_one
+      options:
+      - Yes proper form
+      - Yes developing form
+      - Attempted
+      - No unable
+      - Not assessed
+      required: true
+    - id: 21
+      name: breath_control
+      label: Breath Control
+      hint: Can turn head to breathe
+      type: select_one
+      options:
+      - Yes rhythmic breathing
+      - Yes occasional breathing
+      - Lifts head to breathe
+      - No unable
+      - Not assessed
+      required: true
+    - id: 22
+      name: treading_water
+      label: Treading Water
+      hint: Can tread water independently
+      type: select_one
+      options:
+      - Yes 30 seconds or more
+      - Yes 10-29 seconds
+      - Yes less than 10 seconds
+      - No unable
+      - Not assessed
+      required: true
+    - id: 23
+      name: changes_direction
+      label: Changes Direction
+      hint: Can change direction while swimming
+      type: select_one
+      options:
+      - Yes smoothly
+      - Yes with effort
+      - Attempted
+      - No unable
+      - Not assessed
+      required: true
+    - id: 24
+      name: retrieves_object
+      label: Retrieves Object from Bottom
+      hint: Can dive or reach for object
+      type: select_one
+      options:
+      - Yes shallow end
+      - Yes with assistance
+      - Attempted
+      - No unable
+      - Not assessed
+      required: true
+    - id: 25
+      name: jumps_in_water
+      label: Jumps into Water
+      hint: Can jump into chest-deep water
+      type: select_one
+      options:
+      - Yes independently
+      - Yes with hesitation
+      - With assistance
+      - No unable
+      - Not assessed
+      required: true
+    - id: 26
+      name: swims_distance
+      label: Swims Continuous Distance
+      hint: Maximum distance swum continuously
+      type: select_one
+      options:
+      - 25 yards or more
+      - 15-24 yards
+      - 10-14 yards
+      - 5-9 yards
+      - Less than 5 yards
+      - Unable
+      required: true
+    - id: 27
+      name: safety_skills
+      label: Water Safety Knowledge
+      hint: Understands basic water safety
+      type: select_one
+      options:
+      - Excellent understanding
+      - Good understanding
+      - Basic understanding
+      - Limited understanding
+      - No understanding
+      required: true
+    - id: 28
+      name: overall_skill_level
+      label: Overall Skill Level
+      hint: Assessment of overall ability
+      type: select_one
+      options:
+      - Advanced Beginner
+      - Intermediate Beginner
+      - Basic Beginner
+      - True Beginner
+      - Pre-Beginner
+      required: true
+    - id: 29
+      name: recommended_level
+      label: Recommended Next Level
+      hint: Suggested next class level
+      type: select_one
+      options:
+      - Level 2 Beginner
+      - Level 1 Beginner
+      - Pre-Beginner
+      - Private Lessons
+      - Water Acclimation Class
+      required: true
+    - id: 30
+      name: instructor_notes
+      label: Instructor Notes
+      hint: Additional observations or recommendations
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: goals_for_student
+      label: Goals for Student
+      hint: Recommended focus areas
+      type: text
+      options: []
+      required: false

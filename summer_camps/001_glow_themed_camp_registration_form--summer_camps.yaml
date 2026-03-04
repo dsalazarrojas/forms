@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Glow Themed Camp Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''name'': ''day_night'', ''label'': ''Day''}'
+      - '{''id'': 32, ''name'': ''evening'', ''label'': ''Evening''}'
+      - '{''id'': 33, ''name'': ''both'', ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 41, ''name'': ''fun'', ''label'': ''Fun''}'
+      - '{''id'': 42, ''name'': ''social'', ''label'': ''Social''}'
+      - '{''id'': 43, ''name'': ''adventure'', ''label'': ''Adventure''}'
+      required: false
+    - id: 5
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

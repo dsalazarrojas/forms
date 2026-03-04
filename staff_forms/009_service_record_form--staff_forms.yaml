@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_record_form
+    pages:
+    - id: 1
+      name: service_record_form
+      label: Service Record Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_history
+      label: Vehicle History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage
+      label: Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_dates
+      label: Maintenance Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_history
+      label: Service History
+      hint: null
+      type: select_multiple
+      options:
+      - Fuel Service
+      - Maintenance
+      required: false
+    - id: 6
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_history_dates
+      label: Service History Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: staff_assigned
+      label: Staff Assigned
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - John
+      required: false
+    - id: 9
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: last_service_date
+      label: Last Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: last_service_cost
+      label: Last Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: last_service_mileage
+      label: Last Service Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: last_service_status
+      label: Last Service Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 18
+      name: last_service_notes
+      label: Last Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_service_due_date
+      label: Next Service Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_service_mileage
+      label: Next Service Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: next_service_cost
+      label: Next Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: next_service_status
+      label: Next Service Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 23
+      name: next_service_notes
+      label: Next Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - John
+      required: false
+    - id: 25
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autonomous Taxi Subscription Form
+    pages:
+    - id: 1
+      name: section_subscriber_details
+      label: -- Subscriber Details --
+      hint: Please enter your personal information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We'll send your invoices here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Required for account verification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: Your primary pickup location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_plan
+      label: -- Subscription Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: subscription_plan
+      label: Select Your Plan
+      hint: Choose the plan that fits your lifestyle
+      type: select_one
+      options:
+      - Basic (10 trips/month)
+      - Premium (30 trips/month)
+      - Executive (Unlimited trips)
+      - Pay-As-You-Go
+      required: true
+    - id: 8
+      name: vehicle_preference
+      label: Preferred Vehicle Model
+      hint: Default car type for your rides
+      type: select_one
+      options:
+      - Autonomous Sedan
+      - Luxury SUV
+      - Compact EV
+      required: true
+    - id: 9
+      name: commute_times
+      label: Preferred Morning Commute Time
+      hint: Set your regular pickup window
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: preferred_temperature
+      label: Default In-Car Temperature
+      hint: Celsius
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Preferred Payment Method
+      hint: For monthly recurring charges
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal Account
+      - Direct Bank Transfer
+      - Digital Wallet
+      required: true
+    - id: 12
+      name: terms_agreement
+      label: Agree to Subscription Terms
+      hint: Read our full terms on the website
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

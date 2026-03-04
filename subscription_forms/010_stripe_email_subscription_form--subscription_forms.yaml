@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Email Subscription Form
+    pages:
+    - id: 1
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: email_address_confirmation
+      label: Email Address Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subscribe
+      label: Subscribe
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: unsubscribe
+      label: Unsubscribe
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

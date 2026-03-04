@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Record Keeping Survey
+    pages:
+    - id: 1
+      name: farmer_details_header
+      label: -- Farmer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farmer_name
+      label: Farmer Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_size
+      label: Farm Size
+      hint: Total acres managed
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: current_practices_header
+      label: -- Current Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: record_method
+      label: Primary Record Keeping Method
+      hint: How do you currently store data?
+      type: select_one
+      options:
+      - Paper / Notebooks
+      - Spreadsheets (Excel)
+      - Specialized Farm Software
+      - Mobile App
+      - None
+      required: true
+    - id: 6
+      name: update_frequency
+      label: Frequency of Updates
+      hint: How often do you log data?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Seasonally
+      - Only for tax time
+      required: true
+    - id: 7
+      name: records_kept
+      label: Types of Records Kept
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial / Expenses
+      - Production / Yields
+      - Labor / Payroll
+      - Inventory
+      - Machinery Maintenance
+      - Breeding / Genetics
+      required: true
+    - id: 8
+      name: challenges_header
+      label: -- Challenges and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: challenges
+      label: Primary Challenges
+      hint: What makes record keeping difficult?
+      type: select_multiple
+      options:
+      - Time Consuming
+      - Complexity of Software
+      - Cost of Tools
+      - Lack of Technical Skills
+      - Data Privacy Concerns
+      required: true
+    - id: 10
+      name: training_interest
+      label: Interest in Training
+      hint: Would you like to learn better methods?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 11
+      name: training_format
+      label: Preferred Training Format
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - In-person Workshop
+      - Online Webinar
+      - One-on-one Coaching
+      - Self-paced Video Tutorials
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: mid_session_summer_camp_evaluation
+    pages:
+    - id: 1
+      name: summer_camp_attendant_feedback
+      label: Summer Camp Attendant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_period
+      label: Evaluation Period
+      hint: Mid session evaluation will help us to know if our activities are meeting
+        our goals.
+      type: select_one
+      options:
+      - '{''label'': ''Week 1''}'
+      - '{''label'': ''Week 2''}'
+      - '{''label'': ''Week 3''}'
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: rating_cabin
+      label: Rating (Cabin 1)
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: rating_food
+      label: Rating (Food)
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 7
+      name: rating_activities
+      label: Rating (Activities)
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: rating_facilitators
+      label: Rating (Facilitators)
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: rating_environment
+      label: Rating (Environment)
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Bad''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

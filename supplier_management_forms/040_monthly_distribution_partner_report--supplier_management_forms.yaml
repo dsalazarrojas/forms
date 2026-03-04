@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_distribution_partner_report
+    pages:
+    - id: 1
+      name: distribution_partners
+      label: Distribution Partners
+      hint: null
+      type: select_multiple
+      options:
+      - Distribution Partner 1
+      - Distribution Partner 2
+      - Distribution Partner 3
+      required: false
+    - id: 2
+      name: month
+      label: Month
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: performance_data
+      label: Performance Data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inventory_data
+      label: Inventory Data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: partner_needs
+      label: Partner Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 11
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      required: false
+    - id: 13
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: partner_url
+      label: Partner URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: partner_category
+      label: Partner Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      required: false
+    - id: 19
+      name: partner_subcategory
+      label: Partner Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Reimbursement Form
+    pages:
+    - id: 1
+      name: member_details
+      label: member_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_details
+      label: expense_details
+      hint: Please describe your expense
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: submitted_documents
+      label: submitted_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: staff_incharge
+      label: staff_incharge
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false
+    - id: 11
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: false

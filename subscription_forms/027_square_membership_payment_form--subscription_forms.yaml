@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: square_membership_payment_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - card
+      - ebt
+      - eft
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exp_month
+      label: Exp. Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 7
+      name: exp_year
+      label: Exp. Year
+      hint: null
+      type: select_one
+      options:
+      - '20'
+      - Other
+      required: false
+    - id: 8
+      name: exp_year
+      label: Exp. Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: cvv
+      label: CVV
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: membership_id
+      label: Membership Id
+      hint: null
+      type: select_multiple
+      options:
+      - '1234'
+      - '5678'
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

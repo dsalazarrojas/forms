@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Requisition Form
+    pages:
+    - id: 1
+      name: material_requisition_form_1
+      label: material_requisition
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: supply_item_1
+      label: supply_item_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_type_1
+      label: equipment_type_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity_1
+      label: quantity_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description_1
+      label: description_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requisitioner_1
+      label: requisitioner_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_1
+      label: email_1
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_1
+      label: phone_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_1
+      label: date_1
+      hint: null
+      type: date
+      options: []
+      required: false

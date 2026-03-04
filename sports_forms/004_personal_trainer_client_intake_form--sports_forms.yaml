@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Client Intake Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_trainer
+      label: PersonalTrainer
+      hint: null
+      type: select_multiple
+      options:
+      - PersonalTrainerA
+      - PersonalTrainerB
+      - PersonalTrainerC
+      required: false
+    - id: 3
+      name: client_goals
+      label: client_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fitness_objectives
+      label: FitnessObjectives
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: ContactInformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: EmergencyContact
+      hint: null
+      type: select_multiple
+      options:
+      - emergency_contact_a
+      - emergency_contact_b
+      - emergency_contact_c
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: EmergencyContactRelationship
+      hint: null
+      type: select_multiple
+      options:
+      - emergency_contact_a
+      - emergency_contact_b
+      - emergency_contact_c
+      required: false
+    - id: 8
+      name: emergency_contact_relationship_other
+      label: EmergencyContactRelationshipOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: MedicalHistory
+      hint: null
+      type: select_one
+      options:
+      - medical_condition_a
+      - medical_condition_b
+      - medical_condition_c
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: MedicalConditions
+      hint: null
+      type: select_multiple
+      options:
+      - medical_condition_a
+      - medical_condition_b
+      - medical_condition_c
+      required: false
+    - id: 11
+      name: medical_tests
+      label: MedicalTests
+      hint: null
+      type: select_multiple
+      options:
+      - medical_test_a
+      - medical_test_b
+      - medical_test_c
+      required: false
+    - id: 12
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - medication_a
+      - medication_b
+      - medication_c
+      required: false
+    - id: 13
+      name: medical_notes
+      label: MedicalNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: physical_activity
+      label: PhysicalActivity
+      hint: null
+      type: select_one
+      options:
+      - physical_activity_a
+      - physical_activity_b
+      - physical_activity_c
+      required: false
+    - id: 15
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: emergency_services
+      label: EmergencyServices
+      hint: null
+      type: select_multiple
+      options:
+      - emergency_service_a
+      - emergency_service_b
+      - emergency_service_c
+      required: false
+    - id: 19
+      name: emergency_services_other
+      label: EmergencyServicesOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_other
+      label: MedicalHistoryOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_tests_other
+      label: MedicalTestsOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications_other
+      label: MedicationsOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_other
+      label: EmergencyContactOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship_other
+      label: EmergencyContactRelationshipOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_notes
+      label: MedicalNotes
+      hint: null
+      type: note
+      options: []
+      required: false

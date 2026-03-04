@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: FTIR Equipment Usage Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_info
+      label: Equipment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_satisfaction
+      label: Usage Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_feedback
+      label: Improvement Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: frequency_range
+      label: Frequency Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: usage_time
+      label: Usage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: usage_satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: training_needs_description
+      label: Training Needs Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_needs_urgent
+      label: Training Needs Urgent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: improvement_description
+      label: Improvement Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit_survey
+      label: Submit Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lab_core
+      label: Lab Core
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: user_rating
+      label: User Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

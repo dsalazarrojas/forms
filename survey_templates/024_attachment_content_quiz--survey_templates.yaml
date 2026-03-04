@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Attachment Content Quiz
+    pages:
+      - id: 1
+        name: student_information
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: Your student ID number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: class_section
+        label: Class Section
+        hint: Your course section or period
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: quiz_date
+        label: Quiz Date
+        hint: Date of this quiz attempt
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: quiz_instructions
+        label: -- Quiz Instructions --
+        hint: Please read carefully before beginning
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: question_1
+        label: Question 1 - Define attachment in psychological terms
+        hint: Your answer
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: question_2
+        label: Question 2 - Key theorist in attachment theory
+        hint: Who developed the primary attachment theory?
+        type: select_one
+        options: ['John Bowlby', 'Mary Ainsworth', 'Erik Erikson', 'Jean Piaget']
+        required: true
+      - id: 10
+        name: question_3
+        label: Question 3 - Secure attachment characteristics
+        hint: Select all that apply
+        type: select_multiple
+        options: ['Trust in caregiver', 'Distress when separated', 'Comfort-seeking behavior', 'Avoidance of caregiver']
+        required: true
+      - id: 11
+        name: question_4
+        label: Question 4 - Critical period for attachment
+        hint: During which period is attachment most critical?
+        type: select_one
+        options: ['First 6 months', 'First 2 years', 'First 5 years', 'Puberty']
+        required: true
+      - id: 12
+        name: question_5
+        label: Question 5 - Effects of early separation
+        hint: Describe the potential effects of early separation from primary caregiver
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: question_6
+        label: Question 6 - Attachment styles
+        hint: Name the four main attachment styles
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: question_7
+        label: Question 7 - Anxious-resistant attachment
+        hint: Which behavior is characteristic of anxious-resistant attachment?
+        type: select_one
+        options: ['Ignoring caregiver', 'Seeking proximity and comfort', 'Avoidant behavior', 'No distress on separation']
+        required: true
+      - id: 15
+        name: question_8
+        label: Question 8 - Internal working models
+        hint: Explain what internal working models are
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: question_9
+        label: Question 9 - Bowlby phases of attachment
+        hint: How many phases did Bowlby identify?
+        type: select_one
+        options: ['2 phases', '3 phases', '4 phases', '5 phases']
+        required: true
+      - id: 17
+        name: question_10
+        label: Question 10 - Role of sensitivity in attachment
+        hint: Explain the importance of caregiver sensitivity
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: question_11
+        label: Question 11 - Disorganized attachment
+        hint: Which factor is most associated with disorganized attachment?
+        type: select_one
+        options: ['Consistent care', 'Parental stress and trauma', 'Secure environment', 'Clear communication']
+        required: true
+      - id: 19
+        name: question_12
+        label: Question 12 - Cross-cultural attachment differences
+        hint: Select aspects that may vary across cultures
+        type: select_multiple
+        options: ['Expression of attachment behaviors', 'Primary caregivers', 'Timing of independence', 'Communication patterns']
+        required: true
+      - id: 20
+        name: reflection_section
+        label: -- Reflection Questions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: learning_confidence
+        label: How confident do you feel about your understanding?
+        hint: Rate your confidence level
+        type: select_one
+        options: ['Very Unsure', 'Somewhat Unsure', 'Neutral', 'Somewhat Confident', 'Very Confident']
+        required: true
+      - id: 22
+        name: difficult_concepts
+        label: Which concepts were most challenging?
+        hint: Describe any difficult topics
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_study_needed
+        label: Areas needing additional study
+        hint: What do you need to review more?
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: quiz_comments
+        label: Additional Comments
+        hint: Any other comments about this quiz?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: submit_confirmation
+        label: I certify this is my own work
+        hint: Please confirm academic integrity
+        type: select_one
+        options: ['I Confirm', 'I Do Not Confirm']
+        required: true

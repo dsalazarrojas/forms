@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Specification Partner Release Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: specifications
+      label: specifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supplier_email
+      label: supplier_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: supplier_phone
+      label: supplier_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_address
+      label: supplier_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false

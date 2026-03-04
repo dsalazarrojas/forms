@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Day Camp Staff Health Screening Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 4
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: health_screening_question_1
+      label: Do you have any health concerns or issues at this time?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: health_screening_question_2
+      label: Have you been vaccinated against COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: health_screening_question_3
+      label: Do you have any medical conditions or allergies that may impact your
+        work as a camp staff member?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: health_screening_question_4
+      label: What is your height (in cm)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: health_screening_question_5
+      label: What is your weight (in kg)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: health_screening_question_6
+      label: What is your body mass index (BMI)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: health_screening_question_7
+      label: Do you have any other health questions or concerns that you would like
+        to share with the camp director?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_date
+      label: When is your last medical check-up?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medical_history_provider
+      label: Who is your regular medical doctor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: health_screening_question_8
+      label: Do you have health insurance?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: health_screening_question_9
+      label: How often do you get regular check-ups?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 16
+      name: health_screening_question_10
+      label: What is your blood type?
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - AB
+      - None
+      required: false
+    - id: 17
+      name: health_screening_question_11
+      label: Do you have any health screening results?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: health_screening_question_12
+      label: Do you have any other information you would like to share with the camp
+        director?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_history_date_1
+      label: Date of last medical check-up (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_date_1_provider
+      label: Medical provider name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_provider
+      label: Medical provider name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_history_date_2
+      label: Date of last medical check-up 2 (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_provider_2
+      label: Medical provider name 2 (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history_date_3
+      label: Date of last medical check-up 3 (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_provider_3
+      label: Medical provider name 3 (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Administration Form
+    pages:
+    - id: 1
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_enrollment
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: student_info
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: academic_record
+      label: Academic Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_programs
+      label: Academic Programs
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teacher_info
+      label: Teacher Info
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: student_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

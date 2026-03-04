@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chargify Subscription
+    pages:
+      - id: 1
+        name: header
+        label: -- Subscription Sign Up --
+        hint: Sign up customers for recurring subscriptions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: customer name
+        hint: full name for billing
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: customer email
+        hint: billing and account communications
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: plan_selected
+        label: plan selected
+        hint: subscription plan chosen
+        type: select_one
+        options:
+          - Starter
+          - Growth
+          - Pro
+        required: true
+      - id: 5
+        name: billing_cycle
+        label: billing cycle
+        hint: how often to bill
+        type: select_one
+        options:
+          - Monthly
+          - Annually
+        required: true
+      - id: 6
+        name: payment_info
+        label: payment info
+        hint: reference token or last four digits
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: coupon_code
+        label: coupon code
+        hint: optional discount code
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: company_name
+        label: company name
+        hint: optional business account name
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: agree_recurring_billing
+        label: agree recurring billing
+        hint: consent to recurring charges
+        type: select_one
+        options:
+          - I consent
+          - I do not consent
+        required: true
+      - id: 10
+        name: start_date
+        label: start date
+        hint: subscription activation date
+        type: date
+        options: []
+        required: false

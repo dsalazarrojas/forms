@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chauffeurs Survey
+    pages:
+      - id: 1
+        name: survey_section_intro
+        label: -- Chauffeur Service Feedback Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: years_experience
+        label: How many years of experience do you have as a chauffeur?
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 4-7 years
+          - 8-12 years
+          - More than 12 years
+        required: true
+      - id: 3
+        name: primary_service_type
+        label: Primary service type you provide
+        hint: null
+        type: select_one
+        options:
+          - Executive/Corporate
+          - Luxury/VIP
+          - Airport Transportation
+          - Wedding/Event
+          - Other
+        required: true
+      - id: 4
+        name: employment_status
+        label: Your employment status
+        hint: null
+        type: select_one
+        options:
+          - Full-time employee
+          - Part-time employee
+          - Independent contractor
+          - Franchise owner
+        required: true
+      - id: 5
+        name: job_satisfaction
+        label: Overall job satisfaction rating
+        hint: Please rate from 1 (Very Unsatisfied) to 5 (Very Satisfied)
+        type: select_one
+        options:
+          - 1 - Very Unsatisfied
+          - 2 - Unsatisfied
+          - 3 - Neutral
+          - 4 - Satisfied
+          - 5 - Very Satisfied
+        required: true
+      - id: 6
+        name: work_life_balance
+        label: How would you rate your work-life balance?
+        hint: null
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 7
+        name: compensation_adequacy
+        label: Is your compensation adequate for the work you do?
+        hint: null
+        type: select_one
+        options:
+          - Significantly below expectations
+          - Below expectations
+          - Meets expectations
+          - Exceeds expectations
+        required: true
+      - id: 8
+        name: vehicle_condition
+        label: How would you rate the condition of your work vehicle?
+        hint: null
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 9
+        name: schedule_flexibility
+        label: Level of schedule flexibility
+        hint: null
+        type: select_one
+        options:
+          - Very inflexible
+          - Somewhat inflexible
+          - Somewhat flexible
+          - Very flexible
+        required: true
+      - id: 10
+        name: training_opportunities
+        label: Access to training and development opportunities
+        hint: null
+        type: select_one
+        options:
+          - None available
+          - Limited
+          - Adequate
+          - Excellent
+        required: true
+      - id: 11
+        name: management_support
+        label: How supported do you feel by management?
+        hint: null
+        type: select_one
+        options:
+          - Very unsupported
+          - Somewhat unsupported
+          - Neutral
+          - Supported
+          - Very supported
+        required: true
+      - id: 12
+        name: client_interactions
+        label: Client interactions are generally
+        hint: null
+        type: select_one
+        options:
+          - Very negative
+          - Negative
+          - Neutral
+          - Positive
+          - Very positive
+        required: true
+      - id: 13
+        name: safety_concerns
+        label: Do you have safety concerns in your role?
+        hint: null
+        type: select_one
+        options:
+          - Major concerns
+          - Some concerns
+          - Minor concerns
+          - No concerns
+        required: true
+      - id: 14
+        name: technology_satisfaction
+        label: Satisfaction with technology and dispatch systems
+        hint: null
+        type: select_one
+        options:
+          - Very unsatisfied
+          - Unsatisfied
+          - Neutral
+          - Satisfied
+          - Very satisfied
+        required: true
+      - id: 15
+        name: future_prospects
+        label: Do you see long-term career prospects in this role?
+        hint: null
+        type: select_one
+        options:
+          - No prospects
+          - Limited prospects
+          - Some prospects
+          - Good prospects
+          - Excellent prospects
+        required: true
+      - id: 16
+        name: challenges
+        label: What are your biggest challenges as a chauffeur?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Long work hours
+          - Traffic and road conditions
+          - Customer demands
+          - Vehicle maintenance
+          - Compensation
+          - Lack of benefits
+          - Work-life balance
+          - Other
+        required: false
+      - id: 17
+        name: improvements_needed
+        label: What improvements would most benefit your role?
+        hint: Enter your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: recommend_industry
+        label: Would you recommend the chauffeur profession to others?
+        hint: null
+        type: select_one
+        options:
+          - Definitely not
+          - Probably not
+          - Unsure
+          - Probably yes
+          - Definitely yes
+        required: true
+      - id: 19
+        name: additional_feedback
+        label: Additional comments or feedback
+        hint: null
+        type: text
+        options: []
+        required: false

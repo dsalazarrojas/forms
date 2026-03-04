@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Selection Form
+    pages:
+    - id: 1
+      name: course_selection_form_1
+      label: course_selection
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - History
+      required: false
+    - id: 2
+      name: course_selection_form_2
+      label: select_course
+      hint: null
+      type: select_one
+      options:
+      - Physics
+      - Chemistry
+      - Biology
+      - Math
+      - History
+      required: false
+    - id: 3
+      name: time_management
+      label: manage_time
+      hint: This form allows you to manage your time.
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_time
+      label: manage_projects
+      hint: This form allows you to do other things like having a side project.
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email_notification
+      label: receive_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: write_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: note_2
+      label: note2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: course_selection_form_10
+      label: course_select
+      hint: null
+      type: select_multiple
+      options:
+      - History
+      - Math
+      - Science
+      required: false
+    - id: 10
+      name: course_selection_form_11
+      label: select_course_1
+      hint: null
+      type: select_one
+      options:
+      - Physics
+      - Chemistry
+      - Biology
+      required: false

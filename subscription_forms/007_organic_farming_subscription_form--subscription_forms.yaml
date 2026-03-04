@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: organic_farming_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Organic Farm prophets
+      - Organic Farm monthly
+      - Organic Farm weekly
+      required: true
+    - id: 6
+      name: farm_name
+      label: Farm Name
+      hint: Enter your farm name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: Enter your start date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: Enter your end date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true

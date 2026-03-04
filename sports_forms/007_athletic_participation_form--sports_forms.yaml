@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Participation Form
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Your school or district ID number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_email
+      label: Email Address
+      hint: Your school email preferred
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sports_selection
+      label: -- Sport Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_sport
+      label: Primary Sport
+      hint: Which sport do you want to participate in?
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Soccer
+      - Volleyball
+      - Tennis
+      - Cross Country
+      - Track and Field
+      - Swimming
+      - Wrestling
+      - Golf
+      - Other
+      required: true
+    - id: 12
+      name: position_preference
+      label: Position Preference
+      hint: Your preferred position or role
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: years_experience
+      label: Years of Experience
+      hint: How many years have you played this sport?
+      type: select_one
+      options:
+      - First Time
+      - 1-2 Years
+      - 3-4 Years
+      - 5+ Years
+      required: true
+    - id: 14
+      name: skill_level
+      label: Skill Level
+      hint: Assess your current skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: true
+    - id: 15
+      name: health_information
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: past_injuries
+      label: Past Sports Injuries
+      hint: Describe any previous sports-related injuries
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parent_information
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: parent_consent
+      label: Parent/Guardian Consent
+      hint: I consent to my child's participation in athletics
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 25
+      name: liability_waiver_acceptance
+      label: Liability Waiver Acknowledgment
+      hint: I acknowledge and accept all liability waivers
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Parent Communication Survey
+    pages:
+    - id: 1
+      name: parent_communication_quality
+      label: Parent Communication Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: communication_preferences
+      label: Communication Preferences
+      hint: What information would you like to receive from your child's school/league?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication_improvements
+      label: Communication Improvements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_style
+      label: Parent Communication Style
+      hint: How do you prefer to communicate with the school/league?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false

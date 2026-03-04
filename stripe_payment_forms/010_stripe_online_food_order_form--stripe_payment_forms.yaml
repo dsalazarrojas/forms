@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_online_food_order_form
+    pages:
+    - id: 1
+      name: form_information
+      label: form_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - stripe
+      - paypal
+      - apple_pay
+      - google_pay
+      - credit_card
+      - cash
+      - bank
+      - wire_transfer
+      required: false
+    - id: 4
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_info
+      label: shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_total
+      label: payment_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_phone
+      label: billing_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method_confirmation
+      label: payment_method_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Credit Card
+      - Cash
+      - Bank
+      - Wire Transfer
+      required: false
+    - id: 12
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - American Samoa
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Northern Mariana Islands
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - Washington D.C.
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 22
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false

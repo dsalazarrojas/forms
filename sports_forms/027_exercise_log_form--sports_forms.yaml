@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Log Form
+    pages:
+    - id: 1
+      name: workout_session
+      label: workout_session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise
+      label: exercise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sets
+      label: sets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reps
+      label: reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rest_time
+      label: rest_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: exercises_completed
+      label: exercises_completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

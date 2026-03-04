@@ -1,0 +1,340 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation And Benefits Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Compensation and Benefits Satisfaction Survey
+      hint: Your feedback helps us improve our compensation packages
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Optional anonymous identifier
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your current department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 4
+      name: tenure
+      label: Length of Employment
+      hint: How long have you worked here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - More than 10 years
+      required: true
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      required: true
+    - id: 6
+      name: job_level
+      label: Job Level
+      hint: Your current level
+      type: select_one
+      options:
+      - Entry Level
+      - Junior
+      - Mid-Level
+      - Senior
+      - Lead or Principal
+      - Manager
+      - Director
+      - Executive
+      required: true
+    - id: 7
+      name: base_pay_satisfaction
+      label: Satisfaction with base salary
+      hint: How satisfied are you with your base pay
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 8
+      name: base_pay_fairness
+      label: Base pay is fair for my role
+      hint: Rate your agreement
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 9
+      name: base_pay_market
+      label: Base pay is competitive with market
+      hint: Compared to similar roles elsewhere
+      type: select_one
+      options:
+      - Well above market
+      - At market rate
+      - Slightly below market
+      - Well below market
+      - Do not know
+      required: true
+    - id: 10
+      name: bonus_satisfaction
+      label: Satisfaction with bonus or incentive pay
+      hint: If applicable to your role
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: true
+    - id: 11
+      name: health_insurance_satisfaction
+      label: Satisfaction with health insurance
+      hint: Medical coverage provided
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not enrolled
+      required: true
+    - id: 12
+      name: dental_vision_satisfaction
+      label: Satisfaction with dental and vision
+      hint: Dental and vision coverage
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not enrolled
+      required: true
+    - id: 13
+      name: retirement_satisfaction
+      label: Satisfaction with retirement benefits
+      hint: 401k pension or retirement plan
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not enrolled
+      required: true
+    - id: 14
+      name: pto_satisfaction
+      label: Satisfaction with paid time off
+      hint: Vacation and personal days
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: sick_leave_satisfaction
+      label: Satisfaction with sick leave
+      hint: Sick days provided
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 16
+      name: parental_leave_satisfaction
+      label: Satisfaction with parental leave
+      hint: Maternity or paternity leave
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: true
+    - id: 17
+      name: professional_development
+      label: Satisfaction with professional development
+      hint: Training and education benefits
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 18
+      name: work_life_balance
+      label: Satisfaction with work-life balance
+      hint: Flexibility and hours
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: other_perks_satisfaction
+      label: Satisfaction with other perks
+      hint: Gym wellness commute etc
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - No other perks
+      required: true
+    - id: 20
+      name: total_compensation_value
+      label: Do you feel valued through compensation
+      hint: Overall feeling about your worth
+      type: select_one
+      options:
+      - Yes - very much valued
+      - Yes - somewhat valued
+      - Neutral
+      - No - feel undervalued
+      - No - very undervalued
+      required: true
+    - id: 21
+      name: pay_transparency
+      label: Pay transparency is adequate
+      hint: Do you understand how pay is determined
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 22
+      name: raise_frequency
+      label: How satisfied are you with raise frequency
+      hint: How often you receive increases
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 23
+      name: benefits_communication
+      label: Benefits are well communicated
+      hint: Do you understand your benefits
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 24
+      name: most_valued_benefit
+      label: Which benefit do you value most
+      hint: Select the most important one
+      type: select_one
+      options:
+      - Base salary
+      - Health insurance
+      - Retirement contributions
+      - Paid time off
+      - Bonus or equity
+      - Professional development
+      - Flexible work arrangements
+      - Other
+      required: true
+    - id: 25
+      name: least_satisfied_benefit
+      label: Which benefit needs most improvement
+      hint: Select the one needing work
+      type: select_one
+      options:
+      - Base salary
+      - Health insurance
+      - Retirement contributions
+      - Paid time off
+      - Bonus or equity
+      - Professional development
+      - Flexible work arrangements
+      - Other
+      required: true
+    - id: 26
+      name: improvements_suggested
+      label: What improvements would you suggest
+      hint: Your ideas for better benefits
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: recommend_employer
+      label: Would you recommend this employer
+      hint: Based on compensation and benefits
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

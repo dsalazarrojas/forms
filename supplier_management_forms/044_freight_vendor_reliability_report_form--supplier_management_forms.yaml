@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Vendor Reliability Report Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: carrier_performance
+      label: Carrier Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reliability_trends
+      label: Reliability Trends
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: carrier_comments
+      label: Carrier Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_rating
+      label: Vendor Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: shipment_number
+      label: Shipment Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: ship_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: ship_status
+      label: Ship Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: ship_type
+      label: Ship Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: freight_cost
+      label: Freight Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: freight_weight
+      label: Freight Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: shipment_value
+      label: Shipment Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: ship_date2
+      label: Ship Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: ship_date3
+      label: Ship Date 3
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: ship_date4
+      label: Ship Date 4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: ship_date5
+      label: Ship Date 5
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: ship_date6
+      label: Ship Date 6
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: ship_date7
+      label: Ship Date 7
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: ship_date8
+      label: Ship Date 8
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: ship_time2
+      label: Ship Time 2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: ship_time3
+      label: Ship Time 3
+      hint: null
+      type: time
+      options: []
+      required: true

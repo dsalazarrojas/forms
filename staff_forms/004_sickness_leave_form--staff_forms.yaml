@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sickness Leave Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Supervisor''}'
+      - '{''id'': 2, ''name'': ''Manager''}'
+      required: false
+    - id: 5
+      name: leave_credit
+      label: Leave Credit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: remaining_leave
+      label: Remaining Leave
+      hint: null
+      type: number
+      options: []
+      required: false

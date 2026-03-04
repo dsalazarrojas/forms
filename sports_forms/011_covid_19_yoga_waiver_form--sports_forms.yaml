@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Yoga Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: covid_19_symptoms
+      label: do_you_have_covid_19_symptoms
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of taste
+      - Loss of smell
+      - Other
+      - None
+      required: false
+    - id: 5
+      name: health_risks
+      label: health_risks
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: waiver
+      label: waiver
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and acknowledge that I have read, understand, and will comply
+        with all the health and safety protocols in place at this studio.
+      - I acknowledge that I am aware of the risks associated with COVID-19 and I
+        am aware of the risks associated with participating in a yoga studio.
+      - I am aware that by participating in this yoga studio, I may be exposed to
+        COVID-19.
+      - I am aware that I am taking the risk of participating in this yoga studio
+        and I am aware of the risks associated with it.
+      - I am aware that I am responsible for taking care of myself and my health while
+        participating in this yoga studio.
+      - I am aware that I am responsible for taking care of my own health and I am
+        aware of the risks associated with participating in this studio.
+      - Other
+      - None
+      required: false
+    - id: 7
+      name: yoga_class
+      label: yoga_class
+      hint: null
+      type: select_multiple
+      options:
+      - Hot Yoga
+      - Power Yoga
+      - Hatha Yoga
+      - Other
+      - None
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Other
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: participant_acknowledgement
+      label: participant_acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - I understand and acknowledge the risks associated with COVID-19.
+      - Other
+      required: true
+    - id: 14
+      name: emergency_contact_acknowledgement
+      label: emergency_contact_acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware of the risks associated with COVID-19.
+      - I am aware of the risks associated with participating in this yoga studio.
+      - Other
+      - None
+      required: false
+    - id: 15
+      name: studio_acknowledgement
+      label: studio_acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and acknowledge that I have read, understand, and will comply
+        with all the health and safety protocols in place at this studio.
+      - I am aware that by participating in this yoga studio, I am taking the risk
+        of COVID-19.
+      - Other
+      - None
+      required: false
+    - id: 16
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: timestamp
+      label: timestamp
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: studio_id
+      label: studio_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: waiver_version
+      label: waiver_version
+      hint: null
+      type: select_one
+      options:
+      - Version 1
+      - Other
+      required: true
+    - id: 23
+      name: waiver_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: waiver_studio
+      label: waiver_studio
+      hint: null
+      type: select_one
+      options:
+      - Studio A
+      - Other
+      required: true
+    - id: 25
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Trivia Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Where we can send your results
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: team_name
+        label: Team Name
+        hint: Your team or organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: question_1
+        label: Who is known as the greatest basketball player of all time
+        hint: Select your answer
+        type: select_one
+        options:
+          - Michael Jordan
+          - LeBron James
+          - Kobe Bryant
+          - Magic Johnson
+          - Larry Bird
+        required: true
+      - id: 5
+        name: question_2
+        label: How many players are on a basketball team on the court
+        hint: Select your answer
+        type: select_one
+        options:
+          - 4
+          - 5
+          - 6
+          - 7
+        required: true
+      - id: 6
+        name: question_3
+        label: What is the height of a regulation basketball hoop in feet
+        hint: Select your answer
+        type: select_one
+        options:
+          - 8 feet
+          - 9 feet
+          - 10 feet
+          - 11 feet
+        required: true
+      - id: 7
+        name: question_4
+        label: Which NBA team has won the most championships
+        hint: Select your answer
+        type: select_one
+        options:
+          - Los Angeles Lakers
+          - Boston Celtics
+          - Chicago Bulls
+          - Golden State Warriors
+        required: true
+      - id: 8
+        name: question_5
+        label: What is it called when a player dribbles with both hands
+        hint: Select your answer
+        type: select_one
+        options:
+          - Traveling
+          - Double Dribble
+          - Carrying
+          - Goaltending
+        required: true
+      - id: 9
+        name: question_6
+        label: In what year was basketball invented
+        hint: Select your answer
+        type: select_one
+        options:
+          - 1881
+          - 1891
+          - 1901
+          - 1911
+        required: true
+      - id: 10
+        name: question_7
+        label: How long is a standard NBA game in minutes of play time
+        hint: Select your answer
+        type: select_one
+        options:
+          - 40 minutes
+          - 48 minutes
+          - 52 minutes
+          - 60 minutes
+        required: true
+      - id: 11
+        name: question_8
+        label: What is the maximum number of points possible on a single shot
+        hint: Select your answer
+        type: select_one
+        options:
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: question_9
+        label: Which position is typically responsible for ball handling and setting up plays
+        hint: Select your answer
+        type: select_one
+        options:
+          - Center
+          - Power Forward
+          - Point Guard
+          - Shooting Guard
+        required: true
+      - id: 13
+        name: question_10
+        label: What is the term for scoring a basket as the shot clock expires
+        hint: Select your answer
+        type: select_one
+        options:
+          - Alley-oop
+          - Buzzer Beater
+          - Dunk
+          - Layup
+        required: true
+      - id: 14
+        name: final_score
+        label: How did you do on this quiz
+        hint: Rate your performance
+        type: select_one
+        options:
+          - Excellent - I am a true basketball fan
+          - Good - I know my basketball
+          - Average - I could use more practice
+          - Needs Improvement - Time to study basketball history
+        required: false

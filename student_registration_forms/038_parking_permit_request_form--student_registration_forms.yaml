@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Permit Request Form
+    pages:
+    - id: 1
+      name: parking_permit_request_form_input
+      label: form_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parking_spaces
+      label: Parking Spaces
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parking_location
+      label: Parking Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: parking_location_id
+      label: Parking Location ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parking_permit
+      label: Parking Permit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_email
+      label: Employee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Autism Survey
+    pages:
+      - id: 1
+        name: general_perception_header
+        label: -- General Perception --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: familiarity_with_autism
+        label: Familiarity with Autism
+        hint: How much do you know about Autism Spectrum Disorder?
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Not Familiar
+        required: true
+      - id: 3
+        name: personal_connection
+        label: Personal Connection
+        hint: What is your relationship with the autism community?
+        type: select_one
+        options:
+          - I have autism
+          - Family member has autism
+          - Friend or Colleague has autism
+          - No direct connection
+        required: true
+      - id: 4
+        name: social_integration_header
+        label: -- Social Integration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: community_inclusion_opinion
+        label: Community Inclusion Opinion
+        hint: People with autism are well integrated into my local community
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 6
+        name: social_barriers_observation
+        label: Social Barriers Observation
+        hint: What are the main barriers you observe for people with autism?
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: comfort_level_working
+        label: Comfort Level Working with Autistic Colleagues
+        hint: How comfortable would you feel working alongside someone with autism?
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 8
+        name: support_mechanisms_needed
+        label: Support Mechanisms Needed
+        hint: What areas need more focus in our community?
+        type: select_multiple
+        options:
+          - Public Awareness
+          - Educational Programs
+          - Workplace Accommodations
+          - Accessible Social Spaces
+          - Support for Families
+        required: true
+      - id: 9
+        name: community_support_header
+        label: -- Community Support --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: community_resources_adequacy
+        label: Community Resources Adequacy
+        hint: How would you rate current resources in your area?
+        type: select_one
+        options:
+          - Adequate
+          - Somewhat Adequate
+          - Inadequate
+          - Very Inadequate
+        required: true
+      - id: 11
+        name: suggested_improvements
+        label: Suggested Improvements
+        hint: What specific change would make the biggest difference?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: participate_in_awareness_event
+        label: Participate in Awareness Events
+        hint: Would you be interested in participating in future events?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: true
+      - id: 13
+        name: additional_comments
+        label: Additional Comments
+        hint: Share any other thoughts or experiences
+        type: text
+        options: []
+        required: false

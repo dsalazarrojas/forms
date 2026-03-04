@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morning Cleaning Checklist
+    pages:
+    - id: 1
+      name: morning_cleaning_checklist
+      label: Morning Cleaning Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_tasks
+      label: Cleaning Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: task_completed
+      label: Completed Tasks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

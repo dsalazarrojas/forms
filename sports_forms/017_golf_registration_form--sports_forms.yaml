@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: select_one
+      options:
+      - Team Player
+      - Club Player
+      - Novice
+      required: false
+    - id: 7
+      name: golf_club
+      label: Golf Club
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Country Club
+      - Golf Club
+      - Local Club
+      required: false
+    - id: 8
+      name: player
+      label: player
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_rating
+      label: Team Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: player_handicap
+      label: Player Handicap
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      required: false
+    - id: 12
+      name: team_handicap
+      label: Team Handicap
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      required: false
+    - id: 13
+      name: tournament_date
+      label: Tournament Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: tournament_time
+      label: Tournament Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: tournament_location
+      label: Tournament Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: player_reg
+      label: Player Reg
+      hint: null
+      type: text
+      options: []
+      required: false

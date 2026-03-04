@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Event Sponsorship Contact Form
+    pages:
+      - id: 1
+        name: sponsor_name
+        label: Sponsor name
+        hint: Company or individual name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_person
+        label: Contact person
+        hint: Name of sponsorship contact
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact email
+        hint: Email for sponsorship correspondence
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: sponsorship_interest_level
+        label: Sponsorship interest level
+        hint: General level of interest
+        type: select_one
+        options:
+          - Title sponsor
+          - Major sponsor
+          - Supporting sponsor
+          - In-kind sponsor
+        required: true
+      - id: 5
+        name: budget_capacity
+        label: Budget capacity
+        hint: Approximate budget available
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: activation_ideas
+        label: Activation ideas
+        hint: How sponsor would like to be visible at event
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: timeline
+        label: Timeline
+        hint: Key dates or deadlines
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: follow_up_preference
+        label: Follow up preference
+        hint: Preferred contact method
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Meeting
+        required: false

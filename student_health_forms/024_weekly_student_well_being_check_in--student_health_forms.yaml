@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_student_well_being_check_in
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mood
+      label: Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Bored
+      - Stressed
+      - Focused
+      - Anxious
+      - Confused
+      - Afraid
+      - Excited
+      required: true
+    - id: 3
+      name: stress_level
+      label: Stress Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_one
+      options:
+      - School Support
+      - Family Support
+      - Friend Support
+      - Other
+      required: true
+    - id: 5
+      name: self_care_actions_taken
+      label: Self-Care Actions Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Meditation
+      - Journaling
+      - Reading
+      - Listening to Music
+      required: false
+    - id: 6
+      name: support_sources
+      label: Support Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Classmates
+      - Teachers/Staff
+      - Family Members
+      - Friends
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_climate
+      label: School Climate
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true

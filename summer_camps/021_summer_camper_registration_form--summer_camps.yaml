@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camper Registration Form
+    pages:
+    - id: 1
+      name: summer_camper_registration_form
+      label: Summer Camper Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: camper_attendance
+      label: Camper Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''Yes''}'
+      - '{''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 15
+      name: camper_medical_notes
+      label: Camper Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Allergies''}'
+      - '{''label'': ''Physical Disability''}'
+      - '{''label'': ''Chronic Illness''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: camper_food_restrictions
+      label: Camper Food Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''No Preference''}'
+      required: false
+    - id: 18
+      name: camper_language
+      label: Camper Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Espagnol''}'
+      required: false
+    - id: 19
+      name: camper_english_level
+      label: Camper English Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Beginner''}'
+      - '{''label'': ''Intérmédiaire''}'
+      - '{''label'': ''Intérmédiaire-Expert''}'
+      - '{''label'': ''Expert''}'
+      required: false
+    - id: 20
+      name: camper_camp_preferences
+      label: Camper Camp Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Water Sports''}'
+      - '{''label'': ''Arts and Crafts''}'
+      - '{''label'': ''Théatre et Performances''}'
+      - '{''label'': ''Autres''}'
+      required: false
+    - id: 21
+      name: camper_additional_comments
+      label: Camper Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parent_contact_info
+      label: Parent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: admin_comments
+      label: Admin Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: admin_signature
+      label: Admin Signature
+      hint: null
+      type: text
+      options: []
+      required: false

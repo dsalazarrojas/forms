@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_class_type
+      label: preferred_class_type
+      hint: What is your preferred class type?
+      type: select_one
+      options:
+      - Running
+      - Strength Training
+      - Cardio Kickboxing
+      required: false
+    - id: 3
+      name: available_days
+      label: available_days
+      hint: Which days of the week are you available to attend classes?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 4
+      name: available_times
+      label: available_times
+      hint: What time of day would you like to attend classes?
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: preferred_duration
+      label: preferred_duration
+      hint: How long would you like your classes to be?
+      type: select_one
+      options:
+      - 30-45 minutes
+      - 45-60 minutes
+      - 60-90 minutes
+      required: false
+    - id: 6
+      name: preferred_frequency
+      label: preferred_frequency
+      hint: How often would you like to attend classes?
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1 time a week
+      required: false
+    - id: 7
+      name: preferred_class_time
+      label: preferred_class_time
+      hint: What time of day would you like to attend classes?
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_one
+      options:
+      - Young Adult (19-30)
+      - Adult (31-59)
+      - Senior (60-)
+      required: false
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_class_location
+      label: preferred_class_location
+      hint: Where would you prefer to attend classes?
+      type: select_one
+      options:
+      - Downtown
+      - Near Home
+      - In Studio
+      required: false
+    - id: 15
+      name: preferred_class_type_outdoor
+      label: preferred_class_type_outdoor
+      hint: What kind of outdoor activity would you prefer?
+      type: select_one
+      options:
+      - Yoga
+      - Walking/Running
+      - Cycling
+      required: false
+    - id: 16
+      name: preferred_class_type_indoor
+      label: preferred_class_type_indoor
+      hint: What kind of indoor activity would you prefer?
+      type: select_one
+      options:
+      - Strength Training
+      - Cardio
+      - Other
+      required: false
+    - id: 17
+      name: preferred_class_equipment
+      label: preferred_class_equipment
+      hint: What kind of equipment would you prefer for your classes?
+      type: select_one
+      options:
+      - Weights
+      - Resistance Bands
+      - Mats
+      required: false
+    - id: 18
+      name: preferred_class_intensity
+      label: preferred_class_intensity
+      hint: What level of intensity would you prefer for your classes?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: preferred_class_type_other
+      label: preferred_class_type_other
+      hint: Other preferred class type
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferred_class_time_weekday
+      label: preferred_class_time_weekday
+      hint: What day of the week do you prefer for your classes?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 21
+      name: preferred_class_time_weekday_other
+      label: preferred_class_time_weekday_other
+      hint: Other preferred class day of the week
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_class_time_weekday_time
+      label: preferred_class_time_weekday_time
+      hint: Class time preferred for preferred day of the week
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: additional_comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_conflict
+      label: email_conflict
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: phone_number_conflict
+      label: phone_number_conflict
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

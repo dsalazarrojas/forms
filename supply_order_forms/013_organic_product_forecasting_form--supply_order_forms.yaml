@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Product Forecasting Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_window
+      label: Delivery Window
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

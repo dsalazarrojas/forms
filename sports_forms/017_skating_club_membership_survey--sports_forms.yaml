@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skating Club Membership Survey
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Name of Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: Relationship to Skater
+      hint: null
+      type: select_one
+      options:
+      - Parent or Guardian
+      - Spouse or Domestic Partner
+      - Relative
+      required: true
+    - id: 6
+      name: skater_details
+      label: Skater Details
+      hint: null
+      type: select_multiple
+      options:
+      - Skater 1
+      - Skater 2
+      - Skater 3
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Phone number of Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: Email address of Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active Member
+      - Non Active Member
+      - Trial Member
+      required: true
+    - id: 10
+      name: membership_date
+      label: Date of Membership
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: membership_expires
+      label: Date Membership Expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: skater_experience
+      label: Skater Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skater_interest
+      label: Skater Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skater_skills
+      label: Skater Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: skater_equipment
+      label: Skater Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: skater_club_affiliations
+      label: Skater Club Affiliations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: skater_club_affiliations_type
+      label: Type of Skater Club Affiliation
+      hint: null
+      type: select_one
+      options:
+      - Skater
+      - Club
+      - Member
+      required: true
+    - id: 18
+      name: other_club_affiliations
+      label: Other Club Affiliations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: membership_fees
+      label: Membership Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fees_frequency
+      label: Fees Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: membership_dues
+      label: Membership Dues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: membership_dues_frequency
+      label: Dues Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: membership_notes
+      label: Membership Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: membership_comments
+      label: Membership Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

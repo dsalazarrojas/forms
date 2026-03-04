@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Information Collection Form
+    pages:
+    - id: 1
+      name: city_identification
+      label: -- City Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: city_name
+      label: City Name
+      hint: Official name of the city
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: demographics_header
+      label: -- Demographics Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: population
+      label: Current Population
+      hint: Total number of residents
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: population_growth_rate
+      label: Population Growth Rate - percent
+      hint: Annual percentage growth
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: median_age
+      label: Median Age
+      hint: In years
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: major_ethnic_groups
+      label: Major Ethnic Groups
+      hint: Separate with commas
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: primary_languages
+      label: Primary Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: economy_header
+      label: -- Economic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: major_industries
+      label: Major Industries
+      hint: List primary sectors
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: unemployment_rate
+      label: Unemployment Rate - percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: avg_household_income
+      label: Average Household Income
+      hint: Annual income in local currency
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: attractions_header
+      label: -- Key Attractions and Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: major_attractions
+      label: Major Tourist Attractions
+      hint: List main points of interest
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: climate
+      label: Primary Climate Type
+      hint: null
+      type: select_one
+      options:
+      - Tropical
+      - Subtropical
+      - Temperate
+      - Continental
+      - Arid
+      - Polar
+      required: false
+    - id: 18
+      name: founding_year
+      label: Year City Was Founded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: government_type
+      label: Government Type
+      hint: null
+      type: select_one
+      options:
+      - Monarchy
+      - Democracy
+      - Republic
+      - Other
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

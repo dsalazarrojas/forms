@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dietary Restriction Validation Form
+    pages:
+    - id: 1
+      name: dietary_restrictions_snippet
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: food_allergies_snippet
+      label: Food Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Egg
+      - Fish
+      - Shrimp
+      - Crustacean
+      - Dairy
+      - Sesame
+      required: false
+    - id: 3
+      name: food_dietary_restrictions_snippet
+      label: Food Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Gluten-free
+      - Vegetarian
+      - Vegan
+      - Kosher
+      required: true
+    - id: 4
+      name: special_diets_snippet
+      label: Special Diets
+      hint: null
+      type: select_one
+      options:
+      - No Special Diets
+      - Low-Sodium
+      - Low-Sugar
+      - Diabetic
+      required: false
+    - id: 5
+      name: medical_conditions_snippet
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method_snippet
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Other
+      required: true
+    - id: 7
+      name: contact_method_other_snippet
+      label: Other Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions_description_snippet
+      label: Medical Conditions Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions_snippet
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_snippet
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - No Emergency Contact
+      - Yes - Emergency Contact
+      required: false

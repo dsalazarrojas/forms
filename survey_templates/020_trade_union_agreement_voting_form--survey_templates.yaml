@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: trade_union_agreement_voting_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_info
+      label: member_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vote
+      label: vote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: member_name
+      label: member_name
+      hint: Please enter your name as per your membership ID card
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: union_agreement
+      label: union_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: eligible
+      label: eligible
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

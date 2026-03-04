@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: membership_resignation_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_resigning
+      label: Reason For Resigning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_number
+      label: Member Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_resignation
+      label: Date Of Resignation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_resignation
+      label: Time Of Resignation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_resigning_other
+      label: Other (if other, please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_of_resignation
+      label: Confirmation Of Resignation
+      hint: null
+      type: select_one
+      options:
+      - I am providing my consent to resign from the club.
+      - I am not providing my consent to resign from the club.
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirmation_of_resignation_other
+      label: Confirmation Of Resignation Other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_assigned
+      label: Date Assigned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_assigned
+      label: Time Assigned
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Financing Application Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: finance_terms
+      label: Finance Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: finance_amount
+      label: Finance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: loan_interest
+      label: Loan Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 15
+      name: loan_notes
+      label: Loan Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: bank_details
+      label: Bank Details
+      hint: null
+      type: select_multiple
+      options:
+      - Bank A
+      - Bank B
+      - Bank C
+      required: false
+    - id: 17
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      - Non-Profit
+      required: false
+    - id: 19
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Service
+      - Technology
+      required: false
+    - id: 20
+      name: business_license
+      label: Business License
+      hint: null
+      type: select_multiple
+      options:
+      - License A
+      - License B
+      - License C
+      required: false

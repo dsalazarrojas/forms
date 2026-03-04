@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_membership_form
+    pages:
+    - id: 1
+      name: membership_info
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: member_info
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_details
+      label: Emergency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

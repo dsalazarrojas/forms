@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Incident Report Form
+    pages:
+    - id: 1
+      name: section_reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Assistant Coach
+      - Team Manager
+      - Parent
+      - Athlete
+      - Other
+      required: true
+    - id: 4
+      name: reporter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: reporter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_incident_info
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: incident_location
+      label: Location of Incident
+      hint: Where did the incident occur?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_type
+      label: Type of Incident
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Injury
+      - Misconduct or Violation
+      - Property Damage
+      - Safety Concern
+      - Medical Emergency
+      - Conflict Between Athletes
+      - Other
+      required: true
+    - id: 11
+      name: section_people_involved
+      label: -- People Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: athlete_name
+      label: Athlete or Person Involved
+      hint: Full name of the person involved
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: athlete_age
+      label: Age or Date of Birth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: witnesses
+      label: Witnesses
+      hint: Names of people who witnessed the incident
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_incident_description
+      label: -- Incident Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: detailed_description
+      label: Detailed Description of What Happened
+      hint: Provide a clear and detailed account of the incident
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: What actions were taken immediately after the incident?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_injuries
+      label: -- Injuries or Damage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: injuries_reported
+      label: Were any injuries reported?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: injury_severity
+      label: Severity of Injury
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      required: false
+    - id: 21
+      name: medical_attention
+      label: Was medical attention provided or needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, provided
+      - Yes, referred to hospital
+      - No, not needed
+      required: true
+    - id: 22
+      name: section_followup
+      label: -- Follow-up Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: followup_actions
+      label: Follow-up Actions Required
+      hint: What needs to be done to prevent recurrence?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_date
+      label: Report Date
+      hint: Date of this report
+      type: date
+      options: []
+      required: true

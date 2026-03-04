@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Evaluation
+    pages:
+    - id: 1
+      name: page_one
+      label: peer_evaluation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_page_1_form_group_1
+      label: evaluation_criteria
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''communication_effectiveness'', ''value'': ''Communication
+        Effectiveness''}'
+      - '{''id'': 2, ''label'': ''collaboration_and_teamwork'', ''value'': ''Collaboration
+        and Teamwork''}'
+      - '{''id'': 3, ''label'': ''problem_solving'', ''value'': ''Problem Solving''}'
+      - '{''id'': 4, ''label'': ''creativity'', ''value'': ''Creativity''}'
+      - '{''id'': 5, ''label'': ''innovation'', ''value'': ''Innovation''}'
+      - '{''id'': 6, ''label'': ''other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: form_1_form_group_1
+      label: form_1_form_group_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_1_form_group_2
+      label: form_1_form_group_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_1_form_group_3
+      label: form_1_form_group_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_1_form_group_4
+      label: form_1_form_group_4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_1_form_group_5
+      label: form_1_form_group_5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_1_form_group_6
+      label: form_1_form_group_6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_1_form_group_7
+      label: form_1_form_group_7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_1_form_group_8
+      label: form_1_form_group_8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_1_form_group_9
+      label: form_1_form_group_9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_1_form_group_10
+      label: form_1_form_group_10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_1_form_group_11
+      label: form_1_form_group_11
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_1_form_group_12
+      label: form_1_form_group_12
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_1_form_group_13
+      label: form_1_form_group_13
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_1_form_group_14
+      label: form_1_form_group_14
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_1_form_group_15
+      label: form_1_form_group_15
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: form_1_form_group_16
+      label: form_1_form_group_16
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: form_1_form_group_17
+      label: form_1_form_group_17
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: form_1_form_group_18
+      label: form_1_form_group_18
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: form_1_form_group_19
+      label: form_1_form_group_19
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: form_1_form_group_20
+      label: form_1_form_group_20
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: form_1_form_group_21
+      label: form_1_form_group_21
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_1_form_group_22
+      label: form_1_form_group_22
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_2
+      label: peer_evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: overall_recommendation
+      label: overall_recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Highly'', ''value'': ''Highly''}'
+      - '{''id'': 2, ''label'': ''Somewhat'', ''value'': ''Somewhat''}'
+      - '{''id'': 3, ''label'': ''Not at all'', ''value'': ''Not at all''}'
+      - '{''id'': 4, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - '{''id'': 5, ''label'': "Don''t know", ''value'': "Don''t know"}'
+      required: false
+    - id: 28
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Reset''}'
+      required: false
+    - id: 29
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false

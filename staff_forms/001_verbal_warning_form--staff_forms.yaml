@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Verbal Warning Form
+    pages:
+    - id: 1
+      name: verbal_warning_form_employee
+      label: Employee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_date
+      label: Employee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: verbal_warning_form_manager
+      label: Manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_reprimand
+      label: Reason for Reprimand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verbal_warning_form_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: verbal_warning_form_outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Counseling''}'
+      - '{''id'': 3, ''label'': ''Verbal Reprimand''}'
+      - '{''id'': 4, ''label'': ''Suspension''}'
+      - '{''id'': 5, ''label'': ''Termination''}'
+      required: true
+    - id: 7
+      name: verbal_warning_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''chatjim''}'
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: verbal_warning_form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: verbal_warning_form_status_description
+      label: Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: verbal_warning_form_status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: verbal_warning_form_closed
+      label: Closed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: verbal_warning_form_closed_description
+      label: Closed Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: verbal_warning_form_closed_comments
+      label: Closed Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_extension
+      label: Submitted By Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_job_title
+      label: Submitted By Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_date
+      label: Submitted By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_time
+      label: Submitted By Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Fair Publishing Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Contact Full Name
+      hint: Full name of sponsor representative
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_email
+      label: Sponsor Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: Name of sponsoring organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_type
+      label: Company Type
+      hint: Select your organization type
+      type: select_one
+      options:
+      - Publishing House
+      - Independent Publisher
+      - Literary Agency
+      - Bookstore
+      - Educational Institution
+      - Media Company
+      - Corporate Sponsor
+      - Nonprofit Organization
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fair_date
+      label: Book Fair Date
+      hint: Select the fair you want to sponsor
+      type: select_one
+      options:
+      - Spring Fair March 2026
+      - Summer Fair June 2026
+      - Fall Fair September 2026
+      - Winter Fair December 2026
+      required: true
+    - id: 9
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Select your sponsorship tier
+      type: select_one
+      options:
+      - Platinum $10000 Plus
+      - Gold $5000-$9999
+      - Silver $2500-$4999
+      - Bronze $1000-$2499
+      - Friend $500-$999
+      - Custom Amount
+      required: true
+    - id: 10
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Enter your sponsorship amount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sponsorship_benefits
+      label: Desired Sponsorship Benefits
+      hint: Select benefits you want
+      type: select_multiple
+      options:
+      - Logo on Website
+      - Logo on Promotional Materials
+      - Booth Space Included
+      - Speaking Opportunity
+      - Social Media Mentions
+      - Press Release Inclusion
+      - VIP Event Access
+      - Advertising Space
+      required: true
+    - id: 12
+      name: booth_preference
+      label: Booth Space Preference
+      hint: Select if booth is needed
+      type: select_one
+      options:
+      - Premium Location
+      - Standard Location
+      - No Booth Needed
+      - Share with Partner
+      required: false
+    - id: 13
+      name: marketing_materials
+      label: Will You Provide Marketing Materials
+      hint: Select if you will provide materials
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 14
+      name: promotional_support
+      label: Promotional Support Offered
+      hint: How will you help promote the fair
+      type: select_multiple
+      options:
+      - Social Media Promotion
+      - Email Newsletter
+      - Website Listing
+      - Print Advertising
+      - In-Store Promotion
+      - None
+      required: false
+    - id: 15
+      name: participating_authors
+      label: Number of Authors You Will Bring
+      hint: How many authors will participate
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: author_names
+      label: Author Names
+      hint: List participating authors
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_events
+      label: Interested in Hosting Special Events
+      hint: Select if you want to host events
+      type: select_one
+      options:
+      - Yes Workshop or Panel
+      - Yes Book Signing
+      - Yes Reading
+      - No Thanks
+      required: false
+    - id: 18
+      name: event_details
+      label: Event Details
+      hint: Describe your proposed event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay sponsorship
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Invoice
+      - Purchase Order
+      required: true
+    - id: 20
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When will you pay
+      type: select_one
+      options:
+      - Full Payment Now
+      - 50 Percent Deposit
+      - Quarterly Payments
+      - Upon Invoice
+      required: true
+    - id: 21
+      name: tax_id
+      label: Tax ID or Business Number
+      hint: For tax documentation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For sponsor hospitality
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I Agree to Sponsorship Terms
+      hint: By selecting yes you agree to all terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

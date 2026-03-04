@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discord Staff Application Form
+    pages:
+    - id: 1
+      name: user_data
+      label: User Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discord_username
+      label: discord_username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discord_tag
+      label: discord_tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_interests
+      label: Role Interests
+      hint: What role(s) are you interested in?
+      type: select_one
+      options:
+      - Support
+      - Server Admin
+      - Developer
+      required: true
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: experience
+      hint: Please describe your experience with Discord and its related communities.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: timezone
+      label: timezone
+      hint: Your timezone (e.g. EST)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: timezone_offset
+      label: timezone_offset
+      hint: null
+      type: number
+      options: []
+      required: false

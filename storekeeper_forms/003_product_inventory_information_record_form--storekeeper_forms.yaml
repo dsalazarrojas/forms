@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Inventory Information Record Form
+    pages:
+    - id: 1
+      name: product_description
+      label: Product Description
+      hint: Describe the product
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: product id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: enter quantity
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: enter location
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price
+      label: product price
+      hint: enter price
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_color
+      label: product color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 8
+      name: product_size
+      label: product size
+      hint: enter size
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_weight
+      label: product weight
+      hint: enter weight
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_height
+      label: product height
+      hint: enter height
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: product_length
+      label: product length
+      hint: enter length
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: product_width
+      label: product width
+      hint: enter width
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_depth
+      label: product depth
+      hint: enter depth
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: product_category
+      label: product category
+      hint: select category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: product_subcategory
+      label: product subcategory
+      hint: select subcategory
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: product_status
+      label: product status
+      hint: select status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: product_notes
+      label: product notes
+      hint: enter notes
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: product_tags
+      label: product tags
+      hint: enter tags
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: product_date
+      label: product date
+      hint: enter date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: product_time
+      label: product time
+      hint: enter time
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: product_email
+      label: product email
+      hint: enter email
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: product_phone
+      label: product phone
+      hint: enter phone
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_fax
+      label: product fax
+      hint: enter fax
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: product_address
+      label: product address
+      hint: enter address
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: product_comments
+      label: product comments
+      hint: enter comments
+      type: text
+      options: []
+      required: false

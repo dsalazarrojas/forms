@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Leader Policy Acknowledgement Form
+    pages:
+    - id: 1
+      name: leader_first_name
+      label: Leader First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: leader_last_name
+      label: Leader Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your role at camp
+      type: select_one
+      options:
+      - Camp Counselor
+      - Senior Counselor
+      - Activity Leader
+      - Program Director
+      - Support Staff
+      - Administrator
+      - Other
+      required: true
+    - id: 7
+      name: camp_location
+      label: Camp Location
+      hint: Which camp location
+      type: select_one
+      options:
+      - Main Camp
+      - North Campus
+      - South Campus
+      - Lakefront Camp
+      - Mountain Camp
+      - Multiple locations
+      required: true
+    - id: 8
+      name: start_date
+      label: Employment Start Date
+      hint: When you started
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: policy_handbook_received
+      label: I Have Received the Camp Policy Handbook
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I have received it
+      - No - I have not received it
+      required: true
+    - id: 10
+      name: child_protection_policy
+      label: Child Protection Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 11
+      name: safety_protocols_policy
+      label: Safety Protocols Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 12
+      name: emergency_procedures_policy
+      label: Emergency Procedures Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 13
+      name: code_of_conduct_policy
+      label: Code of Conduct Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 14
+      name: confidentiality_policy
+      label: Confidentiality Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 15
+      name: social_media_policy
+      label: Social Media Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 16
+      name: medication_administration_policy
+      label: Medication Administration Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      - Not applicable to my role
+      required: true
+    - id: 17
+      name: transportation_policy
+      label: Transportation Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      - Not applicable to my role
+      required: true
+    - id: 18
+      name: incident_reporting_policy
+      label: Incident Reporting Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 19
+      name: harassment_prevention_policy
+      label: Harassment Prevention Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 20
+      name: technology_use_policy
+      label: Technology Use Policy Acknowledgement
+      hint: I have read and understand
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - No - I need review
+      required: true
+    - id: 21
+      name: background_check_completed
+      label: Background Check Completed
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - completed
+      - No - pending
+      - Not yet submitted
+      required: true
+    - id: 22
+      name: cpr_certification
+      label: CPR Certification Status
+      hint: Select your status
+      type: select_one
+      options:
+      - Current and valid
+      - Expires within 6 months
+      - Expired - need renewal
+      - Not certified
+      required: true
+    - id: 23
+      name: first_aid_certification
+      label: First Aid Certification Status
+      hint: Select your status
+      type: select_one
+      options:
+      - Current and valid
+      - Expires within 6 months
+      - Expired - need renewal
+      - Not certified
+      required: true
+    - id: 24
+      name: additional_training_needed
+      label: Additional Training Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None - all complete
+      - Water safety
+      - Crisis intervention
+      - Behavioral management
+      - Activity-specific training
+      - Leadership development
+      - Other
+      required: true
+    - id: 25
+      name: questions_or_concerns
+      label: Questions or Concerns About Policies
+      hint: List any questions
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: leader_signature
+      label: Leader Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date Signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

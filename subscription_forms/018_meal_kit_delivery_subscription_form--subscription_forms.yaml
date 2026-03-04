@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Kit Delivery Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: Password
+      hint: Password must be at least 8 characters long
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_password
+      label: Confirm Password
+      hint: Confirm your password
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''yearly'', ''label'': ''Yearly''}'
+      required: true
+    - id: 12
+      name: plan_id
+      label: Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Plan 1''}'
+      - '{''value'': 2, ''label'': ''Plan 2''}'
+      - '{''value'': 3, ''label'': ''Plan 3''}'
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_submit
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: subscription_duration
+      label: Subscription Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
+      - '{''value'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      required: true
+    - id: 21
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''stripe'', ''label'': ''Stripe''}'
+      - '{''value'': ''square'', ''label'': ''Square''}'
+      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: email_subscription
+      label: Email Subscription
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: subscription_id
+      label: Subscription ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Play Comprehension Assessment
+    pages:
+    - id: 1
+      name: play_title
+      label: Play Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: play_type
+      label: Play Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: play_description
+      label: Play Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: audience_reaction
+      label: Audience Reaction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: play_imagination
+      label: How did the play help you use your imagination?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: play_emotion
+      label: How did the play make you feel?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: play_liking
+      label: How much did you like the play?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: play_recommend
+      label: Would you recommend this play?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 9
+      name: play_imagination_liking
+      label: How much did the play help you use your imagination?
+      hint: null
+      type: select_multiple
+      options:
+      - Very much
+      - Somewhat
+      - A little
+      - Not at all
+      required: true
+    - id: 10
+      name: play_emotion_liking
+      label: How much did the play make you feel?
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly
+      - Somewhat
+      - Neither
+      - Not at all
+      required: true
+    - id: 11
+      name: play_suggestion
+      label: What suggestions do you have for the play?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: play_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_id
+      label: Student ID
+      hint: Enter your student ID number
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submission_method
+      label: How was the play submitted to you?
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Video
+      - Online
+      - Other
+      required: false
+    - id: 21
+      name: submission_location
+      label: Where was the play submitted to you?
+      hint: null
+      type: select_multiple
+      options:
+      - Theater
+      - School
+      - Home
+      - Other
+      - No answer
+      required: false
+    - id: 22
+      name: submission_device
+      label: What device was used to submit the play?
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop
+      - Tablet
+      - Mobile
+      - Other
+      - No answer
+      required: false
+    - id: 23
+      name: submission_browser
+      label: What browser was used to submit the play?
+      hint: null
+      type: select_multiple
+      options:
+      - Chrome
+      - Safari
+      - Firefox
+      - Other
+      - No answer
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

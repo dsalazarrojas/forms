@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_league_admin_setup_form
+    pages:
+    - id: 1
+      name: league_name
+      label: league_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: league_type
+      label: league_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Soccer''}'
+      - '{''value'': ''Basketball''}'
+      - '{''value'': ''Football''}'
+      required: true
+    - id: 3
+      name: league_address
+      label: league_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: league_rules
+      label: league_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scoring_system
+      label: scoring_system
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Default''}'
+      - '{''value'': ''Custom''}'
+      required: true
+    - id: 8
+      name: game_duration
+      label: game_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: game_start_time
+      label: game_start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: game_end_time
+      label: game_end_time
+      hint: null
+      type: time
+      options: []
+      required: false

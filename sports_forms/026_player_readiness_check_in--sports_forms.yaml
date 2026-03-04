@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Readiness Check In
+    pages:
+    - id: 1
+      name: player_id
+      label: Player ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: availability_status
+      label: Availability Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - Late
+      required: false
+    - id: 3
+      name: reason_for_unavailability
+      label: Reason for Unavailability
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: activity_name
+      label: Activity Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Optional
+      type: note
+      options: []
+      required: false

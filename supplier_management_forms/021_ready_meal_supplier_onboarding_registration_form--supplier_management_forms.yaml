@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ready Meal Supplier Onboarding Registration Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: documentation
+      label: Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - Business Registration Document
+      - Health Certificate
+      - Insurance Document
+      required: false
+    - id: 5
+      name: coverage_details
+      label: Coverage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coverage_start
+      label: Coverage Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coverage_end
+      label: Coverage End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: coverage_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_type
+      label: Supplier Type
+      hint: null
+      type: select_one
+      options:
+      - Ready Meal Service
+      - Grocery Supplier
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: status_note
+      label: Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: ingredient_origin_confirmation_request_form
+    pages:
+    - id: 1
+      name: ingredient_origin_confirmation_request_form
+      label: Ingredient Origin Confirmation Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Supplier Management Forms
+      - Request Forms
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ingredient
+      label: Ingredient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: origin_country
+      label: Origin Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - China
+      - Japan
+      required: true
+    - id: 9
+      name: origin_state
+      label: Origin State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      - Texas
+      - Illinois
+      required: true
+    - id: 10
+      name: origin_city
+      label: Origin City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supplier_documentation
+      label: Supplier Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - Certificate of Analysis
+      - Certificate of Origin
+      - Certificate of Compliance
+      - Certificate of Conformity
+      - Other
+      required: false
+    - id: 12
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: origin_date
+      label: Origin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: origin_time
+      label: Origin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: origin_notes
+      label: Origin Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ingredient_origin_confirmation_code
+      label: Ingredient Origin Confirmation Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: ingredient_description
+      label: Ingredient Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Non-Certified
+      required: true
+    - id: 19
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: certification_expiration_date
+      label: Certification Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: supplier_certification
+      label: Supplier Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certificate of Analysis
+      - Certificate of Compliance
+      - Certificate of Conformity
+      - Certificate of Origin
+      - Other
+      required: false
+    - id: 23
+      name: supplier_certification_number
+      label: Supplier Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ingredient_specifications
+      label: Ingredient Specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: prophets of the form
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

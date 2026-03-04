@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Sports Program Application
+    pages:
+    - id: 1
+      name: athlete_info_header
+      label: -- Athlete Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: athlete_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: athlete_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_relation
+      label: Relationship to Athlete
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: adaptive_needs_header
+      label: -- Adaptive Needs and Sports --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sports_interest
+      label: Primary Sport(s) of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair Basketball
+      - Para Swimming
+      - Sitting Volleyball
+      - Adaptive Track and Field
+      - Sledge Hockey
+      - Goalball
+      - Adaptive Cycling
+      required: true
+    - id: 12
+      name: disability_category
+      label: Primary Disability Category
+      hint: Used for program classification and safety
+      type: select_one
+      options:
+      - Physical Disability (Mobility)
+      - Physical Disability (Amputee)
+      - Visual Impairment
+      - Hearing Impairment
+      - Intellectual / Developmental Disability
+      - Other
+      required: true
+    - id: 13
+      name: equipment_needs
+      label: Equipment Requirements
+      hint: Do you require specific adaptive equipment provided by the program?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_clearance_header
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: physician_name
+      label: Primary Care Physician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: known_allergies
+      label: Known Allergies / Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: release_agreement
+      label: I hereby release the program from liability during participation
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: photo_release
+      label: I grant permission for photos to be used for program promotion
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent For Stay
+    pages:
+    - id: 1
+      name: stay_details
+      label: stay_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: camp_details
+      label: camp details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: dates_of_stay
+      label: Dates of Stay
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: prophets_concerns
+      label: Any medical or personal concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_contact
+      label: Doctor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: doctor_facility
+      label: Doctor Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

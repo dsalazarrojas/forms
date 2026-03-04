@@ -1,0 +1,255 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Army Soldier Feedback Form
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: Optional - responses are confidential
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_rank
+      label: Rank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: respondent_unit
+      label: Unit or Command
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_service
+      label: Years of Service
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 6
+      name: feedback_date
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_leadership
+      label: -- Leadership and Command --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: commander_effectiveness
+      label: Commander effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true
+    - id: 9
+      name: leadership_style
+      label: Leadership style is clear and fair
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 10
+      name: communication_quality
+      label: Quality of communication from leadership
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: section_working_conditions
+      label: -- Working Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: working_conditions_satisfaction
+      label: Satisfaction with working conditions
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 13
+      name: resources_adequate
+      label: Are you provided adequate resources for your role
+      hint: null
+      type: select_one
+      options:
+      - Yes, more than adequate
+      - Yes, adequate
+      - Somewhat adequate
+      - No, inadequate
+      - No, very inadequate
+      required: true
+    - id: 14
+      name: training_quality
+      label: Quality of training and development
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 15
+      name: section_morale
+      label: -- Morale and Well-being --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: morale_level
+      label: Overall unit morale
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Average
+      - Low
+      - Very low
+      required: true
+    - id: 17
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 18
+      name: mental_health_support
+      label: Mental health support availability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Not available
+      required: true
+    - id: 19
+      name: section_concerns
+      label: -- Areas of Concern --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: main_concerns
+      label: Main concerns or challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Workload or schedule
+      - Leadership issues
+      - Inadequate resources
+      - Lack of advancement
+      - Poor morale
+      - Safety concerns
+      - Compensation or benefits
+      - Family separation
+      - Other
+      required: false
+    - id: 21
+      name: concerns_description
+      label: Describe your main concerns in detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_suggestions
+      label: -- Suggestions for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      label: How can the Army improve your service experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: would_recommend
+      label: Would you recommend Army service to others
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Profile Form
+    pages:
+    - id: 1
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_description
+      label: Store Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: store_services
+      label: Store Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: store_products
+      label: Store Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: store_services_details
+      label: Services Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_hours_details
+      label: Hours Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: store_employees
+      label: Store Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: store_employees_details
+      label: Employees Details
+      hint: null
+      type: text
+      options: []
+      required: false

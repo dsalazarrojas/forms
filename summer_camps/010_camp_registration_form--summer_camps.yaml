@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: camper_grade
+      label: Grade Entering in Fall
+      hint: null
+      type: select_one
+      options:
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: true
+    - id: 7
+      name: camper_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: section_parent_info
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_first_name
+      label: Parent First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_last_name
+      label: Parent Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: parent_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parent_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: parent_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_camp_session
+      label: -- Camp Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: camp_week_selection
+      label: Which week would you like to attend
+      hint: null
+      type: select_one
+      options:
+      - Week 1 - June 17-21
+      - Week 2 - June 24-28
+      - Week 3 - July 8-12
+      - Week 4 - July 15-19
+      - Week 5 - July 22-26
+      - Week 6 - July 29 - Aug 2
+      required: true
+    - id: 19
+      name: camp_full_or_half_day
+      label: Full Day or Half Day
+      hint: null
+      type: select_one
+      options:
+      - Full Day - 9am to 4pm
+      - Half Day AM - 9am to 12pm
+      - Half Day PM - 1pm to 4pm
+      required: true
+    - id: 20
+      name: section_health_info
+      label: -- Health and Safety Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: allergies
+      label: Does your child have any allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Any medical conditions we should know about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medications
+      label: Current medications being taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

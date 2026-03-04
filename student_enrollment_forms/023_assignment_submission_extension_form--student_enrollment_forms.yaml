@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Submission Extension Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Your student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: Your university email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: Name of the course
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_number
+      label: Course Number
+      hint: Course identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: instructor_name
+      label: Instructor Name
+      hint: Professor or instructor name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_name
+      label: Assignment Name
+      hint: Title or description of assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_number
+      label: Assignment Number
+      hint: Which assignment in sequence?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: original_due_date
+      label: Original Due Date
+      hint: When is it normally due?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_date_today
+      label: Date of This Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: requested_extension_days
+      label: Requested Extension (number of days)
+      hint: How many days do you need?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: new_proposed_due_date
+      label: Proposed New Due Date
+      hint: When can you submit?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: extension_reason
+      label: Reason for Extension Request
+      hint: Why do you need more time?
+      type: select_one
+      options:
+      - Illness or Health Issue
+      - Family Emergency
+      - Work Conflict
+      - Technical Issues
+      - Lack of Understanding
+      - Multiple Deadlines
+      - Other
+      required: true
+    - id: 15
+      name: reason_details
+      label: Detailed Explanation
+      hint: Explain your situation in detail
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: work_progress
+      label: Current Progress on Assignment
+      hint: How much have you completed?
+      type: select_one
+      options:
+      - Just Starting
+      - 25% Complete
+      - 50% Complete
+      - 75% Complete
+      - Nearly Done
+      required: true
+    - id: 17
+      name: plan_to_complete
+      label: Plan to Complete Assignment
+      hint: How will you finish it?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_extensions
+      label: Have You Requested Extensions Before?
+      hint: In this course or others?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 19
+      name: previous_extension_count
+      label: Number of Previous Extensions
+      hint: How many previous extensions?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: late_submission_policy_understood
+      label: I Understand the Late Submission Policy
+      hint: Do you understand late penalties?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: academic_standing
+      label: Your Academic Standing
+      hint: How are your grades?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Anything else the instructor should know?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_acknowledgment
+      label: I request this extension in good faith
+      hint: Confirm your honest request
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 24
+      name: submission_date
+      label: Request Submission Date and Time
+      hint: When you submit this request
+      type: date
+      options: []
+      required: true

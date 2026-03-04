@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Evaluation Form
+    pages:
+    - id: 1
+      name: fitness_class_evaluation_form
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instructor
+      label: Instructor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: class_rating
+      label: Class Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: class_value
+      label: Class Value
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 7
+      name: class_improvement
+      label: Class Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_improvement
+      label: Instructor Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

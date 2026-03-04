@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: HBRC 2020 Team Staff EOI Form
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: Years playing or coaching rugby
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: Head Coach, Assistant Coach, Manager, etc.
+      type: select_one
+      options:
+      - Head Coach
+      - Assistant Coach
+      - Manager
+      required: false
+    - id: 6
+      name: team
+      label: Team
+      hint: Team Name
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 7
+      name: referee_cert
+      label: Referee Certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: referee_cert_date
+      label: Referee Cert Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: referee_cert_level
+      label: Level of Referee Certification
+      hint: Level of Referee Certification
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 10
+      name: referee_cert_status
+      label: Status of Referee Cert
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false

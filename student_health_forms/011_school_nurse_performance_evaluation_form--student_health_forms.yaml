@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_nurse_performance_evaluation_form
+    pages:
+    - id: 1
+      name: school_nurse_performance
+      label: School Nurse Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school_staff
+      label: School Staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: school
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_health_clinics
+      label: Student Health Clinics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_health_services
+      label: Student Health Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_environment
+      label: School Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_time_of_day
+      label: Evaluation Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_time_of_year
+      label: Evaluation Time of Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

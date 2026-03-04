@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name of athlete
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: weight_class_kg
+      label: Weight class kilograms
+      hint: Enter current weight in kg
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact number
+      hint: Phone number for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical conditions
+      hint: List any health issues or medications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: club_affiliation
+      label: Club affiliation
+      hint: Name of boxing club or gym
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parental_consent
+      label: Parental consent for minors
+      hint: Required for participants under 18
+      type: select_one
+      options:
+      - Provided
+      - Not provided
+      required: true
+    - id: 8
+      name: registration_fee_paid
+      label: Registration fee paid
+      hint: Confirm payment status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

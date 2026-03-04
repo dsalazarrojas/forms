@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Grocery Shopping Survey
+    pages:
+    - id: 1
+      name: shopping_habits
+      label: How often do you shop
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shopping_frequency
+      label: How often do you grocery shop?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      - Other
+      required: false
+    - id: 4
+      name: shopping_channels
+      label: Shopping channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shopping_channels_online
+      label: Online
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon
+      - Instacart
+      - Google
+      - Other
+      required: false
+    - id: 6
+      name: shopping_channels_instore
+      label: In-store
+      hint: null
+      type: select_multiple
+      options:
+      - Grocery store
+      - Discount store
+      - Pharmacy
+      - Other
+      required: false
+    - id: 7
+      name: preferred_store
+      label: Preferred store
+      hint: null
+      type: select_one
+      options:
+      - Whole Foods
+      - Trader Joe's
+      - Costco
+      - Other
+      required: false
+    - id: 8
+      name: store_experience
+      label: Store experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: store_experience_online
+      label: Online
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: store_experience_instore
+      label: In-store
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: store_experience_other
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: shopping_frequency_frequency
+      label: Frequency (per week)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: age
+      label: Age
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - Other
+      required: false
+    - id: 14
+      name: income
+      label: Income
+      hint: null
+      type: select_one
+      options:
+      - Less than $25k
+      - $25k-$49k
+      - $50k-$74k
+      - $75k-$99k
+      - $100k+
+      required: false
+    - id: 15
+      name: household_income
+      label: Household income
+      hint: null
+      type: select_one
+      options:
+      - Less than $25k
+      - $25k-$49k
+      - $50k-$74k
+      - $75k-$99k
+      - $100k+
+      required: false
+    - id: 16
+      name: household_members
+      label: Household members
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - More than 6
+      required: false
+    - id: 17
+      name: household_income_range
+      label: Household income range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Some college
+      - High school or below
+      required: false
+    - id: 19
+      name: household_education
+      label: Household education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Some college
+      - High school or below
+      required: false
+    - id: 20
+      name: household_employment_status
+      label: Household employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: employment_status_employed
+      label: Employed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: employment_status_unemployed
+      label: Unemployed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: employment_status_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

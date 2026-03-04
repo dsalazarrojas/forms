@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Magazine Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Full Name
+      hint: Subscriber full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For subscription confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subscription_year
+      label: Subscription Year
+      hint: Which year?
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - 2028
+      - Multi-Year
+      required: true
+    - id: 6
+      name: subscription_type
+      label: Subscription Type
+      hint: What type of subscription?
+      type: select_one
+      options:
+      - Print Only
+      - Digital Only
+      - Print and Digital
+      - Premium
+      - Student
+      - Corporate
+      - Gift
+      required: true
+    - id: 7
+      name: subscription_duration
+      label: Subscription Duration
+      hint: How long?
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - Lifetime
+      required: true
+    - id: 8
+      name: magazine_title
+      label: Magazine Title
+      hint: Which magazine?
+      type: select_one
+      options:
+      - Business Weekly
+      - Tech Monthly
+      - Lifestyle Quarterly
+      - Science Today
+      - Arts and Culture
+      - Sports Illustrated
+      - Other
+      required: true
+    - id: 9
+      name: number_of_copies
+      label: Number of Copies
+      hint: For print subscriptions
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 11
+      name: start_issue
+      label: Start Issue
+      hint: When should it begin?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: gift_recipient_name
+      label: Gift Recipient Name
+      hint: If gift subscription
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gift_recipient_address
+      label: Gift Recipient Address
+      hint: Delivery address for gift
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gift_message
+      label: Gift Message
+      hint: Personal message
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Invoice
+      required: true
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Other
+      required: false
+    - id: 17
+      name: subscription_fee
+      label: Subscription Fee
+      hint: Total amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: promotional_code
+      label: Promotional Code
+      hint: Discount code if any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: auto_renewal
+      label: Auto Renewal
+      hint: Should it auto-renew?
+      type: select_one
+      options:
+      - Yes, Auto-Renew
+      - No, One-Time
+      required: true
+    - id: 20
+      name: renewal_reminder
+      label: Renewal Reminder
+      hint: How to remind you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No Reminder
+      required: false
+    - id: 21
+      name: digital_access_email
+      label: Digital Access Email
+      hint: Email for digital content
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: preferences
+      label: Content Preferences
+      hint: Topics of interest
+      type: select_multiple
+      options:
+      - News and Current Affairs
+      - Technology
+      - Business
+      - Lifestyle
+      - Health and Wellness
+      - Travel
+      - Food and Cooking
+      - Arts and Culture
+      - Sports
+      - Science
+      required: false
+    - id: 23
+      name: marketing_opt_in
+      label: Marketing Communications
+      hint: Receive promotional emails?
+      type: select_one
+      options:
+      - Yes, Please
+      - No, Thank You
+      required: true
+    - id: 24
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Advertisement
+      - Newsstand
+      - Previous Subscriber
+      - Other
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - false
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

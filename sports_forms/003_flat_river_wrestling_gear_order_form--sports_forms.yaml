@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flat River Wrestling Gear Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_items
+      label: order items
+      hint: null
+      type: select_multiple
+      options:
+      - Wrestling Singlet
+      - Wrestling Shorts
+      - Wrestling Socks
+      - Wrestling Headgear
+      - Wrestling Gloves
+      - Wrestling Shoes
+      - Wrestling Mat
+      - Wrestling Bag
+      required: false
+    - id: 9
+      name: order_quantity
+      label: order quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - FedEx
+      - UPS
+      - Local Pickup
+      required: false
+    - id: 11
+      name: shipping_cost
+      label: shipping cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_comments
+      label: order comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: created_at
+      label: created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_at
+      label: updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: deleted_at
+      label: deleted at
+      hint: null
+      type: date
+      options: []
+      required: false

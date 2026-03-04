@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Help Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: help_needed
+      label: Help Needed
+      hint: null
+      type: select_one
+      options:
+      - Help with everything
+      - Just check my work
+      - Explain it to me
+      - Do it for me
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - In-Person Meeting
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

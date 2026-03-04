@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audience Topic Suggestion Survey Form
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- We Value Your Input --
+        hint: Help us shape our future content by suggesting topics you want to learn about.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_role
+        label: Your Current Role or Profession
+        hint: helps us understand our audience demographics
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: section_topics
+        label: -- Topic Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: general_categories
+        label: Which general categories interest you most?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Technology and AI
+          - Business and Leadership
+          - Creative Arts and Design
+          - Personal Development
+          - Health and Wellness
+          - Sustainability and Environment
+        required: true
+      - id: 6
+        name: specific_topic_suggestion
+        label: Suggest a specific topic or theme
+        hint: Be as detailed as you like
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: importance_reason
+        label: Why is this topic important to you?
+        hint: What problems would it help you solve?
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: section_format
+        label: -- Preferred Learning Format --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: preferred_format
+        label: How do you prefer to consume this content?
+        hint: null
+        type: select_one
+        options:
+          - Live Webinar
+          - In-Person Workshop
+          - Recorded Video Series
+          - Podcast Episode
+          - Written Article or Whitepaper
+        required: true
+      - id: 10
+        name: learning_depth
+        label: Desired Depth of Topic
+        hint: null
+        type: select_one
+        options:
+          - Beginner - Overview
+          - Intermediate - Deep Dive
+          - Advanced - Technical/Expert level
+        required: true
+      - id: 11
+        name: section_engagement
+        label: -- Future Participation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: participant_interest
+        label: Would you be interested in being a guest speaker or panelist on this topic?
+        hint: null
+        type: select_one
+        options:
+          - Yes, I have expertise to share
+          - No, I just want to learn
+          - Maybe in the future
+        required: true
+      - id: 13
+        name: contact_email
+        label: Email Address
+        hint: If you'd like us to notify you if we cover this topic
+        type: email
+        options: []
+        required: false

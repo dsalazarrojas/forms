@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flag Football League Registration Form
+    pages:
+    - id: 1
+      name: player_info
+      label: player_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_league
+      label: Team League
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: division
+      label: Division
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_card
+      label: Payment Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_card_type
+      label: Payment Card Type
+      hint: null
+      type: select_one
+      options:
+      - VISA
+      - MC
+      - Amex
+      required: false
+    - id: 11
+      name: payment_expiration
+      label: Payment Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: player_address
+      label: Player Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DC
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MD
+      - MA
+      - MI
+      - MN
+      - MS
+      - MO
+      - MT
+      - NE
+      - NV
+      - NJ
+      - NY
+      - NC
+      - OH
+      - OK
+      - OR
+      - SC
+      - TN
+      - TX
+      - UT
+      - VA
+      - WA
+      - WV
+      - WI
+      - CO
+      required: true
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: team_manager
+      label: Team Manager
+      hint: null
+      type: select_one
+      options:
+      - Player Manager
+      - Team Manager
+      - Parent
+      required: false
+    - id: 19
+      name: team_manager_email
+      label: Team Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: team_manager_phone
+      label: Team Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_manager_address
+      label: Team Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_manager_street
+      label: Team Manager Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_manager_city
+      label: Team Manager City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_manager_state
+      label: Team Manager State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DC
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MD
+      - MA
+      - MI
+      - MN
+      - MS
+      - MO
+      - MT
+      - NE
+      - NV
+      - NJ
+      - NY
+      - NC
+      - OH
+      - OK
+      - OR
+      - SC
+      - TN
+      - TX
+      - UT
+      - VA
+      - WA
+      - WV
+      - WI
+      - CO
+      required: true
+    - id: 25
+      name: team_manager_zip_code
+      label: Team Manager Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false

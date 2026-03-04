@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Transfer Form
+    pages:
+    - id: 1
+      name: employee_transfer_form_first_page
+      label: Select Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: transfer_details
+      label: Transfer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_department
+      label: New Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: new_position
+      label: New Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: old_position
+      label: Old Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true

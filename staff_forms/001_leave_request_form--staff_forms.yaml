@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: leave_request_form
+    pages:
+    - id: 1
+      name: leave_request_details
+      label: leave_request_details
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, I would like to leave work
+      - No, I do not want to leave work
+      - I need to work from home
+      required: false
+    - id: 2
+      name: date_from
+      label: date_from
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_to
+      label: date_to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false

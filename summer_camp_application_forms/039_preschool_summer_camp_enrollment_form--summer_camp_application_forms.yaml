@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Summer Camp Enrollment Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: days_of_week
+      label: Days of Week
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 10
+      name: hours_of_summer_camp
+      label: Hours of Summer Camp
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 2:00 PM
+      - 2:00 PM - 4:00 PM
+      required: true
+    - id: 11
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: camp_type
+      label: Camp Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full Day
+      - Half Day
+      - Half Week
+      required: true
+    - id: 14
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Music
+      - Sports
+      - Reading
+      required: true
+    - id: 15
+      name: student_availability
+      label: Student Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Lunch
+      required: true
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: confirmation_terms_agreement
+      label: Confirmation Terms Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: confirmation_terms
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: confirmation_terms_terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: confirmation_terms_checkbox
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: confirmation_terms_terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

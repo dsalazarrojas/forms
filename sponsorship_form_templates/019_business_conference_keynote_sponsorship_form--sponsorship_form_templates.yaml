@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Conference Keynote Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_information
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of sponsoring organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_website
+      label: Company Website
+      hint: Your company's website URL
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: industry_sector
+      label: Industry Sector
+      hint: Your industry or market
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sponsorship_details
+      label: -- Sponsorship Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Select sponsorship package
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Partner
+      - Custom
+      required: true
+    - id: 11
+      name: platinum_benefits
+      label: Platinum Level Investment
+      hint: Amount for platinum sponsorship
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: gold_benefits
+      label: Gold Level Investment
+      hint: Amount for gold sponsorship
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: silver_benefits
+      label: Silver Level Investment
+      hint: Amount for silver sponsorship
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bronze_benefits
+      label: Bronze Level Investment
+      hint: Amount for bronze sponsorship
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: keynote_speaker
+      label: -- Keynote Speaker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: speaker_name
+      label: Proposed Keynote Speaker
+      hint: Name of your speaker
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: speaker_title
+      label: Speaker Title and Organization
+      hint: Speaker's position and company
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: speaker_bio
+      label: Speaker Bio and Credentials
+      hint: Brief biography of speaker
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: presentation_topic
+      label: Presentation Topic
+      hint: Title or topic of presentation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: conference_dates
+      label: Conference Dates
+      hint: Event dates
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: session_date
+      label: Preferred Session Date
+      hint: When keynote should take place
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: session_duration
+      label: Session Duration
+      hint: Length of keynote presentation
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 90 minutes
+      - 2 hours
+      - Other
+      required: false
+    - id: 24
+      name: target_audience
+      label: Target Audience Size
+      hint: Expected attendance
+      type: select_one
+      options:
+      - Under 100
+      - 100-250
+      - 250-500
+      - 500-1000
+      - 1000-2000
+      - 2000+
+      required: true
+    - id: 25
+      name: marketing_commitment
+      label: Marketing and Promotion
+      hint: Your marketing commitment level
+      type: select_one
+      options:
+      - Minimal
+      - Standard
+      - Extensive
+      - Full Push
+      required: false

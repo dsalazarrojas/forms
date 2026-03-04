@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Click & Collect Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Mobile Number
+      hint: For order status updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details_header
+      label: -- Order Details --
+      hint: Please list the items you wish to purchase
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_list
+      label: Products and Quantities
+      hint: e.g. 2x Milk, 1x Bread, 5kg Rice
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_reference_number
+      label: Online Order Number (if already placed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Any special instructions?
+      hint: e.g. Specific brands, substitutions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collection_details_header
+      label: -- Collection Appointment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_collection_date
+      label: Preferred Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_collection_time
+      label: Preferred Collection Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 09-00 - 11-00 AM
+      - 11-00 - 01-00 PM
+      - 01-00 - 03-00 PM
+      - 03-00 - 05-00 PM
+      - 05-00 - 07-00 PM
+      required: true
+    - id: 12
+      name: collection_location
+      label: Store Location for Collection
+      hint: null
+      type: select_one
+      options:
+      - Main Street Branch
+      - West Side Mall
+      - North Plaza
+      required: true
+    - id: 13
+      name: payment_option_header
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Pre-paid Online
+      - Pay on Collection (Card)
+      - Pay on Collection (Cash)
+      required: true
+    - id: 15
+      name: terms_and_conditions
+      label: I understand that items are subject to availability
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 16
+      name: confirmation_footer
+      label: -- Thank you for shopping with us! --
+      hint: You will receive a confirmation message once your order is ready for pick-up.
+      type: note
+      options: []
+      required: false

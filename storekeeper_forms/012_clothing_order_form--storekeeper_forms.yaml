@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State - Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_items
+      label: -- Order Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - T-shirts
+      - Dress shirts
+      - Pants
+      - Dresses
+      - Jackets
+      - Sweaters
+      - Accessories
+      required: true
+    - id: 13
+      name: item_name
+      label: Item Name - Description
+      hint: Specific product name or code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 15
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: unit_price
+      label: Unit Price - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: add_another_item
+      label: Add another item?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: section_options
+      label: -- Order Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight
+      - Local pickup
+      required: true
+    - id: 21
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: gift_wrap
+      label: Gift wrapping required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special instructions or notes
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

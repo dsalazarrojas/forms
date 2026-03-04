@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Presentation Feedback
+    pages:
+    - id: 1
+      name: presentation_id
+      label: Science Talk Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: science_presentation_feedback_rating
+      label: Science Talk Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: science_presentation_feedback_rating_time
+      label: Science Talk Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: science_presentation_feedback_rating_duration
+      label: Science Talk Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: speaker
+      label: Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: science_presentation_feedback_rating_likers
+      label: Likers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: science_presentation_feedback_rating_dislikers
+      label: Dislikers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: science_presentation_feedback_rating_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: science_presentation_feedback_rating_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: science_presentation_feedback_rating_improve_areas
+      label: Improve Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: science_presentation_feedback_rating_improve_areas_comments
+      label: Improve Areas Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: science_presentation_feedback_rating_improve_areas_suggestions
+      label: Improve Areas Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

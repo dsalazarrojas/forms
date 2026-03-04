@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Reading Proficiency Assessment
+    pages:
+    - id: 1
+      name: student_profile
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reading_proficiency
+      label: Reading Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 3
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: placement_recommendation
+      label: Placement Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: lessons_planned
+      label: Lessons Planned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: progress_tracking
+      label: Progress Tracking
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: date_last_assessed
+      label: Date Last Assessed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_last_assessed
+      label: Time Last Assessed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: next_assessment
+      label: Next Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Quarterly
+      - Bi-annually
+      required: false
+    - id: 12
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: instructor_comments
+      label: Instructor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: placement_decision
+      label: Placement Decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

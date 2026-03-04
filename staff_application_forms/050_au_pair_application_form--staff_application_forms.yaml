@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Au Pair Application Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: Your country of citizenship
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: International format if applicable
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_address
+      label: Current Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_country
+      label: City and Country
+      hint: Where you currently reside
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: childcare_experience
+      label: -- Childcare Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: years_experience
+      label: Years of Childcare Experience
+      hint: How long have you worked with children?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: age_groups_experience
+      label: Age Groups You Have Cared For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Infants 0-1 year
+      - Toddlers 1-3 years
+      - Preschool 3-5 years
+      - School Age 6-12 years
+      - Teenagers 13+
+      required: true
+    - id: 14
+      name: childcare_type
+      label: Type of Childcare Experience
+      hint: Babysitting, daycare, nanny, etc.
+      type: select_multiple
+      options:
+      - Babysitting
+      - Daycare
+      - Nanny Work
+      - Family Member Care
+      - After-School Programs
+      - Other
+      required: true
+    - id: 15
+      name: special_skills
+      label: Special Skills with Children
+      hint: Languages, education, activities
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: language_proficiency
+      label: -- Language Proficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: native_language
+      label: Native Language
+      hint: Your first language
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: english_proficiency
+      label: English Language Level
+      hint: Rate your English proficiency
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Upper-Intermediate
+      - Advanced
+      - Fluent
+      required: true
+    - id: 19
+      name: other_languages
+      label: Other Languages Spoken
+      hint: List any additional languages
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: placement_preferences
+      label: -- Placement Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_countries
+      label: Preferred Countries for Placement
+      hint: Where would you like to work?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: start_date_availability
+      label: When Can You Start?
+      hint: Desired start date for placement
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: duration_commitment
+      label: Length of Commitment
+      hint: How long can you commit?
+      type: select_one
+      options:
+      - 3-6 months
+      - 6-12 months
+      - 12+ months
+      - Flexible
+      required: true
+    - id: 24
+      name: references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: reference_information
+      label: Reference Name and Contact
+      hint: Provide at least one professional reference
+      type: text
+      options: []
+      required: true

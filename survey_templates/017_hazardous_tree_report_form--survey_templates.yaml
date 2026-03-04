@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: hazardous_tree_report_form
+    pages:
+    - id: 1
+      name: hazardous_tree_report
+      label: hazardous_tree_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazardous_tree_location
+      label: hazardous_tree_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tree_type
+      label: tree_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tree_status
+      label: tree_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: tree_location
+      label: tree_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tree_notes
+      label: tree_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tree_hazards
+      label: tree_hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

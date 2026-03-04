@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crossfit Membership Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_level
+      label: membership_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''membership_level_1'', ''label'': ''Basic''}'
+      - '{''id'': ''membership_level_2'', ''label'': ''Premium''}'
+      - '{''id'': ''membership_level_3'', ''label'': ''Elite''}'
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: favorite_class
+      label: favorite_class
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''favorite_class_1'', ''label'': ''5am''}'
+      - '{''id'': ''favorite_class_2'', ''label'': ''7am''}'
+      - '{''id'': ''favorite_class_3'', ''label'': ''9am''}'
+      required: true
+    - id: 10
+      name: how_did_you_find_out
+      label: how_did_you_find_out
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''how_did_you_find_out_1'', ''label'': ''Online''}'
+      - '{''id'': ''how_did_you_find_out_2'', ''label'': ''In Store''}'
+      - '{''id'': ''how_did_you_find_out_3'', ''label'': ''Word of Mouth''}'
+      required: true
+    - id: 11
+      name: do_we_have_your_info
+      label: do_we_have_your_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''do_we_have_your_info_1'', ''label'': True}'
+      - '{''id'': ''do_we_have_your_info_2'', ''label'': False}'
+      required: true
+    - id: 12
+      name: what_brought_you_to_cf
+      label: what_brought_you_to_cf
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: have_you_been_to_cf_before
+      label: have_you_been_to_cf_before
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''have_you_been_to_cf_before_1'', ''label'': True}'
+      - '{''id'': ''have_you_been_to_cf_before_2'', ''label'': False}'
+      required: false
+    - id: 14
+      name: do_you_like
+      label: do_you_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_do_you_rate_cf
+      label: how_do_you_rate_cf
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: have_you_been_to_cf_recently
+      label: have_you_been_to_cf_recently
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''have_you_been_to_cf_recently_1'', ''label'': True}'
+      - '{''id'': ''have_you_been_to_cf_recently_2'', ''label'': False}'
+      required: false
+    - id: 17
+      name: what_are_your_goals
+      label: what_are_your_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: what_is_your_fitness_level
+      label: what_is_your_fitness_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: do_you_have_other_fitness_goals
+      label: do_you_have_other_fitness_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: do_you_train_other_peoples_workout
+      label: do_you_train_other_peoples_workout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: would_you_recommend_cf_to_a_friend
+      label: would_you_recommend_cf_to_a_friend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''would_you_recommend_cf_to_a_friend_1'', ''label'': True}'
+      - '{''id'': ''would_you_recommend_cf_to_a_friend_2'', ''label'': False}'
+      required: true
+    - id: 22
+      name: do_we_have_your_permission_to_share_your_info
+      label: do_we_have_your_permission_to_share_your_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''do_we_have_your_permission_to_share_your_info_1'', ''label'':
+        True}'
+      - '{''id'': ''do_we_have_your_permission_to_share_your_info_2'', ''label'':
+        False}'
+      required: true
+    - id: 23
+      name: do_we_have_your_email_permission
+      label: do_we_have_your_email_permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''do_we_have_your_email_permission_1'', ''label'': True}'
+      - '{''id'': ''do_we_have_your_email_permission_2'', ''label'': False}'
+      required: true
+    - id: 24
+      name: do_we_have_your_phone_permission
+      label: do_we_have_your_phone_permission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''do_we_have_your_phone_permission_1'', ''label'': True}'
+      - '{''id'': ''do_we_have_your_phone_permission_2'', ''label'': False}'
+      required: true
+    - id: 25
+      name: do_we_have_your_email_permission_for_newsletter
+      label: do_we_have_your_email_permission_for_newsletter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''do_we_have_your_email_permission_for_newsletter_1'', ''label'':
+        True}'
+      - '{''id'': ''do_we_have_your_email_permission_for_newsletter_2'', ''label'':
+        False}'
+      required: true

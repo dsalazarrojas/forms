@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animated Series Trivia Quiz
+    pages:
+    - id: 1
+      name: welcome_header
+      label: -- Welcome to Animated Series Trivia --
+      hint: Test your knowledge of animated shows
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For your quiz results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: experience_level
+      label: Your Anime Knowledge Level
+      hint: How much do you know about anime
+      type: select_one
+      options:
+      - Beginner - Just starting
+      - Casual - Watch occasionally
+      - Regular - Watch frequently
+      - Enthusiast - Very knowledgeable
+      - Expert - Ultimate fan
+      required: true
+    - id: 5
+      name: question_one_header
+      label: -- Question 1 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_one
+      label: What year did Dragon Ball first air
+      hint: Select the correct premiere year
+      type: select_one
+      options:
+      - 1984
+      - 1986
+      - 1988
+      - 1990
+      required: true
+    - id: 7
+      name: question_two_header
+      label: -- Question 2 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_two
+      label: Which studio produced Demon Slayer
+      hint: Name the animation studio
+      type: select_one
+      options:
+      - A-1 Pictures
+      - Ufotable
+      - Kyoto Animation
+      - Studio Trigger
+      required: true
+    - id: 9
+      name: question_three_header
+      label: -- Question 3 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_three
+      label: What is the main character's name in Attack on Titan
+      hint: Name of the protagonist
+      type: select_one
+      options:
+      - Levi Ackerman
+      - Eren Yeager
+      - Mikasa Ackerman
+      - Arwin Smith
+      required: true
+    - id: 11
+      name: question_four_header
+      label: -- Question 4 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question_four
+      label: In My Hero Academia, what is Deku's real name
+      hint: His actual name
+      type: select_one
+      options:
+      - Izuku Midoriya
+      - Bakugo Katsuki
+      - Todoroki Shoto
+      - All Might
+      required: true
+    - id: 13
+      name: question_five_header
+      label: -- Question 5 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: question_five
+      label: Which anime had the episode titled The Day the Clown Wept
+      hint: Name the series
+      type: select_one
+      options:
+      - Death Note
+      - Fullmetal Alchemist
+      - Bleach
+      - Naruto
+      required: true
+    - id: 15
+      name: question_six_header
+      label: -- Question 6 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: question_six
+      label: How many seasons does Steins;Gate have
+      hint: Number of seasons produced
+      type: select_one
+      options:
+      - 1 season
+      - 2 seasons
+      - 3 seasons
+      - 4 seasons
+      required: true
+    - id: 17
+      name: question_seven_header
+      label: -- Question 7 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: question_seven
+      label: What is the main power system in Jujutsu Kaisen
+      hint: The magical system used
+      type: select_one
+      options:
+      - Stands
+      - Cursed Energy
+      - Chakra
+      - Magic
+      required: true
+    - id: 19
+      name: question_eight_header
+      label: -- Question 8 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: question_eight
+      label: Who is the creator of the Code Geass franchise
+      hint: Name the original creator
+      type: select_one
+      options:
+      - Ichiro Okouchi
+      - Sunrise Studio
+      - Lelouch vi Britannia
+      - Goro Taniguchi
+      required: true
+    - id: 21
+      name: feedback_header
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: quiz_difficulty
+      label: How difficult was this quiz
+      hint: Rate the difficulty level
+      type: select_one
+      options:
+      - Too easy
+      - Easy
+      - Just right
+      - Difficult
+      - Too difficult
+      required: false
+    - id: 23
+      name: enjoyed_quiz
+      label: Did you enjoy this trivia quiz
+      hint: How was your experience
+      type: select_one
+      options:
+      - Yes, very much
+      - Yes, somewhat
+      - Neutral
+      - Not really
+      - Not at all
+      required: false
+    - id: 24
+      name: more_questions
+      label: Would you like more trivia questions
+      hint: Interested in another round
+      type: select_one
+      options:
+      - Yes, create more questions
+      - Yes, but different topics
+      - Maybe
+      - No thanks
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback about the quiz
+      type: text
+      options: []
+      required: false

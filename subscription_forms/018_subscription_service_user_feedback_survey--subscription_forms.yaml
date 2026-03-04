@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Service User Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_used
+      label: Service used
+      hint: Which service do you currently use?
+      type: select_one
+      options:
+      - Monthly Payment
+      - One-time payment
+      - Both
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: Rate your experience on a scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: Please share your feedback
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_optin
+      label: Email
+      hint: Would you like to be contacted by us for follow-up feedback?
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Coach Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Mobile phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_experience
+      label: Coaching experience years
+      hint: Number of years coaching
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: teams_coached
+      label: Teams coached
+      hint: List recent teams or programs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certifications
+      label: Certifications
+      hint: Relevant licenses or certifications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_age_group
+      label: Preferred age group to coach
+      hint: Choose one
+      type: select_one
+      options:
+      - Youth
+      - High school
+      - College
+      - Adult
+      required: true
+    - id: 9
+      name: availability
+      label: Availability
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: references
+      label: References
+      hint: Provide names and contact info
+      type: text
+      options: []
+      required: false

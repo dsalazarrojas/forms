@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Writing Subscription Form
+    pages:
+    - id: 1
+      name: client_details_header
+      label: -- Client Details --
+      hint: Please provide your business contact information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: subscription_plan_header
+      label: -- Subscription Plan --
+      hint: Choose the monthly package that fits your needs
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: subscription_tier
+      label: Subscription Tier
+      hint: Includes monthly blog posts and social media copy
+      type: select_one
+      options:
+      - Basic (2 Posts/Month)
+      - Pro (4 Posts/Month)
+      - Enterprise (8 Posts/Month plus Strategy)
+      - Custom Plan (Talk to Sales)
+      required: true
+    - id: 7
+      name: content_focus_areas
+      label: Primary Content Focus
+      hint: What topics should we prioritize
+      type: select_multiple
+      options:
+      - Industry News and Trends
+      - Product How-to Guides
+      - Customer Success Stories
+      - Thought Leadership Pieces
+      - SEO Landing Pages
+      required: true
+    - id: 8
+      name: brand_voice_style
+      label: Brand Voice and Style
+      hint: Choose the tone for your content
+      type: select_one
+      options:
+      - Professional and Authoritative
+      - Casual and Friendly
+      - Technical and Detailed
+      - Bold and Energetic
+      - Minimalist and Direct
+      required: true
+    - id: 9
+      name: target_audience_description
+      label: Describe your target audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_details_header
+      label: -- Billing and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: billing_cycle
+      label: Preferred Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly (Save 10 percent)
+      - Annually (Save 20 percent)
+      required: true
+    - id: 12
+      name: recurring_payment_auth
+      label: I authorize recurring monthly payments
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 13
+      name: subscription_start_date
+      label: Target Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions or Requests
+      hint: Any specific requirements for your first month
+      type: text
+      options: []
+      required: false

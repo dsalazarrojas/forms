@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Special Dietary Needs Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dietary_restriction_type
+      label: Type of Dietary Restriction
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food allergies
+      - Medical condition
+      - Religious dietary laws
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Other
+      required: true
+    - id: 11
+      name: food_allergies
+      label: Food Allergies
+      hint: List all food allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergy_severity
+      label: Allergy Severity
+      hint: Describe reaction severity
+      type: select_one
+      options:
+      - Mild - rash or hives
+      - Moderate - swelling or vomiting
+      - Severe - anaphylaxis
+      - Life-threatening
+      required: false
+    - id: 13
+      name: specific_foods_to_avoid
+      label: Specific Foods to Avoid
+      hint: List all foods
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cross_contamination_concern
+      label: Is Cross-Contamination a Concern
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - strict avoidance needed
+      - Yes - moderate concern
+      - No - not a concern
+      required: true
+    - id: 15
+      name: medical_condition_diet
+      label: Medical Condition Requiring Special Diet
+      hint: Describe condition
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: religious_dietary_requirements
+      label: Religious Dietary Requirements
+      hint: Describe requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vegetarian_vegan_reason
+      label: Is This for Health or Ethical Reasons
+      hint: Select reason
+      type: select_one
+      options:
+      - Health reasons
+      - Ethical reasons
+      - Environmental reasons
+      - Religious reasons
+      - Personal preference
+      required: false
+    - id: 18
+      name: acceptable_protein_sources
+      label: Acceptable Protein Sources
+      hint: What proteins can camper eat
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: acceptable_grains
+      label: Acceptable Grains
+      hint: What grains are safe
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: dairy_alternatives
+      label: Dairy Alternatives Used
+      hint: What alternatives does camper use
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: favorite_foods
+      label: Camper Favorite Foods
+      hint: Foods they enjoy
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: foods_camper_dislikes
+      label: Foods Camper Dislikes
+      hint: Foods they will not eat
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: typical_breakfast
+      label: What Does Camper Typically Eat for Breakfast
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: typical_lunch
+      label: What Does Camper Typically Eat for Lunch
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: typical_dinner
+      label: What Does Camper Typically Eat for Dinner
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: typical_snacks
+      label: What Snacks Does Camper Eat
+      hint: Safe snacks
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: epipen_required
+      label: Does Camper Carry EpiPen
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - will provide to camp
+      - Yes - camper carries
+      - false
+      required: true
+    - id: 28
+      name: epipen_quantity
+      label: How Many EpiPens Will Be Provided
+      hint: Number
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: medication_for_reactions
+      label: Other Medications for Allergic Reactions
+      hint: List medications
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: previous_camp_dietary_experience
+      label: Has Camper Attended Camp Before with Dietary Needs
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - successfully
+      - Yes - with challenges
+      - No - first time
+      required: true
+    - id: 31
+      name: previous_challenges
+      label: What Challenges Occurred Previously
+      hint: Describe if any
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: kitchen_staff_communication
+      label: Would You Like to Speak with Kitchen Staff
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - please arrange
+      - No - form is sufficient
+      required: false
+    - id: 33
+      name: additional_dietary_notes
+      label: Additional Dietary Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Day Off Request Form
+    pages:
+    - id: 1
+      name: day_off_request
+      label: day off request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_absence
+      label: date of absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: approved_status
+      label: approved status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Process Feedback Questionnaire
+    pages:
+    - id: 1
+      name: section_project_context
+      label: -- Project and Stakeholder Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Name of Completed Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_role
+      label: Your Role in the Project
+      hint: null
+      type: select_one
+      options:
+      - Client/Owner
+      - General Contractor
+      - Subcontractor
+      - Architect/Engineer
+      - Consultant
+      - Project Manager
+      required: true
+    - id: 4
+      name: completion_date
+      label: Approximate Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_overall_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Rate your overall satisfaction with the project (1-10)
+      hint: 1 - Very Dissatisfied, 10 - Very Satisfied
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: satisfaction_reason
+      label: Primary reason for your rating
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_process_evaluation
+      label: -- Process and Coordination Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: scheduling_rating
+      label: Accuracy and Adherence to Project Schedule
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: budget_adherence_rating
+      label: Budget and Financial Management
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: quality_of_workmanship
+      label: Overall Quality of Final Workmanship
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: communication_rating
+      label: Communication and Responsiveness During Project
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_specific_factors
+      label: -- Specific Process Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: biggest_challenge_encountered
+      label: What was the single biggest challenge during the project?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: challenge_handling_rating
+      label: How well was this challenge handled by the team?
+      hint: 1 - Poorly, 5 - Exceptionally well
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: change_order_process_rating
+      label: Efficiency of Change Order/Revision Process
+      hint: 1 - Very inefficient, 5 - Very efficient
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: safety_prioritization_rating
+      label: Perceived Prioritization of Site Safety
+      hint: 1 - Low Priority, 5 - High Priority
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_improvement_ideas
+      label: -- Future Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: improvement_suggestion_desc
+      label: If you could change one thing about the process, what would it be?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: refer_others_likelihood
+      label: How likely are you to work with this project team again?
+      hint: 1 - Not Likely, 5 - Very Likely
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Date of Questionnaire Completion
+      hint: null
+      type: date
+      options: []
+      required: true

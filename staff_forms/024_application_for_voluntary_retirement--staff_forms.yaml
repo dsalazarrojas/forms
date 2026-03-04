@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application For Voluntary Retirement
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Internal staff number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: retirement_date
+        label: Proposed retirement date
+        hint: Date employee intends to retire
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: reason_for_retirement
+        label: Reason for retirement
+        hint: Optional explanation
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: pension_option
+        label: Pension option selected
+        hint: Choose pension arrangement if applicable
+        type: select_one
+        options: [Immediate pension, Deferred pension, Lump sum]
+        required: false
+      - id: 6
+        name: contact_email
+        label: Contact email
+        hint: For retirement correspondence
+        type: email
+        options: []
+        required: true
+      - id: 7
+        name: supervisor_approval
+        label: Supervisor approval
+        hint: For managerial use
+        type: select_one
+        options: [Pending, Approved, Denied]
+        required: true
+      - id: 8
+        name: hr_comments
+        label: HR comments
+        hint: HR office notes
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: documents_uploaded
+        label: Documents uploaded
+        hint: Indicate supporting documents uploaded
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: final_signature
+        label: Final signature
+        hint: Type full name to confirm submission
+        type: text
+        options: []
+        required: true

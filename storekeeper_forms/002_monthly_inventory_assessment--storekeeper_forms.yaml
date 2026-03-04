@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Inventory Assessment
+    pages:
+    - id: 1
+      name: stock_counts
+      label: stock_counts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: locations
+      label: locations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Location A''}'
+      - '{''value'': ''Location B''}'
+      - '{''value'': ''Location C''}'
+      required: false
+    - id: 3
+      name: issues
+      label: issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stock_count_issuance
+      label: stock_count_issuance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: warehouse_name
+      label: warehouse_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: issued_by
+      label: issued_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: stock_count_warehouse
+      label: stock_count_warehouse
+      hint: null
+      type: text
+      options: []
+      required: false

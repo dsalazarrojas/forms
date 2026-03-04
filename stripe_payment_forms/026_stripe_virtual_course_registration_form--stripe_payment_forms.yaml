@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Virtual Course Registration Form
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_description
+      label: course description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_price
+      label: Course Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      required: true
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_method_confirmation
+      label: Payment Method Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      required: false
+    - id: 9
+      name: stripe_publishable_key
+      label: Stripe Publishable Key
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: stripe_api_key
+      label: Stripe API Key
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 16
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: course_category
+      label: Course Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''In-Person''}'
+      - '{''id'': 3, ''label'': ''Hybrid''}'
+      required: true
+    - id: 18
+      name: student_state
+      label: Student State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''California''}'
+      - '{''id'': 2, ''label'': ''New York''}'
+      - '{''id'': 3, ''label'': ''Florida''}'
+      required: true
+    - id: 19
+      name: student_country
+      label: Student Country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''United States''}'
+      - '{''id'': 2, ''label'': ''Canada''}'
+      - '{''id'': 3, ''label'': ''Mexico''}'
+      required: true
+    - id: 20
+      name: student_postal_code
+      label: Student Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: payment_method_note
+      label: Payment Method Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: stripe_price_currency
+      label: Stripe Price Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      required: true
+    - id: 23
+      name: student_price
+      label: Student Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: course_language
+      label: Course Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      required: true
+    - id: 25
+      name: student_timezone
+      label: Student Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''PST''}'
+      - '{''id'': 2, ''label'': ''EST''}'
+      - '{''id'': 3, ''label'': ''CST''}'
+      required: true

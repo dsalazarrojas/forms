@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Ethics Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Professional Ethics in Accounting Survey --
+      hint: Your responses are confidential and will be used for policy improvement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: e.g., Senior Auditor, Junior Accountant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: years_of_experience
+      label: Years of Experience
+      hint: Total years in the accounting field
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: frequency_of_ethical_dilemmas
+      label: How often do you encounter ethical dilemmas in your work?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Very Frequently
+      required: true
+    - id: 5
+      name: common_ethical_issues
+      label: Common Ethical Issues Encountered
+      hint: Select all that you have observed or experienced
+      type: select_multiple
+      options:
+      - Revenue Recognition
+      - Expense Manipulation
+      - Tax Evasion
+      - Disclosure Integrity
+      - Conflict of Interest
+      required: false
+    - id: 6
+      name: pressure_to_compromise_ethics
+      label: How much pressure do you feel to compromise ethical standards?
+      hint: From management or clients
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      required: true
+    - id: 7
+      name: awareness_of_whistleblower_policy
+      label: Are you aware of your firm - s whistleblower policy?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 8
+      name: effectiveness_of_ethics_training
+      label: Rate the effectiveness of recent ethics training
+      hint: If none taken, select N/A
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      - N/A
+      required: true
+    - id: 9
+      name: suggestions_for_improving_ethical_culture
+      label: Suggestions for Improving Ethical Culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_footer
+      label: -- Thank you for your feedback --
+      hint: null
+      type: note
+      options: []
+      required: false

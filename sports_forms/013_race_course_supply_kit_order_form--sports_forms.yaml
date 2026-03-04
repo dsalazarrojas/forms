@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Course Supply Kit Order Form
+    pages:
+    - id: 1
+      name: race_course_supply_kit_order_form_1
+      label: Order Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_schedule
+      label: Delivery Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: race_type
+      label: race_type
+      hint: null
+      type: select_one
+      options:
+      - 5K
+      - Marathon
+      - School run
+      - Other
+      required: true
+    - id: 5
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: race_course_supply_kit
+      label: race_course_supply_kit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

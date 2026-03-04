@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Wash Subscription Form
+    pages:
+    - id: 1
+      name: member_details_header
+      label: -- Member Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: Full name for the subscription
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For digital pass and billing
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subscription_plan_header
+      label: -- Subscription Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: wash_plan
+      label: Wash Plan
+      hint: Select your membership level
+      type: select_one
+      options:
+      - Basic Wash
+      - Premium Polish
+      - Ultimate Ceramic
+      - Fleet Business Plan
+      required: true
+    - id: 7
+      name: billing_cycle
+      label: Billing Cycle
+      hint: Choose your payment frequency
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 8
+      name: vehicle_enrollment_header
+      label: -- Vehicle Enrollment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_desc
+      label: Vehicle Make and Model
+      hint: e.g. Tesla Model 3
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: plate_number
+      label: License Plate Number
+      hint: Used for automatic recognition
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: color
+      label: Vehicle Color
+      hint: Visual identification
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_scheduling_header
+      label: -- Payment and Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: Select your preferred method
+      type: select_one
+      options:
+      - Credit Card
+      - Digital Wallet
+      - Billing Invoice
+      required: true
+    - id: 14
+      name: primary_location
+      label: Primary Location
+      hint: Your most frequent wash site
+      type: select_one
+      options:
+      - Downtown
+      - Uptown
+      - Suburb North
+      - Suburb South
+      required: true
+    - id: 15
+      name: accept_terms
+      label: Accept Subscription Terms
+      hint: I agree to the automatic renewal and cancellation policies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: account_notes
+      label: Account Notes or Referral
+      hint: Mention how you heard about us
+      type: text
+      options: []
+      required: false

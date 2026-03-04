@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Incident Report Form
+    pages:
+    - id: 1
+      name: student_incident_report_form_1
+      label: Report A Student Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_incident_report_form_2
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_incident_report_form_3
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_incident_report_form_4
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: student_incident_report_form_5
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_incident_report_form_6
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: student_incident_report_form_7
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_incident_report_form_8
+      label: Incident Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_incident_report_form_9
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_incident_report_form_10
+      label: Follow-up
+      hint: null
+      type: note
+      options: []
+      required: false

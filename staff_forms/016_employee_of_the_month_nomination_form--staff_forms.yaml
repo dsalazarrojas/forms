@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Of The Month Nomination Form
+    pages:
+    - id: 1
+      name: employee_of_the_month_nominations
+      label: Employee of the month nominations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: months_of_service
+      label: Months of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: nominated_by
+      label: Nominated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_of_the_month_nomination
+      label: Employee of the Month Nomination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: selected_date
+      label: Selected Date
+      hint: null
+      type: date
+      options: []
+      required: false

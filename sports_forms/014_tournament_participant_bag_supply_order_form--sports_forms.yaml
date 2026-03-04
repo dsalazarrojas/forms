@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Participant Bag Supply Order Form
+    pages:
+    - id: 1
+      name: participant_bag_order
+      label: Participant Bag Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cash Payment
+      - Credit Card
+      required: false
+    - id: 5
+      name: bag_type
+      label: Bag Type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Premium
+      - VIP
+      required: false
+    - id: 6
+      name: participant_order
+      label: Participant Order
+      hint: null
+      type: select_one
+      options:
+      - Bag A
+      - Bag B
+      - Bag C
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_zip
+      label: Participant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_state
+      label: Participant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false

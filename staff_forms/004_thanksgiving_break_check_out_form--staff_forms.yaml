@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_break_check_out_form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_information
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_contact
+      label: Guardian Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_out_info
+      label: Check Out Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_out_status
+      label: Check Out Status
+      hint: null
+      type: select_multiple
+      options:
+      - On Campus
+      - Off Campus
+      - Home
+      required: false
+    - id: 6
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Other
+      required: false
+    - id: 8
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Other
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: student_dorm
+      label: Student Dorm
+      hint: null
+      type: select_one
+      options:
+      - Main Dorm
+      - South Dorm
+      - North Dorm
+      required: false
+    - id: 12
+      name: staff_dorm
+      label: Staff Dorm
+      hint: null
+      type: select_one
+      options:
+      - Main Dorm
+      - South Dorm
+      - North Dorm
+      required: false

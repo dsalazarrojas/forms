@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Impact Survey Questionnaire
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sustainability_attitudes
+      label: Sustainability Attitudes
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 9
+      name: awareness
+      label: Awareness
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 10
+      name: sustainability_practices
+      label: Sustainability Practices
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 11
+      name: environmental_issues
+      label: Environmental Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Air Quality
+      - Water Quality
+      - Noise Pollution
+      required: false
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

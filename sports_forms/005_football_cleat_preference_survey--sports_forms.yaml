@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Cleat Preference Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: football_cleat_preference_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cleat_type
+      label: cleat_type
+      hint: null
+      type: select_one
+      options:
+      - Stud
+      - Non-Stud
+      required: true
+    - id: 3
+      name: brand
+      label: football_cleat_brand
+      hint: null
+      type: select_multiple
+      options:
+      - Adidas
+      - Nike
+      - Under Armour
+      - Reebok
+      - New Balance
+      - Other
+      required: true
+    - id: 4
+      name: features
+      label: football_cleat_features
+      hint: null
+      type: select_multiple
+      options:
+      - Studs
+      - Cushioning
+      - Support
+      - Other
+      required: true
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: football_cleat_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Inquiry Form
+    pages:
+    - id: 1
+      name: event_sponsorship_inquiry_form
+      label: Event Sponsor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Event Organizer''}'
+      - '{''id'': 2, ''name'': ''Event Coordinator''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: Enter sponsor's contact info
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_sponsorship_interest
+      label: Event Sponsorship Interest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_relationship
+      label: Sponsorship Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Partnership''}'
+      - '{''id'': 2, ''name'': ''Collaborative Partnership''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: message_to_sponsor
+      label: Message To Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_sponsorship_interest_level
+      label: Event Sponsorship Interest Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 9
+      name: sponsor_info
+      label: Sponsor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sponsor_address
+      label: Sponsor Address
+      hint: Enter sponsor's address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_sponsorship_request_details
+      label: Event Sponsorship Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sponsor_terms
+      label: Sponsor Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sponsorships_accepted
+      label: Sponsors Accepted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Sure''}'
+      required: false
+    - id: 16
+      name: sponsorships_declined
+      label: Sponsorships Declined
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Sure''}'
+      required: false
+    - id: 17
+      name: sponsorships_other
+      label: Other Sponsorships Declined
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Sure''}'
+      required: false
+    - id: 18
+      name: sponsorships_other_notes
+      label: Other Sponsorships Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sponsorships_other_notes
+      label: Other Sponsorships Notes
+      hint: null
+      type: note
+      options: []
+      required: false

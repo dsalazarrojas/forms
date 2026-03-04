@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Shopping List Form Template
+    pages:
+    - id: 1
+      name: shopping_list_intro
+      label: Black Friday Shopping List Planner
+      hint: Plan your Black Friday shopping with this organized list
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: shopper_name
+      label: Shopper Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: To save and send your list
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: shopping_date
+      label: Shopping Date
+      hint: When will you shop
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: total_budget
+      label: Total Budget
+      hint: Your total spending limit
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shopping_location
+      label: Shopping Location
+      hint: Where will you shop
+      type: select_one
+      options:
+      - Online Only
+      - In Store Only
+      - Both Online and In Store
+      required: true
+    - id: 7
+      name: store_list
+      label: Stores to Visit
+      hint: List of stores you plan to visit
+      type: select_multiple
+      options:
+      - Electronics Store
+      - Department Store
+      - Clothing Retailer
+      - Home Goods Store
+      - Toy Store
+      - Sports Store
+      - Beauty Retailer
+      - Book Store
+      required: true
+    - id: 8
+      name: priority_item_1
+      label: Priority Item 1
+      hint: Most important purchase
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: priority_item_1_budget
+      label: Priority Item 1 Budget
+      hint: Budget for this item
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: priority_item_2
+      label: Priority Item 2
+      hint: Second most important purchase
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: priority_item_2_budget
+      label: Priority Item 2 Budget
+      hint: Budget for this item
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: priority_item_3
+      label: Priority Item 3
+      hint: Third priority purchase
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: priority_item_3_budget
+      label: Priority Item 3 Budget
+      hint: Budget for this item
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: gift_items
+      label: Gift Items
+      hint: Items you are buying as gifts
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: personal_items
+      label: Personal Items
+      hint: Items for yourself
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_multiple
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Store Credit
+      - Buy Now Pay Later
+      required: true
+    - id: 17
+      name: shopping_companions
+      label: Shopping Companions
+      hint: Who is shopping with you
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transportation
+      label: Transportation
+      hint: How will you get to stores
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Public Transit
+      - Ride Share
+      - Walking
+      - Online Delivery
+      required: true
+    - id: 19
+      name: notes
+      label: Additional Notes
+      hint: Any other planning notes
+      type: text
+      options: []
+      required: false

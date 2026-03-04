@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concept Review Crossword Puzzle
+    pages:
+    - id: 1
+      name: submission_id
+      label: Submission ID
+      hint: Unique submission identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Student email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: course_name
+      label: Course Name
+      hint: Name of course
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_code
+      label: Course Code
+      hint: Course code or number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of instructor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: puzzle_topic
+      label: Puzzle Topic
+      hint: What concept is being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: puzzle_difficulty
+      label: Puzzle Difficulty
+      hint: Rate the difficulty level
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      - Very Hard
+      required: true
+    - id: 11
+      name: completion_time
+      label: Completion Time
+      hint: How long did it take in minutes
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: across_answers
+      label: Across Answers
+      hint: Enter all across answers separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: down_answers
+      label: Down Answers
+      hint: Enter all down answers separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident are you in your answers
+      type: select_one
+      options:
+      - 5 - Very Confident
+      - 4 - Confident
+      - 3 - Somewhat Confident
+      - 2 - Not Very Confident
+      - 1 - Not Confident
+      required: true
+    - id: 15
+      name: difficulty_areas
+      label: Difficult Areas
+      hint: Which clues were most difficult
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: concepts_reviewed
+      label: Concepts Reviewed
+      hint: Select concepts covered in puzzle
+      type: select_multiple
+      options:
+      - Terminology
+      - Definitions
+      - Processes
+      - Formulas
+      - Theories
+      - Historical Facts
+      - Applications
+      - Other
+      required: true
+    - id: 17
+      name: helpfulness_rating
+      label: Helpfulness Rating
+      hint: How helpful was this puzzle for learning
+      type: select_one
+      options:
+      - 5 - Very Helpful
+      - 4 - Helpful
+      - 3 - Somewhat Helpful
+      - 2 - Not Very Helpful
+      - 1 - Not Helpful
+      required: true
+    - id: 18
+      name: enjoyed_activity
+      label: Enjoyed Activity
+      hint: Did you enjoy this learning activity
+      type: select_one
+      options:
+      - Yes, Very Much
+      - Yes, Somewhat
+      - Neutral
+      - No, Not Really
+      - No, Not at All
+      required: true
+    - id: 19
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this activity
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: How could this be improved
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: academic_integrity
+      label: Academic Integrity
+      hint: I completed this puzzle independently
+      type: select_one
+      options:
+      - Yes, I Certify
+      - No, I Had Help
+      required: true

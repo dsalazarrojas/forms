@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: technology_usage_survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: technology_used
+      label: Technology Used
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Mobile''}'
+      - '{''label'': ''Laptop''}'
+      - '{''label'': ''Desktop''}'
+      required: true
+    - id: 3
+      name: hours_used
+      label: Hours Used Per Week
+      hint: Enter the number of hours used per week
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: Rate the technology from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

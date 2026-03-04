@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Defense
+      - Goalie
+      - Kicker
+      - Offense
+      required: true
+    - id: 7
+      name: team_id
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Returning
+      - New
+      required: true
+    - id: 9
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Self
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: player_height
+      label: Player Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: false

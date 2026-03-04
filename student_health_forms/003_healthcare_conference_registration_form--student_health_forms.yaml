@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_conference_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: conference_topic
+      label: conference_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_id_number
+      label: medical_id_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: will_attend
+      label: will_attend
+      hint: null
+      type: select_one
+      options:
+      - will attend
+      - cannot_attend
+      required: false
+    - id: 8
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: will_arrive_at
+      label: will_arrive_at
+      hint: null
+      type: time
+      options: []
+      required: false

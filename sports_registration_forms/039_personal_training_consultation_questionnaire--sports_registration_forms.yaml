@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Consultation Questionnaire
+    pages:
+    - id: 1
+      name: training_consultation_questions
+      label: training consultation questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exercise_goals
+      label: exercise goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: injuries
+      label: injuries
+      hint: Please list any injuries you've had in the past 6 months
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone_number
+      label: emergency contact phone number
+      hint: Please enter your emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_note
+      label: medical notes
+      hint: null
+      type: note
+      options: []
+      required: false

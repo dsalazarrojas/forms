@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Land Use Survey
+    pages:
+    - id: 1
+      name: survey_info_header
+      label: -- Survey Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Who is conducting the survey?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: Date of observation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: location_region
+      label: Location or Region
+      hint: County, District, or GPS coords
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: land_characteristics_header
+      label: -- Land Characteristics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_acreage
+      label: Total Acreage
+      hint: Size of the surveyed area
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: primary_land_use
+      label: Primary Land Use
+      hint: Dominant activity
+      type: select_one
+      options:
+      - Row Crops
+      - Orchards/Vineyards
+      - Grazing/Pasture
+      - Forestry
+      - Mixed Use
+      - Fallow
+      required: true
+    - id: 8
+      name: irrigation_method
+      label: Irrigation Method
+      hint: Primary water source type
+      type: select_one
+      options:
+      - None (Rainfed)
+      - Drip
+      - Sprinkler/Center Pivot
+      - Flood/Furrow
+      - Sub-irrigation
+      required: true
+    - id: 9
+      name: soil_type
+      label: Soil Type
+      hint: Dominant soil texture
+      type: select_one
+      options:
+      - Sandy
+      - Clay
+      - Loam
+      - Silt
+      - Peat
+      - Chalky
+      required: true
+    - id: 10
+      name: conservation_practices
+      label: Conservation Practices
+      hint: Select all that are observed
+      type: select_multiple
+      options:
+      - Cover Crops
+      - No-Till
+      - Buffer Strips
+      - Terracing
+      - Crop Rotation
+      - Integrated Pest Management
+      required: false
+    - id: 11
+      name: challenges
+      label: Challenges
+      hint: Key issues affecting land use
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: future_plans
+      label: Future Plans
+      hint: Expected changes in next 5 years
+      type: text
+      options: []
+      required: false

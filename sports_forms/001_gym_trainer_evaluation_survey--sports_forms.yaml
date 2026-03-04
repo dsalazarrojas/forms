@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Trainer Evaluation Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: gym_trainer_evaluation_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_professionalism
+      label: trainer_professionalism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trainer_communication
+      label: trainer_communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: motivation
+      label: motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trainer_recommendation
+      label: would_recommend_trainer
+      hint: Would you recommend this trainer to a friend?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gym_name
+      label: gym_name
+      hint: null
+      type: text
+      options: []
+      required: false

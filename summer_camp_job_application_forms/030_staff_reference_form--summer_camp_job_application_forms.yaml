@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Reference Form
+    pages:
+    - id: 1
+      name: staff_reference_form_1
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referee_name
+      label: Referee Name
+      hint: Referee Name is the name of the person making the reference
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referee_title
+      label: Referee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referee_organization
+      label: Referee Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referee_position
+      label: Referee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referee_length_of_service
+      label: Referee Length of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: staff_position
+      label: Staff Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_years_of_service
+      label: Staff Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: referee_comments
+      label: Referee Comments
+      hint: Please provide any additional comments about the staff member you are
+        making this reference for
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agree_terms
+      label: Agree Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree to allow the camp to contact my referee
+      - I don’t agree to allow the camp to contact my referee
+      required: false
