@@ -1,525 +1,899 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Preview - Forms Library</title>
-    <meta name="description" content="Preview and interact with this YAML form template.">
-    
-    <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- js-yaml for parsing YAML -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-    
-    <!-- Syntax highlighting for YAML -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-yaml.min.js"></script>
-    
-    <style>
-        .tab-active {
-            border-bottom: 2px solid #4f46e5;
-            color: #4f46e5;
-        }
-        .tab-inactive {
-            color: #6b7280;
-        }
-        .tab-inactive:hover {
-            color: #374151;
-        }
-        .form-field {
-            margin-bottom: 1.5rem;
-        }
-        .form-label {
-            display: block;
-            font-weight: 500;
-            margin-bottom: 0.5rem;
-            color: #1f2937;
-        }
-        .form-hint {
-            font-size: 0.875rem;
-            color: #6b7280;
-            margin-top: 0.25rem;
-        }
-        .required-marker {
-            color: #dc2626;
-            margin-left: 0.25rem;
-        }
-    </style>
-</head>
-<body class="bg-gray-50">
-    <!-- Header -->
-    <header class="bg-white shadow-sm">
-        <div class="container mx-auto px-4 py-4">
-            <div class="flex items-center justify-between">
-                <a href="index.html" class="text-indigo-600 hover:text-indigo-800 font-medium">
-                    ← Back to Library
-                </a>
-                <div class="flex items-center space-x-4">
-                    <button id="download-yaml" class="bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-2 px-4 rounded-md transition">
-                        📥 Download YAML
-                    </button>
-                    <button id="download-xlsx" class="bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-2 px-4 rounded-md transition">
-                        📊 Download XLSX
-                    </button>
-                    <button id="print-pdf" class="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-4 rounded-md transition">
-                        🖨️ Print / PDF
-                    </button>
-                </div>
-            </div>
-        </div>
-    </header>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Preview — GIC Forms</title>
+  <meta name="description" content="Preview and interact with this YAML form template.">
 
-    <!-- Form Title -->
-    <div class="bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-8">
-        <div class="container mx-auto px-4">
-            <h1 id="form-title" class="text-3xl font-bold mb-2">Loading...</h1>
-            <p id="form-category" class="text-lg opacity-90"></p>
-            <div id="form-meta" class="flex items-center space-x-4 mt-4 text-sm opacity-75">
-                <!-- Meta info will be inserted here -->
-            </div>
+  <!-- FOUC prevention: apply dark mode before render -->
+  <script>if(localStorage.getItem('gic-theme')==='dark'||(!localStorage.getItem('gic-theme')&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}</script>
+
+  <!-- Google Fonts: Public Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Material Symbols Outlined -->
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+
+  <!-- Prism syntax highlighting -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: { primary: '#ec5b13' },
+          fontFamily: { sans: ['Public Sans', 'sans-serif'] }
+        }
+      }
+    }
+  </script>
+
+  <!-- js-yaml -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+
+  <!-- Prism JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-yaml.min.js"></script>
+
+  <style>
+    /* Scrollbar styling */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+    .dark ::-webkit-scrollbar-thumb { background: #475569; }
+
+    /* Material symbols sizing */
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      font-size: 20px;
+      line-height: 1;
+      vertical-align: middle;
+      user-select: none;
+    }
+    .icon-sm { font-size: 16px; }
+    .icon-lg { font-size: 24px; }
+
+    /* Phone frame for mobile preview */
+    .phone-frame {
+      border: 10px solid #1e293b;
+      border-radius: 40px;
+      box-shadow: 0 0 0 2px #334155, 0 20px 60px rgba(0,0,0,0.3);
+      position: relative;
+      overflow: hidden;
+    }
+    .phone-frame::before {
+      content: '';
+      display: block;
+      width: 80px;
+      height: 8px;
+      background: #1e293b;
+      border-radius: 4px;
+      margin: 10px auto 0;
+    }
+    .dark .phone-frame {
+      border-color: #0f172a;
+      box-shadow: 0 0 0 2px #1e293b, 0 20px 60px rgba(0,0,0,0.5);
+    }
+
+    /* Tab active/inactive */
+    .tab-active-pill {
+      background-color: #ec5b13;
+      color: white;
+      border-radius: 6px;
+    }
+    .tab-inactive-pill {
+      color: #64748b;
+    }
+    .dark .tab-inactive-pill { color: #94a3b8; }
+    .tab-inactive-pill:hover { color: #0f172a; }
+    .dark .tab-inactive-pill:hover { color: #f1f5f9; }
+
+    /* View toggle pill */
+    .view-active {
+      background: white;
+      color: #0f172a;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+      border-radius: 6px;
+    }
+    .dark .view-active {
+      background: #334155;
+      color: #f1f5f9;
+    }
+    .view-inactive {
+      color: #64748b;
+    }
+    .dark .view-inactive { color: #94a3b8; }
+
+    /* Form field styles */
+    .preview-input {
+      width: 100%;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      padding: 8px 12px;
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.15s, box-shadow 0.15s;
+      background: white;
+      color: #0f172a;
+      font-family: 'Public Sans', sans-serif;
+    }
+    .dark .preview-input {
+      background: #1e293b;
+      border-color: #334155;
+      color: #f1f5f9;
+    }
+    .preview-input:focus {
+      border-color: #ec5b13;
+      box-shadow: 0 0 0 3px rgba(236, 91, 19, 0.15);
+    }
+    .preview-label {
+      display: block;
+      font-weight: 500;
+      margin-bottom: 6px;
+      color: #0f172a;
+      font-size: 14px;
+    }
+    .dark .preview-label { color: #f1f5f9; }
+    .preview-hint {
+      font-size: 12px;
+      color: #64748b;
+      margin-top: 4px;
+    }
+    .dark .preview-hint { color: #94a3b8; }
+    .required-star { color: #ef4444; margin-left: 2px; }
+
+    /* Deploy card hover */
+    .deploy-card {
+      transition: box-shadow 0.15s, transform 0.15s;
+    }
+    .deploy-card:hover {
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      transform: translateY(-1px);
+    }
+    .dark .deploy-card:hover {
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+
+    /* Outlined button style */
+    .btn-outline {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      width: 100%;
+      padding: 8px 14px;
+      border: 1.5px solid #e2e8f0;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+      background: transparent;
+      color: #374151;
+      font-family: 'Public Sans', sans-serif;
+    }
+    .dark .btn-outline {
+      border-color: #334155;
+      color: #cbd5e1;
+    }
+    .btn-outline:hover {
+      border-color: #ec5b13;
+      color: #ec5b13;
+      background: rgba(236, 91, 19, 0.04);
+    }
+
+    /* App button style */
+    .btn-app {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      width: 100%;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1.5px solid #e2e8f0;
+      cursor: pointer;
+      transition: all 0.15s;
+      background: transparent;
+      text-align: left;
+      font-family: 'Public Sans', sans-serif;
+    }
+    .dark .btn-app { border-color: #334155; }
+    .btn-app:hover {
+      border-color: #ec5b13;
+      background: rgba(236, 91, 19, 0.04);
+    }
+    .btn-app .btn-app-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: #0f172a;
+      display: block;
+    }
+    .dark .btn-app .btn-app-title { color: #f1f5f9; }
+    .btn-app .btn-app-sub {
+      font-size: 11px;
+      color: #64748b;
+      display: block;
+      margin-top: 1px;
+    }
+    .dark .btn-app .btn-app-sub { color: #94a3b8; }
+    .btn-app .btn-app-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body class="font-sans bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100">
+
+<!-- Full-screen 3-panel layout -->
+<div class="flex h-screen overflow-hidden">
+
+  <!-- ===== LEFT PANEL ===== -->
+  <aside class="w-72 flex-shrink-0 border-r border-slate-200 dark:border-slate-800 overflow-y-auto bg-white dark:bg-slate-900 flex flex-col">
+
+    <!-- Header section -->
+    <div class="p-5 border-b border-slate-200 dark:border-slate-800">
+      <!-- Back link -->
+      <a href="browse.html" class="inline-flex items-center gap-1 text-sm text-primary hover:opacity-80 transition-opacity mb-4">
+        <span class="material-symbols-outlined icon-sm">arrow_back</span>
+        Back to Browse
+      </a>
+
+      <!-- Logo -->
+      <div class="flex items-center gap-2 mb-4">
+        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#ec5b13;">
+          <span class="material-symbols-outlined icon-sm text-white" style="font-size:15px;">assignment</span>
         </div>
+        <span class="font-bold text-base tracking-tight">GIC Forms</span>
+      </div>
+
+      <!-- Form title -->
+      <h3 id="form-title-sidebar" class="text-base font-bold mt-1 leading-snug text-slate-900 dark:text-slate-100">
+        Loading...
+      </h3>
+
+      <!-- Category -->
+      <p id="form-category-sidebar" class="text-xs text-slate-500 dark:text-slate-400 mt-1"></p>
+
+      <!-- Meta -->
+      <div id="form-meta-sidebar" class="mt-2 flex flex-wrap gap-2"></div>
     </div>
 
-    <!-- Main Content -->
-    <main class="container mx-auto px-4 py-8">
-        <!-- Tabs -->
-        <div class="bg-white rounded-lg shadow-sm mb-6">
-            <div class="border-b border-gray-200">
-                <nav class="flex -mb-px">
-                    <button class="tab-btn tab-active py-4 px-6 font-medium" data-tab="preview">
-                        👁️ Live Preview
-                    </button>
-                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="yaml">
-                        📄 Raw YAML
-                    </button>
-                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="odk">
-                        📱 GIC Collect / ODK Mock
-                    </button>
-                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="deploy">
-                        🚀 Deploy
-                    </button>
-                    <button class="tab-btn tab-inactive py-4 px-6 font-medium" data-tab="embed">
-                        🔗 Embed
-                    </button>
-                </nav>
-            </div>
-            
-            <!-- Tab Content -->
-            <div class="p-6">
-                <!-- Preview Tab -->
-                <div id="tab-preview" class="tab-content">
-                    <div id="form-renderer">
-                        <!-- Form will be rendered here -->
-                    </div>
-                </div>
-                
-                <!-- YAML Tab -->
-                <div id="tab-yaml" class="tab-content hidden">
-                    <div class="relative">
-                        <button id="copy-yaml" class="absolute top-2 right-2 bg-gray-700 hover:bg-gray-600 text-white text-sm font-medium py-1 px-3 rounded">
-                            📋 Copy
-                        </button>
-                        <pre class="bg-gray-900 rounded-lg p-4 max-h-[600px] overflow-auto"><code id="yaml-code" class="language-yaml"></code></pre>
-                    </div>
-                </div>
-                
-                <!-- ODK Mock Tab -->
-                <div id="tab-odk" class="tab-content hidden">
-                    <div class="bg-gray-100 rounded-lg p-6">
-                        <h3 class="text-lg font-semibold mb-4">GIC Collect / ODK Collect Preview</h3>
-                        <div class="max-w-md mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
-                            <div class="bg-green-600 text-white px-4 py-3">
-                                <div class="text-sm font-semibold">GIC Collect / ODK Collect</div>
-                            </div>
-                            <div id="odk-mock-content" class="p-4">
-                                <!-- ODK mock will be rendered here -->
-                            </div>
-                        </div>
-                        <p class="text-sm text-gray-600 mt-4 text-center">
-                            This shows how the form would appear in <a href="https://apps.apple.com/us/app/gic-collect/id1485932698" class="text-indigo-600 hover:text-indigo-800" target="_blank" rel="noopener">GIC Collect</a> or ODK Collect.
-                        </p>
-                    </div>
-                </div>
-                
-                <!-- Deploy Tab -->
-                <div id="tab-deploy" class="tab-content hidden">
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <!-- GIC XLSForm Creation -->
-                        <div class="border border-gray-200 rounded-lg p-6">
-                            <div class="flex items-center mb-4">
-                                <span class="text-3xl mr-3">📱</span>
-                                <div>
-                                    <h3 class="font-semibold text-lg">GIC XLSForm Creation (iOS)</h3>
-                                    <p class="text-sm text-gray-600">Convert to Google Forms, Tally, Formbricks</p>
-                                </div>
-                            </div>
-                            <p class="text-sm text-gray-600 mb-4">
-                                Open this form directly in GIC XLSForm Creation to edit and publish to Google Forms, Tally, or Formbricks in one tap.
-                            </p>
-                            <a id="open-giccollectcreator" href="#" class="block text-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md transition">
-                                Open in GIC XLSForm Creation
-                            </a>
-                        </div>
-                        
-                        <!-- Cloudflare Workers -->
-                        <div class="border border-gray-200 rounded-lg p-6">
-                            <div class="flex items-center mb-4">
-                                <span class="text-3xl mr-3">⚡</span>
-                                <div>
-                                    <h3 class="font-semibold text-lg">Cloudflare Workers</h3>
-                                    <p class="text-sm text-gray-600">Deploy serverless survey</p>
-                                </div>
-                            </div>
-                            <p class="text-sm text-gray-600 mb-4">
-                                Deploy this form as a Cloudflare Worker using OneTimeUseWebApp.
-                            </p>
-                            <a id="deploy-cloudflare" href="#" class="block text-center bg-orange-500 hover:bg-orange-600 text-white font-medium py-2 px-4 rounded-md transition">
-                                Deploy to Cloudflare
-                            </a>
-                        </div>
-                        
-                        <!-- GIC Collect -->
-                        <div class="border border-gray-200 rounded-lg p-6">
-                            <div class="flex items-center mb-4">
-                                <span class="text-3xl mr-3">📋</span>
-                                <div>
-                                    <h3 class="font-semibold text-lg">GIC Collect (iOS)</h3>
-                                    <p class="text-sm text-gray-600">Offline data collection</p>
-                                </div>
-                            </div>
-                            <p class="text-sm text-gray-600 mb-4">
-                                Import this form for offline field data collection — compatible with GIC Collect and ODK Collect.
-                            </p>
-                            <a id="import-giccollect" href="#" class="block text-center bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-md transition">
-                                Import to GIC Collect
-                            </a>
-                        </div>
-                        
-                        <!-- Download XLSForm -->
-                        <div class="border border-gray-200 rounded-lg p-6">
-                            <div class="flex items-center mb-4">
-                                <span class="text-3xl mr-3">📊</span>
-                                <div>
-                                    <h3 class="font-semibold text-lg">XLSForm (.xlsx)</h3>
-                                    <p class="text-sm text-gray-600">ODK Collect compatible</p>
-                                </div>
-                            </div>
-                            <p class="text-sm text-gray-600 mb-4">
-                                Download the XLSForm file for use with GIC Collect, ODK Collect, ODK Central, or other XLSForm-compatible tools.
-                            </p>
-                            <button id="download-xlsx-btn" class="block w-full text-center bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-4 rounded-md transition">
-                                Download XLSX
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Embed Tab -->
-                <div id="tab-embed" class="tab-content hidden">
-                    <div class="bg-gray-50 rounded-lg p-6">
-                        <h3 class="text-lg font-semibold mb-4">Embed This Form</h3>
-                        <p class="text-gray-600 mb-4">
-                            Copy this code to embed the form preview on your website or blog:
-                        </p>
-                        <div class="relative">
-                            <button id="copy-embed" class="absolute top-2 right-2 bg-gray-700 hover:bg-gray-600 text-white text-sm font-medium py-1 px-3 rounded">
-                                📋 Copy
-                            </button>
-                            <pre class="bg-gray-900 text-white rounded-lg p-4 overflow-auto"><code id="embed-code"></code></pre>
-                        </div>
-                        <div class="mt-6">
-                            <h4 class="font-medium mb-2">Embed Options:</h4>
-                            <label class="flex items-center space-x-2">
-                                <input type="checkbox" id="embed-show-header" checked class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                                <span class="text-sm text-gray-700">Show header</span>
-                            </label>
-                            <label class="flex items-center space-x-2 mt-2">
-                                <input type="checkbox" id="embed-show-footer" checked class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                                <span class="text-sm text-gray-700">Show footer</span>
-                            </label>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <!-- Disclaimer -->
-        <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
-            <h4 class="font-semibold text-yellow-800 mb-2">⚠️ Disclaimer</h4>
-            <p class="text-sm text-yellow-700">
-                This form is AI-generated and provided under CC BY 4.0 license. It is not affiliated with, endorsed by, or derived from Jotform or any other form platform. Always review and customize forms for your specific use case.
-            </p>
-        </div>
-    </main>
+    <!-- Download section -->
+    <div class="p-4 border-b border-slate-200 dark:border-slate-800">
+      <h4 class="text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500 mb-3">Download</h4>
+      <div class="flex flex-col gap-2">
+        <button id="btn-download-yaml" class="btn-outline">
+          <span class="material-symbols-outlined icon-sm">download</span>
+          Download YAML
+        </button>
+        <button id="btn-download-xlsx" class="btn-outline hidden">
+          <span class="material-symbols-outlined icon-sm">table_view</span>
+          Download XLSX
+        </button>
+      </div>
+    </div>
 
-    <!-- Footer -->
-    <footer class="bg-gray-800 text-white py-8 mt-12">
-        <div class="container mx-auto px-4 text-center">
-            <p class="text-gray-400">
-                &copy; 2026 Daniel Salazar Rojas. Forms licensed under CC BY 4.0. Code licensed under MIT.
-            </p>
-            <p class="text-sm text-gray-500 mt-2">
-                Not affiliated with Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare. GIC Collect and GIC XLSForm Creation are products of GIC.mx.
-            </p>
-        </div>
-    </footer>
+    <!-- Open in App section -->
+    <div class="p-4 flex flex-col gap-2">
+      <h4 class="text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500 mb-1">Open in App</h4>
 
-    <!-- JavaScript -->
-    <script>
-        let currentForm = null;
-        let currentYaml = null;
-        
-        // Tab switching
-        document.querySelectorAll('.tab-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                // Update tab buttons
-                document.querySelectorAll('.tab-btn').forEach(b => {
-                    b.classList.remove('tab-active');
-                    b.classList.add('tab-inactive');
-                });
-                btn.classList.remove('tab-inactive');
-                btn.classList.add('tab-active');
-                
-                // Update tab content
-                document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
-                document.getElementById(`tab-${btn.dataset.tab}`).classList.remove('hidden');
-            });
-        });
-        
-        // Load form from URL parameter
-        async function loadForm() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const formPath = urlParams.get('form');
-            
-            if (!formPath) {
-                document.getElementById('form-title').textContent = 'Error: No form specified';
-                return;
-            }
-            
-            try {
-                // Fetch YAML file from raw GitHub (forms live in repo root, not docs/)
-                const rawUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${formPath}`;
-                const response = await fetch(rawUrl);
-                if (!response.ok) throw new Error('Form not found');
-                
-                currentYaml = await response.text();
-                currentForm = jsyaml.load(currentYaml);
-                
-                // Extract form data
-                const props = currentForm.inputSchema?.properties || {};
-                const title = props.title || 'Untitled Form';
-                const pages = props.pages || [];
-                
-                // Update header
-                document.getElementById('form-title').textContent = title.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-                document.getElementById('form-category').textContent = formPath.split('/')[0].replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-                
-                // Update meta
-                const metaHtml = `
-                    <span>📊 ${pages.length} questions</span>
-                    <span>🌐 ${currentForm.language || 'English'}</span>
-                    <span>📁 ${formPath}</span>
-                `;
-                document.getElementById('form-meta').innerHTML = metaHtml;
-                
-                // Render form
-                renderForm(pages);
-                renderOdkMock(pages);
-                
-                // Update YAML tab
-                document.getElementById('yaml-code').textContent = currentYaml;
-                Prism.highlightAll();
-                
-                // Update download buttons
-                document.getElementById('download-yaml').onclick = () => downloadFile(formPath, currentYaml, 'text/yaml');
-                document.getElementById('download-xlsx').onclick = () => downloadXlsx(formPath);
-                document.getElementById('download-xlsx-btn').onclick = () => downloadXlsx(formPath);
-                
-                // Update deep links
-                const encodedPath = encodeURIComponent(formPath);
-                document.getElementById('open-giccollectcreator').href = `giccollectcreator://open-form?id=${encodedPath}`;
-                document.getElementById('deploy-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
-                document.getElementById('import-giccollect').href = `giccollect://import-form?url=${encodedPath}`;
-                
-                // Update embed code
-                updateEmbedCode(formPath);
-                
-            } catch (error) {
-                console.error('Error loading form:', error);
-                document.getElementById('form-title').textContent = `Error: ${error.message}`;
-            }
-        }
-        
-        function renderForm(pages) {
-            const container = document.getElementById('form-renderer');
-            
-            container.innerHTML = pages.map((page, index) => {
-                const type = page.type || 'text';
-                const label = page.label || page.name || `Question ${index + 1}`;
-                const hint = page.hint || '';
-                const required = page.required ? '<span class="required-marker">*</span>' : '';
-                
-                let inputHtml = '';
-                
-                switch (type) {
-                    case 'text':
-                    case 'email':
-                    case 'number':
-                    case 'date':
-                    case 'time':
-                        inputHtml = `<input type="${type === 'text' ? 'text' : type}" class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500" ${required ? 'required' : ''}>`;
-                        break;
-                    
-                    case 'select_one':
-                        const options = page.options || [];
-                        inputHtml = `
-                            <select class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500" ${required ? 'required' : ''}>
-                                <option value="">Select an option</option>
-                                ${options.map(opt => `<option value="${opt}">${opt}</option>`).join('')}
-                            </select>
-                        `;
-                        break;
-                    
-                    case 'select_multiple':
-                        const multiOptions = page.options || [];
-                        inputHtml = `
-                            <div class="space-y-2">
-                                ${multiOptions.map((opt, i) => `
-                                    <label class="flex items-center">
-                                        <input type="checkbox" name="${page.name}" value="${opt}" class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                                        <span class="ml-2">${opt}</span>
-                                    </label>
-                                `).join('')}
-                            </div>
-                        `;
-                        break;
-                    
-                    case 'note':
-                        inputHtml = `<div class="bg-gray-50 border-l-4 border-indigo-500 p-4"><p class="text-gray-700">${label}</p></div>`;
-                        break;
-                    
-                    default:
-                        inputHtml = `<input type="text" class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500">`;
-                }
-                
-                if (type === 'note') {
-                    return inputHtml;
-                }
-                
-                return `
-                    <div class="form-field">
-                        <label class="form-label">
-                            ${label.replace(/_/g, ' ')}
-                            ${required}
-                        </label>
-                        ${inputHtml}
-                        ${hint ? `<p class="form-hint">${hint}</p>` : ''}
-                    </div>
-                `;
-            }).join('');
-            
-            // Add submit button
-            container.innerHTML += `
-                <div class="mt-8">
-                    <button type="submit" class="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-6 rounded-md transition">
-                        Submit Form
-                    </button>
+      <!-- GIC Collect -->
+      <a id="btn-giccollect" href="#" class="btn-app">
+        <div class="btn-app-icon" style="background:rgba(236,91,19,0.1);">
+          <span class="material-symbols-outlined" style="color:#ec5b13;font-size:20px;">phone_iphone</span>
+        </div>
+        <div>
+          <span class="btn-app-title">GIC Collect</span>
+          <span class="btn-app-sub">Import for offline collection</span>
+        </div>
+      </a>
+
+      <!-- GIC XLSForm Creation -->
+      <a id="btn-giccollectcreator" href="#" class="btn-app">
+        <div class="btn-app-icon" style="background:rgba(59,130,246,0.1);">
+          <span class="material-symbols-outlined" style="color:#3b82f6;font-size:20px;">table_chart</span>
+        </div>
+        <div>
+          <span class="btn-app-title">GIC XLSForm Creation</span>
+          <span class="btn-app-sub">Convert to Google Forms, Tally...</span>
+        </div>
+      </a>
+
+      <!-- Cloudflare Workers -->
+      <a id="btn-cloudflare" href="#" class="btn-app">
+        <div class="btn-app-icon" style="background:rgba(245,158,11,0.1);">
+          <span class="material-symbols-outlined" style="color:#f59e0b;font-size:20px;">cloud</span>
+        </div>
+        <div>
+          <span class="btn-app-title">Cloudflare Workers</span>
+          <span class="btn-app-sub">Deploy serverless</span>
+        </div>
+      </a>
+    </div>
+
+    <!-- Spacer + footer -->
+    <div class="mt-auto px-4 py-3 border-t border-slate-200 dark:border-slate-800">
+      <p class="text-xs text-slate-400 dark:text-slate-600 leading-relaxed">
+        CC BY 4.0 &bull; Not affiliated with Jotform, ODK, or Cloudflare.
+      </p>
+    </div>
+  </aside>
+
+  <!-- ===== CENTER PANEL ===== -->
+  <main class="flex-1 flex flex-col bg-slate-50 dark:bg-slate-950 overflow-hidden">
+
+    <!-- Top toolbar -->
+    <div class="h-14 flex-shrink-0 border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 flex items-center px-4 gap-3">
+
+      <!-- Desktop / Mobile toggle -->
+      <div class="flex items-center bg-slate-100 dark:bg-slate-800 rounded-lg p-1 gap-0.5 mr-1">
+        <button id="btn-desktop" class="view-active flex items-center gap-1 px-3 py-1.5 text-sm font-medium transition-all" onclick="setViewMode('desktop')">
+          <span class="material-symbols-outlined icon-sm">desktop_windows</span>
+          <span class="hidden sm:inline">Desktop</span>
+        </button>
+        <button id="btn-mobile" class="view-inactive flex items-center gap-1 px-3 py-1.5 text-sm font-medium transition-all" onclick="setViewMode('mobile')">
+          <span class="material-symbols-outlined icon-sm">smartphone</span>
+          <span class="hidden sm:inline">Mobile</span>
+        </button>
+      </div>
+
+      <!-- Divider -->
+      <div class="w-px h-6 bg-slate-200 dark:bg-slate-700"></div>
+
+      <!-- Tab buttons -->
+      <nav class="flex items-center gap-1">
+        <button class="tab-btn tab-active-pill flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium transition-all" data-tab="preview">
+          <span class="material-symbols-outlined icon-sm">visibility</span>
+          <span>Live Preview</span>
+        </button>
+        <button class="tab-btn tab-inactive-pill flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium transition-all rounded-md" data-tab="yaml">
+          <span class="material-symbols-outlined icon-sm">code</span>
+          <span>YAML Source</span>
+        </button>
+        <button class="tab-btn tab-inactive-pill flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium transition-all rounded-md" data-tab="deploy">
+          <span class="material-symbols-outlined icon-sm">rocket_launch</span>
+          <span>Deploy</span>
+        </button>
+      </nav>
+
+      <!-- Spacer -->
+      <div class="flex-1"></div>
+
+      <!-- Right actions -->
+      <div class="flex items-center gap-2">
+        <button id="btn-copy-yaml" class="btn-outline" style="width:auto;padding:6px 12px;">
+          <span class="material-symbols-outlined icon-sm">content_copy</span>
+          <span class="hidden sm:inline text-xs">Copy YAML</span>
+        </button>
+        <button id="btn-print" class="btn-outline" style="width:auto;padding:6px 12px;" onclick="window.print()">
+          <span class="material-symbols-outlined icon-sm">print</span>
+          <span class="hidden sm:inline text-xs">Print</span>
+        </button>
+        <button id="btn-dark-toggle" class="btn-outline" style="width:auto;padding:6px 10px;" onclick="toggleDark()" title="Toggle dark mode">
+          <span id="dark-icon" class="material-symbols-outlined icon-sm">dark_mode</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Tab content area -->
+    <div class="flex-1 overflow-y-auto">
+
+      <!-- TAB: Live Preview -->
+      <div id="tab-preview" class="tab-content h-full p-6 sm:p-8 flex justify-center">
+        <div id="form-renderer-wrap" class="w-full max-w-2xl transition-all duration-300">
+          <div id="form-renderer" class="bg-white dark:bg-slate-900 rounded-xl shadow-sm border border-slate-200 dark:border-slate-800 p-8">
+            <div class="flex items-center justify-center h-32 text-slate-400 dark:text-slate-600">
+              <div class="text-center">
+                <span class="material-symbols-outlined icon-lg block mb-2">hourglass_empty</span>
+                <span class="text-sm">Loading form...</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB: YAML Source -->
+      <div id="tab-yaml" class="tab-content hidden h-full p-6 sm:p-8">
+        <div class="max-w-4xl mx-auto">
+          <div class="relative rounded-xl overflow-hidden border border-slate-200 dark:border-slate-700">
+            <div class="flex items-center justify-between px-4 py-2 bg-slate-800 dark:bg-slate-950 border-b border-slate-700">
+              <span class="text-xs font-mono text-slate-400">form.yaml</span>
+              <button id="copy-yaml-inner" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors" onclick="copyYaml()">
+                <span class="material-symbols-outlined icon-sm">content_copy</span>
+                Copy
+              </button>
+            </div>
+            <pre class="max-h-[calc(100vh-14rem)] overflow-auto m-0 rounded-b-xl"><code id="yaml-code" class="language-yaml text-sm"></code></pre>
+          </div>
+        </div>
+      </div>
+
+      <!-- TAB: Deploy -->
+      <div id="tab-deploy" class="tab-content hidden p-6 sm:p-8">
+        <div class="max-w-3xl mx-auto">
+          <h2 class="text-lg font-bold mb-6 text-slate-900 dark:text-slate-100">Deploy this form</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+
+            <!-- GIC XLSForm Creation -->
+            <div class="deploy-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:rgba(59,130,246,0.1);">
+                  <span class="material-symbols-outlined" style="color:#3b82f6;">table_chart</span>
                 </div>
-            `;
+                <div>
+                  <h3 class="font-semibold text-sm text-slate-900 dark:text-slate-100">GIC XLSForm Creation</h3>
+                  <p class="text-xs text-slate-500 dark:text-slate-400">iOS App</p>
+                </div>
+              </div>
+              <p class="text-xs text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                Open in GIC XLSForm Creation to convert to Google Forms, Tally, or Formbricks in one tap.
+              </p>
+              <a id="deploy-giccollectcreator" href="#" class="flex items-center justify-center gap-2 w-full py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#3b82f6;">
+                <span class="material-symbols-outlined icon-sm">open_in_new</span>
+                Open in App
+              </a>
+            </div>
+
+            <!-- Cloudflare Workers -->
+            <div class="deploy-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:rgba(245,158,11,0.1);">
+                  <span class="material-symbols-outlined" style="color:#f59e0b;">cloud</span>
+                </div>
+                <div>
+                  <h3 class="font-semibold text-sm text-slate-900 dark:text-slate-100">Cloudflare Workers</h3>
+                  <p class="text-xs text-slate-500 dark:text-slate-400">Serverless</p>
+                </div>
+              </div>
+              <p class="text-xs text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                Deploy this form as a Cloudflare Worker using OneTimeUseWebApp for serverless hosting.
+              </p>
+              <a id="deploy-cloudflare" href="#" class="flex items-center justify-center gap-2 w-full py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#f59e0b;">
+                <span class="material-symbols-outlined icon-sm">rocket_launch</span>
+                Deploy Now
+              </a>
+            </div>
+
+            <!-- GIC Collect -->
+            <div class="deploy-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:rgba(236,91,19,0.1);">
+                  <span class="material-symbols-outlined" style="color:#ec5b13;">phone_iphone</span>
+                </div>
+                <div>
+                  <h3 class="font-semibold text-sm text-slate-900 dark:text-slate-100">GIC Collect</h3>
+                  <p class="text-xs text-slate-500 dark:text-slate-400">Offline field collection</p>
+                </div>
+              </div>
+              <p class="text-xs text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                Import this form for offline data collection. Compatible with GIC Collect and ODK Collect.
+              </p>
+              <a id="deploy-giccollect" href="#" class="flex items-center justify-center gap-2 w-full py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#ec5b13;">
+                <span class="material-symbols-outlined icon-sm">download</span>
+                Import to GIC Collect
+              </a>
+            </div>
+
+            <!-- Download XLSX -->
+            <div class="deploy-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center" style="background:rgba(16,185,129,0.1);">
+                  <span class="material-symbols-outlined" style="color:#10b981;">table_view</span>
+                </div>
+                <div>
+                  <h3 class="font-semibold text-sm text-slate-900 dark:text-slate-100">XLSForm (.xlsx)</h3>
+                  <p class="text-xs text-slate-500 dark:text-slate-400">ODK compatible</p>
+                </div>
+              </div>
+              <p class="text-xs text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
+                Download the XLSForm file for use with GIC Collect, ODK Central, or other compatible tools.
+              </p>
+              <button id="deploy-xlsx" class="flex items-center justify-center gap-2 w-full py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors cursor-pointer" style="background:#10b981;" onclick="downloadXlsx()">
+                <span class="material-symbols-outlined icon-sm">download</span>
+                Download XLSX
+              </button>
+            </div>
+
+          </div>
+
+          <!-- Disclaimer -->
+          <div class="mt-6 p-4 rounded-xl bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900">
+            <div class="flex items-start gap-2">
+              <span class="material-symbols-outlined text-amber-600 dark:text-amber-500 flex-shrink-0" style="font-size:18px;margin-top:1px;">warning</span>
+              <p class="text-xs text-amber-800 dark:text-amber-400 leading-relaxed">
+                This form is AI-generated and provided under CC BY 4.0. It is not affiliated with, endorsed by, or derived from Jotform or any other form platform. Always review and customize forms for your specific use case.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- ===== RIGHT PANEL ===== -->
+  <aside class="w-64 flex-shrink-0 border-l border-slate-200 dark:border-slate-800 overflow-y-auto bg-white dark:bg-slate-900 hidden xl:flex flex-col">
+    <div class="p-5">
+      <h4 class="text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500 mb-4">Form Stats</h4>
+
+      <!-- Estimated time card -->
+      <div class="bg-slate-50 dark:bg-slate-800 rounded-xl p-4 mb-3 text-center">
+        <span class="material-symbols-outlined text-primary mb-1 block" style="font-size:28px;">timer</span>
+        <div id="stat-est-time" class="text-2xl font-bold text-slate-900 dark:text-slate-100">—</div>
+        <div class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Estimated time</div>
+      </div>
+
+      <!-- Field counts -->
+      <div class="grid grid-cols-2 gap-2 mb-3">
+        <div class="bg-slate-50 dark:bg-slate-800 rounded-xl p-3 text-center">
+          <div id="stat-total-fields" class="text-xl font-bold text-slate-900 dark:text-slate-100">—</div>
+          <div class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Total Fields</div>
+        </div>
+        <div class="bg-slate-50 dark:bg-slate-800 rounded-xl p-3 text-center">
+          <div id="stat-unique-types" class="text-xl font-bold text-slate-900 dark:text-slate-100">—</div>
+          <div class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Field Types</div>
+        </div>
+      </div>
+
+      <!-- Question types breakdown -->
+      <div class="bg-slate-50 dark:bg-slate-800 rounded-xl p-4 mb-3">
+        <h5 class="text-xs font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-wide mb-3">Field Breakdown</h5>
+        <div id="stat-types-list" class="space-y-1.5">
+          <div class="text-xs text-slate-400 dark:text-slate-600">Loading...</div>
+        </div>
+      </div>
+
+      <!-- Tip card -->
+      <div class="bg-primary/5 dark:bg-primary/10 border border-primary/20 rounded-xl p-4">
+        <div class="flex items-center gap-1.5 mb-2">
+          <span class="material-symbols-outlined text-primary" style="font-size:16px;">tips_and_updates</span>
+          <span class="text-xs font-semibold text-primary uppercase tracking-wide">Tip</span>
+        </div>
+        <p id="stat-tip" class="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+          Keep required fields to a minimum for better completion rates.
+        </p>
+      </div>
+    </div>
+  </aside>
+
+</div><!-- end flex h-screen -->
+
+<script>
+  // ─── State ───────────────────────────────────────────────────────────────────
+  let currentForm = null;
+  let currentYaml = null;
+  let currentFormPath = null;
+  let hasXlsForm = false;
+  let viewMode = 'desktop'; // 'desktop' | 'mobile'
+
+  // ─── Dark mode ───────────────────────────────────────────────────────────────
+  function toggleDark() {
+    const html = document.documentElement;
+    const isDark = html.classList.toggle('dark');
+    localStorage.setItem('gic-theme', isDark ? 'dark' : 'light');
+    updateDarkIcon();
+  }
+
+  function updateDarkIcon() {
+    const isDark = document.documentElement.classList.contains('dark');
+    document.getElementById('dark-icon').textContent = isDark ? 'light_mode' : 'dark_mode';
+  }
+
+  updateDarkIcon();
+
+  // ─── View mode (desktop / mobile) ────────────────────────────────────────────
+  function setViewMode(mode) {
+    viewMode = mode;
+    const wrap = document.getElementById('form-renderer-wrap');
+    const btnDesktop = document.getElementById('btn-desktop');
+    const btnMobile = document.getElementById('btn-mobile');
+
+    if (mode === 'mobile') {
+      wrap.classList.remove('max-w-2xl');
+      wrap.classList.add('max-w-sm');
+      wrap.querySelector('#form-renderer').classList.add('phone-frame');
+      btnMobile.className = 'view-active flex items-center gap-1 px-3 py-1.5 text-sm font-medium transition-all';
+      btnDesktop.className = 'view-inactive flex items-center gap-1 px-3 py-1.5 text-sm font-medium transition-all';
+    } else {
+      wrap.classList.remove('max-w-sm');
+      wrap.classList.add('max-w-2xl');
+      wrap.querySelector('#form-renderer').classList.remove('phone-frame');
+      btnDesktop.className = 'view-active flex items-center gap-1 px-3 py-1.5 text-sm font-medium transition-all';
+      btnMobile.className = 'view-inactive flex items-center gap-1 px-3 py-1.5 text-sm font-medium transition-all';
+    }
+  }
+
+  // ─── Tab switching ────────────────────────────────────────────────────────────
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.remove('tab-active-pill');
+        b.classList.add('tab-inactive-pill');
+        b.classList.remove('rounded-md'); // pill removes its own rounding
+      });
+      btn.classList.remove('tab-inactive-pill');
+      btn.classList.add('tab-active-pill');
+
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
+      document.getElementById(`tab-${btn.dataset.tab}`).classList.remove('hidden');
+    });
+  });
+
+  // ─── Copy YAML ───────────────────────────────────────────────────────────────
+  function copyYaml() {
+    if (!currentYaml) return;
+    navigator.clipboard.writeText(currentYaml).then(() => {
+      const btn = document.getElementById('btn-copy-yaml');
+      const inner = document.getElementById('copy-yaml-inner');
+      [btn, inner].forEach(el => {
+        if (el) {
+          const orig = el.innerHTML;
+          el.innerHTML = el.innerHTML.replace('content_copy', 'check').replace('Copy YAML', 'Copied!').replace('Copy', 'Copied!');
+          setTimeout(() => { el.innerHTML = orig; }, 2000);
         }
-        
-        function renderOdkMock(pages) {
-            const container = document.getElementById('odk-mock-content');
-            
-            container.innerHTML = pages.map((page, index) => {
-                const type = page.type || 'text';
-                const label = page.label || page.name || `Question ${index + 1}`;
-                const required = page.required ? '<span class="text-red-600">*</span>' : '';
-                
-                let icon = '📝';
-                if (type === 'select_one') icon = '🔘';
-                if (type === 'select_multiple') icon = '☑️';
-                if (type === 'date') icon = '📅';
-                if (type === 'note') icon = '📋';
-                
-                if (type === 'note') {
-                    return `<div class="border-b border-gray-200 py-3"><p class="font-medium">${label}</p></div>`;
-                }
-                
-                return `
-                    <div class="border-b border-gray-200 py-4">
-                        <div class="flex items-start space-x-2">
-                            <span class="text-xl">${icon}</span>
-                            <div class="flex-1">
-                                <p class="font-medium text-gray-900">${label.replace(/_/g, ' ')} ${required}</p>
-                                <p class="text-sm text-gray-500 mt-1">${type}</p>
-                            </div>
-                        </div>
-                    </div>
-                `;
-            }).join('');
+      });
+    });
+  }
+
+  document.getElementById('btn-copy-yaml').addEventListener('click', copyYaml);
+
+  // ─── Download helpers ─────────────────────────────────────────────────────────
+  function downloadFile(path, content, mimeType) {
+    const blob = new Blob([content], { type: mimeType });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = path.split('/').pop();
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function downloadXlsx() {
+    if (!currentFormPath) return;
+    const xlsxPath = currentFormPath.replace('.yaml', '.xlsx').replace('.yml', '.xlsx');
+    const rawUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${xlsxPath}`;
+    window.open(rawUrl, '_blank');
+  }
+
+  // ─── Render form ──────────────────────────────────────────────────────────────
+  function renderForm(pages) {
+    const container = document.getElementById('form-renderer');
+
+    const fieldsHtml = pages.map((page, index) => {
+      const type = page.type || 'text';
+      const label = (page.label || page.name || `Question ${index + 1}`).replace(/_/g, ' ');
+      const hint = page.hint || '';
+      const required = page.required;
+
+      const reqStar = required ? '<span class="required-star">*</span>' : '';
+      let inputHtml = '';
+
+      switch (type) {
+        case 'text':
+        case 'email':
+        case 'number':
+        case 'date':
+        case 'time':
+          inputHtml = `<input type="${type === 'text' ? 'text' : type}" class="preview-input" placeholder="${type === 'email' ? 'email@example.com' : type === 'date' ? 'yyyy-mm-dd' : ''}" ${required ? 'required' : ''}>`;
+          break;
+
+        case 'select_one': {
+          const opts = page.options || [];
+          inputHtml = `<select class="preview-input" ${required ? 'required' : ''}>
+            <option value="">Select an option…</option>
+            ${opts.map(o => `<option value="${o}">${o}</option>`).join('')}
+          </select>`;
+          break;
         }
-        
-        function downloadFile(path, content, mimeType) {
-            const blob = new Blob([content], { type: mimeType });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = path.split('/').pop();
-            a.click();
-            URL.revokeObjectURL(url);
+
+        case 'select_multiple': {
+          const mopts = page.options || [];
+          inputHtml = `<div class="space-y-2 mt-1">
+            ${mopts.map((o, i) => `
+              <label class="flex items-center gap-2 text-sm cursor-pointer">
+                <input type="checkbox" name="${page.name || 'q' + index}" value="${o}"
+                  class="rounded border-slate-300 dark:border-slate-600 text-primary focus:ring-primary"
+                  style="accent-color:#ec5b13;">
+                <span class="text-slate-700 dark:text-slate-300">${o}</span>
+              </label>
+            `).join('')}
+          </div>`;
+          break;
         }
-        
-        function downloadXlsx(formPath) {
-            const xlsxPath = formPath.replace('.yaml', '.xlsx');
-            window.location.href = xlsxPath;
-        }
-        
-        function updateEmbedCode(formPath) {
-            const showHeader = document.getElementById('embed-show-header').checked;
-            const showFooter = document.getElementById('embed-show-footer').checked;
-            
-            const baseUrl = window.location.origin;
-            const embedUrl = `${baseUrl}/preview.html?form=${encodeURIComponent(formPath)}&embed=true${!showHeader ? '&no-header=true' : ''}${!showFooter ? '&no-footer=true' : ''}`;
-            
-            const embedCode = `<iframe 
-  src="${embedUrl}"
-  width="100%" 
-  height="600"
-  frameborder="0"
-  style="border-radius: 8px;">
-</iframe>`;
-            
-            document.getElementById('embed-code').textContent = embedCode;
-        }
-        
-        // Copy buttons
-        document.getElementById('copy-yaml').addEventListener('click', () => {
-            navigator.clipboard.writeText(currentYaml);
-            const btn = document.getElementById('copy-yaml');
-            btn.textContent = '✅ Copied!';
-            setTimeout(() => btn.textContent = '📋 Copy', 2000);
-        });
-        
-        document.getElementById('copy-embed').addEventListener('click', () => {
-            navigator.clipboard.writeText(document.getElementById('embed-code').textContent);
-            const btn = document.getElementById('copy-embed');
-            btn.textContent = '✅ Copied!';
-            setTimeout(() => btn.textContent = '📋 Copy', 2000);
-        });
-        
-        document.getElementById('embed-show-header').addEventListener('change', () => updateEmbedCode(new URLSearchParams(window.location.search).get('form')));
-        document.getElementById('embed-show-footer').addEventListener('change', () => updateEmbedCode(new URLSearchParams(window.location.search).get('form')));
-        
-        // Print button
-        document.getElementById('print-pdf').addEventListener('click', () => {
-            window.print();
-        });
-        
-        // Initialize
-        window.addEventListener('DOMContentLoaded', loadForm);
-    </script>
+
+        case 'note':
+          return `
+            <div class="mb-5 p-4 rounded-lg bg-slate-50 dark:bg-slate-800 border-l-4" style="border-left-color:#ec5b13;">
+              <p class="text-sm text-slate-700 dark:text-slate-300">${label}</p>
+            </div>`;
+
+        default:
+          inputHtml = `<input type="text" class="preview-input" ${required ? 'required' : ''}>`;
+      }
+
+      return `
+        <div class="mb-5">
+          <label class="preview-label">
+            ${label}${reqStar}
+          </label>
+          ${inputHtml}
+          ${hint ? `<p class="preview-hint">${hint}</p>` : ''}
+        </div>`;
+    }).join('');
+
+    container.innerHTML = `
+      <form onsubmit="return false;">
+        ${fieldsHtml}
+        <div class="mt-6 pt-4 border-t border-slate-100 dark:border-slate-800">
+          <button type="submit"
+            class="px-6 py-2.5 rounded-lg text-sm font-semibold text-white transition-opacity hover:opacity-90"
+            style="background:#ec5b13;">
+            Submit Form
+          </button>
+        </div>
+      </form>`;
+  }
+
+  // ─── Stats panel ─────────────────────────────────────────────────────────────
+  function updateStats(form, pages) {
+    const qCount = pages.length;
+    const mins = Math.max(1, Math.ceil(qCount * 0.5));
+    const types = [...new Set(pages.map(p => p.type || 'text'))];
+    const typeCounts = {};
+    pages.forEach(p => { const t = p.type || 'text'; typeCounts[t] = (typeCounts[t] || 0) + 1; });
+
+    document.getElementById('stat-est-time').textContent = `${mins} min${mins > 1 ? 's' : ''}`;
+    document.getElementById('stat-total-fields').textContent = qCount;
+    document.getElementById('stat-unique-types').textContent = types.length;
+    document.getElementById('stat-types-list').innerHTML = Object.entries(typeCounts).map(([t, c]) => `
+      <div class="flex justify-between text-sm">
+        <span class="text-slate-600 dark:text-slate-400 text-xs capitalize">${t.replace('_', ' ')}</span>
+        <span class="font-bold text-xs text-slate-900 dark:text-slate-100">${c}</span>
+      </div>
+    `).join('');
+
+    // Contextual tip
+    const category = (currentFormPath || '').split('/')[0].toLowerCase();
+    let tip = 'Keep required fields to a minimum for better completion rates.';
+    if (category.includes('health') || category.includes('medical')) {
+      tip = 'Include a consent section at the start for compliance.';
+    } else if (category.includes('business') || category.includes('commerce')) {
+      tip = 'Add email validation for client contact fields.';
+    } else if (category.includes('survey') || category.includes('research')) {
+      tip = 'Use scale questions to make analysis easier.';
+    } else if (category.includes('education') || category.includes('school')) {
+      tip = 'Group related questions into logical sections.';
+    }
+    document.getElementById('stat-tip').textContent = tip;
+  }
+
+  // ─── Load form ────────────────────────────────────────────────────────────────
+  async function loadForm() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const formPath = urlParams.get('form');
+
+    if (!formPath) {
+      document.getElementById('form-title-sidebar').textContent = 'Error: No form specified';
+      document.getElementById('form-renderer').innerHTML = `
+        <div class="flex flex-col items-center justify-center h-48 text-slate-400 dark:text-slate-600">
+          <span class="material-symbols-outlined icon-lg mb-2">error_outline</span>
+          <p class="text-sm">No form path provided in the URL.</p>
+          <p class="text-xs mt-1">Add <code class="text-primary">?form=category/filename.yaml</code> to the URL.</p>
+        </div>`;
+      return;
+    }
+
+    currentFormPath = formPath;
+
+    try {
+      const rawUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${formPath}`;
+      const response = await fetch(rawUrl);
+      if (!response.ok) throw new Error(`Form not found (HTTP ${response.status})`);
+
+      currentYaml = await response.text();
+      currentForm = jsyaml.load(currentYaml);
+
+      const props = currentForm.inputSchema?.properties || {};
+      const title = (props.title || 'Untitled Form').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+      const pages = props.pages || [];
+      const language = currentForm.language || 'English';
+      const categoryRaw = formPath.split('/')[0];
+      const category = categoryRaw.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+
+      // Check for xlsx
+      const xlsxPath = formPath.replace('.yaml', '.xlsx').replace('.yml', '.xlsx');
+      hasXlsForm = true; // assume it exists; show the button
+
+      // ── Left panel ──────────────────────────────────────────────────────────
+      document.title = `${title} — GIC Forms`;
+      document.getElementById('form-title-sidebar').textContent = title;
+      document.getElementById('form-category-sidebar').textContent = category;
+      document.getElementById('form-meta-sidebar').innerHTML = `
+        <span class="inline-flex items-center gap-1 text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 rounded-full px-2 py-0.5">
+          <span class="material-symbols-outlined" style="font-size:12px;">quiz</span>
+          ${pages.length} questions
+        </span>
+        <span class="inline-flex items-center gap-1 text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 rounded-full px-2 py-0.5">
+          <span class="material-symbols-outlined" style="font-size:12px;">language</span>
+          ${language}
+        </span>`;
+
+      // ── Download buttons ─────────────────────────────────────────────────────
+      document.getElementById('btn-download-yaml').onclick = () => downloadFile(formPath, currentYaml, 'text/yaml');
+
+      if (hasXlsForm) {
+        const xlsBtn = document.getElementById('btn-download-xlsx');
+        xlsBtn.classList.remove('hidden');
+        xlsBtn.onclick = () => downloadXlsx();
+      }
+
+      // ── Deep links ───────────────────────────────────────────────────────────
+      const encodedPath = encodeURIComponent(rawUrl);
+      const appStoreUrl = 'https://apps.apple.com/us/app/gic-collect/id1485932698';
+      const creatorStoreUrl = 'https://apps.apple.com/app/gic-xlsform-creation/id6737851526';
+
+      const gcLink = document.getElementById('btn-giccollect');
+      gcLink.href = `giccollect://import-form?url=${encodedPath}`;
+      gcLink.addEventListener('click', (e) => {
+        // Fallback: open App Store after a short delay if the deep link fails
+        setTimeout(() => {
+          if (!document.hidden) window.open(appStoreUrl, '_blank');
+        }, 800);
+      });
+
+      const gccLink = document.getElementById('btn-giccollectcreator');
+      gccLink.href = `giccollectcreator://open-form?id=${encodedPath}`;
+      gccLink.addEventListener('click', () => {
+        setTimeout(() => {
+          if (!document.hidden) window.open(creatorStoreUrl, '_blank');
+        }, 800);
+      });
+
+      document.getElementById('btn-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
+
+      // ── Deploy tab links ─────────────────────────────────────────────────────
+      document.getElementById('deploy-giccollectcreator').href = `giccollectcreator://open-form?id=${encodedPath}`;
+      document.getElementById('deploy-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
+      document.getElementById('deploy-giccollect').href = `giccollect://import-form?url=${encodedPath}`;
+
+      // ── Render form preview ──────────────────────────────────────────────────
+      renderForm(pages);
+
+      // ── YAML tab ─────────────────────────────────────────────────────────────
+      document.getElementById('yaml-code').textContent = currentYaml;
+      Prism.highlightAll();
+
+      // ── Stats panel ──────────────────────────────────────────────────────────
+      updateStats(currentForm, pages);
+
+    } catch (error) {
+      console.error('Error loading form:', error);
+
+      document.getElementById('form-title-sidebar').textContent = 'Error loading form';
+      document.getElementById('form-renderer').innerHTML = `
+        <div class="flex flex-col items-center justify-center h-48 text-slate-400 dark:text-slate-600">
+          <span class="material-symbols-outlined icon-lg mb-2 text-red-400">error_outline</span>
+          <p class="text-sm text-red-500">${error.message}</p>
+          <p class="text-xs mt-2 text-slate-400">Path: ${currentFormPath}</p>
+        </div>`;
+    }
+  }
+
+  // ─── Init ─────────────────────────────────────────────────────────────────────
+  window.addEventListener('DOMContentLoaded', loadForm);
+</script>
 </body>
 </html>
