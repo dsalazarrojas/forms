@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manis By Dani On Hand Stock Order Form
+    pages:
+    - id: 1
+      name: main_form
+      label: Manis By Dani On Hand Stock
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: polish_colors
+      label: Color Street
+      hint: Please select polish color
+      type: select_one
+      options:
+      - Gold
+      - Rose
+      - Red
+      - Blue
+      - Black
+      required: true
+    - id: 3
+      name: polish_size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 4
+      name: order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: order_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: main_submit
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: true

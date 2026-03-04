@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_animal_shelter_donation_form
+    pages:
+    - id: 1
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donator_email
+      label: Donator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donator_donation_amount
+      label: Donator Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often would you like to donate?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 5
+      name: special_donation_requests
+      label: Special Donation Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donator_phone
+      label: Donator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donator_comment
+      label: Donator Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: non_profit_employees
+      label: Non Profit Employees
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true

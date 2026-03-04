@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trauma Exposure And Impact Survey
+    pages:
+    - id: 1
+      name: trauma_exposure
+      label: Trauma Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trauma_exposure_frequency
+      label: trauma_exposure_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: trauma_exposure_duration
+      label: trauma_exposure_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trauma_exposure_type
+      label: trauma_exposure_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: trauma_exposure_severity
+      label: trauma_exposure_severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: trauma_exposure_impact
+      label: trauma_exposure_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trauma_impact_frequency
+      label: trauma_impact_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trauma_impact_duration
+      label: trauma_impact_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trauma_impact_type
+      label: trauma_impact_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: trauma_impact_severity
+      label: trauma_impact_severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: trauma_exposure_caregiver
+      label: trauma_exposure_caregiver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: trauma_exposure_caregiver_type
+      label: trauma_exposure_caregiver_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trauma_exposure_refusal
+      label: trauma_exposure_refusal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: trauma_refusal_exposure_caregiver
+      label: trauma_refusal_exposure_caregiver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

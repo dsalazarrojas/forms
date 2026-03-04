@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Pressure Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_header
+      label: Blood Pressure Monitoring Form
+      hint: Record and monitor your blood pressure readings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: monitoring_date
+      label: Monitoring Date
+      hint: Date of reading
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: monitoring_time
+      label: Monitoring Time
+      hint: Time of reading
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: systolic
+      label: Systolic Reading
+      hint: Top number in mmHg
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: diastolic
+      label: Diastolic Reading
+      hint: Bottom number in mmHg
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pulse
+      label: Pulse Rate
+      hint: Heart rate in BPM
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: measurement_arm
+      label: Measurement Arm
+      hint: Which arm used
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Both
+      required: true
+    - id: 11
+      name: patient_position
+      label: Patient Position
+      hint: Position during measurement
+      type: select_one
+      options:
+      - Sitting
+      - Standing
+      - Lying
+      required: true
+    - id: 12
+      name: cuff_size
+      label: Cuff Size
+      hint: Size used
+      type: select_one
+      options:
+      - Small Adult
+      - Adult
+      - Large Adult
+      - Thigh
+      required: false
+    - id: 13
+      name: reading_context
+      label: Reading Context
+      hint: When was this taken
+      type: select_one
+      options:
+      - Morning Routine
+      - Afternoon
+      - Evening
+      - Before Medication
+      - After Medication
+      - During Symptoms
+      required: true
+    - id: 14
+      name: symptoms_present
+      label: Symptoms Present
+      hint: Any symptoms
+      type: select_multiple
+      options:
+      - None
+      - Headache
+      - Dizziness
+      - Chest Discomfort
+      - Shortness of Breath
+      - Palpitations
+      - Vision Changes
+      required: false
+    - id: 15
+      name: activity_level
+      label: Activity Before Reading
+      hint: What were you doing
+      type: select_one
+      options:
+      - Resting
+      - Light Activity
+      - Moderate Activity
+      - Vigorous Activity
+      required: false
+    - id: 16
+      name: stress_level
+      label: Stress Level
+      hint: Rate 1-10
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: medications_taken
+      label: Medications Taken Today
+      hint: BP medications taken
+      type: select_one
+      options:
+      - Yes All
+      - Yes Some
+      - false
+      required: false
+    - id: 18
+      name: medication_time
+      label: Medication Time
+      hint: When taken
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: bp_category
+      label: Blood Pressure Category
+      hint: Classification
+      type: select_one
+      options:
+      - Normal
+      - Elevated
+      - Hypertension Stage 1
+      - Hypertension Stage 2
+      - Hypertensive Crisis
+      required: true
+    - id: 20
+      name: action_taken
+      label: Action Taken
+      hint: What was done
+      type: select_one
+      options:
+      - None Required
+      - Notified Provider
+      - Medication Adjusted
+      - Repeat Reading
+      - Emergency Care
+      required: false
+    - id: 21
+      name: monitored_by
+      label: Monitored By
+      hint: Healthcare provider name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_needed
+      label: Follow-Up Needed
+      hint: Is follow-up required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_disease_monitoring_survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: observer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: observer_email
+      label: observer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: observer_organization
+      label: observer_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: animal_id
+      label: animal_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: species
+      label: species
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_observers
+      label: health_observers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''researcher'', ''value'': ''researcher''}'
+      - '{''id'': 2, ''label'': ''agency'', ''value'': ''agency''}'
+      - '{''id'': 3, ''label'': ''citizen_scientist'', ''value'': ''citizen_scientist''}'
+      required: false
+    - id: 8
+      name: health_observers_additional
+      label: health_observers_additional
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''researcher'', ''value'': ''researcher''}'
+      - '{''id'': 2, ''label'': ''agency'', ''value'': ''agency''}'
+      - '{''id'': 3, ''label'': ''citizen_scientist'', ''value'': ''citizen_scientist''}'
+      required: false
+    - id: 9
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''label'': ''other'', ''value'': ''other''}'
+      - '{''id'': 5, ''label'': ''none'', ''value'': ''none''}'
+      required: false
+    - id: 10
+      name: disease_info
+      label: disease_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''disease'', ''value'': ''disease''}'
+      - '{''id'': 2, ''label'': ''injury'', ''value'': ''injury''}'
+      - '{''id'': 3, ''label'': ''other'', ''value'': ''other''}'
+      - '{''id'': 4, ''label'': ''none'', ''value'': ''none''}'
+      required: false
+    - id: 11
+      name: case_details
+      label: case_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: latitude
+      label: latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: longitude
+      label: longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: location_type
+      label: location_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_observed
+      label: date_observed
+      hint: null
+      type: date
+      options: []
+      required: false

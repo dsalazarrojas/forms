@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: next_appointment_date
+      label: Next Appointment Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: appointment_time
+      label: Appointment Time
+      hint: "12:00 AM - 11:59 PM"
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time_slots
+      label: Preferred Time Slots
+      hint: Select a time slot for your appointment
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: Provide medical history in the space provided
+      type: note
+      options: []
+      required: false

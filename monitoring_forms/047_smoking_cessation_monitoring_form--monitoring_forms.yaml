@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Smoking Cessation Monitoring Form
+    pages:
+    - id: 1
+      name: smoker_info
+      label: Smoker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: habits
+      label: Current Habits
+      hint: null
+      type: select_multiple
+      options:
+      - Cigarettes
+      - Cigars
+      - Joints
+      - Other
+      required: false
+    - id: 3
+      name: quit_date
+      label: Quit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: quit_reason
+      label: Quit Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coping_strategies
+      label: Coping Strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: triggers
+      label: Triggers
+      hint: null
+      type: select_multiple
+      options:
+      - Social Situations
+      - Certain Foods
+      - Certain Smells
+      - Other
+      required: false
+    - id: 7
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_one
+      options:
+      - Chantix
+      - None
+      - Other
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false

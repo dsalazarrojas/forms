@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appraisal Order Form
+    pages:
+    - id: 1
+      name: order_info
+      label: Order Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: loan_officer
+      label: Loan Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: property_info
+      label: Property Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Multi-Family
+      - Commercial
+      - Other
+      required: true
+    - id: 11
+      name: appraisal_type
+      label: Type of Appraisal
+      hint: null
+      type: select_one
+      options:
+      - Full Appraisal
+      - Limited Appraisal
+      - Desktop Appraisal
+      - Drive-by Appraisal
+      required: true
+    - id: 12
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: purchase_price
+      label: Purchase Price or Current Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: needed_by_date
+      label: Appraisal Needed By Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

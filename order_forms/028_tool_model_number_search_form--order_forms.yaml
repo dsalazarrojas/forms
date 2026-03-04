@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: tool_model_number_search_form
+    pages:
+    - id: 1
+      name: tool_model_number
+      label: tool_model_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 3
+      name: search_button
+      label: search_button
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Consultation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: skin_concerns
+      label: Skin Concerns
+      hint: null
+      type: select_one
+      options:
+      - Acne
+      - Age spots
+      - Fine lines
+      - Hyper-pigmentation
+      - Redness
+      - Skin laxity
+      - Wrinkles
+      - Sun damage
+      required: false
+    - id: 5
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: select_multiple
+      options:
+      - Dermatologist
+      - Medical spa
+      - Plastic surgeon
+      - Skincare clinic
+      - Other
+      required: false
+    - id: 6
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Medical student
+      - Other
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Food
+      - Environmental
+      - Other
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Diabetes
+      - Hypertension
+      - High Cholesterol
+      - Other
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_history_notes
+      label: Medical History Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Combination
+      - Dry
+      - Normal
+      - Oily
+      - Sensitive
+      required: false
+    - id: 12
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Medium
+      - Olive
+      - Tan
+      - Tanned
+      required: false
+    - id: 13
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: birthplace
+      label: Birthplace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      required: false
+    - id: 20
+      name: height_weight
+      label: Height/Weight
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: medical_history_photo_urls
+      label: Medical History Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_history_documentation
+      label: Medical History Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

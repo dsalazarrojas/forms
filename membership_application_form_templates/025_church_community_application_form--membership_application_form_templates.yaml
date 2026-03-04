@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Community Application Form
+    pages:
+    - id: 1
+      name: header_personal_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Widowed
+      - Divorced
+      required: false
+    - id: 7
+      name: occupation
+      label: Occupation/Profession
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: header_spiritual_history
+      label: -- Spiritual History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: baptism_status
+      label: Have you been baptized?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: personal_testimony_brief
+      label: Briefly share your faith journey
+      hint: How did you come to know Christ?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_church_membership
+      label: Name of Previous Church (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_leaving
+      label: Reason for leaving previous church
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: header_membership_intent
+      label: -- Membership Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_joining
+      label: Why do you want to join our community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: skills_talents
+      label: Skills or Talents you'd like to use in ministry
+      hint: e.g., Teaching, Music, Finance, Cooking, Maintenance
+      type: select_multiple
+      options:
+      - Teaching
+      - Music/Worship
+      - Children/Youth
+      - Tech/Media
+      - Administration
+      - Hospitality
+      - Outreach
+      required: false
+    - id: 16
+      name: children_names_ages
+      label: Children's Names and Ages (if applying as a family)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: membership_class_interest
+      label: Are you interested in the next Membership Orientation Class?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Already attended
+      - false
+      required: true
+    - id: 18
+      name: statement_of_faith_agree
+      label: I agree with the church Statement of Faith and Bylaws
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: signature_confirmation
+      label: Applicant Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

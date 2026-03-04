@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Air Quality Monitoring Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: monitoring_locations
+      label: Monitoring Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expected_outdoor_air_quality_data_sources
+      label: Expected Outdoor Air Quality Data Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: data_handling
+      label: Data Handling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: sampling_locations
+      label: Sampling Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: sampling_frequency
+      label: Sampling Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: sample_size
+      label: Sample Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sampling_method
+      label: Sampling Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: monitoring_duration
+      label: Monitoring Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sampling_frequency_interval
+      label: Sampling Frequency Interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sampling_start_date
+      label: Sampling Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: sampling_end_date
+      label: Sampling End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: expected_outdoor_air_quality_data
+      label: Expected Outdoor Air Quality Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: data_storage
+      label: Data Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: data_analysis
+      label: Data Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: yonnired_brand_products
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: Enter the customer information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_shipping
+      label: shipping_info
+      hint: Enter customer shipping information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: total_price
+      label: total_price
+      hint: Enter the total price
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cash_app_id
+      label: cash_app_id
+      hint: Enter the CashApp ID
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cash_app_token
+      label: cash_app_token
+      hint: Enter the CashApp token
+      type: select_one
+      options:
+      - '123456'
+      - '654321'
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 8
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_multiple
+      options:
+      - Awaiting Payment
+      - Completed
+      - Canceled
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - CashApp
+      - Other
+      required: false

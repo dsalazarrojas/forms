@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Advent Box Registration
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Advent Box Order Registration --
+        hint: Order your festive holiday advent box today
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: customer_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: section_advent_selection
+        label: -- Advent Box Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: box_size
+        Label: Box Size
+        hint: null
+        type: select_one
+        options:
+          - Small
+          - Medium
+          - Large
+          - Family
+          - Corporate
+        required: true
+      - id: 7
+        name: theme_preference
+        Label: Theme Preference
+        hint: null
+        type: select_one
+        options:
+          - Traditional
+          - Chocolate
+          - Artisan Sourdough
+          - Festive Pastries
+          - Mixed Selection
+          - Custom
+        required: true
+      - id: 8
+        name: quantity
+        Label: Number of Boxes to Order
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 9
+        name: section_customization
+        label: -- Customization Options --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: dietary_options
+        Label: Dietary Preferences
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Vegan
+          - Gluten-Free
+          - Dairy-Free
+          - Nut-Free
+          - None
+        required: false
+      - id: 11
+        name: custom_items
+        Label: Custom Item Requests
+        hint: Specific flavors or items you prefer
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: gift_wrapping
+        Label: Gift Wrapping and Presentation
+        hint: null
+        type: select_one
+        options:
+          - Standard Wrapping
+          - Premium Gift Wrap
+          - Plain Box
+          - Custom Design
+        required: false
+      - id: 13
+        name: section_delivery
+        label: -- Delivery or Pickup --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: fulfillment_option
+        Label: Fulfillment Option
+        hint: null
+        type: select_one
+        options:
+          - Local Delivery
+          - Customer Pickup
+          - Shipping
+        required: true
+      - id: 15
+        name: delivery_date
+        Label: Preferred Delivery or Pickup Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: delivery_address
+        Label: Delivery Address (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: pickup_location
+        Label: Preferred Pickup Location (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_personal
+        label: -- Recipient Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: recipient_name
+        Label: Recipient Name (if different)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: gift_message
+        Label: Gift Message
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_payment
+        label: -- Payment Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: order_total
+        Label: Order Total (Calculated)
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 23
+        name: payment_method
+        Label: Payment Method
+        hint: null
+        type: select_one
+        options:
+          - Credit Card
+          - Debit Card
+          - PayPal
+          - Bank Transfer
+          - Cash on Pickup
+        required: true
+      - id: 24
+        name: special_requests
+        Label: Special Requests or Notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: order_confirmation
+        Label: I Confirm This Order is Complete and Accurate
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

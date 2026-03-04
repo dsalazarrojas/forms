@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Living Group Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Member
+      - Non-Member
+      - Volunteer
+      - Leader
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      - Pending
+      required: false
+    - id: 15
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Member
+      - Leader
+      required: false
+    - id: 16
+      name: role_type
+      label: Role Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

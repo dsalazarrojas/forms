@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_marketing_group_membership_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Member''}'
+      - '{''id'': 2, ''text'': ''Non Member''}'
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Monthly''}'
+      - '{''id'': 2, ''text'': ''Quarterly''}'
+      - '{''id'': 3, ''text'': ''Annually''}'
+      required: true
+    - id: 10
+      name: confirm_membership
+      label: Confirm Membership
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Confirm''}'
+      - '{''id'': 2, ''text'': ''Do not confirm''}'
+      required: true
+    - id: 11
+      name: confirm_membership_type
+      label: Confirm Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Confirm''}'
+      - '{''id'': 2, ''text'': ''Do not confirm''}'
+      required: true
+    - id: 12
+      name: confirm_membership_status
+      label: Confirm Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Active''}'
+      - '{''id'': 2, ''text'': ''Inactive''}'
+      required: true
+    - id: 13
+      name: confirm_membership_date
+      label: Confirm Membership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Basic''}'
+      - '{''id'': 2, ''text'': ''Pro''}'
+      required: false
+    - id: 15
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Active''}'
+      - '{''id'': 2, ''text'': ''Inactive''}'
+      required: false
+    - id: 16
+      name: membership_date
+      label: Membership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: confirmed_at
+      label: Confirmed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: membership_level_description
+      label: Membership Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: role_description
+      label: Role Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: membership_status_description
+      label: Membership Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: membership_level_id
+      label: Membership Level ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: membership_status_id
+      label: Membership Status ID
+      hint: null
+      type: number
+      options: []
+      required: false

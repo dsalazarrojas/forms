@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Choir Membership Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Street address, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: membership_status
+      label: Are you a member of this church
+      hint: null
+      type: select_one
+      options:
+      - Yes, active member
+      - Yes, but not active
+      - No, but interested
+      - Visiting from another church
+      required: true
+    - id: 7
+      name: vocal_range
+      label: What is your vocal range
+      hint: Select the range you are most comfortable singing
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Not sure
+      required: true
+    - id: 8
+      name: choir_experience
+      label: Do you have previous choir experience
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, some experience
+      - No, but I can read music
+      - No experience at all
+      required: true
+    - id: 9
+      name: music_reading
+      label: Can you read sheet music
+      hint: null
+      type: select_one
+      options:
+      - Yes, fluently
+      - Yes, but need practice
+      - false
+      required: true
+    - id: 10
+      name: instrument_skills
+      label: Do you play any musical instruments
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Drums
+      - Violin
+      - Flute
+      - Trumpet
+      - Organ
+      - None
+      required: false
+    - id: 11
+      name: availability
+      label: Which rehearsal times work for you
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sunday morning before service
+      - Sunday afternoon
+      - Wednesday evening
+      - Thursday evening
+      - Saturday morning
+      - Flexible schedule
+      required: true
+    - id: 12
+      name: performance_participation
+      label: Are you willing to participate in special performances
+      hint: Including Easter, Christmas, and other special events
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, most of the time
+      - Only occasionally
+      - No, regular rehearsals only
+      required: true
+    - id: 13
+      name: section_leader_interest
+      label: Would you be interested in becoming a section leader
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe in the future
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: t_shirt_size
+      label: Choir Robe Size
+      hint: This helps us order your choir robe
+      type: select_one
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - 2XL
+      - 3XL
+      required: true
+    - id: 16
+      name: additional_skills
+      label: Do you have any other skills to contribute
+      hint: Such as music arrangement, directing, technical support
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: how_heard
+      label: How did you hear about the choir
+      hint: null
+      type: select_one
+      options:
+      - Church announcement
+      - Friend or family member
+      - Church website
+      - Social media
+      - During church service
+      - Other
+      required: false
+    - id: 18
+      name: motivation
+      label: Why do you want to join the choir
+      hint: Share your motivation for joining
+      type: text
+      options: []
+      required: false

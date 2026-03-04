@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Experience Internship Application
+    pages:
+    - id: 1
+      name: donorexperienceform
+      label: Donor Experience Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: availablestart
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availableend
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availableduration
+      label: Available Duration
+      hint: null
+      type: number
+      options: []
+      required: false

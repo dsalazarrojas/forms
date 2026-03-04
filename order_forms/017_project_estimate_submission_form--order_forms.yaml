@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Estimate Submission Form
+    pages:
+    - id: 1
+      name: project_estimate_form
+      label: Project Details
+      hint: Enter project details here
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget_information
+      label: Budget Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Enter client name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save Draft
+      - Cancel
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager_title
+      label: Project Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: Enter address here
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: Enter zip code here
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_type
+      label: Company Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_size
+      label: Company Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: annual_revenue
+      label: Annual Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false

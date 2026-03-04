@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Registration Form PayPal
+    pages:
+    - id: 1
+      name: name
+      label: Membership Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: Special Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: options
+      label: Options
+      hint: null
+      type: select_multiple
+      options:
+      - Professional Associate
+      - Student Associate
+      required: false
+    - id: 8
+      name: options_1
+      label: Membership Options
+      hint: null
+      type: select_one
+      options:
+      - Professional Associate
+      - Student Associate
+      required: false
+    - id: 9
+      name: payment
+      label: PayPal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_1
+      label: Pay With PayPal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment
+      label: Payment
+      hint: null
+      type: note
+      options: []
+      required: false

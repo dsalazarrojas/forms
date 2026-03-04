@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Club Membership Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_contact_relationships
+      label: Relationships
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: membership_details
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: membership_expiration_date
+      label: Membership Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tennis_club
+      label: Tennis Club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tennis_club_address
+      label: Tennis Club Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tennis_club_email
+      label: Tennis Club Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tennis_club_phone
+      label: Tennis Club Phone
+      hint: null
+      type: text
+      options: []
+      required: false

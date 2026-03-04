@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Glove Order Form
+    pages:
+    - id: 1
+      name: supplier_id
+      label: Supplier Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: glove_type
+      label: Glove Type
+      hint: null
+      type: select_multiple
+      options:
+      - Leather
+      - Synthetic
+      - Latex
+      - Others
+      required: false
+    - id: 4
+      name: glove_color
+      label: Glove Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

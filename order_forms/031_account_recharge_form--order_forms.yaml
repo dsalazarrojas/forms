@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Recharge Form
+    pages:
+    - id: 1
+      name: section_account_info
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Email associated with your account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: account_id
+      label: Account ID or Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_recharge_details
+      label: -- Recharge Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recharge_amount
+      label: Recharge Amount
+      hint: null
+      type: select_one
+      options:
+      - $5
+      - $10
+      - $25
+      - $50
+      - $100
+      - Custom amount
+      required: true
+    - id: 8
+      name: custom_amount
+      label: Custom Amount (if selected above)
+      hint: Enter amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Gift card or voucher
+      required: true
+    - id: 10
+      name: auto_recharge
+      label: Enable Auto-Recharge
+      hint: Automatically recharge when balance falls below a set threshold
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: auto_recharge_threshold
+      label: Auto-Recharge Threshold (if enabled)
+      hint: Recharge will trigger when balance drops below this amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: promo_code
+      label: Promotional or Discount Code
+      hint: Enter if you have one
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

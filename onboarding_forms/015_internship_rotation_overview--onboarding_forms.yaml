@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: internship_rotation_overview
+    pages:
+    - id: 1
+      name: rotation_dates
+      label: Rotation Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: departments
+      label: Departments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisors
+      label: Supervisors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: learning_goals
+      label: Learning Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: intern_details
+      label: Intern Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rotation_status
+      label: Rotation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

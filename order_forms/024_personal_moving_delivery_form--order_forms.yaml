@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Moving Delivery Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_date
+      label: Move Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: move_time
+      label: Move Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dropoff_address
+      label: Dropoff Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: moving_quotes_requested
+      label: Moving Quotes Requested
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: delivery_priority
+      label: Delivery Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: pickup_time_window
+      label: Pickup Time Window
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 13
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false

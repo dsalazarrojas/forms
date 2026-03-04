@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_opportunity_enrollment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_start_date
+      label: volunteer start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_end_date
+      label: volunteer end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_hours
+      label: volunteer hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_frequency
+      label: volunteer frequency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: volunteer_type
+      label: volunteer type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: volunteer_notes
+      label: volunteer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_agreed
+      label: volunteer agreed
+      hint: This will be a legal binding contract
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

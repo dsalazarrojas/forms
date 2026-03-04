@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Office Reference Material Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: materials_requested
+      label: Materials Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Legal Reference Book
+      - Court Cases
+      - Court Rules
+      required: false
+    - id: 3
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Urgent
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

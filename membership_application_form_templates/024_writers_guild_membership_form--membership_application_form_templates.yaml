@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writers Guild Membership Form
+    pages:
+    - id: 1
+      name: application_info
+      label: Application Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Individual''}'
+      - '{''option'': ''Institutional''}'
+      required: false
+    - id: 3
+      name: writer_details
+      label: Writer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: writer_experience
+      label: Writer Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

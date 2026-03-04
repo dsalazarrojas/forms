@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street On Hand Inventory
+    pages:
+    - id: 1
+      name: inventory_manager
+      label: Inventory Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_count
+      label: Date of Count
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_totals
+      label: -- Current Stock Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: total_solid_sets
+      label: Total Solid Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_glitter_sets
+      label: Total Glitter Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_art_sets
+      label: Total Art and Design Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_french_sets
+      label: Total French Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_pedi_sets
+      label: Total Pedicure Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_holiday_sets
+      label: Total Holiday/Seasonal Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_samples
+      label: -- Sample Inventory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: twosie_samples_count
+      label: Total Twosie Samples
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Inventory Notes
+      hint: Missing items, damaged sets, etc.
+      type: text
+      options: []
+      required: false

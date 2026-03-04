@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Structural Health Monitoring Sensor Inspection Log
+    pages:
+    - id: 1
+      name: sensor_inspection_log
+      label: Sensor Inspection Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sensor_status
+      label: Sensor Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online''}'
+      - '{''id'': 2, ''name'': ''Offline''}'
+      - '{''id'': 3, ''name'': ''Maintenance''}'
+      required: false
+    - id: 3
+      name: sensor_readings
+      label: Sensor Readings
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''John Smith''}'
+      required: false
+    - id: 6
+      name: inspection_log_date
+      label: Inspection Log Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sensor_model
+      label: Sensor Model
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sensor A''}'
+      - '{''id'': 2, ''name'': ''Sensor B''}'
+      - '{''id'': 3, ''name'': ''Sensor C''}'
+      required: false
+    - id: 8
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Accelerometer''}'
+      - '{''id'': 2, ''name'': ''Gyroscope''}'
+      - '{''id'': 3, ''name'': ''Magnetometer''}'
+      required: false
+    - id: 9
+      name: sensor_location
+      label: Sensor Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location A''}'
+      - '{''id'': 2, ''name'': ''Location B''}'
+      - '{''id'': 3, ''name'': ''Location C''}'
+      required: false
+    - id: 10
+      name: sensor_model_version
+      label: Sensor Model Version
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Version A''}'
+      - '{''id'': 2, ''name'': ''Version B''}'
+      - '{''id'': 3, ''name'': ''Version C''}'
+      required: false
+    - id: 11
+      name: sensor_serial_number
+      label: Sensor Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sensor_calibration_date
+      label: Sensor Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: sensor_calibration_due_date
+      label: Sensor Calibration Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: sensor_calibration_frequency
+      label: Sensor Calibration Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monthly''}'
+      - '{''id'': 2, ''name'': ''Quarterly''}'
+      - '{''id'': 3, ''name'': ''Annually''}'
+      required: false
+    - id: 17
+      name: sensor_remarks
+      label: Sensor Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sensor_warranty_expiration_date
+      label: Sensor Warranty Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: sensor_warranty_status
+      label: Sensor Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Expired''}'
+      required: false
+    - id: 20
+      name: sensor_serial_number_last_inspected
+      label: Sensor Serial Number Last Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sensor_model_last_inspected
+      label: Sensor Model Last Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sensor_location_last_inspected
+      label: Sensor Location Last Inspected
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Location A''}'
+      - '{''id'': 2, ''name'': ''Location B''}'
+      - '{''id'': 3, ''name'': ''Location C''}'
+      required: false
+    - id: 23
+      name: sensor_type_last_inspected
+      label: Sensor Type Last Inspected
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Accelerometer''}'
+      - '{''id'': 2, ''name'': ''Gyroscope''}'
+      - '{''id'': 3, ''name'': ''Magnetometer''}'
+      required: false
+    - id: 24
+      name: sensor_status_last_inspected
+      label: Sensor Status Last Inspected
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online''}'
+      - '{''id'': 2, ''name'': ''Offline''}'
+      - '{''id'': 3, ''name'': ''Maintenance''}'
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: last_inspected_by
+      label: Last Inspected By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: last_inspected_date
+      label: Last Inspected Date
+      hint: null
+      type: date
+      options: []
+      required: false

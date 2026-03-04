@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Donation Form
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year_made
+      label: Year Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: donor_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donor_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - TX
+      required: true
+    - id: 11
+      name: donor_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: donor_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - US
+      - Canada
+      - Mexico
+      required: true
+    - id: 13
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donator_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: donator_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: donator_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - TX
+      required: true
+    - id: 18
+      name: donator_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: donator_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - US
+      - Canada
+      - Mexico
+      required: true
+    - id: 20
+      name: donator_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: donor_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: donor_ssn
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_donation_type
+      label: Vehicle Donation Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Trade
+      - Other
+      required: true
+    - id: 24
+      name: vehicle_donation_notes
+      label: Vehicle Donation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_donation_other
+      label: Other (Please provide details)
+      hint: null
+      type: text
+      options: []
+      required: false

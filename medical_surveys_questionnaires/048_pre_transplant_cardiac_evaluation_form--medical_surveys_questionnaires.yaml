@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Transplant Cardiac Evaluation Form
+    pages:
+    - id: 1
+      name: pretransplant_cardiac_evaluation_form_questionnaire_1
+      label: Cardiac Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cardiac_evaluation_question_1
+      label: What is the patient's age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cardiac_evaluation_question_2
+      label: What is the patient's height?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cardiac_evaluation_question_3
+      label: What is the patient's weight?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cardiac_evaluation_question_4
+      label: What is the patient's medical history?
+      hint: Please describe the patient's medical history.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cardiac_evaluation_question_5
+      label: What is the patient's current cardiac condition?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: cardiac_evaluation_question_6
+      label: What is the patient's cardiac medication history?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: cardiac_evaluation_question_7
+      label: What is the patient's current cardiac medication regimen?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: cardiac_evaluation_question_8
+      label: What is the patient's cardiac function classification?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: cardiac_evaluation_question_9
+      label: Is the patient eligible for transplant?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: cardiac_evaluation_question_10
+      label: What is the patient's cardiac function classification reason?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: cardiac_evaluation_question_11
+      label: What is the patient's cardiac function classification reason reason?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

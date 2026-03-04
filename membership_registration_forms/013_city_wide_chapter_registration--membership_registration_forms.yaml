@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Wide Chapter Registration
+    pages:
+    - id: 1
+      name: chapter_info_header
+      label: -- Chapter Information --
+      hint: Registration for local community chapters
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chapter_name
+      label: Official Chapter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: city_region
+      label: City Region or District
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_header
+      label: -- Primary Chapter Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Lead Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Lead Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Lead Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: chapter_stats_header
+      label: -- Chapter Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_membership_count
+      label: Current Number of Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: chapter_mission
+      label: Chapter Mission Statement
+      hint: Briefly describe your local goals
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_focus_areas
+      label: Primary Focus Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Youth Mentorship
+      - Environmental Sustainability
+      - Public Health
+      - Arts and Culture
+      - Local Business Support
+      - Housing Advocacy
+      required: true
+    - id: 12
+      name: meeting_frequency
+      label: Regular Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 13
+      name: social_media_link
+      label: Chapter Social Media or Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resource_needs
+      label: What support do you need from the city-wide network?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement_governance
+      label: We agree to follow the city-wide governance bylaws
+      hint: null
+      type: select_one
+      options:
+      - We Agree
+      - Other
+      required: true
+    - id: 16
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

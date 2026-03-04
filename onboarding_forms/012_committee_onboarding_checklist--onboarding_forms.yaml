@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Onboarding Checklist
+    pages:
+    - id: 1
+      name: onboarding_information
+      label: Onboarding Information
+      hint: Details about the committee onboarding process
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_date
+      label: Onboarding Date
+      hint: Date of onboarding
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: committee_name
+      label: Committee Name
+      hint: Name of the committee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_member_info
+      label: New Member Information
+      hint: Details about the new committee member
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: member_name
+      label: Member Name
+      hint: Full name of the new member
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_email
+      label: Member Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: member_phone
+      label: Member Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_title
+      label: Member Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: member_organization
+      label: Member Organization
+      hint: Organization they represent
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: role_assignment
+      label: Role Assignment
+      hint: Committee role details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: committee_role
+      label: Committee Role
+      hint: Assigned role on the committee
+      type: select_one
+      options:
+      - Chair
+      - Vice Chair
+      - Secretary
+      - Treasurer
+      - Member
+      - Advisor
+      - Ex-Officio
+      required: true
+    - id: 12
+      name: term_start_date
+      label: Term Start Date
+      hint: When does the term begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: term_end_date
+      label: Term End Date
+      hint: When does the term end
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: onboarding_tasks
+      label: Onboarding Tasks
+      hint: Required onboarding activities
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: orientation_completed
+      label: Orientation Completed
+      hint: Has member completed orientation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Scheduled
+      required: true
+    - id: 16
+      name: documents_reviewed
+      label: Documents Reviewed
+      hint: Which documents have been reviewed
+      type: select_multiple
+      options:
+      - Committee Charter
+      - Bylaws
+      - Meeting Schedule
+      - Code of Conduct
+      - Conflict of Interest Policy
+      - Strategic Plan
+      - None Yet
+      required: true
+    - id: 17
+      name: system_access_granted
+      label: System Access Granted
+      hint: Has access to necessary systems been provided
+      type: select_one
+      options:
+      - Yes - All Access
+      - Partial Access
+      - Pending
+      - Not Required
+      required: true
+    - id: 18
+      name: mentor_assigned
+      label: Mentor Assigned
+      hint: Has a mentor been assigned
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 19
+      name: mentor_name
+      label: Mentor Name
+      hint: Name of assigned mentor
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: first_meeting_date
+      label: First Meeting Date
+      hint: Date of first committee meeting
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: training_required
+      label: Training Required
+      hint: Is additional training needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: training_topics
+      label: Training Topics
+      hint: What training topics are needed
+      type: select_multiple
+      options:
+      - Parliamentary Procedure
+      - Committee Governance
+      - Financial Oversight
+      - Strategic Planning
+      - Public Speaking
+      - None
+      required: false
+    - id: 23
+      name: onboarding_coordinator
+      label: Onboarding Coordinator
+      hint: Name of person coordinating onboarding
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: onboarding_status
+      label: Onboarding Status
+      hint: Current onboarding progress
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - On Hold
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional comments or requirements
+      type: text
+      options: []
+      required: false

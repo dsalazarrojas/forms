@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychology Questionnaire Template
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Headache''}'
+      - '{''option_2'': ''Fatigue''}'
+      - '{''option_3'': ''Anxiety''}'
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Yes''}'
+      - '{''option_2'': ''No''}'
+      required: true
+    - id: 4
+      name: family_medical_history
+      label: Family Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mental_state
+      label: Mental State
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Good''}'
+      - '{''option_2'': ''Fair''}'
+      - '{''option_3'': ''Poor''}'
+      required: false
+    - id: 6
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true

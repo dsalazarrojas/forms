@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Payment Gateway Verification Form
+    pages:
+    - id: 1
+      name: gateway_info
+      label: payment_gateway
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ipn_url
+      label: ipn_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transaction_type
+      label: transaction_type
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - bank_transfer
+      - pay_pal
+      - payone
+      - payonecash
+      - giropay
+      required: false
+    - id: 4
+      name: gateway_id
+      label: gateway_id
+      hint: null
+      type: select_multiple
+      options:
+      - payment_gateway_1
+      - payment_gateway_2
+      - payment_gateway_3
+      required: false
+    - id: 5
+      name: api_key
+      label: api_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: api_secret
+      label: api_secret
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: api_username
+      label: api_username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: api_password
+      label: api_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: api_callback_url
+      label: api_callback_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: api_callback_url_2
+      label: api_callback_url_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_gateway_type
+      label: payment_gateway_type
+      hint: null
+      type: select_one
+      options:
+      - payment_gateway_1
+      - payment_gateway_2
+      - payment_gateway_3
+      required: false
+    - id: 12
+      name: payment_gateway_sub_type
+      label: payment_gateway_sub_type
+      hint: null
+      type: select_multiple
+      options:
+      - payment_sub_gateway_1
+      - payment_sub_gateway_2
+      required: false
+    - id: 13
+      name: transaction_id
+      label: transaction_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - eur
+      - gbp
+      required: false

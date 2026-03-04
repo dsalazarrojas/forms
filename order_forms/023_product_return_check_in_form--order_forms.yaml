@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Return Check In Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_one
+      options:
+      - Good condition
+      - Used condition
+      - Open condition
+      required: true
+    - id: 9
+      name: product_condition_other
+      label: Product Condition (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: image_ids
+      label: Image IDs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

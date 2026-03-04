@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Content Order Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Order Information
+      hint: Enter order information here
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_three
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - option_one
+      - option_two
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

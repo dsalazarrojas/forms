@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Furniture Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Furniture Order and Delivery --
+      hint: Premium furniture for your home
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: residential_address
+      label: Residential Address
+      hint: street, Suburb, Postcode
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: furniture_header
+      label: -- Furniture Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_name
+      label: Item Name - e.g., Sofa, Dining Table
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: room_category
+      label: Room Category - Living Room, Bedroom, etc.
+      hint: select the room for this item
+      type: select_one
+      options:
+      - Living Room
+      - Bedroom
+      - Dining Room
+      - Home Office
+      - Outdoor
+      required: true
+    - id: 8
+      name: material_choice
+      label: Wood or Fabric Choice
+      hint: choose the finish or upholstery
+      type: select_one
+      options:
+      - Oak Wood
+      - Walnut Wood
+      - Grey Velvet Fabric
+      - Leather - Tan
+      - Linen - Natural
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: installation_service
+      label: Professional Installation Service
+      hint: White glove delivery and setup
+      type: select_one
+      options:
+      - Yes, include installation
+      - No, delivery only
+      required: true
+    - id: 11
+      name: total_cost
+      label: Total Furniture Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: afterpay_selection
+      label: Payment via Afterpay
+      hint: use Afterpay at checkout
+      type: select_one
+      options:
+      - true
+      - No, pay by credit card
+      required: true
+    - id: 13
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: subject to availability
+      type: date
+      options: []
+      required: true

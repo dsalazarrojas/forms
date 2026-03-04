@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Membership Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Legal name of business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_zip
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_website
+      label: Business Website
+      hint: Full website URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_phone
+      label: Business Phone
+      hint: Main business phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: industry
+      label: Industry
+      hint: Primary business category
+      type: select_one
+      options:
+      - Accounting
+      - Advertising
+      - Automotive
+      - Construction
+      - Consulting
+      - Education
+      - Finance
+      - Healthcare
+      - Hospitality
+      - Legal
+      - Manufacturing
+      - Real estate
+      - Retail
+      - Technology
+      - Other
+      required: true
+    - id: 12
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: membership_category
+      label: Membership Category
+      hint: Type of membership applying for
+      type: select_one
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      - Platinum
+      - Corporate
+      - Non-profit
+      required: true
+    - id: 15
+      name: membership_benefits_interest
+      label: Benefits of Interest
+      hint: Select benefits most important to you
+      type: select_multiple
+      options:
+      - Networking events
+      - Business referrals
+      - Educational workshops
+      - Marketing exposure
+      - Member discounts
+      - Online directory listing
+      - Mentorship programs
+      - Advocacy
+      required: true
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of awareness
+      type: select_one
+      options:
+      - Member referral
+      - Website
+      - Social media
+      - Event attendance
+      - Advertisement
+      - Chamber of commerce
+      - Other
+      required: true
+    - id: 17
+      name: referrer_name
+      label: Referrer Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_membership
+      label: Previous Membership
+      hint: Were you ever a member before
+      type: select_one
+      options:
+      - Yes - current member
+      - Yes - former member
+      - No - first time
+      required: true
+    - id: 19
+      name: business_description
+      label: Business Description
+      hint: Brief description of your business
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: networking_goals
+      label: Networking Goals
+      hint: What do you hope to achieve through membership
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer for committees
+      type: select_one
+      options:
+      - Yes - very interested
+      - Maybe - depending on time
+      - No - not at this time
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay membership dues
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Invoice
+      - Bank transfer
+      required: true
+    - id: 23
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true

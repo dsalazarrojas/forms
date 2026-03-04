@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Club Membership Form
+    pages:
+    - id: 1
+      name: member_info
+      label: member info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_start_date
+      label: membership_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: activity_preferences
+      label: activity preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Cooking Class
+      - Potluck
+      - Workshop
+      - Event Planning
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Pay online
+      - Send a check
+      - Pay by phone
+      required: false
+    - id: 8
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email_sent
+      label: confirm_email_sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: member_notes
+      label: member_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: admin_notes
+      label: admin_notes
+      hint: null
+      type: note
+      options: []
+      required: false

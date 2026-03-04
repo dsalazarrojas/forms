@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Requisition Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: membership_date
+      label: Membership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: membership_number
+      label: Membership Number
+      hint: null
+      type: number
+      options: []
+      required: false

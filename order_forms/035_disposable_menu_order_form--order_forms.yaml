@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disposable Menu Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_items
+      label: Menu Items
+      hint: Select one or more items
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 3
+      name: special_instructions
+      label: Special Instructions
+      hint: Enter any special instructions
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: menu_total
+      label: Menu Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: discount_total
+      label: Discount Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      required: true
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false

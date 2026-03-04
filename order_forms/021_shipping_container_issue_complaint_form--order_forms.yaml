@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_container_issue_complaint_form
+    pages:
+    - id: 1
+      name: shipping_container_issue_complaint_form
+      label: Shipping Container Issue Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - order_forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_container_issue_complaint_form_id
+      label: Shipping Container Issue Complaint Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_container_issue_complaint_form_description
+      label: Shipping Container Issue Complaint Form Description
+      hint: null
+      type: text
+      options: []
+      required: true

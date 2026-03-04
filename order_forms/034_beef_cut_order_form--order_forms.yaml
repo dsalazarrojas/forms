@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beef Cut Order Form
+    pages:
+    - id: 1
+      name: section_customer_order_info
+      label: -- Customer Contact and Order Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_quantity_beef
+      label: Amount of Beef Ordering
+      hint: null
+      type: select_one
+      options:
+      - Whole Beef
+      - Half Beef
+      - Quarter Beef
+      - Eighth Beef / Sample Box
+      required: true
+    - id: 5
+      name: slaughter_date
+      label: Requested Slaughter / Processing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_steak_cuts
+      label: -- Steak Cutting Instructions --
+      hint: Specify thickness and packaging
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: steak_thickness
+      label: Desired Steak Thickness
+      hint: null
+      type: select_one
+      options:
+      - 3/4 inch
+      - 1 inch (Standard)
+      - 1.25 inch
+      - 1.5 inch
+      - 2 inch
+      required: true
+    - id: 8
+      name: steaks_per_package
+      label: Number of Steaks Per Package
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rib_cuts
+      label: Rib Section Choice
+      hint: null
+      type: select_one
+      options:
+      - Ribeye Steaks (Bone-in)
+      - Ribeye Steaks (Boneless)
+      - Standing Rib Roast
+      - Prime Rib
+      required: true
+    - id: 10
+      name: loin_cuts
+      label: Loin Section Choice
+      hint: null
+      type: select_one
+      options:
+      - T-Bone and Porterhouse
+      - NY Strip and Filet Mignon (Boneless)
+      - Whole Loin Roast
+      required: true
+    - id: 11
+      name: section_roasts_ground
+      label: -- Roast and Ground Beef --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: chuck_processing
+      label: Chuck Section Processing
+      hint: null
+      type: select_multiple
+      options:
+      - Chuck Roasts (3-4 lbs)
+      - Chuck Steaks
+      - Grind into Ground Beef
+      - Stew Meat
+      required: true
+    - id: 13
+      name: ground_beef_packaging
+      label: Ground Beef Package Size
+      hint: null
+      type: select_one
+      options:
+      - 1 lb Tubes
+      - 1.5 lb Tubes
+      - 2 lb Tubes
+      - 5 lb Bulk
+      required: true
+    - id: 14
+      name: ground_beef_fat_content
+      label: Ground Beef Lean / Fat Ratio
+      hint: null
+      type: select_one
+      options:
+      - 80/20 Standard
+      - 85/15 Lean
+      - 90/10 Extra Lean
+      required: true
+    - id: 15
+      name: section_extras
+      label: -- Specialty Items and Organ Meats --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: organ_meats_desired
+      label: Do you want organ meats or extras?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Liver
+      - Heart
+      - Tongue
+      - Oxtail
+      - Soup Bones / Marrow Bones
+      - Suet (Tallow fat)
+      required: false
+    - id: 17
+      name: additional_instructions
+      label: Any other specific cutting or packaging instructions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pickup_delivery_preference
+      label: Pickup or Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - Customer Pickup at Butcher Shop
+      - Local Delivery (Fee applies)
+      - Ship (Frozen, FedEx/UPS)
+      required: true
+    - id: 19
+      name: order_submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

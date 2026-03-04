@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Drafting Supply Requisition Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Person making the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_department
+      label: Department or Project
+      hint: Which team needs supplies?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_supplies
+      label: -- Supply Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: supply_item_1
+      label: First Supply Item
+      hint: Product name or SKU
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity_1
+      label: Quantity for Item 1
+      hint: Number of units needed
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: supply_item_2
+      label: Second Supply Item
+      hint: Product name or SKU
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity_2
+      label: Quantity for Item 2
+      hint: Number of units needed
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: supply_item_3
+      label: Third Supply Item
+      hint: Product name or SKU
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity_3
+      label: Quantity for Item 3
+      hint: Number of units needed
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_items
+      label: Additional Items or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_specifications
+      label: -- Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: size_specifications
+      label: Size or Specifications
+      hint: Dimensions, sizes, or special requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quality_standards
+      label: Quality Standards Required
+      hint: null
+      type: select_one
+      options:
+      - Standard grade
+      - Professional grade
+      - Premium grade
+      - Archival quality
+      - Other
+      required: false
+    - id: 17
+      name: section_urgency
+      label: -- Timeline and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date_needed
+      label: Date Needed By
+      hint: When are supplies needed?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Expedited
+      - Emergency
+      required: true
+    - id: 20
+      name: approver_name
+      label: Manager or Approver Name
+      hint: Supervisor who must approve
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Budget estimate for supplies
+      type: number
+      options: []
+      required: false

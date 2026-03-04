@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Learning Grant Application Form
+    pages:
+    - id: 1
+      name: section_org_details
+      label: -- Organization and Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Full Legal Name of Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id
+      label: Federal Tax ID or EIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary Project Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_grant_details
+      label: -- Grant and Program Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_title
+      label: Title of the Community Learning Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grant_amount_requested
+      label: Total Grant Amount Requested
+      hint: US Dollars
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_budget
+      label: Total Program Budget
+      hint: Including other funding sources
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Primary Target Audience for Learning
+      hint: Choose the most relevant group
+      type: select_one
+      options:
+      - K-12 Students
+      - Adults (Career Development)
+      - Senior Citizens
+      - Professional Development
+      - Under-served or Vulnerable Communities
+      required: true
+    - id: 11
+      name: program_description
+      label: Comprehensive Description of Learning Program
+      hint: What will be taught and how?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: learning_outcomes
+      label: Expected Learning Outcomes
+      hint: What skills or knowledge will participants gain?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: measurement_strategy
+      label: Impact Measurement and Evaluation Strategy
+      hint: How will you track success?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorized_signature
+      label: Authorized Representative Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: application_date
+      label: Date of Grant Application
+      hint: null
+      type: date
+      options: []
+      required: true

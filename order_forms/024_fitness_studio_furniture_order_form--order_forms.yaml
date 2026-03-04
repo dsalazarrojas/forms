@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Studio Furniture Order Form
+    pages:
+    - id: 1
+      name: form_1_form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_furniture_ordered
+      label: furniture_ordered
+      hint: null
+      type: select_multiple
+      options:
+      - Arm Chair
+      - Desk Chair
+      - Exercise Ball
+      - Folding Chair
+      - Table
+      - Towel Hook
+      - Wall Clock
+      - Weighing Scale
+      required: false
+    - id: 3
+      name: form_1_number_ordered
+      label: Number Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_1_customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_1_customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_1_customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_1_customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_1_staff_member
+      label: staff_member
+      hint: null
+      type: select_multiple
+      options:
+      - Account Manager
+      - Accountant
+      - Administrator
+      - Assistant Manager
+      - Director
+      - HR
+      - Manager
+      - Marketing Manager
+      - President
+      - Sales Manager
+      - Store Manager
+      - Team Lead
+      - Trainer
+      required: false
+    - id: 9
+      name: form_1_total_number_ordered
+      label: total_number_ordered
+      hint: null
+      type: number
+      options: []
+      required: false

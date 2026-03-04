@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Delivery Order Form
+    pages:
+    - id: 1
+      name: base_page
+      label: Order Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: salad_name
+      label: Salad Name
+      hint: null
+      type: select_one
+      options:
+      - Mixed Greens
+      - Greek
+      - Caesar
+      - Spinach
+      - Tomato
+      required: false
+    - id: 6
+      name: protein
+      label: Protein
+      hint: null
+      type: select_multiple
+      options:
+      - Chicken
+      - Tofu
+      - Salmon
+      required: false
+    - id: 7
+      name: base_salad_price
+      label: Base Salad Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      required: false

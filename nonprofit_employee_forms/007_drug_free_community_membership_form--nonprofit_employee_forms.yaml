@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drug Free Community Membership Form
+    pages:
+    - id: 1
+      name: coalition_name
+      label: coalition_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: member_first_name
+      label: Member First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_last_name
+      label: Member Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: member_commitments
+      label: Member Commitments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: coalition_address
+      label: Coalition Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coalition_website
+      label: Coalition Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coalition_facebook
+      label: Coalition Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coalition_twitter
+      label: Coalition Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coalition_instagram
+      label: Coalition Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coalition_linkedin
+      label: Coalition LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coalition_youtube
+      label: Coalition YouTube
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coalition_purpose
+      label: Coalition Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coalition_mission
+      label: Coalition Mission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coalition_vision
+      label: Coalition Vision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coalition_core_values
+      label: Coalition Core Values
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: coalition_leadership_team
+      label: Coalition Leadership Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: coalition_committee_members
+      label: Coalition Committee Members
+      hint: null
+      type: select_multiple
+      options:
+      - Member of leadership team
+      - Member of coalition
+      - Non-member of coalition
+      required: true
+    - id: 24
+      name: member_dues
+      label: Member Dues
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active member
+      - Lapsed member
+      - Onboarding member
+      required: true

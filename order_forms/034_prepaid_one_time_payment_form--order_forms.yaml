@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: prepaid_one_time_payment_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit/Debit Card
+      - Mobile Wallet
+      - Other (Specify)
+      required: false
+    - id: 6
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit/Debit Card
+      - Mobile Wallet
+      - Other (Specify)
+      required: false
+    - id: 8
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Replaced
+      - Cancelled
+      required: true
+    - id: 9
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false

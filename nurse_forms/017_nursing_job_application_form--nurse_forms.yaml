@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Job Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_certifications
+      label: Medical certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: experience
+      label: Nursing experience
+      hint: null
+      type: select_one
+      options:
+      - '{''option_name'': ''0 - 2 years''}'
+      - '{''option_name'': ''2-5 years''}'
+      - '{''option_name'': ''5+ years''}'
+      required: false
+    - id: 4
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''option_name'': ''Diploma''}'
+      - '{''option_name'': "Bachelor''s degree"}'
+      - '{''option_name'': "Master''s degree"}'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_certification_ids
+      label: Medical certification IDs
+      hint: Enter medical certification IDs separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_resume
+      label: Upload resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_cover_letter
+      label: Upload cover letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_certifications
+      label: Upload Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

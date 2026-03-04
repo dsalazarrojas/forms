@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Therapy Session Notes
+    pages:
+    - id: 1
+      name: session_info
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id
+      label: Client ID Number
+      hint: Internal reference
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: therapist_name
+      label: Therapist/Counselor Name
+      hint: Who conducted the session?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: Start time of session
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: session_duration
+      label: Session Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Video Therapy
+      - Phone Call
+      - Other
+      required: true
+    - id: 9
+      name: presenting_concerns
+      label: -- Presenting Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: chief_complaint
+      label: Chief Complaint or Reason for Visit
+      hint: What brought the client in today?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mood_and_affect
+      label: Mood and Affect
+      hint: Describe client's observable emotional state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: presenting_issues
+      label: Presenting Issues or Symptoms
+      hint: Current problems or concerns
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recent_events
+      label: Recent Stressors or Events
+      hint: What has been happening in client's life?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_content
+      label: -- Session Content and Interventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: topics_discussed
+      label: Topics Discussed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: interventions_used
+      label: Therapeutic Interventions or Techniques Used
+      hint: Cognitive restructuring, mindfulness, etc.
+      type: select_multiple
+      options:
+      - Cognitive Restructuring
+      - Mindfulness
+      - Behavioral Activation
+      - Exposure Therapy
+      - Motivational Interviewing
+      - Psychoeducation
+      - Relaxation Techniques
+      - Talk Therapy
+      - Art/Music Therapy
+      - Other
+      required: false
+    - id: 17
+      name: intervention_details
+      label: Details of Interventions
+      hint: How were techniques applied?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_response
+      label: Client Response to Interventions
+      hint: How did client respond?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insights_breakthroughs
+      label: Insights or Breakthroughs During Session
+      hint: Important realizations or shifts
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: progress_section
+      label: -- Progress and Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: goals_progress
+      label: Progress Toward Treatment Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: symptom_changes
+      label: Changes in Symptoms or Concerns
+      hint: Improvement, worsening, or no change?
+      type: select_one
+      options:
+      - Significant Improvement
+      - Mild Improvement
+      - No Change
+      - Slight Worsening
+      - Significant Worsening
+      required: false
+    - id: 23
+      name: safety_assessment
+      label: Safety Assessment
+      hint: Any safety concerns?
+      type: select_one
+      options:
+      - No Concerns
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      required: true
+    - id: 24
+      name: coping_skills
+      label: Client's Current Coping Skills
+      hint: How is client managing?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: homework_section
+      label: -- Homework and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: homework_assigned
+      label: Homework or Assignments Given
+      hint: Tasks for client to do between sessions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: prev_homework_completion
+      label: Previous Homework Completion
+      hint: Did client complete last session's assignment?
+      type: select_one
+      options:
+      - Not Applicable
+      - Not Completed
+      - Partially Completed
+      - Completed
+      - Completed and Discussed
+      required: false
+    - id: 28
+      name: client_capacity
+      label: Client's Capacity to Complete Homework
+      hint: Realistic assessment of ability to complete tasks
+      type: select_one
+      options:
+      - Unlikely
+      - Somewhat Likely
+      - Likely
+      - Very Likely
+      required: false
+    - id: 29
+      name: next_session_plan
+      label: Plan for Next Session
+      hint: What will be focused on?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Exclusive Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification and rewards
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: membership_tier
+      label: Membership Tier Selection
+      hint: Choose your membership level
+      type: select_one
+      options:
+      - Bronze - Basic benefits
+      - Silver - Enhanced benefits
+      - Gold - Premium benefits
+      - Platinum - VIP benefits
+      required: true
+    - id: 7
+      name: annual_cost
+      label: Membership Cost
+      hint: Annual membership fee
+      type: select_one
+      options:
+      - Bronze - 50 USD per year
+      - Silver - 100 USD per year
+      - Gold - 200 USD per year
+      - Platinum - 500 USD per year
+      required: true
+    - id: 8
+      name: interest_areas
+      label: Beer Interests
+      hint: Select what interests you
+      type: select_multiple
+      options:
+      - Craft beers
+      - IPAs
+      - Stouts and porters
+      - Lagers
+      - Wheat beers
+      - Sours
+      - Experimental brews
+      - Beer education
+      required: true
+    - id: 9
+      name: visit_frequency
+      label: Expected Visit Frequency
+      hint: How often will you visit
+      type: select_one
+      options:
+      - Weekly or more
+      - 2-3 times monthly
+      - Monthly
+      - Quarterly
+      - Occasionally
+      required: true
+    - id: 10
+      name: preferred_visit_time
+      label: Preferred Visit Time
+      hint: When do you typically visit
+      type: select_one
+      options:
+      - Weekday daytime
+      - Weekday evening
+      - Weekend daytime
+      - Weekend evening
+      - Flexible
+      required: false
+    - id: 11
+      name: member_benefits
+      label: Benefits You Are Most Interested In
+      hint: Select priority benefits
+      type: select_multiple
+      options:
+      - Exclusive beer releases
+      - Member discounts
+      - Early access to events
+      - Exclusive events
+      - Complimentary tastings
+      - VIP seating
+      - Merchandise discounts
+      - Birthday specials
+      required: true
+    - id: 12
+      name: event_interest
+      label: Event Participation Interest
+      hint: Would you like event notifications
+      type: select_one
+      options:
+      - Yes, all events
+      - Yes, selected events
+      - Maybe
+      - No, not interested
+      required: false
+    - id: 13
+      name: event_types
+      label: Event Types of Interest
+      hint: What events interest you
+      type: select_multiple
+      options:
+      - Tastings
+      - Brewery tours
+      - Beer education
+      - Live music
+      - Trivia nights
+      - Food pairings
+      - Seasonal celebrations
+      - Member-only events
+      required: false
+    - id: 14
+      name: home_address
+      label: Home Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: Your zip or postal code
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: occupation
+      label: Occupation
+      hint: Your profession or job
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: What brought you to our brewery
+      type: select_one
+      options:
+      - Friend or family
+      - Social media
+      - Online search
+      - Local advertising
+      - Press or reviews
+      - Other breweries
+      - Walked by
+      - Other
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - In-person
+      required: true
+    - id: 20
+      name: terms_agreement
+      label: I agree to the membership terms and conditions
+      hint: Accept terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: newsletter_signup
+      label: Would you like to receive our newsletter
+      hint: Stay updated on beers and events
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, do not subscribe
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

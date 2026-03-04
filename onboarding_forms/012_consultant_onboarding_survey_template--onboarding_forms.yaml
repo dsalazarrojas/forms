@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Onboarding Survey Template
+    pages:
+    - id: 1
+      name: consultant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consultant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Your official start date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Department or team assignment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: office_location
+      label: Office Location
+      hint: Primary work location
+      type: select_one
+      options:
+      - Main Office
+      - Remote
+      - Hybrid
+      - Client Site
+      - Other
+      required: true
+    - id: 10
+      name: employment_type
+      label: Employment Type
+      hint: Select your employment classification
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Freelance
+      - Intern
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: areas_of_expertise
+      label: Areas of Expertise
+      hint: Select your primary expertise areas
+      type: select_multiple
+      options:
+      - Strategy
+      - Operations
+      - Finance
+      - Technology
+      - Human Resources
+      - Marketing
+      - Sales
+      - Risk Management
+      - Change Management
+      - Other
+      required: true
+    - id: 15
+      name: years_of_experience
+      label: Years of Consulting Experience
+      hint: Total years in the field
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: certifications_held
+      label: Professional Certifications
+      hint: List any certifications you hold
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: education_background
+      label: Education Background
+      hint: Highest degree and institution
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: technology_proficiency
+      label: Technology Proficiency
+      hint: Rate your comfort with technology
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Somewhat Uncomfortable
+      - Uncomfortable
+      required: true
+    - id: 19
+      name: software_skills
+      label: Software and Tools Proficiency
+      hint: List software you are proficient in
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_needs
+      label: Training or Development Needs
+      hint: What training would benefit you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: work_preferences
+      label: Work Preferences
+      hint: Describe your ideal work setup
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_collaboration_style
+      label: Team Collaboration Style
+      hint: How do you prefer to work with teams
+      type: select_one
+      options:
+      - Highly Collaborative
+      - Balanced
+      - Independent with Check-ins
+      - Mostly Independent
+      required: false
+    - id: 23
+      name: career_goals
+      label: Career Goals
+      hint: What are your professional aspirations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: onboarding_feedback
+      label: Onboarding Experience Feedback
+      hint: How can we improve onboarding
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

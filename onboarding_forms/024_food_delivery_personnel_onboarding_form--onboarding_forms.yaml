@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Delivery Personnel Onboarding Form
+    pages:
+    - id: 1
+      name: new_courier
+      label: New Courier Application
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_details
+      label: Restaurant Details
+      hint: null
+      type: select_one
+      options:
+      - Restaurant
+      - Store
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: onboarding_date
+      label: Date of Onboarding
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: document_intake
+      label: Document Intake
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_and_phone
+      label: Email and Phone
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

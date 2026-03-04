@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Day T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Medium
+      - Large
+      - X-Large
+      - Small
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: t_shirt_color
+      label: T-Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Blue
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: t_shirt_design
+      label: T-Shirt Design
+      hint: null
+      type: select_one
+      options:
+      - Design 1
+      - Design 2
+      - Design 3
+      required: true
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Payment Gateway 1
+      - Payment Gateway 2
+      - Payment Gateway 3
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Shipping Form
+    pages:
+    - id: 1
+      name: sender_details
+      label: Sender Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sender_name
+      label: sender_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sender_email
+      label: sender_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: recipient_details
+      label: Recipient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipient_name
+      label: recipient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipment_description
+      label: shipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_weight
+      label: shipment_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipment_value
+      label: shipment_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customs_clearance
+      label: Customs Clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flu Vaccine Voucher Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_status
+      label: Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: false
+    - id: 5
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medicaid''}'
+      - '{''label'': ''Medicare''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: preferred_vaccination_day
+      label: Preferred Vaccination Day
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 7
+      name: voucher_type
+      label: Voucher Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Voucher''}'
+      - '{''label'': ''Couple Voucher''}'
+      - '{''label'': ''Family Voucher''}'
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false

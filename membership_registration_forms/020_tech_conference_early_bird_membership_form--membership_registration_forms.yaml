@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Early Bird Membership Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Enter the name of the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: 'Optional: Phone number for follow-up'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''Bank Transfer''}'
+      - '{''value'': ''PayPal''}'
+      required: true
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single Ticket''}'
+      - '{''value'': ''Double Ticket''}'
+      - '{''value'': ''Family Ticket''}'
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_url
+      label: Job URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: twitter_handle
+      label: Twitter Handle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: fb_url
+      label: Facebook URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: linkedin_url
+      label: LinkedIn URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: linkedin_id
+      label: LinkedIn ID
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Group Membership Application Form
+    pages:
+    - id: 1
+      name: section_applicant_profile
+      label: -- Applicant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name_full
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_job_title
+      label: Professional Title
+      hint: e.g. CEO, Founder, Director
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_entity_name
+      label: Business or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry_sector_selection
+      label: Industry Sector
+      hint: Select the primary industry of your business
+      type: select_one
+      options:
+      - Technology / Software
+      - Healthcare / Medical
+      - Finance / Professional Services
+      - Manufacturing / Retail
+      - Non-Profit / Education
+      - Other
+      required: true
+    - id: 6
+      name: years_in_business_membership
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_membership_intent
+      label: -- Membership Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_reason_primary
+      label: Primary Reason for Joining
+      hint: What do you hope to gain from this group
+      type: select_one
+      options:
+      - Networking Opportunities
+      - Professional Development
+      - Advocacy / Policy Influence
+      - Business Growth / Partnerships
+      - Community Service
+      required: true
+    - id: 9
+      name: proposed_group_contribution
+      label: Proposed Contribution to the Group
+      hint: How can you or your business add value to the network
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: professional_reference_name
+      label: Professional Reference Name
+      hint: A colleague or peer who can vouch for your professional standing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_website_url
+      label: Business Website URL
+      hint: "e.g. https://www.example.com"
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: membership_level_preference
+      label: Preferred Membership Level
+      hint: Select your desired tier
+      type: select_one
+      options:
+      - Individual Professional
+      - Small Business Partner
+      - Corporate Executive
+      - Founding Member / Patron
+      required: true
+    - id: 13
+      name: section_terms_compliance
+      label: -- Compliance and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: membership_terms_acknowledgment
+      label: I acknowledge and agree to the Membership Terms and Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: membership_submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

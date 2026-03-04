@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Extension Form
+    pages:
+    - id: 1
+      name: rental_info_section
+      label: -- Rental Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rental_agreement_number
+      label: Rental Agreement Number
+      hint: Enter the ID from your current rental contract
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_return_date
+      label: Current Return Date
+      hint: The date you were originally scheduled to return the vehicle
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: new_return_date
+      label: New Return Date
+      hint: Select the new date you wish to return the vehicle
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: extension_reason
+      label: Reason for Extension
+      hint: Briefly explain why you need more time
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_drivers
+      label: Additional Drivers
+      hint: List any new drivers to be added for the extension period
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: terms_agreement
+      label: I agree to the revised rental terms and additional daily charges
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I agree
+        value: true
+      - label: No, I do not agree
+        value: false
+      required: true

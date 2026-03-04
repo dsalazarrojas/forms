@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Therapy Intake Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_list
+      label: Medications List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: therapy_history
+      label: Therapy History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medical_contact
+      label: Medical Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_contact_info
+      label: Medical Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_history_info
+      label: Family History Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition_info
+      label: Medical Condition Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

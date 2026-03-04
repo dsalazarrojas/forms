@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grant Application
+    pages:
+    - id: 1
+      name: grant_application_form
+      label: grant-application-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grant_type
+      label: grant-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: budget_period
+      label: budget-period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: budget_amount
+      label: budget-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: grant_amount
+      label: grant-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: grant_start_date
+      label: grant-start-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: grant_end_date
+      label: grant-end-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: purpose_of_grant
+      label: purpose-of-grant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_description
+      label: budget-description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: grant_application_attachments
+      label: grant-application-attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: non_profit_certification
+      label: non-profit-certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: non_profit_registration_number
+      label: non-profit-registration-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: grantor_institution
+      label: grantor-institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: grantor_contact
+      label: grantor-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: grantor_address
+      label: grantor-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: grantor_phone
+      label: grantor-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: grantor_email
+      label: grantor-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: grantor_fax
+      label: grantor-fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: review-date
+      hint: null
+      type: date
+      options: []
+      required: false

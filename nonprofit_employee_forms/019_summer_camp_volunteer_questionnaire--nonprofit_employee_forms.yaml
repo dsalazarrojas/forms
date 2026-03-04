@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Volunteer Questionnaire
+    pages:
+    - id: 1
+      name: summer_camp_volunteer_questionnaire_1
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_position
+      label: Volunteer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_end_date
+      label: Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shift_preferences
+      label: Shift Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 9
+      name: volunteer_availability
+      label: Volunteer Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_frequency
+      label: Volunteer Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 11
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: volunteer_comments
+      label: Volunteer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

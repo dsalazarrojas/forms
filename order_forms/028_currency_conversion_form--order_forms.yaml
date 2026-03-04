@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: currency_conversion_form
+    pages:
+    - id: 1
+      name: select_currency
+      label: Select Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: select_currency_2
+      label: Select Currency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: convert_to
+      label: Convert To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: converted_amount
+      label: Converted Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: convert_now
+      label: Convert Now
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_conversion
+      label: Time Of Conversion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

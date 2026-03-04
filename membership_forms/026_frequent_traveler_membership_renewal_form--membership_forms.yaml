@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frequent Traveler Membership Renewal Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: loyalty_program
+      label: Loyalty Program
+      hint: null
+      type: select_multiple
+      options:
+      - Program A
+      - Program B
+      - Program C
+      required: true
+    - id: 7
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_multiple
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: true
+    - id: 8
+      name: renew_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

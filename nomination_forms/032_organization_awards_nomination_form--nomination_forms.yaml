@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: organization_awards_nomination_form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_name
+      label: Award Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: award_description
+      label: Award Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_deadline
+      label: Nomination Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: award_categorization
+      label: Award Categorization
+      hint: null
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Bronze
+      required: false
+    - id: 9
+      name: nomination_message
+      label: Nomination Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nomination_form_submission
+      label: Nomination Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 11
+      name: award_recipient
+      label: Award Recipient
+      hint: null
+      type: text
+      options: []
+      required: false

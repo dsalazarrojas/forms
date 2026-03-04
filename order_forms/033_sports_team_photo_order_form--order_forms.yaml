@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Team Photo Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sport
+      label: Sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_photo_size
+      label: Team Photo Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single Photo'', ''label'': ''Single Photo''}'
+      - '{''id'': 2, ''name'': ''Multiple Photos'', ''label'': ''Multiple Photos''}'
+      required: false
+    - id: 7
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Portrait'', ''label'': ''Portrait''}'
+      - '{''id'': 2, ''name'': ''Landscape'', ''label'': ''Landscape''}'
+      - '{''id'': 3, ''name'': ''Square'', ''label'': ''Square''}'
+      required: false
+    - id: 8
+      name: color_type
+      label: Color Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Color'', ''label'': ''Color''}'
+      - '{''id'': 2, ''name'': ''Black and White'', ''label'': ''Black and White''}'
+      required: false
+    - id: 9
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Small'', ''label'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large'', ''label'': ''Large''}'
+      required: false
+    - id: 10
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Glossy'', ''label'': ''Glossy''}'
+      - '{''id'': 2, ''name'': ''Matte'', ''label'': ''Matte''}'
+      required: false
+    - id: 11
+      name: quantity_per_photo
+      label: Quantity per Photo
+      hint: null
+      type: number
+      options: []
+      required: false

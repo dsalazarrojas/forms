@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moms_Community_Registration_Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the mother
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the mother
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: Email address of the mother
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: Phone number of the mother
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: Date of birth of the mother
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: child_birth_date
+      label: Child Birth Date
+      hint: Date of birth of the child
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: children
+      label: Children
+      hint: null
+      type: select_multiple
+      options:
+      - Mom
+      - Dad
+      - Both
+      - None
+      required: false
+    - id: 8
+      name: child_count
+      label: Child Count
+      hint: Number of children
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: child1_name
+      label: Child 1 Name
+      hint: Name of the first child
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: child1_birth_date
+      label: Child 1 Birth Date
+      hint: Date of birth of the first child
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: child1_gender
+      label: Child 1 Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 12
+      name: child2_name
+      label: Child 2 Name
+      hint: Name of the second child
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: child2_birth_date
+      label: Child 2 Birth Date
+      hint: Date of birth of the second child
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: child2_gender
+      label: Child 2 Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: child3_name
+      label: Child 3 Name
+      hint: Name of the third child
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: child3_birth_date
+      label: Child 3 Birth Date
+      hint: Date of birth of the third child
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: child3_gender
+      label: Child 3 Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 18
+      name: child4_name
+      label: Child 4 Name
+      hint: Name of the fourth child
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: child4_birth_date
+      label: Child 4 Birth Date
+      hint: Date of birth of the fourth child
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: child4_gender
+      label: Child 4 Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 21
+      name: note
+      label: Additional Information
+      hint: Additional information about the child
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 23
+      name: terms
+      label: Terms of use
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 24
+      name: signature
+      label: Signature
+      hint: Signature of the mother
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date
+      label: Date
+      hint: Date of the form completion
+      type: date
+      options: []
+      required: false

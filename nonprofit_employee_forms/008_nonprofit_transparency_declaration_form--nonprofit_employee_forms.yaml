@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonprofit_transparency_declaration_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_header_label
+      label: Nonprofit Transparency Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: executive_director
+      label: Executive Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: financial_reporting_officer
+      label: Financial Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financial_reporting_period
+      label: Financial Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: financial_reporting_frequency
+      label: Financial Reporting Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: false
+    - id: 12
+      name: asset_types
+      label: Asset Types
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Investments
+      - Property
+      - Equipment
+      - Intangible Assets
+      required: false
+    - id: 13
+      name: asset_amount
+      label: Asset Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: liability_types
+      label: Liability Types
+      hint: null
+      type: select_multiple
+      options:
+      - Accounts Payable
+      - Tax Due
+      - Other Liabilities
+      - Notes Payable
+      - Accounts Receivable
+      required: false
+    - id: 15
+      name: liability_amount
+      label: Liability Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: equity_types
+      label: Equity Types
+      hint: null
+      type: select_multiple
+      options:
+      - Common Stock
+      - Preferred Stock
+      - Other Equity
+      required: false
+    - id: 17
+      name: equity_amount
+      label: Equity Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: governance_structure
+      label: Governance Structure
+      hint: null
+      type: select_one
+      options:
+      - By-Laws
+      - Articles of Incorporation
+      - Board of Directors
+      - Other (please specify)
+      required: false
+    - id: 19
+      name: board_of_directors
+      label: Board of Directors
+      hint: null
+      type: select_multiple
+      options:
+      - Chairman
+      - Vice Chairman
+      - Secretary
+      - Treasurer
+      - Other (please specify)
+      required: false

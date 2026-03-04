@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Check Out Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_number
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_checked_out
+      label: Date Checked Out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_checked_out
+      label: Time Checked Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: return_comments
+      label: Return Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_return_comments
+      label: Supervisor Return Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: employee_return_comments
+      label: Employee Return Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promo Order Form
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: promo_name
+      label: promo_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: promo_image
+      label: promo_image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: price_currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - CNY
+      required: true
+    - id: 6
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 8
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: promo_status
+      label: promo_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: order_amount
+      label: order_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_currency
+      label: order_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - CNY
+      required: true
+    - id: 14
+      name: order_note
+      label: order_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: true
+    - id: 16
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: order_source
+      label: order_source
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 20
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_address
+      label: order_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_notes_2
+      label: order_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: promo_notes
+      label: promo_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false

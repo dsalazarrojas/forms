@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Quality Monitoring Log
+    pages:
+    - id: 1
+      name: water_quality_monitoring_log_1
+      label: Water Quality Monitoring Log Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: water_quality_monitoring_log_sampling_event
+      label: Sampling Event
+      hint: null
+      type: select_one
+      options:
+      - Monitoring Event ID
+      - Site ID
+      - Sample Type
+      - Date
+      - Time
+      - Parameter Name
+      - Parameter Value
+      - Sampling Frequency
+      - Sampling Method
+      - Sample Location
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: parameter_name
+      label: Parameter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parameter_value
+      label: Parameter Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sampling_frequency
+      label: Sampling Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: false
+    - id: 8
+      name: parameter_name_2
+      label: Parameter Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: monitoring_event_id
+      label: Monitoring Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: site_id
+      label: Site ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Sediment
+      - Other
+      required: false
+    - id: 13
+      name: sample_method
+      label: Sample Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sample_location
+      label: Sample Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: sampling_method
+      label: Sampling Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: water_quality_monitoring_log_form_comments
+      label: Water Quality Monitoring Log Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sampling_event_id
+      label: Sampling Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sample_ids
+      label: Sample IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parameter_ids
+      label: Parameter IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: water_quality_monitoring_log_form_comments
+      label: Water Quality Monitoring Log Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: monitoring_event_ids
+      label: Monitoring Event IDs
+      hint: null
+      type: text
+      options: []
+      required: false

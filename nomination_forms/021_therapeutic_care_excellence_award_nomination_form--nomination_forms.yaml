@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapeutic Care Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hospital
+      label: Hospital
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hospital A''}'
+      - '{''value'': ''Hospital B''}'
+      - '{''value'': ''Hospital C''}'
+      required: false
+    - id: 6
+      name: care_type
+      label: Care Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Type A''}'
+      - '{''value'': ''Type B''}'
+      - '{''value'': ''Type C''}'
+      required: true
+    - id: 7
+      name: nominee
+      label: Nominee
+      hint: null
+      type: text
+      options: []
+      required: false

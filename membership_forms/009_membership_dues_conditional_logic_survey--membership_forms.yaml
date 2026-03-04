@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Dues Conditional Logic Survey
+    pages:
+    - id: 1
+      name: dues_premium
+      label: Membership Dues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: select_premium_type
+      label: Premium Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 4
+      name: select_premium_frequencies
+      label: Premium Freq
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_dues_frequency
+      label: Dues Freq
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 8
+      name: select_dues_type
+      label: Dues Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

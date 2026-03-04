@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Conference Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: First and last name as it should appear on badge
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: church_name
+      label: Church or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: church_address
+      label: Church Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Your Role in the Church
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Pastor
+      - Associate Pastor
+      - Elder
+      - Deacon
+      - Ministry Leader
+      - Staff Member
+      - Volunteer
+      - Member
+      required: true
+    - id: 7
+      name: conference_days
+      label: Which Days Will You Attend
+      hint: Select all days you plan to attend
+      type: select_multiple
+      options:
+      - Day 1 - Opening Session
+      - Day 2 - Workshops
+      - Day 3 - Main Conference
+      - Day 4 - Closing Ceremony
+      required: true
+    - id: 8
+      name: workshop_selection
+      label: Workshop Preferences
+      hint: Select your top 3 workshop choices
+      type: select_multiple
+      options:
+      - Church Growth Strategies
+      - Youth Ministry Development
+      - Worship Leadership
+      - Community Outreach
+      - Financial Stewardship
+      - Digital Ministry
+      - Counseling and Care
+      - Mission Work
+      required: true
+    - id: 9
+      name: meal_plan
+      label: Meal Plan Selection
+      hint: null
+      type: select_one
+      options:
+      - Full meal plan (all meals)
+      - Lunch only
+      - Dinner only
+      - No meals needed
+      required: true
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Please list any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_needed
+      label: Do You Need Accommodation Recommendations
+      hint: null
+      type: select_one
+      options:
+      - Yes, please send hotel information
+      - No, I have my own accommodation
+      - Yes, I need accessible accommodation
+      required: true
+    - id: 12
+      name: number_attending
+      label: How Many People from Your Church Will Attend
+      hint: Include yourself
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: t_shirt_size
+      label: Conference T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 14
+      name: registration_fee
+      label: Registration Fee Payment
+      hint: Early bird rate applies until 2 weeks before conference
+      type: select_one
+      options:
+      - Paid online
+      - Will pay at door
+      - Invoice my church
+      - Scholarship requested
+      required: true
+    - id: 15
+      name: special_needs
+      label: Any Special Accommodations Needed
+      hint: Accessibility, childcare, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transportation
+      label: Do You Need Transportation from Airport
+      hint: null
+      type: select_one
+      options:
+      - Yes, arrival pickup needed
+      - Yes, departure dropoff needed
+      - Yes, both needed
+      - No, I have my own transportation
+      required: false
+    - id: 17
+      name: networking_interest
+      label: Are You Interested in Networking Sessions
+      hint: Meet other church leaders and share best practices
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, just sessions please
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

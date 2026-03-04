@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Order Form
+    pages:
+    - id: 1
+      name: furniture_order_form
+      label: Furniture Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: furniture_type
+      label: Furniture Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: furniture_color
+      label: Furniture Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: furniture_size
+      label: Furniture Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: furniture_quantity
+      label: Furniture Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: furniture_price
+      label: Furniture Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Add any notes for our team
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: furniture_model
+      label: Furniture Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: furniture_brand
+      label: Furniture Brand
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: furniture_material
+      label: Furniture Material
+      hint: What material is your furniture made of
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

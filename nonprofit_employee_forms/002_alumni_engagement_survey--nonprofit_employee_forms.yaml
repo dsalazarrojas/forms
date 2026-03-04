@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Engagement Survey
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_academic_info
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: degree_obtained
+      label: Degree Obtained
+      hint: null
+      type: select_one
+      options:
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Certificate Program
+      - Other
+      required: true
+    - id: 9
+      name: major_field
+      label: Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_engagement
+      label: -- Engagement Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_attendance
+      label: How often do you attend alumni events
+      hint: Select the frequency that best describes your attendance
+      type: select_one
+      options:
+      - Never
+      - Rarely (once a year or less)
+      - Occasionally (2-3 times a year)
+      - Frequently (4-6 times a year)
+      - Very Often (more than 6 times a year)
+      required: true
+    - id: 12
+      name: event_types_interest
+      label: Which types of events interest you most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Networking Events
+      - Homecoming
+      - Professional Development Workshops
+      - Sports Events
+      - Cultural Performances
+      - Reunions
+      - Volunteer Opportunities
+      - Webinars
+      required: false
+    - id: 13
+      name: donation_history
+      label: Have you made donations to the institution
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - No - Never
+      - Prefer not to say
+      required: true
+    - id: 14
+      name: volunteer_interest
+      label: Are you interested in volunteering
+      hint: null
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Maybe - Tell me more
+      - No - Not at this time
+      required: true
+    - id: 15
+      name: mentorship_interest
+      label: Would you be willing to mentor current students
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Maybe - Depends on time commitment
+      - No - Not able to
+      required: false
+    - id: 16
+      name: section_career
+      label: -- Career Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed - Seeking
+      - Unemployed - Not Seeking
+      - Retired
+      - Student
+      required: true
+    - id: 18
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Manufacturing
+      - Retail
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 21
+      name: section_feedback
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: communication_preference
+      label: How would you prefer to receive communications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email
+      - Phone Calls
+      - Text Messages
+      - Social Media
+      - Postal Mail
+      - Mobile App Notifications
+      required: true
+    - id: 23
+      name: satisfaction_rating
+      label: How satisfied are you with alumni services
+      hint: 1 being very dissatisfied and 5 being very satisfied
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 24
+      name: improvement_suggestions
+      label: What improvements would you suggest for alumni programs
+      hint: Your feedback helps us serve you better
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

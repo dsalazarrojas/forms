@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Fitness Onboarding Form
+    pages:
+    - id: 1
+      name: new_member_info
+      label: New Member Info
+      hint: null
+      type: select_multiple
+      options:
+      - New Member
+      - Other
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 5
+      name: workout_frequency
+      label: Workout Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Canceled
+      required: true
+    - id: 10
+      name: membership_id
+      label: Membership ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fitness_goal
+      label: Fitness Goal
+      hint: null
+      type: select_one
+      options:
+      - Weight Loss
+      - Muscle Gain
+      - Endurance
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Friend
+      - Family
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Sister
+      - Brother
+      - Son
+      - Daughter
+      required: false
+    - id: 14
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship_info
+      label: Emergency Contact Relationship Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship_type
+      label: Emergency Contact Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Partner
+      - Friend
+      - Family
+      required: false
+    - id: 19
+      name: emergency_contact_authorized
+      label: Emergency Contact Authorized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_medical_conditions
+      label: Emergency Contact Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_medical_notes
+      label: Emergency Contact Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_medical_history
+      label: Emergency Contact Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fitness_onboarding_form_notes
+      label: Fitness Onboarding Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false

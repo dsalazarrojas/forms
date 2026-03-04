@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actuaries Guild Membership Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name / Display Name
+      hint: For use in guild directory
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_professional
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_tier
+      label: Desired Membership Tier
+      hint: null
+      type: select_one
+      options:
+      - Student Member
+      - Associate Member
+      - Fellow Member
+      - Corporate Partner Representative
+      - Retired Member
+      required: true
+    - id: 9
+      name: actuarial_credentials
+      label: Current Professional Designations
+      hint: e.g. ASA, FSA, ACAS, FCAS
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: primary_practice_area
+      label: Primary Area of Practice
+      hint: null
+      type: select_one
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Property and Casualty (P&C)
+      - Pension and Retirement
+      - Risk Management / Enterprise Risk
+      - Data Science / Predictive Analytics
+      - Other
+      required: true
+    - id: 11
+      name: current_employer
+      label: Current Employer / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: professional_experience_years
+      label: Years of Actuarial Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: education_background
+      label: Highest Degree Earned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: guild_interests
+      label: Areas of Guild Interest
+      hint: Select areas where you would like to contribute
+      type: select_multiple
+      options:
+      - Professional Standards Committee
+      - Continuing Education (CE) Development
+      - Student Mentorship Program
+      - Networking and Events
+      - Public Policy Research
+      required: false
+    - id: 16
+      name: ethics_acknowledgment
+      label: I agree to abide by the Guild Professional Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

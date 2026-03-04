@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Petition Form
+    pages:
+    - id: 1
+      name: petitioner_first_name
+      label: Petitioner First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: petitioner_last_name
+      label: Petitioner Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 10
+      name: petition_title
+      label: Petition Title
+      hint: Name of your petition
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: petition_category
+      label: Petition Category
+      hint: Select category
+      type: select_one
+      options:
+      - Environment
+      - Human rights
+      - Education
+      - Healthcare
+      - Social justice
+      - Animal welfare
+      - Community improvement
+      - Government accountability
+      - Corporate responsibility
+      - Other
+      required: true
+    - id: 12
+      name: target_audience
+      label: Who Is the Target of This Petition
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Local government
+      - State government
+      - Federal government
+      - Corporation or business
+      - School district
+      - Nonprofit organization
+      - International body
+      - Other
+      required: true
+    - id: 13
+      name: petition_summary
+      label: Petition Summary
+      hint: Brief description in 2-3 sentences
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: petition_story
+      label: Tell the Full Story
+      hint: Why is this issue important
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: petition_demand
+      label: What Is Your Specific Demand or Request
+      hint: Be specific
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: petition_goal
+      label: Signature Goal
+      hint: How many signatures do you want
+      type: select_one
+      options:
+      - 100 signatures
+      - 500 signatures
+      - 1000 signatures
+      - 5000 signatures
+      - 10000 or more
+      required: true
+    - id: 17
+      name: petition_deadline
+      label: Deadline for Signatures
+      hint: Target date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: personal_connection
+      label: What Is Your Personal Connection to This Issue
+      hint: Why do you care
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: supporting_organizations
+      label: Are Any Organizations Supporting This Petition
+      hint: List if any
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: media_coverage
+      label: Has This Issue Received Media Coverage
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - significant coverage
+      - Yes - some coverage
+      - No - but we have contacts
+      - false
+      required: false
+    - id: 21
+      name: previous_actions
+      label: What Actions Have You Already Taken
+      hint: Describe previous efforts
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: planned_actions
+      label: What Actions Do You Plan to Take
+      hint: Future plans
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: petition_image
+      label: Do You Have an Image for Your Petition
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - will upload
+      - No - need help
+      required: false
+    - id: 24
+      name: share_plan
+      label: How Do You Plan to Share This Petition
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Email to friends
+      - Community groups
+      - Local media
+      - Events
+      - Door to door
+      - Other
+      required: true
+    - id: 25
+      name: terms_accepted
+      label: I Accept the Terms of Service
+      hint: Must accept
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 26
+      name: signature
+      label: Your Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

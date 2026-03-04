@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rebranding Poster Order Form
+    pages:
+    - id: 1
+      name: rebranding_poster_order_form
+      label: Rebranding Poster Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agency_url
+      label: Agency URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: poster_size
+      label: Poster Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: poster_type
+      label: Poster Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: order_status_updated_at
+      label: Order Status Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: order_status_updated_by
+      label: Order Status Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: payment_status_updated_at
+      label: Payment Status Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: payment_status_updated_by
+      label: Payment Status Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_updated_at
+      label: Order Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

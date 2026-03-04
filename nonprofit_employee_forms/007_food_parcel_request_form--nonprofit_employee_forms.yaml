@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Parcel Request Form
+    pages:
+    - id: 1
+      name: food_parcel_request_form
+      label: Food Parcel Request Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_parcel_type
+      label: Food Parcel Type
+      hint: null
+      type: select_one
+      options:
+      - Non-Perishable
+      - Perishable
+      - Both
+      required: false
+    - id: 6
+      name: food_parcel_quantity
+      label: Food Parcel Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: food_parcel_description
+      label: Food Parcel Description
+      hint: Briefly describe the food parcel you need.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: food_parcel_address
+      label: Food Parcel Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_parcel_date
+      label: Food Parcel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: food_parcel_time
+      label: Food Parcel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: food_parcel_message
+      label: Food Parcel Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: food_parcel_recipient_name
+      label: Food Parcel Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: food_parcel_recipient_email
+      label: Food Parcel Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: food_parcel_recipient_phone
+      label: Food Parcel Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: food_parcel_notes
+      label: Food Parcel Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: food_parcel_status
+      label: Food Parcel Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Completed
+      - Cancel
+      required: false
+    - id: 17
+      name: food_parcel_create_date
+      label: Food Parcel Create Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: food_parcel_create_time
+      label: Food Parcel Create Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: food_parcel_update_date
+      label: Food Parcel Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: food_parcel_update_time
+      label: Food Parcel Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: food_parcel_creator_name
+      label: Food Parcel Creator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: food_parcel_updated_by
+      label: Food Parcel Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

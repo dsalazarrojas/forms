@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: vestibular_and_postural_assessment_quiz
+    pages:
+    - id: 1
+      name: balance_screening
+      label: Balance Screening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: dizziness_question
+      label: Dizziness Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: posture_check
+      label: Posture Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: postural_deficits
+      label: Postural Deficits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vestibular_assessment
+      label: Vestibular Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: balance_assessment
+      label: Balance Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: postural_assessment
+      label: Postural Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: overall_posture_score
+      label: Overall Posture Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall_balance_score
+      label: Overall Balance Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vestibular_symptoms
+      label: Vestibular Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: postural_symptoms
+      label: Postural Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: postural_deficit_impact
+      label: Postural Deficit Impact
+      hint: null
+      type: number
+      options: []
+      required: true

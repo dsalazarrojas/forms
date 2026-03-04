@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_book_order_form
+    pages:
+    - id: 1
+      name: book_order_form_page
+      label: book_order_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_details
+      label: book details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      - '{''value'': ''option_3''}'
+      - '{''value'': ''option_4''}'
+      - '{''value'': ''option_5''}'
+      - '{''value'': ''option_6''}'
+      - '{''value'': ''option_7''}'
+      - '{''value'': ''option_8''}'
+      - '{''value'': ''option_9''}'
+      - '{''value'': ''option_10''}'
+      - '{''value'': ''option_11''}'
+      required: false
+    - id: 3
+      name: billing_info
+      label: billing info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      - '{''value'': ''option_3''}'
+      required: false
+    - id: 4
+      name: book_image
+      label: book image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      - '{''value'': ''option_3''}'
+      required: false
+    - id: 7
+      name: order_notes
+      label: order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

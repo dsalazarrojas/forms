@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ADHD Informant Questionnaire
+    pages:
+    - id: 1
+      name: section_header_informant
+      label: '--- Informant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: informant_full_name
+      label: Full name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: informant_role
+      label: Your role relative to the child
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 4
+      name: informant_phone
+      label: Phone number
+      hint: Optional, for follow-up
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: informant_email
+      label: Email address
+      hint: Optional, for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: section_header_patient
+      label: '--- Patient Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_full_name
+      label: Patient's full name
+      hint: Enter the child's full legal name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_dob
+      label: Date of birth
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: patient_age
+      label: Age
+      hint: Current age in years
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: patient_gender
+      label: Gender
+      hint: Select the gender the child identifies with
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: section_header_setting
+      label: '--- Observational Setting ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: setting
+      label: Primary setting observed
+      hint: Where were these behaviors most frequently observed?
+      type: select_one
+      options:
+      - Home
+      - School
+      - Community
+      - Other
+      required: true
+    - id: 13
+      name: visit_date
+      label: Date of observation
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_header_observations
+      label: '--- Behavioral Observations ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: inattention_symptoms
+      label: Inattention symptoms (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Difficulty sustaining attention
+      - Forgetful
+      - Easily distracted
+      - Poor organization
+      - Avoids tasks
+      - Fidgeting
+      - Other
+      required: false
+    - id: 16
+      name: hyperactivity_symptoms
+      label: Hyperactivity symptoms (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Fidgeting
+      - Excessive talking
+      - Interrupting
+      - Inability to sit still
+      - Restlessness
+      - Other
+      required: false
+    - id: 17
+      name: impulsivity_symptoms
+      label: Impulsivity symptoms (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Acts without thinking
+      - Difficulty waiting
+      - Blurts out answers
+      - Difficulty following instructions
+      - Other
+      required: false
+    - id: 18
+      name: section_header_ratings
+      label: '--- Rating Scales ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: inattentive_rating
+      label: Frequency of inattentive behaviors
+      hint: Choose the option that best describes frequency
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 20
+      name: hyperactive_rating
+      label: Frequency of hyperactive behaviors
+      hint: Choose the option that best describes frequency
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 21
+      name: impulsive_rating
+      label: Frequency of impulsive behaviors
+      hint: Choose the option that best describes frequency
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 22
+      name: section_header_context
+      label: '--- Additional Context ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: sleep_hours
+      label: Average hours of sleep per night
+      hint: e.g., 7.5
+      type: decimal
+      options: []
+      required: false
+    - id: 24
+      name: screen_time
+      label: Average hours of screen time per day
+      hint: e.g., 2.3
+      type: decimal
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or observations
+      hint: Provide any further details that may help assessment
+      type: text
+      options: []
+      required: false

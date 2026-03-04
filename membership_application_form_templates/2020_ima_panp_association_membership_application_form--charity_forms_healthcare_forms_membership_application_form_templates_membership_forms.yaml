@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 IMA PANP Association Membership Application
+    pages:
+    - id: 1
+      name: form_header
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full legal name
+      hint: As it appears on your professional license
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Primary email address
+      hint: Used for official communications and dues renewal
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Primary phone number
+      hint: Mobile preferred for urgent updates
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Used for membership verification and benefits eligibility
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Complete mailing address
+      hint: Include street, city, state/province, and postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: professional_info_header
+      label: '--- Professional Credentials ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: professional_license_number
+      label: Medical license or NPI number
+      hint: Enter your state license number or National Provider Identifier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: professional_designation
+      label: Professional designation
+      hint: Select your primary credential
+      type: select_one
+      options:
+      - MD (Doctor of Medicine)
+      - DO (Doctor of Osteopathy)
+      - NP (Nurse Practitioner)
+      - PA (Physician Assistant)
+      - RN (Registered Nurse)
+      - Other Healthcare Professional
+      required: true
+    - id: 10
+      name: primary_specialty
+      label: Primary specialty area
+      hint: null
+      type: select_one
+      options:
+      - Family Medicine
+      - Internal Medicine
+      - Pediatrics
+      - Emergency Medicine
+      - Women's Health
+      - Mental Health/Psychiatry
+      - Geriatrics
+      - Surgery
+      - Other
+      required: true
+    - id: 11
+      name: employer_name
+      label: Current practice or employer name
+      hint: Name of hospital, clinic, or private practice
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_setting
+      label: Primary practice setting
+      hint: null
+      type: select_one
+      options:
+      - Hospital-based
+      - Private Practice
+      - Community Health Center
+      - Academic/Teaching Institution
+      - Urgent Care
+      - Telehealth/Remote
+      - Government/Military
+      - Other
+      required: false
+    - id: 13
+      name: years_in_practice
+      label: Years since initial licensure
+      hint: Enter number of years (0 for new graduates)
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: membership_preferences_header
+      label: '--- Membership Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: membership_category
+      label: Membership category
+      hint: Student members must provide proof of enrollment
+      type: select_one
+      options:
+      - Active/Full Member
+      - Associate Member
+      - Student Member
+      - Retired Member
+      - Honorary Member
+      required: true
+    - id: 16
+      name: committee_interests
+      label: Committees or working groups of interest (select all)
+      hint: Optional involvement opportunities
+      type: select_multiple
+      options:
+      - Education & CME Planning
+      - Advocacy & Policy
+      - Research & Publications
+      - Community Outreach
+      - Ethics & Standards
+      - Membership Recruitment
+      - Newsletter/Communications
+      required: false
+    - id: 17
+      name: referral_source
+      label: How did you hear about IMA PANP?
+      hint: null
+      type: select_one
+      options:
+      - Colleague referral
+      - Medical conference/event
+      - Journal/publication
+      - Social media
+      - Website search
+      - Previous membership
+      - Other
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility accommodations needed
+      hint: Describe any requirements for meetings or events
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or questions
+      hint: Any other information relevant to your application
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Work Order Form
+    pages:
+    - id: 1
+      name: client_company_name
+      label: Client Company Name
+      hint: Name of the company requesting services
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_contact_person
+      label: Client Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email Address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_site_address
+      label: Project Site Address
+      hint: Full address where work will be performed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_order_date
+      label: Work Order Date
+      hint: Date the work order is issued
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: work_start_date
+      label: Work Start Date
+      hint: Scheduled start date for work
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: work_completion_date
+      label: Expected Completion Date
+      hint: Expected date work will be completed
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_type
+      label: Type of Service Required
+      hint: Select the primary service needed
+      type: select_one
+      options:
+      - General Construction
+      - Electrical Work
+      - Plumbing
+      - HVAC Services
+      - Roofing
+      - Concrete Work
+      - Demolition
+      - Renovation
+      required: true
+    - id: 10
+      name: work_description
+      label: Detailed Work Description
+      hint: Describe the work to be performed in detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: materials_required
+      label: Materials Required
+      hint: List materials needed for the job
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: labor_hours
+      label: Estimated Labor Hours
+      hint: Number of hours expected for completion
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Rate per hour in dollars
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: material_cost
+      label: Material Cost
+      hint: Total cost of materials
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: additional_fees
+      label: Additional Fees
+      hint: Any additional charges or fees
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Calculated total including labor and materials
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: Select payment terms
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15
+      - Net 30
+      - Net 45
+      - Net 60
+      - 50% Deposit, 50% on Completion
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional information or requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: safety_requirements
+      label: Safety Requirements
+      hint: List any specific safety protocols to follow
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: authorized_by
+      label: Authorized By
+      hint: Name of person authorizing this work order
+      type: text
+      options: []
+      required: true

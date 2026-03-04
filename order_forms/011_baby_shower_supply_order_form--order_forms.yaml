@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Supply Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Baby Shower Event Supply Order --
+      hint: Order all your essential party supplies in one place
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Organizer or Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date of Baby Shower
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: We recommend ordering at least 2 weeks in advance
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: decorations_order
+      label: Decoration Package
+      hint: null
+      type: select_one
+      options:
+      - Basic (Balloons and Streamers)
+      - Deluxe (Themed Backdrop and Centerpieces)
+      - Premium (Custom Banners and Floral Arrangements)
+      - No Decorations Needed
+      required: true
+    - id: 6
+      name: tableware_count
+      label: Tableware Set Quantity (Packs of 20)
+      hint: Includes plates, cups, and napkins
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tableware_theme
+      label: Tableware Color/Theme
+      hint: null
+      type: select_one
+      options:
+      - Pastel Blue
+      - Pastel Pink
+      - Gender Neutral (Yellow/Green)
+      - Custom Theme (Specify in notes)
+      required: false
+    - id: 8
+      name: party_favor_quantity
+      label: Party Favor Quantity
+      hint: Small gifts for guests to take home
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Order Instructions or Custom Theme Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: An invoice will be sent after order confirmation
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      - Cash on Delivery
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true

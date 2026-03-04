@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_information_form
+    pages:
+    - id: 1
+      name: medical_survey_category
+      label: Medical Survey Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_survey_type
+      label: medical_survey_type
+      hint: null
+      type: select_one
+      options:
+      - Mental Health Assessment
+      - Medical Survey
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_issues
+      label: mental_health_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_supports
+      label: mental_health_supports
+      hint: null
+      type: select_multiple
+      options:
+      - Support Groups
+      - Self Help Groups
+      - Individual Therapy
+      - Other
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-Person
+      required: true
+    - id: 10
+      name: mental_health_professional
+      label: mental_health_professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_facility
+      label: mental_health_facility
+      hint: null
+      type: text
+      options: []
+      required: false

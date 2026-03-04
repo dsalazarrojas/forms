@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dad_Sweatshirt_Order_Form
+    pages:
+    - id: 1
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - color_black
+      - color_blue
+      - color_red
+      required: false
+    - id: 4
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - size_small
+      - size_medium
+      - size_large
+      required: false
+    - id: 5
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - shipping_ground
+      - shipping_air
+      - shipping_mail
+      required: false
+    - id: 7
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false

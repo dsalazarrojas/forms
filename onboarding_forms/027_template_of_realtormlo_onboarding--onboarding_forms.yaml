@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: template_of_realtormlo_onboarding
+    pages:
+    - id: 1
+      name: onboarding_form_page
+      label: Onboarding Form Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: realtor_mlo_onboarding
+      label: Realtor MLO Onboarding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: realtor_mlo_onboarding_agreement
+      label: Realtor MLO Onboarding Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_onboarded
+      label: Date Onboarded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_onboarded
+      label: Time Onboarded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: relocator_mlo_agreement
+      label: Realtor MLO Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: onboarding_form_submitted
+      label: Onboarding Form Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

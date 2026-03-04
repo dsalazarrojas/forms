@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quote Modification Form
+    pages:
+    - id: 1
+      name: quote_modification_form
+      label: quote_modification_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quote_status
+      label: quote_status_label
+      hint: null
+      type: select_one
+      options:
+      - quote_status_options_1
+      - quote_status_options_2
+      - quote_status_options_3
+      - quote_status_options_4
+      required: false
+    - id: 3
+      name: reason_for_modification
+      label: reason_for_modification_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quote_id
+      label: quote_id_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: requested_date
+      label: requested_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: requested_time
+      label: requested_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: modification_type
+      label: modification_type_label
+      hint: null
+      type: select_multiple
+      options:
+      - modification_type_options_1
+      - modification_type_options_2
+      - modification_type_options_3
+      - modification_type_options_4
+      required: false
+    - id: 8
+      name: comment
+      label: comment_label
+      hint: null
+      type: text
+      options: []
+      required: false

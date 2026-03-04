@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Purchase Inspection Agreement
+    pages:
+    - id: 1
+      name: buyer_name
+      label: buyer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_name
+      label: seller_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year_of_manufacture
+      label: year_of_manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: seller_address
+      label: seller_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seller_phone
+      label: seller_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_phone
+      label: buyer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_vin
+      label: vehicle_vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_license_plate
+      label: vehicle_license_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration_status
+      label: registration_status
+      hint: null
+      type: select_one
+      options:
+      - valid
+      - suspended
+      - revoked
+      - expired
+      - unknown
+      required: false
+    - id: 13
+      name: vehicle_engine_number
+      label: engine_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_transmission
+      label: transmission_type
+      hint: null
+      type: select_multiple
+      options:
+      - manual
+      - automatic
+      - semi-automatic
+      - continuously_variable
+      - unknown
+      required: false
+    - id: 15
+      name: vehicle_color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - black
+      - white
+      - red
+      - blue
+      - grey
+      - green
+      - purple
+      required: false
+    - id: 16
+      name: vehicle_odometer
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_mileage
+      label: mileage_reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - fair
+      - poor
+      - unknown
+      required: true
+    - id: 19
+      name: vehicle_warranty
+      label: warranty
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: vehicle_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_year_of_last_servicing
+      label: year_of_last_servicing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_year_of_last_servicing_mileage
+      label: year_of_last_servicing_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_inspection
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_inspection_result
+      label: inspection_result
+      hint: null
+      type: select_one
+      options:
+      - pass
+      - fail
+      required: true
+    - id: 25
+      name: seller_signature
+      label: seller_signature
+      hint: null
+      type: text
+      options: []
+      required: true

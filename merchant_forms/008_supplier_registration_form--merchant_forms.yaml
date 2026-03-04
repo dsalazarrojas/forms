@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Registration Form
+    pages:
+    - id: 1
+      name: supplier_registration_form_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_details
+      label: supplier_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: financial_details
+      label: financial_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: merchant_details
+      label: merchant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: terms_of_use
+      label: terms_of_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

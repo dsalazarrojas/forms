@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Technology Training Recording Consent Form
+    pages:
+    - id: 1
+      name: nonprofit_technology_training_recording_consent_form
+      label: Training Recording Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: permission_to_record
+      label: Permission to Record
+      hint: null
+      type: select_one
+      options:
+      - Recording of video and audio
+      - No recording of video
+      - No recording of audio
+      - Both
+      - None
+      required: false
+    - id: 9
+      name: permission_to_share
+      label: Permission to Share
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: permission_to_share_with_who
+      label: Permission to Share with
+      hint: null
+      type: select_multiple
+      options:
+      - Training Team
+      - Supervisor
+      - HR
+      - None
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_position
+      label: Signature Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Intake Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Penicillin''}'
+      - '{''id'': 3, ''label'': ''Morphine''}'
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Asthma''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''Hypertension''}'
+      - '{''id'': 4, ''label'': ''None''}'
+      required: false
+    - id: 7
+      name: primary_responsible_party
+      label: primary_responsible_party
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clinician''}'
+      - '{''id'': 2, ''label'': ''Caregiver''}'
+      - '{''id'': 3, ''label'': ''Family Member''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: home_health_aide_license
+      label: home_health_aide_license
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Expired''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 9
+      name: patient_intake_form
+      label: patient_intake_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: nurse_signature
+      label: nurse_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: clinician_signature
+      label: clinician_signature
+      hint: null
+      type: text
+      options: []
+      required: false

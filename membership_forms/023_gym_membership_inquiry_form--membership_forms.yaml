@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry
+      label: Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Elite
+      required: false
+    - id: 7
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: interested_in_classes
+      label: Interested In Classes
+      hint: null
+      type: select_multiple
+      options:
+      - Yoga
+      - Weightlifting
+      - Cardio
+      required: false
+    - id: 9
+      name: available_for_appointment
+      label: Available For Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: available_for_membership
+      label: Available For Membership
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

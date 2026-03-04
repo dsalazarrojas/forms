@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concession Supply Order Form
+    pages:
+    - id: 1
+      name: order_information
+      label: Order Information
+      hint: Concession supply order details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of order placement
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_reference
+      label: Order Reference Number
+      hint: Internal order ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Event requiring concessions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When concessions are needed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: venue_location
+      label: Venue Location
+      hint: Delivery location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_details
+      label: Customer Details
+      hint: Ordering party information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: beverage_supplies
+      label: Beverage Supplies
+      hint: Drink and beverage items
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: soft_drinks
+      label: Soft Drinks Quantity
+      hint: Number of cases
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bottled_water
+      label: Bottled Water Quantity
+      hint: Number of cases
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: coffee_supplies
+      label: Coffee Supplies
+      hint: Coffee cups lids stirrers
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: food_supplies
+      label: Food Supplies
+      hint: Food service items
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: popcorn_supplies
+      label: Popcorn Supplies
+      hint: Bags and kernels
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: hot_dog_supplies
+      label: Hot Dog Supplies
+      hint: Buns and sausages
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: candy_snacks
+      label: Candy and Snacks
+      hint: Assorted confectionery
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: serving_supplies
+      label: Serving Supplies
+      hint: Disposables and serveware
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: napkins
+      label: Napkins
+      hint: Number of packs
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cups
+      label: Cups
+      hint: Various sizes
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: plates
+      label: Plates
+      hint: Disposable plates
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: utensils
+      label: Utensils
+      hint: Forks knives spoons
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: delivery_details
+      label: Delivery Details
+      hint: When and where to deliver
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When to deliver
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: Time window
+      type: time
+      options: []
+      required: false
+    - id: 28
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: payment_terms
+      label: Payment Terms
+      hint: Billing arrangement
+      type: select_one
+      options:
+      - Pay on Delivery
+      - Net 30 Days
+      - Net 60 Days
+      - Prepaid
+      required: true
+    - id: 30
+      name: order_total
+      label: Estimated Order Total
+      hint: Approximate cost
+      type: number
+      options: []
+      required: false

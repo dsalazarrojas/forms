@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cinema Ticket Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For ticket confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cinema_location
+      label: Cinema Location
+      hint: Which theater
+      type: select_one
+      options:
+      - Downtown Cinema
+      - Mall Cinema
+      - Suburban Cinema
+      - IMAX Theater
+      required: true
+    - id: 5
+      name: movie_selection
+      label: Select Movie
+      hint: null
+      type: select_one
+      options:
+      - Current Release 1
+      - Current Release 2
+      - Current Release 3
+      - Current Release 4
+      - Current Release 5
+      - Special Event
+      required: true
+    - id: 6
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: show_time
+      label: Show Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: ticket_type
+      label: Ticket Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Adult
+      - Child (under 12)
+      - Senior (65+)
+      - Student
+      - Military
+      required: true
+    - id: 9
+      name: adult_tickets
+      label: Number of Adult Tickets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: child_tickets
+      label: Number of Child Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: senior_tickets
+      label: Number of Senior Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_tickets
+      label: Number of Student Tickets
+      hint: ID required
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: seating_preference
+      label: Seating Preference
+      hint: null
+      type: select_one
+      options:
+      - Front section
+      - Middle section
+      - Back section
+      - VIP seating
+      - No preference
+      required: true
+    - id: 14
+      name: specific_seats
+      label: Specific Seat Numbers
+      hint: If you have preferences
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: concession_addon
+      label: Add Concession Package
+      hint: null
+      type: select_one
+      options:
+      - No thanks
+      - Small combo (popcorn + drink)
+      - Medium combo (popcorn + drink)
+      - Large combo (popcorn + drink + candy)
+      - VIP package
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Gift Card
+      - Mobile Payment
+      - Pay at Theater
+      required: true
+    - id: 17
+      name: card_number
+      label: Card Number
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expiry_date
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cvv
+      label: CVV Code
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: Will be calculated
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Accessibility needs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ticket_delivery
+      label: How Would You Like to Receive Tickets
+      hint: null
+      type: select_one
+      options:
+      - Email (e-tickets)
+      - Text message
+      - Pick up at box office
+      - Mail delivery
+      required: true
+    - id: 23
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false

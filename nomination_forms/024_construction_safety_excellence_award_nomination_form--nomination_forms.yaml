@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Safety Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_date
+      label: Nomination Date
+      hint: Date of nomination
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: award_category
+      label: Award Category
+      hint: Which award category
+      type: select_one
+      options:
+      - Individual Safety Excellence
+      - Team Safety Excellence
+      - Safety Innovation
+      - Safety Leadership
+      - Zero Incident Achievement
+      - Safety Improvement
+      required: true
+    - id: 3
+      name: nominee_name
+      label: Nominee Name
+      hint: Full name of nominee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominee_company
+      label: Nominee Company
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_role
+      label: Nominee Role
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Associated project if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_name
+      label: Nominator Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_company
+      label: Nominator Company
+      hint: Your company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominator_email
+      label: Nominator Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: nominator_phone
+      label: Nominator Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relationship_to_nominee
+      label: Relationship to Nominee
+      hint: How do you know the nominee
+      type: select_one
+      options:
+      - Supervisor
+      - Coworker
+      - Subordinate
+      - Client
+      - Safety Professional
+      - Other
+      required: true
+    - id: 12
+      name: nomination_reason
+      label: Reason for Nomination
+      hint: Why are you nominating this person or team
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: safety_achievements
+      label: Safety Achievements
+      hint: Describe specific safety accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: impact_description
+      label: Impact of Safety Contributions
+      hint: How did their actions improve safety
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: time_period
+      label: Time Period of Achievements
+      hint: When did these achievements occur
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_free_days
+      label: Incident-Free Days
+      hint: Number of days without incident if applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: safety_initiatives
+      label: Safety Initiatives Led
+      hint: Describe any safety programs or initiatives started
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_contributions
+      label: Training Contributions
+      hint: Describe safety training provided
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: innovative_practices
+      label: Innovative Safety Practices
+      hint: Any new or creative safety solutions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: measurable_results
+      label: Measurable Safety Results
+      hint: Statistics or metrics showing improvement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any attachments or evidence
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: references_provided
+      label: References Provided
+      hint: Can you provide references
+      type: select_one
+      options:
+      - Yes, Listed Below
+      - Yes, Available on Request
+      - false
+      required: false
+    - id: 23
+      name: reference_contacts
+      label: Reference Contacts
+      hint: Names and contact information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_awards
+      label: Previous Safety Awards
+      hint: Has nominee received safety awards before
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other supporting information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: nominator_signature
+      label: Nominator Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

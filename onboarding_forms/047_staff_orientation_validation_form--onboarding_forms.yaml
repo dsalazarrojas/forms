@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Orientation Validation Form
+    pages:
+    - id: 1
+      name: new_employees_name
+      label: New Employee Name
+      hint: Enter the new employee's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_employees_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: onboarding_date
+      label: Onboarding Date
+      hint: Enter the date of onboarding
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: new_employees_phone
+      label: New Employee Phone
+      hint: Enter the new employee's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Enter the supervisor's name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: Enter your feedback
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_process_satisfaction
+      label: Onboarding Process Satisfaction
+      hint: How satisfied were you with the onboarding process?
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: new_employees_start_date
+      label: New Employee Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Clinic Check In Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: Please check in with your information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_header
+      label: -- Appointment Information --
+      hint: Your scheduled appointment details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: Time you are scheduled for
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: appointment_confirmation
+      label: Do You Have an Appointment Confirmation Number
+      hint: Enter your confirmation number if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: first_visit
+      label: Is This Your First Time at This Clinic
+      hint: Your first visit to our facility
+      type: select_one
+      options:
+      - Yes, First Visit
+      - No, Returning Patient
+      required: true
+    - id: 11
+      name: insurance_header
+      label: -- Insurance and Identification --
+      hint: For billing and identification purposes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: insurance_status
+      label: Insurance Status
+      hint: Do you have health insurance
+      type: select_one
+      options:
+      - Yes, Insured
+      - No, Uninsured
+      - Medicaid
+      - Medicare
+      - Other
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: Name of your insurance company
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_number
+      label: Policy or Member ID Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_header
+      label: -- Vaccination Details --
+      hint: Information about your vaccination
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: is_first_dose
+      label: Is This Your First COVID-19 Vaccine Dose
+      hint: Are you receiving your first dose
+      type: select_one
+      options:
+      - Yes, First Dose
+      - No, Follow-Up Dose
+      - Booster Dose
+      required: true
+    - id: 17
+      name: previous_vaccine_type
+      label: Previous Vaccine Type if Not First Dose
+      hint: Type of vaccine from previous dose
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - Unsure
+      - N-A
+      required: false
+    - id: 18
+      name: vaccine_preference
+      label: Vaccine Type Preference Today
+      hint: Your preference if choices available
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No Preference
+      required: false
+    - id: 19
+      name: screening_header
+      label: -- Pre-Vaccination Screening --
+      hint: Quick health screening before vaccination
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: fever_or_illness
+      label: Do You Currently Have a Fever or Illness
+      hint: Any current fever or acute illness
+      type: select_one
+      options:
+      - false
+      - Yes, I Feel Ill
+      - Mild Symptoms
+      required: true
+    - id: 21
+      name: severe_allergy
+      label: Do You Have Severe Allergies to Vaccine Components
+      hint: Any severe allergies
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in emergency
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: check_in_confirmation
+      label: I Confirm All Information Is Accurate
+      hint: All provided information is correct
+      type: select_one
+      options:
+      - I confirm
+      - Needs correction
+      required: true

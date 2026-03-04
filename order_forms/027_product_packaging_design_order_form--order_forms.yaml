@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product packaging design order form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: packaging_size
+      label: Packaging Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: packaging_type
+      label: Packaging Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: packaging_layout
+      label: Packaging Layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

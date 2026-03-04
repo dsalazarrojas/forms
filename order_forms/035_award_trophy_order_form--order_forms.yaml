@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Award Trophy Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer and Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: For tracking purposes
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_trophy_specs
+      label: -- Trophy Specifications --
+      hint: Choose your trophy and customization
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trophy_type
+      label: Trophy Type
+      hint: Select the primary trophy style
+      type: select_one
+      options:
+      - Classic Cup (Silver/Gold)
+      - Glass Plaque (Modern)
+      - Acrylic Stand (Durable)
+      - Medal (Personalized)
+      - Custom Sculpture
+      required: true
+    - id: 9
+      name: trophy_quantity
+      label: Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: trophy_size
+      label: Trophy Size
+      hint: Standard size options
+      type: select_one
+      options:
+      - Small (4-6 inches)
+      - Medium (8-10 inches)
+      - Large (12-14 inches)
+      - Extra Large (16+ inches)
+      required: true
+    - id: 11
+      name: base_material
+      label: Base Material
+      hint: null
+      type: select_one
+      options:
+      - Solid Wood
+      - Black Marble
+      - Weighted Plastic
+      - Polished Metal
+      required: true
+    - id: 12
+      name: engraving_text
+      label: Engraving Text
+      hint: Please enter the exact text to be engraved
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: font_style
+      label: Engraving Font Style
+      hint: null
+      type: select_one
+      options:
+      - Arial (Classic)
+      - Times New Roman (Traditional)
+      - Script (Elegant)
+      - Modern Bold (Impactful)
+      required: true
+    - id: 14
+      name: section_delivery_payment
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: delivery_date_trophy
+      label: Required Delivery Date
+      hint: Ensure at least 14 days for processing
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: delivery_method_trophy
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Expedited Shipping (2-3 days)
+      - Local Pickup (No cost)
+      required: true
+    - id: 17
+      name: shipping_address_trophy
+      label: Shipping Address
+      hint: Full address if shipping is selected
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_trophy
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - Corporate Invoice
+      - PayPal Account
+      required: true
+    - id: 19
+      name: special_instructions_trophy
+      label: Special Instructions or Comments
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

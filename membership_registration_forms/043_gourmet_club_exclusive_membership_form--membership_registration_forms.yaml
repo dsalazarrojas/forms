@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gourmet Club Exclusive Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: Enter your zip code
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: membership_type
+      label: Membership Type
+      hint: Select your membership type
+      type: select_multiple
+      options:
+      - Basic Membership
+      - Premium Membership
+      - Lifetime Membership
+      required: false
+    - id: 8
+      name: culinary_interests
+      label: Culinary Interests
+      hint: Select your culinary interests
+      type: select_one
+      options:
+      - Fine Dining
+      - Foodie Culture
+      - Food Science
+      - Food Styling
+      - Food Criticism
+      - Food History
+      - Food Anthropology
+      required: false
+    - id: 9
+      name: agree_terms
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

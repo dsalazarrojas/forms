@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Cake Order Form
+    pages:
+    - id: 1
+      name: wedding_cake_order_form
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: wedding_cake_type
+      label: wedding_cake_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''round'', ''value'': ''Round''}'
+      - '{''id'': 2, ''name'': ''heart'', ''value'': ''Heart''}'
+      - '{''id'': 3, ''name'': ''square'', ''value'': ''Square''}'
+      required: false
+    - id: 5
+      name: wedding_cake_size
+      label: wedding_cake_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''small'', ''value'': ''Small''}'
+      - '{''id'': 2, ''name'': ''medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''large'', ''value'': ''Large''}'
+      - '{''id'': 4, ''name'': ''extra_large'', ''value'': ''Extra Large''}'
+      - '{''id'': 5, ''name'': ''extra_extra_large'', ''value'': ''Extra Extra Large''}'
+      required: false
+    - id: 6
+      name: wedding_cake_filling
+      label: wedding_cake_filling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6, ''name'': ''strawberry'', ''value'': ''Strawberry''}'
+      - '{''id'': 7, ''name'': ''chocolate'', ''value'': ''Chocolate''}'
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message_to_baker
+      label: message_to_baker
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bakers_name
+      label: bakers_name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''jimmy'', ''value'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''tom'', ''value'': ''Tom''}'
+      required: false
+    - id: 14
+      name: cake_price
+      label: cake_price
+      hint: null
+      type: number
+      options: []
+      required: false

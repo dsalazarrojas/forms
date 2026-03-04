@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: sleep_study_questionnaire
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: select_one
+      options:
+      - Sleepy
+      - Light
+      - Restless
+      - Refreshed
+      required: true
+    - id: 4
+      name: bed_time
+      label: bed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: bedtime_concentration
+      label: bed_time_concentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wake_up_feel
+      label: wake_up_feel
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Fair
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: Additional comments about the patient
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sleep_stages
+      label: sleep_stages
+      hint: null
+      type: select_multiple
+      options:
+      - REM
+      - NREM
+      - Stage 1
+      - Stage 2
+      - Stage 3
+      - Stage 4
+      required: true
+    - id: 10
+      name: sleep_disorder
+      label: sleep_disorder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: sleep_disorder_description
+      label: sleep_disorder_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: medication_status
+      label: medication_status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: sleep_schedule
+      label: sleep_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: sleep_schedule_frequency
+      label: sleep_schedule_frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Several times a week
+      - Several times a month
+      - Several times a year
+      required: false
+    - id: 17
+      name: sleep_duration_frequency
+      label: sleep_duration_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: sleep_stage_duration
+      label: sleep_stage_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: sleep_stage_frequency
+      label: sleep_stage_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: sleep_stage_duration_frequency
+      label: sleep_stage_duration_frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Several times
+      - Continuous
+      required: false
+    - id: 21
+      name: medical_condition_status
+      label: medical_condition_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: medical_condition_description
+      label: medical_condition_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sleep_stages_duration
+      label: sleep_stages_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: sleep_stages_frequency
+      label: sleep_stages_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: sleep_quality_duration
+      label: sleep_quality_duration
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false

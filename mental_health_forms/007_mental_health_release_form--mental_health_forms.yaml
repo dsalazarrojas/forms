@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_release_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mental_health_history
+      label: Mental Health History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: mental_health_providers
+      label: Mental Health Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: mental_health_crisis_services
+      label: Mental Health Crisis Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mental_health_insurance
+      label: Mental Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mental_health_providers_other
+      label: Mental Health Providers Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: crisis_services_other
+      label: Crisis Services Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mental_health_crisis_services_other
+      label: Mental Health Crisis Services Other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Menu Selections Form
+    pages:
+    - id: 1
+      name: week_menu_selections_form
+      label: Weekly Menu Selections Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_selections
+      label: Restaurant Selections
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''restaurant1'', ''label'': ''Restaurant 1''}'
+      - '{''value'': ''restaurant2'', ''label'': ''Restaurant 2''}'
+      required: false
+    - id: 3
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: A brief description of order details.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: weekly_menu_selections
+      label: Weekly Menu Selections
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''selection1'', ''label'': ''Selection 1''}'
+      - '{''value'': ''selection2'', ''label'': ''Selection 2''}'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

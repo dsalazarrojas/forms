@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Officer Nomination Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Officer Nomination Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Nomination Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - president
+      - vice president
+      - secretary
+      - treasurer
+      required: false
+    - id: 9
+      name: basis_of_nomination
+      label: Basis of Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: qualification_of_candidate
+      label: Qualification of Candidate
+      hint: null
+      type: text
+      options: []
+      required: false

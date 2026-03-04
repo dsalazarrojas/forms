@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Senior Care Onboarding Survey
+    pages:
+    - id: 1
+      name: new_resident_info
+      label: newResidentInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergencyContact
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''primary_contact'', ''label'': ''Primary'', ''hint'': "The individual''s
+        primary point of contact.", ''type'': ''select_one'', ''options'': [{''label'':
+        ''Mother''}, {''label'': ''Brother''}, {''label'': ''Sister''}, {''label'':
+        ''Son''}, {''label'': ''Daughter''}, {''label'': ''Wife''}, {''label'': ''Husband''},
+        {''label'': ''Other''}]}'
+      - '{''name'': ''secondary_contact'', ''label'': ''secondaryContact'', ''type'':
+        ''text'', ''options'': []}'
+      - '{''name'': ''address'', ''label'': ''address'', ''type'': ''select_multiple'',
+        ''options'': [{''label'': ''Street''}, {''label'': ''Suite''}, {''label'':
+        ''Apt''}, {''label'': ''City''}, {''label'': ''State''}, {''label'': ''Zip''}]}'
+      - '{''name'': ''emergency_contact_relationship'', ''label'': ''relationship'',
+        ''type'': ''select_one'', ''options'': [{''label'': ''Son''}, {''label'':
+        ''Daughter''}, {''label'': ''Brother''}, {''label'': ''Sister''}, {''label'':
+        ''Other''}]}'
+      - '{''name'': ''emergency_contact_phone'', ''label'': ''phone'', ''type'': ''phone'',
+        ''options'': []}'
+      - '{''name'': ''emergency_contact_name'', ''label'': ''emergencyContactName'',
+        ''type'': ''text'', ''options'': []}'
+      required: false
+    - id: 3
+      name: medical_info
+      label: medicalInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: medicalConditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': "Alzheimer''s disease"}'
+      - '{''label'': ''Arthritis''}'
+      - '{''label'': ''Heart failure''}'
+      - '{''label'': ''Stroke''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: medication
+      label: medication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Aspirin''}'
+      - '{''label'': ''Blood thinner''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: medical_procedures
+      label: medicalProcedures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Knee replacement surgery''}'
+      - '{''label'': ''Hip replacement surgery''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Allergies''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: special_needs
+      label: specialNeeds
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additionalInfo
+      hint: null
+      type: text
+      options: []
+      required: false

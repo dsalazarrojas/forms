@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: AOB Membership Form
+    pages:
+    - id: 1
+      name: member_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: Professional email for membership communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: member_phone
+      label: Phone Number
+      hint: Contact number for membership inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_name
+      label: Artist Name
+      hint: Professional name you use as an artist (if different)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artistic_medium
+      label: Primary Artistic Medium
+      hint: What medium do you primarily work with?
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Mixed Media
+      - Drawing
+      - Printmaking
+      - Ceramics
+      - Textiles
+      - Other
+      required: true
+    - id: 6
+      name: artistic_styles
+      label: Artistic Styles
+      hint: What styles do you work in? (select all that apply)
+      type: select_multiple
+      options:
+      - Abstract
+      - Realism
+      - Impressionism
+      - Contemporary
+      - Traditional
+      - Conceptual
+      - Street Art
+      - Surrealism
+      - Pop Art
+      - Other
+      required: true
+    - id: 7
+      name: experience_level
+      label: Experience Level
+      hint: How long have you been practicing art professionally?
+      type: select_one
+      options:
+      - Emerging Artist (0-2 years)
+      - Developing Artist (3-5 years)
+      - Established Artist (6-10 years)
+      - Senior Artist (10+ years)
+      required: true
+    - id: 8
+      name: exhibition_history
+      label: Exhibition History
+      hint: Brief description of your exhibition experience
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio_link
+      label: Portfolio Website or Link
+      hint: URL to your online portfolio or artwork gallery
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: What type of membership are you applying for?
+      type: select_one
+      options:
+      - Individual
+      - Student
+      - Senior
+      - Corporate
+      - Patron
+      required: true
+    - id: 11
+      name: marketing_interests
+      label: Marketing Interests
+      hint: How would you like to promote your work through our organization?
+      type: select_multiple
+      options:
+      - Online Gallery
+      - Newsletter Features
+      - Social Media Promotion
+      - Art Shows
+      - Workshops
+      - Networking Events
+      - None
+      required: false
+    - id: 12
+      name: event_participation
+      label: Event Participation Interest
+      hint: Are you interested in participating in organization events?
+      type: select_one
+      options:
+      - Yes, All Events
+      - Yes, Selected Events
+      - Only Online Events
+      - No, Thank You
+      required: true
+    - id: 13
+      name: volunteer_opportunities
+      label: Volunteer Opportunities
+      hint: Are you interested in volunteering for organization activities?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method for Membership Fee
+      hint: How would you like to pay your membership fee?
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      required: true

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Room Reservation Form
+    pages:
+    - id: 1
+      name: meeting_room_reservation_form_input
+      label: meeting_room_reservation_form_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_room_selection
+      label: select_room
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_topic
+      label: provide_a_brief_information_about_your_meeting_topic
+      hint: null
+      type: text
+      options: []
+      required: false

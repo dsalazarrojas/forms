@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Vehicle Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Order Forms''}'
+      - '{''value'': ''Sales Forms''}'
+      - '{''value'': ''Rental Forms''}'
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cars''}'
+      - '{''value'': ''Trucks''}'
+      - '{''value'': ''Vans''}'
+      required: false
+    - id: 4
+      name: make_model
+      label: Make Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 2015}'
+      - '{''value'': 2016}'
+      - '{''value'': 2017}'
+      required: false
+    - id: 6
+      name: trim_level
+      label: Trim Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manual''}'
+      - '{''value'': ''Automatic''}'
+      required: false
+    - id: 8
+      name: drive_type
+      label: Drive Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Front Wheel Drive''}'
+      - '{''value'': ''Rear Wheel Drive''}'
+      - '{''value'': ''All Wheel Drive''}'
+      required: false
+    - id: 9
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''Used''}'
+      required: false
+    - id: 10
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      required: false
+    - id: 21
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Monitoring Checklist
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - dog
+      - cat
+      - other
+      required: false
+    - id: 3
+      name: pet_health
+      label: pet_health
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - okay
+      - bad
+      required: false
+    - id: 4
+      name: feeding_status
+      label: feeding_status
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 5
+      name: water_status
+      label: water_status
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 6
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medication_administered
+      label: medication_administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_contact
+      label: assigned_contact
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 13
+      name: assigned_contact_email
+      label: assigned_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assigned_contact_phone
+      label: assigned_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - bad
+      required: false
+    - id: 16
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - bad
+      required: false
+    - id: 17
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_email
+      label: follow_up_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - done
+      - not done
+      required: false
+    - id: 21
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_3
+      label: notes_3
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - bad
+      required: false
+    - id: 23
+      name: notes_4
+      label: notes_4
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - bad
+      required: false
+    - id: 24
+      name: follow_up_contact
+      label: follow_up_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true

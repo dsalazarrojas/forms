@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Drive Approval Form
+    pages:
+    - id: 1
+      name: donation_drive_form
+      label: Donation Drive Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_drive_approval_process
+      label: Donation Drive Approval Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: non_profit_organization
+      label: Non Profit Organization
+      hint: null
+      type: select_one
+      options:
+      - ABC Nonprofit Org
+      - Def Nonprofit Org 1
+      - Def Nonprofit Org 2
+      required: false
+    - id: 4
+      name: donation_drive_date
+      label: Donation Drive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: donation_drive_time
+      label: Donation Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: donation_drive_amount
+      label: Donation Drive Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: donation_drive_notes
+      label: Donation Drive Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_nonprofit_user
+      label: Assigned Nonprofit User
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Meeting Evaluation Form
+    pages:
+    - id: 1
+      name: meeting_form
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_title
+      label: Meeting Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_objectives
+      label: Meeting Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_position
+      label: Participant Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_department
+      label: Participant Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: presenter_name
+      label: Presenter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: presenter_position
+      label: Presenter Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: presenter_department
+      label: Presenter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: presenter_rating
+      label: Presenter Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: presenter_comments
+      label: Presenter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: meeting_outcome
+      label: Meeting Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Satisfactory
+      - Fair
+      required: false
+    - id: 18
+      name: meeting_outcome_justification
+      label: Meeting Outcome Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: overall_satisfaction_justification
+      label: Overall Satisfaction Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: participant_relevance
+      label: Participant Relevance
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: false
+    - id: 22
+      name: participant_relevance_justification
+      label: Participant Relevance Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: presenter_relevance
+      label: Presenter Relevance
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: false
+    - id: 24
+      name: presenter_relevance_justification
+      label: Presenter Relevance Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: overall_relevance
+      label: Overall Relevance
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: false

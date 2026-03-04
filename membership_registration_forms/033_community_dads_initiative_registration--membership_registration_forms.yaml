@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Dads Initiative Registration
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For program communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: home_address
+      label: Home address
+      hint: City and neighborhood help with outreach
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Select activities you want to participate in
+      type: select_multiple
+      options:
+      - Parenting workshops
+      - Mentorship
+      - Community events
+      - Volunteer outreach
+      required: true
+    - id: 6
+      name: availability
+      label: Availability for meetings or events
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for registration
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent
+      label: Consent to participate and use data
+      hint: Agreement to program terms
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

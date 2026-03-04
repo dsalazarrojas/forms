@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monitoring Performance Survey
+    pages:
+    - id: 1
+      name: performance_survey
+      label: Performance Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_period
+      label: Performance Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performance_area
+      label: Performance Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: performance_indicators
+      label: Performance Indicators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_rationale
+      label: Performance Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_survey
+      label: Submit Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

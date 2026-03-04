@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Watch Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: watch_type
+      label: watch_type
+      hint: null
+      type: select_one
+      options:
+      - Rolex
+      - Omega
+      - Cartier
+      - Audemars
+      required: false
+    - id: 3
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Silver
+      - Gold
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: false

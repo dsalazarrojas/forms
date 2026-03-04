@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Team Personal Ad Order Form
+    pages:
+    - id: 1
+      name: ad_intro
+      label: -- Recognition Program Personal Ads --
+      hint: Celebrate your player with a personal ad in the season program!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: purchaser_name
+      label: Purchaser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purchaser_email
+      label: Purchaser Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: player_name
+      label: Player Name to be Featured
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_division
+      label: Player Team/Division
+      hint: null
+      type: select_one
+      options:
+      - Varsity
+      - JV
+      - Freshman
+      - Youth League
+      required: true
+    - id: 6
+      name: ad_size_selection
+      label: Select Ad Size
+      hint: Prices include professional layout
+      type: select_one
+      options:
+      - Full Page ($100)
+      - Half Page ($60)
+      - Quarter Page ($35)
+      - Shout Out Text Only ($15)
+      required: true
+    - id: 7
+      name: personal_message
+      label: Message for the Ad
+      hint: Max 250 characters for full/half page, 100 for quarter page
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_submission_note
+      label: -- Photo Submission --
+      hint: Please email high-resolution photos to ads@basketballteam.org with your
+        name in the subject line.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Layout Instructions
+      hint: Any specific colors or themes?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_confirmation
+      label: Payment Selection
+      hint: null
+      type: select_one
+      options:
+      - Paid Online
+      - Check Mailed
+      - Invoice Me
+      required: true
+    - id: 11
+      name: ad_deadline_ack
+      label: I understand that ads must be submitted by the October 1st deadline
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 12
+      name: signature_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

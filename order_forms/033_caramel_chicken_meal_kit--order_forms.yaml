@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caramel Chicken Meal Kit
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- CUSTOMER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_state_zip
+      label: State and zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: meal_kit_order
+      label: -- MEAL KIT ORDER --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: number_of_servings
+      label: Number of servings
+      hint: null
+      type: select_one
+      options:
+      - 2 Servings
+      - 4 Servings
+      - 6 Servings
+      - 8 Servings
+      - 10+ Servings
+      required: true
+    - id: 10
+      name: number_of_kits
+      label: How many meal kits do you want?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary restrictions or preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gluten-Free
+      - Dairy-Free
+      - Vegan
+      - Vegetarian
+      - Nut-Free
+      - Low-Sodium
+      - Low-Carb
+      - Keto
+      required: false
+    - id: 12
+      name: spice_level
+      label: Preferred spice level
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Medium
+      - Spicy
+      - Extra Spicy
+      - No Preference
+      required: false
+    - id: 13
+      name: ingredient_substitutions
+      label: Any ingredient substitutions or changes?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Food allergies
+      hint: Please list all allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cooking_method
+      label: Preferred cooking method
+      hint: null
+      type: select_one
+      options:
+      - Stovetop
+      - Oven
+      - Slow Cooker
+      - Instant Pot
+      - Grilling
+      - No Preference
+      required: false
+    - id: 16
+      name: cooking_skill_level
+      label: Your cooking skill level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: false
+    - id: 17
+      name: delivery_information
+      label: -- DELIVERY INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: delivery_time_window
+      label: Preferred delivery time
+      hint: null
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-9pm
+      - Anytime
+      required: true
+    - id: 20
+      name: special_delivery_instructions
+      label: Special delivery instructions
+      hint: Gate code, safe spot to leave, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_information
+      label: -- PAYMENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: subtotal_amount
+      label: Subtotal amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: delivery_fee
+      label: Delivery fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total amount due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Cash on Delivery
+      required: true

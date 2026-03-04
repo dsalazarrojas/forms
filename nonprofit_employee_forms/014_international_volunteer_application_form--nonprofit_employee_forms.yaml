@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Volunteer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Staff
+      - Director
+      required: true
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: resume_link
+      label: Resume Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_link
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: background_check
+      label: Background Check
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone_ext
+      label: Emergency Contact Phone Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship_ext
+      label: Emergency Contact Relationship Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_email_ext
+      label: Emergency Contact Email Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_end_date
+      label: Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: volunteer_notes
+      label: Volunteer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

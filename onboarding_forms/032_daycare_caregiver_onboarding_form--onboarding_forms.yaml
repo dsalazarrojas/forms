@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Caregiver Onboarding Form
+    pages:
+    - id: 1
+      name: new_caregiver_details
+      label: New Caregiver Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: Select days of the week you are available to work
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monday'', ''label'': ''Monday''}'
+      - '{''id'': 2, ''name'': ''Tuesday'', ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''name'': ''Wednesday'', ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''name'': ''Thursday'', ''label'': ''Thursday''}'
+      - '{''id'': 5, ''name'': ''Friday'', ''label'': ''Friday''}'
+      required: false
+    - id: 3
+      name: required_acknowledgments
+      label: Required Acknowledgments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact2
+      label: Emergency Contact2
+      hint: null
+      type: text
+      options: []
+      required: false

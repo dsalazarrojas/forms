@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Supplies Distribution Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Nonprofit or community group
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: distribution_area
+      label: Distribution area
+      hint: City or neighborhood
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: items_distributed
+      label: Items distributed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diapers
+      - Wipes
+      - Formula
+      - Clothing
+      - Toys
+      required: true
+    - id: 5
+      name: families_served_weekly
+      label: Families served weekly
+      hint: Average number per week
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unmet_needs
+      label: Most critical unmet needs
+      hint: Short description
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: storage_capacity
+      label: Storage capacity for supplies
+      hint: Cubic feet or description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_support_needed
+      label: Volunteer support needed
+      hint: Tasks volunteers can assist with
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interest_in_partnership
+      label: Interest in partnership with donors
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact information
+      hint: Email or phone for follow up
+      type: text
+      options: []
+      required: false

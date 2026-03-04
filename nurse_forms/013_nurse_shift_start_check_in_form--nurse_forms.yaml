@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: nurse_shift_start_check_in_form
+    pages:
+    - id: 1
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: shift_id
+      label: shift_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: nurse_id
+      label: nurse_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shift_location
+      label: shift_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_lead_nurse
+      label: team_lead_nurse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nurse_name
+      label: nurse_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nurse_role
+      label: nurse_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: check_in
+      label: check_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: check_out
+      label: check_out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_absence
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shift_notes
+      label: shift_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false

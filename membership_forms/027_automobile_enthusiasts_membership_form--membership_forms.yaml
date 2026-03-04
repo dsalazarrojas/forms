@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automobile Enthusiasts Membership Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_membership
+      label: -- Membership Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Platinum
+      - VIP
+      required: true
+    - id: 14
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      required: true
+    - id: 15
+      name: annual_fee
+      label: Annual Membership Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_header_interest
+      label: -- Interests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_interests
+      label: Vehicle Types of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classic Cars
+      - Muscle Cars
+      - Sports Cars
+      - Luxury Vehicles
+      - Motorcycles
+      - Trucks
+      - Off-Road Vehicles
+      - Electric Vehicles
+      required: true
+    - id: 18
+      name: favorite_brands
+      label: Favorite Automobile Brands
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_vehicles
+      label: -- Your Vehicles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: primary_vehicle_year
+      label: Primary Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: primary_vehicle_make
+      label: Primary Vehicle Make and Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_vehicles
+      label: Other Vehicles Owned
+      hint: Describe any additional vehicles
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_activities
+      label: -- Activities and Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: interested_activities
+      label: Interested in Club Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Car Shows
+      - Track Days
+      - Road Trips
+      - Charity Events
+      - Workshop and Training
+      - Social Events
+      - Online Forums
+      required: true
+    - id: 25
+      name: membership_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

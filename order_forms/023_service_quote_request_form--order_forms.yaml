@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Quote Request Form
+    pages:
+    - id: 1
+      name: service_quote_request_form
+      label: Service Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_quote_request_form_page_2
+      label: Service Quote Form 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Select Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 3
+      name: service_quote_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_quote_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_quote_request_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_quote_request_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_quote_request_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_quote_request_form_note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

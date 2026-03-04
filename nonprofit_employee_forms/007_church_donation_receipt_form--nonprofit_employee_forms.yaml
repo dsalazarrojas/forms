@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Receipt Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Full Name
+      hint: Name as it should appear on receipt
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Donor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_address
+      label: Donor Mailing Address
+      hint: Full street address, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: donation_amount
+      label: Total Donation Amount
+      hint: Enter the total amount donated
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: donation_method
+      label: Method of Donation
+      hint: How was the donation made
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Stock Transfer
+      - Property
+      - Other
+      required: true
+    - id: 8
+      name: check_number
+      label: Check Number
+      hint: If paid by check, enter number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donation_fund
+      label: Donation Fund Designation
+      hint: Where was the donation directed
+      type: select_one
+      options:
+      - General Fund
+      - Building Fund
+      - Mission Fund
+      - Youth Ministry
+      - Benevolence
+      - Memorial Fund
+      - Unrestricted
+      required: true
+    - id: 10
+      name: receipt_type
+      label: Receipt Delivery Method
+      hint: How should we send your receipt
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Pick up in person
+      required: true
+    - id: 11
+      name: tax_year
+      label: Tax Year for Donation
+      hint: null
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - Other
+      required: true
+    - id: 12
+      name: employer_ein
+      label: Employer EIN (if corporate donation)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: donor_acknowledgment
+      label: Donor Acknowledgment
+      hint: Church may acknowledge donations publicly
+      type: select_one
+      options:
+      - Yes, you may acknowledge my donation
+      - No, please keep it private
+      required: true
+    - id: 14
+      name: additional_info
+      label: Additional Information
+      hint: Any notes for the receipt
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: receipt_notes
+      label: Special Receipt Instructions
+      hint: Any specific requirements for this receipt
+      type: text
+      options: []
+      required: false

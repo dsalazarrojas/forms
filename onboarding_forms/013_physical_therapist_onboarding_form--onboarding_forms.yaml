@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapist Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_license_state
+      label: Medical License State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Home
+      - Phone
+      - Email
+      required: false
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 13
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: false
+    - id: 14
+      name: break_length
+      label: Break Length
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      required: false

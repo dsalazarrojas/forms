@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_info
+      label: team_t_shirt_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_tshirt_details
+      label: t_shirt_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_total
+      label: order_total
+      hint: T-shirt price will be shown here.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: t_shirt_quantity
+      label: t_shirt_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: t_shirt_size
+      label: t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 6
+      name: t_shirt_color
+      label: t_shirt_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Yellow
+      - Green
+      required: false
+    - id: 7
+      name: t_shirt_style
+      label: t_shirt_style
+      hint: null
+      type: select_one
+      options:
+      - V
+      - H
+      - A
+      required: false
+    - id: 8
+      name: t_shirt_message
+      label: t_shirt_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: t_shirt_email
+      label: t_shirt_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: t_shirt_phone
+      label: t_shirt_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kosher Food Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_items
+      label: Food Items
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: false
+    - id: 3
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Transfer
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Cancelled
+      required: true

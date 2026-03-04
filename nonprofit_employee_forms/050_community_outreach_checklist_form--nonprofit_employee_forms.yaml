@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Checklist Form
+    pages:
+    - id: 1
+      name: checklist_header
+      label: -- Outreach Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: outreach_lead
+      label: Outreach lead name
+      hint: Person responsible for outreach
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_activity
+      label: Date of activity
+      hint: Date outreach is scheduled or completed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Outreach location
+      hint: Venue or neighborhood
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_objective
+      label: Primary objective
+      hint: Goal for the outreach activity
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tasks_completed
+      label: Tasks completed checklist
+      hint: Brief list of tasks completed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteers_needed
+      label: Volunteers needed
+      hint: Number of volunteers required
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: materials_distributed
+      label: Materials distributed
+      hint: List of flyers, kits, or supplies given
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: outcomes_and_metrics
+      label: Outcomes and metrics
+      hint: Measurable results from the activity
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_actions
+      label: Follow up actions required
+      hint: Next steps and responsible persons
+      type: text
+      options: []
+      required: false

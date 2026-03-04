@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Uniform Order Form With Skrill
+    pages:
+    - id: 1
+      name: uniform_header
+      label: -- Official Team Uniform Order --
+      hint: Please select sizes and options carefully.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_full_name
+      label: Player Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: custom_info_header
+      label: -- Uniform Customization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: jersey_number
+      label: Desired Jersey Number
+      hint: Subject to availability
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: back_name
+      label: Name on Back of Jersey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sizing_header
+      label: -- Sizing Selections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: jersey_size
+      label: Jersey Size
+      hint: null
+      type: select_one
+      options:
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 9
+      name: shorts_size
+      label: Shorts Size
+      hint: null
+      type: select_one
+      options:
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 10
+      name: quantity_ordered
+      label: Number of Sets Ordered
+      hint: One set includes 1 jersey and 1 shorts
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_header
+      label: -- Payment via Skrill --
+      hint: Total per set is $65.00.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: skrill_email
+      label: Your Skrill Account Email
+      hint: Used to match the incoming payment
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: total_amount_due
+      label: Total Amount to Pay
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: order_date
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Letterhead Design Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Design Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Business name for the letterhead
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Person responsible for design approval
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For proofs and feedback
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: logo_provided
+      label: Logo provided
+      hint: Is a logo provided for the design
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: color_preferences
+      label: Color preferences
+      hint: Primary colors or brand palette
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: typography_preferences
+      label: Typography preferences
+      hint: Font style or guidance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity_of_variants
+      label: Quantity of variants
+      hint: Number of letterhead versions required
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_items
+      label: Additional items
+      hint: Business card or envelope design needed
+      type: select_multiple
+      options:
+      - Business card
+      - Envelope
+      - Email signature
+      required: false
+    - id: 10
+      name: deadline_date
+      label: Deadline date
+      hint: Requested delivery date for final files
+      type: date
+      options: []
+      required: false

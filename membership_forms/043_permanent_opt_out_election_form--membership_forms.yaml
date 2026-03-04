@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Opt Out Election Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: opt_out_services
+      label: Opt Out Services
+      hint: Select the services you would like to opt out of
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 3
+      name: opt_out_communications
+      label: Opt Out Communications
+      hint: Select the communications you would like to opt out of
+      type: select_multiple
+      options:
+      - Communication 1
+      - Communication 2
+      - Communication 3
+      required: false
+    - id: 4
+      name: opt_out_subscriptions
+      label: Opt Out Subscriptions
+      hint: Select the subscriptions you would like to opt out of
+      type: select_multiple
+      options:
+      - Subscription 1
+      - Subscription 2
+      - Subscription 3
+      required: false
+    - id: 5
+      name: confirm_opt_out
+      label: Confirm Opt Out
+      hint: This will permanently opt you out of the selected services, communications,
+        and subscriptions.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_opt_out_email
+      label: Confirm Opt Out Email
+      hint: Enter the email address to confirm opt out.
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: permanent_opt_out
+      label: Permanent Opt Out
+      hint: Select to permanently opt out of selected services, communications, and
+        subscriptions.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

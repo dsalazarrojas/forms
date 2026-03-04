@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Shipping Location Details
+    pages:
+    - id: 1
+      name: customer_shipping_location_details
+      label: Customer Shipping Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ship_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Default''}'
+      - '{''label'': ''Express''}'
+      - '{''label'': ''Standard''}'
+      required: false
+    - id: 8
+      name: ship_notes
+      label: Shipping Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: ship_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: ship_email
+      label: Ship Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: ship_phone
+      label: Ship Phone
+      hint: null
+      type: text
+      options: []
+      required: false

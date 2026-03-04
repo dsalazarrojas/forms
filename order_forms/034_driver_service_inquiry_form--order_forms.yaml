@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_service_inquiry_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Pickup and Dropoff
+      - Local Moving
+      - Long Haul Moving
+      required: true
+    - id: 5
+      name: pickup_service
+      label: PickUp Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dropoff_service
+      label: Dropoff Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: inquiry_details
+      label: Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_2
+      label: Signature 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: date_2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time_2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false

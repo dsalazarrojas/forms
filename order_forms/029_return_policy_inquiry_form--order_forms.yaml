@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: return-policy-inquiry-form
+    pages:
+    - id: 1
+      name: return_policy_inquiry_form_page_1
+      label: returnPolicy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contactNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_reference
+      label: orderReference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1234}'
+      - '{''value'': 5678}'
+      required: false
+    - id: 4
+      name: reason_for_return
+      label: reasonForReturn
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''defect''}'
+      - '{''value'': ''wrong_item''}'
+      - '{''value'': ''unwanted''}'
+      required: false
+    - id: 5
+      name: exchange_preferred
+      label: exchangePreferred
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1234}'
+      - '{''value'': 5678}'
+      required: false
+    - id: 6
+      name: return_date
+      label: returnDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_time
+      label: returnTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

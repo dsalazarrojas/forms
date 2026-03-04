@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Services Order Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: service_requested
+      label: Type of Art Service Requested
+      hint: Select the primary service
+      type: select_one
+      options:
+      - Custom Illustration
+      - Graphic Design
+      - Portrait Painting
+      - Digital Art
+      - Logo Creation
+      required: true
+    - id: 4
+      name: project_description
+      label: Detailed Project Description
+      hint: Include themes, colors, and style preferences
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dimensions
+      label: Desired Dimensions
+      hint: e.g. 11x14 inches
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_estimate
+      label: Estimated Budget
+      hint: Provide a range in USD
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: deadline_date
+      label: Requested Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 9
+      name: terms_agreement
+      label: I agree to the service terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: CardioMessenger Order Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Clinic or hospital name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Select the type of healthcare facility
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Medical Practice
+      - Urgent Care
+      - Cardiology Center
+      - Telemedicine Provider
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary person for this order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Person Title
+      hint: e.g., Manager, Director, Procurement Officer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: We'll send order confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_address
+      label: Organization Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: device_model
+      label: CardioMessenger Device Model
+      hint: Select the model you wish to order
+      type: select_one
+      options:
+      - CardioMessenger Pro
+      - CardioMessenger Standard
+      - CardioMessenger Lite
+      - Bundle - Pro and Standard
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: Number of devices to order
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: expected_monthly_usage
+      label: Expected Monthly Usage
+      hint: Estimated number of patients who will use CardioMessenger
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: installation_support
+      label: Installation and Support Needed?
+      hint: Select support level required
+      type: select_one
+      options:
+      - Yes - Full onsite installation
+      - Yes - Remote technical support only
+      - No - Self-installation
+      required: true
+    - id: 16
+      name: training_required
+      label: Staff Training Required?
+      hint: Do staff members need training on the system?
+      type: select_one
+      options:
+      - Yes - Comprehensive training
+      - Yes - Basic operation only
+      - No - Self-guided learning
+      required: true
+    - id: 17
+      name: current_system
+      label: Current Patient Monitoring System
+      hint: What system are you currently using?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: integration_requirements
+      label: Integration with Existing Systems?
+      hint: Does CardioMessenger need to integrate with existing software?
+      type: select_one
+      options:
+      - Yes - EHR integration needed
+      - Yes - API integration needed
+      - No - Standalone use
+      required: false
+    - id: 19
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Invoice and Net 30
+      - Purchase Order
+      required: true
+    - id: 20
+      name: po_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Any Special Requirements or Notes?
+      hint: Including budget constraints, timeline, or customization requests
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: estimated_deployment
+      label: Estimated Deployment Date
+      hint: When do you need the devices operational?
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: I agree to the CardioMessenger terms and conditions
+      hint: Required to proceed with order
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

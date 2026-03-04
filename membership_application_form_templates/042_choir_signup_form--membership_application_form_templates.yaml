@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choir Signup Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vocal_details
+      label: Vocal Details
+      hint: Your singing information
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vocal_range
+      label: Vocal Range
+      hint: Select your range
+      type: select_one
+      options:
+      - Soprano
+      - Mezzo-soprano
+      - Alto
+      - Tenor
+      - Baritone
+      - Bass
+      - Not sure
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years of Singing Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: choir_experience
+      label: Previous Choir Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Beginner (1-2 years)
+      - Intermediate (3-5 years)
+      - Advanced (6+ years)
+      required: true
+    - id: 15
+      name: can_read_music
+      label: Can you read music
+      hint: null
+      type: select_one
+      options:
+      - Yes, very well
+      - Yes, somewhat
+      - A little
+      - false
+      required: true
+    - id: 16
+      name: plays_instrument
+      label: Do you play any instruments
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: instruments
+      label: Which Instruments
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: availability
+      label: Availability
+      hint: When you can rehearse
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: available_days
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 20
+      name: preferred_rehearsal_time
+      label: Preferred Rehearsal Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any time
+      required: true
+    - id: 21
+      name: schedule_conflicts
+      label: Any Schedule Conflicts
+      hint: Regular conflicts
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: membership_interest
+      label: Membership Interest
+      hint: Your goals
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: why_join
+      label: Why Do You Want to Join
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: musical_goals
+      label: What Are Your Musical Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: performance_commitment
+      label: Can you commit to performances
+      hint: Concerts and events
+      type: select_one
+      options:
+      - Yes, all performances
+      - Yes, most performances
+      - Some performances
+      - Not sure
+      required: true
+    - id: 26
+      name: additional_skills
+      label: Additional Skills
+      hint: Other talents
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: other_skills
+      label: Do you have other relevant skills
+      hint: Dance, acting, etc.
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: referral
+      label: Referral
+      hint: How you found us
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - Current member
+      - Social media
+      - Website
+      - Advertisement
+      - Performance
+      - School
+      - Other
+      required: false
+    - id: 30
+      name: referred_by
+      label: Referred By
+      hint: Name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: agree_terms
+      label: I agree to the choir terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 33
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signup_date
+      label: Date of Signup
+      hint: null
+      type: date
+      options: []
+      required: true

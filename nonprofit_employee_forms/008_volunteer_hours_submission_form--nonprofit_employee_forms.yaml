@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Hours Submission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: non_qualified_hours
+      label: Non-qualified Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: non_qualified_reasons
+      label: Non-qualified Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: hours_approved
+      label: Hours Approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_for
+      label: Submitted For
+      hint: null
+      type: select_multiple
+      options:
+      - Non-profit Organization
+      - School
+      - Community Service Organization
+      required: true
+    - id: 17
+      name: submitted_by_title
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: hours_approved_reasons
+      label: Hours Approved Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hours_approved_comments
+      label: Hours Approved Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hours_rejected_reasons
+      label: Hours Rejected Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hours_rejected_comments
+      label: Hours Rejected Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: non_qualified_reasons
+      label: Non-qualified Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: non_qualified_comments
+      label: Non-qualified Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Patient Monitoring Form
+    pages:
+    - id: 1
+      name: remote_patient_monitoring_form_1
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_address_1
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: monitor_type_1
+      label: Monitor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''ECG''}'
+      - '{''value'': 2, ''label'': ''Blood Pressure''}'
+      - '{''value'': 3, ''label'': ''Blood Oxygen''}'
+      required: true
+    - id: 4
+      name: patient_contact_1
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: practitioner_name_1
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: practitioner_contact_1
+      label: Practitioner Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: monitor_frequency_1
+      label: Monitor Frequency
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: monitor_start_1
+      label: Monitor Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: monitor_stop_1
+      label: Monitor Stop
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: monitor_notes_1
+      label: Monitor Notes
+      hint: null
+      type: text
+      options: []
+      required: false

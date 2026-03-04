@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_product_sampling_request_form
+    pages:
+    - id: 1
+      name: product_sample_request
+      label: Product Sample Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: The name of your company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Your business contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_requested
+      label: Sample Requested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_sample_requested
+      label: Product Sample Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Any additional notes about your request
+      type: note
+      options: []
+      required: false

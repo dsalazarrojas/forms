@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Drug Policy Acknowledgment
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department of Accounting
+      - Department of Marketing
+      - Department of IT
+      - Department of HR
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_in
+      label: Time in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_out
+      label: Time out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: confirm_date
+      label: Confirm date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: confirm_time_in
+      label: Confirm time in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: confirm_time_out
+      label: Confirm time out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: signed
+      label: Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Joe Doe
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department_id
+      label: Department ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 16
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - PST
+      - CST
+      - GMT
+      required: false
+    - id: 17
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - German
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - China
+      required: false
+    - id: 19
+      name: confirm_signed
+      label: Confirm signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_signature
+      label: Confirm signature
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 21
+      name: confirm_department_id
+      label: Confirm department ID
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 22
+      name: confirm_time_zone
+      label: Confirm time zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - PST
+      - CST
+      - GMT
+      required: false

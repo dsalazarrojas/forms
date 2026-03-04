@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Form
+    pages:
+    - id: 1
+      name: membership_info
+      label: Membership Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_info
+      label: Member Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: membership_terms
+      label: Membership Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false

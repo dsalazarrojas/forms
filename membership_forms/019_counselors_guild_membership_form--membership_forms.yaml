@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counselors Guild Membership Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_details
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: address3
+      label: Address 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: address4
+      label: Address 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: membership_date
+      label: Membership Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: last_updated_time
+      label: Last Updated Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Not Certified
+      required: true
+    - id: 24
+      name: specialty
+      label: Specialty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Optional field for additional comments
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pedicure Consultation Form
+    pages:
+    - id: 1
+      name: pedicure_consultation
+      label: What is the purpose of the pedicure?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nail_type
+      label: What is the type of nail you have currently?
+      hint: null
+      type: select_multiple
+      options:
+      - Acrylic
+      - Tip
+      - Gel
+      - Natural
+      required: false
+    - id: 3
+      name: service_required
+      label: What service will you be getting?
+      hint: null
+      type: select_one
+      options:
+      - Pedicure
+      - Manicure
+      - Waxing
+      - Massage
+      - Other
+      required: true
+    - id: 4
+      name: nail_condition
+      label: What is the current condition of your nails?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: foot_condition
+      label: What is the current condition of your feet?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_notes
+      label: Any special notes about the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_goals
+      label: What are the client's goals for the pedicure?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nail_procedure
+      label: What is the nail procedure that the client would like to get?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Would the client like to schedule a follow-up appointment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: contact_information
+      label: How do you want to be contacted for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false

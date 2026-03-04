@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Breakfast Sheet
+    pages:
+    - id: 1
+      name: page_1
+      label: Guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: Guest count
+      hint: Number of guests to be lodged
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: breakfast_time
+      label: Breakfast time
+      hint: Time of breakfast
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: menu
+      label: Menu
+      hint: null
+      type: select_multiple
+      options:
+      - Bread
+      - Eggs
+      - Meat
+      - Juice
+      - Fruit
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Guest email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Guest phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: Room number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Handover Check In Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: item_id
+      label: Item ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - Key
+      - Vehicle
+      - Equipment
+      required: true
+    - id: 4
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checked_out_by_k
+      label: Checked Out By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: check_out_by
+      label: Check Out By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

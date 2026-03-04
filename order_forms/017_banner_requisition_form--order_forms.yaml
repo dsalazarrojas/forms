@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banner Requisition Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of this requisition
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: Unique requisition identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requestor_name
+      label: Requestor Name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Requesting department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cost_center
+      label: Cost Center
+      hint: Billing cost center code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_manager
+      label: Approval Manager Name
+      hint: Manager for approval
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: banner_type
+      label: Banner Type
+      hint: Select banner style
+      type: select_one
+      options:
+      - Vinyl Banner
+      - Fabric Banner
+      - Mesh Banner
+      - Outdoor Durable
+      - Indoor Promotional
+      - Digital/Electronic
+      - Retractable Standee
+      required: true
+    - id: 10
+      name: banner_width
+      label: Banner Width
+      hint: Width in feet
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: banner_height
+      label: Banner Height
+      hint: Height in feet
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: Number of banners needed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: color_specification
+      label: Color Specification
+      hint: Specific colors required
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: primary_text
+      label: Primary Text or Message
+      hint: Main content for banner
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: secondary_text
+      label: Secondary Text
+      hint: Additional text or tagline
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: artwork_included
+      label: Artwork or Design Included
+      hint: Is design attached or needed?
+      type: select_one
+      options:
+      - Design Provided
+      - Using Template
+      - Design Assistance Needed
+      - Graphic Designer Required
+      required: true
+    - id: 17
+      name: logo_placement
+      label: Logo Placement
+      hint: Where should logos appear?
+      type: select_one
+      options:
+      - Top Left
+      - Top Center
+      - Top Right
+      - Bottom Left
+      - Bottom Center
+      - Bottom Right
+      - Not Applicable
+      required: false
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should banners be shipped?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: delivery_zip
+      label: Delivery ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When are banners needed?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: budget_approval
+      label: Budget Approval Amount
+      hint: Authorized budget in USD
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Budget Approved
+      - Ready to Order
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any custom requirements or notes
+      type: text
+      options: []
+      required: false

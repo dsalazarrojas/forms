@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Onboarding Form
+    pages:
+    - id: 1
+      name: new_nurse_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_nurse_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_nurse_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: new_nurse_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_nurse_credentials
+      label: Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: verify_credentials
+      label: Verify Credentials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Verified'', ''label'': ''Verified''}'
+      - '{''id'': 2, ''name'': ''Not Verified'', ''label'': ''Not Verified''}'
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Safety Check Form
+    pages:
+    - id: 1
+      name: patient_medication_allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_diseases
+      label: Diseases
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Asthma
+      required: true
+    - id: 3
+      name: patient_surgeries
+      label: Surgeries
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: patient_safety_questions
+      label: Safety Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_safety_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_emergency_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_allergies_info
+      label: Allergies Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_diseases_info
+      label: Diseases Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_surgeries_info
+      label: Surgeries Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_dental_record
+      label: Dental Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_eyesight
+      label: Eyesight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_heart_surgery
+      label: Heart Surgery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_lungs_history
+      label: Lungs History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_dental_condition
+      label: Dental Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_hair_history
+      label: Hair History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_skin_history
+      label: Skin History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: patient_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: patient_blood_type
+      label: Blood Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Meeting Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_id
+      label: ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false

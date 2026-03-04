@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: SEO Optimization Quotation Form
+    pages:
+    - id: 1
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''SEO Audit''}'
+      - '{''value'': ''Link Building''}'
+      - '{''value'': ''Content Optimization''}'
+      - '{''value'': ''Local SEO''}'
+      - '{''value'': ''Technical SEO''}'
+      - '{''value'': ''Onpage SEO''}'
+      required: false
+    - id: 3
+      name: current_location
+      label: current_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''US''}'
+      - '{''value'': ''Canada''}'
+      - '{''value'': ''Mexico''}'
+      - '{''value'': ''UK''}'
+      - '{''value'': ''Germany''}'
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: contact_phone
+      hint: 'Format: +1 (123) 456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_address
+      label: service_address
+      hint: 'Format: 123 Main St, Anytown USA 12345'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_city
+      label: service_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_province
+      label: service_province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_zip
+      label: service_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false

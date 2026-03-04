@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_planners_guild_membership_form
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non-Member
+      required: false
+    - id: 9
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: member_details_repeat
+      label: Member Details
+      hint: null
+      type: select_multiple
+      options:
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: member_type_options
+      label: Member Type
+      hint: null
+      type: select_multiple
+      options:
+      - Member
+      - Non-Member
+      required: false
+    - id: 15
+      name: member_type_repeat
+      label: Member Types
+      hint: null
+      type: select_multiple
+      options:
+      - '8'
+      - '14'
+      required: false
+    - id: 16
+      name: organization_repeat
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - '9'
+      - Other
+      required: false
+    - id: 17
+      name: address_repeat
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - Other
+      required: false
+    - id: 18
+      name: experience_years_repeat
+      label: Experience Years
+      hint: null
+      type: select_multiple
+      options:
+      - '7'
+      - Other
+      required: false
+    - id: 19
+      name: note_repeat
+      label: Note
+      hint: null
+      type: select_multiple
+      options:
+      - '10'
+      - Other
+      required: false
+    - id: 20
+      name: submit_2
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cancel_repeat
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: member_details_repeat_2
+      label: Member Details
+      hint: null
+      type: select_multiple
+      options:
+      - '2'
+      - '6'
+      required: false
+    - id: 23
+      name: experience_years_repeat_2
+      label: Experience Years
+      hint: null
+      type: select_multiple
+      options:
+      - '8'
+      - Other
+      required: false
+    - id: 24
+      name: note_repeat_2
+      label: Note
+      hint: null
+      type: select_multiple
+      options:
+      - '10'
+      - Other
+      required: false
+    - id: 25
+      name: organization_repeat_2
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - '9'
+      - Other
+      required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Purchase Order Form
+    pages:
+    - id: 1
+      name: supplier_information
+      label: -- Supplier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buyer_information
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: buyer_company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: po_number
+      label: Purchase Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: product_line_items
+      label: -- Product Line Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: item_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - Check
+      - Letter of Credit
+      - Net 30
+      required: true
+    - id: 20
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - FOB Shipping Point
+      - FOB Destination
+      - Express Delivery
+      - Standard Shipping
+      required: true

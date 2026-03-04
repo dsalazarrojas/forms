@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_progress_notes_form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: provider_id
+      label: provider_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_multiple
+      options:
+      - Anxious
+      - Depressed
+      - Euthymic
+      - Manic
+      - Normal
+      required: false
+    - id: 6
+      name: mood
+      label: Mood
+      hint: null
+      type: select_one
+      options:
+      - Anxious
+      - Depressed
+      - Euthymic
+      - Manic
+      - Normal
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Antidepressant
+      - Antipsychotic
+      - Benzodiazepine
+      - Lithium
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Pain
+      - Sedative
+      - Sleep Aid
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: social_history
+      label: Social History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: plan
+      label: Plan
+      hint: null
+      type: note
+      options: []
+      required: false

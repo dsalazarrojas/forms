@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Cosmetics Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Beauty and Cosmetics Order --
+      hint: Professional products delivered to your door
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: For tracking information
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: selection_header
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_category
+      label: Product Category - Skincare, Makeup, Haircare, etc.
+      hint: null
+      type: select_one
+      options:
+      - Skincare
+      - Makeup
+      - Haircare
+      - Fragrance
+      - Bath and Body
+      required: true
+    - id: 8
+      name: item_details
+      label: Item Name or Shade
+      hint: e.g., Matte Lipstick - Rose Pink
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: samples_selection
+      label: Samples to include - limit 3
+      hint: Choose your complimentary samples
+      type: select_multiple
+      options:
+      - Face Serum
+      - Night Cream
+      - Liquid Foundation
+      - Hair Mask
+      - Floral Perfume
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method - Afterpay, Card, PayPal
+      hint: null
+      type: select_one
+      options:
+      - Afterpay
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 12
+      name: total_amount
+      label: Total Order Amount
+      hint: Include tax and shipping
+      type: number
+      options: []
+      required: true

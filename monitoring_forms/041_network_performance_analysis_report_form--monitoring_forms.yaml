@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Performance Analysis Report Form
+    pages:
+    - id: 1
+      name: network_performance_analysis_report_form
+      label: Network Performance Analysis Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Monitoring
+      - Reporting
+      - Analysis
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: network_name
+      label: Network Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: network_performance
+      label: Network Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: latency
+      label: Latency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: jitter
+      label: Jitter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: packet_loss
+      label: Packet Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: packet_loss_average
+      label: Packet Loss Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: network_status
+      label: Network Status
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Warning
+      - Normal
+      - Unknown
+      required: false
+    - id: 15
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - Open
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Network
+      - Unknown
+      required: false
+    - id: 23
+      name: category_id_1
+      label: Category 1
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 24
+      name: category_id_2
+      label: Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

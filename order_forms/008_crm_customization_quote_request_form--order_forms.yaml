@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Customization Quote Request Form
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: industry
+      label: Business Industry
+      hint: null
+      type: select_one
+      options:
+      - SaaS
+      - Real Estate
+      - E-commerce
+      - Manufacturing
+      - Healthcare
+      - Finance
+      - Non-Profit
+      required: true
+    - id: 6
+      name: current_crm
+      label: Current CRM System
+      hint: if any
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_customization
+      label: -- Customization Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_goals
+      label: Primary Customization Goals
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Automated Workflow
+      - Custom Reporting
+      - Third-Party Integration
+      - User Interface Re-design
+      - API Development
+      - Data Migration
+      required: true
+    - id: 9
+      name: user_count
+      label: Estimated Number of CRM Users
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: integration_needs
+      label: Required Third-Party Integrations
+      hint: list systems like Slack, QuickBooks, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: custom_entities
+      label: Specific Custom Entities Needed
+      hint: e.g. Projects, Shipments, Subscriptions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_budget_timeline
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: budget_estimate
+      label: Estimated Budget for Customization
+      hint: in USD
+      type: select_one
+      options:
+      - Under $5k
+      - $5k to $15k
+      - $15k to $50k
+      - $50k Plus
+      required: true
+    - id: 14
+      name: desired_launch_date
+      label: Target Launch Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: additional_specs
+      label: Additional Technical Specifications
+      hint: null
+      type: text
+      options: []
+      required: false

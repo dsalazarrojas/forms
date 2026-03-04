@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spirit Wear Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_tshirt_size
+      label: select_tshirt
+      hint: null
+      type: select_multiple
+      options:
+      - x-large
+      - large
+      - medium
+      - small
+      required: true
+    - id: 4
+      name: select_tshirt_color
+      label: select_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      - yellow
+      required: true
+    - id: 5
+      name: tshirt_designs
+      label: select_designs
+      hint: null
+      type: select_one
+      options:
+      - logo
+      - mascot
+      - text
+      required: true
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false

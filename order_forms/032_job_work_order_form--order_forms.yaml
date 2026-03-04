@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Work Order Form
+    pages:
+    - id: 1
+      name: job_work_order_form
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_order_form_description
+      label: job_order_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_uploads
+      label: file_uploads
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 7
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false

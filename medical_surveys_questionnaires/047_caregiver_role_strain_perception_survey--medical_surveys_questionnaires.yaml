@@ -1,0 +1,292 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Role Strain Perception Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: caregiving_duration
+        label: How Long Have You Been a Caregiver?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: caregiver_type
+        label: Type of Caregiver
+        hint: Family member, professional, both?
+        type: select_one
+        options:
+          - Family member only
+          - Professional caregiver only
+          - Both family and professional
+        required: true
+      - id: 5
+        name: care_recipient_relationship
+        label: Relationship to Care Recipient
+        hint: Who are you caring for?
+        type: select_one
+        options:
+          - Spouse or partner
+          - Adult child
+          - Parent
+          - Sibling
+          - Grandparent
+          - Grandchild
+          - Other family member
+          - Non-family member
+        required: true
+      - id: 6
+        name: role_strain_feeling
+        label: Do You Feel Role Strain or Burden?
+        hint: Feeling overwhelmed by caregiving?
+        type: select_one
+        options:
+          - Strongly agree - significant strain
+          - Agree - moderate strain
+          - Neutral - some strain
+          - Disagree - minimal strain
+          - Strongly disagree - no strain
+        required: true
+      - id: 7
+        name: physical_demands
+        label: Physical Demands Feel Overwhelming
+        hint: null
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 8
+        name: emotional_demands
+        label: Emotional Demands Are Difficult
+        hint: Emotional toll of caregiving
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 9
+        name: time_management
+        label: Difficult to Balance Caregiving with Other Responsibilities
+        hint: Work, family, personal time?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 10
+        name: financial_stress
+        label: Financial Strain from Caregiving
+        hint: Cost of caregiving affects finances?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 11
+        name: social_isolation
+        label: Feel Socially Isolated Due to Caregiving
+        hint: Lack of social interaction
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 12
+        name: relationship_strain
+        label: Caregiver Role Affects Relationships
+        hint: With spouse, children, friends?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 13
+        name: role_conflict
+        label: Role Conflict - Too Many Demands
+        hint: Conflicting responsibilities?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 14
+        name: role_ambiguity
+        label: Unclear About Caregiver Expectations
+        hint: Don't know what's expected of you?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 15
+        name: recognition
+        label: Feel Lack of Recognition for Caregiving
+        hint: Unappreciated or unnoticed?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 16
+        name: support_adequacy
+        label: Have Adequate Support
+        hint: Practical help available?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 17
+        name: control_perception
+        label: Feel In Control of Caregiving Situation
+        hint: Able to manage demands?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 18
+        name: coping_ability
+        label: Able to Cope with Caregiver Demands
+        hint: Managing stress effectively?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 19
+        name: meaning_fulfillment
+        label: Find Meaning and Fulfillment in Caregiving
+        hint: Positive aspects of caregiving?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 20
+        name: health_impact
+        label: Caregiving Affects Your Physical Health
+        hint: Negative impact on health?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 21
+        name: mental_health_impact
+        label: Caregiving Affects Mental Health
+        hint: Anxiety, depression, stress?
+        type: select_one
+        options:
+          - Strongly agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly disagree
+        required: true
+      - id: 22
+        name: major_strain_sources
+        label: Major Sources of Strain
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Physical care demands
+          - Emotional demands
+          - Time constraints
+          - Financial burden
+          - Lack of support
+          - Uncertain prognosis
+          - Personality conflicts
+          - Behavior management
+          - Medical complexity
+          - Loss of independence (care recipient)
+        required: true
+      - id: 23
+        name: coping_strategies
+        label: Effective Coping Strategies Used
+        hint: What helps you manage?
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: needed_support
+        label: What Support Would Help Most?
+        hint: What do you need?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback?
+        type: text
+        options: []
+        required: false

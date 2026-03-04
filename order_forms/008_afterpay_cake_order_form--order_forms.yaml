@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Cake Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Custom Cake Order Form --
+      hint: Professional bakery services with flexible payment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Pickup or Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: Pickup or Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type - Birthday, Wedding, etc.
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Baby Shower
+      - Corporate Event
+      - Other
+      required: true
+    - id: 7
+      name: cake_header
+      label: -- Cake Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cake_size
+      label: Cake Size
+      hint: null
+      type: select_one
+      options:
+      - 6 inch Round
+      - 8 inch Round
+      - 10 inch Round
+      - Half Sheet
+      - Full Sheet
+      required: true
+    - id: 9
+      name: flavor_selection
+      label: Flavor Selection
+      hint: Choose your base cake flavor
+      type: select_one
+      options:
+      - Vanilla Bean
+      - Chocolate Ganache
+      - Red Velvet
+      - Lemon Zest
+      - Carrot Cake
+      required: true
+    - id: 10
+      name: frosting_type
+      label: Frosting Type
+      hint: null
+      type: select_one
+      options:
+      - Buttercream
+      - Cream Cheese
+      - Fondant
+      - Whipped Cream
+      required: true
+    - id: 11
+      name: cake_message
+      label: Message on Cake
+      hint: Text to be written in icing
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: design_instructions
+      label: Specific Design Instructions
+      hint: Colors, themes, or special decorations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_option
+      label: Payment Option
+      hint: Select Afterpay for installment payments
+      type: select_one
+      options:
+      - Afterpay
+      - Full Payment (Credit Card)
+      - Cash on Pickup
+      required: true

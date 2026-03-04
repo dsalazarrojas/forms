@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Physical Exam Form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: past_medical
+      label: Past Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: systems_review
+      label: Systems Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: text
+      options: []
+      required: false

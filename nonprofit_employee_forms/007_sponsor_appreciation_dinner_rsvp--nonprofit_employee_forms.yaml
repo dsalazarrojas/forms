@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Appreciation Dinner RSVP
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_date
+      label: Dinner Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: attending
+      label: Are you attending?
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Cannot Attend
+      - Maybe
+      required: false
+    - id: 8
+      name: guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: dietary_needs
+      label: Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Vegan
+      - Vegetarian
+      - Gluten-free
+      - None
+      required: false

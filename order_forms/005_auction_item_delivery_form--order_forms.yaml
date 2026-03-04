@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Delivery Form
+    pages:
+    - id: 1
+      name: buyer_info_section
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_bidder_number
+      label: Bidder Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purchase_details_section
+      label: -- Purchase Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: invoice_number
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: items_purchased
+      label: Items for Delivery
+      hint: List lot numbers or short descriptions
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_options_section
+      label: -- Delivery Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Local Pickup
+      - Local Delivery (Carrier)
+      - Domestic Shipping (FedEx/UPS)
+      - International Shipping
+      - White Glove Moving Service
+      required: true
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_delivery_date
+      label: Requested Delivery Date
+      hint: We will contact you to confirm
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: specific_instructions
+      label: Special Handling Instructions
+      hint: e.g., Gate code, fragile items, stairs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_insurance
+      label: Would you like to add Shipping Insurance?
+      hint: Recommended for high-value items
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: signature_required
+      label: Require Signature on Delivery?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canoe Club Registration Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canoe Club Membership Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Welcome to our Canoe Club! Complete this registration to become a member
+        and enjoy paddling adventures with us.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required to confirm age
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: experience_header
+      label: -- Paddling Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: experience_level
+      label: What is your paddling experience level?
+      hint: Select one
+      type: select_one
+      options:
+      - Beginner - Never paddled before
+      - Beginner - Few times
+      - Intermediate - Regular paddler
+      - Advanced - Experienced paddler
+      - Expert - Professional or competitive
+      required: true
+    - id: 17
+      name: canoe_experience
+      label: Have you paddled a canoe specifically?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, a few times
+      - No, but have paddled other watercraft
+      - No, never paddled
+      required: true
+    - id: 18
+      name: swim_ability
+      label: Can you swim?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, strong swimmer
+      - Yes, adequate swimmer
+      - Yes, weak swimmer
+      - No, cannot swim
+      required: true
+    - id: 19
+      name: water_comfort
+      label: Comfort level on the water
+      hint: Select one
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Somewhat Comfortable
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 20
+      name: interests_header
+      label: -- Club Interests and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: activities_interested
+      label: What types of paddling activities interest you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recreational paddling
+      - Racing or competition
+      - Touring and exploration
+      - Whitewater paddling
+      - Flat water paddling
+      - Social events
+      - Instruction and training
+      - Environmental conservation
+      required: false
+    - id: 22
+      name: participation_frequency
+      label: How often do you plan to participate?
+      hint: Select one
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      - Seasonal
+      - Undecided
+      required: true
+    - id: 23
+      name: goals
+      label: What are your paddling goals?
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: membership_header
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: membership_type
+      label: Membership Type
+      hint: Select one
+      type: select_one
+      options:
+      - Individual Membership
+      - Family Membership
+      - Student Membership
+      - Senior Membership
+      - Day Pass
+      required: true
+    - id: 26
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Name of contact
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_relationship
+      label: Relationship to You
+      hint: Relationship
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: liability_header
+      label: -- Liability and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: liability_waiver
+      label: I agree to the liability waiver and assume all risks
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true
+    - id: 32
+      name: safety_rules
+      label: I have read and will follow all club safety rules
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true

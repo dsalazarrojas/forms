@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Grant Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grant_award_title
+      label: Grant Award Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grant_funding_start
+      label: Grant Funding Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: grant_funding_end
+      label: Grant Funding End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 8
+      name: application_notes
+      label: Application Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: grant_type
+      label: Grant Type
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit
+      - Foundation
+      - Government
+      required: false
+    - id: 11
+      name: grant_urgency
+      label: Grant Urgency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: grant_funds_status
+      label: Grant Funds Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grant_application_date
+      label: Grant Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: grant_fund_request
+      label: Grant Fund Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: grant_funder
+      label: Grant Funder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: grant_fund_type
+      label: Grant Funder Type
+      hint: null
+      type: select_one
+      options:
+      - Government
+      - Nonprofit
+      - Foundation
+      required: false
+    - id: 18
+      name: grant_funding_source
+      label: Grant Funding Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: application_deadline
+      label: Application Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: grant_total_amount
+      label: Grant Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: grant_currency
+      label: Grant Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - Other
+      required: false
+    - id: 22
+      name: grant_frequency
+      label: Grant Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Other
+      required: false
+    - id: 23
+      name: grant_start_date
+      label: Grant Start Date
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 24
+      name: grant_end_date
+      label: Grant End Date
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 25
+      name: grant_funding_type
+      label: Grant Funding Type
+      hint: null
+      type: select_one
+      options:
+      - Recurring
+      - Non-Recurring
+      - One-time
+      required: false

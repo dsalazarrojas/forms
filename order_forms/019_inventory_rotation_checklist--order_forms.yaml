@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Rotation Checklist
+    pages:
+    - id: 1
+      name: product_selection
+      label: Select a product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: usage_start_date
+      label: Usage start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: usage_end_date
+      label: Usage end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rotation_interval
+      label: Rotation interval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rotation_status
+      label: Rotation status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

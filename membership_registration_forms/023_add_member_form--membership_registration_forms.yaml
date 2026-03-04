@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Add Member Form
+    pages:
+    - id: 1
+      name: --membership_information
+      label: -- Membership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Primary contact for membership
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For membership communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional mobile number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_level
+      label: Membership level
+      hint: Select desired membership tier
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Student
+      - Senior
+      required: true
+    - id: 6
+      name: start_date
+      label: Membership start date
+      hint: Desired effective date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: billing_information
+      label: Billing information summary
+      hint: Payment method or billing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For on site activities
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interests
+      label: Interests and activities
+      hint: Check areas of interest
+      type: select_multiple
+      options:
+      - Events
+      - Workshops
+      - Volunteering
+      - Newsletter
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any special requests or accessibility needs
+      type: text
+      options: []
+      required: false

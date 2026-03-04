@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Work Order Form
+    pages:
+    - id: 1
+      name: general_work_order_form
+      label: General Work Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_order_number
+      label: work_order_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: work_order_date
+      label: work_order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: task_description
+      label: task_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: materials_needed
+      label: materials_needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_order_status
+      label: work_order_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: true
+    - id: 12
+      name: work_order_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Order Forms
+      - Service Forms
+      - Quote Forms
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 14
+      name: work_order_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 15
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: false
+    - id: 21
+      name: work_order_id
+      label: Work Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false

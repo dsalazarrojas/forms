@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_sound_drop_order_form
+    pages:
+    - id: 1
+      name: custom_sound_drop_order_form_title
+      label: Custom Sound Drop Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist
+      label: Artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: drop_type
+      label: Drop Type
+      hint: null
+      type: select_one
+      options:
+      - Drop Type 1
+      - Drop Type 2
+      - Drop Type 3
+      required: false
+    - id: 4
+      name: drop_status
+      label: Drop Status
+      hint: null
+      type: select_multiple
+      options:
+      - Drop Status 1
+      - Drop Status 2
+      - Drop Status 3
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

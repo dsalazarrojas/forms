@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: in_kind_donation_form
+    pages:
+    - id: 1
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - Donations of goods
+      - Donations of services
+      - Donations of volunteer time
+      required: false
+    - id: 2
+      name: goods_donated
+      label: Goods Donated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_donated
+      label: Services Donated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_time_donated
+      label: Volunteer Time Donated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recipient_email
+      label: Recipient Email
+      hint: Enter the recipient's email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: recipient_phone
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: Briefly describe the item
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_email
+      label: Donor Email
+      hint: Enter the donor's email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_donated
+      label: Total Donated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nonprofit_organization
+      label: Nonprofit Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: donor_relationship
+      label: Donor Relationship
+      hint: null
+      type: select_one
+      options:
+      - Friend of
+      - Family member of
+      - Coworker of
+      - Volunteer of
+      - Donor of
+      - Other
+      required: false
+    - id: 20
+      name: donor_notes
+      label: Donor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: nonprofit_address
+      label: Nonprofit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recipient_country
+      label: Recipient Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recipient_zip
+      label: Recipient Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: donor_zip
+      label: Donor Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

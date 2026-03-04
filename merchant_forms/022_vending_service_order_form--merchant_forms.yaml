@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: vending_service_order_form
+    pages:
+    - id: 1
+      name: provider_info
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_info
+      label: Machine Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: restock_request
+      label: Restock Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: quantity_received
+      label: Quantity Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: restock_status
+      label: Restock Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - In Transit
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - manager
+      - customer
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false

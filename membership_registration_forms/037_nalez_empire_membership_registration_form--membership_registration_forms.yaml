@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nalez Empire Membership Registration Form
+    pages:
+    - id: 1
+      name: user_input_name
+      label: Registration Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_input_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_input_select_one
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Quarterly''}'
+      - '{''id'': 3, ''label'': ''Annually''}'
+      required: false
+    - id: 5
+      name: user_input_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: user_input_time
+      label: Membership End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_input_note
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_input_select_multiple
+      label: Special Abilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Skill 1''}'
+      - '{''id'': 2, ''label'': ''Skill 2''}'
+      - '{''id'': 3, ''label'': ''Skill 3''}'
+      required: false
+    - id: 9
+      name: user_input_username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_input_password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_input_password_confirm
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_input_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I Agree''}'
+      - '{''id'': 2, ''label'': ''I Do Not Agree''}'
+      required: false

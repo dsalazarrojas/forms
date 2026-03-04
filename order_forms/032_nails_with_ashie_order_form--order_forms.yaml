@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nails With Ashie Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: nail_color
+      label: Nail Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nail_size
+      label: Nail Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nail_shape
+      label: Nail Shape
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: nail_finish
+      label: Nail Finish
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: technician_comments
+      label: Technician Comments
+      hint: null
+      type: note
+      options: []
+      required: false

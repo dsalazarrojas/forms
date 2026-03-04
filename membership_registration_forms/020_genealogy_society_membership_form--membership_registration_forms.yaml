@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Genealogy Society Membership Form
+    pages:
+    - id: 1
+      name: genealogy_society_membership_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: genealogy_society_membership_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: genealogy_interest
+      label: What is your genealogy interest?
+      hint: null
+      type: select_one
+      options:
+      - Genealogy research
+      - Genealogical education
+      - Genealogy research assistance
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: member_type
+      label: What type of member are you applying to be?
+      hint: null
+      type: select_multiple
+      options:
+      - New Member
+      - Associate Member
+      - Regular Member
+      - Institutional Member
+      - Family Member
+      required: false
+    - id: 8
+      name: genealogy_society_membership_form_second_page
+      label: Second Page
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Production Counter Device Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: device_description
+      label: Device Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      required: true
+    - id: 8
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_note
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: shift_start
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: shift_end
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      required: true
+    - id: 19
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      required: false
+    - id: 20
+      name: production_id
+      label: Production ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: production_notes
+      label: Production Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: device_model
+      label: Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      required: false
+    - id: 24
+      name: customer_po
+      label: Customer PO
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Association Officer Voting Form
+    pages:
+    - id: 1
+      name: officer_position
+      label: Officer Position
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: chapter_name
+      label: Chapter Name
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: election_year
+      label: Election Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vote_cast
+      label: Vote Cast
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vote_time
+      label: Vote Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: confirm_message
+      label: Confirm Message
+      hint: Please confirm your submission
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: User ID of person assigned to this form
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

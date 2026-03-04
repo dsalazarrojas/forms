@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Service Renewal Form
+    pages:
+    - id: 1
+      name: renewal_service_id
+      label: renewal_service_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_id
+      label: service_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: renewal_date
+      label: renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: renewal_time
+      label: renewal_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_renewal
+      label: reason_for_renewal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Voice''}'
+      - '{''value'': ''Data''}'
+      - '{''value'': ''Internet''}'
+      required: false
+    - id: 8
+      name: service_contract_id
+      label: service_contract_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: renewal_terms
+      label: renewal_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_level
+      label: customer_service_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bronze''}'
+      - '{''value'': ''Silver''}'
+      - '{''value'': ''Gold''}'
+      required: false
+    - id: 11
+      name: customer_service_level_other
+      label: customer_service_level_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_cycle
+      label: billing_cycle
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 13
+      name: billing_cycle_other
+      label: billing_cycle_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: renewal_status
+      label: renewal_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 15
+      name: renewal_status_other
+      label: renewal_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_city
+      label: billing_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_state
+      label: billing_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_zip
+      label: billing_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_country
+      label: billing_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false

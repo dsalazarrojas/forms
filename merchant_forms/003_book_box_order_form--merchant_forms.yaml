@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Box Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postal_code
+      label: Postal or ZIP Code
+      hint: Your postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - New Zealand
+      - Other
+      required: true
+    - id: 9
+      name: box_size
+      label: Book Box Size
+      hint: Select the size of book box
+      type: select_one
+      options:
+      - Small Box up to 10 books
+      - Medium Box up to 25 books
+      - Large Box up to 50 books
+      - Extra Large Box up to 100 books
+      required: true
+    - id: 10
+      name: book_genre_preference
+      label: Genre Preferences
+      hint: Select genres you are interested in
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      - Children Books
+      - Young Adult
+      required: true
+    - id: 11
+      name: specific_book_titles
+      label: Specific Book Titles
+      hint: List any specific books you want
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity_ordered
+      label: Total Quantity of Books
+      hint: Approximate number of books
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: gift_wrapping
+      label: Gift Wrapping Service
+      hint: Would you like gift wrapping
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: gift_message
+      label: Gift Message
+      hint: Optional message for gift card
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_preference
+      label: Delivery Preference
+      hint: How would you like your order delivered
+      type: select_one
+      options:
+      - Standard Shipping 5-7 days
+      - Express Shipping 2-3 days
+      - Overnight Shipping
+      - Store Pickup
+      required: true
+    - id: 16
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When would you like delivery
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: Select your payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 18
+      name: promo_code
+      label: Promo Code
+      hint: Enter any promotional code
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any instructions for the delivery
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: newsletter_signup
+      label: Subscribe to our newsletter
+      hint: Get updates on new books and promotions
+      type: select_one
+      options:
+      - Yes please
+      - No thanks
+      required: true

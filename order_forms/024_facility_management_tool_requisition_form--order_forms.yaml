@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Tool Requisition Form
+    pages:
+    - id: 1
+      name: facility_management_form_1
+      label: Requested Tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: facility_management_form_2
+      label: Tool Category
+      hint: null
+      type: select_one
+      options:
+      - Tool
+      - Equipment
+      - Supplies
+      required: false
+    - id: 3
+      name: facility_management_form_3
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_management_form_4
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: facility_management_form_5
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: facility_management_form_6
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: facility_management_form_7
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prophets
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - Assigned
+      - Manager
+      - Supervisor
+      required: false
+    - id: 9
+      name: facility_management_form_9
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: facility_management_form_10
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_management_form_11
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Complaint Form
+    pages:
+    - id: 1
+      name: vendor_complaint_form
+      label: Vendor Complaint Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: Enter the name of the vendor you are complaining about
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_description
+      label: Complaint Description
+      hint: Enter a detailed description of your complaint
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: complaint_time
+      label: Complaint Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Obituary Order Form
+    pages:
+    - id: 1
+      name: obituary_form
+      label: Obituary Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: funeral_home
+      label: Funeral Home
+      hint: Enter the funeral home name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funeral_director
+      label: Funeral Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: obituary_type
+      label: Obituary Type
+      hint: Select a type
+      type: select_one
+      options:
+      - Standard Obituary
+      - Obituary with Photo
+      - Obituary with Eulogy
+      required: false
+    - id: 5
+      name: obituary_text
+      label: Obituary Text
+      hint: Enter a description of the deceased
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: obituary_form_fields
+      label: Additional Fields
+      hint: Enter additional fields for the obituary
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: funeral_homes
+      label: Funeral Homes
+      hint: List the funeral homes involved
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_clothing_order_form
+    pages:
+    - id: 1
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit''}'
+      - '{''id'': 2, ''name'': ''Debit''}'
+      - '{''id'': 3, ''name'': ''PayPal''}'
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Credit''}'
+      - '{''id'': 2, ''name'': ''Debit''}'
+      - '{''id'': 3, ''name'': ''PayPal''}'
+      required: false
+    - id: 6
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''Refunded''}'
+      required: false

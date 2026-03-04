@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Funding Evaluation Form
+    pages:
+    - id: 1
+      name: funding_request
+      label: Funding Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Impact'', ''label'': ''Impact''}'
+      - '{''id'': 2, ''name'': ''Efficiency'', ''label'': ''Efficiency''}'
+      - '{''id'': 3, ''name'': ''Effectiveness'', ''label'': ''Effectiveness''}'
+      - '{''id'': 4, ''name'': ''Feasibility'', ''label'': ''Feasibility''}'
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_note
+      label: Evaluation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

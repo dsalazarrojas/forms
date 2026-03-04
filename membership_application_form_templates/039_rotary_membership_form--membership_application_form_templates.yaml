@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rotary Membership Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: membership-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: user_input_6
+      label: membership-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: user_input_7
+      label: membership-plan-terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: membership-plan-description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: user_input_9
+      label: membership-plan-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: user_input_10
+      label: membership-plan-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: user_input_11
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_stigma_in_healthcare_settings_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience_stigma
+      label: experience_of_stigma
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 3
+      name: attitudes_towards_stigma
+      label: attitudes_towards_stigma
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''strongly_agree'', ''value'': ''strongly_agree''}'
+      - '{''label'': ''somewhat_agree'', ''value'': ''somewhat_agree''}'
+      - '{''label'': ''neutral'', ''value'': ''neutral''}'
+      - '{''label'': ''somewhat_disagree'', ''value'': ''somewhat_disagree''}'
+      - '{''label'': ''strongly_disagree'', ''value'': ''strongly_disagree''}'
+      required: true
+    - id: 4
+      name: comfort_level
+      label: comfort_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_high''}'
+      - '{''value'': ''high''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''low''}'
+      - '{''value'': ''very_low''}'
+      required: true
+    - id: 5
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: demographic_information
+      label: demographic_information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: institution
+      label: institution
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Hospital'', ''value'': ''Hospital''}'
+      - '{''label'': ''Clinic'', ''value'': ''Clinic''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High School Diploma or Equivalent'', ''value'': ''High School
+        Diploma or Equivalent''}'
+      - '{''label'': ''Bachelors'', ''value'': ''Bachelors''}'
+      - '{''label'': ''Master'', ''value'': ''Master''}'
+      - '{''label'': ''Doctoral'', ''value'': ''Doctoral''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 16
+      name: shift_worked
+      label: shift_worked
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning'', ''value'': ''Morning''}'
+      - '{''label'': ''Afternoon'', ''value'': ''Afternoon''}'
+      - '{''label'': ''Evening'', ''value'': ''Evening''}'
+      - '{''label'': ''Night'', ''value'': ''Night''}'
+      required: true
+    - id: 17
+      name: days_per_week
+      label: days_per_week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: work_shift_start_time
+      label: work_shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: work_shift_end_time
+      label: work_shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: days_off_per_week
+      label: days_off_per_week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clinical'', ''value'': ''Clinical''}'
+      - '{''label'': ''Non-Clinical'', ''value'': ''Non-Clinical''}'
+      required: true
+    - id: 22
+      name: work_status
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
+      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
+      - '{''label'': ''Contract'', ''value'': ''Contract''}'
+      - '{''label'': ''Temporary'', ''value'': ''Temporary''}'
+      required: true
+    - id: 23
+      name: job_title_change
+      label: job_title_change
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 24
+      name: reason_for_job_title_change
+      label: reason_for_job_title_change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

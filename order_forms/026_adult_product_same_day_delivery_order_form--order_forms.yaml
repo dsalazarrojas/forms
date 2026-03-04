@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Product Same Day Delivery Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Required for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: For order confirmation and receipt
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_delivery
+      label: -- Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Please include apartment or suite number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_window
+      label: Delivery Window
+      hint: Select your preferred same-day time slot
+      type: select_one
+      options:
+      - 10am-12pm
+      - 12pm-2pm
+      - 2pm-4pm
+      - 4pm-6pm
+      - 6pm-8pm
+      required: true
+    - id: 8
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: e.g. Gate codes or drop-off location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_products
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: products_ordered
+      label: Products Ordered
+      hint: Select items to include in this delivery
+      type: select_multiple
+      options:
+      - Product A
+      - Product B
+      - Product C
+      - Product D
+      - Product E
+      required: true
+    - id: 11
+      name: total_quantity
+      label: Total Quantity
+      hint: Total number of items
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: order_total_cost
+      label: Order Total Cost
+      hint: Including tax and delivery fee
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_verification
+      label: -- Age Verification and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: age_verification_18_plus
+      label: Age Verification 18 plus
+      hint: ID will be checked upon delivery
+      type: select_one
+      options:
+      - I confirm I am 18 or older
+      - I am under 18
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash on Delivery
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disposable Gloves Quotation Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 8
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

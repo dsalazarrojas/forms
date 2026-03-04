@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Movement Community Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registrant_email
+      label: Registrant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Registrant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: registrant_occupation
+      label: Registrant Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registrant_motivation
+      label: Main Motivation
+      hint: What motivates you to join the community?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registrant_address
+      label: Registrant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registrant_notes
+      label: Registrant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: registrant_interests
+      label: Registrant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Movement
+      - Social
+      - Community
+      required: true
+    - id: 9
+      name: registrant_agreed
+      label: Agree to Community Rules
+      hint: null
+      type: select_one
+      options:
+      - I agree to the Community Rules
+      - I do not agree to the Community Rules
+      required: true
+    - id: 10
+      name: registrant_date
+      label: Date of interest
+      hint: (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false

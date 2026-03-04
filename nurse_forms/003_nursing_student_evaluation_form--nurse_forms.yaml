@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Student Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instructor_rating
+      label: instructor_rating
+      hint: Rate your instructor
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: class_rating
+      label: class_rating
+      hint: Rate the course
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: instructor_feedback
+      label: instructor_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_feedback
+      label: class_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

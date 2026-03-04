@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: theater_membership_subscription_form
+    pages:
+    - id: 1
+      name: theater_name
+      label: Theater Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Premium Plus
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      required: false
+    - id: 9
+      name: membership_date
+      label: Membership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

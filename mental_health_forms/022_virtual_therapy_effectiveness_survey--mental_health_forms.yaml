@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Therapy Effectiveness Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Welcome to the Virtual Therapy Effectiveness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: How did you feel during your therapy sessions?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with your therapy?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: engagement
+      label: How engaged did you feel in therapy?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supportiveness
+      label: How supportive did you feel your therapist?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: communication
+      label: How clear were the explanations about your therapy?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: time_commitment
+      label: How much time did you spend on therapy?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: progress
+      label: How much progress did you feel you made in therapy?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: recommendations
+      label: What are your recommendations for this Virtual Therapy Program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Do you have any comments or suggestions for this Virtual Therapy Program?
+      hint: null
+      type: text
+      options: []
+      required: false

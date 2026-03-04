@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Database Optimization Quotation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: database_info
+      label: Database Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: database_name
+      label: Database Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: database_size
+      label: Database Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_info
+      label: Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: additional_service
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Backup
+      - Cloud
+      - Database
+      required: false
+    - id: 12
+      name: quotation_request
+      label: Quotation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: quote_time
+      label: Quote Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

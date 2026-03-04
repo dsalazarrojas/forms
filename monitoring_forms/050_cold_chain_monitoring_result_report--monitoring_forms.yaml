@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Chain Monitoring Result Report
+    pages:
+    - id: 1
+      name: section_report
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: reporting_person
+      label: Reporting Person Name
+      hint: Who is submitting this report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_facility
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility_name
+      label: Facility Name
+      hint: Name of cold room or storage facility
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Cold Room
+      - Refrigerated Warehouse
+      - Transport Vehicle
+      - Portable Unit
+      - Other
+      required: true
+    - id: 8
+      name: facility_location
+      label: Facility Location
+      hint: Geographic location or address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_temperature
+      label: -- Temperature Monitoring --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: target_temperature
+      label: Target Temperature Range
+      hint: Specified in degrees Celsius
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_temperature
+      label: Current Temperature
+      hint: Measured temperature in Celsius
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: temperature_status
+      label: Temperature Status
+      hint: Is temperature within range
+      type: select_one
+      options:
+      - Within range
+      - Above range
+      - Below range
+      - Critical deviation
+      required: true
+    - id: 13
+      name: min_temperature_24h
+      label: Minimum Temperature (last 24 hours)
+      hint: Lowest temperature recorded
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: max_temperature_24h
+      label: Maximum Temperature (last 24 hours)
+      hint: Highest temperature recorded
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_alarms
+      label: -- Alarm Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: alarm_status
+      label: Alarm Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - High temperature alarm
+      - Low temperature alarm
+      - Sensor malfunction
+      - Multiple alarms
+      required: true
+    - id: 17
+      name: alarm_activated
+      label: When was alarm activated
+      hint: Date and time if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alarm_resolved
+      label: Has alarm been resolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In progress
+      required: false
+    - id: 19
+      name: section_actions
+      label: -- Corrective Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: corrective_action_needed
+      label: Corrective Action Taken
+      hint: What action was taken if needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_effectiveness
+      label: Effectiveness of Corrective Action
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Partially effective
+      - Not effective
+      - Not applicable
+      required: false
+    - id: 22
+      name: section_equipment
+      label: -- Equipment Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: equipment_status
+      label: Equipment Status
+      hint: Overall condition of cold chain equipment
+      type: select_one
+      options:
+      - Normal operation
+      - Minor issues
+      - Major issues
+      - Equipment failure
+      required: true
+    - id: 24
+      name: maintenance_needed
+      label: Maintenance Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: maintenance_details
+      label: Maintenance Details
+      hint: Description of maintenance required
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_observations
+      label: -- Additional Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: product_integrity
+      label: Product Integrity Assessment
+      hint: Condition of stored products
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: general_observations
+      label: General Observations
+      hint: Any other relevant notes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_follow_up
+      label: -- Follow-up Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: follow_up_needed
+      label: Follow-up Action Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 31
+      name: follow_up_details
+      label: Follow-up Details
+      hint: Specific actions needed
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: follow_up_date
+      label: Scheduled Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

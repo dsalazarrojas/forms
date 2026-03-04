@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Sports Registration Form
+    pages:
+    - id: 1
+      name: student_sports_registration_form
+      label: Registration form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade
+      label: Student grade
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Parent phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_sport
+      label: Student sport
+      hint: null
+      type: select_multiple
+      options:
+      - Baseball
+      - Basketball
+      - Soccer
+      - Softball
+      required: true
+    - id: 6
+      name: date_available
+      label: Date available
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_available
+      label: Time available
+      hint: null
+      type: time
+      options: []
+      required: true

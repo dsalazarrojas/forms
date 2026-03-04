@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Hours Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant full name
+      hint: Full legal name of volunteer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_id
+      label: Participant ID or reference
+      hint: School or case number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_date
+      label: Service date
+      hint: Date of the volunteer activity
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: Activity start time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End time
+      hint: Activity end time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: total_hours
+      label: Total hours completed
+      hint: Decimal hours accepted
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: activity_description
+      label: Activity description
+      hint: Brief summary of tasks performed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_signature
+      label: Supervisor name for verification
+      hint: Supervisor verifying hours
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Modem Change Appointment Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appointment_details
+      label: appointment_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tech_info
+      label: tech_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: technician_notes
+      label: technician_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_appointment
+      label: confirm_appointment
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm Appointment
+      - Reschedule
+      - No Show
+      required: true
+    - id: 10
+      name: tech_confirm_appointment
+      label: confirm_appointment
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm Appointment
+      - Reschedule
+      - No Show
+      required: false
+    - id: 11
+      name: technician_id
+      label: technician_id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Reflection Journal
+    pages:
+    - id: 1
+      name: first_reflection
+      label: First Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: track_mood
+      label: Track Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Fearful
+      - Calm
+      - Anxious
+      required: false
+    - id: 3
+      name: intensity_score
+      label: Intensity Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: next_reflection
+      label: Next Reflection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: educator_notes
+      label: Educator Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Incomplete
+      required: false
+    - id: 9
+      name: completed_on
+      label: Completed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

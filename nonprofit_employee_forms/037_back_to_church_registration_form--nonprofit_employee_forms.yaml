@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To Church Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For church communications
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interested_in_volunteering
+      label: Interested in volunteering
+      hint: Check if you want to help
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 5
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Ministries or programs
+      type: select_multiple
+      options:
+      - Children
+      - Youth
+      - Music
+      - Outreach
+      - Hospitality
+      required: false
+    - id: 6
+      name: previous_attendance
+      label: Previous attendance at our church
+      hint: New attendee or returning
+      type: select_one
+      options:
+      - New
+      - Returning
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prayer_request
+      label: Prayer request
+      hint: Optional prayer needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_contact
+      label: Consent to be contacted
+      hint: Church may contact you with updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: registration_date
+      label: Registration date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

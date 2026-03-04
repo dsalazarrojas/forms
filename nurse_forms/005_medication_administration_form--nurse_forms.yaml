@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_administration_form
+    pages:
+    - id: 1
+      name: medication_administration_form_1
+      label: medication_administration_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_administration_form_2
+      label: medication_administration_form_2_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medication_administration_form_3
+      label: medication_administration_form_3_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication_administration_form_4
+      label: medication_administration_form_4_label
+      hint: A medication administration form is a document that allows health care
+        professionals to administer medications to patients. No code is required!
+      type: text
+      options: []
+      required: false

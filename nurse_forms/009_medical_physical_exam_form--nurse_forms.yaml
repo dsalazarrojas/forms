@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Physical Exam Form
+    pages:
+    - id: 1
+      name: medical_physical_exam_form_page_1
+      label: patient_identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: name
+      hint: Please fill in the patient's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: past_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: chief_complaint
+      label: main_symptom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physical_exam
+      label: physical_exam
+      hint: null
+      type: select_one
+      options:
+      - Head and neck
+      - Face and neck
+      - Back
+      - Abdomen
+      - Pelvis
+      required: false
+    - id: 6
+      name: examination
+      label: examination
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vital_signs
+      label: vital_signs
+      hint: null
+      type: select_multiple
+      options:
+      - Blood pressure
+      - Pulse
+      - Respiratory rate
+      - Body temperature
+      - Oxygen saturation
+      - Heart rate
+      - Body mass index
+      required: false
+    - id: 8
+      name: medical_history
+      label: family_history
+      hint: null
+      type: select_one
+      options:
+      - Positive family history
+      - Negative family history
+      - No family history available
+      required: false
+    - id: 9
+      name: medical_diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication_use
+      label: medication_use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 12
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: note
+      options: []
+      required: false

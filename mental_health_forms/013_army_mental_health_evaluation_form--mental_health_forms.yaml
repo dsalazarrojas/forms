@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Army Mental Health Evaluation Form
+    pages:
+        - id: 1
+          name: section_identification
+          label: -- Identification --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: soldier_name
+          label: Soldier Full Name
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 3
+          name: service_number
+          label: Service Number
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 4
+          name: rank
+          label: Rank
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 5
+          name: unit
+          label: Unit Assignment
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 6
+          name: evaluation_date
+          label: Date of Evaluation
+          hint: null
+          type: date
+          options: []
+          required: true
+        - id: 7
+          name: evaluator_name
+          label: Evaluator Name and Credentials
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 8
+          name: section_symptoms
+          label: -- Symptom Assessment --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 9
+          name: mood_affect
+          label: Mood and Affect
+          hint: null
+          type: select_one
+          options:
+            - Normal and stable
+            - Mildly elevated or depressed
+            - Moderately elevated or depressed
+            - Severely elevated or depressed
+          required: true
+        - id: 10
+          name: anxiety_level
+          label: Anxiety Level
+          hint: null
+          type: select_one
+          options:
+            - None
+            - Mild
+            - Moderate
+            - Severe
+          required: true
+        - id: 11
+          name: sleep_patterns
+          label: Sleep Patterns
+          hint: null
+          type: select_one
+          options:
+            - Normal
+            - Slightly disrupted
+            - Moderately disrupted
+            - Severely disrupted
+          required: true
+        - id: 12
+          name: concentration
+          label: Concentration and Focus
+          hint: null
+          type: select_one
+          options:
+            - Good
+            - Fair
+            - Poor
+            - Very poor
+          required: true
+        - id: 13
+          name: intrusive_thoughts
+          label: Intrusive or unwanted thoughts
+          hint: null
+          type: select_one
+          options:
+            - Not present
+            - Occasional
+            - Frequent
+            - Constant
+          required: true
+        - id: 14
+          name: suicidal_ideation
+          label: Suicidal ideation or self-harm thoughts
+          hint: null
+          type: select_one
+          options:
+            - None
+            - Mild
+            - Moderate
+            - Severe
+          required: true
+        - id: 15
+          name: section_ptsd
+          label: -- PTSD and Trauma Screening --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 16
+          name: combat_exposure
+          label: Combat exposure or traumatic events
+          hint: null
+          type: select_one
+          options:
+            - No exposure
+            - Minor exposure
+            - Moderate exposure
+            - Severe exposure
+          required: true
+        - id: 17
+          name: ptsd_symptoms
+          label: PTSD symptoms present
+          hint: null
+          type: select_multiple
+          options:
+            - Flashbacks or intrusive memories
+            - Hypervigilance
+            - Avoidance behaviors
+            - Emotional numbing
+            - Exaggerated startle response
+          required: false
+        - id: 18
+          name: section_substance
+          label: -- Substance Use Screening --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 19
+          name: substance_use_concern
+          label: Substance use or dependency concern
+          hint: null
+          type: select_one
+          options:
+            - None
+            - Mild
+            - Moderate
+            - Severe
+          required: true
+        - id: 20
+          name: substances_used
+          label: Substances of concern
+          hint: null
+          type: select_multiple
+          options:
+            - Alcohol
+            - Prescription medication
+            - Illegal drugs
+            - Tobacco
+          required: false
+        - id: 21
+          name: section_recommendations
+          label: -- Clinical Recommendations --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 22
+          name: overall_risk_level
+          label: Overall Risk Level for Duty
+          hint: null
+          type: select_one
+          options:
+            - Low risk - fit for duty
+            - Moderate risk - requires monitoring
+            - High risk - recommend restricted duty
+            - Critical risk - recommend immediate intervention
+          required: true
+        - id: 23
+          name: recommended_treatment
+          label: Recommended Treatment or Interventions
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 24
+          name: follow_up_timeline
+          label: Follow-up Evaluation Timeline
+          hint: null
+          type: select_one
+          options:
+            - Immediate
+            - Within 1 week
+            - Within 1 month
+            - As needed
+          required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Community User Onboarding
+    pages:
+    - id: 1
+      name: new_member_details
+      label: New Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confirm_agreement
+      label: confirm_community_guidelines
+      hint: Read and agree to the community guidelines
+      type: select_multiple
+      options:
+      - Terms of Use
+      - Community Guidelines
+      - Membership Agreement
+      required: false
+    - id: 3
+      name: onboarding_data
+      label: Onboarding Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: confirm_privacy_policy
+      label: Confirm privacy policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: confirm_membership_agreement
+      label: Confirm membership agreement
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: false
+    - id: 11
+      name: onboarding_status
+      label: onboarding_status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agency_membership_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_license_number
+      label: Real Estate License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_license_type
+      label: Real Estate License Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 10
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: select_multiple
+      options:
+      - Suite 300
+      - 123 Main St
+      - 456 Elm Rd
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_position
+      label: Manager Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agency_type
+      label: Agency Type
+      hint: null
+      type: select_one
+      options:
+      - Single Agent
+      - Multi Agent
+      - Corporation
+      required: false
+    - id: 14
+      name: broker_agreement
+      label: Broker Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Broker 1
+      - Broker 2
+      - Broker 3
+      required: false
+    - id: 15
+      name: agency_license_number
+      label: Agency License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: manager_license_number
+      label: Manager License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: manager_license_type
+      label: Manager License Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false

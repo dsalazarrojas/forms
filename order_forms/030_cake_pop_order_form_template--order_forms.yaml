@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Pop Order Form Template
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_date
+      label: Pickup Date
+      hint: When do you need cake pops
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_time
+      label: Pickup Time
+      hint: Preferred pickup time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: cake_pop_flavor
+      label: Cake Pop Flavor
+      hint: Choose your flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Marble
+      - Cookies and Cream
+      - Birthday Cake
+      - Lemon
+      - Strawberry
+      - Salted Caramel
+      - Peanut Butter
+      required: true
+    - id: 8
+      name: coating_type
+      label: Coating Type
+      hint: Choose coating
+      type: select_one
+      options:
+      - Milk chocolate
+      - Dark chocolate
+      - White chocolate
+      - Candy melt
+      - Yogurt coating
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: How many cake pops
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: dozen_option
+      label: Dozen Option
+      hint: Cake pops are sold by the dozen
+      type: select_one
+      options:
+      - Half dozen (6)
+      - One dozen (12)
+      - Two dozen (24)
+      - Three dozen (36)
+      - Four dozen (48)
+      - Custom quantity
+      required: true
+    - id: 11
+      name: decorative_style
+      label: Decorative Style
+      hint: How should they be decorated
+      type: select_one
+      options:
+      - Simple dip
+      - Drizzled
+      - Sprinkles
+      - Hand painted
+      - Themed design
+      - Custom
+      required: true
+    - id: 12
+      name: color_scheme
+      label: Color Scheme
+      hint: Preferred colors
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sprinkles_or_toppings
+      label: Sprinkles or Toppings
+      hint: Choose toppings
+      type: select_multiple
+      options:
+      - Rainbow sprinkles
+      - Chocolate sprinkles
+      - White sprinkles
+      - Crushed cookies
+      - Nuts
+      - Edible glitter
+      - Drizzle
+      - None
+      required: false
+    - id: 14
+      name: occasion
+      label: Occasion
+      hint: What is this for
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Baby shower
+      - Bridal shower
+      - Graduation
+      - Holiday
+      - Party favor
+      - Gift
+      - Other
+      required: true
+    - id: 15
+      name: custom_message
+      label: Custom Message
+      hint: Any text or names to add
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: packaging_option
+      label: Packaging Option
+      hint: How should they be packaged
+      type: select_one
+      options:
+      - Standard box
+      - Gift box
+      - Individual wrapping
+      - Display stand
+      - Party platter
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      required: true
+    - id: 18
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive order
+      type: select_one
+      options:
+      - Pickup in store
+      - Local delivery
+      - Shipping
+      required: true
+    - id: 19
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery, provide address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Mobile payment
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

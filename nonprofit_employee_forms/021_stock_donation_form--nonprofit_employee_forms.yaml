@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Donation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Stock Donation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit Employee Forms
+      - General Forms
+      - Employee Forms
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 021_stock_donation_form--nonprofit_employee_forms
+      - 021_stock_donation_form--nonprofit_employeeistency_forms
+      - 021_stock_donation_form--nonprofit_employees_forms
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_jimmy
+      - chat_jimmy
+      required: true
+    - id: 7
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: donor_email
+      label: Donor E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_shares
+      label: Number of prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: share_type
+      label: Share Type
+      hint: null
+      type: select_one
+      options:
+      - Stock
+      - Marketable Securities
+      required: true
+    - id: 12
+      name: share_value
+      label: Share Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: date_filed
+      label: Date Filed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 19
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: remarks2
+      label: Remarks2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: remarks3
+      label: Remarks3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remarks4
+      label: Remarks4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: remarks5
+      label: Remarks5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remarks6
+      label: Remarks6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks7
+      label: Remarks7
+      hint: null
+      type: text
+      options: []
+      required: false

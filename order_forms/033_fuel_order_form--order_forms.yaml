@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Order Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_info
+      label: Fuel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      required: false
+    - id: 3
+      name: fuel_amount
+      label: Fuel Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Mid-Grade
+      - Premium
+      - Super
+      required: false
+    - id: 5
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Boat
+      required: true
+    - id: 6
+      name: fuel_card_type
+      label: Fuel Card Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Card
+      - Standard Plus Card
+      - Plus Card
+      - Premium Card
+      required: false
+    - id: 7
+      name: fuel_card_no
+      label: Fuel Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: field_8
+      label: Field 8
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

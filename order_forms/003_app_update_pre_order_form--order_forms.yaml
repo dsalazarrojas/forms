@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Update Pre Order Form
+    pages:
+    - id: 1
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Optional - if ordering for business
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pre_order_info
+      label: -- Pre-Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: app_version
+      label: Which app version are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Standard Edition
+      - Professional Edition
+      - Enterprise Edition
+      - Custom Solution
+      required: true
+    - id: 8
+      name: quantity
+      label: Number of licenses needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: deployment_timeline
+      label: When do you plan to deploy?
+      hint: null
+      type: select_one
+      options:
+      - Immediately upon release
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Timeline TBD
+      required: false
+    - id: 10
+      name: use_case
+      label: What is your primary use case?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feature_priorities
+      label: Which features are most important to you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Performance improvements
+      - New integrations
+      - Enhanced security
+      - User interface updates
+      - Mobile optimization
+      required: true
+    - id: 12
+      name: budget_range
+      label: Expected budget range
+      hint: null
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 - $5000
+      - $5000 - $10000
+      - $10000 - $25000
+      - $25000+
+      - Open to discussion
+      required: false
+    - id: 13
+      name: support_plan
+      label: -- Support Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: support_needed
+      label: What level of support do you require?
+      hint: null
+      type: select_one
+      options:
+      - Basic - Email support
+      - Standard - 24/7 phone support
+      - Premium - Dedicated account manager
+      - Enterprise - Custom SLA
+      required: true
+    - id: 15
+      name: training_required
+      label: Do you need implementation training?
+      hint: null
+      type: select_one
+      options:
+      - Yes, full training program
+      - Yes, basic training only
+      - No, not needed
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional requirements or notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Show Participation Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: measurements
+      label: Measurements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blonde
+      - Brown
+      - Gray
+      - Red
+      - White
+      - Blonde
+      required: false
+    - id: 9
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Other
+      required: false
+    - id: 10
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

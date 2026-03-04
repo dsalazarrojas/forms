@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Experience Mapping Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Your Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_methods
+      label: How do you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 4
+      name: contact_methods_2
+      label: What is your preferred contact method for this survey?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 5
+      name: frequency_of_communication
+      label: How often would you like to be communicated to?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_pref_1
+      label: Never
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: communication_pref_2
+      label: Less than once a week
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: communication_pref_3
+      label: Almost Every Day
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: communication_pref_4
+      label: More than once a day
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 10
+      name: feedback_type
+      label: What type of feedback would you like to give?
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Specific
+      - Personal
+      required: false
+    - id: 11
+      name: feedback_topic
+      label: What topic would you like to give feedback on?
+      hint: null
+      type: select_multiple
+      options:
+      - Donor Experience
+      - Donation
+      - Communication
+      required: false
+    - id: 12
+      name: feedback_topic_2
+      label: What topic would you like to give feedback on 2?
+      hint: null
+      type: select_multiple
+      options:
+      - Donor Experience
+      - Donation
+      - Communication
+      required: false
+    - id: 13
+      name: feedback_topic_3
+      label: What topic would you like to give feedback on 3?
+      hint: null
+      type: select_multiple
+      options:
+      - Donor Experience
+      - Donation
+      - Communication
+      required: false
+    - id: 14
+      name: communication_style
+      label: How would you like to communicate your feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 15
+      name: communication_style_2
+      label: What is your preferred communication style for feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 16
+      name: communication_style_3
+      label: What is your preferred communication style for feedback 2?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 17
+      name: communication_style_4
+      label: What is your preferred communication style for feedback 3?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 18
+      name: communication_style_5
+      label: What is your preferred communication style for feedback 4?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 19
+      name: feedback_question_1
+      label: What is your feedback about the donor experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback_question_2
+      label: What do you think is the biggest challenge for our organization in terms
+        of the donor experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: feedback_question_3
+      label: What do you think would improve the donor experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: feedback_question_4
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_methods_3
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 24
+      name: contact_methods_4
+      label: What is your preferred contact method for this survey?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 25
+      name: feedback_question_5
+      label: Any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

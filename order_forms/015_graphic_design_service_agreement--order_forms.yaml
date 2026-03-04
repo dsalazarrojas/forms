@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Service Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_description
+      label: What service are you inquiring about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: client_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Logo Design
+      - Branding
+      - Web Design
+      - Print Design
+      - Other
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Payable upon completion
+      - Payable upon delivery
+      - Payable on 30 days of service completion
+      required: false
+    - id: 9
+      name: service_deadline
+      label: Service Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Monitoring Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Control Monitoring Form --
+      hint: Document access control events and observations for security tracking
+        and compliance.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitor_name
+      label: Security officer or monitor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: monitor_id
+      label: Officer ID or badge number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: monitor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: monitoring_date
+      label: Date of monitoring
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shift_start_time
+      label: Shift start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: shift_end_time
+      label: Shift end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location_monitored
+      label: Location or zone monitored
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: access_points_checked
+      label: Access points checked (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Main entrance
+      - Emergency exits
+      - Parking structure
+      - Server room
+      - Loading dock
+      - Restricted floors
+      - Perimeter gates
+      required: true
+    - id: 10
+      name: system_status
+      label: Overall status of access control systems during this shift
+      hint: null
+      type: select_one
+      options:
+      - Fully operational
+      - Partially operational - minor issues
+      - Significant issues - workarounds in place
+      - System down
+      required: true
+    - id: 11
+      name: unauthorized_access_attempts
+      label: Were there any unauthorized access attempts
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: unauthorized_details
+      label: If yes, describe the unauthorized access attempt(s)
+      hint: Include time, location, and persons involved if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incidents_reported
+      label: Number of security incidents during this shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: incident_summary
+      label: Brief summary of any incidents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: visitor_count
+      label: Total number of visitors processed during this shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: equipment_issues
+      label: Were there any equipment malfunctions (card readers, cameras, turnstiles)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: equipment_issue_details
+      label: If yes, describe the equipment issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_required
+      label: Is any follow-up action required from this shift
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: follow_up_details
+      label: If yes, describe the follow-up needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: general_observations
+      label: General observations or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: report_submission_date
+      label: Date report was submitted
+      hint: null
+      type: date
+      options: []
+      required: true

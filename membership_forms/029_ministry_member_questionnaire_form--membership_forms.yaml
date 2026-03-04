@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Member Questionnaire Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_skills
+      label: Have you ever attended a church service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never attended''}'
+      - '{''id'': 2, ''label'': ''Less than 6 months ago''}'
+      - '{''id'': 3, ''label'': ''More than 6 months ago''}'
+      required: false
+    - id: 3
+      name: music_skills
+      label: What instruments do you play?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Piano''}'
+      - '{''id'': 2, ''label'': ''Guitar''}'
+      - '{''id'': 3, ''label'': ''Drums''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: hospitality_skills
+      label: Have you ever worked in a church setting?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never worked''}'
+      - '{''id'': 2, ''label'': ''Less than 6 months ago''}'
+      - '{''id'': 3, ''label'': ''More than 6 months ago''}'
+      required: false
+    - id: 5
+      name: contact_method
+      label: How do you prefer to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Text message''}'
+      required: false
+    - id: 6
+      name: music_formation
+      label: Music formation?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: church_service
+      label: Church service?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_information2
+      label: Additional contact information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_information3
+      label: Contact Information 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_information4
+      label: Contact Information 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_information5
+      label: Contact Information 5
+      hint: null
+      type: number
+      options: []
+      required: false

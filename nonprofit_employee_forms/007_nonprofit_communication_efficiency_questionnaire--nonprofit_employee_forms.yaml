@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Communication Efficiency Questionnaire
+    pages:
+    - id: 1
+      name: nonprofit_communication_efficiency_questionnaire
+      label: Nonprofit Communication Efficiency Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internal_communication
+      label: Internal Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: external_communication
+      label: External Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_frequency
+      label: How often do you communicate with your team on a daily basis?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_channels
+      label: What are the channels that you use to communicate with your team?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_style
+      label: What's your preferred communication style when communicating with your
+        team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_barriers
+      label: What barriers have you experienced while communicating with your team?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: time_management
+      label: How would you rate your time management skills?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_tools
+      label: How often do you use the following collaboration tools?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: communication_satisfaction
+      label: How satisfied are you with the communication in the organization?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: communication_pain_point
+      label: What's the biggest pain point in your communication process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: communication_recommendation
+      label: What would you suggest to improve the communication process?
+      hint: null
+      type: text
+      options: []
+      required: false

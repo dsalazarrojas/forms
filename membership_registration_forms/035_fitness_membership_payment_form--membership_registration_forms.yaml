@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Membership Payment Form
+    pages:
+    - id: 1
+      name: form_info
+      label: form info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_plan
+      label: membership plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 11
+      name: membership_status
+      label: membership status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - New
+      required: false
+    - id: 12
+      name: membership_type
+      label: membership type
+      hint: null
+      type: select_one
+      options:
+      - Gym
+      - Studio
+      required: false
+    - id: 13
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms_agreement
+      label: i agree to payment terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: membership_notes
+      label: membership notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: membership_notes_agreement
+      label: i agree to membership notes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

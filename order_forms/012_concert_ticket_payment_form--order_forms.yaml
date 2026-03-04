@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Payment Form
+    pages:
+    - id: 1
+      name: payment_overview
+      label: Payment Overview
+      hint: Review your order and complete payment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_reference
+      label: Order Reference Number
+      hint: Your order ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: Concert event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Date of concert
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_venue
+      label: Event Venue
+      hint: Concert location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ticket_details
+      label: Ticket Details
+      hint: Your ticket selection
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: Category purchased
+      type: select_one
+      options:
+      - General Admission
+      - Reserved Seating
+      - Premium Seating
+      - VIP Experience
+      - Group Package
+      required: true
+    - id: 8
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: Number of tickets
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: base_price
+      label: Base Ticket Price
+      hint: Price per ticket
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tickets_subtotal
+      label: Tickets Subtotal
+      hint: Total ticket cost
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: fees_and_taxes
+      label: Fees and Taxes
+      hint: Additional charges
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_fee
+      label: Service Fee
+      hint: Processing fee
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: facility_fee
+      label: Facility Fee
+      hint: Venue charge
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sales_tax
+      label: Sales Tax
+      hint: Applicable tax
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_amount
+      label: Total Amount Due
+      hint: Final payment amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payer_information
+      label: Payer Information
+      hint: Billing details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_email
+      label: Billing Email
+      hint: Email for receipt
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: billing_phone
+      label: Billing Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_address
+      label: Billing Address
+      hint: Full billing address
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: payment_details
+      label: Payment Details
+      hint: Card information
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: card_type
+      label: Card Type
+      hint: Select card network
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Diners Club
+      required: true
+    - id: 23
+      name: card_number
+      label: Card Number
+      hint: 16 digit card number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: expiry_date
+      label: Expiry Date
+      hint: MM slash YY
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: security_code
+      label: Security Code
+      hint: CVV on back of card
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: payment_authorization
+      label: Payment Authorization
+      hint: Confirm payment
+      type: select_one
+      options:
+      - I Authorize This Payment
+      - Cancel Transaction
+      required: true

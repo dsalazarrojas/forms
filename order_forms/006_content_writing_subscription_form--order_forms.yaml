@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Writing Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Subscriber Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Choose your plan
+      type: select_one
+      options:
+      - Basic - 2 articles/month
+      - Standard - 5 articles/month
+      - Premium - 10 articles/month
+      - Enterprise - Custom
+      required: true
+    - id: 6
+      name: content_types
+      label: Content Types Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Blog Posts
+      - Website Copy
+      - Social Media Posts
+      - Email Newsletters
+      - Product Descriptions
+      - Press Releases
+      - Whitepapers
+      required: true
+    - id: 7
+      name: industry_focus
+      label: Industry Focus
+      hint: Your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - E-commerce
+      - Education
+      - Real Estate
+      - Legal
+      - Marketing
+      - Other
+      required: true
+    - id: 8
+      name: word_count_preference
+      label: Average Word Count Preference
+      hint: Typical article length
+      type: select_one
+      options:
+      - 500-800 words
+      - 800-1200 words
+      - 1200-2000 words
+      - 2000+ words
+      - Variable
+      required: false
+    - id: 9
+      name: tone_preference
+      label: Preferred Tone
+      hint: Writing style
+      type: select_one
+      options:
+      - Professional
+      - Conversational
+      - Technical
+      - Friendly
+      - Authoritative
+      - Humorous
+      required: true
+    - id: 10
+      name: seo_requirements
+      label: SEO Requirements
+      hint: Do you need SEO optimization?
+      type: select_one
+      options:
+      - Yes, full SEO
+      - Basic keywords only
+      - No SEO needed
+      required: true
+    - id: 11
+      name: target_keywords
+      label: Target Keywords
+      hint: Primary keywords to focus on
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often do you need content?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 13
+      name: start_date
+      label: Desired Start Date
+      hint: When should we begin?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: billing_cycle
+      label: Billing Cycle
+      hint: Payment frequency
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      required: true
+    - id: 16
+      name: brand_guidelines
+      label: Brand Guidelines
+      hint: Do you have brand guidelines to share?
+      type: select_one
+      options:
+      - Yes, will provide
+      - No, need assistance
+      required: true
+    - id: 17
+      name: content_calendar
+      label: Content Calendar Input
+      hint: Will you provide topics in advance?
+      type: select_one
+      options:
+      - Yes, monthly calendar
+      - Yes, weekly topics
+      - No, you choose topics
+      required: true
+    - id: 18
+      name: revision_policy
+      label: Revision Needs
+      hint: Expected revisions per article
+      type: select_one
+      options:
+      - 1 revision
+      - 2 revisions
+      - 3 revisions
+      - Unlimited
+      required: false
+    - id: 19
+      name: additional_services
+      label: Additional Services
+      hint: Extra services needed
+      type: select_multiple
+      options:
+      - Image sourcing
+      - Meta descriptions
+      - Social media snippets
+      - Content distribution
+      - Analytics reporting
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false

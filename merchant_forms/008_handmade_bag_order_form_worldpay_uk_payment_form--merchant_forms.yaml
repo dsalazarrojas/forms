@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: HandMade Bag Order Form Worldpay UK Payment Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_first_name
+      label: customer first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_last_name
+      label: customer last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_street
+      label: customer street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_state
+      label: customer state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_postcode
+      label: customer postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_country
+      label: customer country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_company
+      label: customer company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_name
+      label: delivery name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_street
+      label: delivery street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_city
+      label: delivery city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_state
+      label: delivery state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_postcode
+      label: delivery postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_country
+      label: delivery country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_instructions
+      label: delivery instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 25
+      name: order_status
+      label: order status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - paid
+      - shipped
+      - cancelled
+      - on hold
+      - refunded
+      - failed
+      required: false

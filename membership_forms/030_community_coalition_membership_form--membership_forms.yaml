@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coalition Membership Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization name
+      hint: Group or individual joining coalition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact
+      label: Primary contact name
+      hint: Name of representative
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For coalition communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact phone number
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership type
+      hint: Select classification
+      type: select_one
+      options:
+      - Organizational member
+      - Individual member
+      - Supporting partner
+      required: true
+    - id: 6
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Select priority focus areas
+      type: select_multiple
+      options:
+      - Housing
+      - Transportation
+      - Public health
+      - Economic development
+      required: false
+    - id: 7
+      name: contribution_details
+      label: Contribution details
+      hint: Financial or in kind support description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement
+      label: Agreement to coalition bylaws
+      hint: Confirm acceptance of membership terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

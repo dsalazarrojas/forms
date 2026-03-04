@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Aptitude Assessment
+    pages:
+    - id: 1
+      name: coaching_education_hiring
+      label: Coaching, Education, or Hiring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: coaching_education_hiring_question
+      label: What is the primary reason for administering the Psychological Aptitude
+        Assessment?
+      hint: null
+      type: select_one
+      options:
+      - option prophets
+      - career_development
+      - personal_growth
+      required: false
+    - id: 3
+      name: coaching_education_hiring_question
+      label: Coaching, Education, or Hiring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: psychological_aptitude
+      label: What type of psychological aptitude does this assessment measure?
+      hint: null
+      type: select_one
+      options:
+      - emotional_intelligence
+      - cognitive_functioning
+      - social_skills
+      required: false
+    - id: 5
+      name: psychological_aptitude_question
+      label: What is the target population for this assessment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: age
+      label: What is the age of prophets
+      hint: Please enter a number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age_question
+      label: What is the age of the target population?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth_question
+      label: Date of Birth of the target population
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

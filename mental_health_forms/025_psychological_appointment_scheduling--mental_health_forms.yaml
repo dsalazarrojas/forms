@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Appointment Scheduling
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_request
+      label: Appointment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Video Call
+      required: false
+    - id: 5
+      name: available_days
+      label: Available Days
+      hint: Select days of the week
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: Select start time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: Select end time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_days_for_call
+      label: Preferred Days
+      hint: Select days for call
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 9
+      name: preferred_time_for_call
+      label: Preferred Time
+      hint: Select time for call
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: therapist_info
+      label: Therapist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appointment_type
+      label: Appointment Type
+      hint: Select appointment type
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Couples
+      required: false
+    - id: 13
+      name: session_frequency
+      label: Session Frequency
+      hint: Select session frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: video_call
+      label: Video Call
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Exhibition Supplies Order Form
+    pages:
+    - id: 1
+      name: order_context_header
+      label: -- Exhibition Order Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exhibition_title
+      label: Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Person Requesting Supplies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Curatorial
+      - Installation - Preparation
+      - Marketing - Events
+      - Administration
+      required: true
+    - id: 5
+      name: required_by_date
+      label: Date Supplies are Needed By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: supply_categories_header
+      label: -- Supplies Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: category_1
+      label: Hardware and Hanging Supplies
+      hint: e.g., D-rings, wire, security mounts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category_2
+      label: Lighting and Electrical
+      hint: e.g., Bulbs, extension cords, spot filters
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category_3
+      label: Labeling and Signage
+      hint: e.g., Foam board, adhesive vinyl, mounting tape
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category_4
+      label: Packing and Shipping
+      hint: e.g., Bubble wrap, glassine paper, crates, tape
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category_5
+      label: Other Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: total_estimated_cost
+      label: Estimated Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: billing_details_header
+      label: -- Billing and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Gallery Credit Card
+      - Invoice - Net 30
+      - Reimbursement Request
+      - Petty Cash
+      required: true
+    - id: 15
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: e.g., Deliver to loading dock B
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_signature_note
+      label: Approval - Manager Signature Required for orders over $500
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: digital_approval_name
+      label: Digital Approval (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: order_date
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: tracking_reference
+      label: Internal Order Tracking Reference (Office Use Only)
+      hint: null
+      type: text
+      options: []
+      required: false

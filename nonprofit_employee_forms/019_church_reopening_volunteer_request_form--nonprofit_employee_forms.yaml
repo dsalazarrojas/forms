@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Reopening Volunteer Request Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: church_member
+      label: Are You a Church Member
+      hint: null
+      type: select_one
+      options:
+      - Yes, active member
+      - Yes, but not active
+      - No, but interested
+      - No, just helping
+      required: true
+    - id: 7
+      name: membership_duration
+      label: How Long Have You Been a Member
+      hint: If applicable
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      - Not a member
+      required: false
+    - id: 8
+      name: volunteer_areas
+      label: Which Areas Would You Like to Help
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cleaning and Sanitizing
+      - Ushering
+      - Registration/Check-in
+      - Technical Support
+      - Childcare
+      - Food Service
+      - Outdoor Setup
+      - Prayer Ministry
+      - Hospitality
+      required: true
+    - id: 9
+      name: availability
+      label: When Are You Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sunday Morning
+      - Sunday Evening
+      - Wednesday Evening
+      - Saturday
+      - Weekdays
+      - Flexible
+      required: true
+    - id: 10
+      name: hours_per_week
+      label: How Many Hours Per Week Can You Volunteer
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-5 hours
+      - 6-10 hours
+      - More than 10 hours
+      - As needed
+      required: true
+    - id: 11
+      name: health_screening
+      label: Are You Willing to Complete Health Screening
+      hint: Temperature checks, health questions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: ppe_comfort
+      label: Are You Comfortable Wearing PPE
+      hint: Masks, gloves, etc.
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, when required
+      - No, cannot wear PPE
+      required: true
+    - id: 13
+      name: social_distancing
+      label: Can You Help Enforce Social Distancing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: high_risk
+      label: Are You in a High-Risk Health Category
+      hint: CDC guidelines
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 15
+      name: household_exposure
+      label: Has Anyone in Your Household Been Ill
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 16
+      name: training_needed
+      label: What Training Would You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safety protocols
+      - Cleaning procedures
+      - Customer service
+      - Technical training
+      - Childcare protocols
+      - No training needed
+      required: true
+    - id: 17
+      name: previous_experience
+      label: Do You Have Relevant Volunteer Experience
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: background_check
+      label: Are You Willing to Complete Background Check
+      hint: Required for certain roles
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: start_date
+      label: When Can You Start Volunteering
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: motivation
+      label: Why Do You Want to Volunteer
+      hint: Share your motivation
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Any Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: tournament-participant-bag-supply-order-form
+    pages:
+    - id: 1
+      name: tournament_participant_bags
+      label: Tournament Participant Bags
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participant_bags
+      label: Participant Bags
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: select_multiple
+      options:
+      - participant1
+      - participant2
+      - participant3
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 6
+      name: participant_payment
+      label: Participant Payment
+      hint: null
+      type: number
+      options: []
+      required: false

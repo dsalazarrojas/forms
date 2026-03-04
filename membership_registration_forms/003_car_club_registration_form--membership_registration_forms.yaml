@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Club Registration Form
+    pages:
+    - id: 1
+      name: club_info_header
+      label: -- Member Details --
+      hint: Please fill out your personal information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For club communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: In case of emergencies
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: membership_type
+      label: Membership Category
+      hint: Select your desired membership level
+      type: select_one
+      options:
+      - Individual Membership
+      - Family Membership
+      - Student Membership
+      - Professional Membership
+      - Lifetime Member
+      required: true
+    - id: 7
+      name: vehicle_info_header
+      label: -- Vehicle Details --
+      hint: Tell us about your car
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: car_make
+      label: Car Make
+      hint: Brand of the vehicle (e.g., Ford, Toyota)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: car_model
+      label: Car Model
+      hint: Model name (e.g., Mustang, Corolla)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: car_year
+      label: Car Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: modifications_made
+      label: List Any Modifications
+      hint: Briefly describe any performance or aesthetic changes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: primary_car_use
+      label: Primary Car Usage
+      hint: How is this car primarily used?
+      type: select_one
+      options:
+      - Daily Driver
+      - Track/Racing Only
+      - Weekend Enthusiast
+      - Show/Display Only
+      required: true
+    - id: 14
+      name: club_activities_interest
+      label: Activities You are Interested In
+      hint: Select your favorite club events
+      type: select_multiple
+      options:
+      - Group Cruises
+      - Track Days
+      - Charity Events
+      - Car Shows
+      - Technical Workshops
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: terms_acceptance
+      label: I accept the club rules and regulations
+      hint: See website for terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Anything else you want to share?
+      hint: Additional info or specific requests
+      type: text
+      options: []
+      required: false

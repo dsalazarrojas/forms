@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: requiision_history_overview
+    pages:
+    - id: 1
+      name: requiision_history_overview
+      label: requisitions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: requisition_number
+      label: requisition_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: requisition_date
+      label: requisition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: approved_amount
+      label: approved_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

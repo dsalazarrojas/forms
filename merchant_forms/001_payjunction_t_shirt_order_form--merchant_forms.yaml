@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayJunction T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: t_shirt_size
+      label: T Shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: true
+    - id: 7
+      name: t_shirt_color
+      label: T Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 8
+      name: t_shirt_message
+      label: T Shirt Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      - Card
+      required: true
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 13
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_country
+      label: Billing Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: t_shirt_designer
+      label: T Shirt Designer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Certification Audit Checklist
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cert_type
+      label: Certification type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''RN''}'
+      - '{''value'': ''LPN''}'
+      - '{''value'': ''NP''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: cert_name
+      label: Certification name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cert_date_earned
+      label: Date earned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: cert_status
+      label: Certification status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 7
+      name: cert_status_hint
+      label: Certification status details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: followup_status
+      label: Follow-up status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No follow-up needed''}'
+      - '{''value'': ''Follow-up needed''}'
+      required: false
+    - id: 9
+      name: followup_status_hint
+      label: Follow-up status details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: followup_next_action
+      label: Follow-up next action
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNA Shift Restoration Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_department
+      label: Unit or Department
+      hint: null
+      type: select_one
+      options:
+      - Emergency Department
+      - ICU
+      - Medical-Surgical
+      - Pediatrics
+      - Maternity
+      - Surgery
+      - Other
+      required: true
+    - id: 4
+      name: current_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Temporary Leave
+      - Medical Leave
+      - Suspended
+      - Other
+      required: true
+    - id: 5
+      name: original_end_date
+      label: Original Shift End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: requested_restoration_date
+      label: Requested Shift Restoration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: restoration_reason
+      label: Reason for Shift Restoration Request
+      hint: null
+      type: select_one
+      options:
+      - Medical clearance obtained
+      - Completion of required training
+      - Return from approved leave
+      - Administrative correction
+      - Other
+      required: true
+    - id: 8
+      name: shift_type
+      label: Requested Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      - Rotating Shift
+      - Per Diem
+      required: true
+    - id: 9
+      name: hours_per_week
+      label: Requested Hours per Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: supporting_documentation
+      label: Supporting documentation provided
+      hint: Medical clearance, training certificates, etc.
+      type: select_multiple
+      options:
+      - Medical clearance letter
+      - Training certificates
+      - Supervisor recommendation
+      - HR documentation
+      - Other
+      required: true
+    - id: 11
+      name: supervisor_approval
+      label: Supervisor Name and Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_conditions
+      label: Any conditions or restrictions for restoration?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hr_contact_name
+      label: HR Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_date
+      label: Date of Request Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: employee_signature
+      label: Employee Acknowledgment
+      hint: I confirm the information above is accurate
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Registration Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Widowed
+      - Divorced
+      required: false
+    - id: 8
+      name: address_header
+      label: -- Contact Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_state_zip
+      label: City, State, and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: spiritual_background_header
+      label: -- Spiritual Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: previous_church
+      label: Previous Church Affiliation (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: baptism_status
+      label: Have you been baptized?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: ministry_interests
+      label: Areas of Ministry Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Children's Ministry
+      - Youth Ministry
+      - Music and Worship
+      - Outreach and Missions
+      - Hospitality
+      - Small Groups
+      required: false
+    - id: 15
+      name: comments_questions
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

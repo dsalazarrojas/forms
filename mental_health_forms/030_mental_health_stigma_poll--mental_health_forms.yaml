@@ -1,0 +1,254 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Stigma Poll
+    pages:
+    - id: 1
+      name: mental_health_stigma_poll_form
+      label: What do you think about mental health?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stigma_scale
+      label: How stigmatizing do you think mental health issues are in your community?
+      hint: null
+      type: select_one
+      options:
+      - Not stigmatizing at all
+      - Somewhat stigmatizing
+      - Very stigmatizing
+      - Extremely stigmatizing
+      required: false
+    - id: 3
+      name: stigma_scale_answer
+      label: What does the previous question mean to you?
+      hint: Please elaborate on your answer.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: community_concern
+      label: How much concern do you have about mental health issues in your community?
+      hint: null
+      type: select_multiple
+      options:
+      - Somewhat concerned
+      - Very concerned
+      - Extremely concerned
+      required: false
+    - id: 5
+      name: community_concern_answer
+      label: How often do you think people in your community talk about mental health
+        issues?
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      required: false
+    - id: 6
+      name: mental_health_issue
+      label: Which of the following mental health issues do you think people in your
+        community are most concerned about?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Post-traumatic stress disorder (PTSD)
+      - Bipolar disorder
+      - Schizophrenia
+      - Substance abuse
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: mental_health_issue_answer
+      label: If you selected 'Other (please specify)', please specify which mental
+        health issue people in your community are most concerned about.
+      hint: Please elaborate on your answer.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: stigma_barriers
+      label: What barriers do you think contribute to mental health stigma?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Lack of education
+      - Lack of awareness
+      - Fear of seeking help
+      - Social media
+      - Stigma from family and friends
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: stigma_barriers_answer
+      label: If you selected 'Other (please specify)', please specify which barriers
+        contribute to mental health stigma.
+      hint: Please elaborate on your answer.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mental_health_stigma_prevention
+      label: What can be done to prevent mental health stigma?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Public awareness campaigns
+      - Education and training
+      - Increased access to mental health services
+      - Stigma-free workplace
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: mental_health_stigma_prevention_answer
+      label: If you selected 'Other (please specify)', please specify what can be
+        done to prevent mental health stigma.
+      hint: Please elaborate on your answer.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mental_health_stigma_reduction
+      label: Do you think mental health stigma has been reduced in your community
+        over the past 5 years?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 13
+      name: mental_health_stigma_reduction_answer
+      label: Why or why not?
+      hint: Please explain your answer.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: community_support
+      label: How supportive do you think your community is of people with mental health
+        issues?
+      hint: null
+      type: select_one
+      options:
+      - Not very supportive
+      - Somewhat supportive
+      - Very supportive
+      - Extremely supportive
+      required: false
+    - id: 15
+      name: community_support_answer
+      label: Why or why not?
+      hint: Please explain your answer.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: stigma_scale_self
+      label: How stigmatizing do you think mental health issues are in your own life?
+      hint: null
+      type: select_one
+      options:
+      - Not stigmatizing at all
+      - Somewhat stigmatizing
+      - Very stigmatizing
+      - Extremely stigmatizing
+      required: false
+    - id: 17
+      name: stigma_scale_self_answer
+      label: How does your perception impact how you live your life?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: stigma_scale_community
+      label: How stigmatizing do you think mental health issues are in your community?
+      hint: null
+      type: select_one
+      options:
+      - Not stigmatizing at all
+      - Somewhat stigmatizing
+      - Very stigmatizing
+      - Extremely stigmatizing
+      required: false
+    - id: 19
+      name: stigma_scale_community_answer
+      label: How does your perception impact how you interact with your community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: stigma_scale_self_family
+      label: How stigmatizing do you think mental health issues are among family and
+        friends?
+      hint: null
+      type: select_one
+      options:
+      - Not stigmatizing at all
+      - Somewhat stigmatizing
+      - Very stigmatizing
+      - Extremely stigmatizing
+      required: false
+    - id: 21
+      name: stigma_scale_self_family_answer
+      label: How does your perception impact your relationships with family and friends?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: stigma_scale_self_work
+      label: How stigmatizing do you think mental health issues are in the workplace?
+      hint: null
+      type: select_one
+      options:
+      - Not stigmatizing at all
+      - Somewhat stigmatizing
+      - Very stigmatizing
+      - Extremely stigmatizing
+      required: false
+    - id: 23
+      name: stigma_scale_self_work_answer
+      label: How does your perception impact your professional life?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: stigma_scale_self_education
+      label: How stigmatizing do you think mental health issues are in schools?
+      hint: null
+      type: select_one
+      options:
+      - Not stigmatizing at all
+      - Somewhat stigmatizing
+      - Very stigmatizing
+      - Extremely stigmatizing
+      required: false
+    - id: 25
+      name: stigma_scale_self_education_answer
+      label: How does your perception impact your educational life?
+      hint: null
+      type: text
+      options: []
+      required: false

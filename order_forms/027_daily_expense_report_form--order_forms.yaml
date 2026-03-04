@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Expense Report Form
+    pages:
+    - id: 1
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: expense_item
+      label: Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: expense_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: expense_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

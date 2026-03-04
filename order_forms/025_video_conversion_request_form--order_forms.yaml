@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Conversion Request Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_to_convert
+      label: File to Convert
+      hint: null
+      type: select_multiple
+      options:
+      - MP4
+      - MOV
+      - AVI
+      - MP3
+      - WAV
+      required: false
+    - id: 3
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: convert_to
+      label: Convert To
+      hint: null
+      type: select_multiple
+      options:
+      - MP4
+      - MOV
+      - AVI
+      - MP3
+      - WAV
+      required: true
+    - id: 5
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: expected_delivery_time
+      label: Expected Delivery Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: true

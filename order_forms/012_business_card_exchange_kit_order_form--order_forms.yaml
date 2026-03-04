@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Exchange Kit Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Business email for contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_card_info
+      label: -- Business Card Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: card_type
+      label: Card Type
+      hint: Select business card style
+      type: select_one
+      options:
+      - Standard Size
+      - Mini Cards
+      - Rounded Corners
+      - Premium Stock
+      - Eco-Friendly
+      required: true
+    - id: 10
+      name: quantity_standard
+      label: Quantity - Standard Size
+      hint: Number of standard cards
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: quantity_mini
+      label: Quantity - Mini Cards
+      hint: Number of mini cards
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: card_stock_type
+      label: Card Stock Type
+      hint: Paper stock quality
+      type: select_one
+      options:
+      - Standard 14pt
+      - Premium 16pt
+      - Thick 32pt
+      - Recycled Paper
+      - Plastic
+      required: true
+    - id: 13
+      name: finish_type
+      label: Finish Type
+      hint: Card surface finish
+      type: select_one
+      options:
+      - Matte
+      - Gloss
+      - Satin
+      - Textured
+      - Spot UV
+      required: true
+    - id: 14
+      name: color_print
+      label: Color Printing
+      hint: Two-sided color printing included
+      type: select_one
+      options:
+      - Single Sided Full Color
+      - Double Sided Full Color
+      - Black and White
+      - Spot Color
+      required: true
+    - id: 15
+      name: design_options
+      label: -- Design Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: design_service
+      label: Design Service
+      hint: Do you need design assistance
+      type: select_one
+      options:
+      - I have my own design
+      - Need basic design
+      - Need professional design
+      - Choose from templates
+      required: true
+    - id: 17
+      name: design_turnaround
+      label: Design Turnaround Time
+      hint: How quickly do you need the design
+      type: select_one
+      options:
+      - 1-2 business days
+      - 3-5 business days
+      - 1-2 weeks
+      - No rush
+      required: false
+    - id: 18
+      name: shipping_info
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery speed
+      type: select_one
+      options:
+      - Standard 7-10 days
+      - Expedited 3-5 days
+      - Rush 1-2 days
+      - Overnight
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Will be calculated based on selections
+      type: number
+      options: []
+      required: false

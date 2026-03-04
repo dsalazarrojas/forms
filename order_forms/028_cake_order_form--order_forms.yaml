@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_delivery_date
+      label: Pickup or Delivery Date
+      hint: When do you need your cake
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_delivery_time
+      label: Pickup or Delivery Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: receive_method
+      label: Receive Method
+      hint: How will you get your cake
+      type: select_one
+      options:
+      - Pickup in store
+      - Home delivery
+      - Event delivery
+      required: true
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address if delivery
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cake_shape
+      label: Cake Shape
+      hint: What shape cake
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Rectangular
+      - Heart
+      - Custom shape
+      required: true
+    - id: 10
+      name: cake_size
+      label: Cake Size
+      hint: What size cake
+      type: select_one
+      options:
+      - 6 inch
+      - 8 inch
+      - 10 inch
+      - 12 inch
+      - Sheet cake
+      - Custom size
+      required: true
+    - id: 11
+      name: cake_flavor
+      label: Cake Flavor
+      hint: Choose flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Marble
+      - Coconut
+      required: true
+    - id: 12
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: Choose frosting flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Cream cheese
+      - Strawberry
+      - Lemon
+      - Mocha
+      required: true
+    - id: 13
+      name: filling_flavor
+      label: Filling Flavor
+      hint: Choose filling
+      type: select_one
+      options:
+      - Same as frosting
+      - Raspberry
+      - Strawberry
+      - Lemon curd
+      - Chocolate ganache
+      - Vanilla custard
+      - No filling
+      required: false
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: How many cakes
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: cake_message
+      label: Cake Message
+      hint: What should we write on cake
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: color_scheme
+      label: Color Scheme
+      hint: Preferred colors
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: design_style
+      label: Design Style
+      hint: Describe desired design
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_needs
+      label: Dietary Needs
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      required: true
+    - id: 19
+      name: occasion
+      label: Occasion
+      hint: What is this for
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Baby shower
+      - Holiday
+      - Other
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Gift card
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any other requests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Merchandise Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: merchandise_details
+      label: Merchandise
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: merchandise_price
+      label: Merchandise Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: merchandise_discount
+      label: Merchandise Discount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: merchandise_quantity
+      label: Merchandise Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: merchandise_status
+      label: Merchandise Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: merchandise_id
+      label: Merchandise ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: merchandise_category
+      label: Merchandise Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: assigned_user_id
+      label: Assigned User ID
+      hint: null
+      type: number
+      options: []
+      required: false

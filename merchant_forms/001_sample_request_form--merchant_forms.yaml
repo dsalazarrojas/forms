@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: sample_request_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: product_or_service
+      label: Product or Service
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: Provide a short message
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - John
+      - Jane
+      required: false
+    - id: 8
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: number
+      options: []
+      required: false

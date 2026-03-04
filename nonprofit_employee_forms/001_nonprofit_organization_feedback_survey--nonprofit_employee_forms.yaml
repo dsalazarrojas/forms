@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Organization Feedback Survey
+    pages:
+    - id: 1
+      name: non_profit_organization_feedback_survey_form
+      label: Nonprofit Organization Feedback Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: What are some areas we can improve?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating (1-5)
+      hint: How would you rate our services?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: non_profit_organization_feedback_survey_form_submitter_name
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_at
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: non_profit_organization_feedback_survey_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Submit'', ''value'': ''Submit''}'
+      - '{''id'': 2, ''name'': ''Cancel'', ''value'': ''Cancel''}'
+      required: false

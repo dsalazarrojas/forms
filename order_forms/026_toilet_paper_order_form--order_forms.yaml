@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toilet Paper Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Retail''}'
+      - '{''label'': ''Wholesale''}'
+      - '{''label'': ''Bulk''}'
+      required: false
+    - id: 4
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Toilet Paper''}'
+      - '{''label'': ''Hand Towels''}'
+      - '{''label'': ''Paper Towels''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''Square''}'
+      required: false
+    - id: 12
+      name: custom_option_1
+      label: Custom Option 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1.1''}'
+      - '{''label'': ''Option 1.1.1''}'
+      - '{''label'': ''Option 1.1.2''}'
+      required: false
+    - id: 13
+      name: custom_option_2
+      label: Custom Option 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: custom_option_3
+      label: Custom Option 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 3.1''}'
+      - '{''label'': ''Option 3.1.1''}'
+      - '{''label'': ''Option 3.1.2''}'
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: store_email
+      label: Store Email
+      hint: null
+      type: email
+      options: []
+      required: false

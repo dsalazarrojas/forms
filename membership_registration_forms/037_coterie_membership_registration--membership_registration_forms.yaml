@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coterie Membership Registration
+    pages:
+    - id: 1
+      name: membership_registration_form
+      label: Membership Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Membership Type
+      - Non-Member
+      - Member
+      - Volunteer
+      - Guest
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

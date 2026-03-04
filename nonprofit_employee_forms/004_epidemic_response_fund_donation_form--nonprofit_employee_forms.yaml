@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: epidemic_response_fund_donation_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - mail
+      required: false
+    - id: 5
+      name: donation_frequency_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - weekly
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 6
+      name: donation_frequency_interval
+      label: Interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_method_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - home
+      - work
+      - other
+      required: false
+    - id: 11
+      name: mail
+      label: Mail
+      hint: null
+      type: select_multiple
+      options:
+      - home
+      - work
+      - other
+      required: false
+    - id: 12
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_multiple
+      options:
+      - monetary
+      - in-kind
+      - other
+      required: false
+    - id: 13
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - offline
+      - other
+      required: false
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: select_multiple
+      options:
+      - primary
+      - secondary
+      - other
+      required: false
+    - id: 18
+      name: form_language
+      label: Form Language
+      hint: null
+      type: select_multiple
+      options:
+      - english
+      - spanish
+      - french
+      - other
+      required: false
+    - id: 19
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_multiple
+      options:
+      - latest
+      - previous
+      - other
+      required: false
+    - id: 20
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - submitted
+      - draft
+      - other
+      required: false
+    - id: 21
+      name: donation_amount_frequency
+      label: Frequency of Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: donation_frequency_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false

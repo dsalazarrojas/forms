@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Primary Care Membership Enrollment
+    pages:
+    - id: 1
+      name: enrollment_form
+      label: direct_primary_care_membership_enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_selection
+      label: plan_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: member_info
+      label: member_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

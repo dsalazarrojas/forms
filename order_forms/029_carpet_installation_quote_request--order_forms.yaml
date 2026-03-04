@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpet Installation Quote Request
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_address
+      label: Installation Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_type
+      label: Project Category
+      hint: select the best description
+      type: select_one
+      options:
+      - New Construction
+      - Renovation
+      - Commercial
+      - Residential
+      - Other
+      required: true
+    - id: 8
+      name: installation_area
+      label: Primary Area of Installation
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Living Room
+      - Bedrooms
+      - Hallways
+      - Stairs
+      - Basement
+      - Full House
+      - Office
+      required: true
+    - id: 9
+      name: approximate_area_sqft
+      label: Approximate Total Square Footage
+      hint: Provide your best estimate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_carpet_selection
+      label: -- Carpet Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: carpet_style
+      label: Desired Carpet Style
+      hint: choose a primary look
+      type: select_one
+      options:
+      - Plush
+      - Berber
+      - Frieze
+      - Patterned
+      - Not Decided
+      required: true
+    - id: 12
+      name: carpet_material
+      label: Preferred Material
+      hint: null
+      type: select_one
+      options:
+      - Nylon
+      - Polyester
+      - Wool
+      - Triexta
+      - Not Sure
+      required: true
+    - id: 13
+      name: padding_preference
+      label: Padding Type
+      hint: comfort and durability level
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Waterproof
+      - Moisture Barrier
+      required: true
+    - id: 14
+      name: colors_interests
+      label: Preferred Color Palette
+      hint: Neutral, bold, dark, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_installation_specifics
+      label: -- Installation Specifics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_flooring
+      label: What is the current flooring?
+      hint: what we need to work over
+      type: select_one
+      options:
+      - Carpet
+      - Hardwood
+      - Tile
+      - Vinyl
+      - Concrete
+      - Subfloor Only
+      required: true
+    - id: 17
+      name: removal_needed
+      label: Do you need existing flooring removal?
+      hint: select one
+      type: select_one
+      options:
+      - true
+      - false
+      - Some areas
+      required: true
+    - id: 18
+      name: floor_prep_needed
+      label: Any known subfloor repairs needed?
+      hint: cracks, rot, or uneven surfaces
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: move_furniture_needed
+      label: Do you need us to move furniture?
+      hint: additional fees may apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: section_timeline_budget
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: project_start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: estimated_budget
+      label: Estimated Budget
+      hint: numeric value only
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Any other details or special requests
+      hint: e.g. pets, access hours
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quote_ack
+      label: I acknowledge this is a request for a quote and not an order
+      hint: final quote subject to site measure
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

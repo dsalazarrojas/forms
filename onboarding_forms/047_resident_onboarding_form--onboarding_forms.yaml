@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_to_resident
+      label: Relationship to Resident
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Child
+      - Other
+      required: true
+    - id: 8
+      name: resident_address
+      label: Resident Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: apartment_complex_id
+      label: Apartment Complex Id
+      hint: null
+      type: select_multiple
+      options:
+      - '1001'
+      - '1002'
+      - '1003'
+      - '1004'
+      - '1005'
+      required: true
+    - id: 11
+      name: move_in_date
+      label: Move in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: move_in_time
+      label: Move in Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 24 months
+      required: true
+    - id: 15
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

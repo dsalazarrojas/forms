@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Process Monitoring Log
+    pages:
+    - id: 1
+      name: batch_id
+      label: Batch ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: batch_comments
+      label: Batch Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: production_status_other
+      label: Other Production Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_status_reason
+      label: Production Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false

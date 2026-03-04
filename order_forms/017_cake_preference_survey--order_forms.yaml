@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cake Preference Survey
+    pages:
+      - id: 1
+        name: respondent_info_header
+        label: -- Your Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: purchase_frequency
+        label: How often do you purchase cakes?
+        hint: null
+        type: select_one
+        options:
+          - "Weekly"
+          - "Monthly"
+          - "Quarterly"
+          - "Annually"
+          - "Rarely"
+        required: true
+      - id: 5
+        name: flavor_preferences_header
+        label: -- Flavor Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: favorite_flavors
+        label: Your Favorite Cake Flavors
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - "Chocolate"
+          - "Vanilla"
+          - "Strawberry"
+          - "Red Velvet"
+          - "Lemon"
+          - "Carrot Cake"
+          - "Cheesecake"
+          - "Funfetti"
+        required: true
+      - id: 7
+        name: least_favorite_flavors
+        label: Flavors You Dislike
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - "Almond"
+          - "Coconut"
+          - "Coffee"
+          - "Licorice"
+          - "Other"
+        required: false
+      - id: 8
+        name: frosting_header
+        label: -- Frosting Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: frosting_preference
+        label: Preferred Frosting Type
+        hint: null
+        type: select_one
+        options:
+          - "Buttercream"
+          - "Cream Cheese"
+          - "Chocolate Ganache"
+          - "Fondant"
+          - "Whipped Cream"
+          - "No frosting"
+        required: true
+      - id: 10
+        name: frosting_amount
+        label: How much frosting do you prefer?
+        hint: null
+        type: select_one
+        options:
+          - "Light"
+          - "Moderate"
+          - "Heavy"
+        required: true
+      - id: 11
+        name: sweetness_level
+        label: Preferred Sweetness Level
+        hint: null
+        type: select_one
+        options:
+          - "Not very sweet"
+          - "Moderately sweet"
+          - "Very sweet"
+        required: true
+      - id: 12
+        name: texture_header
+        label: -- Texture and Consistency --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: cake_density
+        label: Preferred Cake Density
+        hint: null
+        type: select_one
+        options:
+          - "Light and fluffy"
+          - "Moist and dense"
+          - "Somewhere in between"
+        required: true
+      - id: 14
+        name: filling_preference
+        label: Do you prefer cake with filling?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, definitely"
+          - "Sometimes"
+          - "No, plain is better"
+        required: true
+      - id: 15
+        name: toppings_header
+        label: -- Toppings and Decorations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: topping_preferences
+        label: Favorite Cake Toppings
+        hint: Select all you enjoy
+        type: select_multiple
+        options:
+          - "Fresh fruit"
+          - "Sprinkles"
+          - "Nuts"
+          - "Chocolate chips"
+          - "Caramel"
+          - "Whipped cream"
+          - "Minimal decoration"
+        required: false
+      - id: 17
+        name: dietary_info_header
+        label: -- Dietary Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: dietary_restrictions
+        label: Dietary Restrictions or Allergies
+        hint: null
+        type: select_multiple
+        options:
+          - "Gluten-free"
+          - "Dairy-free"
+          - "Vegan"
+          - "Nut-free"
+          - "Sugar-free"
+          - "None"
+        required: true
+      - id: 19
+        name: occasion_info
+        label: Types of Occasions You Buy Cakes For
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - "Birthdays"
+          - "Anniversaries"
+          - "Weddings"
+          - "Corporate events"
+          - "Personal enjoyment"
+          - "Gifts"
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Preferences or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

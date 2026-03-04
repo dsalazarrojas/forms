@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Pre Purchase Action Plan
+    pages:
+    - id: 1
+      name: form_header
+      label: Pre-Purchase Action Plan
+      hint: Help us understand your needs before finalizing your purchase
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_interest
+      label: Product or Service of Interest
+      hint: null
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Enterprise Solution
+      - Custom Solution
+      - Other
+      required: true
+    - id: 8
+      name: purchase_timeline
+      label: When Do You Plan to Purchase
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Just researching
+      required: true
+    - id: 9
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - $5000-$10000
+      - Over $10000
+      required: true
+    - id: 10
+      name: decision_maker
+      label: Are You the Decision Maker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Part of Decision Committee
+      - Influencer
+      required: true
+    - id: 11
+      name: current_solution
+      label: What Solution Are You Currently Using
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_challenges
+      label: What Challenges Are You Trying to Solve
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost Reduction
+      - Efficiency Improvement
+      - Quality Improvement
+      - Scalability
+      - Better Support
+      - Feature Gaps
+      - Integration Needs
+      - Compliance Requirements
+      - Other
+      required: true
+    - id: 13
+      name: must_have_features
+      label: Must-Have Features or Requirements
+      hint: List your non-negotiable requirements
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: nice_to_have_features
+      label: Nice-to-Have Features
+      hint: Features that would be a bonus
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: integration_requirements
+      label: Integration Requirements
+      hint: What systems need to integrate
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: number_of_users
+      label: Number of Users
+      hint: How many people will use this
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: implementation_timeframe
+      label: Desired Implementation Timeframe
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      required: false
+    - id: 18
+      name: training_needs
+      label: Training Requirements
+      hint: null
+      type: select_one
+      options:
+      - Minimal - Self-service resources
+      - Basic - Online training sessions
+      - Comprehensive - On-site training
+      - Ongoing - Continuous support
+      required: false
+    - id: 19
+      name: competitors_considering
+      label: Are You Considering Other Vendors
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: vendor_names
+      label: Which Other Vendors Are You Considering
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_vendor_experience
+      label: Have You Used Similar Products Before
+      hint: null
+      type: select_one
+      options:
+      - Yes currently using
+      - Yes in the past
+      - No first time
+      required: false
+    - id: 22
+      name: concerns_or_questions
+      label: Any Concerns or Questions Before Purchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_demo_time
+      label: Preferred Time for Product Demo
+      hint: If you would like a demo
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Online Search
+      - Social Media
+      - Trade Show
+      - Advertisement
+      - Content Marketing
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

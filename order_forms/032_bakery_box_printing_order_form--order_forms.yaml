@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Box Printing Order Form
+    pages:
+      - id: 1
+        name: section_customer
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Bakery or Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_person
+        label: Contact Person Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: contact_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 6
+        name: section_box_specs
+        label: -- Box Specifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: box_type
+        Label: Box Type
+        hint: null
+        type: select_one
+        options:
+          - Bakery Window Box
+          - Cake Box
+          - Donut Box
+          - Pastry Box
+          - Custom Size
+        required: true
+      - id: 8
+        name: box_size
+        Label: Box Size
+        hint: null
+        type: select_one
+        options:
+          - 6 x 6 inches
+          - 8 x 8 inches
+          - 10 x 10 inches
+          - 12 x 12 inches
+          - Custom
+        required: true
+      - id: 9
+        name: custom_dimensions
+        Label: Custom Dimensions (if applicable)
+        hint: Length x Width x Height in inches
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: box_material
+        Label: Box Material
+        hint: null
+        type: select_one
+        options:
+          - Kraft Cardboard
+          - White Coated
+          - Kraft with Window
+          - Rigid Box
+          - Other
+        required: true
+      - id: 11
+        name: quantity_ordered
+        Label: Quantity to Order
+        hint: Number of boxes
+        type: integer
+        options: []
+        required: true
+      - id: 12
+        name: section_design
+        label: -- Design Specifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: design_option
+        Label: Design Option
+        hint: null
+        type: select_one
+        options:
+          - Standard Template
+          - Custom Design
+          - Blank Box
+          - Client Supplied Design
+        required: true
+      - id: 14
+        name: company_logo
+        Label: Include Company Logo or Branding
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 15
+        name: color_specification
+        Label: Color Specification
+        hint: Ink colors, finishes, etc.
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: design_file_uploaded
+        Label: Design File Status
+        hint: null
+        type: select_one
+        options:
+          - File Provided
+          - Need Design Assistance
+          - Using Template
+        required: true
+      - id: 17
+        name: section_printing
+        label: -- Printing Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: print_quality
+        Label: Print Quality Level
+        hint: null
+        type: select_one
+        options:
+          - Standard
+          - Premium
+          - High Definition
+        required: false
+      - id: 19
+        name: finish_type
+        Label: Finish Type
+        hint: null
+        type: select_one
+        options:
+          - Matte
+          - Gloss
+          - Soft Touch
+          - Spot UV
+        required: false
+      - id: 20
+        name: section_timeline
+        label: -- Timeline and Delivery --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: needed_by_date
+        Label: Date Needed By
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 22
+        name: rush_order
+        Label: Rush Order Needed?
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes - Express"
+          - "Yes - Priority"
+        required: false
+      - id: 23
+        name: delivery_address
+        Label: Delivery Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: special_instructions
+        Label: Special Instructions or Notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: order_confirmation
+        Label: I Confirm This Order Information is Accurate
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

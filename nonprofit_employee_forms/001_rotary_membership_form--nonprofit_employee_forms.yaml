@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rotary Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rotary_club
+      label: Rotary Club
+      hint: null
+      type: select_one
+      options:
+      - Rotary Club 1
+      - Rotary Club 2
+      - Rotary Club 3
+      required: true
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Annual
+      - Bi-Annual
+      - Lifetime
+      required: true
+    - id: 11
+      name: join_date
+      label: Join Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false

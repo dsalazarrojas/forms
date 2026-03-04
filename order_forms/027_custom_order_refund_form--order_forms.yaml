@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Order Refund Form
+    pages:
+    - id: 1
+      name: order_refund_form
+      label: Custom Order Refund Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_refund_amount
+      label: Customer Refund Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Cancelled
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

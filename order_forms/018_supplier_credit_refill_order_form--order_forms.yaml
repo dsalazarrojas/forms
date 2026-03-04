@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Credit Refill Order Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supplier_name
+      label: supplier name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: credit_amount
+      label: credit amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: order type
+      hint: null
+      type: select_one
+      options:
+      - Supplier Credit Refill
+      - Credit Refill
+      - Other
+      required: false
+    - id: 6
+      name: order_details
+      label: order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_note
+      label: order note
+      hint: null
+      type: text
+      options: []
+      required: false

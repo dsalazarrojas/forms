@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: wrestling_event_banner_selection
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_artwork
+      label: Sponsor Artwork
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_banner_size
+      label: Event Banner Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: banner_orientation
+      label: Banner Orientation
+      hint: null
+      type: select_one
+      options:
+      - Horizontal
+      - Vertical
+      required: false
+    - id: 9
+      name: banner_position
+      label: Banner Position
+      hint: null
+      type: select_multiple
+      options:
+      - Front.reporter
+      - Back
+      - Side
+      required: false
+    - id: 10
+      name: sponsor_approval
+      label: Sponsor Approval
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Conditional
+      - Not Required
+      required: false
+    - id: 11
+      name: banner_artwork
+      label: Banner Artwork
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: artwork_approval
+      label: Artwork Approval
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Conditional
+      - Not Required
+      required: false
+    - id: 13
+      name: banner_preferences
+      label: Banner Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: approval_process
+      label: Approval Process
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Online Submission
+      required: false
+    - id: 15
+      name: event_manager
+      label: Event Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Conditional
+      - Not Required
+      required: false
+    - id: 17
+      name: banner_approval_date
+      label: Banner Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: banner_approval_time
+      label: Banner Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: artwork_approval_date
+      label: Artwork Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: artwork_approval_time
+      label: Artwork Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: banner_delivery_date
+      label: Banner Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: banner_delivery_time
+      label: Banner Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: artwork_delivery_date
+      label: Artwork Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: artwork_delivery_time
+      label: Artwork Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

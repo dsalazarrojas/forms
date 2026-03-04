@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Model Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Robot Model Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: robot_model_name
+      label: Robot Model Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_event_media
+      label: Project/Event/Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Project'', ''value'': ''project''}'
+      - '{''label'': ''Event'', ''value'': ''event''}'
+      - '{''label'': ''Media'', ''value'': ''media''}'
+      required: false
+    - id: 4
+      name: robot_model_description
+      label: Robot Model Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: media_location
+      label: Media Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: approvals
+      label: Approvals
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: robot_model_image
+      label: Robot Model Image
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: approval_email
+      label: Approval Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: approval_phone
+      label: Approval Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: robot_model_notes
+      label: Robot Model Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_approvals
+      label: Project Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes'', ''value'': ''yes''}'
+      - '{''label'': ''No'', ''value'': ''no''}'
+      required: false
+    - id: 14
+      name: event_approvals
+      label: Event Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes'', ''value'': ''yes''}'
+      - '{''label'': ''No'', ''value'': ''no''}'
+      required: false
+    - id: 15
+      name: media_approvals
+      label: Media Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes'', ''value'': ''yes''}'
+      - '{''label'': ''No'', ''value'': ''no''}'
+      required: false

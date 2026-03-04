@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boudoir Model Release Form
+    pages:
+    - id: 1
+      name: section_header_model
+      label: -- Model Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: model_full_name
+      label: Model Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: model_email
+      label: Email Address
+      hint: For communication and records
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: model_phone
+      label: Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: model_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_session
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: Date of photography session
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: photographer_name
+      label: Photographer Name
+      hint: Name of photographer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Session Location
+      hint: Where the session took place
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_usage_rights
+      label: -- Usage Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: usage_consent
+      label: I grant permission to use my images for
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Portfolio display
+      - Social media
+      - Website
+      - Marketing materials
+      - Print publications
+      - Advertising
+      - Limited to personal use only
+      required: true
+    - id: 13
+      name: modification_consent
+      label: Photographer may modify or edit images
+      hint: Color correction, retouching, cropping
+      type: select_one
+      options:
+      - Yes, approved
+      - No modifications
+      - Ask for approval on major changes
+      required: true
+    - id: 14
+      name: duration_usage
+      label: Duration of Usage Rights
+      hint: How long images can be used
+      type: select_one
+      options:
+      - Perpetual (unlimited)
+      - One year
+      - Two years
+      - Five years
+      - Limited to 30 days
+      - Other
+      required: true
+    - id: 15
+      name: section_header_exclusions
+      label: -- Usage Exclusions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: prohibited_use
+      label: Images cannot be used for
+      hint: Select any restrictions
+      type: select_multiple
+      options:
+      - Commercial advertising
+      - Political purposes
+      - Misleading representation
+      - Explicit/adult content
+      - Defamatory use
+      - Third-party sales
+      - None specified
+      required: false
+    - id: 17
+      name: credit_requirement
+      label: Model must be credited when images are used
+      hint: null
+      type: select_one
+      options:
+      - Yes, credit required
+      - No, anonymous use okay
+      - Photographer discretion
+      required: false
+    - id: 18
+      name: section_header_compensation
+      label: -- Compensation and Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: compensation_details
+      label: Compensation Provided
+      hint: Payment details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confidentiality
+      label: Model acknowledges limited confidentiality
+      hint: Images are not typically confidential
+      type: select_one
+      options:
+      - I acknowledge
+      - Confidentiality required
+      required: true
+    - id: 21
+      name: final_consent
+      label: I agree to this model release
+      hint: Confirm to proceed
+      type: select_one
+      options:
+      - I fully agree and consent
+      - I do not agree
+      required: true

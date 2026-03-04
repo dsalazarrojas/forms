@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Backup Generator Order Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information_form
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: backup_generator_select_form
+      label: Backup Generator
+      hint: null
+      type: select_one
+      options:
+      - Backup Generator A
+      - Backup Generator B
+      required: false
+    - id: 4
+      name: backup_generator_select_form
+      label: Backup Generator
+      hint: null
+      type: select_one
+      options:
+      - Backup Generator A
+      - Backup Generator B
+      required: false
+    - id: 5
+      name: power_select_form
+      label: Power Select
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: power_select_form
+      label: Power Select
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '150'
+      - '250'
+      required: false
+    - id: 7
+      name: features_select_form
+      label: Features Select
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: features_select_form
+      label: Features Select
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_address_2
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: backup_generator_model
+      label: Backup Generator Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: backup_generator_price
+      label: Backup Generator Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Check
+      required: false
+    - id: 23
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In-Store Pickup
+      - Delivery
+      - Shipping
+      required: false
+    - id: 24
+      name: delivery_terms
+      label: Delivery
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

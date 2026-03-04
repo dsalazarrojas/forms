@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Usability Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: device_description
+      label: device_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_experience
+      label: user_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_familiarity
+      label: user_familiarity
+      hint: null
+      type: select_one
+      options:
+      - very_familiar
+      - somewhat_familiar
+      - not_at_all
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false

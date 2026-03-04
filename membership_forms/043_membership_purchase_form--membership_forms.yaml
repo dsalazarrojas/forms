@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Purchase Form
+    pages:
+    - id: 1
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: member_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: member_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: card_expiration
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: card_cvc
+      label: CVC
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: member_info
+      label: Member Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false

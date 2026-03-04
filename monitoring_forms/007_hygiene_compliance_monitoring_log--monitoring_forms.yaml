@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hygiene Compliance Monitoring Log
+    pages:
+    - id: 1
+      name: area
+      label: Select Area
+      hint: null
+      type: select_one
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: false
+    - id: 2
+      name: time
+      label: Select Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 3
+      name: issue
+      label: Document Issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: action
+      label: Record Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_verify
+      label: Supervisor Verify
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_verify_date
+      label: Supervisor Verify Date
+      hint: null
+      type: date
+      options: []
+      required: false

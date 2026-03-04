@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: maritime_ship_parts_order_request_form
+    pages:
+    - id: 1
+      name: vessel_request
+      label: vessel_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: supplier_info
+      label: supplier_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_preferences
+      label: shipping_preferences
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: delivery_timeline
+      label: delivery_timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_contact
+      label: shipping_contact
+      hint: null
+      type: text
+      options: []
+      required: false

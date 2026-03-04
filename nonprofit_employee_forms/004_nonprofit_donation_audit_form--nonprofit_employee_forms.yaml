@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonprofit_donation_audit_form
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true

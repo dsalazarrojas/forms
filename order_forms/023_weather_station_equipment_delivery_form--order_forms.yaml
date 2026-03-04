@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weather Station Equipment Delivery Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Weather Station
+      - Weather Monitor
+      - Anemometer
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_contact
+      label: delivery_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_terms
+      label: delivery_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infection Control Checklist
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - Bloodborne Infection
+      - Urinary Tract Infection
+      - Surgical Site Infection
+      required: false
+    - id: 4
+      name: date_last_seen
+      label: Date Last Seen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_admitted
+      label: Date Admitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_dob
+      label: Patient DoB
+      hint: null
+      type: date
+      options: []
+      required: false

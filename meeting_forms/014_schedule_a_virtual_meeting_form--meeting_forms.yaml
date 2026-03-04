@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Virtual Meeting Form
+    pages:
+    - id: 1
+      name: meeting_requester
+      label: Meeting Requester
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: meeting_title
+      label: Meeting Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - In-person
+      - Phone
+      required: false
+    - id: 9
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_link
+      label: Meeting Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_room
+      label: Meeting Room
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: scheduled_at
+      label: Scheduled At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: start_time_utc
+      label: Start Time (UTC)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: end_time_utc
+      label: End Time (UTC)
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: duration_utc
+      label: Duration (UTC)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: attendees_utc
+      label: Attendees (UTC)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: meeting_link_utc
+      label: Meeting Link (UTC)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: meeting_room_utc
+      label: Meeting Room (UTC)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

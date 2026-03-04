@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Home Resident Altercation Incident Report
+    pages:
+      - id: 1
+        name: incident_header
+        label: -- Incident Report --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: incident_date
+        label: Incident date
+        hint: Date when incident occurred
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: incident_time
+        label: Incident time
+        hint: Approximate time of incident
+        type: time
+        options: []
+        required: false
+      - id: 4
+        name: resident_involved
+        label: Resident involved
+        hint: Name of resident(s) involved
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: witness_names
+        label: Witness names
+        hint: Staff or residents who witnessed incident
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: location_of_incident
+        label: Location of incident
+        hint: Specific room or area
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: description_of_event
+        label: Description of event
+        hint: Provide objective factual details
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: actions_taken
+        label: Immediate actions taken
+        hint: Interventions and responses
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: injuries_reported
+        label: Injuries reported
+        hint: Describe any injuries observed
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: follow_up_plan
+        label: Follow up plan
+        hint: Next steps investigation care plans
+        type: text
+        options: []
+        required: true

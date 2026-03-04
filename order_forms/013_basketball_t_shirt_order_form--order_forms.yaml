@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Team Apparel Order --
+      hint: Get your official team gear here!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shirt_style
+      label: T-Shirt Style
+      hint: null
+      type: select_one
+      options:
+      - Short Sleeve Cotton
+      - Long Sleeve Cotton
+      - Performance Dri-Fit
+      - V-Neck
+      required: true
+    - id: 6
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Team White
+      - Team Black
+      - Team Blue
+      - Team Gray
+      required: true
+    - id: 7
+      name: shirt_size
+      label: Select Your Size
+      hint: null
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: personalization_check
+      label: Would you like to add a custom name and number to the back?
+      hint: Additional $5.00 charge
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: custom_name
+      label: Custom Name for Back
+      hint: Only if Yes selected above
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: custom_number
+      label: Custom Number for Back
+      hint: Only if Yes selected above
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      - Cash on Collection
+      required: true
+    - id: 13
+      name: delivery_method
+      label: How would you like to receive your order?
+      hint: null
+      type: select_one
+      options:
+      - Pickup at Practice
+      - Ship to Home ($5.00 fee)
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: Only required for shipping
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_date
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true

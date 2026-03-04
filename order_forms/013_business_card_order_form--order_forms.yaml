@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Order Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your company or business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: website
+      label: Website URL
+      hint: Your company website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_details
+      label: -- Business Card Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: card_quantity
+      label: Quantity
+      hint: Number of business cards needed
+      type: select_one
+      options:
+      - 250 cards
+      - 500 cards
+      - 1000 cards
+      - 2500 cards
+      - 5000 cards
+      - Custom quantity
+      required: true
+    - id: 10
+      name: custom_quantity
+      label: Custom Quantity
+      hint: Enter custom number if selected above
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: card_size
+      label: Card Size
+      hint: Standard or custom size
+      type: select_one
+      options:
+      - Standard 3.5x2 inches
+      - Mini 2x3.5 inches
+      - Square 3x3 inches
+      - Custom Size
+      required: true
+    - id: 12
+      name: stock_type
+      label: Stock Type
+      hint: Quality of card stock
+      type: select_one
+      options:
+      - Standard 14pt
+      - Premium 16pt
+      - Heavyweight 32pt
+      - Recycled Cardstock
+      - Plastic PVC
+      required: true
+    - id: 13
+      name: finish_style
+      label: Finish Style
+      hint: Card surface finish
+      type: select_one
+      options:
+      - Matte
+      - Gloss
+      - Satin
+      - Textured Linen
+      - Spot UV
+      required: true
+    - id: 14
+      name: color_options
+      label: Color Printing
+      hint: Printing on one or both sides
+      type: select_one
+      options:
+      - Black and White Single Sided
+      - Black and White Double Sided
+      - Full Color Single Sided
+      - Full Color Double Sided
+      required: true
+    - id: 15
+      name: design_file
+      label: Design File Provided
+      hint: Do you have your design ready
+      type: select_one
+      options:
+      - Yes, I have design file
+      - No, need design help
+      - Use template
+      - Need professional design
+      required: true
+    - id: 16
+      name: design_format
+      label: Design Format
+      hint: File format if you have design
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_address
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: street_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: address_line2
+      label: Address Line 2
+      hint: Apartment, suite, etc if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: state
+      label: State/Province
+      hint: State or province code
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: postal_code
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: Select delivery speed
+      type: select_one
+      options:
+      - Standard 5-7 business days
+      - Expedited 3-5 business days
+      - Rush 1-2 business days
+      - Overnight
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Invoice
+      required: true

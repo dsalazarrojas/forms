@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Donation Form
+    pages:
+    - id: 1
+      name: section_header_donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: is_member
+      label: Are You a Church Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Prospective member
+      required: false
+    - id: 6
+      name: section_header_donation
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      - Other
+      required: true
+    - id: 9
+      name: donation_type
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - General offering
+      - Tithe
+      - Building fund
+      - Mission outreach
+      - Specific program
+      - In-kind donation
+      - Other
+      required: true
+    - id: 10
+      name: specific_program
+      label: Specific Program or Cause (if applicable)
+      hint: Youth group, community outreach, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: in_kind_description
+      label: In-Kind Donation Description (if applicable)
+      hint: What are you donating
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit or debit card
+      - Bank transfer
+      - Mobile payment
+      - Pledge
+      required: true
+    - id: 14
+      name: check_number
+      label: Check Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_tax_info
+      label: -- Tax Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tax_deductible
+      label: This donation is tax-deductible
+      hint: Your contribution is a charitable donation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: mailing_address
+      label: Mailing Address for Tax Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: receipt_requested
+      label: Donation Receipt Requested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: section_header_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: donor_recognition
+      label: Recognition Level
+      hint: How your donation will be recognized
+      type: select_one
+      options:
+      - Anonymous
+      - Private recognition only
+      - Published in bulletin
+      - Public acknowledgment
+      required: false
+    - id: 21
+      name: updates_requested
+      label: Would you like updates about how your donation is used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: newsletter_signup
+      label: Sign me up for our newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: donation_message
+      label: Message or Prayer Request
+      hint: Leave a message about your donation or prayer intention
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Provider Nomination Tracking Log
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominee_name
+      label: Nominee Name
+      hint: Name of the insurance provider nominee
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_type
+      label: Provider Type
+      hint: Type of insurance provider (e.g., Health, Life, Annuity)
+      type: select_one
+      options:
+      - Health
+      - Life
+      - Annuity
+      required: false
+    - id: 6
+      name: nomination_date
+      label: Nomination Date
+      hint: Date of nomination (MM/DD/YYYY)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Reason for nomination
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: decision_update
+      label: Decision Update
+      hint: Status of the nomination
+      type: select_one
+      options:
+      - Open
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 12
+      name: nomination_update
+      label: Nomination Update
+      hint: Date of last update
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: benefits_start_date
+      label: Benefits Start Date
+      hint: Date when benefits started
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: benefits_end_date
+      label: Benefits End Date
+      hint: Date when benefits ended
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: nomination_status
+      label: Nomination Status
+      hint: Status of the nomination
+      type: select_one
+      options:
+      - Open
+      - Completed
+      required: false
+    - id: 16
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agency_contact
+      label: Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agency_phone
+      label: Agency Phone
+      hint: Phone number of agency
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agency_email
+      label: Agency Email
+      hint: Email address of agency
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vendor_name
+      label: Vender Name
+      hint: Name of vender
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vendor_phone
+      label: Vender Phone
+      hint: Phone number of vender
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: vendor_email
+      label: Vender Email
+      hint: Email address of vender
+      type: text
+      options: []
+      required: false

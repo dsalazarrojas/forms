@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Board Chair Voting Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Board Chair Voting --
+        hint: Collect votes and confirm voter eligibility for board chair elections
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: voter name
+        hint: name required for eligibility verification
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: voter_email
+        label: voter email
+        hint: used to confirm voter identity
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: voter_role
+        label: voter role
+        hint: role within the organization
+        type: select_one
+        options:
+          - Board member
+          - Staff
+          - Volunteer
+          - Other
+        required: true
+      - id: 5
+        name: candidate_choice
+        label: candidate choice
+        hint: select one candidate for board chair
+        type: select_one
+        options:
+          - Candidate A
+          - Candidate B
+          - Candidate C
+        required: true
+      - id: 6
+        name: proxy_vote
+        label: proxy vote
+        hint: are you voting by proxy for another member
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 7
+        name: eligibility_confirmed
+        label: eligibility confirmed
+        hint: confirm you meet voting eligibility requirements
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: comments
+        label: comments
+        hint: optional comments about candidates
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: signature
+        label: signature name
+        hint: typed name confirms vote
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: submission_date
+        label: submission date
+        hint: date vote was submitted
+        type: date
+        options: []
+        required: true

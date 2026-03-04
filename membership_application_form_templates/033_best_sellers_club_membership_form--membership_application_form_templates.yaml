@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Sellers Club Membership Form
+    pages:
+    - id: 1
+      name: seller_info_header
+      label: -- Seller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_legal_name
+      label: Business Name
+      hint: Registered name of your enterprise
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_email_address
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_website_url
+      label: Business Website
+      hint: URL for your online store or profile
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sales_profile_header
+      label: -- Sales Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_sales_platform
+      label: Primary Sales Platform
+      hint: Where do you conduct most of your business
+      type: select_one
+      options:
+      - Amazon
+      - eBay
+      - Etsy
+      - Shopify
+      - Direct Website (WooCommerce/Magento)
+      - Physical Retail Location
+      - Other
+      required: true
+    - id: 9
+      name: goods_category_select
+      label: Category of Goods
+      hint: Select your primary niche
+      type: select_one
+      options:
+      - Electronics and Tech
+      - Fashion and Apparel
+      - Home and Garden
+      - Beauty and Personal Care
+      - Art and Handmade Goods
+      - Professional Services
+      - Health and Nutrition
+      - Other
+      required: true
+    - id: 10
+      name: years_in_business_bracket
+      label: Years in Business
+      hint: How long have you been selling
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 or more years
+      required: true
+    - id: 11
+      name: monthly_sales_range
+      label: Average Monthly Sales
+      hint: USD equivalent
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,001 - $10,000
+      - $10,001 - $50,000
+      - Over $50,000
+      required: true
+    - id: 12
+      name: sku_count_total
+      label: Number of SKUs or Products
+      hint: How many unique products do you list
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: performance_reputation_header
+      label: -- Performance and Reputation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_rating_average
+      label: Average Customer Rating
+      hint: Out of 5 stars
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 15
+      name: fulfillment_speed_estimate
+      label: Order Fulfillment Speed
+      hint: Time from order to shipment
+      type: select_one
+      options:
+      - Under 24 hours
+      - 1 to 2 days
+      - 3 to 5 days
+      - 5 or more days
+      required: true
+    - id: 16
+      name: top_seller_description
+      label: Description of Your Top Selling Product
+      hint: Highlight your most successful item
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: return_policy_handling
+      label: How do you handle customer returns
+      hint: Describe your return and refund process
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: application_rationale_header
+      label: -- Membership Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: club_joining_reason
+      label: Why do you want to join the Best Sellers Club
+      hint: What are your goals for joining
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: community_contribution_desc
+      label: What can you contribute to the seller community
+      hint: Expertise, networking, or support
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: final_details_header
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: code_of_conduct_agreement
+      label: I agree to the club's code of conduct and ethics
+      hint: Membership requires professional standards
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 23
+      name: application_submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

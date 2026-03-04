@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Goodwill Voucher Form
+    pages:
+    - id: 1
+      name: voucher_form
+      label: voucher_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: amount_requested
+      label: amount_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_voucher
+      label: reason_for_voucher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - approved_by
+      - denied_by
+      required: false
+    - id: 8
+      name: voucher_status
+      label: voucher_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - approved
+      - denied
+      required: false
+    - id: 9
+      name: voucher_date
+      label: voucher_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: voucher_time
+      label: voucher_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: false
+    - id: 17
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_notes
+      label: supervisor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: approved_by_supervisor
+      label: approved_by_supervisor
+      hint: null
+      type: select_one
+      options:
+      - approved_by_supervisor
+      - Other
+      required: false

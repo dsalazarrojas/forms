@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_settings_form
+    pages:
+    - id: 1
+      name: onboarding_forms_request
+      label: onboarding_forms_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: software_type
+      label: software_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: software_setting_request
+      label: software_setting_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: software_setting_value
+      label: software_setting_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: software_setting_description
+      label: software_setting_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: software_category
+      label: software_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: software_name
+      label: software_name
+      hint: null
+      type: text
+      options: []
+      required: false

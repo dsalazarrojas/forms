@@ -1,0 +1,297 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bhuntas Collection/E Store Onboarding Form
+    pages:
+    - id: 1
+      name: section_header_store
+      label: -- Store Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: store_name
+      label: Store or Collection Name
+      hint: Official name of your store
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: store_category
+      label: Store Category or Niche
+      hint: What type of products/services?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_name
+      label: Store Owner or Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_email
+      label: Email Address
+      hint: Your primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_products
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_types
+      label: Types of Products You Will Sell
+      hint: List product categories
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: product_sourcing
+      label: How Do You Source Products
+      hint: Manufactured, wholesale, handmade, etc.
+      type: select_one
+      options:
+      - Self-manufactured
+      - Wholesale purchasing
+      - Handcrafted/artisan
+      - Vintage/secondhand
+      - Dropshipping
+      - Consignment
+      - Mixed sources
+      - Other
+      required: true
+    - id: 10
+      name: quality_standards
+      label: Quality Standards or Certifications
+      hint: Any special quality measures?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: price_strategy
+      label: Pricing Strategy
+      hint: How do you price products?
+      type: select_one
+      options:
+      - Cost-plus markup
+      - Market-based pricing
+      - Value-based pricing
+      - Competitive pricing
+      - Other strategy
+      required: true
+    - id: 12
+      name: section_header_audience
+      label: -- Target Audience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: target_demographic
+      label: Target Customer Demographic
+      hint: Who is your ideal customer?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: market_positioning
+      label: How Do You Position Your Brand
+      hint: Premium, budget-friendly, eco-conscious, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_reach
+      label: Geographic Reach
+      hint: Where do you serve customers?
+      type: select_multiple
+      options:
+      - Local only
+      - Regional
+      - National
+      - International
+      - Online only
+      required: true
+    - id: 16
+      name: section_header_operations
+      label: -- Operations and Fulfillment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: order_processing
+      label: Order Processing Capability
+      hint: How will you handle orders?
+      type: select_one
+      options:
+      - Manual processing
+      - Partially automated
+      - Fully automated system
+      - Third-party fulfillment
+      - Hybrid approach
+      required: true
+    - id: 18
+      name: average_processing_time
+      label: Average Order Processing Time
+      hint: How long to prepare orders?
+      type: select_one
+      options:
+      - Same day
+      - 1-3 days
+      - 3-5 days
+      - 5-7 days
+      - More than 1 week
+      - Variable
+      required: true
+    - id: 19
+      name: shipping_partners
+      label: Shipping Partners
+      hint: Who handles delivery?
+      type: select_multiple
+      options:
+      - USPS
+      - FedEx
+      - UPS
+      - DHL
+      - Local courier
+      - Self-delivery
+      - Multiple partners
+      required: true
+    - id: 20
+      name: return_policy
+      label: Return and Refund Policy
+      hint: What is your policy?
+      type: select_one
+      options:
+      - 30-day returns
+      - 60-day returns
+      - No returns accepted
+      - Custom policy
+      - Not yet decided
+      required: true
+    - id: 21
+      name: section_header_inventory
+      label: -- Inventory Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: inventory_size
+      label: Current Inventory Size
+      hint: Approximate number of items
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: inventory_system
+      label: Inventory Management System
+      hint: How do you track inventory?
+      type: select_one
+      options:
+      - Manual tracking
+      - Spreadsheet
+      - Inventory software
+      - Automated system
+      - None yet
+      required: true
+    - id: 24
+      name: restock_frequency
+      label: Product Restock Frequency
+      hint: How often do you restock?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      - Continuous supply
+      required: true
+    - id: 25
+      name: section_header_marketing
+      label: -- Marketing and Promotion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: marketing_channels
+      label: Marketing Channels You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Email marketing
+      - Paid advertising
+      - Content marketing
+      - Influencer partnerships
+      - Word of mouth
+      - Events and pop-ups
+      - Other
+      required: false
+    - id: 27
+      name: social_media_presence
+      label: Social Media Accounts
+      hint: Links to your social media
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_commitment
+      label: -- Platform Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: platform_goals
+      label: What Are Your Goals on This Platform
+      hint: Sales targets, visibility, growth
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: sales_projection
+      label: Projected Monthly Sales
+      hint: What do you expect to achieve?
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - Over $25,000
+      - Unknown
+      required: false
+    - id: 31
+      name: platform_agreement
+      label: I Agree to Marketplace Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 32
+      name: additional_info
+      label: Additional Information
+      hint: Any other details about your store?
+      type: text
+      options: []
+      required: false

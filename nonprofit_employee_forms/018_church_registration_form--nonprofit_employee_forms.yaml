@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to say
+      required: true
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: church_attendance
+      label: How Often Do You Attend Church
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Occasionally
+      - Monthly
+      - Weekly
+      - Multiple times per week
+      required: true
+    - id: 14
+      name: baptism_status
+      label: Have You Been Baptized
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Want to be baptized
+      required: true
+    - id: 15
+      name: interested_in
+      label: What Are You Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Membership
+      - Bible Study
+      - Youth Programs
+      - Volunteer Opportunities
+      - Prayer Groups
+      - Community Service
+      - Worship Team
+      - Children's Ministry
+      required: true
+    - id: 16
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Friend/Family
+      - Website
+      - Social Media
+      - Sign/Advertisement
+      - Community Event
+      - Drive By
+      - Other
+      required: true
+    - id: 17
+      name: prayer_request
+      label: Do You Have a Prayer Request
+      hint: Share if comfortable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_needs
+      label: Any Special Needs or Accommodations
+      hint: For accessibility
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: newsletter_signup
+      label: Would You Like to Receive Our Newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, email
+      - Yes, mail
+      - No, thank you
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

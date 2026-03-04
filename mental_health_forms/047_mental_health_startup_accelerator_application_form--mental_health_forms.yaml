@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_startup_accelerator_application_form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: startup_stage
+      label: Startup Stage
+      hint: null
+      type: select_one
+      options:
+      - Early-Stage
+      - Late-Stage
+      - Scalable-Startups
+      - Series-A
+      - Series-B
+      - Series-C
+      - Other
+      required: true
+    - id: 3
+      name: mission
+      label: Mission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: startup_name
+      label: Startup Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      - Jane
+      - John
+      - Jane
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: startup_description
+      label: Startup Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additionalchartinstance
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

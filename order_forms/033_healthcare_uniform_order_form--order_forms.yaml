@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_uniform_order_form
+    pages:
+    - id: 1
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: uniform_type
+      label: uniform_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''F''}'
+      - '{''value'': 2, ''label'': ''M''}'
+      required: true
+    - id: 4
+      name: uniform_style
+      label: uniform_style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Style A''}'
+      - '{''value'': 2, ''label'': ''Style B''}'
+      required: true
+    - id: 5
+      name: size_xl
+      label: size_xl
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: size_large
+      label: size_large
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: size_xl_alt
+      label: size_xl_alt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: size_large_alt
+      label: size_large_alt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: building
+      label: building
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: floor
+      label: floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: room
+      label: room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_notes
+      label: supervisor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vendor
+      label: vendor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vendor_rep
+      label: vendor_rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vendor_manager
+      label: vendor_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter
+      label: submittor
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2025 FASXA Surgery Report Form
+    pages:
+    - id: 1
+      name: section_header_owner_patient
+      label: '--- Owner & Patient Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_full_name
+      label: Owner / Primary contact full name
+      hint: Enter the full legal name of the owner or responsible party
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner phone number
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: false
+    - id: 4
+      name: owner_email
+      label: Owner email address
+      hint: Provide an address for post-operative updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_name
+      label: Animal / patient name or identifier
+      hint: Use cage/study ID if no common name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_species
+      label: Species
+      hint: Select the best matching species
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Rodent
+      - Other
+      required: true
+    - id: 7
+      name: patient_breed
+      label: Breed or strain
+      hint: Provide breed (domestic) or genetic strain (laboratory) if known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_dob
+      label: Date of birth / approximate DOB
+      hint: Use approximate date if exact DOB unknown
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: patient_age
+      label: Age (years)
+      hint: Age in years (round down)
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: section_header_surgery
+      label: '--- Surgical & Anesthesia Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: surgery_date
+      label: Date of surgery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: procedure_performed
+      label: Primary surgical procedure
+      hint: Be specific (e.g., ovariohysterectomy, exploratory laparotomy)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: surgeon_name
+      label: Surgeon / operator name
+      hint: Include initials and role if part of a team
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: anesthesia_type
+      label: Type of anesthesia used
+      hint: Choose the primary anesthesia approach
+      type: select_one
+      options:
+      - General anesthesia
+      - Local anesthesia
+      - Sedation only
+      - Regional block
+      - Other
+      required: true
+    - id: 15
+      name: anesthesia_complications
+      label: Intraoperative anesthesia complications (select all that apply)
+      hint: Leave blank if none observed
+      type: select_multiple
+      options:
+      - Hypotension
+      - Bradycardia
+      - Hypoventilation
+      - Allergic reaction
+      - Prolonged recovery
+      - None
+      required: false
+    - id: 16
+      name: intraop_blood_loss
+      label: Estimated intraoperative blood loss (mL)
+      hint: Enter estimated volume in milliliters
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: intraop_medications
+      label: Intraoperative medications and doses
+      hint: List drug name, dose, route and time (comma separated)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: postoperative_status
+      label: Immediate postoperative status
+      hint: Select the option that best describes condition at closure/recovery start
+      type: select_one
+      options:
+      - Uneventful recovery
+      - Minor complications expected
+      - Major complications anticipated
+      - Euthanasia performed
+      required: true
+    - id: 19
+      name: analgesics_administered
+      label: Analgesics administered (name, dose, route, time)
+      hint: Required per analgesia protocol
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: iacuc_protocol_number
+      label: IACUC protocol or study ID
+      hint: Enter applicable protocol/study identifier
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: surgeon_notes
+      label: Surgeon operative notes and deviations from protocol
+      hint: Include details of any unexpected findings, specimen collection, or protocol
+        deviations
+      type: text
+      options: []
+      required: false

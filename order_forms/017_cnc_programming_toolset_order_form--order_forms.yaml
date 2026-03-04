@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Programming Toolset Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_state
+      label: Billing State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_same_as_billing
+      label: Shipping Same as Billing
+      hint: Is shipping address same
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_city
+      label: Shipping City
+      hint: City for delivery
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_state
+      label: Shipping State
+      hint: State for delivery
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_zip
+      label: Shipping ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: toolset_package
+      label: Toolset Package
+      hint: Select your package
+      type: select_one
+      options:
+      - Basic Toolset - $299
+      - Standard Toolset - $599
+      - Professional Toolset - $999
+      - Enterprise Toolset - $1999
+      - Custom Configuration
+      required: true
+    - id: 16
+      name: software_included
+      label: Software Requirements
+      hint: Select needed software
+      type: select_multiple
+      options:
+      - CAM Software
+      - Simulation Software
+      - Post Processor Library
+      - Toolpath Optimization
+      - G-Code Editor
+      - None - Hardware Only
+      required: true
+    - id: 17
+      name: hardware_components
+      label: Hardware Components
+      hint: Select physical tools needed
+      type: select_multiple
+      options:
+      - Tool Holders Set
+      - Cutting Tools Set
+      - Measuring Instruments
+      - Workholding Devices
+      - Tool Presetter
+      - Storage Cabinet
+      - None - Software Only
+      required: true
+    - id: 18
+      name: machine_compatibility
+      label: Machine Compatibility
+      hint: What CNC machines do you have
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: control_system
+      label: Control System
+      hint: CNC control brand
+      type: select_one
+      options:
+      - Fanuc
+      - Haas
+      - Siemens
+      - Heidenhain
+      - Mazak
+      - Okuma
+      - Other
+      required: true
+    - id: 20
+      name: quantity
+      label: Quantity
+      hint: Number of toolsets
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: training_needed
+      label: Training Required
+      hint: Do you need training included
+      type: select_one
+      options:
+      - Yes - Onsite Training
+      - Yes - Online Training
+      - Yes - Both
+      - No - We Are Trained
+      required: true
+    - id: 22
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver
+      type: select_one
+      options:
+      - Digital Download
+      - Physical Shipment
+      - Both Digital and Physical
+      required: true
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: If physical shipment needed
+      type: select_one
+      options:
+      - Standard Ground
+      - Express 2-Day
+      - Overnight
+      - International
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Wire Transfer
+      - Company Check
+      - Financing
+      required: true
+    - id: 25
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: total_amount
+      label: Estimated Total Amount
+      hint: We will confirm final price
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_requests
+      label: Special Requests
+      hint: Any custom requirements
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: I agree to terms of sale
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

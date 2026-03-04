@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Imaging History Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referring_physician
+      label: Referring Physician
+      hint: Name of your doctor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_exam
+      label: Reason for Exam
+      hint: Why are you having this exam
+      type: select_one
+      options:
+      - Routine Screening
+      - Diagnostic Follow-Up
+      - Lump or Mass
+      - Pain or Discomfort
+      - Nipple Discharge
+      - Skin Changes
+      - Family History
+      - Other
+      required: true
+    - id: 7
+      name: reason_details
+      label: Reason Details
+      hint: Please elaborate
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_mammograms
+      label: Previous Mammograms
+      hint: Have you had mammograms before
+      type: select_one
+      options:
+      - Yes, Multiple
+      - Yes, One or Two
+      - No, Never
+      required: true
+    - id: 9
+      name: last_mammogram_date
+      label: Last Mammogram Date
+      hint: When was your last one
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_mammogram_location
+      label: Last Mammogram Location
+      hint: Where was it performed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_breast_imaging
+      label: Previous Breast Imaging
+      hint: Other breast imaging you have had
+      type: select_multiple
+      options:
+      - None
+      - Breast Ultrasound
+      - Breast MRI
+      - Breast CT
+      - Biopsy
+      - Other
+      required: true
+    - id: 12
+      name: breast_symptoms
+      label: Current Breast Symptoms
+      hint: Are you experiencing symptoms
+      type: select_multiple
+      options:
+      - None
+      - Lump or Thickening
+      - Pain or Tenderness
+      - Nipple Discharge
+      - Skin Dimpling
+      - Redness or Rash
+      - Nipple Inversion
+      - Swelling
+      required: true
+    - id: 13
+      name: symptom_location
+      label: Symptom Location
+      hint: Where are symptoms located
+      type: select_one
+      options:
+      - Right Breast
+      - Left Breast
+      - Both Breasts
+      - Not Applicable
+      required: true
+    - id: 14
+      name: family_history_breast_cancer
+      label: Family History of Breast Cancer
+      hint: Any family history
+      type: select_one
+      options:
+      - Yes, First-Degree Relative
+      - Yes, Second-Degree Relative
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: family_history_details
+      label: Family History Details
+      hint: Please provide details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: personal_history_breast_cancer
+      label: Personal History of Breast Cancer
+      hint: Have you had breast cancer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: breast_surgery_history
+      label: Breast Surgery History
+      hint: Have you had breast surgery
+      type: select_one
+      options:
+      - Yes, Augmentation
+      - Yes, Reduction
+      - Yes, Lumpectomy
+      - Yes, Mastectomy
+      - Yes, Biopsy Only
+      - No Breast Surgery
+      required: true
+    - id: 18
+      name: hormone_therapy
+      label: Hormone Therapy
+      hint: Are you on hormone therapy
+      type: select_one
+      options:
+      - Yes, Current
+      - Yes, Past
+      - Never
+      required: true
+    - id: 19
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you pregnant or breastfeeding
+      type: select_one
+      options:
+      - Not Pregnant, Not Breastfeeding
+      - Currently Pregnant
+      - Currently Breastfeeding
+      - Recently Pregnant
+      required: true
+    - id: 20
+      name: breast_density_knowledge
+      label: Do You Know Your Breast Density
+      hint: Are you aware of your density
+      type: select_one
+      options:
+      - Yes, Dense
+      - Yes, Not Dense
+      - No, Not Sure
+      required: true
+    - id: 21
+      name: additional_health_conditions
+      label: Additional Health Conditions
+      hint: Any other relevant conditions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: questions_or_concerns
+      label: Questions or Concerns
+      hint: Any questions for the technologist
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

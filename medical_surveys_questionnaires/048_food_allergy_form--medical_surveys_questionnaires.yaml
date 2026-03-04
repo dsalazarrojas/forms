@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Allergy Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: has_food_allergy
+      label: Has food allergy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: allergy_type
+      label: Allergy type
+      hint: null
+      type: select_one
+      options:
+      - Allergic to milk
+      - Allergic to eggs
+      - Allergic to peanuts
+      - Allergic to tree nuts
+      - Allergic to shellfish
+      - Allergic to soy
+      - Allergic to wheat
+      - Allergic to fish
+      required: false
+    - id: 4
+      name: allergy_severity
+      label: Allergy severity
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 5
+      name: food_item_1
+      label: Which food item do you have a food allergy to? 1
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 6
+      name: food_item_2
+      label: Which food item do you have a food allergy to? 2
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 7
+      name: food_item_3
+      label: Which food item do you have a food allergy to? 3
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 8
+      name: food_item_4
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 9
+      name: food_item_5
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 10
+      name: food_item_6
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 11
+      name: food_item_7
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 12
+      name: food_item_8
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 13
+      name: food_item_9
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 14
+      name: food_item_10
+      label: Which food item do you have a food allergy to?
+      hint: null
+      type: select_one
+      options:
+      - Milk
+      - Eggs
+      - Peanuts
+      - Tree nuts
+      - Shellfish
+      - Soy
+      - Wheat
+      - Fish
+      required: false
+    - id: 15
+      name: additional_allergies
+      label: Additional allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contacts
+      label: Emergency contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Mother
+      - Father
+      - School/Daycare
+      - Teacher/Instructor
+      - Another adult at home
+      - Another staff member of this summer camp
+      required: false
+    - id: 17
+      name: emergency_number
+      label: Emergency number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: allergy_treatment
+      label: Allergy treatment
+      hint: null
+      type: select_multiple
+      options:
+      - EpiPen
+      - Epipen
+      - Epipen II
+      - Other
+      required: false
+    - id: 19
+      name: food_restriction
+      label: Food restriction
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - No food restriction
+      - Avoid all nuts
+      - Avoid all dairy
+      - Avoid all eggs
+      - Avoid fish
+      - Avoid shellfish
+      - Avoid soy
+      - Avoid wheat
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_contact
+      label: Doctor contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false

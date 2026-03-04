@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: point_of_sale_agreement_extension_form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: extension_start_date
+      label: Extension Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sales_agent
+      label: Sales Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sales_agent_phone
+      label: Sales Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_agent_email
+      label: Sales Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sales_agent_notes
+      label: Sales Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false

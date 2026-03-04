@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Maintenance Contract Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of the organization requesting service
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For contract and service updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: Location where maintenance will be provided
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_size_sqft
+      label: Facility Size in Square Feet
+      hint: Approximate total square footage
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_types
+      label: Equipment Types Requiring Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - HVAC Systems
+      - Electrical Systems
+      - Plumbing
+      - Fire Safety Systems
+      - Elevators
+      - Parking Systems
+      - Security Systems
+      - Other
+      required: true
+    - id: 8
+      name: primary_equipment
+      label: Primary Equipment Focus
+      hint: Most important equipment to maintain
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_maintenance_status
+      label: Current Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - No current maintenance program
+      - In-house maintenance
+      - Partial outsourced maintenance
+      - Fully outsourced maintenance
+      required: true
+    - id: 10
+      name: desired_frequency
+      label: Desired Maintenance Frequency
+      hint: How often should technicians visit
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - As needed
+      required: true
+    - id: 11
+      name: emergency_coverage
+      label: Emergency Coverage Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - 24/7 availability
+      - Yes - business hours only
+      - Yes - after hours emergency only
+      - No emergency coverage needed
+      required: true
+    - id: 12
+      name: budget_range
+      label: Estimated Annual Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $15,000
+      - $15,000 - $30,000
+      - $30,000 - $50,000
+      - Over $50,000
+      required: true
+    - id: 13
+      name: contract_length
+      label: Preferred Contract Length
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - Flexible
+      required: true
+    - id: 14
+      name: specific_concerns
+      label: Specific Maintenance Concerns
+      hint: Existing problems or areas of focus
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: past_issues
+      label: History of Equipment Issues
+      hint: Previous breakdowns or problems
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_access
+      label: Staff Availability for Technician Access
+      hint: null
+      type: select_one
+      options:
+      - Always available
+      - Business hours
+      - Scheduled access only
+      - After hours access available
+      required: true
+    - id: 17
+      name: documentation_required
+      label: Documentation and Reporting Required
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly service reports
+      - Preventive maintenance schedules
+      - Cost tracking
+      - Performance metrics
+      - Compliance documentation
+      - Parts inventory management
+      required: false
+    - id: 18
+      name: certifications_needed
+      label: Required Certifications for Technicians
+      hint: null
+      type: select_multiple
+      options:
+      - EPA Certification
+      - NATE Certification
+      - Electrician License
+      - Gas Fitter Certification
+      - Security Clearance
+      - Other
+      required: false
+    - id: 19
+      name: additional_services
+      label: Additional Services Requested
+      hint: Training, consultation, emergency response, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: start_date
+      label: Desired Contract Start Date
+      hint: When would you like service to begin
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: special_requirements
+      label: Special Requirements or Preferences
+      hint: Any unique circumstances or needs
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Club Membership Form
+    pages:
+    - id: 1
+      name: member_profile_header
+      label: -- New Member Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: residential_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: occupation_text
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: membership_selection_header
+      label: -- Membership Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: membership_tier
+      label: Membership Tier
+      hint: Select the plan that best fits your needs
+      type: select_one
+      options:
+      - Individual Membership
+      - Student Membership (Full-time)
+      - Family Membership (up to 4)
+      - Senior Membership (65+)
+      - Corporate Membership
+      - Elite / Competitive Athlete Plan
+      required: true
+    - id: 11
+      name: primary_sport_interest
+      label: Primary Sport Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: joining_goals
+      label: Primary Goals for Joining
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Fitness and Wellness
+      - Competitive Training and Prep
+      - Social Connection and Networking
+      - Regular Facility Access
+      - Access to Professional Coaching
+      required: true
+    - id: 13
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_history_header
+      label: -- Basic Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: chronic_conditions_notes
+      label: Do you have any chronic medical conditions we should be aware of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: exercise_restrictions
+      label: Do you have any exercise restrictions or limitations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_billing_header
+      label: -- Terms and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: billing_cycle
+      label: Preferred Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly Billing
+      - Quarterly Billing
+      - Annual Billing (10% discount)
+      required: true
+    - id: 21
+      name: payment_method_choice
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Direct Debit / ACH
+      - Credit or Debit Card
+      - PayPal
+      - Mobile Payment
+      required: true
+    - id: 22
+      name: rules_agreement
+      label: I agree to abide by all Club Rules and Bylaws
+      hint: View terms on our member portal
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 23
+      name: privacy_policy_agreement
+      label: I have read and agree to the Club Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 24
+      name: member_signature
+      label: Member Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signup_date
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: true

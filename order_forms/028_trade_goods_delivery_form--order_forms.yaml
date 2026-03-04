@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: trade_goods_delivery_form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_country
+      label: Delivery Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_zip
+      label: Delivery ZIP/Postal Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trade_id
+      label: Trade ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trade_date
+      label: Trade Date
+      hint: null
+      type: date
+      options: []
+      required: false

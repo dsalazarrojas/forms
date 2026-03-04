@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Form - Manis By Dani
+    pages:
+    - id: 1
+      name: section_dani_monthly
+      label: -- Manis By Dani - Monthly Order Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monthly_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: monthly_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: monthly_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: monthly_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_monthly_order
+      label: -- Your Order Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: monthly_sets_list
+      label: List the set names and quantities you want
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: monthly_total_sets
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: monthly_b3g1
+      label: Did you reach the Buy 3 Get 1 Free deal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_monthly_checkout
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: monthly_payment_method
+      label: How will you be paying?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Zelle
+      required: true
+    - id: 12
+      name: monthly_payment_handle
+      label: Payment Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: monthly_shipping_choice
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard ($4.00)
+      - Priority ($8.00)
+      - Pick-up (Free)
+      required: true
+    - id: 14
+      name: monthly_extra_notes
+      label: Special Instructions or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

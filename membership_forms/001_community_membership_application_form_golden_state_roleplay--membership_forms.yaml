@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Membership Application Form Golden State Roleplay
+    pages:
+    - id: 1
+      name: welcome_note
+      label: -- Welcome to Golden State Roleplay --
+      hint: Please fill out this application to join our community.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your real-life name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: discord_username
+      label: Discord Username
+      hint: e.g. Username#0000
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Your Age
+      hint: You must be at least 16 years old to join
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: steam_hex_id
+      label: Steam HEX ID
+      hint: Used for server whitelisting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: previous_experience
+      label: Have you been in a roleplay community before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: previous_communities
+      label: If yes, which communities have you been part of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_interest
+      label: Which department are you interested in joining?
+      hint: null
+      type: select_one
+      options:
+      - Civilian Operations
+      - San Andreas Highway Patrol
+      - Los Santos Police Department
+      - Blaine County Sheriffs Office
+      - San Andreas Fire and Rescue
+      required: true
+    - id: 10
+      name: motivation
+      label: Why do you want to join Golden State Roleplay?
+      hint: Provide at least 2 sentences
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: character_background
+      label: Character Background Story
+      hint: Briefly describe your primary character
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: microphone_check
+      label: Do you have a working, high-quality microphone?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: rules_agreement
+      label: Have you read and understood all community rules?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: terms_note
+      label: -- Terms and Conditions --
+      hint: By submitting, you agree to follow all community guidelines.
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: application_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursing_care_plan_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Tylenol
+      required: true
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut Butter
+      - Dairy
+      - Shellfish
+      required: false
+    - id: 6
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: true
+    - id: 7
+      name: nursing_care_planned
+      label: Nursing Care Planned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nursing_care_delivered
+      label: Nursing Care Delivered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: patient_family_member
+      label: Patient Family Member
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: nurse_title
+      label: Nurse Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_room
+      label: Patient Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

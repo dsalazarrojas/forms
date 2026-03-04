@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Access Form
+    pages:
+    - id: 1
+      name: event_selection
+      label: Event Selection
+      hint: Choose the concert you want to attend
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: concert_event
+      label: Select Concert Event
+      hint: Choose from available concerts
+      type: select_one
+      options:
+      - Rock Festival 2026
+      - Classical Symphony Night
+      - Jazz Evening Showcase
+      - Pop Music Extravaganza
+      - Country Music Weekend
+      - Electronic Dance Night
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: Show start time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ticket_selection
+      label: Ticket Selection
+      hint: Choose your ticket type and quantity
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ticket_category
+      label: Ticket Category
+      hint: Select seating tier
+      type: select_one
+      options:
+      - General Admission Standing
+      - Reserved Seating
+      - Premium Front Section
+      - VIP Experience Package
+      - Box Suite
+      required: true
+    - id: 7
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: How many tickets do you need
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ticket_price
+      label: Price Per Ticket
+      hint: Base price per ticket
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_amount
+      label: Total Amount
+      hint: Total cost for all tickets
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchaser_info
+      label: Purchaser Information
+      hint: Your contact and billing details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: For ticket delivery
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for updates
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification if required
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: delivery_method
+      label: Ticket Delivery Method
+      hint: How would you like to receive tickets
+      type: select_one
+      options:
+      - E-Ticket Email Delivery
+      - Mobile App Download
+      - Will Call Pickup
+      - Postal Mail
+      required: true
+    - id: 16
+      name: special_access
+      label: Special Access Requirements
+      hint: Do you need accessibility accommodations
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Select any required accommodations
+      type: select_multiple
+      options:
+      - Wheelchair Accessible Seating
+      - Companion Seating
+      - Assistive Listening Device
+      - Sign Language Interpreter
+      - Service Animal Accommodation
+      - None Required
+      required: false
+    - id: 18
+      name: parking_needed
+      label: Parking Required
+      hint: Do you need parking at the venue
+      type: select_one
+      options:
+      - Yes Add Parking Pass
+      - No Parking Needed
+      required: false
+    - id: 19
+      name: payment_details
+      label: Payment Details
+      hint: Complete your purchase securely
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_type
+      label: Payment Type
+      hint: Select payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Venue Gift Card
+      required: true
+    - id: 21
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on the payment card
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_address
+      label: Billing Address
+      hint: Address for payment verification
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept the terms
+      type: select_one
+      options:
+      - I Accept All Terms
+      - I Do Not Accept
+      required: true
+    - id: 24
+      name: refund_policy
+      label: Refund Policy Acknowledgment
+      hint: Tickets are non-refundable unless event cancelled
+      type: select_one
+      options:
+      - I Understand and Accept
+      - I Do Not Accept
+      required: true
+    - id: 25
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - Yes Subscribe Me
+      - No Thanks
+      required: false

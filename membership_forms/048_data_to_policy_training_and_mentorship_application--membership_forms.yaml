@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_to_policy_training_and_mentorship_application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth_month
+      label: Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: interest
+      label: What are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: availability
+      label: When are you available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: availability_time
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: availability_day
+      label: Day of Week
+      hint: null
+      type: select_one
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 12
+      name: program_of_interest
+      label: Which program are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: availability_week
+      label: What day(s) of the week are you available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: mentorship_goals
+      label: What are your mentorship goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mentorship_expectations
+      label: What do you expect from the mentorship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: communication_method
+      label: How do you prefer to communicate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: mentorship_experience
+      label: Do you have any mentorship experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: mentorship_referrals
+      label: Have you ever been involved in a mentorship program in the past
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: mentorship_referrals_name
+      label: If yes, what was the name of the program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mentorship_referrals_duration
+      label: How long were you involved in the program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mentorship_referrals_description
+      label: What was your experience like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mentorship_referrals_outcome
+      label: What was the outcome of the program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mentorship_referrals_recommend
+      label: Would you recommend the program
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: mentorship_referrals_recommend_reason
+      label: If yes, why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mentorship_referrals_referral_name
+      label: If no, why not
+      hint: null
+      type: text
+      options: []
+      required: false

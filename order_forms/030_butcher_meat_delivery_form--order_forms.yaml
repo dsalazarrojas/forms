@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butcher Meat Delivery Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need the delivery?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_time_window
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 2:00 PM
+      - 2:00 PM - 4:00 PM
+      - 4:00 PM - 6:00 PM
+      - Flexible
+      required: true
+    - id: 9
+      name: order_type
+      label: Order Type
+      hint: What kind of order?
+      type: select_one
+      options:
+      - One-time order
+      - Regular subscription
+      - Wholesale order
+      - Special request
+      required: true
+    - id: 10
+      name: meat_type
+      label: Types of Meat Desired
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beef
+      - Pork
+      - Chicken
+      - Lamb
+      - Turkey
+      - Specialty meats
+      - Sausages
+      - Ground meats
+      required: true
+    - id: 11
+      name: beef_cuts
+      label: Beef Cuts or Portions
+      hint: Select your preferred cuts
+      type: select_multiple
+      options:
+      - Steak - T-bone
+      - Steak - Ribeye
+      - Steak - New York Strip
+      - Ground beef
+      - Roast
+      - Brisket
+      - Short ribs
+      - Other
+      required: false
+    - id: 12
+      name: pork_cuts
+      label: Pork Cuts or Portions
+      hint: Select your preferred cuts
+      type: select_multiple
+      options:
+      - Pork chops
+      - Pork loin
+      - Ground pork
+      - Pork ribs
+      - Pork shoulder
+      - Bacon
+      - Sausage
+      - Other
+      required: false
+    - id: 13
+      name: chicken_type
+      label: Chicken Specifications
+      hint: null
+      type: select_multiple
+      options:
+      - Whole chicken
+      - Chicken breasts
+      - Chicken thighs
+      - Chicken legs
+      - Ground chicken
+      - Specialty cuts
+      required: false
+    - id: 14
+      name: quantity_estimate
+      label: Estimated Total Quantity Needed
+      hint: In pounds or number of portions
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: quality_preference
+      label: Quality or Grade Preference
+      hint: null
+      type: select_one
+      options:
+      - Prime grade
+      - Choice grade
+      - Select grade
+      - Specialty - grass-fed
+      - Specialty - organic
+      - Specialty - pasture-raised
+      - No preference
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Preparation
+      hint: Thickness, marinade, butchering style, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: packaging_preference
+      label: Packaging Preference
+      hint: null
+      type: select_one
+      options:
+      - Vacuum sealed
+      - Butcher paper
+      - Ready for freezer
+      - Standard packaging
+      - Specialty packaging
+      required: false
+    - id: 18
+      name: dietary_requirements
+      label: Dietary or Allergen Concerns
+      hint: Any special considerations?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Bank transfer
+      - Cash on delivery
+      - Account billing
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

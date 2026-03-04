@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clone Of Color Street Nails In My Stock
+    pages:
+    - id: 1
+      name: inventory_header
+      label: -- Inventory Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stylist_name
+      label: Stylist name
+      hint: Enter your name for order tracking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Order confirmations will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_code
+      label: Product code
+      hint: SKU or product identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: color_variant
+      label: Color variant
+      hint: Describe color or pattern
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity_ordered
+      label: Quantity ordered
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: price_per_unit
+      label: Price per unit
+      hint: Decimal value in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipment_preference
+      label: Shipment preference
+      hint: Select preferred delivery method
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      required: true
+    - id: 9
+      name: delivery_address
+      label: Delivery address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: Any handling or packaging notes
+      type: text
+      options: []
+      required: false

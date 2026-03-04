@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domain Name Registration Payment Form
+    pages:
+    - id: 1
+      name: domain_name
+      label: domain_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Check
+      - Credit Card
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

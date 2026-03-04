@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Transparency Initiative Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: street_address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - Florida
+      - Texas
+      required: false
+    - id: 7
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_application
+      label: date_application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_application
+      label: time_application
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - Public Institution
+      - Nonprofit
+      - Company
+      required: false
+    - id: 12
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_multiple
+      options:
+      - Transparency
+      - Accountability
+      - Sustainability
+      required: false

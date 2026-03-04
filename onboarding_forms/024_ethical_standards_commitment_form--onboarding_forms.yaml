@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethical Standards Commitment Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_acknowledged
+      label: Date Acknowledged
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: other_contact_info
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreed_to_terms
+      label: Agreed to Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 11
+      name: acknowledged_organizational
+      label: Acknowledged Organizational
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 12
+      name: staff
+      label: Staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: organization_signature
+      label: Organization Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: date_signed_time
+      label: Date Signed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: notes_staff
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_organization
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: assigned_by
+      label: Assigned by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true

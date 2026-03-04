@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Union Membership Form
+    pages:
+    - id: 1
+      name: student_union_membership_form_data
+      label: Student Union Membership Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email_verification
+      label: student_email_verification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''verified'', ''label'': ''Verified''}'
+      - '{''value'': ''unverified'', ''label'': ''Unverified''}'
+      required: false
+    - id: 6
+      name: student_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_dob_day
+      label: day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_dob_month
+      label: month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_dob_year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_union_fee
+      label: student_union_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_union_status
+      label: student_union_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 12
+      name: student_union_status_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: student_union_status_comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_union_application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: student_union_application_time
+      label: application_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: student_union_payment_status
+      label: student_union_payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''paid'', ''label'': ''Paid''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''unpaid'', ''label'': ''Unpaid''}'
+      required: false
+    - id: 17
+      name: student_union_payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bank'', ''label'': ''Bank''}'
+      - '{''value'': ''card'', ''label'': ''Card''}'
+      - '{''value'': ''cash'', ''label'': ''Cash''}'
+      required: false
+    - id: 18
+      name: student_union_additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: student_union_payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: student_union_additional_fees
+      label: additional_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: student_union_status_comments
+      label: status_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: student_union_payment_comments
+      label: payment_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: student_union_additional_details
+      label: additional_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: student_union_membership_number
+      label: membership_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: student_union_application_id
+      label: application_id
+      hint: null
+      type: number
+      options: []
+      required: false

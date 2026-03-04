@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Betty’s BAM Nails Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer full name
+      hint: Full name as it should appear on the invoice or receipt
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer email address
+      hint: Used for order confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer phone number
+      hint: Include country code for text updates or calls
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping address
+      hint: Street, city, state, and postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_selection
+      label: Product selection
+      hint: Select the nail color or kit to order
+      type: select_one
+      options:
+      - Pink shimmer
+      - Classic red
+      - Midnight black
+      - French manicure kit
+      - Gel starter kit
+      required: true
+    - id: 6
+      name: shade_code_or_variant
+      label: Shade code or variant
+      hint: Enter the shade code if applicable or write N A
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Enter whole number of units
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Optional preferred delivery date for scheduling
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: gift_wrap
+      label: Gift wrap requested
+      hint: Select yes if you need gift wrapping
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special instructions or notes
+      hint: Any delivery instructions or order notes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment method
+      hint: Select preferred payment option
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      - Cash on delivery
+      required: true
+    - id: 12
+      name: order_confirmation_note
+      label: -- Order confirmation --
+      hint: Read only confirmation instructions
+      type: note
+      options: []
+      required: false

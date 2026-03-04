@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_rescue_volunteer_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_role
+      label: Volunteer role
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer Coordinator
+      - Volunteer
+      - Animal Handler
+      required: false
+    - id: 8
+      name: volunteer_start_date
+      label: Volunteer start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_end_date
+      label: Volunteer end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: application_submission
+      label: Application submission
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In person
+      required: false
+    - id: 11
+      name: timesheet_integration
+      label: Timesheet integration
+      hint: Check if you want to integrate with our timesheet system
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false

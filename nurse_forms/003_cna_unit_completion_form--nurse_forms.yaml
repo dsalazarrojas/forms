@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNA Unit Completion Form
+    pages:
+    - id: 1
+      name: cna_name
+      label: CNA Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift_time
+      label: Shift Time Period
+      hint: null
+      type: select_one
+      options:
+      - Day Shift 6am-2pm
+      - Evening Shift 2pm-10pm
+      - Night Shift 10pm-6am
+      - Extended Shift
+      required: true
+    - id: 5
+      name: unit_assignment
+      label: Unit or Department Assigned
+      hint: null
+      type: select_one
+      options:
+      - Medical-Surgical
+      - Intensive Care Unit
+      - Emergency Department
+      - Pediatrics
+      - Maternity
+      - Rehabilitation
+      - Other
+      required: true
+    - id: 6
+      name: patients_assigned
+      label: Number of Patients Assigned
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: patient_care_tasks
+      label: Patient Care Tasks Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vital signs monitoring
+      - Patient hygiene assistance
+      - Feeding and nutrition
+      - Catheter care
+      - Patient mobility assistance
+      - Room cleaning and maintenance
+      - Specimen collection
+      - Patient comfort measures
+      required: true
+    - id: 8
+      name: incidents_occurred
+      label: Any incidents or accidents occurred during shift?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: Describe any incidents, falls, or injuries
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reported
+      label: Incident Reported to Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 11
+      name: equipment_issues
+      label: Equipment or facility issues encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staffing_adequacy
+      label: Staffing levels were adequate for patient needs
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 13
+      name: shift_completion_status
+      label: Shift completion status
+      hint: null
+      type: select_one
+      options:
+      - Completed full shift
+      - Left early - authorized
+      - Left early - emergency
+      - Incomplete
+      required: true
+    - id: 14
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supervisor_signature_date
+      label: Supervisor Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: notes_feedback
+      label: Additional Notes or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

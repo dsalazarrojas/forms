@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Invoicing System Request Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: system_id
+      label: system_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: system_name
+      label: system_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: modification_type
+      label: modification_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''add'', ''label'': ''add''}'
+      - '{''id'': 2, ''name'': ''modify'', ''label'': ''modify''}'
+      required: false
+    - id: 9
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''pending''}'
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: modified_by
+      label: modified_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: modified_at
+      label: modified_at
+      hint: null
+      type: time
+      options: []
+      required: false

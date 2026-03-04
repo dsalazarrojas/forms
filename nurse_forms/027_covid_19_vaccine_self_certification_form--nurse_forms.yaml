@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Self Certification Form
+    pages:
+    - id: 1
+      name: cert_applicant_header
+      label: -- Applicant Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cert_full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cert_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: cert_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: cert_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: cert_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cert_city_state_zip
+      Label: City, State, ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cert_identification_header
+      label: -- Identification Verification --
+      hint: Verify your identity for vaccination eligibility
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cert_id_type
+      Label: Type of Government ID
+      hint: What type of ID you have
+      type: select_one
+      options:
+        - Driver License
+        - Passport
+        - State ID
+        - Military ID
+        - Other Government ID
+      required: true
+    - id: 10
+      name: cert_id_number
+      label: ID Number
+      hint: Your identification number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: cert_id_expiration
+      Label: ID Expiration Date
+      hint: When your ID expires
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: cert_eligibility_header
+      label: -- Eligibility Certification --
+      hint: Certify your vaccination eligibility
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: cert_meet_criteria
+      Label: I Meet COVID-19 Vaccination Eligibility Criteria
+      hint: You meet the eligibility requirements
+      type: select_one
+      options:
+        - Yes, I meet all criteria
+        - I partially meet criteria
+        - I do not meet criteria
+      required: true
+    - id: 14
+      name: cert_eligibility_reason
+      label: Reason for Eligibility
+      hint: Why you are eligible
+      type: select_one
+      options:
+        - Age 65 years or older
+        - Healthcare worker
+        - Essential worker
+        - Underlying medical condition
+        - Phase eligibility based on state guidelines
+        - Other reason
+      required: true
+    - id: 15
+      name: cert_medical_header
+      Label: -- Medical Self-Certification --
+      hint: Certify your medical status
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: cert_no_contraindications
+      label: I Have No Medical Contraindications to Vaccination
+      hint: You have no medical reasons not to be vaccinated
+      type: select_one
+      options:
+        - I certify no contraindications
+        - I have contraindications
+        - I am unsure
+      required: true
+    - id: 17
+      name: cert_no_allergies
+      Label: I Have No Known Allergies to Vaccine Components
+      hint: You have no vaccine component allergies
+      type: select_one
+      options:
+        - I certify no known allergies
+        - I have allergies
+        - I am unsure
+      required: true
+    - id: 18
+      name: cert_allergy_details
+      label: If You Have Allergies, Please Describe
+      hint: Details about any vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cert_not_currently_ill
+      Label: I Am Not Currently Ill
+      hint: You do not have acute illness or fever
+      type: select_one
+      options:
+        - I am not currently ill
+        - I am currently ill
+        - I have mild symptoms
+      required: true
+    - id: 20
+      name: cert_understanding_header
+      label: -- Understanding and Acknowledgment --
+      hint: Certify your understanding
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: cert_understand_benefits
+      Label: I Understand the Benefits of COVID-19 Vaccination
+      hint: You understand vaccination benefits
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 22
+      name: cert_understand_risks
+      label: I Understand Possible Side Effects and Risks
+      hint: You understand risks and side effects
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 23
+      name: cert_voluntary_consent
+      Label: This Is a Voluntary Decision
+      hint: I am freely choosing vaccination
+      type: select_one
+      options:
+        - Yes, voluntary decision
+        - Under pressure or coerced
+      required: true
+    - id: 24
+      name: cert_authorization
+      label: I Authorize COVID-19 Vaccination
+      hint: I authorize administration of the vaccine
+      type: select_one
+      options:
+        - I authorize
+        - I do not authorize
+      required: true
+    - id: 25
+      name: cert_signature_date
+      Label: Date of Self-Certification
+      hint: Date you are signing this form
+      type: date
+      options: []
+      required: true

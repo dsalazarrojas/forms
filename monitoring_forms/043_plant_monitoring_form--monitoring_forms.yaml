@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Monitoring Form
+    pages:
+    - id: 1
+      name: plant_monitoring_form_1
+      label: plant_monitoring_form_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: plant_date_planted
+      label: plant_date_planted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: plant_height
+      label: plant_height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: plant_notes
+      label: plant_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: plant_email
+      label: plant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: plant_phone
+      label: plant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plant_monitoring_form_2
+      label: plant_monitoring_form_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: plant_monitoring_form_3
+      label: plant_monitoring_form_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: plant_monitoring_form_4
+      label: plant_monitoring_form_4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: plant_monitoring_form_5
+      label: plant_monitoring_form_5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: plant_monitoring_form_6
+      label: plant_monitoring_form_6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

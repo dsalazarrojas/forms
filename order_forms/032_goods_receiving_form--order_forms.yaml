@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Goods Receiving Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_item
+      label: Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: received_by
+      label: Received by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: warehouse_name
+      label: Warehouse name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_name
+      label: Item name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: item_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: item_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Received
+      - Damaged
+      - Lost
+      required: false
+    - id: 9
+      name: item_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: item_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discrepancy_item
+      label: Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discrepancy_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: discrepancy_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: discrepancy_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Flagged
+      - Resolved
+      - In progress
+      required: false

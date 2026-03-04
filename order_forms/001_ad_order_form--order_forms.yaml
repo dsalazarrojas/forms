@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Order Form
+    pages:
+    - id: 1
+      name: advertiser_name
+      label: Advertiser Name
+      hint: Full name of the business or individual
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email Address
+      hint: Primary email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Business or personal phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ad_category
+      label: Advertisement Category
+      hint: Select the category that best fits your ad
+      type: select_one
+      options:
+      - Real Estate
+      - Business Services
+      - Automotive
+      - Employment
+      - Classified
+      - General
+      required: true
+    - id: 5
+      name: ad_headline
+      label: Ad Headline
+      hint: Compelling title for your advertisement
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ad_body
+      label: Advertisement Body Text
+      hint: Main content of your advertisement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: word_count
+      label: Word Count
+      hint: Total number of words in your ad
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: publication_date
+      label: Desired Publication Date
+      hint: When would you like the ad to run
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: publication_duration
+      label: Duration in Days
+      hint: How many days should the ad run
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ad_placement
+      label: Preferred Placement
+      hint: Section or area preference
+      type: select_one
+      options:
+      - Front Page
+      - Business Section
+      - Classifieds
+      - Inside Pages
+      - Any Available
+      required: false
+    - id: 11
+      name: special_formatting
+      label: Special Formatting Options
+      hint: Select any desired formatting
+      type: select_multiple
+      options:
+      - Bold
+      - Box
+      - Highlight
+      - Large Font
+      required: false
+    - id: 12
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Based on word count and duration
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay for this order
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      - Invoice
+      required: true
+    - id: 14
+      name: billing_address
+      label: Billing Address
+      hint: Full address for billing purposes
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information for the sales team
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classic Boxset Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Valid email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_shipping
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Street Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: Country of delivery
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_boxset_selection
+      label: -- Boxset Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: boxset_type
+      label: Boxset Type
+      hint: Select the classic boxset you wish to order
+      type: select_one
+      options:
+      - Film Trilogy Collection
+      - Music Anthology
+      - Book Series Edition
+      - Documentary Series
+      - Classic Television Complete Series
+      required: true
+    - id: 12
+      name: boxset_edition
+      label: Edition
+      hint: Choose the edition variant
+      type: select_one
+      options:
+      - Standard Edition
+      - Deluxe Edition
+      - Limited Edition
+      - Collector's Edition
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: Number of boxsets to order
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_pricing
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: unit_price
+      label: Unit Price
+      hint: Price per boxset
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: discount_code
+      label: Discount or Promo Code
+      hint: Enter code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_method
+      label: Shipping Method
+      hint: Select preferred shipping option
+      type: select_one
+      options:
+      - Standard Shipping (5-7 business days)
+      - Express Shipping (2-3 business days)
+      - Overnight Shipping
+      - In-Store Pickup
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or handling instructions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true

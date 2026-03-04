@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mission Trip Sign Up Form
+    pages:
+    - id: 1
+      name: mission_trip_sign_up_form_1
+      label: mission_trip_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_leader_name
+      label: trip_leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_date_range
+      label: trip_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_time_range
+      label: trip_time_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: trip_duration
+      label: trip_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trip_location
+      label: trip_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trip_cost
+      label: trip_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: trip_organizer
+      label: trip_organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Mission Team''}'
+      - '{''name'': ''Church''}'
+      - '{''name'': ''Mission Center''}'
+      required: true
+    - id: 9
+      name: trip_sponsor
+      label: trip_sponsor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Mission Team''}'
+      - '{''name'': ''Church''}'
+      - '{''name'': ''Mission Center''}'
+      required: false
+    - id: 10
+      name: trip_contact_name
+      label: trip_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trip_contact_phone
+      label: trip_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trip_contact_email
+      label: trip_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: trip_additional_info
+      label: trip_additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: trip_confirmation
+      label: trip_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

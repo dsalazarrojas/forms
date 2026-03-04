@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Fitness Equipment Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Fitness Equipment Sales Form --
+      hint: Build your home gym today
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For digital receipt and tracking
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should we deliver the equipment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_header
+      label: -- Equipment Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: equipment_name
+      label: Equipment Name - e.g., Treadmill, Dumbbells
+      hint: Specific product name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: weight_size
+      label: Weight or Size - if applicable
+      hint: e.g., 20kg or Large
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: assembly_service
+      label: Assembly Service Required?
+      hint: Professional setup for an additional fee
+      type: select_one
+      options:
+      - Yes, please assemble
+      - No, I will assemble myself
+      required: true
+    - id: 11
+      name: item_price
+      label: Item Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_plan
+      label: Payment Plan - Afterpay or Full
+      hint: select your preferred payment schedule
+      type: select_one
+      options:
+      - Full Payment Upfront
+      - Afterpay Installments
+      required: true
+    - id: 13
+      name: access_notes
+      label: Delivery access notes - Stairs, Elevator, etc.
+      hint: help our delivery team prepare
+      type: text
+      options: []
+      required: false

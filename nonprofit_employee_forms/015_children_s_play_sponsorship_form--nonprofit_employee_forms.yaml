@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Play Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Name
+      hint: Individual or organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_email
+      label: Sponsor Email
+      hint: Contact email for sponsorship correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: Choose a sponsorship tier
+      type: select_one
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      - Platinum
+      required: true
+    - id: 4
+      name: amount_committed
+      label: Amount Committed
+      hint: Monetary value of sponsorship
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Address for invoicing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: logo_provided
+      label: Sponsor Logo Provided
+      hint: Indicate if a logo file will be provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: recognition_preferences
+      label: Recognition Preferences
+      hint: How sponsor wishes to be credited
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone for sponsorship coordination
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agree_terms
+      label: Agree to Sponsorship Terms
+      hint: Confirmation of agreement to terms and deliverables
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Top Refugee Support Nomination Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Organization Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Employee Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_phone
+      label: Employee Phone
+      hint: Employee Phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: Employee Email
+      hint: Employee Email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: employee_position
+      label: Employee Position
+      hint: Employee Position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nomination_date
+      label: Nomination Date
+      hint: Nomination Date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: nomination_category
+      label: Nomination Category
+      hint: Nomination Category
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 8
+      name: organization_description
+      label: Organization Description
+      hint: Organization Description
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_award_ems
+      label: Employee Award Ems
+      hint: Employee Award Ems
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Nomination Reason
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_award_type
+      label: Employee Award Type
+      hint: Employee Award Type
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: false
+    - id: 12
+      name: nomination_date_range
+      label: Nomination Date Range
+      hint: Nomination Date Range
+      type: time
+      options: []
+      required: false

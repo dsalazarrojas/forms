@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Order Form
+    pages:
+    - id: 1
+      name: client_information_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client / Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_details_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_package
+      label: Select Service Package
+      hint: Choose the advertising package you wish to order.
+      type: select_one
+      options:
+      - Basic Starter (Social Media Only)
+      - Growth Standard (Social + Search)
+      - Premium Enterprise (Full Channel Mix)
+      - Custom Package
+      required: true
+    - id: 8
+      name: add_ons
+      label: Additional Services
+      hint: Select any add-ons needed.
+      type: select_multiple
+      options:
+      - Graphic Design Service
+      - Copywriting Service
+      - Video Production
+      - Landing Page Creation
+      - Weekly Analytics Report
+      required: false
+    - id: 9
+      name: ad_placement
+      label: Preferred Ad Placement
+      hint: Where would you like your ads to appear?
+      type: select_one
+      options:
+      - News Feed
+      - Sidebar / Banner
+      - Stories / Reels
+      - In-Stream Video
+      - Search Results Top
+      required: false
+    - id: 10
+      name: campaign_duration
+      label: Campaign Duration (Weeks)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_budget
+      label: Total Budget ($)
+      hint: Enter your total budget for this order.
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: target_start_date
+      label: Target Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer / Invoice
+      - PayPal
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

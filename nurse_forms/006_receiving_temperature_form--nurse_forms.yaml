@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: receiving_temperature_form
+    pages:
+    - id: 1
+      name: shipment_id
+      label: Ship From
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: Received Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: temperature_unit
+      label: Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - Celsius
+      - Fahrenheit
+      - Kelvin
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipper_company
+      label: Shipper Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: received_by
+      label: Received By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipper_contact
+      label: Shipper Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

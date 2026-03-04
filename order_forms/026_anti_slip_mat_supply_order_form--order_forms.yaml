@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Slip Mat Supply Order Form
+    pages:
+    - id: 1
+      name: section_order_info
+      label: -- Order Information --
+      hint: Provide order and shipping details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company or department
+      hint: Billing or delivery department
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_code
+      label: Product code or item
+      hint: Model or SKU for mat
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity required
+      hint: Enter whole number of mats
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: color_preference
+      label: Color preference
+      hint: Select preferred color if applicable
+      type: select_one
+      options:
+      - Black
+      - Grey
+      - Yellow
+      - Custom
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping address
+      hint: Full delivery address including postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_deadline
+      label: Desired delivery date
+      hint: Specify required delivery date if urgent
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: purchase_order_number
+      label: Purchase order number
+      hint: Reference for billing if required
+      type: text
+      options: []
+      required: false

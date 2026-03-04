@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_document_delivery_form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: document_description
+      label: Document Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recipient_email
+      label: Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: recipient_phone
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_attachment
+      label: Document Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

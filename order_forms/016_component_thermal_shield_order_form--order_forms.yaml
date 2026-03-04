@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Component Thermal Shield Order Form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: Unique order identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name of customer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: thermal_shield_type
+      label: Thermal Shield Type
+      hint: Select the type of thermal shield
+      type: select_one
+      options:
+      - Multi-Layer Insulation
+      - Ceramic Coating
+      - Metallic Foil
+      - Composite Shield
+      - Active Cooling System
+      - Passive Thermal Control
+      - Custom Design
+      required: true
+    - id: 9
+      name: part_number
+      label: Part Number
+      hint: Manufacturer part number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dimensions
+      label: Dimensions
+      hint: Specify dimensions (length x width x height)
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: material_specification
+      label: Material Specification
+      hint: Required material specifications
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: temperature_range
+      label: Temperature Range
+      hint: Operating temperature range
+      type: select_one
+      options:
+      - Cryogenic (Below -150 C)
+      - Low Temperature (-150 to 0 C)
+      - Standard (0 to 100 C)
+      - Elevated (100 to 500 C)
+      - High Temperature (500 to 1000 C)
+      - Extreme (Above 1000 C)
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: thickness
+      label: Thickness
+      hint: Required thickness in millimeters
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: surface_finish
+      label: Surface Finish
+      hint: Required surface finish
+      type: select_one
+      options:
+      - Polished
+      - Matte
+      - Textured
+      - Coated
+      - As Manufactured
+      - Custom
+      required: false
+    - id: 16
+      name: certification_required
+      label: Certification Required
+      hint: Are certifications required
+      type: select_one
+      options:
+      - No Certification
+      - ISO 9001
+      - AS9100 Aerospace
+      - ISO 13485 Medical
+      - MIL-SPEC
+      - Other
+      required: true
+    - id: 17
+      name: application
+      label: Application
+      hint: What is the intended application
+      type: select_one
+      options:
+      - Aerospace
+      - Automotive
+      - Electronics
+      - Industrial Equipment
+      - Medical Devices
+      - Research and Development
+      - Other
+      required: true
+    - id: 18
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: shipping_method
+      label: Shipping Method
+      hint: Preferred shipping method
+      type: select_one
+      options:
+      - Standard Ground
+      - Express 2-Day
+      - Overnight
+      - International
+      - Freight
+      required: true
+    - id: 20
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: Select payment terms
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Prepayment
+      - Credit Card
+      - Wire Transfer
+      required: true
+    - id: 22
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_status
+      label: Order Status
+      hint: Current order status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - In Production
+      - Quality Check
+      - Shipped
+      - Delivered
+      required: true

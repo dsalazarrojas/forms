@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature Monitoring Certification Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Organization''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: course_id
+      label: Course ID
+      hint: null
+      type: text
+      options: []
+      required: false

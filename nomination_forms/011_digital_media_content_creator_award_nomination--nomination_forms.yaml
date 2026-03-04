@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Media Content Creator Award Nomination
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Digital Media Artist
+      - Digital Media Content Creator
+      - Digital Media Editor
+      - Digital Media Producer
+      - Game Developer
+      - Music Composer
+      - Podcaster
+      - Vlogger
+      - Writer
+      required: true
+    - id: 6
+      name: work_title
+      label: Work Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: award_recipients
+      label: Award Recipients
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Award Recipient 1
+      - Award Recipient 2
+      - Award Recipient 3
+      - Award Recipient 4
+      required: false
+    - id: 9
+      name: submission_files
+      label: Submission Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: committee_reviewers
+      label: Committee Reviewers
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      - Reviewer 4
+      required: true
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: award_committee_name
+      label: Award Committee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: award_committee_email
+      label: Award Committee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: award_committee_phone
+      label: Award Committee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_link
+      label: Submission Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_link_label
+      label: Submission Link Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_link_url
+      label: Submission Link URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_link_description
+      label: Submission Link Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: award_committee_notes
+      label: Award Committee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: final_submission
+      label: Final Submission
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - In Progress
+      required: true

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: osce_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: clinical_skills
+      label: Clinical Skills
+      hint: null
+      type: select_one
+      options:
+      - Airway
+      - Breath sounds
+      - Vital signs
+      - Patient assessment
+      - Pharmacological knowledge
+      - Pharmacological application
+      - Basic physical examination
+      - Advanced physical examination
+      - Diseases
+      - Pharmacological management
+      required: false
+    - id: 5
+      name: patient_care_plan
+      label: Patient Care Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: problem_solving
+      label: Problem Solving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment
+      label: Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: total_score
+      label: Total Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evaluator_rating
+      label: Evaluator Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluator_department
+      label: Evaluator Department
+      hint: null
+      type: text
+      options: []
+      required: false

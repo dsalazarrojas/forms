@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Label Printing Quantity Request Form
+    pages:
+    - id: 1
+      name: label_printing_form_page_1
+      label: Label Printing Quantity Request
+      hint: null
+      type: select_multiple
+      options:
+      - label1
+      - label2
+      - label3
+      required: false
+    - id: 2
+      name: label_printing_form_page_2
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: artwork_file_1
+      label: Artwork File 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artwork_file_2
+      label: Artwork File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artwork_file_3
+      label: Artwork File 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artwork_file_4
+      label: Artwork File 4
+      hint: null
+      type: text
+      options: []
+      required: false

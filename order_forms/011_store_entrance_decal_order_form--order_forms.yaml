@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_entrance_decal_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: deca_design
+      label: Decal Design
+      hint: Choose a design that matches your style
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: color
+      label: Color
+      hint: Choose a color
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 6
+      name: deca_type
+      label: Decal Type
+      hint: Choose a type
+      type: select_one
+      options:
+      - Vinyl
+      - Magnetic
+      - Acrylic
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: How many decals do you need
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter your shipping address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

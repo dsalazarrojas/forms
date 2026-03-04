@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Donation Form
+    pages:
+    - id: 1
+      name: donor_info_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For donation receipt delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: To discuss donation details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model
+      label: Car Make and Model
+      hint: Describe your car
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year_donation
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_vin_donation
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_condition_donation
+      label: Vehicle Condition
+      hint: Select the condition of the vehicle
+      type: select_one
+      options:
+      - Running
+      - Needs Repair
+      - Not Running
+      - Parts Only
+      required: true
+    - id: 11
+      name: vehicle_odometer_donation
+      label: Vehicle Odometer Reading
+      hint: Current mileage on the vehicle
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: donation_details_header
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: donation_type
+      label: Type of Donation
+      hint: Select the type of donation
+      type: select_one
+      options:
+      - Full Donation
+      - Partial Donation
+      - Other
+      required: true
+    - id: 14
+      name: donation_value_estimate
+      label: Estimated Donation Value ($)
+      hint: Your estimated value of the vehicle
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: donation_purpose
+      label: Purpose of Donation
+      hint: Why are you donating?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: donation_acknowledgement
+      label: I acknowledge the donation terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: donor_signature_confirmation
+      label: Type your name for donation confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_donation_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the donation
+      type: text
+      options: []
+      required: false

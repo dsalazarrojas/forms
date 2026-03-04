@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inner Child Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: emotional_status
+      label: Emotional Status
+      hint: null
+      type: select_one
+      options:
+      - I am feeling okay
+      - I am feeling sad
+      - I am feeling angry
+      - I am feeling scared
+      - I am feeling happy
+      - I am feeling confused
+      - I am feeling frustrated
+      - I am feeling excited
+      - I am feeling proud
+      - I am feeling ashamed
+      - I am feeling anxious
+      - I am feeling depressed
+      - I am feeling hopeless
+      - I am feeling helpless
+      - I am feeling lost
+      required: false
+    - id: 5
+      name: childhood_memory
+      label: Childhood Memory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: memory_details
+      label: Memory Details
+      hint: null
+      type: select_multiple
+      options:
+      - Play
+      - School
+      - Friends
+      - Family
+      - Hobbies
+      - Pets
+      - Travel
+      - Work
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: emotional_state
+      label: Emotional State
+      hint: null
+      type: select_one
+      options:
+      - I am feeling calm
+      - I am feeling anxious
+      - I am feeling angry
+      - I am feeling sad
+      required: true
+    - id: 8
+      name: mental_health_provider
+      label: Mental Health Provider
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 9
+      name: mental_health_services
+      label: Mental Health Services
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 10
+      name: other_mental_health_services
+      label: Other Mental Health Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_caregiver
+      label: Mental Health Caregiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mental_health_caregiver_phone
+      label: Mental Health Caregiver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mental_health_caregiver_email
+      label: Mental Health Caregiver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: mental_health_caregiver_relationship
+      label: Mental Health Caregiver Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mental_health_caregiver_years
+      label: Mental Health Caregiver Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_caregiver_notes
+      label: Mental Health Caregiver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: family_history_details
+      label: Family History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: current_medications_details
+      label: Current Medications Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_medical_conditions
+      label: Current Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_medical_conditions_details
+      label: Current Medical Conditions Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

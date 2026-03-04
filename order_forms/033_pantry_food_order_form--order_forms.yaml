@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pantry Food Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: food_items
+      label: Food Items
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Apple
+      - Carrot
+      - Banana
+      - Orange
+      - Pear
+      required: false
+    - id: 8
+      name: food_items_2
+      label: Food Items 2
+      hint: null
+      type: select_multiple
+      options:
+      - Pear
+      - Peach
+      - Apricot
+      - Pineapple
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

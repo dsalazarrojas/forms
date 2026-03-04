@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Product Order
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_sku
+      label: product sku
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_price
+      label: product price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: product_quantity
+      label: product quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_postal
+      label: customer postalcoderunner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_state
+      label: customer state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_zip
+      label: customer zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_country
+      label: customer country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Credit Card
+      required: false
+    - id: 19
+      name: product_details
+      label: product details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: order status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - shipped
+      - canceled
+      required: false
+    - id: 21
+      name: order_date_shipped
+      label: order date shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_date_canceled
+      label: order date canceled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: order_notes
+      label: order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assigned_tool_version
+      label: assigned tool version
+      hint: null
+      type: text
+      options: []
+      required: false

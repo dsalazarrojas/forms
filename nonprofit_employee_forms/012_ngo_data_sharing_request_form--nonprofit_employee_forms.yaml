@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Data Sharing Request Form
+    pages:
+    - id: 1
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usage
+      label: Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_agreement
+      label: Policy Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requestor_organization
+      label: Requestor Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requestor_position
+      label: Requestor Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requestor_date_of_birth
+      label: Requestor Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: sharing_organization
+      label: Sharing Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sharing_department
+      label: Sharing Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sharing_contact_email
+      label: Sharing Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: sharing_contact_phone
+      label: Sharing Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shared_for
+      label: Shared For
+      hint: null
+      type: select_one
+      options:
+      - Non Profit
+      - Business
+      - Other
+      - Government
+      - Academic
+      - Personal
+      required: false
+    - id: 15
+      name: data_request_date
+      label: Data Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: requestor_agreement
+      label: Requestor Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: sharing_agreement
+      label: Sharing Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: requestor_signature
+      label: Requestor Signature
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and agree to the terms of this data sharing request
+      - I do not understand or agree to the terms of this data sharing request
+      required: false

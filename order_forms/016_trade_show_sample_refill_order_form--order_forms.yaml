@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Sample Refill Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sample_request
+      label: Sample Request
+      hint: Please enter information about the sample you want to request
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ground''}'
+      - '{''id'': 2, ''name'': ''Air''}'
+      required: false
+    - id: 7
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Ship To 1''}'
+      - '{''id'': 2, ''name'': ''Ship To 2''}'
+      - '{''id'': 3, ''name'': ''Ship To 3''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_notes
+      label: Shipping Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''Open''}'
+      - '{''id'': 3, ''name'': ''In Progress''}'
+      required: false
+    - id: 21
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product''}'
+      - '{''id'': 2, ''name'': ''Service''}'
+      required: false

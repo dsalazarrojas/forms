@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: warranty_claim_information_form
+    pages:
+    - id: 1
+      name: warranty_claim_information_form
+      label: Warranty Claim Information Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: purchase date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: warranty_claim_type
+      label: warranty claim type
+      hint: null
+      type: select_one
+      options:
+      - physical damage
+      - manufacturing defect
+      - other
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photos_videos
+      label: photos/videos
+      hint: null
+      type: select_multiple
+      options:
+      - photo
+      - video
+      required: false
+    - id: 9
+      name: proof_of_purchase
+      label: proof of purchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_signature
+      label: business signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: warranty_details
+      label: warranty details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: warranty_agreement
+      label: warranty agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

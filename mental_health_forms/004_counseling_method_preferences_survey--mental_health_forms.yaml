@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Method Preferences Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: counseling_methods
+      label: What kind of counseling methods do you enjoy?
+      hint: null
+      type: select_multiple
+      options:
+      - Cognitive Behavioral
+      - Humanistic
+      - Psychodynamic
+      - Solution Focused
+      required: true
+    - id: 3
+      name: communication_styles
+      label: Preferred communication style
+      hint: null
+      type: select_one
+      options:
+      - Active Listening
+      - Assertive
+      - Collaborative
+      - Solution Focused
+      required: true
+    - id: 4
+      name: frequency_of_sessions
+      label: How often do you prefer sessions?
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Every other week
+      - Twice a month
+      - As needed
+      required: true
+    - id: 5
+      name: preferred_language
+      label: Preferred language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Portuguese
+      - French
+      - Arabic
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred time of day
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 7
+      name: contact_method
+      label: How do you want to contact me?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text message
+      - Video call
+      required: true
+    - id: 8
+      name: notes
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: What are your next steps after leaving the session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_contact
+      label: Follow up contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_method
+      label: Follow up method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true
+    - id: 13
+      name: follow_up_frequency
+      label: Follow up frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Every other week
+      - Twice a month
+      - As needed
+      required: true

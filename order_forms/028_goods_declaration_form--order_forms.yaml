@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Goods Declaration Form
+    pages:
+    - id: 1
+      name: goods_list
+      label: Goods List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goods_description
+      label: Goods Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hs_code
+      label: HS Code
+      hint: HS Code for goods
+      type: select_one
+      options:
+      - HS 001
+      - HS 002
+      - HS 003
+      required: false
+    - id: 5
+      name: hs_code_other
+      label: Other HS Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: harmonized_system
+      label: Harmonized System
+      hint: null
+      type: select_multiple
+      options:
+      - HS 001
+      - HS 002
+      - HS 003
+      required: false
+    - id: 7
+      name: hs_code_other_2
+      label: Other Harmonized System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: declaration_number
+      label: Declaration Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: origin_country
+      label: Origin Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: destination_country
+      label: Destination Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: goods_weight
+      label: Goods Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Sea
+      - Air
+      - Ground
+      required: false
+    - id: 15
+      name: shipping_method_other
+      label: Other Shipping Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customs_clearance
+      label: Customs Clearance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: customs_clearance_other
+      label: Other Customs Clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: declaration_status
+      label: Declaration Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Final
+      required: false
+    - id: 20
+      name: declaration_status_other
+      label: Other Declaration Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: goods_value
+      label: Goods Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: goods_value_other
+      label: Other Goods Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_value
+      label: Shipping Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: shipping_value_other
+      label: Other Shipping Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

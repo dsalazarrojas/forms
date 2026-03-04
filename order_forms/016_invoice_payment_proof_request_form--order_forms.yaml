@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: invoice_payment_proof_request_form
+    pages:
+    - id: 1
+      name: payment_type
+      label: Select Payment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_proof
+      label: Payment Proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_proof_type
+      label: Payment Proof Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: payment_proof_date
+      label: Payment Proof Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_proof_amount
+      label: Payment Proof Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_proof_method
+      label: Payment Proof Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: payment_proof_status
+      label: Payment Proof Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: proof_uploaded_by
+      label: Proof Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: proof_uploaded_date
+      label: Proof Uploaded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: proof_uploaded_time
+      label: Proof Uploaded Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_date
+      label: Uploaded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: uploaded_time
+      label: Uploaded Time
+      hint: null
+      type: time
+      options: []
+      required: false

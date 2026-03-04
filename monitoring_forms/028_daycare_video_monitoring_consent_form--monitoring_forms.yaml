@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Video Monitoring Consent Form
+    pages:
+    - id: 1
+      name: daycare_video_monitoring_consent_form
+      label: Parent Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: daycare_video_monitoring_consent_form_parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: daycare_video_monitoring_consent_form_video_monitoring
+      label: Video Monitoring
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: daycare_video_monitoring_consent_form_consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: daycare_video_monitoring_consent_form_date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: daycare_video_monitoring_consent_form_uploads
+      label: Uploads
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: daycare_video_monitoring_consent_form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: daycare_video_monitoring_consent_form_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

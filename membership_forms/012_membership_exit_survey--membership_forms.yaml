@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Exit Survey
+    pages:
+    - id: 1
+      name: exit_reason
+      label: Why are you leaving?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exit_date
+      label: When are you leaving?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exit_date_month
+      label: What month do you plan to leave?
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 4
+      name: exit_date_year
+      label: What year are you leaving?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: What type of membership do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Household
+      - Family
+      required: false
+    - id: 6
+      name: reason_for_leaving
+      label: What are the reasons for leaving?
+      hint: Please list all reasons
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: What changes would you like to see made to improve our services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: how_much_time_spend
+      label: How much time do you have spent as a member?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: how_much_time_want
+      label: How much time did you want to spend as a member?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: what_would_improve
+      label: What would improve your experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Better communication
+      - More events
+      - Increased transparency
+      - Better customer support
+      - Better services
+      - More convenient location
+      - More amenities
+      required: false
+    - id: 11
+      name: why_not_improve
+      label: What would not improve your experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Poor customer service
+      - Lack of communication
+      - Limited resources
+      - Unclear policies
+      - Uncomfortable facilities
+      - Insufficient amenities
+      - Unhelpful staff
+      - Unclear rules
+      - Uncooperative staff
+      - Unreliable services
+      required: false
+    - id: 12
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false

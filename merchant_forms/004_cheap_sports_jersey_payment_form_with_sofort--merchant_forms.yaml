@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheap Sports Jersey Payment Form With Sofort
+    pages:
+    - id: 1
+      name: payment_intro
+      label: -- Sports Jersey Order and Payment --
+      hint: Complete your jersey purchase below
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: jersey_team
+      label: Team selection
+      hint: null
+      type: select_one
+      options:
+      - NFL Teams
+      - NBA Teams
+      - MLB Teams
+      - NHL Teams
+      - Soccer Teams
+      - Other
+      required: true
+    - id: 7
+      name: jersey_size
+      label: Jersey size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 8
+      name: jersey_color
+      label: Jersey color
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Away
+      - Alternate
+      - Throwback
+      required: true
+    - id: 9
+      name: player_customization
+      label: Do you want player name and number?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: player_name
+      label: Player name for customization
+      hint: Leave blank if not customizing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_number
+      label: Player number for customization
+      hint: Leave blank if not customizing
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: Number of jerseys to order
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_price
+      label: Unit price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state_province
+      label: State or province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_method
+      label: Shipping method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Overnight
+      - International
+      required: true
+    - id: 20
+      name: gift_wrap
+      label: Add gift wrapping?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: order_notes
+      label: Special instructions or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment method
+      hint: Select your preferred payment option
+      type: select_one
+      options:
+      - Sofort
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 23
+      name: billing_same
+      label: Billing address same as shipping?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

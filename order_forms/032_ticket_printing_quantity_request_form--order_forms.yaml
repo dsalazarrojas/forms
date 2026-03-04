@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Printing Quantity Request Form
+    pages:
+    - id: 1
+      name: ticket_printing_quantity_request_form_page_1
+      label: Ticket Printing Quantity Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - Ticket
+      - Non-Ticket
+      - Other
+      required: false
+    - id: 3
+      name: ticket_printing_quantity_request_form_page_2
+      label: Ticket Printing Quantity Request Form 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

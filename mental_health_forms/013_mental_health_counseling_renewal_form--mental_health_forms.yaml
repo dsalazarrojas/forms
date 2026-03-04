@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_counseling_renewal_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_info
+      label: Service Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_provider
+      label: Mental Health Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_relationship
+      label: Client Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

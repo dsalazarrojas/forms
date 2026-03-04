@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sonar Finding Report Form
+    pages:
+    - id: 1
+      name: survey_location
+      label: Survey Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sonar_frequency
+      label: Sonar Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sonar_direction
+      label: Sonar Direction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sonar_depth
+      label: Sonar Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sonar_type
+      label: Sonar Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: water_type
+      label: Water Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sonar_notes
+      label: Sonar Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: file_attachment
+      label: File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

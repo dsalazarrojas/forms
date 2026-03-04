@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Camp Health Screening Form
+    pages:
+    - id: 1
+      name: camper_info
+      label: Camper Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Runny Nose
+      - Sore Throat
+      - Vomiting
+      - Diarrhea
+      - Abdominal Pain
+      - Chest Pain
+      required: true
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: health_status
+      label: Health Status
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false

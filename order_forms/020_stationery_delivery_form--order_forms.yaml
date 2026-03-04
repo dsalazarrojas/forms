@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stationery Delivery Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping Details
+      hint: Please provide shipping details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stationery_items
+      label: Stationery Items
+      hint: null
+      type: select_multiple
+      options:
+      - Stationery Item 1
+      - Stationery Item 2
+      - Stationery Item 3
+      - Stationery Item 4
+      - Stationery Item 5
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false

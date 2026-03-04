@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Plan Extension Form
+    pages:
+    - id: 1
+      name: request_extension
+      label: Request Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: extension_request_date
+      label: extension request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: extension_request_date_time
+      label: extension request date and time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: request_reason
+      label: request reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_comment
+      label: request comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: extension_status
+      label: extension status
+      hint: null
+      type: select_one
+      options:
+      - Extension Requested
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: approved_by
+      label: approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved_date
+      label: approved date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_date
+      label: updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_for
+      label: submitted for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: extension_comment
+      label: extension comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: extension_id
+      label: extension id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: extension_name
+      label: extension name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Driver Safety Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_details
+      label: Nomination Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nomination_reason
+      label: Nomination Reason
+      hint: Provide a clear description of why this driver deserves the award
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: driver_photo_url
+      label: Driver Photo URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: safety_video_url
+      label: Safety Video URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fleet_operator_name
+      label: Fleet Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: fleet_operator_phone
+      label: Fleet Operator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: fleet_operator_email
+      label: Fleet Operator Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: safety_officer_name
+      label: Safety Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: safety_officer_email
+      label: Safety Officer Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: safety_officer_phone
+      label: Safety Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: award_recipient_name
+      label: Award Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: award_recipient_phone
+      label: Award Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: award_recipient_email
+      label: Award Recipient Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: award_date
+      label: Award Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: award_category
+      label: Award Category
+      hint: null
+      type: select_one
+      options:
+      - Driver Excellence Award
+      - Safety Award
+      - Other
+      required: true
+    - id: 20
+      name: award_achievement
+      label: Award Achievement
+      hint: Provide a brief explanation of the award achievement
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: nomination_status
+      label: Nomination Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Declined
+      required: true
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: nominator_comments
+      label: Nominator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

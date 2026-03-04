@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Symptom Monitoring Form
+    pages:
+    - id: 1
+      name: mpox_symptom_monitoring_form_page_1
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mpox_rash_symptoms
+      label: skin_issues
+      hint: null
+      type: select_multiple
+      options:
+      - redness
+      - swelling
+      - pain
+      - blister
+      - lesion
+      - rash
+      - lesions
+      - pustules
+      - blisters
+      required: true
+    - id: 3
+      name: mpox_rash_characteristics
+      label: rash_characteristics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mpox_fever
+      label: fever
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: mpox_headache
+      label: headache
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mpox_muscle_aches
+      label: muscle_aches
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mpox_swollen_lymph_nodes
+      label: swollen_lymph_nodes
+      hint: null
+      type: text
+      options: []
+      required: false

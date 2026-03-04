@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_server_network_traffic_monitoring_log
+    pages:
+    - id: 1
+      name: email_server_name
+      label: Email Server Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: server_ip
+      label: Server IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: port
+      label: Port
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: protocol
+      label: Protocol
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HTTP'', ''value'': ''http''}'
+      - '{''id'': 2, ''label'': ''SMTP'', ''value'': ''smtp''}'
+      - '{''id'': 3, ''label'': ''POP3'', ''value'': ''pop3''}'
+      - '{''id'': 4, ''label'': ''IMAP'', ''value'': ''imap''}'
+      - '{''id'': 5, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 6
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: message_id
+      label: Message ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Connect'', ''value'': ''connect''}'
+      - '{''id'': 2, ''label'': ''Disconnect'', ''value'': ''disconnect''}'
+      - '{''id'': 3, ''label'': ''Receive'', ''value'': ''receive''}'
+      - '{''id'': 4, ''label'': ''Send'', ''value'': ''send''}'
+      - '{''id'': 5, ''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: email_id
+      label: Email ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message_subject_id
+      label: Message Subject ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recipient_email
+      label: Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: sender_email
+      label: Sender Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: recipient_ip
+      label: Recipient IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sender_ip
+      label: Sender IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: message_size
+      label: Message Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: message_body
+      label: Message Body
+      hint: null
+      type: text
+      options: []
+      required: false

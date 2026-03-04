@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Art Strip Order Form
+    pages:
+    - id: 1
+      name: nail_art_strip_order_form_page_1
+      label: nail_art_strip_order_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nail_strip_designs
+      label: nail_strip_designs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: options
+      label: options
+      hint: null
+      type: select_multiple
+      options:
+      - Nail Strip 1
+      - Nail Strip 2
+      - Nail Strip 3
+      - Nail Strip 4
+      - Nail Strip 5
+      - Nail Strip 6
+      - Nail Strip 7
+      - Nail Strip 8
+      - Nail Strip 9
+      - Nail Strip 10
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: nail_strip_size
+      label: nail_strip_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      - extra_large
+      required: false
+    - id: 7
+      name: nail_strip_color
+      label: nail_strip_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Yellow
+      - Green
+      - Purple
+      - Pink
+      - Orange
+      - Brown
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

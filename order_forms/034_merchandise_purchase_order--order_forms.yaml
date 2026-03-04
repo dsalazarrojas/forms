@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: merchandise_purchase_order
+    pages:
+    - id: 1
+      name: merchandise_type
+      label: Merchandise Type
+      hint: null
+      type: select_one
+      options:
+      - merchandise1
+      - merchandise2
+      - merchandise3
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - service1
+      - service2
+      - service3
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

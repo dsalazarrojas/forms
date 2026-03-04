@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: HCV Elimination Plan Check In
+    pages:
+    - id: 1
+      name: hcv_progress
+      label: Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_last_progress_reporting
+      label: Date Last Progress Reporting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: next_reporting_date
+      label: Next Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: next_progress_reporting
+      label: Next Progress Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_progress_reporting_location
+      label: Last Progress Reporting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: monitoring_team_name
+      label: Monitoring Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_team_members
+      label: Assigned Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

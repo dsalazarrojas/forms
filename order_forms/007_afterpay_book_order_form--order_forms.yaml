@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Book Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Book Order Form - Afterpay Supported --
+      hint: Order your favorite books and pay in installments
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmation and digital receipts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: book_titles
+      label: Book Titles
+      hint: List the titles you wish to purchase
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authors
+      label: Authors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Total number of books
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: book_format
+      label: Format - Hardcover, Paperback, E-book
+      hint: null
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - E-book
+      - Audiobook
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: select your preferred payment option
+      type: select_one
+      options:
+      - Afterpay
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 12
+      name: total_amount
+      label: Estimated Total Amount
+      hint: Enter the total cost including shipping
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: trophy_and_award_order_form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_multiple
+      options:
+      - Trophy
+      - Medal
+      - Certificate
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_awarded
+      label: Date Awarded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

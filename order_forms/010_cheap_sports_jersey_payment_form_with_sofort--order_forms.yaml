@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheap Sports Jersey Payment Form With Sofort
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_jersey_details
+      label: -- Jersey Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: jersey_team
+      label: Select Team
+      hint: null
+      type: select_one
+      options:
+      - Team Alpha
+      - Team Beta
+      - Team Gamma
+      - Team Delta
+      - National Selection
+      required: true
+    - id: 12
+      name: jersey_size
+      label: Jersey Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
+      required: true
+    - id: 13
+      name: order_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: customization_name
+      label: Custom Name on Back
+      hint: Leave blank for no name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customization_number
+      label: Custom Number
+      hint: 0-99
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: total_amount_due
+      label: Total Amount ($)
+      hint: Calculated based on quantity
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method_note
+      label: Note - You will be redirected to Sofort to complete payment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: terms_acceptance
+      label: I agree to the Refund Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Delivery Form
+    pages:
+    - id: 1
+      name: order_reference
+      label: Order Reference
+      hint: Link delivery to your ticket order
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: Your order confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: Concert event name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Date of the concert
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: purchaser_name
+      label: Purchaser Name
+      hint: Name of ticket buyer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purchaser_email
+      label: Purchaser Email
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: delivery_options
+      label: Delivery Options
+      hint: Choose how to receive your tickets
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should tickets be delivered
+      type: select_one
+      options:
+      - Electronic Email Delivery
+      - Mobile Wallet Download
+      - Will Call Box Office Pickup
+      - Standard Mail
+      - Express Courier
+      required: true
+    - id: 9
+      name: email_address
+      label: Delivery Email Address
+      hint: Email to receive e-tickets
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: mobile_number
+      label: Mobile Phone Number
+      hint: For mobile ticket delivery
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: will_call_name
+      label: Will Call Pickup Name
+      hint: Name for box office pickup
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: will_call_id
+      label: Pickup ID Number
+      hint: ID number for verification
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mailing_address
+      label: Mailing Address
+      hint: For physical ticket delivery
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recipient_name
+      label: Recipient Name
+      hint: Who should receive the tickets
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: street_address
+      label: Street Address
+      hint: Full street address
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: apartment_suite
+      label: Apartment or Suite
+      hint: Unit number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: country
+      label: Country
+      hint: Country for delivery
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: false
+    - id: 21
+      name: delivery_timing
+      label: Delivery Timing Preference
+      hint: When should tickets be sent
+      type: select_one
+      options:
+      - Send Immediately
+      - Send One Week Before Event
+      - Send Three Days Before Event
+      - Hold for Will Call
+      required: true
+    - id: 22
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any specific delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_required
+      label: Signature Required
+      hint: Does delivery require signature
+      type: select_one
+      options:
+      - Yes Signature Required
+      - No Leave at Door
+      required: false
+    - id: 24
+      name: insurance_option
+      label: Delivery Insurance
+      hint: Protect your tickets during shipping
+      type: select_one
+      options:
+      - Yes Add Insurance
+      - No Insurance Needed
+      required: false
+    - id: 25
+      name: confirmation_preference
+      label: Delivery Confirmation
+      hint: How should we confirm delivery
+      type: select_one
+      options:
+      - Email Confirmation
+      - SMS Text Confirmation
+      - Both Email and SMS
+      - No Confirmation Needed
+      required: true

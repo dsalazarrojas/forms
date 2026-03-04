@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: scented_candle_order_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scents
+      label: Scent
+      hint: null
+      type: select_multiple
+      options:
+      - Lavender
+      - Vanilla
+      - Eucalyptus
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_cost
+      label: Total cost
+      hint: null
+      type: number
+      options: []
+      required: true

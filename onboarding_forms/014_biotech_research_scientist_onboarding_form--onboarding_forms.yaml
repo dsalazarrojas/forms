@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Scientist Onboarding Form
+    pages:
+    - id: 1
+      name: section_employee_information
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Assigned employee number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Your first day
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department or Lab
+      hint: Your assigned department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: direct_manager
+      label: Direct Manager
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_relationship
+      label: Relationship to You
+      hint: How is this person related
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_equipment_access
+      label: -- Equipment and Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: lab_access_required
+      label: Lab Access Required
+      hint: Do you need lab facility access
+      type: select_one
+      options:
+      - Yes - Full Access
+      - Yes - Limited Access
+      - false
+      required: true
+    - id: 15
+      name: equipment_assignment
+      label: Equipment Being Assigned
+      hint: List computers, keys, or devices
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: software_licenses
+      label: Software Licenses Needed
+      hint: Software tools required for position
+      type: select_multiple
+      options:
+      - Statistical Analysis Software
+      - Bioinformatics Tools
+      - Lab Management System
+      - Chemistry Software
+      - Office Suite
+      - Data Visualization Tools
+      required: false
+    - id: 17
+      name: section_training
+      label: -- Training Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: safety_training_completed
+      label: Basic Safety Training Completed
+      hint: Have you attended orientation
+      type: select_one
+      options:
+      - Yes, Completed
+      - Scheduled For Later
+      - Not Yet Scheduled
+      required: true
+    - id: 19
+      name: biohazard_training
+      label: Bloodborne Pathogen and Biohazard Training
+      hint: Required certification
+      type: select_one
+      options:
+      - Yes, Completed
+      - Scheduled
+      - Pending
+      required: true
+    - id: 20
+      name: biosafety_level
+      label: Biosafety Level Training Required
+      hint: What level is your work
+      type: select_one
+      options:
+      - BSL-1
+      - BSL-2
+      - BSL-3
+      - Not Required
+      required: true
+    - id: 21
+      name: lab_specific_training
+      label: Lab-Specific Training Topics
+      hint: Select relevant trainings
+      type: select_multiple
+      options:
+      - Equipment Operation
+      - Chemical Handling
+      - Waste Disposal
+      - Emergency Procedures
+      - Quality Assurance
+      - Data Management
+      required: false
+    - id: 22
+      name: section_acknowledgments
+      label: -- Safety Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: safety_manual_receipt
+      label: I have received and read the Laboratory Safety Manual
+      hint: Confirm receipt
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 24
+      name: chemical_hygiene_plan
+      label: I have reviewed the Chemical Hygiene Plan
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 25
+      name: emergency_procedures
+      label: I understand emergency procedures and evacuation routes
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 26
+      name: ppe_requirements
+      label: I will comply with PPE requirements
+      hint: Personal Protective Equipment must be worn
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 27
+      name: hazard_communication
+      label: I understand Hazard Communication standards
+      hint: GHS labeling and SDS requirements
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 28
+      name: incident_reporting
+      label: I will report all incidents and near-misses
+      hint: Confirm commitment to safety reporting
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 29
+      name: section_policies
+      label: -- Company Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: code_of_conduct
+      label: I have read and understand the Code of Conduct
+      hint: Acknowledge receipt
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 31
+      name: confidentiality_agreement
+      label: I agree to maintain confidentiality of proprietary information
+      hint: Confirm confidentiality commitment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 32
+      name: data_protection
+      label: I will comply with data protection and privacy policies
+      hint: GDPR, HIPAA, and internal policies
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: section_final
+      label: -- Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: onboarding_date
+      label: Date of Onboarding
+      hint: When is this form being completed
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Manager completing onboarding
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: acknowledgment
+      label: I certify that I have received all required onboarding materials and
+        training
+      hint: Final acknowledgment
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true

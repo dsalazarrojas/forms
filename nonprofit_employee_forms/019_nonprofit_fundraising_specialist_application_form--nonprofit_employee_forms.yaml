@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Fundraising Specialist Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: non_profit_name
+      label: Non-Profit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Development Manager
+      - Director of Development
+      - Fundraising Manager
+      - Grant Writer
+      - Non-Profit Professional
+      - Other
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: salary_requirements
+      label: Salary Requirements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_duties
+      label: Job Duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: available_to_start
+      label: Available to Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: available_date
+      label: Available Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_type
+      label: Work Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: non_profit_address
+      label: Non-Profit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: non_profit_city
+      label: Non-Profit City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: non_profit_state
+      label: Non-Profit State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: non_profit_zip
+      label: Non-Profit Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: non_profit_country
+      label: Non-Profit Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: uploaded_cv
+      label: Uploaded CV
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_cover_letter
+      label: Uploaded Cover Letter
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_resume
+      label: Uploaded Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - I confirm that the information provided is accurate.
+      - I understand that the uploaded documents may be reviewed by multiple people.
+      - I have read and understand the terms and conditions.
+      required: false
+    - id: 25
+      name: confirm_upload
+      label: Confirm Upload
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

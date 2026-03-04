@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Intervention Assessment
+    pages:
+    - id: 1
+      name: medication_intervention
+      label: Medication Intervention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_changes
+      label: Medication Changes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_dose
+      label: Medication Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false

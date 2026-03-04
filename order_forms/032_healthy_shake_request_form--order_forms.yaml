@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Shake Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''address_type'': ''Home'', ''value'': ''Home''}'
+      - '{''address_type'': ''Work'', ''value'': ''Work''}'
+      required: true
+    - id: 3
+      name: order
+      label: Order Information
+      hint: Select your shake order
+      type: select_one
+      options:
+      - '{''shake_type'': ''Mango Madness'', ''value'': ''Mango Madness'', ''suboptions'':
+        [{''size'': ''Small'', ''value'': ''Small''}, {''size'': ''Medium'', ''value'':
+        ''Medium''}, {''size'': ''Large'', ''value'': ''Large''}]}'
+      - Other
+      required: true
+    - id: 4
+      name: payment
+      label: Payment Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery
+      label: Delivery Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''delivery_type'': ''Pickup'', ''value'': ''Pickup''}'
+      - '{''delivery_type'': ''Delivery'', ''value'': ''Delivery''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone2
+      label: Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false

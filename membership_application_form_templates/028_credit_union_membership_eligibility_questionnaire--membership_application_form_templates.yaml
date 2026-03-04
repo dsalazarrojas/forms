@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Union Membership Eligibility Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: Please enter your current address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: Please enter your Social Security Number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Emergency contact name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - spouse
+      - parent
+      - child
+      - relative
+      - other
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Emergency contact address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_one
+      options:
+      - full_member
+      - junior_member
+      - share_member
+      required: true
+    - id: 13
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - full_time
+      - part_time
+      - self_employed
+      - retired
+      - student
+      - unemployed
+      required: true
+    - id: 16
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: income_frequency
+      label: Income Frequency
+      hint: Please select the frequency you get paid
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: income_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: income_other
+      label: Other
+      hint: Please describe your income frequency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employer
+      label: Employer
+      hint: Please enter your employer name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employer_address
+      label: Employer Address
+      hint: Please enter your employer address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: branch
+      label: Branch
+      hint: Please enter your branch
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: branch_address
+      label: Branch Address
+      hint: Please enter your branch address
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: branch_phone
+      label: Branch Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: branch_email
+      label: Branch Email
+      hint: null
+      type: email
+      options: []
+      required: false

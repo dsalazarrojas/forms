@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Shop Beans And Syrups Order Request
+    pages:
+    - id: 1
+      name: section_business
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Café or coffee shop name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: Owner or Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Either
+      required: true
+    - id: 9
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_coffee_beans
+      label: -- Coffee Beans Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: bean_type
+      label: Coffee Bean Type
+      hint: Variety or blend
+      type: select_one
+      options:
+      - Single Origin
+      - Blend
+      - Dark Roast
+      - Medium Roast
+      - Light Roast
+      - Decaf
+      - Espresso
+      required: true
+    - id: 12
+      name: bean_quantity
+      label: Quantity - pounds
+      hint: How many pounds of beans
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bean_origin
+      label: Bean Origin or Variety
+      hint: Brazil, Ethiopia, Colombia, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: grind_option
+      label: Grind Option
+      hint: null
+      type: select_one
+      options:
+      - Whole beans
+      - Finely ground
+      - Medium grind
+      - Coarse grind
+      required: true
+    - id: 15
+      name: add_more_beans
+      label: Order Additional Coffee Beans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: bean_type_2
+      label: Second Coffee Bean Type
+      hint: Optional additional variety
+      type: select_one
+      options:
+      - Single Origin
+      - Blend
+      - Dark Roast
+      - Medium Roast
+      - Light Roast
+      - Decaf
+      - Espresso
+      required: false
+    - id: 17
+      name: bean_quantity_2
+      label: Quantity - pounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_syrups
+      label: -- Syrups and Flavorings Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: syrup_type
+      label: Syrup Type
+      hint: Flavor preference
+      type: select_one
+      options:
+      - Vanilla
+      - Caramel
+      - Hazelnut
+      - French vanilla
+      - Cinnamon
+      - Mocha
+      - Butterscotch
+      - Sugar-free options
+      - Other
+      required: true
+    - id: 20
+      name: syrup_quantity
+      label: Quantity - bottles or liters
+      hint: How much syrup
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: bottle_size
+      label: Bottle Size
+      hint: null
+      type: select_one
+      options:
+      - 750 ml
+      - 1 liter
+      - 5 liters
+      - Bulk container
+      required: true
+    - id: 22
+      name: add_more_syrups
+      label: Order Additional Syrups
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: syrup_type_2
+      label: Second Syrup Type
+      hint: Optional additional flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Caramel
+      - Hazelnut
+      - French vanilla
+      - Cinnamon
+      - Mocha
+      - Butterscotch
+      - Sugar-free options
+      - Other
+      required: false
+    - id: 24
+      name: syrup_quantity_2
+      label: Quantity - bottles or liters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any specific preferences or requirements
+      type: text
+      options: []
+      required: false

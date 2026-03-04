@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: onboarding_form
+      label: onboarding_form
+      hint: Please fill out this form
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: orientation_completion_date
+      label: orientation_completion_date
+      hint: Date of orientation completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: Please enter your employee ID
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: training_materials_completed
+      label: training_materials_completed
+      hint: Please indicate if training materials were completed
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: Manager's name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_comments
+      label: supervisor_comments
+      hint: Supervisor comments
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: employee_signature
+      label: employee_signature
+      hint: Employee signature
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: training_status
+      label: training_status
+      hint: Training status
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 9
+      name: manager_signature
+      label: manager_signature
+      hint: Manager signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: completion_date
+      label: completion_date
+      hint: Date completed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: training_materials_received
+      label: training_materials_received
+      hint: List of received materials
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 12
+      name: manager_name
+      label: manager_name
+      hint: Manager's name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: onboarding_status
+      label: onboarding_status
+      hint: Onboarding status
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 14
+      name: orientation_date
+      label: orientation_date
+      hint: Date of orientation
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: training_date
+      label: training_date
+      hint: Date of training
+      type: date
+      options: []
+      required: true

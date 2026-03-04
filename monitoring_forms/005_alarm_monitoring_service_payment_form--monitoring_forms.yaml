@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alarm Monitoring Service Payment Form
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Full name on the account
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Your alarm monitoring account number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_address
+      label: Service Address
+      hint: Address where alarm system is installed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: Type of monitoring service
+      type: select_one
+      options:
+      - Basic Monitoring
+      - Premium Monitoring
+      - Video Surveillance
+      - Fire/Smoke Detection
+      - Carbon Monoxide Detection
+      - Environmental Monitoring
+      - Full Package
+      required: true
+    - id: 7
+      name: payment_type
+      label: Payment Type
+      hint: What type of payment is this?
+      type: select_one
+      options:
+      - New Activation
+      - Monthly Renewal
+      - Annual Renewal
+      - Plan Upgrade
+      - Equipment Purchase
+      - Service Call
+      required: true
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: Total amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Select your payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer (ACH)
+      - Check
+      - Cash
+      required: true
+    - id: 10
+      name: card_number
+      label: Card Number
+      hint: Enter card number if paying by card
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: card_expiry
+      label: Card Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cvv_code
+      label: CVV Code
+      hint: 3-digit security code on back of card
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: auto_pay_enrollment
+      label: Enroll in Auto-Pay
+      hint: Automatically charge your card monthly
+      type: select_one
+      options:
+      - Yes, enroll me
+      - No, one-time payment only
+      required: true
+    - id: 15
+      name: auto_pay_date
+      label: Preferred Auto-Pay Date
+      hint: Day of month for automatic billing
+      type: select_one
+      options:
+      - 1st of month
+      - 15th of month
+      - Last day of month
+      - Same date each month
+      required: false
+    - id: 16
+      name: promotional_code
+      label: Promotional Code
+      hint: Enter discount code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions or comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to the terms of service?
+      type: select_one
+      options:
+      - Yes, I accept the terms and conditions
+      - No, I do not accept
+      required: true
+    - id: 19
+      name: authorization_signature
+      label: Authorization Confirmation
+      hint: I authorize this payment
+      type: select_one
+      options:
+      - I authorize this payment
+      - I do not authorize
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colorado Mountain Club Trekking Registration Form WorldPayUS Payment Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Trekking Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact email for confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Emergency contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trek_selected
+      label: Trek selected
+      hint: Name of trekking route or event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical conditions
+      hint: Any health conditions organizers should know
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_reference
+      label: Payment reference
+      hint: WorldPayUS transaction reference
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: waiver_agreement
+      label: Waiver agreement
+      hint: I agree to the club terms and waiver
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

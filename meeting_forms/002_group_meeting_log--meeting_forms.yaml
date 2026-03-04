@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Meeting Log
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: members
+      label: Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - Finished
+      - Ongoing
+      - Upcoming
+      required: false
+    - id: 5
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: meeting_start_time
+      label: Meeting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_end_time
+      label: Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: task
+      label: Task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: finished_by
+      label: Finished By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: finished_time
+      label: Finished Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom-laptop-sleeve-order-form
+    pages:
+    - id: 1
+      name: laptop_model
+      label: Laptop Model
+      hint: null
+      type: select_multiple
+      options:
+      - MacBook
+      - Lenovo
+      - Dell
+      required: false
+    - id: 2
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 3
+      name: sleeve_type
+      label: Sleeve Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Premium
+      required: false
+    - id: 4
+      name: name_tag
+      label: Name Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Cash
+      - PayPal
+      required: false

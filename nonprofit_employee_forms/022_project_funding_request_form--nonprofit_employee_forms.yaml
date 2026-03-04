@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Funding Request Form
+    pages:
+    - id: 1
+      name: project_funding_request_form
+      label: Project Funding Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Please describe your project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: funding_amount
+      label: Funding Amount
+      hint: Enter the project funding amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funding_source
+      label: Funding Source
+      hint: null
+      type: select_one
+      options:
+      - Government Agency
+      - Private Foundation
+      - Corporate Sponsor
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grant
+      - Initiative
+      - Project
+      required: false
+    - id: 11
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - Community Development
+      - Economic Development
+      - Health and Wellness
+      - Education
+      - Environment
+      - Technology
+      - Arts and Culture
+      - Nonprofit Capacity Building
+      required: true
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: Enter the project manager's name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: organization_name
+      label: Organization Name
+      hint: Enter the organization's name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: organization_city
+      label: Organization City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organization_state
+      label: Organization State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: organization_country
+      label: Organization Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Withdrawal Form
+    pages:
+    - id: 1
+      name: membership_withdrawal_form
+      label: membership_withdrawal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_withdrawal
+      label: reason_for_withdrawal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_membership_event
+      label: date_of_last_membership_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_last_membership_event
+      label: time_of_last_membership_event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: member_to_withdraw
+      label: member_to_withdraw
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_withdrawal
+      label: reason_for_withdrawal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_additional_info
+      label: select_additional_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: confirm_withdraw
+      label: confirm_withdraw
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_additional_info
+      label: confirm_additional_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: membership_cancellation_date
+      label: membership_cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: membership_cancellation_time
+      label: membership_cancellation_time
+      hint: null
+      type: time
+      options: []
+      required: false

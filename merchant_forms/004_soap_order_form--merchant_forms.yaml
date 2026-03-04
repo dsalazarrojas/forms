@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soap Order Form
+    pages:
+    - id: 1
+      name: merchant_info
+      label: Merchant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: soap_type
+      label: Soap Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Bar Soap''}'
+      - '{''id'': 2, ''name'': ''Liquid Soap''}'
+      - '{''id'': 3, ''name'': ''Body Wash''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

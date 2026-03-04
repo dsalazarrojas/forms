@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Furniture Order Checklist Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_options
+      label: Product Options
+      hint: null
+      type: select_multiple
+      options:
+      - Wooden Legs
+      - Metal Frame
+      - Leather Seat
+      - Wicker Back
+      required: false
+    - id: 4
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: select_one
+      options:
+      - Ground Floor
+      - Staircase
+      - Lift
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 6
+      name: customer_specs
+      label: Customer Specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      required: false
+    - id: 17
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_price
+      label: Order Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sales_notes
+      label: Sales Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Other
+      required: false
+    - id: 23
+      name: order_terms
+      label: Order Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Required
+      - Signature Not Required
+      - Signature Waived
+      required: false

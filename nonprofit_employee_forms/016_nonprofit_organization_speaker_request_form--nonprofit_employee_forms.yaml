@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Organization Speaker Request Form
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_coordinator
+      label: Event Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: speaker_info
+      label: Speaker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_details
+      label: Speaker Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speaker_requirements
+      label: Speaker Requirements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Seminar
+      - Lecture
+      - Webinar
+      - Workshop
+      - Meeting
+      - Forum
+      - Panel
+      - Presentation
+      - Trade show
+      required: false
+    - id: 10
+      name: event_length
+      label: Event Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: speaker_fee
+      label: Speaker Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: speaker_expense
+      label: Speaker Expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: speaker_experience
+      label: Speaker Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - Organizer 1
+      - Organizer 2
+      - Organizer 3
+      required: false
+    - id: 15
+      name: event_organizers_contact
+      label: Event Organizers Contact
+      hint: null
+      type: text
+      options: []
+      required: false

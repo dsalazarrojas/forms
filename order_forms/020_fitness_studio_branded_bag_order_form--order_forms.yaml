@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Studio Branded Bag Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bag_info
+      label: Bag Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: Choose your preferred delivery method
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: false
+    - id: 6
+      name: customer_phone_number
+      label: customer_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: Choose your preferred payment method
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 9
+      name: bag_color
+      label: Bag Color
+      hint: Choose one or more colors
+      type: select_multiple
+      options:
+      - Black
+      - Red
+      - Blue
+      required: true
+    - id: 10
+      name: bag_size
+      label: Bag Size
+      hint: Select bag size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 11
+      name: bag_type
+      label: Bag Type
+      hint: null
+      type: select_one
+      options:
+      - Duffel
+      - Drawstring
+      - Tote
+      required: false

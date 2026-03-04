@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient History And Physical Form
+    pages:
+    - id: 1
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergies_list
+      label: Allergies List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: surgical_history
+      label: Surgical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_history
+      label: Social History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_surgical_notes
+      label: Medical/Surgical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: date_of_last_examination
+      label: Date of Last Examination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: patient_history_and_physical_form_submitted_by
+      label: Patient History And Physical Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

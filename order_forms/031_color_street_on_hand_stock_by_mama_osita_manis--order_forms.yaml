@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street On Hand Stock By Mama Osita Manis
+    pages:
+    - id: 1
+      name: header
+      label: -- On Hand Stock --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner
+      label: Owner name
+      hint: Stylist name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_code
+      label: Product code
+      hint: SKU or identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Product description
+      hint: Color or design description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: units_on_hand
+      label: Units on hand
+      hint: Integer number of units
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: retail_price
+      label: Retail price
+      hint: Decimal price
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reorder_needed
+      label: Reorder needed
+      hint: Indicate if reorder required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: preferred_supplier
+      label: Preferred supplier
+      hint: Supplier name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: last_sold_date
+      label: Last sold date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

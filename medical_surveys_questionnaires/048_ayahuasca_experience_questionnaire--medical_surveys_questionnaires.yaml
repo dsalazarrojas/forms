@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayahuasca Experience Questionnaire
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant and Ceremony Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name_aya
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob_aya
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address_aya
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: ceremony_date_aya
+      label: Date of Ceremony
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: ceremony_location_aya
+      label: Location of Ceremony
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facilitator_name_aya
+      label: Facilitator or Shaman Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_ceremony_intent
+      label: -- Intent and Preparation --
+      hint: What did you hope to achieve?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ceremony_intent_text
+      label: Intent for the Ceremony
+      hint: Briefly describe your primary motivation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: overall_experience_rating
+      label: Overall Experience Rating
+      hint: Rate from 1 (Challenging) to 10 (Transformative)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: intensity_visual_rating
+      label: Intensity of Visual Experience
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_sensations_emotions
+      label: -- Sensations and Emotions --
+      hint: Select all that apply to your experience
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: physical_sensations_aya
+      label: Physical Sensations Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Purging (Vomiting/Diarrhea)
+      - Nausea and Body Discomfort
+      - Rapid Temperature Changes
+      - Muscle Shaking or Tremors
+      - Deep Physical Euphoria
+      - Altered Sense of Time
+      required: true
+    - id: 14
+      name: emotional_experience_aya
+      label: Emotional Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Profound Peace and Serenity
+      - Overwhelming Joy and Gratitude
+      - Confronting Fear and Anxiety
+      - Intense Sadness and Grief
+      - Profound Gratitude and Connection
+      - Temporary Confusion
+      required: true
+    - id: 15
+      name: key_insight_aya
+      label: Key Insight or Realization
+      hint: What was the most significant takeaway?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: difficulty_experience_aya
+      label: Perceived Difficulty of the Experience
+      hint: Rate from 1 (Easy) to 5 (Extremely Challenging)
+      type: select_one
+      options:
+      - 1 - Relatively Gentle
+      - 2 - Moderate Challenge
+      - 3 - Challenging but Manageable
+      - 4 - Significantly Challenging
+      - 5 - Extremely Difficult/Intense
+      required: true
+    - id: 17
+      name: current_mindset_aya
+      label: Current State of Mind
+      hint: How do you feel right now?
+      type: select_one
+      options:
+      - Calm and Peaceful
+      - Anxious and Questioning
+      - Energized and Inspired
+      - Reflective and Quiet
+      - Confused and Disoriented
+      required: true
+    - id: 18
+      name: integration_needs_aya
+      label: Post-Ceremony Integration Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Therapeutic Support/Psychotherapy
+      - Group Discussion/Sharing Circles
+      - Time in Nature
+      - Continued Solitude and Reflection
+      - Journaling and Artistic Expression
+      required: true
+    - id: 19
+      name: participation_future_aya
+      label: Would you participate in a ceremony again?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Definitely
+      - No, I'm finished
+      - Maybe in the future
+      required: true
+    - id: 20
+      name: final_comments_aya
+      label: Final Comments or Observations
+      hint: Any other details to share
+      type: text
+      options: []
+      required: false

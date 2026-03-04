@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jerseys And Hoodies Order Form
+    pages:
+    - id: 1
+      name: order_form_1
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_details_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_details_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_details_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: jersey_details
+      label: Jersey Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: jersey_details_1
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: jersey_details_2
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: hoodie_details
+      label: Hoodie Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hoodie_details_1
+      label: Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hoodie_details_2
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: order_summary_1
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_summary_2
+      label: Total Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: order_summary_3
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: order_summary_4
+      label: Total Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: order_summary_5
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: order_summary_6
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_button_1
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_button_2
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_summary_7
+      label: Order Number
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_summary_8
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: order_summary_9
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: order_summary_10
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 26
+      name: order_summary_11
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: true

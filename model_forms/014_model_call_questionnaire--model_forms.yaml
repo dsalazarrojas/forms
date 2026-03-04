@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: model_call_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''beginner''}'
+      - '{''option'': ''intermediate''}'
+      - '{''option'': ''advanced''}'
+      required: false
+    - id: 3
+      name: skills
+      label: skills
+      hint: List all relevant skills, e.g., portrait, wedding, pet photography.
+      type: select_multiple
+      options:
+      - '{''option'': ''portrait''}'
+      - '{''option'': ''wedding''}'
+      - '{''option'': ''pet photography''}'
+      - '{''option'': ''landscape''}'
+      - '{''option'': ''sports''}'
+      - '{''option'': ''other''}'
+      required: false
+    - id: 4
+      name: portfolio
+      label: portfolio
+      hint: Share a link to your portfolio or attach your photos here.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: availability
+      hint: What are your working hours?
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_work
+      label: preferred_work
+      hint: What type of work do you want to do most often?
+      type: select_one
+      options:
+      - '{''option'': ''studio''}'
+      - '{''option'': ''location''}'
+      - '{''option'': ''outdoors''}'
+      - '{''option'': ''other''}'
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: Where are you based?
+      type: select_one
+      options:
+      - '{''option'': ''home''}'
+      - '{''option'': ''office''}'
+      - '{''option'': ''online''}'
+      - '{''option'': ''other''}'
+      required: false
+    - id: 9
+      name: model_call
+      label: model_call
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butcher Shop Order Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pickup_or_delivery
+      label: Pickup or Delivery
+      hint: Select your preferred option
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Desired Order Date
+      hint: When do you need your order
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: Preferred Pickup or Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: beef_products
+      label: Beef Products
+      hint: Select beef items
+      type: select_multiple
+      options:
+      - Ground Beef
+      - Ribeye Steaks
+      - Sirloin Steaks
+      - Filet Mignon
+      - Chuck Roast
+      - Brisket
+      - Beef Ribs
+      - Beef Stew Meat
+      required: false
+    - id: 13
+      name: beef_quantities
+      label: Beef Quantities
+      hint: Pounds for each selection
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pork_products
+      label: Pork Products
+      hint: Select pork items
+      type: select_multiple
+      options:
+      - Ground Pork
+      - Pork Chops
+      - Pork Tenderloin
+      - Pork Ribs
+      - Pork Belly
+      - Pork Shoulder
+      - Pork Loin
+      required: false
+    - id: 15
+      name: pork_quantities
+      label: Pork Quantities
+      hint: Pounds for each selection
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: chicken_products
+      label: Chicken Products
+      hint: Select chicken items
+      type: select_multiple
+      options:
+      - Whole Chicken
+      - Chicken Breasts
+      - Chicken Thighs
+      - Chicken Drumsticks
+      - Chicken Wings
+      - Ground Chicken
+      required: false
+    - id: 17
+      name: chicken_quantities
+      label: Chicken Quantities
+      hint: Pounds for each selection
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specialty_cuts
+      label: Specialty or Custom Cuts
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Preparation Instructions
+      hint: Thickness, boneless, marinades, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: total_price
+      label: Estimated Total Price
+      hint: Approximate order cost
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      required: true
+    - id: 22
+      name: order_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

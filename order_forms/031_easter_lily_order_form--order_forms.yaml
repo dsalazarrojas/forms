@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_lily_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 8
+      name: order_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_order_number
+      label: Customer Order Number
+      hint: null
+      type: text
+      options: []
+      required: false

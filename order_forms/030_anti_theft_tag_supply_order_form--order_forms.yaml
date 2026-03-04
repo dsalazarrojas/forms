@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Theft Tag Supply Order Form
+    pages:
+    - id: 1
+      name: section_order
+      label: -- Order Request --
+      hint: Request anti theft tags for inventory security
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester
+      label: Requester name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department or store location
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tag_type
+      label: Tag type
+      hint: Select the tag model
+      type: select_one
+      options:
+      - Standard tag
+      - High security tag
+      - RFID tag
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity required
+      hint: Enter number of tags
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: purchase_order
+      label: Purchase order number
+      hint: Optional billing reference
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: required_by_date
+      label: Required by date
+      hint: Date by which order should arrive
+      type: date
+      options: []
+      required: false

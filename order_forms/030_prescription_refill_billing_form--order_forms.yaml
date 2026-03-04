@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Refill Billing Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prescription_id
+      label: Prescription ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_card_holder
+      label: Insurance Card Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_relationship
+      label: Relationship with Patient
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Family member
+      - Caregiver
+      required: true
+    - id: 7
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Electronic Funds Transfer
+      required: true
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: prescription_number
+      label: Prescription Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_card_number
+      label: Insurance Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prescription_refill_date
+      label: Refill Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_relationship_other
+      label: Relationship with Patient other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_address_other
+      label: Billing Address other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_card_holder_other
+      label: Insurance Card Holder other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method_other
+      label: Payment Method other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: payment_date_other
+      label: Payment Date other
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: payment_amount_other
+      label: Payment Amount other
+      hint: null
+      type: number
+      options: []
+      required: false

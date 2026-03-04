@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Card Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gift_card_type
+      label: Gift Card Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Gift Card Type'': [''Visa'', ''Mastercard'', ''Amex'']}'
+      - Other - Cash
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_value
+      label: Order Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recipient_email
+      label: Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false

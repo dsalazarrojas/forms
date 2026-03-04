@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Upgrade Quotation Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: current_system_info
+      label: Current System Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: upgrade_details
+      label: Upgrade Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: upgrade_reason
+      label: Upgrade Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upgrade_frequency
+      label: Upgrade Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_budget
+      label: Customer Budget
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: estimated_upgrade_cost
+      label: Estimated Upgrade Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: system_upgrades
+      label: System Upgrades
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: upgrade_deadlines
+      label: Upgrade Deadlines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_upgrade_schedule
+      label: Next Upgrade Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: upgrade_technology
+      label: Upgrade Technology
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

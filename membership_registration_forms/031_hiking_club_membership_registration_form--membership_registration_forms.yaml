@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: hiking_club_membership_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Group''}'
+      - '{''value'': ''Family''}'
+      required: false
+    - id: 6
+      name: membership_start_date
+      label: membership_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: membership_end_date
+      label: membership_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Membership Registration Forms''}'
+      - '{''value'': ''Membership Application Form Templates''}'
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

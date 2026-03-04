@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Underwear Order Form
+    pages:
+    - id: 1
+      name: customer_header
+      label: -- Customer and Caregiver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: caregiver_name
+      label: Caregiver / Representative Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: For order confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: product_selection_header
+      label: -- Adaptive Underwear Selection --
+      hint: Designed for easy dressing and comfort
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: adaptive_style
+      label: Style of Adaptive Closure
+      hint: null
+      type: select_one
+      options:
+      - Side-Opening (Magnetic)
+      - Side-Opening (Velcro / Hook and Loop)
+      - Front-Opening
+      - Post-Surgery Snap Style
+      - Easy-Grip Loops
+      required: true
+    - id: 8
+      name: garment_type
+      label: Underwear Type
+      hint: null
+      type: select_one
+      options:
+      - Briefs (Men's)
+      - Boxers (Men's)
+      - Panties (Women's)
+      - High-Waist Support
+      - Unisex Absorbent Style
+      required: true
+    - id: 9
+      name: size_selection
+      label: Size
+      hint: Please refer to our size guide link
+      type: select_one
+      options:
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra Large (XL)
+      - 2XL
+      - 3XL
+      required: true
+    - id: 10
+      name: color_preference
+      label: Color Preference
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Nude / Beige
+      - Navy Blue
+      - Charcoal Gray
+      required: true
+    - id: 11
+      name: order_quantity
+      label: Quantity (Packs of 3)
+      hint: Items are sold in 3-packs
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: skin_sensitivity_note
+      label: Special Requirements / Material Allergies
+      hint: e.g. Latex-free, 100% cotton only
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_notes
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_option
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Credit Card
+      - PayPal
+      - Invoice to Care Facility
+      - NDIS / Insurance Billing
+      required: true
+    - id: 15
+      name: privacy_ack
+      label: I consent to the processing of this personal data for order fulfillment
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 16
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Activity Monitoring Signup Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_full_name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      - Manager
+      required: false
+    - id: 8
+      name: form_monitoring_method
+      label: monitoring_method
+      hint: null
+      type: select_multiple
+      options:
+      - Alerts
+      - Email
+      - SMS
+      required: false
+    - id: 9
+      name: form_notification_method
+      label: notification_method
+      hint: null
+      type: select_multiple
+      options:
+      - Alerts
+      - Email
+      - SMS
+      required: false
+    - id: 10
+      name: form_monitoring_frequency
+      label: monitoring_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 11
+      name: form_start_monitoring
+      label: start_monitoring
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_end_monitoring
+      label: end_monitoring
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: form_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_utm_url
+      label: utm_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_ip_whitelist
+      label: ip_whitelist
+      hint: null
+      type: select_one
+      options:
+      - Allow
+      - Deny
+      required: false
+    - id: 16
+      name: form_ip_blacklist
+      label: ip_blacklist
+      hint: null
+      type: select_one
+      options:
+      - Allow
+      - Deny
+      required: false
+    - id: 17
+      name: form_ip_whitelist_range
+      label: ip_whitelist_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_ip_blacklist_range
+      label: ip_blacklist_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_ip_whitelist_ip_list
+      label: ip_whitelist_ip_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_ip_blacklist_ip_list
+      label: ip_blacklist_ip_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_ip_blacklist_ip_range
+      label: ip_blacklist_ip_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_ip_whitelist_ip_range
+      label: ip_whitelist_ip_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_agree
+      label: agree
+      hint: This form is not for commercial use.
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: true

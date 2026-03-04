@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Equipment Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Laptops''}'
+      - '{''id'': 2, ''label'': ''Desktops''}'
+      - '{''id'': 3, ''label'': ''Monitors''}'
+      required: false
+    - id: 3
+      name: equipment_make
+      label: Equipment Make
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Dell''}'
+      - '{''id'': 2, ''label'': ''HP''}'
+      - '{''id'': 3, ''label'': ''Apple''}'
+      required: false
+    - id: 4
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Procurement''}'
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 8
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Procurement''}'
+      - '{''id'': 3, ''label'': ''Admin''}'
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''On-site''}'
+      - '{''id'': 2, ''label'': ''Remote''}'
+      - '{''id'': 3, ''label'': ''Hybrid''}'
+      required: false
+    - id: 16
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_comment
+      label: Approval Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      required: false
+    - id: 22
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 26
+      name: delivery_time_zone
+      label: Delivery Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false

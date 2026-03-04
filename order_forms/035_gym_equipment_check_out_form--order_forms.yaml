@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_equipment_check_out_form
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_rental
+      label: Equipment Rental
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: rental_period
+      label: Rental Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Healing Progress Evaluation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_admission
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wound_type
+      label: Wound Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wound_depth
+      label: Wound Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Stage 1
+      - Stage 2
+      - Stage 3
+      required: false
+    - id: 6
+      name: expected_recovery_time
+      label: Expected Recovery Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wound_area
+      label: Wound Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: complications
+      label: Complications
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Infection
+      - Edema
+      - Dehiscence
+      required: false
+    - id: 9
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: imaging_results
+      label: Imaging Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_outcome
+      label: Treatment Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_provider
+      label: Follow-up Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: wound_healing_progress
+      label: Wound Healing Progress
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 25
+      name: wound_healing_status
+      label: Wound Healing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Healed
+      - Partially Healed
+      - Healed
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Rights Organization Internship Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: university_or_employer
+      label: University or employer
+      hint: Current institution or workplace
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_of_study
+      label: Program of study
+      hint: Major or field of study
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability_dates
+      label: Availability dates
+      hint: Date range you are available
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: interests_and_skills
+      label: Interests and skills
+      hint: Brief summary of relevant skills
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: motivation_statement
+      label: Motivation statement
+      hint: Why do you want this internship
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: references
+      label: References
+      hint: Provide contact information for two references
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Choir Membership Registration Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member name
+      hint: Full name for roster
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For rehearsal reminders
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Contact for urgent notices
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vocal_part
+      label: Vocal part
+      hint: Select your usual part or indicate if unsure
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Instrumentalist
+      required: true
+    - id: 5
+      name: experience_years
+      label: Years of singing experience
+      hint: Approximate years of experience
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Weekly availability for rehearsals
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: health_considerations
+      label: Health considerations
+      hint: Any conditions that may affect participation or null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For rehearsals and events
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agree_photo_release
+      label: Agree to photo release
+      hint: Consent to be photographed for choir promotions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Any other relevant information or null
+      type: text
+      options: []
+      required: false

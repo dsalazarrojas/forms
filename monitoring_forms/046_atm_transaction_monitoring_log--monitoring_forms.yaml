@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATM Transaction Monitoring Log
+    pages:
+    - id: 1
+      name: atm_identification_section
+      label: ATM Identification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: atm_id_number
+      label: ATM ID Number
+      hint: Unique identifier for the ATM machine
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_address
+      label: Location Address
+      hint: Complete address where the ATM is installed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: monitoring_date
+      label: Monitoring Date
+      hint: Date of the monitoring activity
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: monitoring_time
+      label: Monitoring Time
+      hint: Time when monitoring began
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: monitoring_staff
+      label: Monitoring Staff Name
+      hint: Name of the staff member conducting the monitoring
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: transaction_count_start
+      label: Starting Transaction Count
+      hint: Transaction counter reading at the start of monitoring period
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: transaction_count_end
+      label: Ending Transaction Count
+      hint: Transaction counter reading at the end of monitoring period
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_transactions
+      label: Total Transactions During Period
+      hint: Calculated total transactions during monitoring period
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: transaction_types
+      label: Transaction Types Processed
+      hint: Select all transaction types that occurred during monitoring
+      type: select_multiple
+      options:
+      - Cash Withdrawal
+      - Deposit
+      - Balance Inquiry
+      - Transfer
+      - Bill Payment
+      - PIN Change
+      - Account Information
+      required: true
+    - id: 11
+      name: cash_dispensed
+      label: Total Cash Dispensed ($)
+      hint: Total amount of cash dispensed during monitoring period
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: deposits_received
+      label: Total Deposits Received ($)
+      hint: Total amount of deposits received during monitoring period
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: incident_report
+      label: Incident Report
+      hint: Did any incidents occur during monitoring period?
+      type: select_one
+      options:
+      - None
+      - Minor Issue
+      - Major Issue
+      - System Failure
+      - Security Concern
+      required: true
+    - id: 14
+      name: incident_details
+      label: Incident Details
+      hint: Describe any incidents that occurred during monitoring
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: maintenance_required
+      label: Maintenance Required
+      hint: Does the ATM require maintenance after this monitoring period?
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Minor
+      - Yes - Major
+      - Urgent
+      required: true
+    - id: 16
+      name: security_alerts
+      label: Security Alerts
+      hint: Number of security alerts triggered during monitoring
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Name of supervisor who reviewed the monitoring log
+      type: text
+      options: []
+      required: false

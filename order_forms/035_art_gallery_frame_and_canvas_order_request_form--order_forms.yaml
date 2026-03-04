@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frame And Canvas Order Request Form
+    pages:
+    - id: 1
+      name: customer_details_header
+      label: -- Customer and Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: art_details_header
+      label: -- Artwork Details --
+      hint: Provide info for the piece being framed
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: artwork_title
+      label: Title of the Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artwork_medium
+      label: Medium of the Artwork
+      hint: e.g., Oil on canvas, Watercolor on paper
+      type: select_one
+      options:
+      - Oil - Acrylic on Canvas
+      - Watercolor - Gouache
+      - Photography - Print
+      - Charcoal - Graphite
+      - Textile - Fabric
+      - Other
+      required: true
+    - id: 8
+      name: artwork_dimensions
+      label: Exact Dimensions of the Artwork (H x W)
+      hint: Include units
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_specifications_header
+      label: -- Order Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_type
+      label: What are you ordering?
+      hint: null
+      type: select_one
+      options:
+      - Custom Frame Only
+      - Stretched Canvas Only
+      - Frame and Canvas Combo
+      - Mounting Only
+      required: true
+    - id: 11
+      name: frame_style_preference
+      label: Frame Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Modern Black Wood
+      - Classic Gold Leaf
+      - Natural Oak
+      - Floating Frame (for canvas)
+      - Ornate Vintage Style
+      - Industrial Metal
+      required: true
+    - id: 12
+      name: glass_type_preference
+      label: Glass - Acrylic Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Clear
+      - UV Protection (Non-glare)
+      - Museum Grade
+      - No Glass (Canvas Only)
+      required: true
+    - id: 13
+      name: canvas_depth
+      label: Canvas Stretcher Depth (If applicable)
+      hint: null
+      type: select_one
+      options:
+      - Standard (3-4 inch)
+      - Gallery Wrap (1.5 inch)
+      - Deep (2 inch)
+      - N/A
+      required: false
+    - id: 14
+      name: additional_customization_notes
+      label: Additional Customization Notes
+      hint: e.g., specific matting colors, spacers
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline_header
+      label: -- Completion and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: requested_completion_date
+      label: Requested Completion Date
+      hint: Our standard turnaround is 2 weeks
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_pickup_preference
+      label: Preference for Receiving Order
+      hint: null
+      type: select_one
+      options:
+      - Local Pickup from Gallery
+      - Local Delivery (Flat Rate)
+      - Domestic Shipping (Calculated)
+      required: true
+    - id: 18
+      name: customer_signature_approval
+      label: I approve the above specifications and understand this is a request for
+        a quote
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

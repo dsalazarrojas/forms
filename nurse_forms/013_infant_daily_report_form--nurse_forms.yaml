@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infant Daily Report Form
+    pages:
+    - id: 1
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: infant_id
+      label: Infant Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feeding_schedule
+      label: Feeding Schedule
+      hint: Enter all feedings with time and quantity
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feeding_times
+      label: Feeding Times
+      hint: Enter all feedings with time
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feeding_amount
+      label: Feeding Amount
+      hint: Enter feeding amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diaper_changing
+      label: Diaper Changing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sleep_schedule
+      label: Sleep Schedule
+      hint: Enter all sleep events with time and duration
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: developmental_stage
+      label: Developmental Stage
+      hint: Enter developmental stage
+      type: select_one
+      options:
+      - Infant
+      - Toddler
+      - Adult
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Enter all medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_responsibility
+      label: Staff Responsibility
+      hint: null
+      type: select_multiple
+      options:
+      - Administer Medication
+      - Monitor Vital Signs
+      - Diaper Changing
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Nurse
+      - Doctor
+      required: false
+    - id: 18
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Nurse
+      - Doctor
+      required: false
+    - id: 20
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Nurse
+      - Doctor
+      required: false
+    - id: 21
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Nurse
+      - Doctor
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Flower Order Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ceremony_details
+      label: Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: style_preferences
+      label: Style Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Classic
+      - Modern
+      - Traditional
+      required: false
+    - id: 7
+      name: flower_choices
+      label: Flower Choices
+      hint: null
+      type: select_multiple
+      options:
+      - Roses
+      - Lilies
+      - Sunflowers
+      required: false
+    - id: 8
+      name: flower_quantity
+      label: Flower Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: flower_color
+      label: Flower Color
+      hint: null
+      type: select_one
+      options:
+      - Pink
+      - Red
+      - White
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

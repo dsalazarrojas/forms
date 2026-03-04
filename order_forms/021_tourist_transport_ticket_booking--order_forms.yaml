@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Transport Ticket Booking
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_travel
+      label: time_of_travel
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_from
+      label: travel_from
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: travel_to
+      label: travel_to
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: transport_type
+      label: transport_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_accept
+      label: customer_accept
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

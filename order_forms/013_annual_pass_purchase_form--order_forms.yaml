@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Pass Purchase Form
+    pages:
+    - id: 1
+      name: purchaser_name
+      label: Full Name
+      hint: Name as it will appear on the pass
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purchaser_email
+      label: Email Address
+      hint: For pass delivery and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: purchaser_phone
+      label: Phone Number
+      hint: Contact number for confirmation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_zip
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pass_type
+      label: Select Pass Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Annual Pass
+      - Family Annual Pass
+      - Student Annual Pass
+      - Senior Annual Pass
+      - Premium Annual Pass
+      - Group Annual Pass
+      required: true
+    - id: 10
+      name: pass_quantity
+      label: Number of Passes
+      hint: How many passes to purchase
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pass_start_date
+      label: Pass Start Date
+      hint: Effective date for the pass
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: additional_cardholders
+      label: Additional cardholders on family pass
+      hint: Names of family members
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: benefits_selected
+      label: Benefits to include
+      hint: null
+      type: select_multiple
+      options:
+      - Unlimited visits
+      - Guest privileges
+      - Discount on purchases
+      - Priority access
+      - Member events
+      - Exclusive merchandise
+      required: false
+    - id: 14
+      name: upgrade_option
+      label: Upgrade to premium benefits
+      hint: null
+      type: select_one
+      options:
+      - Yes - add premium features
+      - No - standard benefits only
+      required: true
+    - id: 15
+      name: upgrade_cost
+      label: Premium upgrade cost
+      hint: Additional cost if applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: pass_price
+      label: Pass Price
+      hint: Base price of selected pass
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: discount_code
+      label: Discount Code
+      hint: If you have a promotional code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tax_amount
+      label: Estimated Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_amount
+      label: Total Amount Due
+      hint: Sum of all charges
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      - Money Order
+      required: true
+    - id: 21
+      name: renewal_opt_in
+      label: Auto-renew next year
+      hint: Automatically renew annual pass
+      type: select_one
+      options:
+      - Yes - auto renew
+      - No - I will renew manually
+      required: false
+    - id: 22
+      name: marketing_opt_in
+      label: Opt in to promotional emails
+      hint: Receive updates and special offers
+      type: select_one
+      options:
+      - Yes, opt me in
+      - No, do not send emails
+      required: false
+    - id: 23
+      name: terms_acceptance
+      label: I agree to terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

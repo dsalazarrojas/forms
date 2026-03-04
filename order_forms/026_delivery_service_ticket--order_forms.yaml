@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Service Ticket
+    pages:
+    - id: 1
+      name: delivery_request
+      label: Delivery Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_details
+      label: Pickup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: drop_off_details
+      label: Drop-Off Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drop_off_time
+      label: Drop-Off Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: drop_off_address
+      label: Drop-Off Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: delivery_note2
+      label: Delivery Note 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: delivery_status_note
+      label: Delivery Status Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_status_note2
+      label: Delivery Status Note 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: delivery_service_ticket_id
+      label: Delivery Service Ticket ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: delivery_service_ticket_number
+      label: Delivery Service Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: delivery_service_status
+      label: Delivery Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: delivery_service_status_note
+      label: Delivery Service Status Note
+      hint: null
+      type: text
+      options: []
+      required: true

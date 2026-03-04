@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Testing Instrument Order Form
+    pages:
+    - id: 1
+      name: material_testing_instrument_order_form_page_1
+      label: Material Testing Instrument Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument_order
+      label: Instrument Order
+      hint: null
+      type: select_multiple
+      options:
+      - Spectrophotometer
+      - Chromatograph
+      - Mass Spectrometer
+      - Atomic Absorption Spectrometer
+      - pH Meter
+      - pH Meter with Temperature
+      - Thermocouple
+      required: false
+    - id: 3
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material_testing_instrument_order_form_page_2
+      label: Material Testing Instrument Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_information
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: select_multiple
+      options:
+      - Spectrophotometer
+      - Chromatograph
+      - Mass Spectrometer
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe, PhD
+      - Dr. Jane Doe
+      required: false
+    - id: 8
+      name: email_address
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: material_order_details
+      label: Material Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instrument_order_details
+      label: Instrument Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instrument_order_details_2
+      label: Instrument Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: instrument_status
+      label: Instrument Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Out of Order
+      - In Use
+      required: false
+    - id: 15
+      name: quantity_status
+      label: Quantity Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Out of Order
+      - In Use
+      required: false
+    - id: 16
+      name: instrument_status
+      label: Instrument Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Out of Order
+      - In Use
+      required: false
+    - id: 17
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

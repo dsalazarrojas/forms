@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assisted Living Care Plan Form
+    pages:
+    - id: 1
+      name: resident_first_name
+      label: Resident First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resident_last_name
+      label: Resident Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_id
+      label: Resident ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Male, Female, Other
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 6
+      name: admission_date
+      label: Admission Date
+      hint: When resident was admitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Family or emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_physician
+      label: Primary Physician Name
+      hint: Doctor's name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: care_plan_date
+      label: Care Plan Date
+      hint: Date care plan is created
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: List of diagnoses and conditions
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: allergies
+      label: Allergies and Adverse Reactions
+      hint: Medication and environmental allergies
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medications
+      label: Current Medications
+      hint: List of medications and dosages
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: functional_status
+      label: Functional Status
+      hint: Mobility, self-care abilities
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: cognitive_status
+      label: Cognitive Status
+      hint: Memory, orientation, mental state
+      type: select_one
+      options:
+      - Alert and Oriented
+      - Mild Cognitive Impairment
+      - Moderate Cognitive Decline
+      - Severe Cognitive Decline
+      - Dementia
+      - Other
+      required: true
+    - id: 16
+      name: activities_of_daily_living
+      label: Activities of Daily Living Needs
+      hint: Bathing, dressing, grooming, toileting
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nutrition_needs
+      label: Nutrition and Hydration Needs
+      hint: Dietary restrictions and special needs
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: pain_management
+      label: Pain Management Plan
+      hint: How pain will be managed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mobility_assistance
+      label: Mobility and Transfer Assistance
+      hint: Level of assistance needed
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: psychosocial_needs
+      label: Psychosocial and Emotional Needs
+      hint: Mental health, social engagement
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: spiritual_preferences
+      label: Spiritual or Religious Preferences
+      hint: Faith or spiritual needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: care_goals
+      label: Resident and Family Care Goals
+      hint: What does resident want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: service_level
+      label: Level of Care Needed
+      hint: Personal care, medical care, etc.
+      type: select_one
+      options:
+      - Independent
+      - Assisted Living
+      - Skilled Nursing
+      - Intensive Care
+      required: true
+    - id: 24
+      name: care_coordinator_name
+      label: Care Coordinator Name
+      hint: Healthcare provider name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: resident_family_signature_date
+      label: Date Approved and Acknowledged
+      hint: Date of approval
+      type: date
+      options: []
+      required: true

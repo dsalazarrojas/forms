@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bishop Storehouse Order Form
+    pages:
+    - id: 1
+      name: order_info_header
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: storehouse_location
+      label: Storehouse Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_selection_header
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: canned_corn_qty
+      label: Canned Corn - Quantity
+      hint: Number of cans
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: canned_beans_qty
+      label: Canned Beans - Quantity
+      hint: Number of cans
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rice_bags_qty
+      label: Rice Bags - 5lb - Quantity
+      hint: Number of bags
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: flour_bags_qty
+      label: Flour Bags - 10lb - Quantity
+      hint: Number of bags
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: powdered_milk_qty
+      label: Powdered Milk - Quantity
+      hint: Number of boxes
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sugar_bags_qty
+      label: Sugar Bags - 5lb - Quantity
+      hint: Number of bags
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: requests_header
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_items
+      label: Additional Items or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pickup_time_slot
+      label: Preferred Pickup Time
+      hint: null
+      type: select_one
+      options:
+      - Morning 9am-12pm
+      - Afternoon 1pm-4pm
+      - Evening 5pm-7pm
+      required: true

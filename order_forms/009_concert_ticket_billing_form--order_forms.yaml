@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Billing Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: Review your ticket order
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: Auto-generated order reference
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: Concert you are attending
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Date of the concert
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_venue
+      label: Event Venue
+      hint: Location of the concert
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ticket_type
+      label: Ticket Type
+      hint: Category of tickets
+      type: select_one
+      options:
+      - General Admission
+      - Reserved Seating
+      - Premium Seating
+      - VIP Package
+      - Group Package
+      required: true
+    - id: 7
+      name: quantity
+      label: Ticket Quantity
+      hint: Number of tickets
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_price
+      label: Unit Price
+      hint: Price per ticket
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: subtotal
+      label: Subtotal
+      hint: Total before taxes and fees
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: service_fee
+      label: Service Fee
+      hint: Processing fee
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_amount
+      label: Tax Amount
+      hint: Applicable taxes
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: grand_total
+      label: Grand Total
+      hint: Final amount due
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: billing_info
+      label: Billing Information
+      hint: Payment and billing details
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: billing_name
+      label: Billing Name
+      hint: Name on billing account
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: billing_email
+      label: Billing Email
+      hint: Email for receipt
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: billing_phone
+      label: Billing Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: billing_street
+      label: Billing Street Address
+      hint: Street address line 1
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_street2
+      label: Billing Address Line 2
+      hint: Apartment suite or unit
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_city
+      label: Billing City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_state
+      label: Billing State or Province
+      hint: State province or region
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_zip
+      label: Billing ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_country
+      label: Billing Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Visa Credit Card
+      - Mastercard Credit Card
+      - American Express
+      - Discover
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 24
+      name: card_last_four
+      label: Card Last Four Digits
+      hint: Last 4 digits of card
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_authorization
+      label: Payment Authorization
+      hint: Authorize the charge
+      type: select_one
+      options:
+      - I Authorize This Charge
+      - I Do Not Authorize
+      required: true

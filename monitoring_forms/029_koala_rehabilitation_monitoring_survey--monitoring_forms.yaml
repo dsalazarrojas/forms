@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Koala Rehabilitation Monitoring Survey
+    pages:
+    - id: 1
+      name: koala_observation
+      label: Koala Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: koala_health_status
+      label: Koala Health Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Healthy''}'
+      - '{''id'': 2, ''label'': ''Sick''}'
+      - '{''id'': 3, ''label'': ''Dead''}'
+      required: true
+    - id: 3
+      name: koala_behavior
+      label: Koala Behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: koala_treatments
+      label: Koala Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication''}'
+      - '{''id'': 2, ''label'': ''Rest''}'
+      - '{''id'': 3, ''label'': ''Diet''}'
+      required: true
+    - id: 5
+      name: koala_notes
+      label: Koala Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rehabilitation_start_date
+      label: Rehabilitation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rehabilitation_end_date
+      label: Rehabilitation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rehabilitation_days
+      label: Rehabilitation Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rehabilitation_notes
+      label: Rehabilitation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

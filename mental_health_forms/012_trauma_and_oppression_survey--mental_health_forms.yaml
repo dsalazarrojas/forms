@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trauma And Oppression Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trauma_history
+      label: trauma_history
+      hint: null
+      type: select_multiple
+      options:
+      - Physical trauma
+      - Emotional trauma
+      - Sexual trauma
+      - Psychological trauma
+      - Other trauma
+      required: true
+    - id: 3
+      name: trauma_description
+      label: trauma_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: oppression_history
+      label: oppression_history
+      hint: null
+      type: select_one
+      options:
+      - Racial
+      - Socioeconomic
+      - Sexual
+      - Physical
+      - Other
+      required: true
+    - id: 5
+      name: oppression_description
+      label: oppression_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: support_systems
+      label: support_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Mental health professionals
+      - Self-help groups
+      - Online support groups
+      - Other
+      required: true
+    - id: 7
+      name: feelings_emotions
+      label: feelings_emotions
+      hint: null
+      type: select_one
+      options:
+      - Sadness
+      - Anger
+      - Fear
+      - Anxiety
+      - Other
+      required: true
+    - id: 8
+      name: coping_mechanisms
+      label: coping_mechanisms
+      hint: null
+      type: select_multiple
+      options:
+      - Self-care
+      - Exercise
+      - Talking to someone
+      - Mindfulness
+      - Other
+      required: true
+    - id: 9
+      name: help_services
+      label: help_services
+      hint: null
+      type: select_one
+      options:
+      - Mental health professionals
+      - Self-help groups
+      - Online support groups
+      - Other
+      required: true
+    - id: 10
+      name: trauma_oppression_connection
+      label: trauma_oppression_connection
+      hint: null
+      type: select_one
+      options:
+      - Trauma and oppression are connected
+      - Trauma and oppression are separate
+      required: true
+    - id: 11
+      name: help_needed
+      label: help_needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: country_of_origin
+      label: country_of_origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: language_spoken
+      label: language_spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      required: true
+    - id: 18
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - College degree
+      - Post-graduate degree
+      required: true
+    - id: 19
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Pregnant/Parenting
+      - Student
+      required: true
+    - id: 21
+      name: health_insurance
+      label: health_insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: mental_health_services
+      label: mental_health_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: trauma_services
+      label: trauma_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: oppression_services
+      label: oppression_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: other_trauma
+      label: other_trauma
+      hint: null
+      type: text
+      options: []
+      required: false

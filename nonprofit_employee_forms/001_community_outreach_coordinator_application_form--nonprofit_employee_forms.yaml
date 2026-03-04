@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Coordinator Application Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: Provide your basic contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: experience_section
+      label: Experience and Qualifications
+      hint: Tell us about your relevant background
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: years_experience
+      label: Years of Community Outreach Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: relevant_skills
+      label: Relevant Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Event Planning
+      - Public Speaking
+      - Social Media Management
+      - Grant Writing
+      - Volunteer Coordination
+      - Data Analysis
+      - Community Organizing
+      - Program Development
+      required: true
+    - id: 14
+      name: previous_organizations
+      label: Previous Organizations Worked With
+      hint: List nonprofit or community organizations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: availability_section
+      label: Availability
+      hint: Let us know your schedule preferences
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: availability_type
+      label: Availability Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Weekends Only
+      - Evenings Only
+      - Flexible
+      required: true
+    - id: 17
+      name: start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: transportation
+      label: Do you have reliable transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: references_section
+      label: References
+      hint: Provide professional references
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name and title
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reference_1_contact
+      label: Reference 1 Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name and title
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

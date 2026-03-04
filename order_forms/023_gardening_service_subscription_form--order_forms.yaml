@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Service Subscription Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - Yearly
+      - Monthly
+      required: true
+    - id: 5
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      required: true
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_status
+      label: Assigned Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On-hold
+      required: true
+    - id: 17
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes_4
+      label: Notes 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes_5
+      label: Notes 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_6
+      label: Notes 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes_7
+      label: Notes 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes_8
+      label: Notes 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes_9
+      label: Notes 9
+      hint: null
+      type: text
+      options: []
+      required: false

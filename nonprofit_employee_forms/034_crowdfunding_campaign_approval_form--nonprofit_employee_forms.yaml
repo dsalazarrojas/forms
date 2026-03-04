@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Campaign Approval Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: campaign_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: creator_details
+      label: creator_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_status
+      label: campaign_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Closed
+      required: true
+    - id: 4
+      name: campaign_tags
+      label: campaign_tags
+      hint: null
+      type: select_multiple
+      options:
+      - Gaming
+      - Art
+      - Music
+      required: false
+    - id: 5
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: campaign_budget
+      label: campaign_budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: campaign_goal
+      label: campaign_goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: campaign_url
+      label: campaign_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_image
+      label: project_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_video
+      label: project_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_file
+      label: project_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: campaign_owner
+      label: campaign_owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: campaign_organizer
+      label: campaign_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: campaign_manager
+      label: campaign_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: campaign_status_note
+      label: campaign_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: campaign_status_comment
+      label: campaign_status_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: campaign_status_date
+      label: campaign_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: campaign_status_time
+      label: campaign_status_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: campaign_status_user
+      label: campaign_status_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: campaign_status_email
+      label: campaign_status_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: campaign_status_phone
+      label: campaign_status_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: campaign_status_note
+      label: campaign_status_note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reemployment Interest Form
+    pages:
+    - id: 1
+      name: user_interest
+      label: User Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_preferences
+      label: Job Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Role
+      - Function
+      - Team
+      required: false
+    - id: 4
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rehire_pool
+      label: Rehire Pool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: Please provide a brief description of the job
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: earliest_start_date
+      label: Earliest Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: Please enter a contact method (phone, email, etc)
+      type: text
+      options: []
+      required: false

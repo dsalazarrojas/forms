@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Onboarding Checklist
+    pages:
+    - id: 1
+      name: onboarding_header
+      label: -- Client / Employee Onboarding Checklist --
+      hint: Ensure all items are checked off before finalizing the onboarding process
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_type
+      label: Onboarding Type
+      hint: Is this a new client or a new internal hire?
+      type: select_one
+      options:
+      - New Client
+      - New Employee
+      required: true
+    - id: 3
+      name: name_of_onboardee
+      label: Name of Onboardee
+      hint: Individual or Company Name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: Official commencement date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: identity_verification
+      label: Identity Verification
+      hint: Mark documents received
+      type: select_multiple
+      options:
+      - Driver - s License
+      - Passport
+      - Social Security Card
+      - EIN Confirmation Letter
+      required: true
+    - id: 6
+      name: financial_setup
+      label: Financial Setup Tasks
+      hint: Select completed steps
+      type: select_multiple
+      options:
+      - Bank Account Linked
+      - Software Access Granted
+      - Chart of Accounts Reviewed
+      required: false
+    - id: 7
+      name: tax_documents
+      label: Tax Documents Received
+      hint: null
+      type: select_multiple
+      options:
+      - W-9 / W-4 Form Received
+      - Prior Year Tax Returns
+      - Articles of Incorporation
+      required: true
+    - id: 8
+      name: administrative_tasks
+      label: Administrative Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - NDA Signed
+      - Contract Executed
+      - Emergency Contacts Provided
+      required: false
+    - id: 9
+      name: primary_account_manager_assigned
+      label: Primary Account Manager Assigned
+      hint: Name of the internal supervisor
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: onboarding_footer
+      label: -- Checklist Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: verified_by_name
+      label: Verified By
+      hint: Name of person who verified the checklist
+      type: text
+      options: []
+      required: true

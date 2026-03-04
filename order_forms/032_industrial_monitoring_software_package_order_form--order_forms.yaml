@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_monitoring_software_package_order_form
+    pages:
+    - id: 1
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: software_type
+      label: software_type
+      hint: null
+      type: select_one
+      options:
+      - Industrial Monitoring Software
+      - Monitoring System
+      - Other
+      required: true
+    - id: 6
+      name: package_requirements
+      label: Package Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

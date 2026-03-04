@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Incubator Venture Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: Form fields for nominating startups for an award.
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Startup Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: short_name
+      label: Short Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Please enter a brief description of the startup.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: select_one
+      options:
+      - Innovative Technology
+      - Job Creation
+      - Market Disruption
+      - Social Impact
+      - Other
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Other
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - Incubator
+      - Accelerator
+      - Other
+      required: false
+    - id: 10
+      name: nomination_date
+      label: Nomination Date
+      hint: Date of the nomination (yyyy-mm-dd)
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reviewed_date
+      label: Reviewed Date
+      hint: Date reviewed (yyyy-mm-dd)
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - AI
+      - Biotech
+      - EdTech
+      - Healthcare
+      - Sustainability
+      - Other
+      required: false
+    - id: 14
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Award
+      - Nomination
+      - Startup
+      - Venture
+      - Other
+      required: false
+    - id: 15
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: nomination_type
+      label: Nomination Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      - Other
+      required: false
+    - id: 20
+      name: nomination_url
+      label: Nomination URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: nomination_status
+      label: Nomination Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: Date of the submission (yyyy-mm-dd)
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - Reviewer
+      - Other
+      required: false
+    - id: 24
+      name: status_history
+      label: Status History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

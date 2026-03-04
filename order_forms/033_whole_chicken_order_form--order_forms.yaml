@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: whole_chicken_order_form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: whole_chicken_count
+      label: Whole Chicken Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: extra_sides
+      label: Extra Sides
+      hint: null
+      type: select_multiple
+      options:
+      - Carrot
+      - Celery
+      - Corn
+      required: false
+    - id: 7
+      name: extra_sauces
+      label: Extra Sauces
+      hint: null
+      type: select_multiple
+      options:
+      - BBQ
+      - Honey Mustard
+      - Ranch
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

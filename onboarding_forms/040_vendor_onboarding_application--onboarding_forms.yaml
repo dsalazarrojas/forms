@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: vendor_onboarding_application
+    pages:
+    - id: 1
+      name: vendor_name
+      label: VENDOR NAME
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_1
+      label: address_line_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_line_2
+      label: address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: industry
+      label: industry
+      hint: null
+      type: select_one
+      options:
+      - Software as a Service (SaaS)
+      - Hardware as a Service (HaaS)
+      - Product as a Service (PaaS)
+      - Other
+      required: true
+    - id: 14
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting
+      - Development
+      - Maintenance
+      - Support
+      - Other
+      required: true
+    - id: 15
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      - Non-Profit
+      - Partnership
+      required: true
+    - id: 16
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-100
+      - 101-1000
+      - 1001+
+      required: true
+    - id: 17
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false

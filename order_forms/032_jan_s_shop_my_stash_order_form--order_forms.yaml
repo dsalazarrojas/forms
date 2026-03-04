@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: jans_shop_my_stash_order_form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Program Outcome Audit Form
+    pages:
+    - id: 1
+      name: program_results
+      label: Program Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: outcomes
+      label: Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 3
+      name: outcome_ratings
+      label: Outcome Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_frequency
+      label: Rating Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 5
+      name: improvement_plan
+      label: Improvement Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: false

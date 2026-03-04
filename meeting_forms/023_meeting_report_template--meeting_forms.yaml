@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Report Template
+    pages:
+    - id: 1
+      name: meeting_summary
+      label: Meeting Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: meeting_objectives
+      label: Meeting Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discussion
+      label: Discussion
+      hint: null
+      type: text
+      options: []
+      required: false

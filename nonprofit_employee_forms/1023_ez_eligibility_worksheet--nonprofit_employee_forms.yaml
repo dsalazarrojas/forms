@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1023 EZ Eligibility Worksheet
+    pages:
+    - id: 1
+      name: form_intro
+      label: '--- 1023-EZ Eligibility Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: org_name
+      label: Full legal name of the organization
+      hint: As it appears on incorporation documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ein_number
+      label: Employer Identification Number (EIN)
+      hint: Nine-digit federal tax ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: org_incorporated_date
+      label: Date of incorporation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: org_type
+      label: Type of organization
+      hint: null
+      type: select_one
+      options:
+      - Corporation
+      - Unincorporated Association
+      - Trust
+      - Limited Liability Company (LLC)
+      required: true
+    - id: 6
+      name: org_mission
+      label: Brief description of the organization's mission
+      hint: One sentence explaining the primary purpose
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: annual_revenue
+      label: Estimated annual gross receipts
+      hint: Projected for the next four years
+      type: decimal
+      options: []
+      required: true
+    - id: 8
+      name: total_assets
+      label: Total assets as of today
+      hint: Current value of all organizational assets
+      type: decimal
+      options: []
+      required: true
+    - id: 9
+      name: org_activities
+      label: Primary charitable activities (select all that apply)
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Relief of the poor
+      - Advancement of religion
+      - Advancement of education
+      - Promotion of health
+      - Lessening neighborhood tensions
+      - Combating community deterioration
+      - Elimination of prejudice and discrimination
+      - Defense of human and civil rights
+      - Promotion of social welfare
+      required: true
+    - id: 10
+      name: political_activity
+      label: Does the organization participate in political campaign activity?
+      hint: Including supporting or opposing candidates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: lobbying_activity
+      label: Does the organization engage in substantial lobbying activity?
+      hint: Attempting to influence legislation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: org_size
+      label: Approximate number of employees
+      hint: Full-time equivalent staff
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: board_members_count
+      label: Number of board members
+      hint: Current governing body size
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: org_website
+      label: Organization website URL
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: org_address
+      label: Principal office address
+      hint: Street address, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: formed_for_charitable_purpose
+      label: Was the organization formed primarily for charitable purposes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: org_governance_doc
+      label: Does the organization have governance documents?
+      hint: Articles of incorporation and bylaws
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: org_private_foundation
+      label: Is the organization a private foundation?
+      hint: As defined in section 509(a)(1) or 509(a)(2)
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: org_exempt_under_section
+      label: Is the organization exempt under section 501(c)(other than c(3))?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_eligibility_notes
+      label: Additional notes regarding eligibility
+      hint: Any special circumstances or clarifications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: preparer_name
+      label: Name of person completing this worksheet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: preparer_email
+      label: Email address of person completing this worksheet
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: preparer_title
+      label: Title of person completing this worksheet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: worksheet_completion_date
+      label: Date this worksheet was completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

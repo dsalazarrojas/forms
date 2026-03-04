@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: warranty_verification_form
+    pages:
+    - id: 1
+      name: purchase_details
+      label: Purchase Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_details
+      label: Product Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: warranty_confirmation
+      label: Warranty Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: purchase_value
+      label: Purchase Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: warranty_value
+      label: Warranty Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: purchase_type
+      label: Purchase Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: warranty_type
+      label: Warranty Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

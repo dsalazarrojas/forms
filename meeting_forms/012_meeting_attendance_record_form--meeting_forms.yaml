@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Attendance Record Form
+    pages:
+    - id: 1
+      name: meeting_attendance_form
+      label: Meeting Attendance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: meeting date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_start
+      label: meeting start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_end
+      label: meeting end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: meeting location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_attendee
+      label: meeting attendee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: meeting_organizer
+      label: Meeting Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: meeting_notes
+      label: meeting notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: meeting_platform
+      label: meeting platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: meeting_connect
+      label: Connect with 100+ popular platforms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meeting_connect_email
+      label: meeting connect email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: meeting_connect_phone
+      label: meeting connect phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_connect_platforms
+      label: meeting connect platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: meeting_connect_url
+      label: meeting connect url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: meeting_platforms
+      label: meeting platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: meeting_connect_platforms_2
+      label: meeting connect platforms 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: meeting_attendance_count
+      label: meeting attendance count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: meeting_attendance_percent
+      label: meeting attendance percent
+      hint: null
+      type: number
+      options: []
+      required: false

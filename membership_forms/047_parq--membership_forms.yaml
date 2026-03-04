@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: parq
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_email
+      label: Member E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_category
+      label: Member Category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: program_coordinator_offer_letter
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: Enter the job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: company
+      hint: Enter the company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: offer_amount
+      label: Offer Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: offer_date
+      label: Offer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: Enter the reason for leaving
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: offer_type
+      label: Offer Type
+      hint: null
+      type: select_one
+      options:
+      - Fellow
+      - Intern
+      - Full time
+      - Part time
+      - Contract
+      required: true
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      required: true
+    - id: 12
+      name: job_description
+      label: job_description
+      hint: Enter a brief description of the job
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_summary
+      label: job_summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: location
+      hint: Enter the location
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: program_coordinator_contact
+      label: program_coordinator_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: job_title_1
+      label: job_title_1
+      hint: null
+      type: select_multiple
+      options:
+      - Fellow
+      - Intern
+      - Full time
+      - Part time
+      - Contract
+      required: true
+    - id: 21
+      name: manager_contact
+      label: manager_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: team_lead
+      label: team_lead
+      hint: Enter the team lead name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: team_lead_contact
+      label: team_lead_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: job_title_2
+      label: job_title_2
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Ticket Billing Form
+    pages:
+    - id: 1
+      name: event_ticket_billing_form
+      label: event_ticket_billing_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_form
+      label: payment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_info
+      label: attendee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_type
+      label: ticket_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: ticket_quantity
+      label: ticket_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: ticket_price
+      label: ticket_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false

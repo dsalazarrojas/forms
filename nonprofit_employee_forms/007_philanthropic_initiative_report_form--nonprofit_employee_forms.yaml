@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: philanthropic_initiative_report_form
+    pages:
+    - id: 1
+      name: nonprofit_category
+      label: Nonprofit Category
+      hint: null
+      type: select_one
+      options:
+      - Community Development
+      - Education
+      - Health
+      - Human Services
+      - Public Health
+      - Public Policy
+      - Research
+      - Other
+      required: false
+    - id: 2
+      name: nonprofit_name
+      label: Nonprofit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: initiative_start_date
+      label: Initiative Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: initiative_end_date
+      label: Initiative End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: goal_description
+      label: Goal Description
+      hint: Briefly describe the purpose of your initiative
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: initiative_objectives
+      label: Initiative Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - Improve the quality of life
+      - Increase access to resources
+      - Enhance social services
+      - Promote public health
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: budgeted_funds
+      label: Budgeted Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: actual_funds
+      label: Actual Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_outcomes
+      label: Project Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Successful project execution
+      - Increased public support
+      - Better quality of life
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: nonprofit_address
+      label: Nonprofit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nonprofit_contact_person
+      label: Nonprofit Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Mary Smith
+      - John Smith
+      - Jane Smith
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Under Review
+      - Approved
+      - Disapproved
+      - On Hold
+      required: false
+    - id: 19
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Mary Smith
+      - John Smith
+      - Jane Smith
+      required: false
+    - id: 21
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approved_time
+      label: Approved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitted_time_diff
+      label: Submitted Time Diff
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: approved_time_diff
+      label: Approved Time Diff
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

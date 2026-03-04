@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Exposure Agreement Form
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID/Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: Doctor or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exposure_type
+      label: Type of COVID-19 Exposure
+      hint: null
+      type: select_one
+      options:
+      - Healthcare worker exposure
+      - Household exposure
+      - Community exposure
+      - Workplace exposure
+      - Travel-related exposure
+      - Unknown exposure
+      - Other
+      required: true
+    - id: 9
+      name: exposure_date
+      label: Date of Exposure
+      hint: When did the exposure occur?
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: exposure_details
+      label: Details of Exposure
+      hint: Describe the exposure situation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: duration_exposure
+      label: Duration of Exposure
+      hint: How long was contact?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exposure_location
+      label: Location of Exposure
+      hint: Where did exposure occur?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: individuals_involved
+      label: Number of Individuals Involved
+      hint: How many people were exposed?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: ppe_worn
+      label: Personal Protective Equipment Worn
+      hint: Masks, gloves, gowns, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exposure_acknowledgment
+      label: I acknowledge the risk of COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 16
+      name: symptoms_understanding
+      label: I understand COVID-19 symptoms
+      hint: Fever, cough, shortness of breath, loss of taste/smell
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 17
+      name: monitoring_agreement
+      label: I agree to monitor myself for symptoms
+      hint: For 14 days following exposure
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 18
+      name: quarantine_understanding
+      label: I understand quarantine/isolation requirements
+      hint: When to isolate and for how long
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 19
+      name: testing_agreement
+      label: I agree to be tested if symptoms develop
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Conditional agreement
+      required: true
+    - id: 20
+      name: reporting_agreement
+      label: I will report symptoms immediately
+      hint: To my healthcare provider
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 21
+      name: contact_tracing
+      label: I consent to contact tracing
+      hint: If I test positive
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      - Have questions
+      required: false
+    - id: 22
+      name: confidentiality_understanding
+      label: I understand privacy protections
+      hint: HIPAA protection of my information
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 23
+      name: liability_waiver
+      label: I release the healthcare provider from liability
+      hint: For COVID-19 exposure (to extent permitted by law)
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 24
+      name: informed_consent
+      label: I provide informed consent to this agreement
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      - Need clarification
+      required: true
+    - id: 25
+      name: agreement_date_signature
+      label: Signature Date
+      hint: Date you are signing this agreement
+      type: date
+      options: []
+      required: true

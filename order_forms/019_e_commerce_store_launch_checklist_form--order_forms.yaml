@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Store Launch Checklist Form
+    pages:
+    - id: 1
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_url
+      label: Store URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: store_category
+      label: Store Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_tagline
+      label: Store Tagline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - stripe
+      - paypal
+      - authorizenet
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_rates
+      label: Shipping Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_policies
+      label: Shipping Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_owner_name
+      label: Store Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false

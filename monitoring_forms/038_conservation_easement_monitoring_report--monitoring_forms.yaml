@@ -1,0 +1,341 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Easement Monitoring Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of monitoring visit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_year
+      label: Report Year
+      hint: Year of this annual report
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: easement_name
+      label: Easement Name
+      hint: Name of conservation easement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: easement_id
+      label: Easement ID Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_name
+      label: Property Name
+      hint: Name of property
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Physical address or location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: county
+      label: County
+      hint: County where property is located
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State where property is located
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: total_acreage
+      label: Total Acreage
+      hint: Total size of property in acres
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: easement_acreage
+      label: Easement Acreage
+      hint: Acres covered by easement
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: landowner_name
+      label: Landowner Name
+      hint: Current property owner
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: landowner_contact
+      label: Landowner Contact
+      hint: Phone or email for owner
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: monitor_name
+      label: Monitor Name
+      hint: Name of person conducting monitoring
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: monitor_organization
+      label: Monitor Organization
+      hint: Land trust or organization
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Weather during monitoring visit
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: access_method
+      label: Method of Access
+      hint: How was property accessed
+      type: select_one
+      options:
+      - Road
+      - Trail
+      - Off-trail
+      - Water access
+      - Aerial
+      - Other
+      required: true
+    - id: 17
+      name: access_condition
+      label: Access Condition
+      hint: Condition of access routes
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: habitat_types
+      label: Habitat Types Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Forest
+      - Grassland
+      - Wetland
+      - Riparian
+      - Agricultural
+      - Desert
+      - Coastal
+      - Mountain
+      - Other
+      required: true
+    - id: 19
+      name: wildlife_observed
+      label: Wildlife Observed
+      hint: List species observed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: threatened_species
+      label: Threatened or Endangered Species
+      hint: Any protected species present
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: water_features
+      label: Water Features
+      hint: Streams ponds or wetlands
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: water_quality
+      label: Water Quality Observations
+      hint: Condition of water features
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vegetation_condition
+      label: Vegetation Condition
+      hint: Overall condition of plant life
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: invasive_species
+      label: Invasive Species Present
+      hint: List any invasive species observed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: structures_present
+      label: Structures on Property
+      hint: Buildings fences or other structures
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: permitted_uses
+      label: Permitted Uses Observed
+      hint: Any authorized uses being exercised
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: violations_observed
+      label: Violations Observed
+      hint: Any easement violations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: violations_details
+      label: Violations Details
+      hint: Describe any violations
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: threats_identified
+      label: Threats Identified
+      hint: Any threats to conservation values
+      type: select_multiple
+      options:
+      - None
+      - Development Pressure
+      - Encroachment
+      - Dumping
+      - Erosion
+      - Fire Damage
+      - Pest Infestation
+      - Unauthorized Access
+      - Other
+      required: true
+    - id: 30
+      name: threats_details
+      label: Threats Details
+      hint: Describe identified threats
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: boundary_markers
+      label: Boundary Markers Condition
+      hint: Condition of property markers
+      type: select_one
+      options:
+      - All Present and Visible
+      - Some Missing or Damaged
+      - Many Missing or Damaged
+      - Unable to Assess
+      required: true
+    - id: 32
+      name: signage_condition
+      label: Signage Condition
+      hint: Condition of conservation signs
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - None Present
+      required: true
+    - id: 33
+      name: photographs_taken
+      label: Photographs Taken
+      hint: Number of photos documented
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: photo_locations
+      label: Photo Locations
+      hint: Describe where photos were taken
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is additional action needed
+      type: select_one
+      options:
+      - Yes - Urgent
+      - Yes - Routine
+      - false
+      required: true
+    - id: 36
+      name: follow_up_details
+      label: Follow-Up Details
+      hint: Describe required follow-up
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: overall_condition
+      label: Overall Property Condition
+      hint: General assessment of property
+      type: select_one
+      options:
+      - Excellent - No Issues
+      - Good - Minor Issues
+      - Fair - Some Concerns
+      - Poor - Significant Issues
+      required: true
+    - id: 38
+      name: conservation_values
+      label: Conservation Values Status
+      hint: Are values being protected
+      type: select_one
+      options:
+      - Well Protected
+      - Adequately Protected
+      - At Risk
+      - Compromised
+      required: true
+    - id: 39
+      name: recommendations
+      label: Recommendations
+      hint: Suggestions for management
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: monitor_signature
+      label: Monitor Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: landowner_acknowledgement
+      label: Landowner Acknowledgement
+      hint: Landowner name for acknowledgement
+      type: text
+      options: []
+      required: false

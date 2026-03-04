@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_digital_services_invoice
+    pages:
+    - id: 1
+      name: billing_process
+      label: International Digital Services Invoice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_info
+      label: billing_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_process
+      label: track_payments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_methods
+      label: payment_methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: send_notification
+      label: send_notification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notification_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notification_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms_date
+      label: payment_terms_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms_time
+      label: payment_terms_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms_date_range
+      label: payment_terms_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms_time_range
+      label: payment_terms_time_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: billing_process_status
+      label: billing_process_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: customer_info_status
+      label: customer_info_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: payment_info_status
+      label: payment_info_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: notification_status
+      label: notification_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

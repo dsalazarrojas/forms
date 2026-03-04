@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discount Card Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Restaurant'', ''label'': ''Restaurant''}'
+      - '{''value'': ''Store'', ''label'': ''Store''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: discount_type
+      label: Discount Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 10, ''label'': ''10%''}'
+      - '{''value'': 20, ''label'': ''20%''}'
+      - '{''value'': 30, ''label'': ''30%''}'
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

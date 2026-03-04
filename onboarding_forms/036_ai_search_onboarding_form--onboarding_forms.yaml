@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Search Onboarding Form
+    pages:
+    - id: 1
+      name: --project_overview--
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: Short project identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for onboarding
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Required for setup communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_use_case
+      label: Primary search use case
+      hint: Choose one
+      type: select_one
+      options:
+      - Document search
+      - Enterprise knowledge search
+      - Customer support search
+      - Product search
+      required: true
+    - id: 6
+      name: data_sources
+      label: Data sources to index
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Internal documents
+      - Databases
+      - Knowledge base
+      - Website content
+      - Customer tickets
+      required: true
+    - id: 7
+      name: expected_volume
+      label: Expected document volume
+      hint: Approximate number of documents
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: privacy_requirements
+      label: Privacy or residency requirements
+      hint: Any restrictions on data location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: success_metrics
+      label: Success metrics for onboarding
+      hint: How will success be measured
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_requests
+      label: Additional technical requests
+      hint: Optional
+      type: text
+      options: []
+      required: false

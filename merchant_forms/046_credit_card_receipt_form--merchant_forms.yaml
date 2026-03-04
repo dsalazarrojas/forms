@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_receipt_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: false
+    - id: 3
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration Date
+      hint: mm/dd
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: security_code
+      label: Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: card_holder_name
+      label: Card Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: merchant_info
+      label: Merchant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: merchant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: merchant_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: merchant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: merchant_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

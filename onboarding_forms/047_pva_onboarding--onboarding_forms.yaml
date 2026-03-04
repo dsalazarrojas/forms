@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: pva_onboarding
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: user_role
+      label: User Role
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - moderator
+      - user
+      required: true
+    - id: 5
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: last_login
+      label: Last Login
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - in_progress
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: on_prophets
+      label: Onboarding Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: onboarding_comments
+      label: Onboarding Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_info_comments
+      label: User Info Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: role_comments
+      label: Role Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: onboarding_status_comments
+      label: Onboarding Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: password_comments
+      label: Password Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accept_terms_comments
+      label: Accept Terms Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Glassware Replacement Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of order request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: establishment_name
+      label: Establishment Name
+      hint: Name of bar or restaurant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_address
+      label: Location Address
+      hint: Where is the establishment?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Name of manager placing order
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: manager_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: glassware_type
+      label: Type of Glassware Needed
+      hint: Select the primary type
+      type: select_one
+      options:
+      - Highball Glasses
+      - Lowball/Old Fashioned Glasses
+      - Martini Glasses
+      - Margarita Glasses
+      - Wine Glasses
+      - Champagne Flutes
+      - Pint Glasses
+      - Pilsner Glasses
+      - Shot Glasses
+      - Rocks Glasses
+      - Collins Glasses
+      - Mixed Assortment
+      required: true
+    - id: 8
+      name: glass_size
+      label: Glass Size
+      hint: What size is needed?
+      type: select_one
+      options:
+      - 1-2 oz
+      - 3-4 oz
+      - 5-6 oz
+      - 8-10 oz
+      - 12-14 oz
+      - 16+ oz
+      - Varies
+      required: false
+    - id: 9
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Number of glasses to order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: glass_color
+      label: Glass Color Preference
+      hint: Select glass color
+      type: select_one
+      options:
+      - Clear
+      - Amber
+      - Green
+      - Blue
+      - Smoke
+      - Mixed Colors
+      - No Preference
+      required: false
+    - id: 11
+      name: brand_preference
+      label: Brand Preference
+      hint: Any specific brand?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: replacement_reason
+      label: Reason for Replacement
+      hint: Why do you need new glassware?
+      type: select_one
+      options:
+      - Broken or Damaged
+      - Worn Out
+      - System Upgrade
+      - Expansion
+      - Loss or Theft
+      - Routine Replacement
+      - Special Event Needs
+      - Other
+      required: true
+    - id: 13
+      name: replacement_description
+      label: Describe Condition or Issue
+      hint: Details about current situation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Order Urgency
+      hint: How quickly is this needed?
+      type: select_one
+      options:
+      - Routine Order
+      - Standard Priority
+      - Expedited
+      - Emergency
+      required: true
+    - id: 15
+      name: delivery_date_needed
+      label: Date Needed By
+      hint: When do you need the glasses?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How should glasses be packaged?
+      type: select_one
+      options:
+      - Standard Carton
+      - Protective Padding
+      - Bulk Packaging
+      - Individual Wrapping
+      - Reusable Containers
+      required: false
+    - id: 17
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_contract
+      label: Have Service or Replacement Contract?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Need More Information
+      required: false
+    - id: 19
+      name: contract_number
+      label: Service Contract Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_approved
+      label: Approved Budget Amount
+      hint: Maximum approved spending
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: Any other specific needs?
+      type: text
+      options: []
+      required: false

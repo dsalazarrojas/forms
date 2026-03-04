@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Fitness Membership Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact and Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residential_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: fitness_profile_header
+      label: -- Fitness Profile and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_activity_level
+      label: Current Physical Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary - Little to no exercise
+      - Lightly Active - 1-2 days per week
+      - Moderately Active - 3-5 days per week
+      - Very Active - 6-7 days per week
+      required: true
+    - id: 9
+      name: previous_gym_experience
+      label: Previous Gym or Fitness Club Experience
+      hint: List any previous memberships
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: membership_motivation
+      label: Primary Motivation for Joining
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weight Loss and Management
+      - Muscle Gain and Hypertrophy
+      - Cardiovascular Endurance
+      - General Health and Wellness
+      - Competition Preparation
+      - Stress Relief and Mental Health
+      required: true
+    - id: 11
+      name: current_weight
+      label: Current Body Weight - kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: current_height
+      label: Current Standing Height - cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: body_fat_percentage
+      label: Estimated Body Fat Percentage - %
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: lifestyle_health_header
+      label: -- Lifestyle and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: smoking_status
+      label: Do you currently smoke or use tobacco products?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: average_sleep
+      label: Average Hours of Sleep per Night
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: dietary_preference
+      label: Primary Dietary Preference
+      hint: null
+      type: select_one
+      options:
+      - Omnivore
+      - Vegetarian
+      - Vegan
+      - Keto / Low-Carb
+      - Paleo
+      - Other
+      required: true
+    - id: 18
+      name: chronic_medical_conditions
+      label: Do you have any chronic medical conditions or recent surgeries?
+      hint: Please describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: membership_commitment_header
+      label: -- Membership and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: training_frequency_goal
+      label: Targeted Training Frequency - Sessions per Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: best_training_time
+      label: Best Time of Day for Training
+      hint: null
+      type: select_one
+      options:
+      - Early Morning (before 9am)
+      - Mid-day (11am to 2pm)
+      - Evening (5pm to 8pm)
+      - Late Night (after 9pm)
+      required: true
+    - id: 22
+      name: membership_plan_selection
+      label: Membership Plan Selection
+      hint: null
+      type: select_one
+      options:
+      - Basic - Facility Access Only
+      - Premium - Classes Included
+      - Elite - Personalized Coaching Included
+      required: true
+    - id: 23
+      name: membership_start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: safety_guideline_commitment
+      label: I commit to following all safety guidelines and club rules
+      hint: null
+      type: select_one
+      options:
+      - I commit
+      - Other
+      required: true
+    - id: 25
+      name: electronic_signature
+      label: Member Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signing_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

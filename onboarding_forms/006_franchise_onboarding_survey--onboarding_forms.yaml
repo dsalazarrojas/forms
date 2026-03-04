@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Onboarding Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: background_page
+      label: Background Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_details_page
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      required: false
+    - id: 4
+      name: experience_page
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: questions_page
+      label: Questions and Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: franchisee_info_page
+      label: Franchisee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: franchisor_info_page
+      label: Franchisor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_process_page
+      label: Onboarding Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: training_page
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - Other
+      required: false
+    - id: 10
+      name: certification_page
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

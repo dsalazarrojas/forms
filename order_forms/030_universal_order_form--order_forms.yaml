@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Universal Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: true
+    - id: 6
+      name: products_services
+      label: Products/Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Product A''}'
+      - '{''id'': 2, ''label'': ''Product B''}'
+      - '{''id'': 3, ''label'': ''Service X''}'
+      - '{''id'': 4, ''label'': ''Service Y''}'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_order
+      label: Submit Order
+      hint: null
+      type: text
+      options: []
+      required: false

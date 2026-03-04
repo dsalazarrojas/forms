@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature Monitoring Alert Request Form
+    pages:
+    - id: 1
+      name: environment_name
+      label: environment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: temperature_value
+      label: temperature_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: alert_threshold
+      label: alert_threshold
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: alert_frequency
+      label: alert_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: alert_message
+      label: alert_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false

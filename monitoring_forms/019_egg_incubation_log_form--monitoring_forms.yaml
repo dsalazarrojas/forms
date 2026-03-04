@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Egg Incubation Log Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Batches
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_started
+      label: date_started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incubation_type
+      label: incubation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: batch_id
+      label: batch_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: eggs_hatched
+      label: eggs_hatched
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: eggs_died
+      label: eggs_died
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: eggs_hatched_d
+      label: eggs_hatched_d
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: batch_name
+      label: batch_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hatch_date
+      label: hatch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incubation_start
+      label: incubation_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incubation_end
+      label: incubation_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: incubation_days
+      label: incubation_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: eggs_hatched_f
+      label: eggs_hatched_f
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: eggs_died_f
+      label: eggs_died_f
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

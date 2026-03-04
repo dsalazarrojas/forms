@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Nomination Form
+    pages:
+    - id: 1
+      name: graduate_nomination_form
+      label: graduation_nomination_form
+      hint: null
+      type: select_multiple
+      options:
+      - Graduators
+      - Gradus
+      - Grads
+      required: false
+    - id: 2
+      name: graduate_nomination
+      label: graduation_nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graduate_organizer
+      label: graduation_organizer
+      hint: null
+      type: select_one
+      options:
+      - Gradus
+      - Graduators
+      - Gradus
+      required: false
+    - id: 4
+      name: graduate_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: graduate_organizer_email
+      label: graduation_organizer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: graduation_organizer_phone
+      label: graduation_organizer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: graduation_nominator
+      label: graduation_nominator
+      hint: null
+      type: select_one
+      options:
+      - Gradus
+      - Graduators
+      - Gradus
+      required: false
+    - id: 8
+      name: graduation_nominator_phone
+      label: graduation_nominator_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_nominator_email
+      label: graduation_nominator_email
+      hint: null
+      type: email
+      options: []
+      required: false

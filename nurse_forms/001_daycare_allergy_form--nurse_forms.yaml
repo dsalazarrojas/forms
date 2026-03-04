@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Allergy Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergy_list
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Eczema
+      - Peanut
+      - Tree nut
+      - Fish
+      - Shellfish
+      - Milk
+      - Soy
+      - Wheat
+      - Egg
+      - Sesame
+      required: false
+    - id: 3
+      name: date_of_last_dose
+      label: Date of Last Dose
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: next_dose_schedule
+      label: Next Dose Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: allergy_medication
+      label: Allergy Medication
+      hint: null
+      type: text
+      options: []
+      required: false

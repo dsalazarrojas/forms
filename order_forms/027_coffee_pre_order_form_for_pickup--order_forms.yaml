@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Pre Order Form For Pickup
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: For pickup confirmation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: section_pickup
+      label: -- Pickup Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pickup_date
+      label: Pickup Date
+      hint: When will you pick up your order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: pickup_time
+      label: Preferred Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Pickup Location
+      hint: Which store location
+      type: select_one
+      options:
+      - Downtown Store
+      - Mall Location
+      - West Side Location
+      - North Store
+      required: true
+    - id: 9
+      name: section_order
+      label: -- Your Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: drink_choice_1
+      label: First Drink Choice
+      hint: null
+      type: select_one
+      options:
+      - Americano
+      - Latte
+      - Cappuccino
+      - Macchiato
+      - Mocha
+      - Flat White
+      - Espresso
+      - Cold Brew
+      - Iced Coffee
+      required: true
+    - id: 11
+      name: drink_1_quantity
+      label: Quantity
+      hint: Number of drinks
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: drink_1_size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 13
+      name: drink_1_customization
+      label: Customizations
+      hint: Milk type, extras, flavor
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: drink_choice_2
+      label: Second Drink Choice
+      hint: Optional
+      type: select_one
+      options:
+      - None
+      - Americano
+      - Latte
+      - Cappuccino
+      - Macchiato
+      - Mocha
+      - Flat White
+      - Espresso
+      - Cold Brew
+      - Iced Coffee
+      required: false
+    - id: 15
+      name: drink_2_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: drink_2_size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 17
+      name: drink_2_customization
+      label: Customizations
+      hint: Milk type, extras, flavor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_food
+      label: -- Food Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: food_item
+      label: Food Item
+      hint: Optional pastry or food
+      type: select_one
+      options:
+      - None
+      - Croissant
+      - Muffin
+      - Scone
+      - Bagel
+      - Cookie
+      - Sandwich
+      - Donut
+      - Other
+      required: false
+    - id: 20
+      name: food_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: milk_type
+      label: Milk Preference
+      hint: null
+      type: select_one
+      options:
+      - Regular milk
+      - Skim milk
+      - Soy milk
+      - Almond milk
+      - Oat milk
+      - Coconut milk
+      required: false
+    - id: 23
+      name: sweetness
+      label: Sweetness Level
+      hint: null
+      type: select_one
+      options:
+      - Not sweet
+      - Slightly sweet
+      - Normal
+      - Extra sweet
+      required: false
+    - id: 24
+      name: section_notes
+      label: -- Special Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Allergies, preferences, special requests
+      type: text
+      options: []
+      required: false

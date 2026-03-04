@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Belongings Inventory Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: belongings_description
+      label: belongings description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: belongings_type
+      label: belongings_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: patient_room
+      label: patient_room
+      hint: null
+      type: select_multiple
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      - Room 4
+      required: false
+    - id: 6
+      name: date_found
+      label: date_found
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_found
+      label: time_found
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

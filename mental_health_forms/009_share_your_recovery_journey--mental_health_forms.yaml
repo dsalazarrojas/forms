@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: share_your_recovery_journey
+    pages:
+    - id: 1
+      name: form_identifier
+      label: Form Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recovery_story
+      label: Recovery Story
+      hint: Share a short recovery story
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: story_insights
+      label: Recovery Insights
+      hint: What helped you recover
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: permission_to_share
+      label: Permission to Share
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 5
+      name: date_of_recovery
+      label: Date of Recovery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location_of_recovery
+      label: Location of Recovery
+      hint: Where were you recovering
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_systems
+      label: Support Systems
+      hint: What kind of support did you have during recovery?
+      type: select_multiple
+      options:
+      - Social Media
+      - Support Groups
+      - Therapist
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

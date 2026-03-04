@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_check_communication_form
+    pages:
+    - id: 1
+      name: form_section
+      label: Form Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: inventory_level
+      label: Inventory Level
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_cost
+      label: Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: order_date
+      label: Date Order Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: ship_from
+      label: Ship From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: ship_method
+      label: Ship Method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: ship_address
+      label: Ship Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ship_city
+      label: Ship City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ship_state
+      label: Ship State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ship_zip
+      label: Ship Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ship_country
+      label: Ship Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_section_2
+      label: Form Section 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colorful Cupcake Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name for order processing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date of order placement
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_or_delivery
+      label: Pickup or Delivery
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - Store Pickup
+      - Home Delivery
+      - Office Delivery
+      - Event Venue Delivery
+      required: true
+    - id: 6
+      name: section_header_flavor_selection
+      label: -- Cupcake Flavor Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vanilla_cupcakes
+      label: Vanilla Cupcakes
+      hint: Classic vanilla with buttercream frosting - $3.50 each
+      type: select_one
+      options:
+      - 0
+      - 6
+      - 12
+      - 18
+      - 24
+      - 36
+      required: true
+    - id: 8
+      name: chocolate_cupcakes
+      label: Chocolate Cupcakes
+      hint: Rich chocolate with chocolate frosting - $3.50 each
+      type: select_one
+      options:
+      - 0
+      - 6
+      - 12
+      - 18
+      - 24
+      - 36
+      required: true
+    - id: 9
+      name: red_velvet_cupcakes
+      label: Red Velvet Cupcakes
+      hint: Red velvet with cream cheese frosting - $4.00 each
+      type: select_one
+      options:
+      - 0
+      - 6
+      - 12
+      - 18
+      - 24
+      - 36
+      required: true
+    - id: 10
+      name: lemon_cupcakes
+      label: Lemon Cupcakes
+      hint: Zesty lemon with lemon buttercream - $3.75 each
+      type: select_one
+      options:
+      - 0
+      - 6
+      - 12
+      - 18
+      - 24
+      - 36
+      required: true
+    - id: 11
+      name: carrot_cupcakes
+      label: Carrot Cupcakes
+      hint: Spiced carrot with cream cheese frosting - $4.00 each
+      type: select_one
+      options:
+      - 0
+      - 6
+      - 12
+      - 18
+      - 24
+      - 36
+      required: true
+    - id: 12
+      name: birthday_cake_cupcakes
+      label: Birthday Cake Cupcakes
+      hint: Funfetti with vanilla frosting - $4.00 each
+      type: select_one
+      options:
+      - 0
+      - 6
+      - 12
+      - 18
+      - 24
+      - 36
+      required: true
+    - id: 13
+      name: section_header_frosting
+      label: -- Frosting Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: frosting_preference
+      label: Frosting Preference
+      hint: Type of frosting for your cupcakes
+      type: select_one
+      options:
+      - Buttercream
+      - Cream Cheese
+      - Chocolate Ganache
+      - Whipped Cream
+      - Fondant
+      required: true
+    - id: 15
+      name: frosting_color
+      label: Frosting Color
+      hint: Choose your frosting color
+      type: select_one
+      options:
+      - White
+      - Pink
+      - Blue
+      - Purple
+      - Yellow
+      - Rainbow
+      - Custom
+      required: true
+    - id: 16
+      name: section_header_customization
+      label: -- Custom Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: custom_message
+      label: Custom Message
+      hint: Any message to write on cupcakes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_decorations
+      label: Special Decorations
+      hint: Sprinkles, edible glitter, toppers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Allergies or dietary restrictions
+      type: select_multiple
+      options:
+      - None
+      - Gluten-Free
+      - Dairy-Free
+      - Egg-Free
+      - Nut-Free
+      - Vegan
+      required: true
+    - id: 20
+      name: occasion
+      label: Occasion
+      hint: What are you celebrating
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Baby Shower
+      - Graduation
+      - Anniversary
+      - Corporate Event
+      - Just Because
+      - Other
+      required: true
+    - id: 21
+      name: delivery_date
+      label: Delivery Date
+      hint: When do you need your cupcakes
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: delivery_time
+      label: Delivery Time
+      hint: Preferred delivery time
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes for your order
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total Amount
+      hint: Order total including tax
+      type: number
+      options: []
+      required: true

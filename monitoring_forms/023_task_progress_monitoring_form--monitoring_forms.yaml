@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Progress Monitoring Form
+    pages:
+    - id: 1
+      name: task_progress
+      label: task_progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_member
+      label: team_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: progress_status
+      label: progress_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: progress_date
+      label: progress_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: progress_time
+      label: progress_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: false

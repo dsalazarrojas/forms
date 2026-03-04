@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Precision Tool Calibration Order Form
+    pages:
+    - id: 1
+      name: calibration_order_form
+      label: Calibration Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: calibration_request
+      label: Calibration Request Information
+      hint: null
+      type: select_multiple
+      options:
+      - Calibration for new purchase
+      - Calibration for existing equipment
+      - Calibration for other
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Machinist
+      - Mechanical
+      - Other
+      - Tooling
+      required: false
+    - id: 4
+      name: calibration_interval
+      label: Calibration Interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cal_due_date
+      label: Cal Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technician_email
+      label: Technician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: technician_phone
+      label: Technician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: calibration_frequency
+      label: Calibration Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: calibration_cost
+      label: Calibration Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: calibration_location
+      label: Calibration Location
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Off-site
+      - Other
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_zip
+      label: Delivery Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_country
+      label: Delivery Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipper_email
+      label: Shipper E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false

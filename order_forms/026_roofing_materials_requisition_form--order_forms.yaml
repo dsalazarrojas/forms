@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roofing Materials Requisition Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_type
+      label: Material Type
+      hint: Select from options below
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_contact
+      label: Supplier Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: material_delivery_date
+      label: Material Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: material_pickup_date
+      label: Material Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: material_status
+      label: Material Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: material_note
+      label: Material Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: supplier_signature
+      label: Supplier Signature
+      hint: null
+      type: note
+      options: []
+      required: false

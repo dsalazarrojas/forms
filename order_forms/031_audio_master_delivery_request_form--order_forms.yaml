@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Master Delivery Request Form
+    pages:
+    - id: 1
+      name: section_client
+      label: -- Client and Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_title
+      label: Project or Album Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_mastering_specs
+      label: -- Mastering Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: track_count
+      label: Number of Tracks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: target_loudness
+      label: Target Loudness (LUFS)
+      hint: e.g., -14 for Streaming, -23 for Broadcast
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sample_rate_depth
+      label: Sample Rate and Bit Depth
+      hint: null
+      type: select_one
+      options:
+      - 44.1kHz - 16-bit (CD Quality)
+      - 44.1kHz - 24-bit
+      - 48kHz - 24-bit (Standard)
+      - 88.2kHz - 24-bit
+      - 96kHz - 24-bit
+      required: true
+    - id: 9
+      name: delivery_formats
+      label: Delivery Formats Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - WAV (High Res)
+      - AIFF
+      - MP3 (320kbps)
+      - DDP Image (for CD duplication)
+      - Vinyl Pre-master
+      required: true
+    - id: 10
+      name: reference_tracks
+      label: Link to Reference Tracks
+      hint: Artists or songs you want to sound like
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_logistics
+      label: -- Logistics and Files --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_deadline
+      label: Required Delivery Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: mix_file_link
+      label: Link to Mix Files
+      hint: e.g., Dropbox, WeTransfer, Google Drive
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_mastering_notes
+      label: Specific Mastering Notes
+      hint: e.g., "Keep it dynamic", "Brighter top end"
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Email Address
+      hint: For delivery and invoicing
+      type: email
+      options: []
+      required: true

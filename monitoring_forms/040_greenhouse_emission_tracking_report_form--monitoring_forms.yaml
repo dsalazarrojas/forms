@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greenhouse Emission Tracking Report Form
+    pages:
+    - id: 1
+      name: greenhousegas_emission
+      label: Greenhouse Gas Emissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reductionactions
+      label: Reduction Actions
+      hint: List actions taken to reduce greenhouse gas emissions
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report
+      label: Reports
+      hint: Select supporting reports for internal reporting
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: greenhousegasreduction
+      label: Greenhouse Gas Reduction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reductiontargets
+      label: Reduction Targets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: baseline
+      label: Baseline
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reductionpercent
+      label: Reduction Percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reportdate
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reportingperiod
+      label: Reporting Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reductionactionsdescription
+      label: Reduction Actions Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reductiontargetspresent
+      label: Reduction Targets Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

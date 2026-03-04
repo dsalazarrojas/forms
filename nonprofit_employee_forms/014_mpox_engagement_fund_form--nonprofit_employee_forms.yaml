@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Engagement Fund Form
+    pages:
+    - id: 1
+      name: nonprofit_employees
+      label: Nonprofit Employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prevention_funds
+      label: Prevention Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: education_funds
+      label: Education Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: response_funds
+      label: Public Health Response Funds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Enter the contact email of the nonprofit employee
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_numbers
+      label: Phone Numbers
+      hint: Enter phone numbers separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: funding_request
+      label: Funding Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Nonprofit Employee Forms
+      - Mpox Engagement Forms
+      required: false

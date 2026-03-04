@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_brunch_order_form
+    pages:
+    - id: 1
+      name: easter_brunch_order
+      label: Easter Brunch Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: easter_brunch_guests
+      label: easter_brunch_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: easter_brunch_date
+      label: easter_brunch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: easter_brunch_time
+      label: easter_brunch_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: easter_brunch_location
+      label: easter_brunch_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: easter_brunch_dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_one
+      options:
+      - Gluten Free
+      - Vegetarian
+      - Vegan
+      required: true
+    - id: 7
+      name: easter_brunch_special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: easter_brunch_email
+      label: easter_brunch_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: easter_brunch_phone
+      label: easter_brunch_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: easter_brunch_additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: easter_brunch_order_notes
+      label: easter_brunch_order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: easter_brunch_order_status
+      label: easter_brunch_order_status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Declined
+      - Pending
+      required: true

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunting Club Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prophets
+      label: Prophets
+      hint: List your favorite prophets if you have any!
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: hunting_license
+      label: Hunting License
+      hint: null
+      type: select_one
+      options:
+      - License 1
+      - License 2
+      - License 3
+      - License 4
+      required: true
+    - id: 9
+      name: hunting_license_expiry
+      label: Hunting License Expiry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: member_since
+      label: Member Since
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: annual_hunters_fees
+      label: Annual Hunters Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hunting_license_status
+      label: Hunting License Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 13
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 14
+      name: hunting_club
+      label: Hunting Club
+      hint: null
+      type: select_one
+      options:
+      - Hunting Club 1
+      - Hunting Club 2
+      - Hunting Club 3
+      - Hunting Club 4
+      required: true
+    - id: 15
+      name: hunting_license_issued_by
+      label: Hunting License Issued By
+      hint: null
+      type: select_one
+      options:
+      - Authority 1
+      - Authority 2
+      - Authority 3
+      required: true
+    - id: 16
+      name: hunting_license_type
+      label: Hunting License Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true

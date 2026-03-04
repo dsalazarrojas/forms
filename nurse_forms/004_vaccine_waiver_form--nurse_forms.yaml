@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccine Waiver Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_refusal
+      label: Date of Refusal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_refusal
+      label: Reason for Refusal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_signature_done
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_aware_of_consequences
+      label: Patient Aware of Consequences
+      hint: null
+      type: select_one
+      options:
+      - Fully Aware
+      - Somewhat Aware
+      - Not Aware
+      required: true
+    - id: 11
+      name: doctor_conducted_risk_assessment
+      label: Doctor Conducted Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 12
+      name: doctor_conducted_medical_history
+      label: Doctor Conducted Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 13
+      name: patient_understands_consequences
+      label: Patient Understands Consequences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

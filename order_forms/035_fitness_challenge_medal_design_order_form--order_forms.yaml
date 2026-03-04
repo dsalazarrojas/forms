@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Challenge Medal Design Order Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_design_choice
+      label: Select Participant Design
+      hint: null
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Bronze
+      required: false
+    - id: 3
+      name: participant_ribbon_color
+      label: Participant Ribbon Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 4
+      name: participant_medal_shape
+      label: Participant Medal Shape
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Heart
+      required: false
+    - id: 5
+      name: participant_medal_size
+      label: Participant Medal Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Large
+      required: false
+    - id: 6
+      name: participant_ribbon_shape
+      label: Participant Ribbon Shape
+      hint: null
+      type: select_one
+      options:
+      - Rectangle
+      - Circle
+      required: false
+    - id: 7
+      name: participant_ribbon_width
+      label: Participant Ribbon Width
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: participant_medal_quantity
+      label: Participant Medal Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

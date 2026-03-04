@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Billing Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_info
+      label: billing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pay Now'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Pay Later'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_cycle
+      label: billing_cycle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: account_number
+      label: account_number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Residential'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Commercial'', ''value'': 2}'
+      required: false
+    - id: 13
+      name: utility_type
+      label: utility_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_term
+      label: payment_term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Quarterly'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Annually'', ''value'': 3}'
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

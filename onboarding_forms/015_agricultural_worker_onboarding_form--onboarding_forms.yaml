@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Worker Onboarding Form
+    pages:
+    - id: 1
+      name: worker_name
+      label: Worker name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: For records and eligibility checks
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact number
+      hint: Preferred phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start date
+      hint: Date the worker will begin duties
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Position or role
+      hint: Field worker, machine operator, supervisor, etc
+      type: select_one
+      options:
+      - Field worker
+      - Machine operator
+      - Supervisor
+      - Technician
+      required: true
+    - id: 7
+      name: work_hours
+      label: Expected weekly hours
+      hint: Typical hours per week
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Relevant medical conditions
+      hint: Provide any conditions the employer should know about
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_received
+      label: Training received during onboarding
+      hint: Short description of induction training
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_acknowledgement
+      label: Company policy acknowledgement
+      hint: Acknowledge receipt of safety and conduct policies
+      type: note
+      options: []
+      required: true

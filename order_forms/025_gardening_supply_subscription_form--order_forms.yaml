@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Supply Subscription Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscription_plan
+      label: subscription_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monthly''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Quarterly''}'
+      - '{''id'': 4, ''name'': ''None''}'
+      required: true
+    - id: 4
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Monthly''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Quarterly''}'
+      required: true
+    - id: 5
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''Check''}'
+      - '{''id'': 4, ''name'': ''Credit Card''}'
+      required: true
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gardener_name
+      label: gardener_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gardener_phone
+      label: gardener_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gardener_email
+      label: gardener_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: gardener_notes
+      label: gardener_notes
+      hint: null
+      type: text
+      options: []
+      required: false

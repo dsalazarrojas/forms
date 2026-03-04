@@ -1,0 +1,55 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Membership Cancellation Form
+    pages:
+    - id: 1
+      name: membership_cancellation_form
+      label: Membership Cancellation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - Member has moved away
+      - No longer fit for the gym
+      - Change of gym or location
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: cancellation_date
+      label: Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: membership_number
+      label: Membership Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cancellation_date_confirmation
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false

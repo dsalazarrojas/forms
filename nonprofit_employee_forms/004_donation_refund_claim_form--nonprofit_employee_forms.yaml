@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Refund Claim Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: select_reason
+      label: Reason for Refund
+      hint: null
+      type: select_one
+      options:
+      - No longer need
+      - Duplicate Payment
+      - Error in Donation
+      - Other
+      required: true
+    - id: 10
+      name: select_other_reason
+      label: Other Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Reason 1
+      - Reason 2
+      - Reason 3
+      required: false
+    - id: 11
+      name: uploaded_document
+      label: Uploaded Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

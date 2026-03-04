@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Order Form
+    pages:
+    - id: 1
+      name: welcome_message
+      label: Welcome to Ticket Ordering
+      hint: Complete this form to order your concert tickets
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: concert_selection
+      label: Select Concert
+      hint: Choose the event you want to attend
+      type: select_one
+      options:
+      - Summer Rock Festival
+      - Classical Symphony Gala
+      - Jazz Night Live
+      - Pop Stars Tour
+      - Country Music Weekend
+      - Electronic Dance Festival
+      required: true
+    - id: 3
+      name: concert_date
+      label: Concert Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: seating_section
+      label: Seating Section
+      hint: Choose your preferred seating area
+      type: select_one
+      options:
+      - Floor General Admission
+      - Lower Bowl Reserved
+      - Club Level
+      - Upper Bowl
+      - VIP Box Suite
+      required: true
+    - id: 5
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: How many tickets do you want
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: price_per_ticket
+      label: Price Per Ticket
+      hint: Base ticket price
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_subtotal
+      label: Order Subtotal
+      hint: Total before fees
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_details
+      label: Customer Details
+      hint: Your contact information
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_preference
+      label: Ticket Delivery Preference
+      hint: How should we deliver your tickets
+      type: select_one
+      options:
+      - E-Ticket via Email
+      - Mobile App Download
+      - Will Call Pickup
+      - Standard Mail Delivery
+      - Express Courier
+      required: true
+    - id: 14
+      name: pickup_or_delivery
+      label: Pickup or Delivery Address
+      hint: Where should tickets be sent
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: street_address
+      label: Street Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State or Province
+      hint: State province or region
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: add_ons
+      label: Optional Add-Ons
+      hint: Enhance your concert experience
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: parking_pass
+      label: Parking Pass
+      hint: Add venue parking
+      type: select_one
+      options:
+      - No Thanks
+      - Yes Add Parking
+      required: false
+    - id: 21
+      name: merchandise_bundle
+      label: Merchandise Bundle
+      hint: Concert t-shirt and poster
+      type: select_one
+      options:
+      - No Thanks
+      - T-Shirt Only
+      - Poster Only
+      - Full Bundle
+      required: false
+    - id: 22
+      name: payment_info
+      label: Payment Information
+      hint: Complete your purchase
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment type
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - PayPal
+      - Apple Pay
+      required: true
+    - id: 24
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Accept terms and conditions
+      type: select_one
+      options:
+      - I Accept Terms and Conditions
+      - I Do Not Accept
+      required: true
+    - id: 25
+      name: submit_order
+      label: Submit Order
+      hint: Click to complete purchase
+      type: select_one
+      options:
+      - Submit Order Now
+      - Save for Later
+      required: true

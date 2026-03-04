@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: model_timecard_submission
+    pages:
+    - id: 1
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_team
+      label: Production Team
+      hint: null
+      type: text
+      options: []
+      required: false

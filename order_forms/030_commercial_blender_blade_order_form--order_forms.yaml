@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Blender Blade Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_blender_model
+      label: -- Blender Model --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: blender_brand
+      label: Blender Brand
+      hint: Which brand do you need blades for
+      type: select_one
+      options:
+      - Vitamix
+      - Blendtec
+      - Hamilton Beach
+      - Waring
+      - Ninja
+      - KitchenAid
+      - Other
+      required: true
+    - id: 8
+      name: blender_model_number
+      label: Blender Model Number
+      hint: Specific model number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_blade_selection
+      label: -- Blade Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: blade_type
+      label: Blade Type
+      hint: Type of blade assembly needed
+      type: select_one
+      options:
+      - Standard Blade
+      - Heavy Duty Blade
+      - Wet Blade
+      - Dry Blade
+      - Combination Blade
+      - Custom Blade
+      required: true
+    - id: 11
+      name: blade_material
+      label: Blade Material
+      hint: Material preference
+      type: select_one
+      options:
+      - Stainless Steel
+      - Hardened Steel
+      - Titanium Coated
+      - Ceramic
+      - Standard
+      required: true
+    - id: 12
+      name: number_of_blades
+      label: Number of Blade Assemblies
+      hint: How many do you need
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: blade_diameter
+      label: Blade Diameter
+      hint: Size in inches
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_header_specifications
+      label: -- Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: mounting_type
+      label: Mounting Type
+      hint: How the blade attaches
+      type: select_one
+      options:
+      - Square Drive
+      - Round Drive
+      - Screw-On
+      - Snap-On
+      - Custom
+      - Not Sure
+      required: true
+    - id: 16
+      name: bearing_type
+      label: Bearing Type
+      hint: Bearing specification
+      type: select_one
+      options:
+      - Standard Bearing
+      - Sealed Bearing
+      - Ball Bearing
+      - Not Applicable
+      - Not Sure
+      required: false
+    - id: 17
+      name: replacement_or_upgrade
+      label: Replacement or Upgrade
+      hint: Is this a replacement or upgrade
+      type: select_one
+      options:
+      - Replacement
+      - Upgrade
+      - Spare Parts
+      - Bulk Order
+      required: true
+    - id: 18
+      name: section_header_pricing
+      label: -- Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: unit_price
+      label: Unit Price
+      hint: Price per blade assembly
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: quantity_discount
+      label: Quantity Discount
+      hint: Discount applied
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: subtotal
+      label: Subtotal
+      hint: Order subtotal
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Shipping and handling
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total_amount
+      label: Total Amount
+      hint: Final order total
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_header_shipping
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery preference
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Will Call Pickup
+      required: true
+    - id: 27
+      name: section_header_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Wire Transfer
+      - Check
+      required: true
+    - id: 29
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

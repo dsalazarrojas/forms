@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Health Consultation Perception Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How would you rate the ease of scheduling an appointment?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: question_2
+      label: How easy was it to find what you needed in our health portal?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very Easy''}'
+      - '{2: ''Somewhat Easy''}'
+      - '{3: ''Not Easy''}'
+      - '{4: ''Not at all Easy''}'
+      required: true
+    - id: 4
+      name: question_3
+      label: How would you rate your overall experience with this telehealth visit?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Somewhat Good''}'
+      - '{3: ''Somewhat Bad''}'
+      - '{4: ''Very Bad''}'
+      required: true
+    - id: 5
+      name: question_4
+      label: Would you like to receive a follow-up call after your appointment?
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: false
+    - id: 6
+      name: question_5
+      label: Do you have any suggestions for how we could improve our telehealth service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: What would you like to say to us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: Is there anything else we could improve on?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: false
+    - id: 9
+      name: question_8
+      label: What could we do better on?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very important''}'
+      - '{2: ''Somewhat important''}'
+      - '{3: ''Not at all important''}'
+      required: false
+    - id: 10
+      name: question_9
+      label: How can we best contact you?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Email''}'
+      - '{2: ''Phone''}'
+      - '{3: ''Text Messaging''}'
+      - '{4: ''In-person''}'
+      required: false
+    - id: 11
+      name: question_10
+      label: What is the best time for us to contact you?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: question_12
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: question_13
+      label: What is your date of birth?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: question_14
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_15
+      label: How do you usually access our health services?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''In-person''}'
+      - '{2: ''Virtual visit''}'
+      required: true
+    - id: 17
+      name: question_16
+      label: How often do you usually access our health services?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: question_17
+      label: How long does it take to receive a response from our health team?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''5 minutes or less''}'
+      - '{2: ''5-10 minutes''}'
+      - '{3: ''10-30 minutes''}'
+      - '{4: ''30-60 minutes''}'
+      required: true
+    - id: 19
+      name: question_18
+      label: How would you rate your experience with our response times?
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Bad''}'
+      required: true
+    - id: 20
+      name: question_19
+      label: Is there anything else you would like us to know?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: question_20
+      label: Is there anything else you would like us to know?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: question_21
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: question_22
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: question_23
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: question_24
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

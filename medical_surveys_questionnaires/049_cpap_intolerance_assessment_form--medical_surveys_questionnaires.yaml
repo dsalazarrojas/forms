@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CPAP Intolerance Assessment Form
+    pages:
+    - id: 1
+      name: cpap_patient_header
+      label: -- Patient Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cpap_patient_name
+      label: Patient Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cpap_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: cpap_medical_record
+      label: Medical Record Number
+      hint: Your patient ID or MRN
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cpap_email
+      Label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: cpap_phone
+      label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: cpap_therapy_header
+      Label: -- CPAP Therapy History --
+      hint: Your CPAP therapy background
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cpap_therapy_duration
+      label: How Long Have You Used CPAP
+      hint: Duration of CPAP therapy
+      type: select_one
+      options:
+        - Less than 1 month
+        - 1-3 months
+        - 3-6 months
+        - 6-12 months
+        - 1-2 years
+        - 2-5 years
+        - Over 5 years
+      required: true
+    - id: 9
+      name: cpap_device_type
+      Label: Type of CPAP Device
+      hint: Your CPAP machine type
+      type: select_one
+      options:
+        - CPAP
+        - BiPAP
+        - Auto-adjusting CPAP
+        - Other PAP device
+        - Unsure
+      required: true
+    - id: 10
+      name: cpap_pressure_settings
+      label: Current Pressure Settings
+      hint: Your therapy pressures in cm H2O
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cpap_mask_type
+      Label: Type of Mask Used
+      hint: Your CPAP mask type
+      type: select_one
+      options:
+        - Nasal mask
+        - Nasal pillows
+        - Full face mask
+        - Oral mask
+        - Mixed use
+        - Unsure
+      required: true
+    - id: 12
+      name: cpap_compliance_header
+      label: -- CPAP Compliance and Usage --
+      hint: How you are using CPAP
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: cpap_nights_per_week
+      Label: How Many Nights per Week Do You Use CPAP
+      hint: Weekly usage frequency
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: cpap_hours_per_night
+      label: Average Hours per Night
+      hint: Average nightly usage in hours
+      type: decimal
+      options: []
+      required: false
+    - id: 15
+      name: cpap_tolerance_header
+      Label: -- Tolerance and Issues --
+      hint: Problems with CPAP therapy
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: cpap_overall_tolerance
+      label: Overall CPAP Tolerance
+      hint: How well you tolerate CPAP
+      type: select_one
+      options:
+        - Excellent tolerance
+        - Good tolerance
+        - Fair tolerance
+        - Poor tolerance
+        - Cannot tolerate
+      required: true
+    - id: 17
+      name: cpap_comfort_issues
+      Label: Comfort Issues - Select All That Apply
+      hint: Check comfort-related problems
+      type: select_multiple
+      options:
+        - Mask discomfort
+        - Skin irritation
+        - Nose or sinus issues
+        - Dry mouth
+        - Eye irritation
+        - Pressure discomfort
+        - Equipment noise
+        - No comfort issues
+      required: false
+    - id: 18
+      name: cpap_side_effects
+      label: Side Effects or Adverse Effects
+      hint: Problems from CPAP use
+      type: select_multiple
+      options:
+        - Claustrophobia
+        - Anxiety about mask
+        - Sleep disruption
+        - Air leaks
+        - Bloating
+        - Headaches
+        - Ear pressure
+        - No side effects
+      required: false
+    - id: 19
+      name: cpap_mask_issues
+      Label: Mask-Related Problems
+      hint: Specific mask issues
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cpap_equipment_problems
+      label: Equipment or Device Problems
+      hint: Issues with CPAP machine
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cpap_solutions_attempted_header
+      Label: -- Solutions Attempted --
+      hint: What you have tried to improve tolerance
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cpap_solutions_tried
+      label: Solutions You Have Attempted
+      hint: Select actions you have taken
+      type: select_multiple
+      options:
+        - Changed mask type
+        - Adjusted pressure settings
+        - Used humidifier
+        - Gradual acclimatization
+        - Consultation with therapist
+        - Medication assistance
+        - Sleep position changes
+        - None yet
+      required: false
+    - id: 23
+      name: cpap_effectiveness_header
+      label: -- Therapy Effectiveness --
+      hint: How effective is your CPAP therapy
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: cpap_symptom_improvement
+      Label: Improvement in Sleep Apnea Symptoms
+      hint: How much better do you feel
+      type: select_one
+      options:
+        - Significant improvement
+        - Moderate improvement
+        - Slight improvement
+        - No improvement
+        - Worsened
+      required: true
+    - id: 25
+      name: cpap_additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other issues or feedback
+      type: text
+      options: []
+      required: false

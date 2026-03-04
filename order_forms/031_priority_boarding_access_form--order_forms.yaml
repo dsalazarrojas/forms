@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Priority Boarding Access Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: priority_boarding
+      label: Priority Boarding
+      hint: null
+      type: select_one
+      options:
+      - Priority 1
+      - Priority 2
+      - Priority 3
+      required: true
+    - id: 6
+      name: boarding_number
+      label: Boarding Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agency_phone
+      label: Travel Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agency_email
+      label: Travel Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_of_travel
+      label: Time of Travel
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_notes
+      label: Travel Agency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_agency_confirmation
+      label: Travel Agency Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: priority_confirmation
+      label: Priority Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: credit_card_number
+      label: Credit Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: credit_card_security_code
+      label: Credit Card Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: credit_card_expiration
+      label: Credit Card Expiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: credit_card_cvv
+      label: Credit Card CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: credit_card_month
+      label: Credit Card Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: credit_card_year
+      label: Credit Card Year
+      hint: null
+      type: text
+      options: []
+      required: false

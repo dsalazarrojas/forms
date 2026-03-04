@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rain Coat Recommendation Quiz
+    pages:
+    - id: 1
+      name: name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Rain Coat
+      - Waterproof
+      - Breathable
+      - Insulated
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Hike
+      - Mountain
+      - Beach
+      - Urban
+      required: false
+    - id: 6
+      name: activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Hiking
+      - Climbing
+      - Kayaking
+      - Cycling
+      - Traveling
+      - Running
+      - Camping
+      - Surfing
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rain_frequency
+      label: Rain Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 9
+      name: desired_features
+      label: Desired Features
+      hint: null
+      type: select_multiple
+      options:
+      - Waterproof
+      - Breathable
+      - Insulated
+      - Lightweight
+      - Water-repellent
+      required: false
+    - id: 10
+      name: purchase_intent
+      label: Purchase Intent
+      hint: null
+      type: select_one
+      options:
+      - Gift
+      - Personal use
+      - Business use
+      required: false
+    - id: 11
+      name: preferred_color
+      label: Preferred Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blue
+      - Red
+      - Green
+      - Grey
+      - Yellow
+      - Purple
+      - White
+      - Beige
+      required: false
+    - id: 12
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 13
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 14
+      name: purchase_method
+      label: Purchase Method
+      hint: null
+      type: select_one
+      options:
+      - In-store
+      - Online
+      required: false

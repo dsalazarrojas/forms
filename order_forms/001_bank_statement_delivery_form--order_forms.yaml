@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Statement Delivery Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Document Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: Enter the full account number without spaces
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: Select the account type
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business
+      - Other
+      required: true
+    - id: 5
+      name: statement_period_start
+      label: Statement Period Start Date
+      hint: Choose the start date for the requested statement
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: statement_period_end
+      label: Statement Period End Date
+      hint: Choose the end date for the requested statement
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_method
+      label: Delivery Method
+      hint: Select preferred delivery method
+      type: select_one
+      options:
+      - Secure Upload
+      - Email
+      - Physical Pickup
+      required: true
+    - id: 8
+      name: upload_reference
+      label: Upload Reference or File Link
+      hint: Provide a secure link or reference code if uploading
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Provide an email for delivery notifications
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_acknowledgment
+      label: Consent and Authorization
+      hint: By submitting you authorize the bank to process this request
+      type: note
+      options: []
+      required: true

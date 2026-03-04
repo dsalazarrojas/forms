@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_information_form
+    pages:
+    - id: 1
+      name: mental_health_information
+      label: mental_health_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - emergency_contact_option_1
+      - emergency_contact_option_2
+      required: false
+    - id: 7
+      name: mental_health_issue
+      label: mental_health_issue
+      hint: null
+      type: select_multiple
+      options:
+      - mental_health_issue_option_1
+      - mental_health_issue_option_2
+      - mental_health_issue_option_3
+      required: true
+    - id: 8
+      name: mental_health_support
+      label: mental_health_support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_goals
+      label: mental_health_goals
+      hint: null
+      type: select_one
+      options:
+      - mental_health_goals_option_1
+      - mental_health_goals_option_2
+      required: false
+    - id: 10
+      name: mental_health_support_group
+      label: mental_health_support_group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mental_health_facilitator
+      label: mental_health_facilitator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mental_health_counselor
+      label: mental_health_counselor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mental_health_provider
+      label: mental_health_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mental_health_location
+      label: mental_health_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mental_health_time
+      label: mental_health_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_frequency
+      label: mental_health_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: mental_health_duration
+      label: mental_health_duration
+      hint: null
+      type: select_one
+      options:
+      - short_term_1
+      - short_term_2
+      required: false
+    - id: 18
+      name: mental_health_severity
+      label: mental_health_severity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mental_health_support_services
+      label: mental_health_support_services
+      hint: null
+      type: select_multiple
+      options:
+      - mental_health_support_services_option_1
+      - mental_health_support_services_option_2
+      required: true
+    - id: 20
+      name: mental_health_additional_info
+      label: mental_health_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mental_health_additional_info_2
+      label: mental_health_additional_info_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: mental_health_additional_info_3
+      label: mental_health_additional_info_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mental_health_additional_info_4
+      label: mental_health_additional_info_4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: mental_health_additional_info_5
+      label: mental_health_additional_info_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mental_health_additional_info_6
+      label: mental_health_additional_info_6
+      hint: null
+      type: text
+      options: []
+      required: false

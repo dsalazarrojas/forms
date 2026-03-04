@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bartending Service Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_location
+      label: Event Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: event_end_time
+      label: Service End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: estimated_guest_count
+      label: Estimated Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bar_package_selection
+      label: Selected Bar Package
+      hint: null
+      type: select_one
+      options:
+      - Beer and Wine Only
+      - Standard Full Bar
+      - Premium Full Bar
+      - Signature Cocktails Package
+      required: true
+    - id: 8
+      name: bartenders_needed
+      label: Number of Bartenders Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: setup_teardown_included
+      label: Do you require setup and teardown services?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: glassware_preference
+      label: Glassware Preference
+      hint: null
+      type: select_one
+      options:
+      - Disposable Plastic
+      - Rental Glassware
+      - Provided by Client
+      required: true
+    - id: 11
+      name: total_contract_amount
+      label: Total Agreed Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: deposit_paid
+      label: Deposit Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: cancellation_policy_ack
+      label: I acknowledge the 48-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - Other
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

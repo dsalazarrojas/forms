@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checkout Display Light Order Form
+    pages:
+    - id: 1
+      name: section_retailer_info
+      label: -- Retailer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: retail_brand_name
+      label: Brand / Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: store_location_id
+      label: Store Location / ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: store_manager_full_name
+      label: Store Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_order_details
+      label: -- Display Light Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: light_model_selection
+      label: Display Light Model
+      hint: Select the model for your checkout counter
+      type: select_one
+      options:
+      - Ultra-Bright LED Bar (Standard)
+      - Slim-Line Ambient Light
+      - Multi-Color Status Indicator
+      - Heavy-Duty Industrial Beam
+      required: true
+    - id: 9
+      name: order_quantity_units
+      label: Quantity Requested
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: mounting_hardware_included
+      label: Include Mounting Hardware Kit
+      hint: null
+      type: select_one
+      options:
+      - Yes (+ $15 per unit)
+      - false
+      required: true
+    - id: 11
+      name: branding_customization_notes
+      label: Custom Branding Details
+      hint: e.g. logo engraving, specific color temp
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_logistics_billing
+      label: -- Logistics and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: shipping_address_full
+      label: Complete Shipping Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: preferred_delivery_date
+      label: Requested Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: installation_service_req
+      label: Professional Installation Required
+      hint: null
+      type: select_one
+      options:
+      - Yes, please quote
+      - No, internal install
+      required: true
+    - id: 16
+      name: preferred_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit / Debit Card
+      - Corporate Invoice (PO)
+      - Bank Transfer
+      required: true
+    - id: 17
+      name: purchase_order_number
+      label: Purchase Order (PO) Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: estimated_total_amount
+      label: Estimated Total ($)
+      hint: Subject to tax and shipping fees
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: order_auth_signature_ack
+      label: I authorize this order on behalf of the store
+      hint: null
+      type: select_one
+      options:
+      - Authorized and Confirmed
+      - Other
+      required: true

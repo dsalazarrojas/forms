@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplies order form
+    pages:
+    - id: 1
+      name: item_desc
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_qty
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Cancelled
+      - Completed
+      required: true
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

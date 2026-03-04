@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Renewal
+    pages:
+    - id: 1
+      name: renewal_header
+      label: -- Membership Renewal and Recommitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_id
+      label: Member ID (if known)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Primary Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: recommitment_statement
+      label: I wish to renew my membership and recommit to the mission of this church
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am recommitting
+      - No, I am moving to another congregation
+      - I have questions before renewing
+      required: true
+    - id: 6
+      name: spiritual_growth_reflection
+      label: How would you describe your spiritual journey this past year?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_ministry_involvement
+      label: Current areas of service or ministry
+      hint: null
+      type: select_multiple
+      options:
+      - Ushering
+      - Teaching
+      - Choir
+      - Technical Team
+      - Cleaning
+      - Administration
+      required: false
+    - id: 8
+      name: new_interests
+      label: Are there new areas where you would like to serve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prayer_requests
+      label: How can the church pray for you in this new season?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: update_contact_info
+      label: Has your contact information changed?
+      hint: null
+      type: select_one
+      options:
+      - No changes
+      - Yes, please update me
+      required: true
+    - id: 11
+      name: attendance_frequency
+      label: Expected frequency of attendance
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      required: false
+    - id: 12
+      name: renewal_date
+      label: Date of Renewal
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Community Membership Registration Form
+    pages:
+    - id: 1
+      name: membership_form
+      label: membership_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Couple''}'
+      - '{''label'': ''Family''}'
+      required: false
+    - id: 7
+      name: membership_level
+      label: membership_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Premium''}'
+      required: false
+    - id: 8
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''Credit Card''}'
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      required: false
+    - id: 10
+      name: address_line_1
+      label: address_line_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address_line_2
+      label: address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: membership_start_date
+      label: membership_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: membership_end_date
+      label: membership_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false

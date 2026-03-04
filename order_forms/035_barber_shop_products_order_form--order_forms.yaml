@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Products Order Form
+    pages:
+    - id: 1
+      name: customer_details_header
+      label: -- Customer and Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For order confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hair_care_catalog_header
+      label: -- Hair Care Products --
+      hint: Specify quantity for each item
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pomade_classic_qty
+      label: Classic Pomade (4oz) - $18.00
+      hint: High shine, firm hold
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: matte_clay_qty
+      label: Texture Matte Clay (4oz) - $20.00
+      hint: Low shine, medium hold
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: daily_shampoo_qty
+      label: Refreshing Daily Shampoo (8oz) - $15.00
+      hint: Menthol and tea tree oil
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: beard_care_catalog_header
+      label: -- Beard and Shave Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: beard_oil_qty
+      label: Premium Beard Oil (1oz) - $22.00
+      hint: Sandalwood and cedarwood scent
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shaving_cream_qty
+      label: Luxury Shaving Cream (5oz) - $16.00
+      hint: Rich lather for a close shave
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: aftershave_qty
+      label: Cooling Aftershave Balm (4oz) - $14.00
+      hint: Alcohol-free soothing formula
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: accessories_header
+      label: -- Accessories and Tools --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: wood_comb_qty
+      label: Handcrafted Sandalwood Comb - $12.00
+      hint: Anti-static wide teeth
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: boar_brush_qty
+      label: Professional Boar Bristle Brush - $25.00
+      hint: Ideal for beard and hair grooming
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method_header
+      label: -- Payment and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_payment
+      label: Payment Method
+      hint: We will contact you for secure payment processing
+      type: select_one
+      options:
+      - Credit / Debit Card (Online)
+      - PayPal
+      - Apple Pay / Google Pay
+      - Cash on In-Store Pickup
+      required: true
+    - id: 19
+      name: delivery_option
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping (3-5 days)
+      - Express Shipping (1-2 days)
+      - In-Store Pickup (Free)
+      required: true
+    - id: 20
+      name: order_notes
+      label: Order Comments or Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true

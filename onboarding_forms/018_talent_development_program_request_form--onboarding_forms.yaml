@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: talent_development_program_request_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Enter the employee's name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Enter the job title of the employee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 4
+      name: training_type
+      label: Training Type
+      hint: Select the type of training requested
+      type: select_multiple
+      options:
+      - Basic Training
+      - Advanced Training
+      - Leadership Development
+      required: false
+    - id: 5
+      name: training_proposal
+      label: Training Proposal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 10
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: training_facility
+      label: Training Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_expense_reimbursment
+      label: Travel Expense Reimbursment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: training_funding
+      label: Training Funding
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Team Lead
+      required: true
+    - id: 18
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Team Lead
+      required: true
+    - id: 19
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - In Progress
+      required: true
+    - id: 23
+      name: approval_reason
+      label: Approval Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Acknowledged
+      - Declined
+      - Not Provided
+      required: true
+    - id: 25
+      name: acknowledgement_date
+      label: Acknowledgement Date
+      hint: null
+      type: date
+      options: []
+      required: false

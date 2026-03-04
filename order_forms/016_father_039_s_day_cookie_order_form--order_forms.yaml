@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fathers Day Cookie Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_message
+      label: Order Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: false
+    - id: 4
+      name: cookie_shape
+      label: Cookie Shape
+      hint: Choose a cookie shape
+      type: select_one
+      options:
+      - Circle
+      - Square
+      - Heart
+      - Animal
+      - Other
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: father_day
+      label: Father
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

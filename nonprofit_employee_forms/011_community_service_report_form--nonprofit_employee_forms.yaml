@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter full name
+      hint: Person completing the report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_date
+      label: Reporting date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Program name
+      hint: Program or activity being reported on
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: summary_of_activities
+      label: Summary of activities
+      hint: Brief narrative of activities and outcomes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_participants
+      label: Number of participants
+      hint: Count of attendees or volunteers
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notable_outcomes
+      label: Notable outcomes and impact
+      hint: Describe measurable results if available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issues_encountered
+      label: Issues encountered
+      hint: Note any challenges and recommended actions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachments
+      label: Attachments summary
+      hint: List attached photos or documents
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_distribution_sign_up
+    pages:
+    - id: 1
+      name: emergency_distribution_sign_up_page_1
+      label: Emergency Distribution Sign Up Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_size
+      label: household_size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 8
+      name: household_needs
+      label: household_needs
+      hint: null
+      type: select_multiple
+      options:
+      - food
+      - housing
+      - clothing
+      - medical
+      - other
+      required: true
+    - id: 9
+      name: emergency_assistance_needs
+      label: emergency_assistance_needs
+      hint: null
+      type: select_multiple
+      options:
+      - food
+      - housing
+      - clothing
+      - medical
+      - other
+      required: true
+    - id: 10
+      name: emergency_distribution_date
+      label: emergency_distribution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: emergency_distribution_time
+      label: emergency_distribution_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_details
+      label: emergency_contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_first_name
+      label: emergency_contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_last_name
+      label: emergency_contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_distribution_location
+      label: emergency_distribution_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_distribution_notes
+      label: emergency_distribution_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_notes
+      label: emergency_contact_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: emergency_distribution_other_needs
+      label: emergency_distribution_other_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_distribution_other_details
+      label: emergency_distribution_other_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_distribution_signature
+      label: emergency_distribution_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_distribution_agreement
+      label: emergency_distribution_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

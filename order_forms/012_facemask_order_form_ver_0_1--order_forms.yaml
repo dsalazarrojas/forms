@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: facemask order form (ver 0.1)
+    pages:
+    - id: 1
+      name: form_first_page
+      label: first page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: shipping info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_info
+      label: delivery info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_items
+      label: order items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_info
+      label: payment info
+      hint: null
+      type: text
+      options: []
+      required: false

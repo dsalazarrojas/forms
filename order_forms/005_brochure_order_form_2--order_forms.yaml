@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brochure Order Form 2
+    pages:
+    - id: 1
+      name: customer_information_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address_header
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City for shipping
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country for shipping
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: order_details_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: brochure_type
+      label: Brochure Type
+      hint: Select the type of brochure you want to order
+      type: select_one
+      options:
+      - Product Catalog
+      - Service Overview
+      - Company Profile
+      - Event Promotion
+      - Real Estate Listing
+      - Educational Material
+      - Custom Design
+      required: true
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: Number of brochures to order
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: paper_size
+      label: Paper Size
+      hint: Select your preferred paper size
+      type: select_one
+      options:
+      - Letter (8.5x11)
+      - Legal (8.5x14)
+      - A4
+      - A5
+      - Custom Size
+      required: true
+    - id: 16
+      name: paper_type
+      label: Paper Type
+      hint: Select paper quality
+      type: select_one
+      options:
+      - Standard Paper
+      - Premium Paper
+      - Cardstock
+      - Glossy
+      - Matte
+      - Recycled Paper
+      required: true
+    - id: 17
+      name: color_option
+      label: Color Option
+      hint: Color or black and white
+      type: select_one
+      options:
+      - Full Color
+      - Black and White
+      - Spot Color
+      required: true
+    - id: 18
+      name: folding_option
+      label: Folding Option
+      hint: Select folding style if desired
+      type: select_one
+      options:
+      - No Folding
+      - Half Fold
+      - Tri-Fold
+      - Z-Fold
+      - Gate Fold
+      required: false
+    - id: 19
+      name: design_files
+      label: Design Files Upload
+      hint: Upload your brochure design files if available
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or instructions for your order
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Pickup
+      - Digital Download
+      required: true
+    - id: 22
+      name: additional_products_header
+      label: -- Additional Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: interested_in
+      label: Also Interested In
+      hint: Select any additional products you may want
+      type: select_multiple
+      options:
+      - Flyers
+      - Business Cards
+      - Postcards
+      - Booklets
+      - None
+      required: false
+    - id: 24
+      name: order_comments
+      label: Additional Comments
+      hint: Any other comments about your order
+      type: text
+      options: []
+      required: false

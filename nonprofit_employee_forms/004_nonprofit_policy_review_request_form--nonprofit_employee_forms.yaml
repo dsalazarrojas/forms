@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Policy Review Request Form
+    pages:
+    - id: 1
+      name: main
+      label: Policy Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_types
+      label: Review Types
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: urgency_levels
+      label: Urgency Levels
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: review_requester_info
+      label: Review Requester Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_requester_name
+      label: Review Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_requester_title
+      label: Review Requester Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_requester_email
+      label: Review Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: review_requester_phone
+      label: Review Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_requester_department
+      label: Review Requester Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_requester_position
+      label: Review Requester Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_type
+      label: Review Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: policy_document
+      label: Policy Document
+      hint: null
+      type: text
+      options: []
+      required: false

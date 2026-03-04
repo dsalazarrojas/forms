@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: DVD Rental Order Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dvd_type
+      label: DVD Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dvd_name
+      label: DVD Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_or_delivery
+      label: Pickup or Delivery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

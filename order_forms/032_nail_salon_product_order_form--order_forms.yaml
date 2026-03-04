@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Product Order Form
+    pages:
+    - id: 1
+      name: form_input
+      label: Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: product_type
+      hint: Select one of our available products.
+      type: select_one
+      options:
+      - Nail Polish
+      - Nail Gel
+      - Nail Lacquer
+      - Nail Glitter
+      required: false
+    - id: 4
+      name: product_color
+      label: product_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: How many do you need?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_cost
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: salon_name
+      label: Salon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: salon_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Monitoring Access Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_id
+      label: Team ID
+      hint: Enter Team ID
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: access_request_date
+      label: Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: monitor_id
+      label: Monitor ID
+      hint: Enter Monitor ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Monitoring
+      - Maintenance
+      required: true
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

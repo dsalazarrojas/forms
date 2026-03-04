@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broadcast Production Props Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting the prop
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department requesting the prop
+      type: select_one
+      options:
+      - Broadcast Production
+      - Newsroom
+      - Technical Operations
+      - Creative
+      required: true
+    - id: 3
+      name: prop_name
+      label: Prop Name
+      hint: Specific name or description of the prop
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: Number of items needed
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: Detailed description of the prop and its use
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: urgent
+      label: Urgent Request
+      hint: Mark as urgent if needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: delivery_method
+      label: Delivery Method
+      hint: How the prop will be delivered
+      type: select_one
+      options:
+      - Pick Up
+      - Delivery
+      required: true
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: Date when the prop should be delivered or ready for pick up
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Delivery Location
+      hint: Location address or studio name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Email for approval notification
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: Any extra information for the logistics team
+      type: note
+      options: []
+      required: false

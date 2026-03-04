@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Appreciation Message Form
+    pages:
+    - id: 1
+      name: nomination_forms_employee_appreciation_message_form_page_1
+      label: Nomination Forms Employee Appreciation Message Form Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_information
+      label: Nominee Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - '{''id'': 2, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''bob_smith''}'
+      required: true
+    - id: 3
+      name: message
+      label: Appreciation Message
+      hint: Share a message with the team about why you're recognizing this nominee.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sender_information
+      label: Sender Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - '{''id'': 2, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''bob_smith''}'
+      required: true
+    - id: 5
+      name: routing
+      label: Routing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
+      - '{''id'': 3, ''label'': ''Director'', ''value'': ''director''}'
+      - '{''id'': 4, ''label'': ''CEO'', ''value'': ''ceo''}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 6
+      name: followup
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Send a thank you note'', ''value'': ''send_a_thank_you_note''}'
+      - '{''id'': 2, ''label'': ''Meet with the team lead'', ''value'': ''meet_with_team_lead''}'
+      - '{''id'': 3, ''label'': ''Review and follow up in 1 month'', ''value'': ''review_and_follow_up_in_1_month''}'
+      - '{''id'': 4, ''label'': ''Review and follow up in 3 months'', ''value'': ''review_and_follow_up_in_3_months''}'
+      - '{''id'': 5, ''label'': ''Review and follow up in 6 months'', ''value'': ''review_and_follow_up_in_6_months''}'
+      required: true
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: review_location
+      label: Review Location
+      hint: null
+      type: text
+      options: []
+      required: false

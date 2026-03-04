@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Family Event Leave Of Absence Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Family Event'', ''value'': ''family_event''}'
+      - '{''id'': 2, ''label'': ''Other Event'', ''value'': ''other_event''}'
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_start_time
+      label: Expected Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: expected_end_time
+      label: Expected End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: team_members_affected
+      label: Team Members Affected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''id'': 2, ''label'': ''Denied'', ''value'': ''denied''}'
+      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      required: true
+    - id: 12
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approver_role
+      label: Approver Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Supervisor'', ''value'': ''supervisor''}'
+      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''manager''}'
+      - '{''id'': 3, ''label'': ''Director'', ''value'': ''director''}'
+      required: true
+    - id: 15
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: approver_signature_date
+      label: Approver Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_designation
+      label: Designation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager'', ''value'': ''manager''}'
+      - '{''id'': 2, ''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      - '{''id'': 3, ''label'': ''Director'', ''value'': ''director''}'
+      - '{''id'': 4, ''label'': ''Administrator'', ''value'': ''administrator''}'
+      required: false
+    - id: 24
+      name: approver_designation_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 2, ''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''rejected''}'
+      - '{''id'': 4, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: true

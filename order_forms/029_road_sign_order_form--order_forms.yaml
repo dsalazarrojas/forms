@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Sign Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sign_orders
+      label: Sign Orders
+      hint: Select one or more sign orders
+      type: select_one
+      options:
+      - Order 1
+      - Order 2
+      - Order 3
+      required: false
+    - id: 4
+      name: artwork_details
+      label: Artwork Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payments
+      label: Payments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

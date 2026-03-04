@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Equipment Order Form
+    pages:
+    - id: 1
+      name: section_requester_information
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: Company responsible for the order
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Best number for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_type
+      label: Equipment type
+      hint: Select requested equipment
+      type: select_one
+      options:
+      - Excavator
+      - Crane
+      - Loader
+      - Scaffolding
+      - Other
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of units required
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: rental_duration_days
+      label: Rental duration days
+      hint: Number of days equipment is needed
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery address
+      hint: Full site delivery address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Date for scheduled delivery
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: Any additional handling or site access notes
+      type: text
+      options: []
+      required: false

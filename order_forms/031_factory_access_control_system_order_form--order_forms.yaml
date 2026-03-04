@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Access Control System Order Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_info
+      label: Facility Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Supervisor
+      - Employee
+      - Guest
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false

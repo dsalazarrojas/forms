@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early prophets Form
+    pages:
+    - id: 1
+      name: early_check_out_date
+      label: Early Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_number
+      label: Room Number
+      hint: The number of the room you wish to pay for
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

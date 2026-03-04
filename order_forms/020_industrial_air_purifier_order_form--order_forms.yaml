@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_air_purifier_order_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: air_purifier_model
+      label: Air Purifier Model
+      hint: null
+      type: select_one
+      options:
+      - AirPurifierA
+      - AirPurifierB
+      - AirPurifierC
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ship_to
+      label: Ship to
+      hint: null
+      type: text
+      options: []
+      required: false

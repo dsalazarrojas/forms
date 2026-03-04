@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Goods Receipt Acknowledgement Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goods_received
+      label: goods_received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goods_description
+      label: goods_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goods_condition
+      label: goods_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''Used''}'
+      - '{''id'': 3, ''label'': ''Refurbished''}'
+      required: false
+    - id: 5
+      name: goods_value
+      label: goods_value
+      hint: null
+      type: number
+      options: []
+      required: false

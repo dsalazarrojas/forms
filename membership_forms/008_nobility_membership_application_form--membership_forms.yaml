@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: nobility_membership_application_form
+    pages:
+    - id: 1
+      name: new_member_name
+      label: New Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: declaration_of_noble_intent
+      label: Declaration of Noble Intent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: noble_order_member_of
+      label: Noble Order Member of
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 5
+      name: noble_family_relationship
+      label: Noble Family Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: noble_society_member_of
+      label: Noble Society Member of
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': ''None'', ''value'': None}'
+      required: false
+    - id: 7
+      name: nobility_application_status
+      label: Nobility Application Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

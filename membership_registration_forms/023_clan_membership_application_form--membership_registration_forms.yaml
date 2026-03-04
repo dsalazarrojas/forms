@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clan Membership Application Form
+    pages:
+    - id: 1
+      name: gamer_tag
+      label: Gamer Tag or Username
+      hint: Your primary gaming username
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: real_name
+      label: Real Name
+      hint: For verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For clan communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: discord_username
+      label: Discord Username
+      hint: For clan chat and coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: You must be 18 or older
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: City and country
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: timezone
+      label: Time Zone
+      hint: Your local time zone
+      type: select_one
+      options:
+      - Eastern Time (ET)
+      - Central Time (CT)
+      - Mountain Time (MT)
+      - Pacific Time (PT)
+      - Alaska Time (AKT)
+      - Hawaii Time (HT)
+      - Greenwich Mean Time (GMT)
+      - Central European Time (CET)
+      - Other
+      required: true
+    - id: 8
+      name: primary_platform
+      label: Primary Gaming Platform
+      hint: What do you play on
+      type: select_one
+      options:
+      - PC
+      - PlayStation 5
+      - PlayStation 4
+      - Xbox Series X
+      - Xbox One
+      - Nintendo Switch
+      - Mobile
+      required: true
+    - id: 9
+      name: gaming_experience
+      label: Years of Gaming Experience
+      hint: How long have you been gaming
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 10
+      name: competitive_experience
+      label: Do You Have Competitive Gaming Experience
+      hint: Tournaments, leagues, etc.
+      type: select_one
+      options:
+      - Yes, professional level
+      - Yes, amateur tournaments
+      - Yes, casual competitions
+      - No competitive experience
+      required: true
+    - id: 11
+      name: preferred_games
+      label: Which Games Do You Play
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - First-person shooter
+      - Battle royale
+      - MOBA
+      - RPG
+      - Strategy
+      - Fighting games
+      - Racing
+      - Sports games
+      - MMO
+      - Other
+      required: true
+    - id: 12
+      name: current_rank
+      label: Current Rank or Level
+      hint: In your main game
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_role
+      label: Preferred Role or Position
+      hint: In team games
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: availability
+      label: Gaming Availability
+      hint: When are you usually online
+      type: select_multiple
+      options:
+      - Morning (6AM-12PM)
+      - Afternoon (12PM-6PM)
+      - Evening (6PM-12AM)
+      - Late night (12AM-6AM)
+      - Weekends only
+      - Flexible schedule
+      required: true
+    - id: 15
+      name: hours_per_week
+      label: Hours Per Week Available for Clan Activities
+      hint: Estimated gaming time
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20+ hours
+      required: true
+    - id: 16
+      name: voice_chat
+      label: Do You Use Voice Chat
+      hint: For team communication
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, sometimes
+      - No, prefer text
+      - No microphone
+      required: true
+    - id: 17
+      name: clan_motivation
+      label: Why Do You Want to Join Our Clan
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: skills_offering
+      label: What Skills Can You Bring to the Clan
+      hint: Leadership, strategy, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_clans
+      label: Have You Been in a Clan Before
+      hint: Previous gaming teams
+      type: select_one
+      options:
+      - Yes, currently in one
+      - Yes, previously
+      - No, first time
+      required: true
+    - id: 20
+      name: previous_clan_name
+      label: Previous Clan Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: left_previous_reason
+      label: Why Did You Leave
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tournament_interest
+      label: Are You Interested in Tournaments
+      hint: Competitive clan events
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe, depends on game
+      - No, casual only
+      required: true
+    - id: 23
+      name: rules_agreement
+      label: Do You Agree to Follow Clan Rules
+      hint: Code of conduct and guidelines
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false

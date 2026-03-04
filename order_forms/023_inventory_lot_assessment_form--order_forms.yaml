@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Lot Assessment Form
+    pages:
+    - id: 1
+      name: lot_number
+      label: Lot Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inventory_type
+      label: Inventory Type
+      hint: null
+      type: select_one
+      options:
+      - Lot
+      - Non-inventory
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 8
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - Jane
+      - John
+      - Jim
+      required: false
+    - id: 9
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - Jane
+      - John
+      - Jim
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Warehouse A
+      - Warehouse B
+      - Warehouse C
+      required: false

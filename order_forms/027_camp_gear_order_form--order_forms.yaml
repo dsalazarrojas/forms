@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Gear Order Form
+    pages:
+    - id: 1
+      name: gear_order_contact_header
+      label: -- Order Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name_gear
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email_gear
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone_gear
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_method_selection
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Ship to Home
+      - Pick up at Camp Office
+      - Deliver to Camper (On-site)
+      required: true
+    - id: 6
+      name: shipping_address_gear
+      label: Shipping - Delivery Address
+      hint: Required if shipping to home
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_selection_header
+      label: -- Gear and Merchandise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: gear_category_interested
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Apparel (Shirts, Hoodies, Hats)
+      - Camping Equipment (Tents, Bags)
+      - Accessories (Mugs, Water Bottles)
+      - Youth Sizes
+      required: true
+    - id: 9
+      name: primary_item_selection
+      label: Select Your Primary Item
+      hint: null
+      type: select_one
+      options:
+      - Official Camp T-Shirt ($20)
+      - Heavyweight Logo Hoodie ($45)
+      - Insulated Water Bottle ($25)
+      - Deluxe Sleeping Bag ($75)
+      - Adventure Backpack ($55)
+      - Embroidered Baseball Cap ($18)
+      required: true
+    - id: 10
+      name: item_size_selection
+      label: Size (If Applicable)
+      hint: null
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - N/A
+      required: true
+    - id: 11
+      name: item_quantity_order
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: additional_items_request
+      label: List Additional Items and Sizes
+      hint: Use this to add more items to your order
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method_gear
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - PayPal
+      - Apple Pay - Google Pay
+      - Invoice (Organizations only)
+      required: true
+    - id: 14
+      name: special_delivery_instructions
+      label: Special Instructions or Gift Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_date_logged
+      label: Order Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: order_terms_consent
+      label: Order Terms and Refund Policy
+      hint: I agree to the order terms and conditions
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

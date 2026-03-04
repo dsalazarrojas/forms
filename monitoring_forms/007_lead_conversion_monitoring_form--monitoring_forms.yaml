@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Conversion Monitoring Form
+    pages:
+    - id: 1
+      name: lead_conversion_monitoring_form
+      label: lead_conversion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: lead_date
+      label: lead_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lead_time
+      label: lead_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: lead_notes
+      label: lead_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lead_email
+      label: lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: lead_phone
+      label: lead_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: lead_conversion_id
+      label: lead_conversion_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: lead_priority
+      label: lead_priority
+      hint: null
+      type: number
+      options: []
+      required: false

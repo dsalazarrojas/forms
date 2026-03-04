@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Supplies Order Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Charity name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: When to deliver
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to send
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tables_needed
+      label: Number of Tables
+      hint: Table count
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: chairs_needed
+      label: Number of Chairs
+      hint: Chair count
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tablecloths_needed
+      label: Number of Tablecloths
+      hint: Linen count
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: signage_needed
+      label: Signage Required
+      hint: Banners signs etc
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: audio_equipment
+      label: Audio Equipment
+      hint: Microphones speakers
+      type: select_multiple
+      options:
+      - Microphone stand
+      - Wireless microphone
+      - Speaker system
+      - Projector
+      - Screen
+      - None needed
+      required: false
+    - id: 14
+      name: registration_supplies
+      label: Registration Supplies
+      hint: Check-in materials
+      type: select_multiple
+      options:
+      - Clipboards
+      - Name badges
+      - Pens
+      - Sign-in sheets
+      - Lanyards
+      - None needed
+      required: false
+    - id: 15
+      name: decorative_items
+      label: Decorative Items
+      hint: Centerpieces etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: catering_supplies
+      label: Catering Supplies
+      hint: Serving items
+      type: select_multiple
+      options:
+      - Plates
+      - Napkins
+      - Utensils
+      - Cups
+      - Serving trays
+      - None needed
+      required: false
+    - id: 17
+      name: cleanup_supplies
+      label: Cleanup Supplies
+      hint: Post-event
+      type: select_multiple
+      options:
+      - Trash bags
+      - Recycling bins
+      - Cleaning supplies
+      - Gloves
+      - None needed
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Other items
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_limit
+      label: Budget Limit
+      hint: Maximum spend
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Organization check
+      - Credit card
+      - Invoice
+      - Prepaid
+      required: true
+    - id: 21
+      name: rush_order
+      label: Is this a rush order
+      hint: Expedited delivery
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Other details
+      type: text
+      options: []
+      required: false

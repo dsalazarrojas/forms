@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Software Subscription Order Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact-information
+      hint: null
+      type: select_multiple
+      options:
+      - Company name
+      - Contact Name
+      - Phone Number
+      - Email
+      - Company Address
+      - City
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: subscription_plan
+      label: subscription-plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 9
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_type
+      label: payment-type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 12
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Award Nomination Form
+    pages:
+    - id: 1
+      name: section_nominee_information
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_name
+      label: Nominee name
+      hint: Full name of the person being nominated
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominee_email
+      label: Nominee email
+      hint: If known
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: nominator_name
+      label: Nominator name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_nominee
+      label: Relationship to nominee
+      hint: e.g. colleague, classmate
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: award_category
+      label: Award category
+      hint: Choose the most appropriate category
+      type: select_one
+      options: [Distinguished Alumni, Young Alumni, Community Service]
+      required: true
+    - id: 7
+      name: nomination_reason
+      label: Reason for nomination
+      hint: Describe achievements and impact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting documents URL
+      hint: Link to resume or references if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: I confirm the information provided is accurate
+      hint: Check to confirm
+      type: select_one
+      options: [Yes, No]
+      required: true

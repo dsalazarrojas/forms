@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_meal_kit_waitlist
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: meal_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Thanksgiving Feast''}'
+      - '{''value'': ''Holiday Meal Kit''}'
+      - '{''value'': ''Dinner for 2''}'
+      required: true
+    - id: 6
+      name: select_multiple
+      label: meal_kit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Roasted Turkey''}'
+      - '{''value'': ''Baked Ham''}'
+      - '{''value'': ''Veggie Options''}'
+      - '{''value'': ''Thanksgiving Favorites''}'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brownies Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: brownie_flavor_1
+      label: Brownie Flavor
+      hint: Select your favorite
+      type: select_one
+      options:
+      - Classic Chocolate
+      - Fudge
+      - Walnut
+      - Caramel
+      - Cheesecake Swirl
+      - Mint Chocolate Chip
+      required: true
+    - id: 10
+      name: brownie_quantity
+      label: Quantity
+      hint: Number of brownies
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: additional_flavors
+      label: Any Additional Flavors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classic Chocolate
+      - Fudge
+      - Walnut
+      - Caramel
+      - Cheesecake Swirl
+      - Mint Chocolate Chip
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Gluten-free, vegan, nut allergies, etc
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests or Customizations
+      hint: Size, packaging, inscriptions, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gift_wrap
+      label: Gift Wrapping
+      hint: null
+      type: select_one
+      options:
+      - No Gift Wrap
+      - Standard Gift Wrap
+      - Premium Gift Wrap
+      required: true
+    - id: 15
+      name: order_total
+      label: Estimated Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Cash
+      required: true

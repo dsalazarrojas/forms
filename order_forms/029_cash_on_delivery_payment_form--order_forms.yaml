@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash On Delivery Payment Form
+    pages:
+    - id: 1
+      name: order_information_section
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_information_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address_section
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_zip
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: order_details_section
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: item_description
+      label: Item Description
+      hint: What is being ordered
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: subtotal
+      label: Subtotal
+      hint: Quantity x Unit Price
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_details_section
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Cash payment expected at delivery
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: delivery_section
+      label: -- Delivery Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: Gate codes, preferred times, etc.
+      type: text
+      options: []
+      required: false

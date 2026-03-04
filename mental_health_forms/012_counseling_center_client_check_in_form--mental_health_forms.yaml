@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Center Client Check In Form
+    pages:
+    - id: 1
+      name: client_check_in
+      label: Client Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_multiple
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      required: false
+    - id: 12
+      name: check_in_location
+      label: Check In Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: check_in_status
+      label: Check In Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Partial
+      - Missed
+      required: false
+    - id: 14
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Canceled
+      required: false
+    - id: 15
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_type
+      label: Session Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_step
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Continue with Session
+      - Follow up with Client
+      - Discharge Client
+      required: false

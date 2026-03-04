@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydraulic System Monitoring Log Form
+    pages:
+    - id: 1
+      name: hydraulic_system_monitoring_log_form
+      label: hydraulic_system_monitoring_log_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_id
+      label: team_id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hydraulic_unit_id
+      label: hydraulic_unit_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hydraulic_unit_location
+      label: hydraulic_unit_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter_id
+      label: submitter_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: team_member_id
+      label: team_member_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: equipment_status_id
+      label: equipment_status_id
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: hydraulic_system_status_id
+      label: hydraulic_system_status_id
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: hydraulic_system_notes
+      label: hydraulic_system_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: hydraulic_system_monitoring_log_form_submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

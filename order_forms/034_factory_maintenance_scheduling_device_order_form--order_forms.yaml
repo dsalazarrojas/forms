@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Maintenance Scheduling Device Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Factory Maintenance Scheduling Device Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: factory_name
+      label: Factory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: schedule_day
+      label: Schedule Day
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: note
+      options: []
+      required: false

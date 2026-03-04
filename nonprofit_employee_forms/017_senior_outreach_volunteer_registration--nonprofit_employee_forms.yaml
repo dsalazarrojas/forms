@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Outreach Volunteer Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interest_areas
+      label: Interest Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Outreach
+      - Senior Services
+      - Other
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything else you'd like to share about your volunteer experience
+        or interests?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - One-time
+      - Ongoing
+      required: true

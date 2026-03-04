@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Worker Onboarding Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Worker Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Assigned Employee ID
+      hint: Provided by HR
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assigned_district
+      label: Assigned District or Neighborhood
+      hint: Primary area of service
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_email
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: training_modules
+      label: Completion of Mandatory Training Modules
+      hint: Select all completed modules
+      type: select_multiple
+      options:
+      - Introduction to Public Health
+      - Ethics and Patient Privacy (HIPAA)
+      - Field Safety Protocols
+      - Incident Reporting Tools
+      - Community Outreach Strategies
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Reporting Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: conduct_agreement
+      label: I agree to follow the Worker Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 13
+      name: hire_date
+      label: Official Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: true

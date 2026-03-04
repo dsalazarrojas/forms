@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bi Fold Door Order Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name (if applicable)
+      hint: Business or contractor name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_project
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name or Address
+      hint: Location or project identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: What is this for?
+      type: select_one
+      options:
+      - Residential construction
+      - Commercial construction
+      - Renovation/remodeling
+      - Replacement doors
+      - Custom project
+      - Showroom
+      - Other
+      required: true
+    - id: 9
+      name: project_timeline
+      label: Project Timeline
+      hint: When do you need the doors?
+      type: select_one
+      options:
+      - Immediately
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-2 months
+      - 2-3 months
+      - 3+ months
+      - Flexible
+      required: true
+    - id: 10
+      name: section_header_door_specs
+      label: -- Door Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: door_quantity
+      label: Number of Doors Needed
+      hint: How many bi-fold doors?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: door_width
+      label: Door Width
+      hint: Width in inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: door_height
+      label: Door Height
+      hint: Height in inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: door_depth
+      label: Door Depth or Frame Thickness
+      hint: Depth in inches
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: panel_configuration
+      label: Panel Configuration
+      hint: How many panels per door?
+      type: select_one
+      options:
+      - 2 panels
+      - 3 panels
+      - 4 panels
+      - 6 panels
+      - Custom configuration
+      required: true
+    - id: 16
+      name: section_header_materials
+      label: -- Material Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: door_material
+      label: Door Material
+      hint: What material for the door?
+      type: select_one
+      options:
+      - Wood
+      - Steel
+      - Aluminum
+      - Vinyl
+      - Glass
+      - Composite
+      - Laminate
+      - Custom material
+      required: true
+    - id: 18
+      name: frame_material
+      label: Frame Material
+      hint: What about the frame?
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Aluminum
+      - Steel
+      - Composite
+      - Custom
+      required: true
+    - id: 19
+      name: finish_type
+      label: Finish Type
+      hint: How should it be finished?
+      type: select_one
+      options:
+      - Natural wood stain
+      - Painted finish
+      - Powder coat
+      - Polished
+      - Matte finish
+      - Custom finish
+      - No finish needed
+      required: true
+    - id: 20
+      name: color_selection
+      label: Color Selection
+      hint: Specific color or shade
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_features
+      label: -- Features and Hardware --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: glass_option
+      label: Glass or Window Option
+      hint: null
+      type: select_one
+      options:
+      - Clear glass panels
+      - Frosted glass
+      - No glass - solid
+      - Partial glass
+      - Custom glass type
+      required: true
+    - id: 23
+      name: hardware_finish
+      label: Hardware Finish
+      hint: Chrome, brass, stainless, etc.
+      type: select_one
+      options:
+      - Chrome
+      - Brass
+      - Stainless steel
+      - Matte black
+      - Brushed nickel
+      - Custom
+      - Standard included
+      required: true
+    - id: 24
+      name: locking_mechanism
+      label: Locking Mechanism
+      hint: Type of lock needed
+      type: select_one
+      options:
+      - Basic push-to-close
+      - Magnetic latch
+      - Lock and key
+      - Electronic lock
+      - No lock needed
+      - Custom option
+      required: true
+    - id: 25
+      name: soft_close
+      label: Soft Close Feature
+      hint: Smooth closing mechanism?
+      type: select_one
+      options:
+      - Yes, soft close required
+      - No, standard close okay
+      - Undecided
+      required: true
+    - id: 26
+      name: section_header_installation
+      label: -- Installation and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: installation_needed
+      label: Installation Service Needed
+      hint: Do you need professional installation?
+      type: select_one
+      options:
+      - Yes, full installation service
+      - Partial installation support
+      - No, customer will install
+      - Not sure
+      required: true
+    - id: 28
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should doors be shipped?
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: delivery_method
+      label: Delivery Method
+      hint: How should doors be delivered?
+      type: select_one
+      options:
+      - Standard ground shipping
+      - Expedited shipping
+      - Freight shipping
+      - Local pickup
+      - Will arrange
+      required: true
+    - id: 30
+      name: section_header_budget
+      label: -- Budget and Quotes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: budget_range
+      label: Budget Range
+      hint: Your total budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      - Flexible
+      required: true
+    - id: 32
+      name: special_requirements
+      label: Special Requirements or Custom Options
+      hint: Any unique specifications?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

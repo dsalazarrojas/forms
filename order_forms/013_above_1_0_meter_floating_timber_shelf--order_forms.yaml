@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Above 1.0 Meter Floating Timber Shelf
+    pages:
+    - id: 1
+      name: section_header_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery address
+      hint: Street address, city, state, postcode
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_shelf_specs
+      label: -- Shelf Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shelf_length
+      label: Shelf length in meters
+      hint: Must be above 1.0 meter
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: shelf_depth
+      label: Shelf depth in centimeters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: shelf_thickness
+      label: Shelf thickness
+      hint: null
+      type: select_one
+      options:
+      - 25mm
+      - 30mm
+      - 40mm
+      - 50mm
+      required: true
+    - id: 10
+      name: timber_type
+      label: Timber type
+      hint: null
+      type: select_one
+      options:
+      - Oak
+      - Walnut
+      - Pine
+      - Maple
+      - Recycled timber
+      - Custom (specify in notes)
+      required: true
+    - id: 11
+      name: finish_type
+      label: Finish type
+      hint: null
+      type: select_one
+      options:
+      - Natural oil
+      - Matte lacquer
+      - Gloss lacquer
+      - Raw or unfinished
+      - Stained
+      required: true
+    - id: 12
+      name: edge_profile
+      label: Edge profile
+      hint: null
+      type: select_one
+      options:
+      - Square edge
+      - Rounded edge
+      - Beveled edge
+      - Live edge
+      required: true
+    - id: 13
+      name: quantity
+      label: Number of shelves
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_installation
+      label: -- Installation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: wall_type
+      label: Wall type where shelves will be installed
+      hint: null
+      type: select_one
+      options:
+      - Brick
+      - Plasterboard or drywall
+      - Concrete
+      - Timber stud
+      - Not sure
+      required: true
+    - id: 16
+      name: installation_required
+      label: Do you require professional installation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - No - self install
+      required: true
+    - id: 17
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special instructions or custom requests
+      hint: null
+      type: text
+      options: []
+      required: false

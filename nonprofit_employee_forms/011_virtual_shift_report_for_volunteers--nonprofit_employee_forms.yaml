@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Shift Report For Volunteers
+    pages:
+    - id: 1
+      name: volunteer_shift_report
+      label: Volunteer Shift Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_shift_hours_worked
+      label: Volunteer Shift Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_shift_report_comments
+      label: Volunteer Shift Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nonprofit_employee_id
+      label: Nonprofit Employee
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_organizations
+      label: Volunteer Organizations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: shift_start_date
+      label: Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_shift_report_frequency
+      label: Volunteer Shift Report Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: nonprofit_employee_id
+      label: Nonprofit Employee
+      hint: null
+      type: text
+      options: []
+      required: false

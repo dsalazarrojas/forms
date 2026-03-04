@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Akp Member Register
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Member Personal Details --
+      hint: Strictly for AKP - KSSC ONLY
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: residential_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_membership
+      label: -- Membership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: membership_category
+      label: Membership Category
+      hint: null
+      type: select_one
+      options:
+      - Regular Member
+      - Student Member
+      - Senior Member
+      - Corporate/Group Member
+      - Honorary Member
+      required: true
+    - id: 11
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: previous_membership_id
+      label: Previous Membership ID (if renewal)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: primary_interest_activity
+      label: Primary Interest or Activity
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Social Events
+      - Training/Workshops
+      - Community Service
+      - Professional Networking
+      required: true
+    - id: 14
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: data_consent
+      label: I consent to AKP-KSSC storing my data for membership purposes
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

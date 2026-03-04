@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_initiative_petition_form
+    pages:
+    - id: 1
+      name: petition_name
+      label: Petition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_count
+      label: Number of Signatures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: petition_type
+      label: Petition Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false

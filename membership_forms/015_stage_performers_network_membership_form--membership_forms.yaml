@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Performers Network Membership Form
+    pages:
+    - id: 1
+      name: performer_details
+      label: Performer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performance_history
+      label: Performance History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: membership
+      label: Membership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''save'', ''label'': ''Save'', ''type'': ''action''}'
+      - Other
+      required: true
+    - id: 5
+      name: save_and_submit
+      label: Save and Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''save_and_submit'', ''label'': ''Save and Submit'',
+        ''type'': ''action''}'
+      - Other
+      required: false

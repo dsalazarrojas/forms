@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Cooperative Member Information Form
+    pages:
+    - id: 1
+      name: member_details_header
+      label: -- Member Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: Individual or Business Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_type
+      label: Membership Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Individual Farmer
+      - Partnership
+      - Corporation
+      - LLC
+      required: true
+    - id: 4
+      name: farm_name
+      label: Farm Name
+      hint: If different from member name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Primary Contact Person
+      hint: Who should we call?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: For newsletters and alerts
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: farm_stats_header
+      label: -- Farm Statistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_production
+      label: Primary Production
+      hint: Main source of income
+      type: select_one
+      options:
+      - Grain
+      - Dairy
+      - Beef
+      - Pork
+      - Poultry
+      - Vegetables
+      - Fruit
+      required: true
+    - id: 11
+      name: total_acreage
+      label: Total Acreage
+      hint: Owned and leased
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: livestock_count
+      label: Livestock Head Count
+      hint: Approximate number (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: years_farming
+      label: Years Farming
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: coop_services_header
+      label: -- Cooperative Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: services_interest
+      label: Services Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Marketing / Sales
+      - Supply Purchasing
+      - Financing / Credit
+      - Agronomy Consulting
+      - Storage / Drying
+      required: true
+    - id: 16
+      name: voting_delegate
+      label: Voting Delegate Name
+      hint: Who will vote at meetings?
+      type: text
+      options: []
+      required: true

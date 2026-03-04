@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: glass_album_order_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: album_type
+      label: Album Type
+      hint: null
+      type: select_one
+      options:
+      - Glass
+      - Leather
+      - Plastic
+      required: false
+    - id: 3
+      name: album_size
+      label: Album Size
+      hint: null
+      type: select_multiple
+      options:
+      - 8x10
+      - 8x12
+      - 10x10
+      - 12x12
+      required: false
+    - id: 4
+      name: album_pages
+      label: Album Pages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: album_orientation
+      label: Album Orientation
+      hint: Portrait or Landscape
+      type: select_one
+      options:
+      - Portrait
+      - Landscape
+      required: false
+    - id: 6
+      name: album_coverage
+      label: Album Coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: album_cover_type
+      label: Album Cover Type
+      hint: null
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Matte/Glossy
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 15
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree One Time Payment Template
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Customer first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Customer last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For receipt and communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_payment
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: Total amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_description
+      label: Payment Description
+      hint: What is being paid for
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_items
+      label: -- Order Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: item_description
+      label: Item or Service Description
+      hint: What you are purchasing
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: How many units
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_billing
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: street_address
+      label: Street Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state_province
+      label: State or Province
+      hint: State or province code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_confirmation
+      label: -- Payment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_confirmation
+      label: I authorize this payment
+      hint: Check to proceed with payment
+      type: select_one
+      options:
+      - I authorize payment
+      - Cancel payment
+      required: true

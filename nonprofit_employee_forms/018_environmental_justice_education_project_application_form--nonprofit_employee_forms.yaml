@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Justice Education Project Application Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_or_nonprofit
+      label: School or Nonprofit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: application_form
+      label: Application Form
+      hint: null
+      type: select_one
+      options:
+      - Application Form 1
+      - Application Form 2
+      - Application Form 3
+      required: false
+    - id: 7
+      name: date_applied
+      label: Date Applied
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_applied
+      label: Time Applied
+      hint: null
+      type: time
+      options: []
+      required: false

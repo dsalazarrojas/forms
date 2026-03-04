@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finance Professionals Membership Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non-Member
+      - Both
+      required: true
+    - id: 6
+      name: form_profession
+      label: Profession
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Analyst
+      - Financial Advisor
+      - Financial Consultant
+      required: true
+    - id: 7
+      name: form_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

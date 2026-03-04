@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clan Membership Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Real name for verification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: City or Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gaming_profile_header
+      label: -- Gaming Profile Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: gaming_username
+      label: Primary Gaming Username
+      hint: In-game name or handle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: gaming_platforms
+      label: Gaming Platforms You Use - select all
+      hint: null
+      type: select_multiple
+      options:
+      - PC
+      - PlayStation
+      - Xbox
+      - Nintendo Switch
+      - Mobile
+      - VR headset
+      - Other
+      required: true
+    - id: 10
+      name: favorite_games
+      label: Favorite Games
+      hint: List your top 3 games
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gaming_experience
+      label: Years of Gaming Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 12
+      name: skill_level
+      label: Gaming Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Casual
+      - Intermediate
+      - Advanced
+      - Competitive/Professional
+      required: true
+    - id: 13
+      name: clan_experience_header
+      label: -- Clan and Team Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: clan_experience
+      label: Previous clan or team experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: clan_roles
+      label: Roles you have held in clans or teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: leadership_interest
+      label: Interest in leadership roles
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: false
+    - id: 17
+      name: availability_header
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: hours_per_week
+      label: Average hours per week available for gaming
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: availability_times
+      label: Best times to play
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: communication_header
+      label: -- Communication and Conduct --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: voice_chat
+      label: Comfortable with voice chat communications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: true
+    - id: 23
+      name: conduct_agreement
+      label: I agree to follow clan code of conduct and sportsmanship rules
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 24
+      name: motivation
+      label: Why do you want to join this clan
+      hint: null
+      type: text
+      options: []
+      required: true

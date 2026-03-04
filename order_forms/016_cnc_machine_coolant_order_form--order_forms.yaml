@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Machine Coolant Order Form
+    pages:
+    - id: 1
+      name: orderer_name
+      label: Orderer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: coolant_type
+      label: Coolant Type
+      hint: Select coolant specification
+      type: select_one
+      options:
+      - Synthetic Coolant
+      - Semi-Synthetic Coolant
+      - Soluble Oil
+      - Straight Oil
+      - Water-Soluble Coolant
+      - High-Performance Coolant
+      - Other
+      required: true
+    - id: 11
+      name: coolant_brand
+      label: Coolant Brand
+      hint: Preferred manufacturer
+      type: select_one
+      options:
+      - Master Chemical
+      - Blaser Swisslube
+      - Houghton
+      - Castrol
+      - Mobil
+      - Cimcool
+      - No Preference
+      - Other
+      required: true
+    - id: 12
+      name: container_size
+      label: Container Size
+      hint: Package size needed
+      type: select_one
+      options:
+      - 1 Gallon
+      - 5 Gallon Pail
+      - 15 Gallon Drum
+      - 30 Gallon Drum
+      - 55 Gallon Drum
+      - 275 Gallon Tote
+      - Bulk Delivery
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: Number of containers
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: concentration_ratio
+      label: Concentration Ratio
+      hint: If you have specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: machine_compatibility
+      label: Machine Compatibility
+      hint: What machines will use this
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: application_type
+      label: Application Type
+      hint: How will coolant be used
+      type: select_multiple
+      options:
+      - Milling
+      - Turning
+      - Grinding
+      - Drilling
+      - Tapping
+      - Threading
+      - General Machining
+      required: true
+    - id: 17
+      name: material_machined
+      label: Materials Being Machined
+      hint: What materials you cut
+      type: select_multiple
+      options:
+      - Steel
+      - Stainless Steel
+      - Aluminum
+      - Cast Iron
+      - Titanium
+      - Brass
+      - Copper
+      - Plastics
+      - Composites
+      required: true
+    - id: 18
+      name: delivery_urgency
+      label: Delivery Urgency
+      hint: How soon do you need it
+      type: select_one
+      options:
+      - Rush - Within 24 Hours
+      - Urgent - Within 3 Days
+      - Standard - Within 1 Week
+      - Flexible - Within 2 Weeks
+      required: true
+    - id: 19
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When should we deliver
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Purchase Order
+      - Credit Card
+      - Company Account
+      - Invoice
+      - Wire Transfer
+      required: true
+    - id: 21
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Delivery notes or requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

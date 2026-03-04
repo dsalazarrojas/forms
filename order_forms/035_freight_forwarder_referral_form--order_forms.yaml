@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Forwarder Referral Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipper_reference_id
+      label: Shipper Reference Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_reference_id
+      label: Business Reference Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_contact_name
+      label: Business Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Shipper
+      - Forwarder
+      - Brokerage
+      required: false
+    - id: 15
+      name: terms
+      label: I have read and agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

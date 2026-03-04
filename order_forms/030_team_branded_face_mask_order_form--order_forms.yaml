@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Branded Face Mask Order Form
+    pages:
+    - id: 1
+      name: masked
+      label: Masked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Individual
+      required: false
+    - id: 13
+      name: order_type2
+      label: Order Type2
+      hint: null
+      type: select_multiple
+      options:
+      - Team
+      - Individual
+      required: false
+    - id: 14
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false

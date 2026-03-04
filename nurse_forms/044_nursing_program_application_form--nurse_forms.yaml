@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Program Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_history
+      label: Education History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: professional_certifications
+      label: Professional Certifications
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Certified LPN'', ''label'': ''Certified LPN'', ''value'':
+        ''LPN''}'
+      - '{''id'': 2, ''name'': ''Certified RN'', ''label'': ''Certified RN'', ''value'':
+        ''RN''}'
+      - '{''id'': 3, ''name'': ''Certified RN to BSN'', ''label'': ''Certified RN
+        to BSN'', ''value'': ''RN to BSN''}'
+      required: false
+    - id: 5
+      name: personal_statement
+      label: Personal Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Reference 1'', ''label'': ''Reference 1'', ''value'':
+        ''''}'
+      - '{''id'': 2, ''name'': ''Reference 2'', ''label'': ''Reference 2'', ''value'':
+        ''''}'
+      - '{''id'': 3, ''name'': ''Reference 3'', ''label'': ''Reference 3'', ''value'':
+        ''''}'
+      required: false

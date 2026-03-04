@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Safety Harness Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_description
+      label: Order Description
+      hint: Please enter a brief description of the order.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_equipment_type
+      label: Safety Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Harness
+      - Helmet
+      - Glove
+      required: false
+    - id: 7
+      name: quantity_of_equipment_ordered
+      label: Quantity of Equipment Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false

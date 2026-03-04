@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Designer Onboarding Form
+    pages:
+    - id: 1
+      name: employee_information_section
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your assigned employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: Your first day of work
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: department_team
+      label: Department Team
+      hint: Which department/team will you be working in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_information_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: personal_email
+      label: Personal Email
+      hint: Your personal email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: design_tools_proficiency_section
+      label: -- Design Tools Proficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: adobe_creative_suite_proficiency
+      label: Adobe Creative Suite Proficiency
+      hint: Rate your proficiency with Adobe Creative Suite
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: other_design_software
+      label: Other Design Software
+      hint: What other design software are you proficient in
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: design_specializations
+      label: Design Specializations
+      hint: What are your design specializations
+      type: select_multiple
+      options:
+      - Brand Identity
+      - Print Design
+      - Digital Design
+      - Web Design
+      - Motion Graphics
+      - UI/UX
+      - Typography
+      - Illustration
+      - Photography
+      required: true
+    - id: 15
+      name: work_setup_preferences_section
+      label: -- Work Setup Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: hardware_requirements
+      label: Hardware Requirements
+      hint: What hardware do you need for your design work
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: software_licensing_needs
+      label: Software Licensing Needs
+      hint: What software licenses do you need
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: workspace_preferences
+      label: Workspace Preferences
+      hint: What are your workspace preferences
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: onboarding_tasks_section
+      label: -- Onboarding Tasks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: initial_project_expectations
+      label: Initial Project Expectations
+      hint: What type of projects do you expect to work on initially
+      type: text
+      options: []
+      required: true

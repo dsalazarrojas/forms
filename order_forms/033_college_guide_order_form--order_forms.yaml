@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Guide Order Form
+    pages:
+    - id: 1
+      name: orderer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: orderer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: orderer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: Parent, student, counselor, etc.
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - School Counselor
+      - Educator
+      - Other
+      required: true
+    - id: 5
+      name: guide_type
+      label: Which College Guide Are You Ordering
+      hint: null
+      type: select_one
+      options:
+      - General College Guide
+      - Engineering Schools Guide
+      - Business Schools Guide
+      - Liberal Arts Colleges Guide
+      - Community Colleges Guide
+      - Online Programs Guide
+      - International Universities Guide
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity Ordered
+      hint: Number of guides
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: guide_format
+      label: Guide Format
+      hint: null
+      type: select_one
+      options:
+      - Print Copy
+      - Digital PDF
+      - Both Print and Digital
+      required: true
+    - id: 8
+      name: price_per_guide
+      label: Price Per Guide
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: Where should guides be sent
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Mail (5-7 business days)
+      - Expedited Mail (2-3 business days)
+      - Overnight Shipping
+      - Local Pickup
+      required: true
+    - id: 16
+      name: billing_same_as_shipping
+      label: Billing Address Same As Shipping Address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: billing_address
+      label: Billing Address - if different
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Money Order
+      required: true
+    - id: 21
+      name: student_interests
+      label: Student Academic Interests
+      hint: What subjects or fields interest you
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: college_preferences
+      label: College Size Preference
+      hint: null
+      type: select_one
+      options:
+      - Small (under 5000 students)
+      - Medium (5000-15000 students)
+      - Large (15000+ students)
+      - No Preference
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any special handling or notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agree_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

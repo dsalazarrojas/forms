@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Awards Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Full Name
+      hint: Person submitting the report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporting_year
+      label: Reporting Year
+      hint: Which year is this report for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      - Other
+      required: true
+    - id: 6
+      name: award_program_name
+      label: Award Program Name
+      hint: Official name of the awards program
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: award_categories
+      label: Award Categories
+      hint: Select all categories that had awards
+      type: select_multiple
+      options:
+      - Employee of the Year
+      - Team Excellence
+      - Innovation
+      - Leadership
+      - Customer Service
+      - Sales Achievement
+      - Community Impact
+      - Diversity and Inclusion
+      - Sustainability
+      - Lifetime Achievement
+      - Rising Star
+      - Other
+      required: true
+    - id: 8
+      name: total_awards_given
+      label: Total Awards Given
+      hint: Number of awards presented
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_nominees
+      label: Total Nominees
+      hint: Number of individuals or teams nominated
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: selection_process
+      label: Selection Process
+      hint: How were winners selected?
+      type: select_one
+      options:
+      - Committee Vote
+      - Peer Voting
+      - Management Decision
+      - Public Voting
+      - Combination
+      - Other
+      required: true
+    - id: 11
+      name: committee_members
+      label: Committee Members
+      hint: List key committee members
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: award_ceremony_date
+      label: Award Ceremony Date
+      hint: When were awards presented?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: ceremony_attendance
+      label: Ceremony Attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: ceremony_venue
+      label: Ceremony Venue
+      hint: Where was the ceremony held?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_allocated
+      label: Budget Allocated
+      hint: Total budget for awards program
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: budget_spent
+      label: Budget Spent
+      hint: Actual amount spent
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: award_prizes
+      label: Types of Awards Given
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Trophy
+      - Plaque
+      - Certificate
+      - Cash Prize
+      - Gift Card
+      - Additional Time Off
+      - Professional Development
+      - Public Recognition
+      - Other
+      required: true
+    - id: 18
+      name: winner_names
+      label: Winners List
+      hint: Attach or list all winners
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: success_metrics
+      label: Success Metrics
+      hint: How was success measured?
+      type: select_multiple
+      options:
+      - Attendance Numbers
+      - Participant Feedback
+      - Employee Engagement
+      - Media Coverage
+      - Social Media Reach
+      - Nomination Quality
+      - Other
+      required: false
+    - id: 20
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges occurred?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What would you do differently?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendations
+      label: Recommendations for Next Year
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any attached documentation
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_status
+      label: Report Status
+      hint: Current status of this report
+      type: select_one
+      options:
+      - Draft
+      - Final
+      - Under Review
+      - Approved
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Officer Registration
+    pages:
+    - id: 1
+      name: regional_officer_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''North'', ''label'': ''North''}'
+      - '{''name'': ''South'', ''label'': ''South''}'
+      - '{''name'': ''East'', ''label'': ''East''}'
+      - '{''name'': ''West'', ''label'': ''West''}'
+      required: false
+    - id: 3
+      name: region_role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Chairperson'', ''label'': ''Chairperson''}'
+      - '{''name'': ''Vice-Chairperson'', ''label'': ''Vice-Chairperson''}'
+      - '{''name'': ''Member'', ''label'': ''Member''}'
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: region_assignment_date
+      label: Region Assignment Date
+      hint: Enter region assignment date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agree_terms
+      label: Agree Terms and Conditions
+      hint: Please agree to our terms and conditions
+      type: select_one
+      options:
+      - '{''label'': ''Agree'', ''name'': ''agree_terms''}'
+      - '{''label'': ''Disagree'', ''name'': ''disagree_terms''}'
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: agreement_to_terms
+      label: Agreement to Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: region_name
+      label: Region Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: agreement2
+      label: Agreement 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: agreement3
+      label: Agreement 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: agreement4
+      label: Agreement 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: agreement5
+      label: Agreement 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: agreement6
+      label: Agreement 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: agreement7
+      label: Agreement 7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: agreement8
+      label: Agreement 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: agreement9
+      label: Agreement 9
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: agreement10
+      label: Agreement 10
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: agreement11
+      label: Agreement 11
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: agreement12
+      label: Agreement 12
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

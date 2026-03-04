@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Outreach Volunteer Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: Tell us about yourself
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: volunteer_interests
+      label: Volunteer Interests
+      hint: What areas interest you
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interest_areas
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Youth Programs
+      - Senior Services
+      - Food Distribution
+      - Event Planning
+      - Administrative Support
+      - Marketing and Communications
+      - Fundraising
+      - Tutoring and Education
+      - Healthcare Support
+      - Environmental Projects
+      - Animal Welfare
+      - Homeless Services
+      required: true
+    - id: 13
+      name: skills
+      label: Skills and Talents
+      hint: What can you contribute
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: languages
+      label: Languages Spoken
+      hint: Besides English
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: availability
+      label: Availability
+      hint: When can you volunteer
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: availability_days
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 17
+      name: availability_time
+      label: Available Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      required: true
+    - id: 18
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: null
+      type: select_one
+      options:
+      - 1-5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20+ hours
+      - Flexible
+      required: true
+    - id: 19
+      name: start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: background
+      label: Background Information
+      hint: Tell us more about you
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Describe past volunteer work
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: motivation
+      label: Why Do You Want to Volunteer
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: background_check
+      label: Willing to Undergo Background Check
+      hint: Required for certain positions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Public Transportation
+      required: true
+    - id: 25
+      name: references
+      label: Provide One Reference Name and Contact
+      hint: Name, relationship, phone or email
+      type: text
+      options: []
+      required: true

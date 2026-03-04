@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Educational Tool Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_id
+      label: select_tool
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - submitted_by_1
+      - submitted_by_2
+      required: false
+    - id: 11
+      name: submitted_by_2
+      label: submitted_by_2
+      hint: null
+      type: select_multiple
+      options:
+      - submitted_by_2_1
+      - submitted_by_2_2
+      required: false
+    - id: 12
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_one
+      options:
+      - tool_type_1
+      - tool_type_2
+      required: false
+    - id: 15
+      name: tool_status
+      label: tool_status
+      hint: null
+      type: select_one
+      options:
+      - tool_status_1
+      - tool_status_2
+      required: false
+    - id: 16
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_multiple
+      options:
+      - submitter_1
+      - submitter_2
+      required: false
+    - id: 17
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: tool_name
+      label: tool_name
+      hint: null
+      type: select_one
+      options:
+      - tool_name_1
+      - tool_name_2
+      required: false
+    - id: 22
+      name: tool_description
+      label: tool_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tool_price
+      label: tool_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: tool_quantity
+      label: tool_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: select_one
+      options:
+      - submitter_department_1
+      - submitter_department_2
+      required: false
+    - id: 27
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 28
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: submitter_jobtitle
+      label: submitter_jobtitle
+      hint: null
+      type: text
+      options: []
+      required: false

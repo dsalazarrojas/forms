@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_referral_form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_professional
+      label: mental_health_professional
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Psychologist''}'
+      - '{''value'': 2, ''text'': ''Therapist''}'
+      - '{''value'': 3, ''text'': ''Counselor''}'
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: required_fields
+      label: Required fields are marked with a red *
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

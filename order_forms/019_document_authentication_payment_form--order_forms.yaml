@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: document-authentication-payment-form
+    pages:
+    - id: 1
+      name: payment_information
+      label: payment information
+      hint: Enter payment details for document authentication services
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_information
+      label: document information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      required: false
+    - id: 4
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: currency
+      label: currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false

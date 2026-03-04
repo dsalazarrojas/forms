@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street SPRING 2021 PRE ORDER - Flawless Nails With Jen
+    pages:
+    - id: 1
+      name: section_jen_spring
+      label: -- Flawless Nails With Jen - Spring 2021 Pre-Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: jen_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: jen_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: jen_shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_spring_selections
+      label: -- Select Your Spring Sets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: spring_solids_2021
+      label: Spring Solids Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Himalayan Salt
+      - Mint to Be
+      - Lavender Skies
+      - Sunflower Gold
+      required: false
+    - id: 7
+      name: spring_glitters_2021
+      label: Spring Glitters Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Pink Peony
+      - Robin's Egg
+      - Spring Fling
+      - Dew Drops
+      required: false
+    - id: 8
+      name: spring_designs_2021
+      label: Spring Design Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Butterfly Garden
+      - Rain Showers
+      - April Blossoms
+      - Pastel Picnic
+      required: false
+    - id: 9
+      name: section_jen_order_math
+      label: -- Order Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: jen_b3g1_promo
+      label: Are you participating in the B3G1 Promotion?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: jen_total_sets
+      label: Total Sets Pre-Ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_jen_checkout
+      label: -- Checkout and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: jen_payment_handle
+      label: Payment Method and Handle
+      hint: e.g., Venmo @User
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: jen_shipping_speed
+      label: Shipping Option
+      hint: null
+      type: select_one
+      options:
+      - Standard ($4.00)
+      - Priority ($8.00)
+      - Local Pick-up (Free)
+      required: true
+    - id: 15
+      name: jen_hostess_name
+      label: Hostess Name (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: jen_extra_comments
+      label: Message for Jen
+      hint: null
+      type: text
+      options: []
+      required: false

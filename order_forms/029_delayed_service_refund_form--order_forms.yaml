@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delayed Service Refund Form
+    pages:
+    - id: 1
+      name: delayed_service_refund_form
+      label: delayed_service_refund_form
+      hint: Select the status of the service
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      - In Progress
+      required: false
+    - id: 2
+      name: service_details
+      label: service_details
+      hint: Enter a brief description of the service that was not delivered on time
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: Enter the customer's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: Enter the customer's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_number
+      label: order_number
+      hint: Enter the order number
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: amount_refunded
+      label: amount_refunded
+      hint: Enter the amount that was refunded to the customer
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: business_name
+      hint: Enter the name of the business that did not deliver the service on time
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_email
+      label: business_email
+      hint: Enter the email address of the business that did not deliver the service
+        on time
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: business_phone
+      label: business_phone
+      hint: Enter the phone number of the business that did not deliver the service
+        on time
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_comments
+      label: customer_comments
+      hint: Enter any comments from the customer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_agreement
+      label: customer_agreement
+      hint: Enter the customer agreement to the refund terms
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_comments
+      label: business_comments
+      hint: Enter any comments from the business
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_refund_status
+      label: customer_refund_status
+      hint: Enter customer refund status
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_refund_status
+      label: business_refund_status
+      hint: Enter business refund status
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resolution
+      label: resolution
+      hint: Enter the resolution of the issue
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: Enter follow up actions to be taken
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_steps
+      label: next_steps
+      hint: Enter next steps to be taken
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_signature
+      label: customer_signature
+      hint: Select the customer signature status
+      type: select_multiple
+      options:
+      - Signed
+      - Unsigned
+      required: false
+    - id: 19
+      name: business_signature
+      label: business_signature
+      hint: Select the business signature status
+      type: select_multiple
+      options:
+      - Signed
+      - Unsigned
+      required: false

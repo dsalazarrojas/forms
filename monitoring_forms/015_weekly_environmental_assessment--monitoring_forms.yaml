@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Environmental Assessment
+    pages:
+    - id: 1
+      name: site_conditions
+      label: Site Conditions
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: hazards
+      label: Hazards
+      hint: List any hazards present
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: false
+    - id: 3
+      name: sustainability_metrics
+      label: Sustainability Metrics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sustainability_score
+      label: Sustainability Score
+      hint: Enter your sustainability score
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: site_visitation
+      label: Site Visitation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false

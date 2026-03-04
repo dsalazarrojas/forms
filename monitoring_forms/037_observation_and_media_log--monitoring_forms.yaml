@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Observation And Media Log
+    pages:
+    - id: 1
+      name: observation_page
+      label: Observation Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_page
+      label: Media Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_page
+      label: Submission Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media_upload_page
+      label: Media Upload Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: observation_details
+      label: Observation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Video''}'
+      - '{''text'': ''Image''}'
+      - '{''text'': ''Audio''}'
+      - '{''text'': ''Document''}'
+      required: false
+    - id: 7
+      name: media_url
+      label: Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: media_upload
+      label: Media Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: observer
+      label: Observer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

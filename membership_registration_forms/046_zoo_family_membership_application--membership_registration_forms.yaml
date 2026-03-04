@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Family Membership Application
+    pages:
+    - id: 1
+      name: package_selection
+      label: Package Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Membership Package 1
+      - Membership Package 2
+      - Membership Package 3
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: household_members
+      label: Household Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date_2
+      label: Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

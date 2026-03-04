@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Bottle Donation Request Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: water_requests
+      label: Water Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pickup_date_time
+      label: Pickup Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: assigned_to_phone
+      label: Assigned To (Phone)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to_email
+      label: Assigned To (Email)
+      hint: null
+      type: email
+      options: []
+      required: false

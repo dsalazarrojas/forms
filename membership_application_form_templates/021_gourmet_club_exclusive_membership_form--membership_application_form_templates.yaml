@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gourmet Club Exclusive Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: Individual or Club Membership
+      type: select_one
+      options:
+      - Individual
+      - Club Membership
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cuisine_preferred
+      label: Cuisine Preferred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: join_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false

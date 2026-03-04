@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ada Bible Church Donation Form Paypal Standard
+    pages:
+    - id: 1
+      name: donor_information
+      label: Donor information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Full name for receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_designation
+      label: Donation designation
+      hint: e g general fund missions building fund
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Paypal is default but other options possible
+      type: select_one
+      options:
+      - PayPal
+      - Credit card
+      - Bank transfer
+      required: true
+    - id: 7
+      name: recurring_gift
+      label: Set up recurring gift
+      hint: Choose frequency if recurring
+      type: select_one
+      options:
+      - One time
+      - Weekly
+      - Monthly
+      - Annually
+      required: true
+    - id: 8
+      name: address_for_receipt
+      label: Address for tax receipt
+      hint: Required for tax deductible receipts
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: anonymous_gift
+      label: Make gift anonymous
+      hint: Choose if you do not want name published
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any instructions or message to church
+      type: text
+      options: []
+      required: false

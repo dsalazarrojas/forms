@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: recycling_bins_requisition_form
+    pages:
+    - id: 1
+      name: form_location
+      label: Form location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Bin
+      - Bin
+      - Bin
+      - Bin
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: bin_details
+      label: Bin Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchasing Department Material Requisition Form
+    pages:
+    - id: 1
+      name: material_type
+      label: Material Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_description
+      label: Material Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_cost
+      label: Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: Select from the following options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: approver
+      label: Approver
+      hint: Select from the following options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: requisitioner
+      label: Requisitor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_ordered
+      label: Date Ordered
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_ordered
+      label: Time Ordered
+      hint: 24-hour time format
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional comments about this requisition.
+      type: note
+      options: []
+      required: false

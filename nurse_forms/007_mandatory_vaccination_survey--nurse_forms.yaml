@@ -1,0 +1,155 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: mandatory_vaccination_survey
+    pages:
+    - id: 1
+      name: patient_survey
+      label: Patient Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccination_history
+      label: Vaccination History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 4
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vaccination_dose
+      label: Vaccination Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_notes
+      label: Vaccination Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_doctor
+      label: Vaccination Doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: next_vaccination
+      label: Next Vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_reminders
+      label: Vaccination Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - Send Reminders
+      - Don't Send Reminders
+      required: true
+    - id: 10
+      name: survey_complete
+      label: Survey Complete
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: true
+    - id: 11
+      name: survey_notes
+      label: Survey Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_review
+      label: Survey Review
+      hint: null
+      type: select_multiple
+      options:
+      - Review by Nurse
+      - Review by Doctor
+      - Review by Both
+      required: true
+    - id: 13
+      name: survey_signature
+      label: Survey Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_review_date
+      label: Survey Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: survey_completed_by
+      label: Survey Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: survey_completed_date
+      label: Survey Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: select_one
+      options:
+      - Hepatitis A
+      - Hepatitis B
+      - Hepatitis C
+      required: true

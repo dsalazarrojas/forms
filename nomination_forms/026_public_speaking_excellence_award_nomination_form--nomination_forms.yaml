@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Speaking Excellence Award Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nomination_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nomination_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nomination_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nomination_form_speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nomination_form_speaker_title
+      label: Speaker Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_form_event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nomination_form_event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: nomination_form_event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: nomination_form_speaker_type
+      label: Speaker Type
+      hint: null
+      type: select_one
+      options:
+      - '- Student
+
+        - Teacher
+
+        - Other'
+      - Other
+      required: true
+    - id: 11
+      name: nomination_form_speaker_bio
+      label: Speaker Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: nomination_form_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: nomination_form_speaker_link
+      label: Speaker Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: nomination_form_nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nomination_form_nominator_title
+      label: Nominator Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: nomination_form_nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nomination_form_nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: nomination_form_nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: nomination_form_speaker_agreement
+      label: Speaker Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: submission_agreement
+      label: Submission Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: submission_terms
+      label: Submission Terms
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: submission_acknowledgments
+      label: Submission Acknowledgments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: submission_agreement_signed
+      label: Submission Agreement Signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: back_to_top
+      label: Back to Top
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Returning User Registration
+    pages:
+    - id: 1
+      name: existing_user
+      label: existing_user
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      - Address
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: timezone
+      label: timezone
+      hint: null
+      type: select_one
+      options:
+      - (GMT-12:45)
+      - (GMT-11:30)
+      - (GMT-10:00)
+      - (GMT-09:00)
+      - (GMT-08:00)
+      - (GMT-07:00)
+      - (GMT-06:00)
+      - (GMT-05:00)
+      - (GMT-04:00)
+      - (GMT-03:30)
+      - (GMT-03:00)
+      - (GMT-02:00)
+      - (GMT-01:00)
+      - (GMT+00:00)
+      - (GMT+01:00)
+      - (GMT+02:00)
+      - (GMT+03:00)
+      - (GMT+04:00)
+      - (GMT+05:00)
+      - (GMT+06:00)
+      - (GMT+07:00)
+      - (GMT+08:00)
+      - (GMT+09:00)
+      - (GMT+10:00)
+      - (GMT+11:00)
+      - (GMT+12:00)
+      - (GMT+13:00)
+      - (GMT+14:00)
+      - (GMT+15:00)
+      - (GMT+16:00)
+      - (GMT+17:00)
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_status
+      label: user_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      required: false
+    - id: 9
+      name: existing_user_status
+      label: existing_user_status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      required: false
+    - id: 10
+      name: user_role
+      label: user_role
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Editor
+      - Member
+      required: false
+    - id: 11
+      name: existing_user_role
+      label: existing_user_role
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Editor
+      - Member
+      required: false

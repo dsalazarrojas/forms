@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Inventory Assessment
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of your bar or restaurant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name of person completing assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: We will send inventory reports here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: For inventory coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this inventory assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inventory_type
+      label: Inventory Type
+      hint: What type of inventory is this
+      type: select_one
+      options:
+      - Full Inventory
+      - Partial Inventory
+      - Weekly Check
+      - Monthly Audit
+      - Pre-Event Check
+      required: true
+    - id: 7
+      name: beer_inventory
+      label: Beer Inventory Status
+      hint: Current beer stock level
+      type: select_one
+      options:
+      - Well Stocked
+      - Adequate
+      - Running Low
+      - Needs Reorder
+      - Out of Stock
+      required: true
+    - id: 8
+      name: beer_items
+      label: Beer Items to Reorder
+      hint: List beer products that need reordering
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wine_inventory
+      label: Wine Inventory Status
+      hint: Current wine stock level
+      type: select_one
+      options:
+      - Well Stocked
+      - Adequate
+      - Running Low
+      - Needs Reorder
+      - Out of Stock
+      required: true
+    - id: 10
+      name: wine_items
+      label: Wine Items to Reorder
+      hint: List wine products that need reordering
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spirits_inventory
+      label: Spirits Inventory Status
+      hint: Current liquor stock level
+      type: select_one
+      options:
+      - Well Stocked
+      - Adequate
+      - Running Low
+      - Needs Reorder
+      - Out of Stock
+      required: true
+    - id: 12
+      name: spirits_items
+      label: Spirits Items to Reorder
+      hint: List liquor products that need reordering
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mixer_inventory
+      label: Mixer Inventory Status
+      hint: Current mixer and soda stock level
+      type: select_one
+      options:
+      - Well Stocked
+      - Adequate
+      - Running Low
+      - Needs Reorder
+      - Out of Stock
+      required: true
+    - id: 14
+      name: mixer_items
+      label: Mixer Items to Reorder
+      hint: List mixers that need reordering
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: non_alcoholic_inventory
+      label: Non-Alcoholic Inventory Status
+      hint: Current non-alcoholic beverage stock
+      type: select_one
+      options:
+      - Well Stocked
+      - Adequate
+      - Running Low
+      - Needs Reorder
+      - Out of Stock
+      required: true
+    - id: 16
+      name: non_alcoholic_items
+      label: Non-Alcoholic Items to Reorder
+      hint: List non-alcoholic products to reorder
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: storage_issues
+      label: Storage Issues
+      hint: Are there any storage problems to address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expired_products
+      label: Expired Products Found
+      hint: List any expired items discovered
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reorder_priority
+      label: Reorder Priority
+      hint: What is the urgency of reordering
+      type: select_one
+      options:
+      - Immediate - Order Today
+      - High - Order This Week
+      - Medium - Order Next Week
+      - Low - Monitor Stock
+      required: true
+    - id: 20
+      name: estimated_order_value
+      label: Estimated Order Value
+      hint: Approximate cost of needed inventory
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1,000
+      - $1,000 to $2,500
+      - $2,500 to $5,000
+      - Over $5,000
+      required: false
+    - id: 21
+      name: supplier_notes
+      label: Supplier Notes
+      hint: Any notes about suppliers or deliveries
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other inventory-related information
+      type: text
+      options: []
+      required: false

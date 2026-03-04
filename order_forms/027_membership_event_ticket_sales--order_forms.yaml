@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Event Ticket Sales
+    pages:
+    - id: 1
+      name: event_information
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_information
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: ticket_selections
+      label: Ticket Selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

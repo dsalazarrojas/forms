@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Pre Appointment Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment date
+      hint: Date of appointment
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment time
+      hint: Time of appointment
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: doctor_specialty
+      label: Doctor specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiologist
+      - Neurologist
+      - Pediatrician
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: Reason for visit
+      hint: Why are you visiting the doctor?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: available_time
+      label: Available time slots
+      hint: When would you like to visit the doctor?
+      type: select_multiple
+      options:
+      - 8:00-10:00
+      - 10:00-12:00
+      - 12:00-14:00
+      - 14:00-16:00
+      - 16:00-18:00
+      required: true
+    - id: 10
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: confirm_consent
+      label: Confirm consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: doctor_name
+      label: Doctor's name
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      - Dr. Jane Smith
+      - Dr. John Smith
+      required: false
+    - id: 22
+      name: doctor_specialty_2
+      label: Doctor specialty 2
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiologist
+      - Neurologist
+      - Pediatrician
+      required: false
+    - id: 23
+      name: doctor_phone
+      label: Doctor's phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_email
+      label: Doctor's email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: doctor_address
+      label: Doctor's address
+      hint: null
+      type: text
+      options: []
+      required: false

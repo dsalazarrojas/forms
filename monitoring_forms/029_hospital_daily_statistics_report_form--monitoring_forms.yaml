@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Daily Statistics Report Form
+    pages:
+    - id: 1
+      name: daily_activity
+      label: Daily Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: total_patients
+      label: Total Patients
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: total_patients_category_1
+      label: Total Patients Category 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_doctors
+      label: Total Doctors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_doctors_on_call
+      label: Total Doctors On Call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_doctors_on_call_category_1
+      label: Total Doctors On Call Category 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_nurses
+      label: Total Nurses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_nurses_on_call
+      label: Total Nurses On Call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_operating_rooms
+      label: Total Operating Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_available_beds
+      label: Total Available Beds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_utilization
+      label: Total Utilization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_utilization_category_1
+      label: Total Utilization Category 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_doctors_available
+      label: Total Doctors Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_doctors_unavailable
+      label: Total Doctors Unavailable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_nurses_available
+      label: Total Nurses Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_nurses_unavailable
+      label: Total Nurses Unavailable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: staff_attendance
+      label: Staff Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''All Staff''}'
+      - '{''label'': ''Doctors''}'
+      - '{''label'': ''Nurses''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 18
+      name: admission_type
+      label: Admission Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Emergency''}'
+      - '{''label'': ''Elective''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 19
+      name: ward_capacity
+      label: Ward Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Full''}'
+      - '{''label'': ''Partly''}'
+      - '{''label'': ''Over Capacity''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 20
+      name: bed_occupation
+      label: Bed Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Empty''}'
+      - '{''label'': ''Occupied''}'
+      - '{''label'': ''Partly Occupied''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 21
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Admitted''}'
+      - '{''label'': ''Discharged''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 22
+      name: reason_for_admission
+      label: Reason For Admission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Medical Emergency''}'
+      - '{''label'': ''Non-Medical''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 23
+      name: time_of_discharge
+      label: Time Of Discharge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: time_of_admission
+      label: Time Of Admission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false

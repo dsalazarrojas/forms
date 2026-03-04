@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Kit Subscription Form
+    pages:
+    - id: 1
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Weekly
+      - Weekly
+      required: false
+    - id: 4
+      name: subscription_length
+      label: Subscription Length
+      hint: null
+      type: select_multiple
+      options:
+      - Month
+      - Month, 3
+      - Month, 6
+      - Month, 12
+      - Month, 24
+      required: false
+    - id: 5
+      name: delivery_day
+      label: Delivery Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: emotional_distance_assessment
+    pages:
+    - id: 1
+      name: how_do_you_feel_about
+      label: How do you feel about
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_1_name
+      label: partner_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_1_relationship
+      label: relationship_with_partner_1
+      hint: null
+      type: select_one
+      options:
+      - father
+      - mother
+      - sister
+      - brother
+      - friend
+      - colleague
+      required: true
+    - id: 4
+      name: partner_1_description
+      label: describe_your_partner_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emotional_state
+      label: emotional_state
+      hint: null
+      type: select_multiple
+      options:
+      - angry
+      - happy
+      - scared
+      - excited
+      - sad
+      required: false
+    - id: 6
+      name: partner_2_name
+      label: partner_2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_2_relationship
+      label: relationship_with_partner_2
+      hint: null
+      type: select_one
+      options:
+      - father
+      - mother
+      - sister
+      - brother
+      - friend
+      - colleague
+      required: false
+    - id: 8
+      name: partner_2_description
+      label: describe_your_partner_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emotional_distance
+      label: emotional_distance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: emotional_state_other
+      label: emotional_state_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emotional_state_other_description
+      label: description_of_emotional_state_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_last_contact
+      label: date_last_contact
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_last_contact
+      label: time_last_contact
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: frequency_last_contact
+      label: frequency_of_last_contact
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - yearly
+      required: true
+    - id: 15
+      name: total_relationship_length
+      label: length_of_total_relationship
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: partner_3_name
+      label: partner_3_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: partner_3_relationship
+      label: relationship_with_partner_3
+      hint: null
+      type: select_one
+      options:
+      - father
+      - mother
+      - sister
+      - brother
+      - friend
+      - colleague
+      required: false
+    - id: 18
+      name: partner_3_description
+      label: describe_your_partner_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: partner_4_name
+      label: partner_4_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: partner_4_relationship
+      label: relationship_with_partner_4
+      hint: null
+      type: select_one
+      options:
+      - father
+      - mother
+      - sister
+      - brother
+      - friend
+      - colleague
+      required: false
+    - id: 21
+      name: partner_4_description
+      label: describe_your_partner_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: partner_5_name
+      label: partner_5_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: partner_5_relationship
+      label: relationship_with_partner_5
+      hint: null
+      type: select_one
+      options:
+      - father
+      - mother
+      - sister
+      - brother
+      - friend
+      - colleague
+      required: false
+    - id: 24
+      name: partner_5_description
+      label: describe_your_partner_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

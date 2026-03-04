@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Appreciation Event Registration
+    pages:
+    - id: 1
+      name: event_intro
+      label: -- Client Appreciation Gala --
+      hint: We would love to celebrate our partnership with you.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_organization
+      label: Company/Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For event confirmation and ticket
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendance_status
+      label: Will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I'll be there!
+      - No, I am unable to attend
+      required: true
+    - id: 6
+      name: plus_one_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bringing_guest
+      label: Will you be bringing a guest?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: guest_name
+      label: Guest Full Name
+      hint: If 'Yes' selected above
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dietary_header
+      label: -- Dietary Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attendee_dietary
+      label: Attendee Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      - None
+      required: true
+    - id: 11
+      name: guest_dietary
+      label: Guest Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      - None
+      required: false
+    - id: 12
+      name: accommodation_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: transportation_needed
+      label: Do you require shuttle transportation from the hotel?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: Any specific accessibility requirements?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: song_request
+      label: Song Request for the evening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_footer
+      label: -- RSVP Deadline - October 15th --
+      hint: We look forward to seeing you!
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: rsvp_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: emergency_phone
+      label: Emergency Contact Phone (Day of Event)
+      hint: null
+      type: text
+      options: []
+      required: false

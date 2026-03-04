@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedicure Information Form
+    pages:
+    - id: 1
+      name: pedicure_information_form
+      label: Pedicure Information Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clients_health_conditions
+      label: Client's Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: previous_injuries
+      label: Previous Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: health_history
+      label: Health History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions_2
+      label: Medical Conditions 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: previous_injuries_2
+      label: Previous Injuries 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_procedures_2
+      label: Medical Procedures 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Catering Quotation Form
+    pages:
+    - id: 1
+      name: wedding_catering_form
+      label: WeddingCateringForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: couple_details
+      label: coupleDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: catering_preferences
+      label: cateringPreferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: catering_preferences_1
+      label: cateringPreferences1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: numberOfGuests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests_1
+      label: numberofGuests1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_event
+      label: dateOfEvent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_event
+      label: timeOfEvent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: menu_preferences
+      label: menuPreferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: menu_preferences_1
+      label: menuPreferences1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

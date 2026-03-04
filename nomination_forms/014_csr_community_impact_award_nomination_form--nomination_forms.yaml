@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSR Community Impact Award Nomination Form
+    pages:
+    - id: 1
+      name: nominator_name
+      label: Nominator name
+      hint: Person submitting the nomination
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_email
+      label: Nominator email
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominee_name
+      label: Nominee name
+      hint: Individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: impact_summary
+      label: Impact summary
+      hint: Describe the nominee impact in 250 words
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: community_reach
+      label: Community reach
+      hint: Estimate number of people affected
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents reference
+      hint: Links or filenames of attachments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_category
+      label: Nomination category
+      hint: Select the award category
+      type: select_one
+      options:
+      - Youth leadership
+      - Environmental impact
+      - Health and wellbeing
+      - Community services
+      required: true
+    - id: 8
+      name: consent_for_publicity
+      label: Consent for publicity if nominated
+      hint: Permission to publish nominee details
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

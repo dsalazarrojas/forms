@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: inspiration_nails_sample_request_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_polish_preferences
+      label: Nail Polish Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Pink''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Green''}'
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sample_requests
+      label: Sample Requests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Nail Polish Strip Samples''}'
+      - '{''label'': ''Nail Polish Liquid Samples''}'
+      - '{''label'': ''Nail Polish Creme Samples''}'
+      required: false
+    - id: 7
+      name: sample_quantity
+      label: Sample Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-Up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

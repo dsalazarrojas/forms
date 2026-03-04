@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Waiver Form
+    pages:
+    - id: 1
+      name: minimalist_contract
+      label: Membership Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waiver_type
+      label: Type of Waiver
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Minor
+      - Senior
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Do you have any medical conditions that may be a risk to your health
+        while participating in our services?
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - Yes - High Blood Pressure
+      - Yes - High Cholesterol
+      - Yes - Diabetes
+      - Yes - Heart condition
+      - Yes - Other
+      required: false
+    - id: 8
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: membership_terms_agreed
+      label: I have read and agreed to the terms and conditions of the membership.
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

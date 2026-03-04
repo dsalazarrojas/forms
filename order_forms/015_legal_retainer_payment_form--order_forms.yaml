@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Retainer Payment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Client Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Card
+      - Cash
+      - PayPal
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: Payment Date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment Terms
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      required: false
+    - id: 7
+      name: retainer_fee
+      label: Retainer Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms_1
+      label: Terms and Conditions
+      hint: Terms and Conditions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms_2
+      label: Cancellation Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms_3
+      label: Disputes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms_4
+      label: Payment Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false

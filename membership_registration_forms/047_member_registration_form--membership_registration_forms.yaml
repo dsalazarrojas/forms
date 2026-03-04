@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: registrant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interest_area
+      label: interest_area
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - HR
+      - Finance
+      required: true
+    - id: 5
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: registrant_note
+      label: registrant_note
+      hint: null
+      type: note
+      options: []
+      required: false

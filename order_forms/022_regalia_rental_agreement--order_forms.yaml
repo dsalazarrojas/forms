@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regalia Rental Agreement
+    pages:
+    - id: 1
+      name: user_inputs
+      label: user-inputs
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      required: true
+    - id: 2
+      name: rental_dates
+      label: rental-dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: rental_period
+      label: rental-period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pickup_preference
+      label: pickup-preference
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: return_preference
+      label: return-preference
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: item_selection
+      label: item-selection
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      required: true
+    - id: 7
+      name: item_name
+      label: item-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_name
+      label: school-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pickup_confirmation
+      label: pickup-confirmation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: signature_block
+      label: signature-block
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: school_address
+      label: school-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: return_date
+      label: return-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: rental_provider
+      label: rental-provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pickup_time
+      label: pickup-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: return_time
+      label: return-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: regalia_rental_agreement
+      label: regalia-rental-agreement
+      hint: null
+      type: text
+      options: []
+      required: true

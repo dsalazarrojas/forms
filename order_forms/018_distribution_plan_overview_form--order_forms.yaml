@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Plan Overview Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: distribution_process
+      label: distribution_process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: timeline
+      label: timeline
+      hint: This is where you input your timeline information.
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: resource_plan
+      label: resource_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_area
+      label: target_area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: review
+      label: review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

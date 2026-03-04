@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: outpatient_care_service_assessment_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: care_team_name
+      label: care_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: care_team_role
+      label: care_team_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 11
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 12
+      name: communication_effectiveness
+      label: communication_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_comments
+      label: patient_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_comments
+      label: staff_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_suggestion
+      label: follow_up_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

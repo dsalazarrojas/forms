@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recreation Center Membership Payment Form
+    pages:
+    - id: 1
+      name: membership_details
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_info
+      label: Member Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Credit Card''}'
+      - '{''id'': 3, ''name'': ''PayPal''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: member_address
+      label: Member Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Service Enquiry Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email for service updates and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Your address for service delivery (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_enquiry_details_section
+      label: Service Enquiry Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Type of Service Required
+      hint: What type of service are you enquiring about?
+      type: select_one
+      options:
+      - Cleaning Services
+      - Repair Services
+      - Installation Services
+      - Maintenance Services
+      - Consulting Services
+      - Design Services
+      - Transportation Services
+      - Event Services
+      - IT Services
+      - Other
+      required: true
+    - id: 9
+      name: service_description
+      label: Service Description
+      hint: Describe the specific service you need
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_location
+      label: Service Location
+      hint: Where would you like the service to be performed?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When would you like the service to be performed?
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this service requirement?
+      type: select_one
+      options:
+      - Immediate (within 24 hours)
+      - Within a week
+      - Within a month
+      - No rush
+      required: true
+    - id: 13
+      name: budget_information_section
+      label: Budget Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget range for this service?
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1000
+      - $1000-$2000
+      - Over $2000
+      - Budget flexible
+      - Will discuss
+      required: true
+    - id: 15
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: How would you prefer to pay for the service?
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Online Payment
+      - Other
+      required: true
+    - id: 16
+      name: service_requirements_section
+      label: Service Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: specific_requirements
+      label: Specific Requirements
+      hint: Any specific requirements or preferences for the service?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions for the service provider?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_experience
+      label: Previous Experience with Service
+      hint: Have you used similar services before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: previous_experience_details
+      label: Details of Previous Experience
+      hint: If yes, briefly describe your previous experience
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_provider_preference
+      label: Service Provider Preference
+      hint: Do you have any preferences for the service provider?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_information_section
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_details
+      label: Additional Details
+      hint: Any other information that might be helpful for the service provider
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How would you prefer to be contacted?
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Text Message
+      - Any Method
+      required: true
+    - id: 25
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: What is the best time to contact you?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: enquiry_source
+      label: How Did You Hear About Us?
+      hint: How did you find out about our services?
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Friend/Family Referral
+      - Advertisement
+      - Website
+      - Other
+      required: false
+    - id: 27
+      name: signature
+      label: Electronic Signature
+      hint: Sign to submit your enquiry
+      type: text
+      options: []
+      required: true

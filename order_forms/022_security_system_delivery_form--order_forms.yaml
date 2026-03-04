@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security System Delivery Form
+    pages:
+    - id: 1
+      name: security_system_delivery_form
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: Client Name, Address and Contact Details
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john.doe@example.com''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane.doe@example.com''}'
+      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''bob.smith@example.com''}'
+      required: false
+    - id: 3
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Delivery'', ''value'': ''delivery''}'
+      - '{''id'': 2, ''label'': ''Pickup'', ''value'': ''pickup''}'
+      - '{''id'': 3, ''label'': ''In Person'', ''value'': ''in_person''}'
+      required: false
+    - id: 4
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

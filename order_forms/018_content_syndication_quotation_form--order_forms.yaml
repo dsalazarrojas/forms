@@ -1,0 +1,154 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Syndication Quotation Form
+    pages:
+      - id: 1
+        name: contact_details_header
+        label: -- Contact Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_name
+        label: Requester Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: requester_email
+        label: Business Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: syndication_details_header
+        label: -- Syndication Project Details --
+        hint: Define your goals for content distribution
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: content_for_syndication
+        label: What content do you want to syndicate
+        hint: Provide titles or link to a samples
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: content_type_category
+        label: Content Type
+        hint: null
+        type: select_one
+        options:
+          - Technical Whitepapers
+          - Case Studies
+          - Video Content
+          - Interactive Infographics
+          - Research Reports
+        required: true
+      - id: 8
+        name: target_demographics
+        label: Target Demographics/Industries
+        hint: Who should see this content
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: geographic_reach
+        label: Geographic Reach
+        hint: null
+        type: select_one
+        options:
+          - Global
+          - North America Only
+          - EMEA (Europe, Middle East, Africa)
+          - APAC (Asia-Pacific)
+          - LATAM (Latin America)
+        required: true
+      - id: 10
+        name: desired_outcomes
+        label: Primary Success Metric
+        hint: What is the main goal for this syndication
+        type: select_one
+        options:
+          - Net New Leads (MQLs)
+          - Brand Impressions/Reach
+          - Website Traffic/Referrals
+          - Backlink Profile Growth
+        required: true
+      - id: 11
+        name: budget_and_timeline_header
+        label: -- Budget and Timeline --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: campaign_duration
+        label: Desired Campaign Duration
+        hint: null
+        type: select_one
+        options:
+          - 30 Days (Pilot)
+          - 90 Days (Standard)
+          - 6 Months
+          - Ongoing Retainer
+        required: true
+      - id: 13
+        name: budget_range_usd
+        label: Monthly Budget Range (USD)
+        hint: null
+        type: select_one
+        options:
+          - 2,500 - 5,000
+          - 5,000 - 10,000
+          - 10,000 - 25,000
+          - 25,000 plus
+        required: true
+      - id: 14
+        name: additional_services
+        label: Additional Services Required
+        hint: null
+        type: select_multiple
+        options:
+          - Lead Nurturing Emails
+          - Custom Landing Page Design
+          - Intent Data Reports
+          - Social Media Amplification
+        required: false
+      - id: 15
+        name: quotation_deadline
+        label: When do you need the quote by
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: comments_questions
+        label: Any other comments or questions
+        hint: null
+        type: text
+        options: []
+        required: false

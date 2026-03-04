@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: design_thinking_toolkit_requisition_form
+    pages:
+    - id: 1
+      name: requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tool_link
+      label: Tool Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Sketch
+      - Figma
+      - Adobe
+      - Other
+      required: false
+    - id: 6
+      name: tool_category
+      label: Tool Category
+      hint: null
+      type: select_multiple
+      options:
+      - UX
+      - UI/UX
+      - Visual Design
+      - Branding
+      - Other
+      required: false
+    - id: 7
+      name: tool_version
+      label: Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Out of stock
+      - Not Available
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_price
+      label: Order Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save as Draft
+      required: false
+    - id: 17
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Save as Draft
+      required: false
+    - id: 18
+      name: save_and_submit
+      label: Save and Submit
+      hint: null
+      type: select_one
+      options:
+      - Save and Submit
+      - Save as Draft
+      required: false
+    - id: 19
+      name: save_and_draft
+      label: Save as Draft
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: save_and_preview
+      label: Save and Preview
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: save
+      label: Save
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: preview
+      label: Preview
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

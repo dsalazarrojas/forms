@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drug Free Community Membership Form
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: commitment
+      label: Commitment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: commitment_date
+      label: Commitment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: coalition_member_id
+      label: Coalition ID
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Member 1''}'
+      - '{2: ''Member 2''}'
+      - '{3: ''Member 3''}'
+      required: false
+    - id: 9
+      name: non_profit_name
+      label: Non-Profit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: non_profit_email
+      label: Non-Profit Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: non_profit_phone
+      label: Non-Profit Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: non_profit_website
+      label: Non-Profit Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: non_profit_address
+      label: Non-Profit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_plan
+      label: Payment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Monthly'', ''label'': ''Monthly''}'
+      - '{2: ''Yearly'', ''label'': ''Yearly''}'
+      - '{3: ''Quarterly'', ''label'': ''Quarterly''}'
+      required: false
+    - id: 15
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Active'', ''label'': ''Active''}'
+      - '{2: ''Active'', ''label'': ''Inactive''}'
+      - '{3: ''Pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 17
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Renewing'', ''label'': ''Renewing''}'
+      - '{2: ''Not Renewing'', ''label'': ''Not Renewing''}'
+      required: false
+    - id: 18
+      name: membership_date
+      label: Membership Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coalition
+      label: Coalition
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Coalition 1'', ''label'': ''Coalition 1''}'
+      - '{2: ''Coalition 2'', ''label'': ''Coalition 2''}'
+      - '{3: ''Coalition 3'', ''label'': ''Coalition 3''}'
+      required: false
+    - id: 21
+      name: coalition_committees
+      label: Coalition Committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: non_profit_ownership
+      label: Non-Profit Ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: non_profit_leads
+      label: Non-Profit Leads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: non_profit_board_members
+      label: Non-Profit Board Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: member_notes
+      label: Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false

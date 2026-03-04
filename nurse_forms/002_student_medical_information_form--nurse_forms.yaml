@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Student Medical Information Form
+    pages:
+    - id: 1
+      name: student_medical_information_form
+      label: Student Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: List student's allergies
+      type: select_multiple
+      options:
+      - Penicillin
+      - Latex
+      - Other
+      required: false
+    - id: 4
+      name: medical_assessments
+      label: Medical Assessments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: List student's medications
+      type: select_multiple
+      options:
+      - Medications 1
+      - Medications 2
+      - Medications 3
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: List student's emergency contact
+      type: select_multiple
+      options:
+      - Emergency Contact 1
+      - Emergency Contact 2
+      - Emergency Contact 3
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Medical Condition 1
+      - Medical Condition 2
+      - Medical Condition 3
+      required: false
+    - id: 9
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: select_one
+      options:
+      - Signed and Reviewed
+      - Not Signed and Reviewed
+      required: false

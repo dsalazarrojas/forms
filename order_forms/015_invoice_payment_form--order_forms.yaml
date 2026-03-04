@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: invoice_payment_form
+    pages:
+    - id: 1
+      name: user_name
+      label: Enter User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Enter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Enter Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Select Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Paypal'', ''value'': ''paypal''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 5
+      name: amount_paid
+      label: Enter Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_date
+      label: Select Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Artist Pricing Transparency Survey Form
+    pages:
+    - id: 1
+      name: salon_info
+      label: Salons Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_info
+      label: Artist Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: pricing_info
+      label: Pricing Info
+      hint: null
+      type: select_multiple
+      options:
+      - Price Range
+      - Pricing Strategy
+      - Price List
+      - Pricing Structure
+      required: false
+    - id: 4
+      name: pricing_strategy
+      label: Pricing Strategy
+      hint: null
+      type: select_one
+      options:
+      - Price List
+      - Menu Pricing
+      - Tiered Pricing
+      required: false
+    - id: 5
+      name: price_list
+      label: Price List
+      hint: null
+      type: select_multiple
+      options:
+      - Price per Service
+      - Flat Rate
+      - Tiered Pricing
+      required: false
+    - id: 6
+      name: pricing_structure
+      label: Pricing Structure
+      hint: null
+      type: select_one
+      options:
+      - Menu Pricing
+      - Tiered Pricing
+      required: false
+    - id: 7
+      name: pricing_range
+      label: Pricing Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied'
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: satisfaction_level_highest_satisfied
+      label: Highest Satisfied
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied'
+      - Somewhat Satisfied
+      required: false
+    - id: 10
+      name: satisfaction_level_least_satisfied
+      label: Least Satisfied
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied'
+      - Somewhat Dissatisfied
+      required: false
+    - id: 11
+      name: pricing_decisions
+      label: Pricing Decisions
+      hint: null
+      type: select_one
+      options:
+      - Price per Service'
+      - Flat Rate
+      - Tiered Pricing
+      - Menu Pricing
+      - Menu Pricing with Discounts
+      required: false
+    - id: 12
+      name: service_prices
+      label: Service Prices
+      hint: null
+      type: select_multiple
+      options:
+      - Nail Polish Change'
+      - Nail Art Services
+      - Nail Shape and Design
+      - Other Services
+      required: false
+    - id: 13
+      name: discount_pricing
+      label: Discount Pricing
+      hint: null
+      type: select_one
+      options:
+      - Discounts Available'
+      - Discounts Not Available
+      required: false
+    - id: 14
+      name: pricing_transparency
+      label: Pricing Transparency
+      hint: null
+      type: select_one
+      options:
+      - Transparent'
+      - Not Transparent
+      required: false

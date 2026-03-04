@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Walking Club Pet Owner Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dog_size
+      label: Dog Size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Premium
+      - Basic
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - PayPal
+      - Bank
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: walk_frequency
+      label: Walk Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: group_walk
+      label: Group Walk
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_diet
+      label: Pet Diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: veterinary_clinic
+      label: Veterinary Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: veterinarian
+      label: Veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pet_license
+      label: Pet License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: owner_date
+      label: Owner Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: owner_time
+      label: Owner Time
+      hint: null
+      type: time
+      options: []
+      required: true

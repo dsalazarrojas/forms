@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Journal Subscription Quote Request
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Institution name
+      hint: Organization requesting subscription
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: subscription_type
+      label: Subscription type requested
+      hint: Choose subscription model
+      type: select_one
+      options:
+      - Individual
+      - Institutional
+      - Consortium
+      - Online only
+      - Print and online
+      required: true
+    - id: 6
+      name: number_of_users
+      label: Estimated number of users
+      hint: For institutional or consortium quotes
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: desired_journals
+      label: Desired journals or packages
+      hint: List journals or subject areas
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_range
+      label: Budget range
+      hint: Expected annual budget for subscription
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_contact
+      label: Billing contact details
+      hint: Name and email for invoicing
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_requirements
+      label: Additional requirements
+      hint: Any special licensing or access needs
+      type: text
+      options: []
+      required: false

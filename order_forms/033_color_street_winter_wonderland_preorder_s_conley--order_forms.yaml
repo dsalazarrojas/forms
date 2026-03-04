@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Winter Wonderland Preorder - S. Conley
+    pages:
+    - id: 1
+      name: section_conley_holiday
+      label: -- 2020 Winter Wonderland Pre-Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conley_customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conley_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: conley_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_conley_winter_sets
+      label: -- Winter Collection Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: conley_winter_glitters
+      label: Winter Glitters
+      hint: null
+      type: select_multiple
+      options:
+      - Ice to Meet You
+      - Snow Biz
+      - Under the Mistletoe
+      - What a Catch
+      - Blitzen
+      required: false
+    - id: 7
+      name: conley_holiday_solids
+      label: Holiday Solids and Designs
+      hint: null
+      type: select_multiple
+      options:
+      - Oh My Gourd
+      - Buggin' Out
+      - Gratitude is Everything
+      - Feast Mode
+      - Give Thanks
+      required: false
+    - id: 8
+      name: conley_standard_adds
+      label: Any standard sets to add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_conley_math
+      label: -- Order Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: conley_total_sets
+      label: Total Sets Pre-Ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: conley_b3g1_deal
+      label: Is this a B3G1 deal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_conley_checkout
+      label: -- Checkout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: conley_payment_id
+      label: Payment Method and Handle
+      hint: e.g., Venmo @User
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: conley_shipping_speed
+      label: Shipping Choice
+      hint: null
+      type: select_one
+      options:
+      - Standard ($3.50)
+      - Priority ($8.50)
+      required: true
+    - id: 15
+      name: conley_hostess
+      label: Hostess (if for a party)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: conley_notes
+      label: Message for me
+      hint: null
+      type: text
+      options: []
+      required: false

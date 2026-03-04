@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: School T Shirt Purchase Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_activity
+      label: Student Activity
+      hint: null
+      type: select_one
+      options:
+      - Activity1
+      - Activity2
+      - Activity3
+      required: false
+    - id: 3
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_size
+      label: Class Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 5
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: false
+    - id: 7
+      name: student_fee
+      label: Student Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: class_fee
+      label: Class Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false

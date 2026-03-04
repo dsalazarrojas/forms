@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Order Form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak Ave
+      required: false
+    - id: 2
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak Ave
+      required: false
+    - id: 3
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - Food Pickup
+      - Delivery
+      - Online Payment
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - PayPal
+      required: false
+    - id: 5
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: note_2
+      label: Another note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false

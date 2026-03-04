@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Book Order Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: book_title
+      label: book title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: book_quantity
+      label: book quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_gateway
+      label: payment gateway
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - Square
+      - PayPal
+      required: false
+    - id: 6
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - fulfilled
+      - cancelled
+      required: false
+    - id: 7
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_id
+      label: order id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: created at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: updated_at
+      label: updated at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: deleted_at
+      label: deleted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deleted_by
+      label: deleted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_note
+      label: order note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: teacher_email
+      label: teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - fulfilled
+      - cancelled
+      required: false
+    - id: 22
+      name: order_status_history
+      label: order status history
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - fulfilled
+      - cancelled
+      required: false
+    - id: 23
+      name: payment_gateway_id
+      label: payment gateway id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_transaction_id
+      label: payment transaction id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: payment_transaction_status
+      label: payment transaction status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - fulfilled
+      - cancelled
+      required: false

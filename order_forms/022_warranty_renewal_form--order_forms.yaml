@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: warranty_renewal_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: warranty_details
+      label: Warranty Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: warranty_type
+      label: Warranty Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: warranty_date
+      label: Warranty Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: warranty_expiration_date
+      label: Warranty Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_renewal
+      label: Reason for Renewal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: warranty_term
+      label: Warranty Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: warranty_notes
+      label: Warranty Notes
+      hint: null
+      type: text
+      options: []
+      required: false

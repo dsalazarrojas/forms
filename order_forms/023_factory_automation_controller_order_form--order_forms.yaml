@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Automation Controller Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: automation_controller_type
+      label: Automation Controller Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': ''3 Axis''}'
+      - '{''label'': 2, ''value'': ''5 Axis''}'
+      - '{''label'': 3, ''value'': ''8 Axis''}'
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chat'', ''value'': ''chatjimmy''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Order Forms'', ''value'': ''Order Forms''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: assigned_date_time
+      label: Assigned Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date_time
+      label: Submitted Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Church Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purpose_of_donation
+      label: Purpose of Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_donation
+      label: Frequency of Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: frequency_of_donation_frequency
+      label: Frequency of Donation
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 2 months
+      - 1 year
+      required: false
+    - id: 9
+      name: gift_frequency_options
+      label: Gift Frequency Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Check
+      required: true
+    - id: 11
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

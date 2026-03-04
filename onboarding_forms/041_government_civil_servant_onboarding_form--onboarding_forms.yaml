@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Civil Servant Onboarding Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Director''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Coordinator''}'
+      required: false
+    - id: 3
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''IT''}'
+      required: false
+    - id: 5
+      name: new_hire_details_1
+      label: new_hire_details_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_hire_details_2
+      label: new_hire_details_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Leave of Absence''}'
+      required: false
+    - id: 8
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full Time''}'
+      - '{''value'': ''Part Time''}'
+      - '{''value'': ''Contract''}'
+      required: false
+    - id: 9
+      name: departmental_unit
+      label: departmental_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_manager
+      label: reporting_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Team Lead''}'
+      - '{''value'': ''Supervisor''}'
+      required: false
+    - id: 11
+      name: job_code
+      label: job_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_hire
+      label: date_of_hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: salary
+      label: salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full Time''}'
+      - '{''value'': ''Part Time''}'
+      - '{''value'': ''Contract''}'
+      required: false
+    - id: 15
+      name: onboarding_status
+      label: onboarding_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Complete''}'
+      required: false
+    - id: 16
+      name: manager_confirmation
+      label: manager_confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Complete''}'
+      - '{''value'': ''No Action''}'
+      required: false
+    - id: 17
+      name: onboarding_comments
+      label: onboarding_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: new_hire_documents
+      label: new_hire_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department_head_confirmation
+      label: department_head_confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Complete''}'
+      - '{''value'': ''No Action''}'
+      required: false

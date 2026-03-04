@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeupholics Order Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_page_2
+      label: order_form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2''}'
+      - '{''id'': 3, ''name'': ''option_3''}'
+      required: false
+    - id: 3
+      name: form_page_3
+      label: form_page_3
+      hint: null
+      type: number
+      options: []
+      required: false

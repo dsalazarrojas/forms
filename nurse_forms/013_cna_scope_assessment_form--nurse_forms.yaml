@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CNA Scope Assessment Form
+    pages:
+      - id: 1
+        name: cna_name
+        label: CNA Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Staff identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: facility_name
+        label: Facility Name
+        hint: Healthcare facility
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: unit_department
+        label: Unit or Department
+        hint: Your assigned unit
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: assessor_name
+        label: Assessor Name
+        hint: Supervisor or evaluator
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: assessor_title
+        label: Assessor Title
+        hint: Their role
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: certification_status
+        label: CNA Certification Status
+        hint: Current certification
+        type: select_one
+        options:
+          - Active and Current
+          - Pending Renewal
+          - Expired
+          - In Training
+        required: true
+      - id: 9
+        name: certification_state
+        label: State of Certification
+        hint: Issuing state
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: experience_level
+        label: Experience Level
+        hint: Years as CNA
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 4-7 years
+          - 8-15 years
+          - More than 15 years
+        required: true
+      - id: 11
+        name: assessment_section_header_1
+        label: -- Clinical Skills Assessment --
+        hint: Rate each skill area
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: vital_signs_competency
+        label: Vital Signs Measurement
+        hint: Blood pressure temperature pulse
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 13
+        name: adl_assistance
+        label: Activities of Daily Living Assistance
+        hint: Bathing dressing feeding
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 14
+        name: mobility_assistance
+        label: Mobility and Transfer Assistance
+        hint: Patient movement and positioning
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 15
+        name: infection_control
+        label: Infection Control Practices
+        hint: Hand hygiene PPE protocols
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 16
+        name: documentation_skills
+        label: Documentation Skills
+        hint: Charting and reporting
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 17
+        name: communication_skills
+        label: Communication with Patients
+        hint: Patient interaction skills
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 18
+        name: assessment_section_header_2
+        label: -- Safety and Compliance --
+        hint: Safety practices evaluation
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: patient_safety_protocols
+        label: Patient Safety Protocols
+        hint: Fall prevention safety checks
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 20
+        name: emergency_procedures
+        label: Emergency Procedures Knowledge
+        hint: Response to emergencies
+        type: select_one
+        options:
+          - Competent
+          - Needs Improvement
+          - Not Competent
+          - Not Observed
+        required: true
+      - id: 21
+        name: scope_understanding
+        label: Understanding of Scope of Practice
+        hint: Knows limits and responsibilities
+        type: select_one
+        options:
+          - Excellent Understanding
+          - Good Understanding
+          - Fair Understanding
+          - Poor Understanding
+        required: true
+      - id: 22
+        name: overall_competency
+        label: Overall Competency Rating
+        hint: Summary assessment
+        type: select_one
+        options:
+          - Fully Competent
+          - Competent with Minor Guidance
+          - Needs Additional Training
+          - Not Competent - Remediation Required
+        required: true
+      - id: 23
+        name: strengths
+        label: Identified Strengths
+        hint: Areas of excellence
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: Skills needing development
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: training_recommendations
+        label: Training Recommendations
+        hint: Suggested continuing education
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: reassessment_needed
+        label: Reassessment Needed
+        hint: Is follow-up required
+        type: select_one
+        options:
+          - Yes within 30 days
+          - Yes within 90 days
+          - No reassessment needed
+        required: true
+      - id: 27
+        name: cna_comments
+        label: CNA Comments
+        hint: Your response to assessment
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: cna_signature
+        label: CNA Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: assessor_signature
+        label: Assessor Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true

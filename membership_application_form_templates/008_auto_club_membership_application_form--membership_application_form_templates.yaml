@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Club Membership Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Applicants must be of legal driving age
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For digital membership card and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: membership_selection_header
+      label: -- Membership Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_tier
+      label: Membership Tier
+      hint: Select the level of coverage you need
+      type: select_one
+      options:
+      - Basic
+      - Plus
+      - Premier
+      - Family
+      required: true
+    - id: 10
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Choose your billing preference
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      required: true
+    - id: 11
+      name: primary_vehicle_header
+      label: -- Primary Vehicle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g. Nissan
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: e.g. Altima
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: e.g. 2021
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Who should we call in an emergency?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best number for your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: authorize_auto_renewal
+      label: Authorize Auto-Renewal
+      hint: Automatically renew my membership each period
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

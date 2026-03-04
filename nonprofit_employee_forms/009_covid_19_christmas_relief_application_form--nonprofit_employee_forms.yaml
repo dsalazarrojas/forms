@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid 19 christmas relief application form
+    pages:
+    - id: 1
+      name: beneficiaries
+      label: Beneficiaries
+      hint: Please list down all your beneficiaries
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: beneficiary_details_1
+      label: Beneficiary 1
+      hint: null
+      type: select_one
+      options:
+      - Child
+      - Spouse
+      - Parent
+      - Other
+      required: false
+    - id: 3
+      name: beneficiary_details_2
+      label: Beneficiary 2
+      hint: null
+      type: select_multiple
+      options:
+      - Child
+      - Spouse
+      - Parent
+      required: false
+    - id: 4
+      name: beneficiary_details_3
+      label: Beneficiary 3
+      hint: null
+      type: select_multiple
+      options:
+      - Child
+      - Spouse
+      - Parent
+      required: false
+    - id: 5
+      name: relief_amount
+      label: Relief Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: relief_frequency
+      label: Relief Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Weekly
+      - Bi-Weekly
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: Please add contact number for easy contact
+      type: text
+      options: []
+      required: false

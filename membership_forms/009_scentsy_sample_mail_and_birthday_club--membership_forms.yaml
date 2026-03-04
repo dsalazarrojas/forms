@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentsy Sample Mail And Birthday Club
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_subscription
+      label: Subscription
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Monthly''}'
+      - '{''option_2'': ''Quarterly''}'
+      - '{''option_3'': ''Annually''}'
+      required: false
+    - id: 8
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

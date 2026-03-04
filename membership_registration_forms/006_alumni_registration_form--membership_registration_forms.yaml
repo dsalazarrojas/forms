@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Registration Form
+    pages:
+    - id: 1
+      name: section_registration_info
+      label: -- Registration Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: membership_type
+      label: Membership Type
+      hint: Select your preferred membership level
+      type: select_one
+      options:
+      - Basic Membership
+      - Premium Membership
+      - Lifetime Membership
+      - Student Alumni Membership
+      required: true
+    - id: 4
+      name: section_personal_details
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: section_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 16
+      name: section_academic_info
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: degree
+      label: Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Certificate
+      required: true
+    - id: 19
+      name: major
+      label: Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: student_id
+      label: Student ID Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_donation
+      label: -- Donation Information --
+      hint: Support your alma mater
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: donation_interest
+      label: Interested in Making a Donation
+      hint: null
+      type: select_one
+      options:
+      - Yes - One-time
+      - Yes - Monthly
+      - Yes - Annually
+      - Not at this time
+      required: false
+    - id: 23
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: donation_designation
+      label: Donation Designation
+      hint: Where should your donation be directed
+      type: select_one
+      options:
+      - General Fund
+      - Scholarship Fund
+      - Athletic Programs
+      - Building Fund
+      - Department Specific
+      required: false
+    - id: 25
+      name: section_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: newsletter_subscription
+      label: Alumni Newsletter Subscription
+      hint: null
+      type: select_one
+      options:
+      - Yes - Email
+      - Yes - Print
+      - false
+      required: true
+    - id: 27
+      name: event_notifications
+      label: Receive Event Notifications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: directory_inclusion
+      label: Include in Alumni Directory
+      hint: Allow other alumni to find your contact information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: section_agreement
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the alumni association terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true

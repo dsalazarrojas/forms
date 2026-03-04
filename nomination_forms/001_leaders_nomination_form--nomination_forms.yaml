@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leaders Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leaders_name
+      label: Leaders Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: position_nominated
+      label: Position Nominated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reason_for_nomination
+      label: Reason For Nomination
+      hint: null
+      type: text
+      options: []
+      required: false

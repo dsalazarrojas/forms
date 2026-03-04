@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Registration Form
+    pages:
+    - id: 1
+      name: member_full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Provide a valid contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside country
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing address
+      hint: Street city and postal code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership type
+      hint: Choose the membership category
+      type: select_one
+      options:
+      - Regular
+      - Family
+      - Associate
+      - Youth
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: areas_of_interest
+      label: Areas of interest for volunteering
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Worship
+      - Outreach
+      - Youth ministry
+      - Administration
+      - Music
+      required: false
+    - id: 10
+      name: consent_statement
+      label: Membership consent and acknowledgement
+      hint: By submitting you agree to church policies
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Vibration Detector Order Form
+    pages:
+    - id: 1
+      name: equipment_vibration_detector_form
+      label: Equipment Vibration Detector Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: Enter a detailed description of the product
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_comments
+      label: Customer Comments
+      hint: Additional comments about your order
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: order_notes
+      label: Order Notes
+      hint: Any further comments or notes about the order
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: equipment_type
+      label: Equipment Type
+      hint: Specify the type of equipment being ordered
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: order_notes
+      label: Order Notes
+      hint: Any further comments or notes about the order
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_comments
+      label: Customer Comments
+      hint: Additional comments from customer
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: equipment_specifications
+      label: Equipment Specifications
+      hint: Enter detailed specifications about the equipment being ordered
+      type: text
+      options: []
+      required: false

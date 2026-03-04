@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_screening_ada_code_d0190
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Cough
+      - Fever
+      - Shortness of breath
+      - Chest pain
+      required: false
+    - id: 3
+      name: travel_history
+      label: Travel history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Asthma
+      - Diabetes
+      - Heart condition
+      - Other
+      required: false
+    - id: 5
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_country
+      label: travel_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_email
+      label: Emergency email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: screening_date
+      label: Screening date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: screening_time
+      label: Screening time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: screening_location
+      label: Screening location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: screening_provider
+      label: Screening provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: screening_status
+      label: Screening status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not started
+      required: false
+    - id: 18
+      name: patient_screening
+      label: patient_screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_id_2
+      label: Patient ID 2
+      hint: null
+      type: text
+      options: []
+      required: false

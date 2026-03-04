@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women's Comp Order Form Template
+    pages:
+    - id: 1
+      name: order_form_template
+      label: order_form_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''uniform_seller''}'
+      - '{''id'': 20, ''name'': ''jersey_seller''}'
+      - '{''id'': 30, ''name'': ''clothing_seller''}'
+      required: true
+    - id: 3
+      name: order_item
+      label: order_item
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_type
+      label: item_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 40, ''name'': ''uniform''}'
+      - '{''id'': 50, ''name'': ''jersey''}'
+      - '{''id'': 60, ''name'': ''clothing''}'
+      required: true
+    - id: 5
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_note
+      label: order_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_phone
+      label: order_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_email
+      label: order_email
+      hint: null
+      type: email
+      options: []
+      required: false

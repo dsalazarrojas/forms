@@ -1,0 +1,342 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTSD Symptom Checklist
+    pages:
+    - id: 1
+      name: intro_1
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: q1
+      label: Have you experienced any of the following in the past week?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: q1a
+      label: Feeling or mood changes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: q1b
+      label: Guilt and shame
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 5
+      name: q1c
+      label: Difficulty making decisions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 6
+      name: q2
+      label: Difficulty remembering things
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 7
+      name: q2a
+      label: difficulty_recording
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: q2b
+      label: difficulty_sustaining_interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: q2c
+      label: difficulty_concentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: q3
+      label: Difficulty sleeping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 11
+      name: q3a
+      label: difficulty_sleeping_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: q3b
+      label: difficulty_sleeping_quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: q4
+      label: Difficulty concentrating
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 14
+      name: q4a
+      label: difficulty_concentration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: q4b
+      label: difficulty_focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: q5
+      label: Difficulty making plans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 17
+      name: q5a
+      label: difficulty_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: q5b
+      label: difficulty_organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 19
+      name: q6
+      label: Difficulty completing tasks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 20
+      name: q6a
+      label: difficulty_task_execution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: intro_2
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: q7
+      label: Difficulty feeling in control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 23
+      name: q7a
+      label: feeling_in_control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: q8
+      label: Difficulty feeling safe
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 25
+      name: q8a
+      label: feeling_safe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: q8b
+      label: feeling_in_secure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 27
+      name: q9
+      label: Difficulty trusting others
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 28
+      name: q9a
+      label: difficulty_trust
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: q9b
+      label: difficulty_trust_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: q10
+      label: Difficulty being surprised
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 31
+      name: q10a
+      label: difficulty_surprised
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: q10b
+      label: difficulty_being_startled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: q10c
+      label: difficulty_startle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: intro_3
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: q11
+      label: Frequency of PTSD symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 36
+      name: q11a
+      label: frequency_ptsd
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: q11b
+      label: severity_ptsd
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: q11c
+      label: severity_ptsd_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: q12
+      label: Severity of PTSD symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 40
+      name: q12a
+      label: severity_ptsd
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: q12b
+      label: severity_ptsd_severity
+      hint: null
+      type: text
+      options: []
+      required: false

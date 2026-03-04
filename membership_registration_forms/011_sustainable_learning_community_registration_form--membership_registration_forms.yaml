@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Learning Community Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Member Interests
+      hint: Select the interests of the member
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participation_preferences
+      label: Participation Preferences
+      hint: Select preferred participation options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: save_and_share
+      label: Save and Share
+      hint: null
+      type: text
+      options: []
+      required: false

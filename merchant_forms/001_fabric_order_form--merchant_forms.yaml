@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fabric Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - Custom
+      - Wholesale
+      - Sample
+      - Other (Please specify)
+      required: false
+    - id: 3
+      name: fabric_type
+      label: Fabric Type
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Polyester
+      - Linen
+      - Rayon
+      - Other
+      required: false
+    - id: 4
+      name: fabric_color
+      label: Fabric Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Other
+      required: false
+    - id: 5
+      name: fabric_quantity
+      label: Fabric Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fabric_weight
+      label: Fabric Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fabric_width
+      label: Fabric Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

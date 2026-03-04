@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: hospice_id
+      label: Hospice ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      label: How would you rate the quality of care you received from our hospice
+        team?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: question_2
+      label: How would you rate the quality of communication from our hospice team?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: question_3
+      label: Have you experienced any concerns or issues with your care team?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 10
+      name: question_4
+      label: Have you experienced any concerns or issues with the services provided?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: question_5
+      label: Would you recommend this hospice program to other patients?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_sent
+      label: Send to email
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: save
+      label: Save
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: clear
+      label: Clear
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 16
+      name: email_address
+      label: Email address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sender
+      label: Sender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cc
+      label: Cc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: bcc
+      label: Bcc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: body
+      label: Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: send
+      label: Send
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 23
+      name: attachment
+      label: Attachment
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 24
+      name: reply
+      label: Reply
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: nfl_pre_order_form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General Admission''}'
+      - '{''id'': 2, ''label'': ''Premium Experience''}'
+      required: true
+    - id: 5
+      name: game_date
+      label: Game Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: game_time
+      label: Game Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: confirm_notes
+      label: Confirm Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_order_type
+      label: Confirm Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General Admission''}'
+      - '{''id'': 2, ''label'': ''Premium Experience''}'
+      required: true
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_submit
+      label: Confirm Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Processing''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: true
+    - id: 18
+      name: team_name_2
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirm_ticket_number
+      label: Confirm Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_order_number
+      label: Confirm Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ticket_expiration
+      label: Ticket Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: ticket_price_2
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: game_date_2
+      label: Game Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

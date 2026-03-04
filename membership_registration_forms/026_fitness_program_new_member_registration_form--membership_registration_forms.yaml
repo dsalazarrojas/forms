@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Program New Member Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: birth_date
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_type
+      label: Membership type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Corporate
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_number
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_condition
+      label: Medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_documentation
+      label: Medical documentation
+      hint: null
+      type: select_multiple
+      options:
+      - I have a medical note available
+      - I will provide documentation at check-in
+      required: true
+    - id: 13
+      name: emergency_contact_message
+      label: Emergency contact message
+      hint: Enter message to emergency contact
+      type: text
+      options: []
+      required: false

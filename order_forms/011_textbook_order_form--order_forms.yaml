@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Textbook Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bookstore_name
+      label: Bookstore Name
+      hint: Name of the book store
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: Date of the order
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: Order Time
+      hint: Time of the order
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: book_title
+      label: Book Title
+      hint: Title of the book
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: book_price
+      label: Book Price
+      hint: Price of the book
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of books ordered
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: Name of the customer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: Email of the customer
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: Phone number of the customer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: Payment method used
+      type: select_one
+      options:
+      - Payment via Card
+      - Payment via PayPal
+      - Payment via Bank Transfer
+      required: false
+    - id: 12
+      name: coupon_code
+      label: Coupon Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_price
+      label: Total Price
+      hint: Total price of the order
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: order_status
+      label: Order Status
+      hint: Status of the order
+      type: select_multiple
+      options:
+      - Pending
+      - Shipped
+      - Cancelled
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: Status of the payment
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Refunded
+      required: false
+    - id: 16
+      name: book_photo_url
+      label: Book Photo URL
+      hint: URL of the book photo
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Payment gateway used
+      type: select_one
+      options:
+      - Payment via Card
+      - Payment via PayPal
+      - Payment via Bank Transfer
+      required: false
+    - id: 18
+      name: order_notes
+      label: Order Notes
+      hint: Additional notes for the order
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: order_notes
+      label: Order Notes
+      hint: Additional notes for the order
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_notes
+      label: Customer Notes
+      hint: Notes for the customer
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: Order Date
+      hint: Date of the order
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: customer_name
+      label: Customer Name
+      hint: Name of the customer
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_status
+      label: Order Status
+      hint: Status of the order
+      type: select_multiple
+      options:
+      - Pending
+      - Shipped
+      - Cancelled
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: Payment method used
+      type: select_one
+      options:
+      - Payment via Card
+      - Payment via PayPal
+      - Payment via Bank Transfer
+      required: false

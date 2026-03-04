@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: writing_club_membership_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: writing_interests
+      label: Writing Interests
+      hint: What type of writing do you enjoy?
+      type: select_multiple
+      options:
+      - Fiction
+      - Non-Fiction
+      - Poetry
+      - Scriptwriting
+      - Copywriting
+      required: false
+    - id: 7
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      required: false
+    - id: 8
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: about_us
+      label: About Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteers Hub Liberia New Volunteer SignUp Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - M
+      - F
+      - Other
+      required: false
+    - id: 7
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer Coordinator
+      - Volunteer
+      required: false
+    - id: 8
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 9
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Referral
+      - Other
+      required: false

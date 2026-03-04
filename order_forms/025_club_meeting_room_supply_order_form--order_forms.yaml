@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Meeting Room Supply Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: meeting_date
+      label: Meeting or Event Date
+      hint: When supplies are needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: meeting_time
+      label: Meeting or Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: room_name
+      label: Meeting Room Name or Location
+      hint: Which room
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: How many people
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: supply_items
+      label: Supplies Needed
+      hint: Select all items needed
+      type: select_multiple
+      options:
+      - Coffee and Tea
+      - Water and Beverages
+      - Snacks
+      - Paper Products
+      - Writing Supplies
+      - A/V Equipment
+      - Seating
+      - Table Setup
+      - Other
+      required: true
+    - id: 11
+      name: coffee_quantity
+      label: Coffee Service Quantity
+      hint: Number of cups or pots
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: water_quantity
+      label: Bottled Water Quantity
+      hint: Number of bottles
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: snacks_type
+      label: Snack Preference
+      hint: What type of snacks
+      type: select_one
+      options:
+      - Light Snacks
+      - Substantial Snacks
+      - Vegetarian Only
+      - Gluten-Free
+      - Mixed Options
+      required: false
+    - id: 14
+      name: av_equipment
+      label: A/V Equipment Needed
+      hint: Projector, screen, microphone, etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

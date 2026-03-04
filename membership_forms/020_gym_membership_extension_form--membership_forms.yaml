@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Extension Form
+    pages:
+    - id: 1
+      name: extension_request
+      label: extension_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      required: true
+    - id: 3
+      name: current_membership_status
+      label: current_membership_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Suspended'', ''value'': ''suspended''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - '{''label'': ''Expired'', ''value'': ''expired''}'
+      required: true
+    - id: 4
+      name: renewal_start_date
+      label: renewal_start_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: renewal_end_date
+      label: renewal_end_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: extension_terms
+      label: extension_terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Month-to-Month'', ''value'': ''month_to_month''}'
+      - '{''label'': ''6-Month Extension'', ''value'': ''six_month_extension''}'
+      required: true
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''label'': ''Direct Debit'', ''value'': ''direct_debit''}'
+      required: false
+    - id: 9
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: ER Nurse Interview Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: work_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scenario_responses
+      label: scenario_responses
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - '{''label'': ''Option 4'', ''value'': ''option_4''}'
+      - '{''label'': ''Option 5'', ''value'': ''option_5''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

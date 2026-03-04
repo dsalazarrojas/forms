@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Waitlist Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Preferred Phone Number
+      hint: We will call this number when an opening becomes available
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred Date for Appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred Time Range
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-8pm)
+      required: true
+    - id: 6
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: select_one
+      options:
+      - Screening
+      - Vaccination
+      - Follow-up
+      - Diagnostic Test
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: Based on medical urgency or frontline status
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Emergency
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Enter N/A if uninsured
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waitlist_agreement
+      label: I understand that being on the waitlist does not guarantee an appointment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

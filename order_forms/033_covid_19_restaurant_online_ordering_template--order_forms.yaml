@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Restaurant Online Ordering Template
+    pages:
+    - id: 1
+      name: customer_name_full
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_phone_no
+      label: Phone Number
+      hint: For order status updates
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_type_cat
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - One-time Order
+      - Weekly Subscription
+      - Bi-weekly Subscription
+      required: true
+    - id: 5
+      name: subscription_plan_cat
+      label: Subscription Plan Selections
+      hint: Only for subscription orders
+      type: select_one
+      options:
+      - Individual (1 person)
+      - Family of 2
+      - Family of 4
+      - Custom Pack
+      required: false
+    - id: 6
+      name: order_date_val
+      label: Select Pickup or Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_slot_pref
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 11:00 AM - 1:00 PM
+      - 1:00 PM - 3:00 PM
+      - 5:00 PM - 7:00 PM
+      - 7:00 PM - 9:00 PM
+      required: true
+    - id: 8
+      name: main_course_list
+      label: Main Course Selections
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Roasted Chicken
+      - Grilled Salmon
+      - Vegetarian Pasta
+      - Beef Stir-fry
+      - Quinoa Bowl
+      required: true
+    - id: 9
+      name: side_dish_list
+      label: Side Dishes
+      hint: null
+      type: select_multiple
+      options:
+      - Garden Salad
+      - Roasted Potatoes
+      - Steamed Vegetables
+      - Garlic Bread
+      - Brown Rice
+      required: true
+    - id: 10
+      name: dietary_notes_text
+      label: Special Dietary Instructions
+      hint: e.g. No gluten, nut allergy, extra spicy
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_addr_text
+      label: Delivery Address
+      hint: Required if choosing delivery
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tip_amount_val
+      label: Driver or Staff Tip ($)
+      hint: Support our staff during this time
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_amount_val
+      label: Estimated Total Order Amount ($)
+      hint: Final price confirmed at checkout
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method_cat
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Pay at Pickup
+      - Business Account
+      required: true
+    - id: 15
+      name: online_order_ack
+      label: I understand that orders must be placed at least 24 hours in advance
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

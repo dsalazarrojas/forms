@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quick Release Adapter Order Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Delivery on Friday''}'
+      - '{''option'': ''Delivery on Monday''}'
+      - '{''option'': ''Delivery on Saturday''}'
+      - '{''option'': ''Delivery on Sunday''}'
+      - '{''option'': ''Delivery on Thursday''}'
+      - '{''option'': ''Delivery on Tuesday''}'
+      - '{''option'': ''Delivery on Wednesday''}'
+      - '{''option'': ''Delivery on Friday''}'
+      - '{''option'': ''Delivery on Monday''}'
+      required: true
+    - id: 5
+      name: supplier_details
+      label: Supplier Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Bank Transfer''}'
+      - '{''option'': ''Cash''}'
+      - '{''option'': ''PayPal''}'
+      - '{''option'': ''Stripe''}'
+      required: false
+    - id: 11
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

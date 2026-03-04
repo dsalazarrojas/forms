@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_services_inquiry_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_description
+      label: Description
+      hint: Please provide a detailed description of your project.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Please enter a valid email address.
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      - File 4
+      - File 5
+      required: false
+    - id: 12
+      name: file_uploads_2
+      label: File Uploads 2
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      - File 4
+      - File 5
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

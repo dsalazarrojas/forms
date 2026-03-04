@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mug Club Membership Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferences
+      label: Preferred drink
+      hint: What's your favorite drink?
+      type: select_multiple
+      options:
+      - Beer
+      - Coffee
+      - Tea
+      - Juice
+      required: false
+    - id: 7
+      name: membership_agreement
+      label: Membership Agreement
+      hint: Check the box to confirm agreement
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: member_details
+      label: Member Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rule1
+      label: Rule 1
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 10
+      name: rule2
+      label: Rule 2
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 11
+      name: rule3
+      label: Rule 3
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 12
+      name: rule4
+      label: Rule 4
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false

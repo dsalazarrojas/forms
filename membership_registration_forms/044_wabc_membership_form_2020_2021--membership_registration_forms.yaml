@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wabc Membership Form 2020 2021
+    pages:
+    - id: 1
+      name: member_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: membership_type
+      label: Membership type
+      hint: null
+      type: select_multiple
+      options:
+      - Boxing Membership
+      - General Membership
+      - Associate Membership
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: join_date
+      label: Join date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: membership_duration
+      label: Membership duration
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 12 months
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

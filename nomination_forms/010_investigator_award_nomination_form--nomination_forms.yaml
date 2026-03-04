@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investigator Award Nomination Form
+    pages:
+    - id: 1
+      name: nominee_info
+      label: Nominee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_info
+      label: Award
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Best Investigator''}'
+      - '{''value'': ''Outstanding Investigator''}'
+      - '{''value'': ''Exemplary Investigator''}'
+      required: false
+    - id: 3
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_info
+      label: Your Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

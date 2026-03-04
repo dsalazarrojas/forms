@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar System Purchase Order Form
+    pages:
+    - id: 1
+      name: merchant_name
+      label: Merchant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 3
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_order_date
+      label: Purchase Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Received
+      - Shipped
+      - Cancelled
+      - Pending
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: system_price
+      label: System Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: merchant_id
+      label: Merchant ID
+      hint: Your merchant ID for tracking purposes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_details
+      label: order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: system_quantity
+      label: System Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank Transfer
+      required: false
+    - id: 15
+      name: system_cost
+      label: System Cost
+      hint: Cost of the solar system
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: merchant_comments
+      label: Merchant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_notes
+      label: System Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Received
+      - Pending
+      - Refunded
+      - Cancelled
+      required: false
+    - id: 19
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: system_id
+      label: system id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: merchant_comments
+      label: Merchant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: merchant_status
+      label: Merchant Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Cancelled
+      required: true

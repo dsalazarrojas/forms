@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Barrel Polishing Order Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Brewery or Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Business contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Complete business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: number_of_barrels
+      label: Number of Barrels to Polish
+      hint: How many barrels need polishing
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: barrel_type
+      label: Barrel Type
+      hint: Type of barrels you have
+      type: select_one
+      options:
+      - Oak barrels
+      - Stainless steel drums
+      - French oak
+      - American oak
+      - Mixed barrels
+      - Other
+      required: true
+    - id: 9
+      name: barrel_size
+      label: Barrel Size
+      hint: Typical size of barrels
+      type: select_one
+      options:
+      - 5 gallon
+      - 10 gallon
+      - 15 gallon
+      - 30 gallon
+      - 50 gallon
+      - 225 liter
+      - 300 liter
+      - Other
+      required: true
+    - id: 10
+      name: barrel_condition
+      label: Current Barrel Condition
+      hint: Describe the current condition
+      type: select_one
+      options:
+      - Good condition with light oxidation
+      - Fair condition with some buildup
+      - Poor condition with heavy oxidation
+      - Requires deep cleaning and polishing
+      - Severely damaged
+      required: true
+    - id: 11
+      name: polishing_type
+      label: Type of Polishing Needed
+      hint: Select polishing service
+      type: select_one
+      options:
+      - Standard polish and restoration
+      - Deep cleaning and polishing
+      - Sanitization polishing
+      - Cosmetic polishing
+      - Custom polishing
+      required: true
+    - id: 12
+      name: service_priority
+      label: Service Priority
+      hint: How quickly is this needed
+      type: select_one
+      options:
+      - Standard - 2-3 weeks
+      - Expedited - 1 week
+      - Rush - 2-3 days
+      - Emergency - ASAP
+      required: true
+    - id: 13
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When should service begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pickup_delivery
+      label: Pickup or Delivery
+      hint: Which service option
+      type: select_one
+      options:
+      - Pickup from brewery
+      - Delivery to brewery
+      - Drop-off at facility
+      - Full service - deliver and pickup
+      required: true
+    - id: 15
+      name: barrel_transport
+      label: Barrel Transport Method
+      hint: How will barrels be transported
+      type: select_one
+      options:
+      - Our truck
+      - Your transportation
+      - Professional hauling
+      - Partner transportation
+      required: false
+    - id: 16
+      name: special_requirements
+      label: Special Requirements or Instructions
+      hint: Any special handling needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: barrel_marks
+      label: Barrel Identification or Marks
+      hint: How will barrels be identified
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: materials_used
+      label: Preferred Polishing Materials
+      hint: Any material preferences
+      type: select_multiple
+      options:
+      - Standard polish compound
+      - Eco-friendly polishing
+      - Food-safe materials
+      - Specific brand
+      - No preference
+      required: false
+    - id: 19
+      name: volume_discount
+      label: Request Volume Discount
+      hint: Inquire about bulk pricing
+      type: select_one
+      options:
+      - Not applicable
+      - 10-25 barrels
+      - 25-50 barrels
+      - 50+ barrels
+      required: false
+    - id: 20
+      name: contract_service
+      label: Contract or Recurring Service
+      hint: Ongoing polishing needs
+      type: select_one
+      options:
+      - One-time service
+      - Quarterly service
+      - Semi-annual service
+      - Annual service
+      - Custom schedule
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Invoice for later payment
+      - Other arrangement
+      required: true
+    - id: 22
+      name: budget_available
+      label: Estimated Budget
+      hint: Your budget range
+      type: select_one
+      options:
+      - Under 500
+      - 500 - 1000
+      - 1000 - 2000
+      - 2000 - 5000
+      - 5000+
+      required: false

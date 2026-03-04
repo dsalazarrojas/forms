@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Suspension Form
+    pages:
+    - id: 1
+      name: membership_suspension_form
+      label: membership_suspension
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_suspension
+      label: reason_for_suspension
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Member suspended for violating rules''}'
+      - '{''value'': ''Member suspended for non-payment of dues''}'
+      - '{''value'': ''Member suspended for non-payment of fines''}'
+      required: false
+    - id: 3
+      name: suspension_duration
+      label: suspension_duration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1 day''}'
+      - '{''value'': ''1 week''}'
+      - '{''value'': ''1 month''}'
+      - '{''value'': ''6 months''}'
+      - '{''value'': ''1 year''}'
+      - '{''value'': ''2 years''}'
+      - '{''value'': ''5 years''}'
+      required: false
+    - id: 4
+      name: suspension_start_date
+      label: suspension_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: suspension_start_time
+      label: suspension_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_suspension_note
+      label: reason_for_suspension_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility
+      label: facility
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Facility A''}'
+      - '{''value'': ''Facility B''}'
+      - '{''value'': ''Facility C''}'
+      required: false
+    - id: 8
+      name: member_id
+      label: member_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

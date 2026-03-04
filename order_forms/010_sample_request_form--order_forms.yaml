@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Request Form
+    pages:
+    - id: 1
+      name: sample_request_form
+      label: Sample Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_service
+      label: Product or Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: example_type
+      label: What type of example would you like?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''product''}'
+      - '{''id'': 2, ''name'': ''service''}'
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: product_service_2
+      label: Product or Service 2
+      hint: null
+      type: text
+      options: []
+      required: false

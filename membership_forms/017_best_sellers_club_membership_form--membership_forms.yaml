@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Sellers Club Membership Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: We will send membership confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: For account verification and updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business or Store Name
+      hint: Name of your selling business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: What type of business do you operate
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Limited Liability Company
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Full address of your business
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_category
+      label: Primary Product Category
+      hint: What do you primarily sell
+      type: select_one
+      options:
+      - Electronics
+      - Clothing and Apparel
+      - Home and Garden
+      - Beauty and Health
+      - Sports and Outdoors
+      - Toys and Games
+      - Books and Media
+      - Food and Beverages
+      - Handmade Items
+      - Automotive
+      - Other
+      required: true
+    - id: 8
+      name: selling_platforms
+      label: Selling Platforms Used
+      hint: Where do you currently sell
+      type: select_multiple
+      options:
+      - Amazon
+      - eBay
+      - Etsy
+      - Shopify
+      - Walmart Marketplace
+      - Facebook Marketplace
+      - Instagram Shopping
+      - Own Website
+      - Physical Store
+      - Other
+      required: true
+    - id: 9
+      name: years_selling
+      label: Years of Selling Experience
+      hint: How long have you been selling
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 10
+      name: monthly_sales_volume
+      label: Average Monthly Sales Volume
+      hint: Approximate number of items sold per month
+      type: select_one
+      options:
+      - Less than 50 items
+      - 50 to 100 items
+      - 100 to 500 items
+      - 500 to 1000 items
+      - Over 1000 items
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 to $50,000
+      - $50,000 to $100,000
+      - $100,000 to $500,000
+      - $500,000 to $1 million
+      - Over $1 million
+      required: true
+    - id: 12
+      name: membership_type
+      label: Membership Type
+      hint: Select your preferred membership level
+      type: select_one
+      options:
+      - Basic Member
+      - Premium Member
+      - Elite Member
+      - Enterprise Member
+      required: true
+    - id: 13
+      name: membership_benefits
+      label: Desired Benefits
+      hint: What benefits are you most interested in
+      type: select_multiple
+      options:
+      - Networking Opportunities
+      - Training and Education
+      - Marketing Support
+      - Discounted Shipping Rates
+      - Access to Wholesale Suppliers
+      - Business Tools and Software
+      - Mentorship Program
+      - Exclusive Events
+      required: true
+    - id: 14
+      name: business_goals
+      label: Business Goals
+      hint: What are your main business objectives
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: why_join
+      label: Why Do You Want to Join
+      hint: What attracted you to our club
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: referrals
+      label: How Did You Hear About Us
+      hint: Who referred you or where did you find us
+      type: select_one
+      options:
+      - Friend or Colleague
+      - Social Media
+      - Online Search
+      - Industry Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: tax_id
+      label: Tax ID or Business Registration Number
+      hint: For verification purposes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: website_url
+      label: Business Website URL
+      hint: Link to your online store or website
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your business
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_accepted
+      label: I Accept the Terms and Conditions
+      hint: Do you agree to the membership terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

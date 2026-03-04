@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Quote Form
+    pages:
+    - id: 1
+      name: shipping_quote_request
+      label: Shipping Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_rate_calculation
+      label: Shipping Rate Calculation
+      hint: null
+      type: select_one
+      options:
+      - USPS
+      - Canada Post
+      - UPS
+      - FedEx
+      - DHL
+      required: false
+    - id: 4
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Express
+      - Priority
+      required: false
+    - id: 5
+      name: ship_to_address
+      label: Ship To Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Express
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: order_value
+      label: Order Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: ship_from_country
+      label: Ship From Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - UK
+      required: false
+    - id: 13
+      name: ship_from_state
+      label: Ship From State
+      hint: null
+      type: select_multiple
+      options:
+      - California
+      - New York
+      - Texas
+      required: false
+    - id: 14
+      name: ship_from_city
+      label: Ship From City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ship_from_zip
+      label: Ship From Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ship_to_country
+      label: Ship To Country
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - UK
+      required: false
+    - id: 17
+      name: ship_to_state
+      label: Ship To State
+      hint: null
+      type: select_multiple
+      options:
+      - California
+      - New York
+      - Texas
+      required: false
+    - id: 18
+      name: ship_to_city
+      label: Ship To City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ship_to_zip
+      label: Ship To Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ship_to_phone
+      label: Ship To Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ship_to_email
+      label: Ship To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: ship_to_note
+      label: Ship To Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ship_from_note
+      label: Ship From Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipping_quote
+      label: Shipping Quote
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false

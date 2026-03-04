@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Market Stallholder Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business name
+      hint: Legal or trading name of your stall
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for the application
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_category
+      label: Product category
+      hint: Main items you plan to sell
+      type: select_one
+      options:
+      - Food and beverage
+      - Crafts and gifts
+      - Clothing and accessories
+      - Services
+      required: true
+    - id: 6
+      name: stall_size_requested
+      label: Stall size requested
+      hint: Choose the standard size you need
+      type: select_one
+      options:
+      - 3x3 meters
+      - 6x3 meters
+      - Outdoor pitch
+      required: true
+    - id: 7
+      name: insurance_details
+      label: Insurance details
+      hint: Public liability insurer and policy number or null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: electricity_required
+      label: Electricity required
+      hint: Will you need access to power
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: product_images
+      label: Product image links
+      hint: URLs to sample images or portfolio or null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Anything else the organizers should know or null
+      type: text
+      options: []
+      required: false

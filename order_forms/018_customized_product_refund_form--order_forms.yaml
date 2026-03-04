@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customized Product Refund Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: order-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_return
+      label: reason-for-return
+      hint: null
+      type: select_one
+      options:
+      - Order not received
+      - Defective product
+      - Different product received
+      - Refund policy not applied
+      required: false
+    - id: 4
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipping_date
+      label: shipping-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: product-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: product-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: customer-message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_value
+      label: order-value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: shipping-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_country
+      label: customer-country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 14
+      name: customer_state
+      label: customer-state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      required: false
+    - id: 15
+      name: customer_city
+      label: customer-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_zip
+      label: customer-zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: customer_phone_country_code
+      label: customer-phone-country-code
+      hint: null
+      type: select_one
+      options:
+      - '+1'
+      - Other
+      required: false

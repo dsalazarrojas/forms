@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Margin Monitoring Log
+    pages:
+    - id: 1
+      name: margin_checks
+      label: Margin Checks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: margin_date
+      label: Margin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: margin_time
+      label: Margin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: margin_status
+      label: Margin Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 6
+      name: margin_amount
+      label: Margin Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: margin_type
+      label: Margin Type
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Put
+      - Spread
+      - Other
+      required: false
+    - id: 8
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: account_opening_balance
+      label: Account Opening Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 12
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments_1
+      label: Comments 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: comments_3
+      label: Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comments_4
+      label: Comments 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: comments_5
+      label: Comments 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: comments_6
+      label: Comments 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: comments_7
+      label: Comments 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments_8
+      label: Comments 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments_9
+      label: Comments 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: comments_10
+      label: Comments 10
+      hint: null
+      type: note
+      options: []
+      required: false

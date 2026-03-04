@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: offshore_wind_turbine_condition_monitoring_log
+    pages:
+    - id: 1
+      name: turbine_status
+      label: turbine_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      - '{''value'': ''In Maintenance''}'
+      - '{''value'': ''In Repair''}'
+      required: true
+    - id: 2
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Resolved''}'
+      - '{''value'': ''Resolved''}'
+      - '{''value'': ''In Progress''}'
+      required: true
+    - id: 7
+      name: resolved_by
+      label: resolved_by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: true
+    - id: 8
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: true
+    - id: 9
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Scheduled''}'
+      - '{''value'': ''Scheduled''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Done''}'
+      required: true
+    - id: 10
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_description
+      label: maintenance_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''John Smith''}'
+      - '{''value'': ''Jane Smith''}'
+      required: true
+    - id: 14
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: page_2
+      label: page_2
+      hint: null
+      type: text
+      options: []
+      required: false

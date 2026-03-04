@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_family
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - In a relationship
+      required: false
+    - id: 17
+      name: spouse_name
+      label: Spouse Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: children_count
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_header_faith_background
+      label: -- Faith Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: faith_tradition
+      label: Faith Tradition or Denomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: baptism_status
+      label: Baptism Status
+      hint: null
+      type: select_one
+      options:
+      - Baptized
+      - Not baptized
+      - Seeking baptism
+      - Baptized elsewhere
+      required: false
+    - id: 22
+      name: baptism_date
+      label: Date of Baptism (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_header_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: membership_start_date
+      label: Desired Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: referred_by
+      label: How Did You Hear About Our Church
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_experience
+      label: -- Experience and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: ministry_interests
+      label: Areas of Ministry Interest (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Worship and music
+      - Education and teaching
+      - Youth ministry
+      - Community service
+      - Prayer and spiritual growth
+      - Administrative support
+      - Technology
+      - Other
+      required: false
+    - id: 28
+      name: skills_talents
+      label: Skills or Talents You Can Share
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_header_commitment
+      label: -- Membership Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: doctrinal_agreement
+      label: I agree with the church doctrine and values
+      hint: null
+      type: select_one
+      options:
+      - Fully agree
+      - Mostly agree
+      - Partially agree
+      - Disagree
+      required: true

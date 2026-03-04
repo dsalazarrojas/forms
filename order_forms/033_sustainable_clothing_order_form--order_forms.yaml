@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Clothing Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_size
+      label: product_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_method_options
+      label: payment_method_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_option_1
+      label: payment_option_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_option_2
+      label: payment_option_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_order
+      label: date_of_order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_order
+      label: time_of_order
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes_2
+      label: customer_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false

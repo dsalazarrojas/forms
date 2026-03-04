@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jana's Color Street Inventory Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: color_stations
+      label: Color Stations
+      hint: null
+      type: select_multiple
+      options:
+      - Color Station A
+      - Color Station B
+      - Color Station C
+      required: false
+    - id: 3
+      name: customer_address
+      label: Customer Address
+      hint: Street, city, state and zip, no dashes
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: Any additional notes about this order
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer E-Mail
+      hint: Customer's e-mail
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Quantity of item to order
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_note
+      label: Customer Note
+      hint: Customer's note to seller
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: color_stations_2
+      label: Color Stations 2
+      hint: null
+      type: select_multiple
+      options:
+      - Color Station A
+      - Color Station B
+      - Color Station C
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: color_stations_3
+      label: Color Stations 3
+      hint: null
+      type: select_multiple
+      options:
+      - Color Station A
+      - Color Station B
+      - Color Station C
+      required: false
+    - id: 14
+      name: customer_zip
+      label: Customer Zip
+      hint: Zip Code with no dashes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Membership Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      type: note
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Valid email for communications
+      type: email
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      required: true
+    - id: 6
+      name: section_business_info
+      label: -- Business Information --
+      type: note
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      required: true
+    - id: 8
+      name: business_industry
+      label: Industry
+      hint: Primary industry or sector
+      type: select_one
+      options:
+      - Technology
+      - Retail
+      - Manufacturing
+      - Services
+      - Healthcare
+      - Finance
+      - Other
+      required: true
+    - id: 9
+      name: business_years_operating
+      label: Years in Business
+      hint: How long has your business been operating
+      type: number
+      required: true
+    - id: 10
+      name: business_location
+      label: Business Location
+      hint: City and state
+      type: text
+      required: true
+    - id: 11
+      name: section_membership_details
+      label: -- Membership Details --
+      type: note
+      required: false
+    - id: 12
+      name: membership_tier
+      label: Desired Membership Tier
+      hint: Select the membership level
+      type: select_one
+      options:
+      - Basic - $99/year
+      - Professional - $249/year
+      - Premium - $499/year
+      - Enterprise - Custom Pricing
+      required: true
+    - id: 13
+      name: reasons_for_membership
+      label: Reasons for Joining
+      hint: What benefits are you seeking
+      type: select_multiple
+      options:
+      - Networking Opportunities
+      - Training and Resources
+      - Discounts and Deals
+      - Industry Recognition
+      - Access to Events
+      required: true
+    - id: 14
+      name: heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Internet Search
+      - Referral
+      - Social Media
+      - Advertisement
+      - Industry Event
+      - Other
+      required: false
+    - id: 15
+      name: membership_start_date
+      label: Preferred Start Date
+      hint: When would you like membership to begin
+      type: date
+      required: false
+    - id: 16
+      name: agreement_acceptance
+      label: I agree to the membership terms
+      hint: Confirm your acceptance of our membership agreement
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I decline
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Group Membership Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Member
+      - Premium Member
+      - Guest
+      required: false
+    - id: 6
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: member_role
+      label: Member Role
+      hint: null
+      type: select_one
+      options:
+      - Marketing Manager
+      - Content Creator
+      - Designer
+      - Developer
+      required: false
+    - id: 8
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_header_2
+      label: Header
+      hint: null
+      type: note
+      options: []
+      required: false

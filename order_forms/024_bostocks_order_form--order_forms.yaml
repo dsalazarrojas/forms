@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bostocks Order Form
+    pages:
+    - id: 1
+      name: customer_details_header
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: buyer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ship_addr
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_selection_header
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: qty_item_a
+      label: Product A - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: qty_item_b
+      label: Product B - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: qty_item_c
+      label: Product C - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: instructions_header
+      label: -- Special Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: special_notes
+      label: Order Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_payment_header
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: prefer_delivery_dt
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pay_meth
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash on Delivery
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: order_closing
+      label: Thank you for your order!
+      hint: null
+      type: note
+      options: []
+      required: false

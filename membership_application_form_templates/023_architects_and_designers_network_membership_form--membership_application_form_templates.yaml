@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architects And Designers Network Membership Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_professional_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: profession
+      label: Professional Discipline
+      hint: null
+      type: select_one
+      options:
+      - Architect
+      - Designer
+      - Interior designer
+      - Landscape architect
+      - Urban planner
+      - Engineer
+      - Other
+      required: true
+    - id: 8
+      name: firm_name
+      label: Firm or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: firm_address
+      label: Firm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: firm_phone
+      label: Firm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: specializations
+      label: Areas of Specialization
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial architecture
+      - Residential design
+      - Interior design
+      - Landscape design
+      - Urban design
+      - Sustainable design
+      - Heritage restoration
+      required: false
+    - id: 13
+      name: section_credentials
+      label: -- Credentials and Licenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: licensure_status
+      label: Professional License Status
+      hint: null
+      type: select_one
+      options:
+      - Licensed
+      - Registered
+      - Certified
+      - Not licensed
+      - In progress
+      required: true
+    - id: 15
+      name: license_number
+      label: License or Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issuing_state
+      label: Issuing State or Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: membership_level
+      label: Membership Level Desired
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Student
+      - Firm
+      - Corporate
+      required: true
+    - id: 19
+      name: membership_fee_confirmed
+      label: Membership fee payment method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit card
+      - Bank transfer
+      - Invoice me
+      required: false
+    - id: 20
+      name: participation_interests
+      label: Interested In
+      hint: Check areas of interest
+      type: select_multiple
+      options:
+      - Networking events
+      - Professional development
+      - Project showcases
+      - Mentoring programs
+      required: false

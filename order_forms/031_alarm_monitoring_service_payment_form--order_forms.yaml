@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alarm Monitoring Service Payment Form
+    pages:
+    - id: 1
+      name: section_account
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Alarm Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_address
+      label: Service Address
+      hint: Address where the alarm is installed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: For payment receipt
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_payment_details
+      label: -- Payment and Service Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_plan
+      label: Monitoring Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic (Burglar Only)
+      - Standard (Burglar and Fire)
+      - Premium (Video Monitoring and Smart Home)
+      - Commercial Enterprise Plan
+      required: true
+    - id: 9
+      name: payment_cycle
+      label: Payment Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly (5% Discount)
+      - Annual (10% Discount)
+      required: true
+    - id: 10
+      name: amount_due
+      label: Amount to Pay ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cardholder_name
+      label: Cardholder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: true
+    - id: 14
+      name: autopay_enrollment
+      label: Enroll in Automatic Monthly Payments?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: authorization_statement
+      label: I authorize the security provider to charge my card for monitoring services
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true

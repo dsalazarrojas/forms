@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suit Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: waist
+      label: waist
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sleeve_length
+      label: sleeve length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fabric_type
+      label: fabric type
+      hint: null
+      type: select_one
+      options:
+      - Suit
+      - Dress Shirt
+      - Pants
+      - Jacket
+      - Other
+      required: true
+    - id: 7
+      name: fabric_color
+      label: fabric color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Gray
+      - Brown
+      - Purple
+      - Pink
+      - Orange
+      - Silver
+      - Gold
+      - Other
+      required: true
+    - id: 8
+      name: collar_style
+      label: collar style
+      hint: null
+      type: select_multiple
+      options:
+      - Classic
+      - Spread Collar
+      - Mandarin
+      - Other
+      required: false
+    - id: 9
+      name: lapel_style
+      label: lapel style
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Large
+      - None
+      - Other
+      required: false
+    - id: 10
+      name: button_style
+      label: button style
+      hint: null
+      type: select_multiple
+      options:
+      - Buttonholes
+      - No Buttons
+      - Other
+      required: false
+    - id: 11
+      name: order_type
+      label: order type
+      hint: null
+      type: select_one
+      options:
+      - Custom
+      - Standard
+      - Other
+      required: true
+    - id: 12
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Well Being Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should we deliver?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name (if applicable)
+      hint: Business or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: What type of well-being products are you ordering?
+      hint: Product category
+      type: select_one
+      options:
+      - Wellness Kits
+      - Mental Health Resources
+      - Fitness Equipment
+      - Nutrition Packages
+      - Self-Care Boxes
+      - Meditation Supplies
+      - Community Health Materials
+      - Custom Package
+      required: true
+    - id: 7
+      name: wellness_kit_type
+      label: Select Wellness Kit Type
+      hint: If ordering wellness kits
+      type: select_one
+      options:
+      - Basic Wellness Kit
+      - Premium Wellness Kit
+      - Family Wellness Kit
+      - Senior Wellness Kit
+      - Youth Wellness Kit
+      - Not applicable
+      required: false
+    - id: 8
+      name: kit_quantity
+      label: How many kits would you like to order?
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_resources
+      label: Select Mental Health Resources
+      hint: If ordering resources
+      type: select_multiple
+      options:
+      - Stress Management Guides
+      - Mindfulness Workbooks
+      - Crisis Hotline Cards
+      - Therapy Resource Lists
+      - Self-Help Books
+      - Meditation Apps Subscription
+      - Not applicable
+      required: false
+    - id: 10
+      name: fitness_equipment
+      label: Select Fitness Equipment
+      hint: If ordering equipment
+      type: select_multiple
+      options:
+      - Yoga Mats
+      - Resistance Bands
+      - Jump Ropes
+      - Exercise Balls
+      - Dumbbells (light)
+      - Dumbbells (medium)
+      - Fitness Trackers
+      - Not applicable
+      required: false
+    - id: 11
+      name: nutrition_package
+      label: Select Nutrition Package
+      hint: If ordering nutrition items
+      type: select_one
+      options:
+      - Basic Nutrition Guide
+      - Healthy Snack Box
+      - Meal Planning Kit
+      - Vitamin Supplement Pack
+      - Not applicable
+      required: false
+    - id: 12
+      name: self_care_items
+      label: Select Self-Care Items
+      hint: If ordering self-care
+      type: select_multiple
+      options:
+      - Aromatherapy Candles
+      - Bath Salts
+      - Journal and Pen Set
+      - Coloring Books
+      - Herbal Tea Collection
+      - Essential Oils
+      - Comfort Blanket
+      - Not applicable
+      required: false
+    - id: 13
+      name: meditation_supplies
+      label: Select Meditation Supplies
+      hint: If ordering meditation items
+      type: select_multiple
+      options:
+      - Meditation Cushions
+      - Singing Bowls
+      - Incense Set
+      - Timer/Bell
+      - Guided Meditation CDs
+      - Not applicable
+      required: false
+    - id: 14
+      name: community_materials
+      label: Select Community Health Materials
+      hint: For group distribution
+      type: select_multiple
+      options:
+      - Health Screening Flyers
+      - Wellness Posters
+      - Educational Brochures
+      - Resource Directory
+      - Workshop Materials
+      - Not applicable
+      required: false
+    - id: 15
+      name: custom_package_details
+      label: If custom package, please describe contents
+      hint: Specific items needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: target_audience
+      label: Who is the target audience for these products?
+      hint: End users
+      type: select_one
+      options:
+      - Individuals
+      - Families
+      - Seniors
+      - Youth/Teens
+      - Children
+      - Employees
+      - Community Members
+      - Specific Group
+      required: true
+    - id: 17
+      name: target_audience_details
+      label: If specific group, please describe
+      hint: Details about recipients
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: distribution_plan
+      label: How will these products be distributed?
+      hint: Distribution method
+      type: select_one
+      options:
+      - Direct to individuals
+      - Through community center
+      - At health fair/event
+      - Through healthcare provider
+      - Workplace distribution
+      - Mail delivery
+      - Other
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need delivery?
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: Time window
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - No preference
+      required: true
+    - id: 21
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: Gate codes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bulk_discount
+      label: Does this order qualify for bulk discount?
+      hint: Large orders
+      type: select_one
+      options:
+      - No, standard order
+      - Yes, 10-50 units
+      - Yes, 51-100 units
+      - Yes, 100+ units
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Purchase Order
+      - Invoice
+      required: true
+    - id: 24
+      name: billing_address
+      label: Billing Address
+      hint: If different from delivery
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tax_exempt_status
+      label: Are you tax-exempt?
+      hint: Nonprofit status
+      type: select_one
+      options:
+      - false
+      - Yes, nonprofit
+      - Yes, government
+      - Yes, educational
+      required: false
+    - id: 26
+      name: tax_id_number
+      label: Tax ID Number (if applicable)
+      hint: EIN or similar
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: gift_message
+      label: Would you like to include a gift message?
+      hint: Optional message
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Any additional comments or special requests?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

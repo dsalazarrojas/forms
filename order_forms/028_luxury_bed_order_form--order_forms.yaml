@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bed_info
+      label: Luxury Bed
+      hint: null
+      type: select_multiple
+      options:
+      - King
+      - Queen
+      - Full
+      - Twin
+      - Twin XL
+      - California King
+      - Super
+      - Sofa Bed
+      required: false
+    - id: 4
+      name: mattress_type
+      label: Mattress Type
+      hint: null
+      type: select_multiple
+      options:
+      - Innerspring
+      - Memory Foam
+      - Latex
+      - Hybrid
+      - Hybrid Foam
+      required: false
+    - id: 5
+      name: mattress_size
+      label: Mattress Size
+      hint: null
+      type: select_multiple
+      options:
+      - King
+      - Queen
+      - Twin
+      - Full
+      - California King
+      required: false
+    - id: 6
+      name: color_option
+      label: Color Option
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Gray
+      - White
+      - White/Cream
+      required: false
+    - id: 7
+      name: price_option
+      label: Price Option
+      hint: null
+      type: select_one
+      options:
+      - $100-$500
+      - $501-$1000
+      - $1001-$2000
+      - $2001-$3000
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false

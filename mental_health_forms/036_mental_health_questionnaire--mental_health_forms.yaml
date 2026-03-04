@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: mental_health_questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_history
+      label: mental_health_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: depression
+      label: depression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: anxiety
+      label: anxiety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: trauma
+      label: trauma
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: substance_use
+      label: substance_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: suicidal_tendencies
+      label: suicidal_tendencies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: self_harm
+      label: self_harm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: mental_state
+      label: mental_state
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''good''}'
+      - '{''label'': ''fair''}'
+      - '{''label'': ''poor''}'
+      - '{''label'': ''very_poore''}'
+      required: false

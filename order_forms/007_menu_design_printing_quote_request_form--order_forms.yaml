@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Design Printing Quote Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: Restaurant, food truck, or catering service
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Restaurant''}'
+      - '{''id'': 2, ''name'': ''Food Truck''}'
+      - '{''id'': 3, ''name'': ''Catering Service''}'
+      required: false
+    - id: 3
+      name: menu_design_requirements
+      label: Menu Design Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quote_request
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quote_request_date
+      label: Quote Request Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quote_request_time
+      label: Quote Request Time
+      hint: 'Format: 12H'
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: quote_details
+      label: Quote Details
+      hint: Please provide quote details here
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      required: false
+    - id: 12
+      name: quote_status
+      label: Quote Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''Rejected''}'
+      required: false
+    - id: 13
+      name: quote_notes
+      label: Quote Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: quote_due_date
+      label: Quote Due Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: quote_delivery_date
+      label: Quote Delivery Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: quote_status_date
+      label: Quote Status Date
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false

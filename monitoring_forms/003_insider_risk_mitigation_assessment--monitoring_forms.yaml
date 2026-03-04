@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insider Risk Mitigation Assessment
+    pages:
+    - id: 1
+      name: incident_history
+      label: Incident History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: threat_controls
+      label: Threat Controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_controls
+      label: Recommended Controls
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: improvement_plan
+      label: Improvement Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: risk_comment
+      label: Risk Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: threat_level
+      label: Threat Level
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Information Collection Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - CO
+      - FL
+      required: false
+    - id: 5
+      name: zip
+      label: Zip
+      hint: 5-digits
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Private
+      required: false
+    - id: 11
+      name: company_type_other
+      label: Other Company Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_id
+      label: Tax ID
+      hint: 13-digits
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: invoice_date
+      label: Invoice Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: due_date
+      label: Due Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: invoice_amount
+      label: Invoice Amount
+      hint: 2 digits after decimal point
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

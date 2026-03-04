@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Book Requisition Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order e-book
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: e_book_title
+      label: E-book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_book_edition
+      label: E-book Edition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: e_book_format
+      label: E-book Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: e_book_subject
+      label: E-book Subject
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: e_book_status
+      label: E-book Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: e_book_price
+      label: E-book Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: e_book_publisher
+      label: E-book Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: e_book_year
+      label: E-book Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: e_book_isbn
+      label: E-book ISBN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: e_book_url
+      label: E-book URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: e_book_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: e_book_due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: e_book_order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: e_book_requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: e_book_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: e_book_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: e_book_requester_institution
+      label: Requester Institution
+      hint: null
+      type: text
+      options: []
+      required: false

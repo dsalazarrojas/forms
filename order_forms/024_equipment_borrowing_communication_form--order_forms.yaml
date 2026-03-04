@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Borrowing Communication Form
+    pages:
+    - id: 1
+      name: request_form_data
+      label: Request Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - On Loan
+      - In Maintenance
+      required: true
+    - id: 3
+      name: communication_plan
+      label: Communication Plan
+      hint: Please provide details about how you will communicate with the requester
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_period
+      label: Loan Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: loaned_by
+      label: Loaned By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 7
+      name: returned_by
+      label: Returned By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 8
+      name: status_comments
+      label: Status Comments
+      hint: Please provide any additional comments about the equipment status
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: loan_extension
+      label: Loan Extension
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: equipment_return
+      label: Equipment Return
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Any additional comments about the equipment
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 15
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: loaned
+      label: Loaned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: returned
+      label: Returned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: loan_duration
+      label: Loan Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: loan_start_date
+      label: Loan Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: loan_end_date
+      label: Loan End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 23
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 24
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: Add comments about the form submission
+      type: text
+      options: []
+      required: false

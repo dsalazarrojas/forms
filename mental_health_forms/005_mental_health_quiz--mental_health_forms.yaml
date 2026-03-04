@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Quiz
+    pages:
+    - id: 1
+      name: mental_health_quiz_start
+      label: Mental Health Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_quiz_questions
+      label: Mental Health Quiz Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mental_health_concerns
+      label: Mental Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mental_health_concerns_2
+      label: Mental Health Concerns
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Depression''}'
+      - '{''option'': ''Anxiety''}'
+      - '{''option'': ''Bipolar Disorder''}'
+      - '{''option'': ''Post-Traumatic Stress Disorder''}'
+      - '{''option'': ''Substance Abuse''}'
+      - '{''option'': ''Eating Disorder''}'
+      - '{''option'': ''Schizophrenia''}'
+      - '{''option'': ''Obsessive-Compulsive Disorder''}'
+      - '{''option'': ''Personality Disorder''}'
+      required: false
+    - id: 5
+      name: mental_health_form
+      label: Mental Health Form
+      hint: null
+      type: text
+      options: []
+      required: false

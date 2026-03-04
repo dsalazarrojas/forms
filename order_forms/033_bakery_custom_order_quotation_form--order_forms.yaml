@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Custom Order Quotation Form
+    pages:
+      - id: 1
+        name: section_customer
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: customer_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: company_organization
+        Label: Company or Organization (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_event
+        label: -- Event Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: event_type
+        Label: Event Type
+        hint: null
+        type: select_one
+        options:
+          - Wedding
+          - Birthday
+          - Corporate Event
+          - Anniversary
+          - Graduation
+          - Holiday Party
+          - Custom Celebration
+          - Other
+        required: true
+      - id: 8
+        name: event_date
+        Label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: number_of_guests
+        Label: Estimated Number of Guests
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 10
+        name: section_order_details
+        label: -- Order Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: order_description
+        Label: Detailed Order Description
+        hint: What type of baked goods do you need?
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: primary_item
+        Label: Primary Item
+        hint: Cake, cookies, pastries, bread, etc.
+        type: select_one
+        options:
+          - Wedding Cake
+          - Birthday Cake
+          - Cupcakes
+          - Cookies
+          - Pastries
+          - Bread
+          - Dessert Assortment
+          - Other
+        required: true
+      - id: 13
+        name: servings_quantity
+        Label: Number of Servings or Pieces Needed
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 14
+        name: flavor_preferences
+        Label: Flavor Preferences
+        hint: Chocolate, vanilla, custom flavors, etc.
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: design_requirements
+        Label: Design or Decoration Requirements
+        hint: Colors, themes, special designs
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: dietary_restrictions
+        Label: Dietary Restrictions or Allergies
+        hint: Vegan, gluten-free, nut-free, etc.
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: section_customization
+        label: -- Customization Options --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: custom_toppers
+        Label: Custom Toppers or Embellishments
+        hint: null
+        type: select_one
+        options:
+          - Fresh Flowers
+          - Fondant Decorations
+          - Edible Gold Leaf
+          - Sugar Art
+          - None
+          - Other
+        required: false
+      - id: 19
+        name: personalization
+        Label: Personalization Needed
+        hint: Names, messages, photos, etc.
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: section_delivery
+        label: -- Delivery and Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: delivery_option
+        Label: Delivery Option
+        hint: null
+        type: select_one
+        options:
+          - Bakery Delivery
+          - Customer Pickup
+          - Customer Arrangement
+        required: true
+      - id: 22
+        name: delivery_location
+        Label: Delivery Location or Pickup Time
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: budget_estimate
+        Label: Estimated Budget
+        hint: Range in dollars
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: special_requirements
+        Label: Special Requirements or Notes
+        hint: Setup, display, storage, etc.
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: quotation_request_confirmation
+        Label: I Request a Custom Quotation for This Order
+        hint: null
+        type: select_one
+        options:
+          - Yes, Request Quotation
+          - No, Will Contact Later
+        required: true

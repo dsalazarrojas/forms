@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Exemption Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exemption_reason
+      label: Exemption Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Faculty
+      - Member
+      required: true
+    - id: 7
+      name: exemption_start_date
+      label: Exemption Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: exemption_end_date
+      label: Exemption End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: exemption_status
+      label: Exemption Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: exemption_application_number
+      label: Exemption Application Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: exemption_application_date
+      label: Exemption Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: exemption_application_status
+      label: Exemption Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 15
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - File1
+      - File2
+      - File3
+      required: true

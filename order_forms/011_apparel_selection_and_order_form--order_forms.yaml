@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Selection And Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: apparel_selection
+      label: -- Apparel Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: garment_type
+      label: Garment Type
+      hint: null
+      type: select_one
+      options:
+      - T-Shirt
+      - Polo Shirt
+      - Hoodie
+      - Sweatshirt
+      - Jacket
+      - Cap
+      - Long Sleeve Shirt
+      required: true
+    - id: 8
+      name: size_selection
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 9
+      name: color_selection
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy
+      - Blue
+      - Red
+      - Green
+      - Gray
+      - Custom
+      required: true
+    - id: 10
+      name: material_preference
+      label: Material Preference
+      hint: null
+      type: select_one
+      options:
+      - 100 percent Cotton
+      - Cotton Blend
+      - Polyester
+      - Performance Fabric
+      - Organic Cotton
+      required: false
+    - id: 11
+      name: quantity_ordered
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: customization_options
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: add_custom_logo
+      label: Add custom logo or design?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: design_details
+      label: Design or logo details
+      hint: Describe what you would like printed or embroidered
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_information
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: postal_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true

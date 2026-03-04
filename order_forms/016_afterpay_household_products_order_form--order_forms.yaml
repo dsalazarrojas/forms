@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Household Products Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Household Essentials Order --
+      hint: Everyday products delivered to your doorstep
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: street, Suburb, Postcode
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_header
+      label: -- Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: Product Name - e.g., Detergent, Paper Towels
+      hint: enter the specific household item
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pack_size
+      label: Pack Size - Single, Multi-pack, Bulk
+      hint: select the preferred packaging size
+      type: select_one
+      options:
+      - Single Item
+      - 3-Pack Bundle
+      - 6-Pack Bundle
+      - Bulk / Case
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: number of packs
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: extra_items
+      label: Frequently bought together items
+      hint: add these to your order
+      type: select_multiple
+      options:
+      - Dish Soap
+      - Kitchen Sponges
+      - Trash Bags
+      - All-purpose Cleaner
+      required: false
+    - id: 11
+      name: payment_option
+      label: Payment Option - Afterpay Available
+      hint: select Afterpay for interest-free installments
+      type: select_one
+      options:
+      - Afterpay
+      - Debit Card
+      - Credit Card
+      required: true
+    - id: 12
+      name: total_amount
+      label: Total Order Amount
+      hint: including tax
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: delivery_instructions
+      label: Leave at door instructions
+      hint: e.g., Leave behind the planter
+      type: text
+      options: []
+      required: false

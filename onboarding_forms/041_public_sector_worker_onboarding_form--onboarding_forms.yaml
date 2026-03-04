@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Sector Worker Onboarding Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: employee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_arrangement
+      label: work_arrangement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: shift
+      label: shift
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_info
+      label: supervisor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: work_schedule
+      label: work_schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: work_shift
+      label: work_shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

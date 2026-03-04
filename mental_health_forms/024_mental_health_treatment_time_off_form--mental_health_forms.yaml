@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Treatment Time Off Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Enter your employee ID
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Inpatient
+      - Outpatient
+      - Virtual
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: Please enter your reason for time off
+      type: text
+      options: []
+      required: true

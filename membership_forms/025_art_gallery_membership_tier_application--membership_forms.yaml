@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Membership Tier Application
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of membership application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: membership_tier
+      label: Membership Tier
+      hint: Select desired membership level
+      type: select_one
+      options:
+      - Student - $25/year
+      - Individual - $50/year
+      - Dual - $75/year
+      - Family - $100/year
+      - Patron - $250/year
+      - Benefactor - $500/year
+      - Corporate - $1,000/year
+      required: true
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: Is this a new or renewal membership
+      type: select_one
+      options:
+      - New Membership
+      - Renewal
+      - Upgrade
+      - Gift Membership
+      required: true
+    - id: 11
+      name: previous_member
+      label: Previous Member
+      hint: Have you been a member before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: previous_member_id
+      label: Previous Member ID
+      hint: Previous membership ID if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gift_recipient_name
+      label: Gift Recipient Name
+      hint: If gift membership - recipient name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gift_message
+      label: Gift Message
+      hint: Optional gift message
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: Type of credit card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 17
+      name: auto_renewal
+      label: Auto Renewal
+      hint: Enable automatic renewal
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: newsletter_subscription
+      label: Newsletter Subscription
+      hint: Receive gallery newsletter
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: event_invitations
+      label: Event Invitations
+      hint: Receive event invitations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Interested in volunteering
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 21
+      name: volunteer_areas
+      label: Volunteer Areas
+      hint: Select areas of interest
+      type: select_multiple
+      options:
+      - Gallery Tours
+      - Events
+      - Education Programs
+      - Administration
+      - Special Exhibitions
+      - Membership
+      required: false
+    - id: 22
+      name: donation_add_on
+      label: Donation Add-On
+      hint: Would you like to add a donation
+      type: select_one
+      options:
+      - Yes - $25
+      - Yes - $50
+      - Yes - $100
+      - Yes - Other Amount
+      - false
+      required: true
+    - id: 23
+      name: donation_amount
+      label: Donation Amount
+      hint: Specify donation amount
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about membership
+      type: select_one
+      options:
+      - Gallery Website
+      - Social Media
+      - Friend or Family
+      - Event Attendance
+      - Email
+      - Advertisement
+      - Other
+      required: false
+    - id: 25
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_interests
+      label: Special Interests
+      hint: Art forms or periods of interest
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I accept membership terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion International Campaign Image Consent Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_input_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_input_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: Campaign Use
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Promotional
+      - Editorial
+      - Social
+      - Other
+      required: true
+    - id: 6
+      name: user_input_6
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: user_input_7
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note_input_1
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

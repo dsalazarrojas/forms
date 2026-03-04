@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Donation Valuation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_contact_email
+      label: Donor Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Donor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: clothing_category
+      label: Primary Clothing Category
+      hint: Select the main category of items
+      type: select_multiple
+      options:
+      - Mens Apparel
+      - Womens Apparel
+      - Childrens Apparel
+      - Footwear
+      - Accessories
+      - Outerwear
+      required: true
+    - id: 6
+      name: total_items
+      label: Total Number of Items
+      hint: Count of all pieces donated
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: condition_assessment
+      label: Overall Condition
+      hint: Select the condition of items
+      type: select_one
+      options:
+      - New with Tags
+      - Like New
+      - Good
+      - Fair
+      - Mixed Conditions
+      required: true
+    - id: 8
+      name: estimated_value
+      label: Estimated Total Value
+      hint: Fair market value of donation
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: designer_brands
+      label: Any Designer or Premium Brands
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: high_value_items
+      label: Are There High-Value Items
+      hint: Items valued over 50 dollars
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: high_value_description
+      label: Description of High-Value Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: damage_or_stains
+      label: Any Damage, Stains, or Wear
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Direct Deposit
+      - PayPal
+      - Gift Card
+      - Store Credit
+      required: true
+    - id: 14
+      name: tax_documentation
+      label: Need Tax Documentation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

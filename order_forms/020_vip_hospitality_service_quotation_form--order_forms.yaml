@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_hospitality_service_quotation_form
+    pages:
+    - id: 1
+      name: quotation_details
+      label: Quotation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_info
+      label: Service Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - VIP
+      - Premium
+      - Standard
+      required: true
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Room Service
+      - Food & Beverage
+      - Other
+      required: true
+    - id: 6
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quote_value
+      label: Quote Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: quotation_notes
+      label: Quotation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: quotation_terms
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: quotation_terms_agreement
+      label: Quotation Terms Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: vip_services
+      label: Additional VIP Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_requirements
+      label: Client Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quotation_status
+      label: Quotation Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Sent
+      - Accepted
+      - Declined
+      required: true
+    - id: 21
+      name: quotation_sent_date
+      label: Quotation Sent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: quotation_sent_time
+      label: Quotation Sent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: quotation_due_date
+      label: Quotation Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: quotation_due_time
+      label: Quotation Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: quotation_comments
+      label: Quotation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

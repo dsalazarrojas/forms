@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: LPN Assignment Registration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: placement_preferences
+      label: Placement Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: Select the dates you are available
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: Select the start time for your shift
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: Select the end time for your shift
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: first_shift
+      label: First Shift
+      hint: Select your first shift preference
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: second_shift
+      label: Second Shift
+      hint: Select your second shift preference
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: third_shift
+      label: Third Shift
+      hint: Select your third shift preference
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fourth_shift
+      label: Fourth Shift
+      hint: Select your fourth shift preference
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional comments or questions
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

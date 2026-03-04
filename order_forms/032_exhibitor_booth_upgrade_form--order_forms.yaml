@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibitor Booth Upgrade Form
+    pages:
+    - id: 1
+      name: base_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: add_ons
+      label: Additional Add-ons
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      - Check
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time_of_event
+      label: Start Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time_of_event
+      label: End Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: add_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Pending Payment
+      - Not Paid
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: add_ons
+      label: Add-ons
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 17
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_addon
+      label: Payment Method for Addon
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      - Check
+      required: false
+    - id: 19
+      name: payment_details_addon
+      label: Payment Details for Addon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_of_addon
+      label: Date of Addon
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: start_time_of_addon
+      label: Start Time of Addon
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: end_time_of_addon
+      label: End Time of Addon
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: venue_addon
+      label: Venue of Addon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_name_addon
+      label: Event Name of Addon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: add_info_addon
+      label: Additional Info of Addon
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_workshop_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I have the legal authority to provide informed consent on behalf of this participant.
+      - I do not have the legal authority to provide informed consent on behalf of
+        this participant.
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Other
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship_details
+      label: Relationship Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_alternate_phone
+      label: Alternate Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_alternate_relationship
+      label: Alternate Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Other
+      required: false
+    - id: 12
+      name: emergency_contact_alternate_address
+      label: Alternate Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship_2
+      label: Relationship 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship_3
+      label: Relationship 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship_4
+      label: Relationship 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Asthma
+      - None
+      required: false
+    - id: 17
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Shellfish
+      - Tree Nut
+      - None
+      required: false
+    - id: 19
+      name: medical_devices
+      label: Medical Devices
+      hint: null
+      type: select_multiple
+      options:
+      - Pacemaker
+      - Oxygen Tank
+      - Hearing Aids
+      - None
+      required: false
+    - id: 20
+      name: mental_health_history
+      label: Mental Health History
+      hint: null
+      type: select_multiple
+      options:
+      - Depression
+      - Anxiety
+      - Bipolar Disorder
+      - None
+      required: false
+    - id: 21
+      name: emergency_contact_relationship_5
+      label: Relationship 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship_6
+      label: Relationship 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_relationship_7
+      label: Relationship 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship_8
+      label: Relationship 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship_9
+      label: Relationship 9
+      hint: null
+      type: text
+      options: []
+      required: false

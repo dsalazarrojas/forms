@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Mental Health Program Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: dedication
+      label: dedication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: anonymity
+      label: anonymity
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_notification
+      label: email_notification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

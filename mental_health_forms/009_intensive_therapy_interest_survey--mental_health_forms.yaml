@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intensive Therapy Interest Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goal_1
+      label: goal_1
+      hint: null
+      type: select_one
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 5
+      name: goal_2
+      label: goal_2
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 6
+      name: other_goal
+      label: other_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: concern_1
+      label: concern_1
+      hint: null
+      type: select_one
+      options:
+      - Concern 1
+      - Concern 2
+      - Concern 3
+      required: false
+    - id: 8
+      name: concern_2
+      label: concern_2
+      hint: null
+      type: select_multiple
+      options:
+      - Concern 1
+      - Concern 2
+      - Concern 3
+      required: false
+    - id: 9
+      name: other_concern
+      label: other_concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: weekday
+      label: Monday
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: start_time
+      label: start_time
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 am
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 1:00 pm
+      required: false
+    - id: 12
+      name: end_time
+      label: end_time
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 am
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 1:00 pm
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

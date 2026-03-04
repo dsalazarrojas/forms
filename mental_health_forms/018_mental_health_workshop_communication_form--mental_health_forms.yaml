@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_workshop_communication_form
+    pages:
+    - id: 1
+      name: participant_goals
+      label: participant_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_preferences_1
+      label: workshop_preferences
+      hint: What do you prefer?
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: workshop_preferences_2
+      label: workshop_preferences_2
+      hint: null
+      type: select_one
+      options:
+      - option_2
+      - option_3
+      - option_4
+      required: false
+    - id: 4
+      name: workshop_topics
+      label: workshop_topics
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: false
+    - id: 5
+      name: participant_preferences_1
+      label: participant_preferences_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_preferences_2
+      label: participant_preferences_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_start_date
+      label: workshop_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: workshop_start_time
+      label: workshop_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_goals_1
+      label: participant_goals_1
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_4
+      required: true
+    - id: 14
+      name: participant_goals_2
+      label: participant_goals_2
+      hint: null
+      type: select_one
+      options:
+      - option_2
+      - option_3
+      - option_4
+      required: true

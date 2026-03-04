@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eating Disorders Recovery Coaching Request
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recovery_goals
+      label: recovery goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: eating_disorder_diagnosis
+      label: eating disorder diagnosis
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''bulimia''}'
+      - '{''id'': 2, ''label'': ''anorexia''}'
+      - '{''id'': 3, ''label'': ''binge eating''}'
+      - '{''id'': 4, ''label'': ''other''}'
+      required: true
+    - id: 7
+      name: coaching_approach
+      label: coaching approach
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''individual coaching''}'
+      - '{''id'': 2, ''label'': ''group coaching''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: true
+    - id: 8
+      name: frequency_of_session
+      label: frequency of sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: ideal_session_length
+      label: ideal session length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: coaching_location
+      label: coaching location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recovery_coach
+      label: recovery coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_agreement
+      label: client agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: session_date
+      label: session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: session_time
+      label: session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: session_duration
+      label: session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_sessions
+      label: total sessions
+      hint: null
+      type: number
+      options: []
+      required: false

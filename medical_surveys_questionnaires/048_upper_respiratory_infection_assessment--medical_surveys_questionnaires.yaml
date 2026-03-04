@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Upper Respiratory Infection Assessment
+    pages:
+    - id: 1
+      name: general_questions
+      label: General Questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respiratory_system
+      label: Respiratory System
+      hint: null
+      type: select_multiple
+      options:
+      - Cough
+      - Sore Throat
+      - Cough
+      - Shortness of Breath
+      - Cough
+      - Runny Nose
+      - Stuffy Nose
+      - Runny Eyes
+      - Headache
+      - Dizziness
+      - Nausea
+      - Vomiting
+      - Diarrhea
+      - Abdominal Pain
+      - Abdominal Distress
+      - Chest Tightness
+      - Chest Pain
+      - Fatigue
+      - Muscle Aches
+      - Back Pain
+      - Joint Pain
+      - Joint Swelling
+      - Skin Rash
+      - Skin Lesions
+      - General Malaise
+      - Fever
+      - Cough
+      required: false
+    - id: 4
+      name: fever_and_cough
+      label: Fever And Cough
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 2 weeks ago
+      - Less than 2 weeks ago
+      - Less than 4 weeks ago
+      - More than 4 weeks ago
+      required: false
+    - id: 6
+      name: recent_contacts
+      label: Recent Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Family
+      - Coworker
+      - School
+      - Work
+      - Community
+      - Travel
+      - Healthcare
+      - Other
+      required: false
+    - id: 7
+      name: travel_history_duration
+      label: Travel History Duration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 2 days
+      - 2-7 days
+      - 1-2 weeks
+      - 2-4 weeks
+      - More than 4 weeks
+      required: false
+    - id: 8
+      name: recent_contacts_duration
+      label: Recent Contacts Duration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 2 days
+      - 2-7 days
+      - 1-2 weeks
+      - 2-4 weeks
+      - More than 4 weeks
+      required: false
+    - id: 9
+      name: recent_contact_location
+      label: Recent Contact Location
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Clinic
+      - Community
+      - School
+      - Work
+      - Other
+      required: false
+    - id: 10
+      name: healthcare_contacts
+      label: Healthcare Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Clinic
+      - Healthcare Provider
+      - Family
+      - Other
+      required: false
+    - id: 11
+      name: healthcare_contacts_duration
+      label: Healthcare Contact Duration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 2 days
+      - 2-7 days
+      - 1-2 weeks
+      - 2-4 weeks
+      - More than 4 weeks
+      required: false
+    - id: 12
+      name: healthcare_contact_frequency
+      label: Healthcare Contact Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Once
+      - Twice
+      - Multiple
+      required: false
+    - id: 13
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Local
+      - Interstate
+      - International
+      required: false
+    - id: 15
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - By Car
+      - By Air
+      - By Train
+      - By Other
+      required: false
+    - id: 16
+      name: travel_accommodation
+      label: Travel Accommodation
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hotel
+      - Hostel
+      - Other
+      required: false
+    - id: 17
+      name: travel_food
+      label: Travel Food
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Self-Catered
+      - Packaged
+      - Restaurant
+      required: false
+    - id: 18
+      name: travel_water
+      label: Travel Water
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Tap Water
+      - Bottled
+      - Other
+      required: false
+    - id: 19
+      name: travel_safety
+      label: Travel Safety
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hand Sanitizer
+      - Face Mask
+      - Social Distancing
+      - Other
+      required: false
+    - id: 20
+      name: travel_safety_measures
+      label: Travel Safety Measures
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Temperature Check
+      - Mask Mandate
+      - Contact Tracing
+      - Other
+      required: false
+    - id: 21
+      name: travel_safety_equipment
+      label: Travel Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Thermometer
+      - Hand Gloves
+      - Face Shield
+      - Other
+      required: false

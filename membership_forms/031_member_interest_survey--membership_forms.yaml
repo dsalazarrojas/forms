@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Interest Survey
+    pages:
+    - id: 1
+      name: member_interest_survey
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_category
+      label: Which category do you belong to?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Beginner'', ''value'': ''beginner''}'
+      - '{''id'': 2, ''name'': ''Intermediate'', ''value'': ''intermediate''}'
+      - '{''id'': 3, ''name'': ''Advanced'', ''value'': ''advanced''}'
+      required: false
+    - id: 5
+      name: event_interest
+      label: Which events or programs are you most interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Event 1'', ''value'': ''event_1''}'
+      - '{''id'': 2, ''name'': ''Event 2'', ''value'': ''event_2''}'
+      - '{''id'': 3, ''name'': ''Event 3'', ''value'': ''event_3''}'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_completion
+      label: Date of completion of degree
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: member_interests
+      label: What are some of your interests?
+      hint: null
+      type: note
+      options: []
+      required: false

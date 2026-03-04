@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: logo_creation_onboarding_form
+    pages:
+    - id: 1
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_formation
+      label: company_formation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tagline
+      label: tagline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tagline_placement
+      label: tagline_placement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''left''}'
+      - '{''id'': 2, ''label'': ''right''}'
+      - '{''id'': 3, ''label'': ''top''}'
+      - '{''id'': 4, ''label'': ''bottom''}'
+      required: false
+    - id: 5
+      name: primary_branding_color
+      label: primary_branding_color
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: secondary_branding_color
+      label: secondary_branding_color
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: online_color_selection
+      label: online_color_selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: font
+      label: font
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Arial''}'
+      - '{''id'': 2, ''label'': ''Times New Roman''}'
+      - '{''id'': 3, ''label'': ''Calibri''}'
+      - '{''id'': 4, ''label'': ''Courier''}'
+      required: false
+    - id: 9
+      name: font_color
+      label: font_color
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: online_font_selector
+      label: online_font_selector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''font_1'', ''link'': ''https://www.fonts.com/font_1''}'
+      - '{''id'': 2, ''label'': ''font_2'', ''link'': ''https://www.fonts.com/font_2''}'
+      - '{''id'': 3, ''label'': ''font_3'', ''link'': ''https://www.fonts.com/font_3''}'
+      required: false

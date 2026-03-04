@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Return Shipping Claim Form
+    pages:
+    - id: 1
+      name: return_shipping_claim_form
+      label: return_shipping_claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_details
+      label: product_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: select_one
+      options:
+      - Return is damaged or defective
+      - I changed my mind
+      - I ordered by mistake
+      - Other
+      required: false
+    - id: 5
+      name: order_number
+      label: order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - Shipping via post
+      - Shipping via courier
+      - Other
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: select_multiple
+      options:
+      - Signed
+      - Unsigned
+      - Unknown
+      required: false
+    - id: 10
+      name: customer_signature_date
+      label: customer_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: customer_signature_note
+      label: customer_signature_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: return_shipping_status
+      label: return_shipping_status
+      hint: null
+      type: select_one
+      options:
+      - Opened
+      - In progress
+      - Completed
+      - Closed
+      required: false

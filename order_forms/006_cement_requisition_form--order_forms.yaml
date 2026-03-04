@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cement Requisition Form
+    pages:
+    - id: 1
+      name: project_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Enter the name of the construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: Full address or site coordinates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requisitioner_name
+      label: Requisitioner Name
+      hint: Who is requesting the cement
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_details_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: type_of_cement
+      label: Type of Cement
+      hint: Select the specific cement type required
+      type: select_one
+      options:
+      - Portland (General Purpose)
+      - Rapid Hardening
+      - Low Heat
+      - Sulfate Resisting
+      - White Cement
+      required: true
+    - id: 8
+      name: quantity_bags
+      label: Quantity Required
+      hint: Number of units as per the unit of measure below
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: Select the bag size or bulk option
+      type: select_one
+      options:
+      - 50kg Bag
+      - 25kg Bag
+      - Bulk Ton
+      required: true
+    - id: 10
+      name: delivery_info_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Mention unloading site details or access restrictions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: authorization_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: approving_manager
+      label: Approving Manager Name
+      hint: Name of the person authorized to approve this requisition
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: order_priority
+      label: Priority
+      hint: Urgency of the requisition
+      type: select_one
+      options:
+      - High - Urgent
+      - Medium - Standard
+      - Low - Routine
+      required: true
+    - id: 17
+      name: additional_notes_header
+      label: -- Additional Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: order_specifications
+      label: Other Order Specifications
+      hint: Optional - any other details to share
+      type: text
+      options: []
+      required: false

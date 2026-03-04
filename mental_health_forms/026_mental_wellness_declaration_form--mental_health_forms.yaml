@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Wellness Declaration Form
+    pages:
+    - id: 1
+      name: mental_wellness_declaration
+      label: mental wellness declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_status
+      label: mental health status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: emotional_wellness_level
+      label: emotional wellness level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mental_health_days
+      label: mental health days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: support_system
+      label: support system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: self_care_plans
+      label: self care plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_services
+      label: mental health services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: mental_health_services_frequencies
+      label: mental health services frequencies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

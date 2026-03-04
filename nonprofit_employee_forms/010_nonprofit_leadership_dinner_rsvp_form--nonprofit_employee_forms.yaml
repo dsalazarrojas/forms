@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Leadership Dinner RSVP Form
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guest_diet
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian
+      - Non-vegetarian
+      - Omnivore
+      - None
+      required: false
+    - id: 6
+      name: guest_diet_other
+      label: Other Dietary Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guests_attending
+      label: Guests Attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: guests_attending_other
+      label: Other Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_house_feedback
+    pages:
+    - id: 1
+      name: open_house_info
+      label: Open House Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: open_house_details
+      label: Open House Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: open_house_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: open_house_score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: open_house_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: open_house_recommend
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: open_house_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: open_house_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: open_house_contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: open_house_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: open_house_comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: open_house_comments_3
+      label: Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false

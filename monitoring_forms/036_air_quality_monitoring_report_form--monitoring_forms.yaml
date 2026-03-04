@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Quality Monitoring Report Form
+    pages:
+    - id: 1
+      name: monitoring_station
+      label: Monitoring station name
+      hint: Identifier for the monitoring location
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: monitoring_date
+      label: Monitoring date
+      hint: Date of measurement
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pollutant_measured
+      label: Pollutant measured
+      hint: PM2.5, PM10, NO2, O3, or other
+      type: select_one
+      options:
+      - PM2.5
+      - PM10
+      - NO2
+      - O3
+      - SO2
+      - CO
+      - Other
+      required: true
+    - id: 4
+      name: concentration_value
+      label: Concentration value
+      hint: Measured concentration in appropriate units
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: units
+      label: Units of measurement
+      hint: ug/m3 or ppm as relevant
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sampling_method
+      label: Sampling method
+      hint: Instrument and method used for sampling
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weather_conditions
+      label: Weather conditions during sampling
+      hint: Wind, temperature, humidity
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exceedances_observed
+      label: Exceedances observed
+      hint: Any values above guideline thresholds
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: recommended_actions
+      label: Recommended actions
+      hint: Steps to address poor air quality if needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reported_by
+      label: Reported by
+      hint: Name of person preparing the report
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calendar Pinup Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: physical_info_header
+      label: -- Physical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weight
+      label: Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Brunette
+      - Black
+      - Red
+      - Dyed/Other
+      required: true
+    - id: 11
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Black
+      - Other
+      required: true
+    - id: 12
+      name: measurements_header
+      label: -- Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: bust_measurement
+      label: Bust Measurement (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: waist_measurement
+      label: Waist Measurement (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: hip_measurement
+      label: Hip Measurement (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: experience_header
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: modeling_experience
+      label: Modeling Experience
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Semi-professional
+      - Amateur
+      - No experience
+      required: true
+    - id: 18
+      name: previous_work
+      label: Previous Modeling Work or Portfolio
+      hint: Include links or attachments if available
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: portfolio_submission
+      label: Portfolio Links
+      hint: Website, Instagram, or professional portfolio
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_media
+      label: Social Media Handles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: availability_header
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: availability
+      label: Available for 2026 Calendar?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Possibly
+      - 'No'
+      required: true
+    - id: 23
+      name: preferred_month
+      label: Preferred Month for Photoshoot
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 24
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

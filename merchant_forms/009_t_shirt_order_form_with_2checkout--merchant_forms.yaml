@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: t_shirt_order_form_with_2checkout
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shirt_size
+      label: Shirt Size
+      hint: Please select the t-shirt size you would like to purchase.
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 5
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - white
+      - gray
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: t_shirt_image
+      label: T Shirt Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: t_shirt_type
+      label: T Shirt Type
+      hint: null
+      type: select_one
+      options:
+      - graphic
+      - athletic
+      - crew
+      - v-neck
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - paypal
+      - bank_transfer
+      - apple_pay
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: Please enter your date of birth in the format mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Membership Renewal Form
+    pages:
+    - id: 1
+      name: section_member_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: membership_id
+      label: Membership ID Number
+      hint: Your current member ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For member communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_membership
+      label: -- Membership Renewal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_membership_level
+      label: Current Membership Level
+      hint: Your existing tier
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - VIP
+      - Lifetime
+      required: true
+    - id: 10
+      name: new_membership_level
+      label: New Membership Level
+      hint: What level are you renewing at
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - VIP
+      - Lifetime
+      required: true
+    - id: 11
+      name: current_expiration_date
+      label: Current Membership Expiration Date
+      hint: When does your current membership end
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: renewal_term
+      label: Renewal Term
+      hint: How long to renew for
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - Lifetime
+      required: true
+    - id: 13
+      name: section_benefits
+      label: -- Membership Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: interested_benefits
+      label: Which Benefits Interest You Most
+      hint: Select the benefits important to you
+      type: select_multiple
+      options:
+      - Event Access
+      - Discounts
+      - Newsletter
+      - Networking
+      - Professional Development
+      - Community Access
+      required: false
+    - id: 15
+      name: feedback
+      label: How Would You Rate Your Membership
+      hint: Your satisfaction
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 16
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: renewal_cost
+      label: Membership Renewal Cost
+      hint: Amount due for renewal
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 19
+      name: auto_renew
+      label: Set Up Auto-Renewal
+      hint: Automatically renew in future years
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: section_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: newsletter_signup
+      label: Receive Newsletter and Updates
+      hint: Get membership communications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: renewal_date
+      label: Date of Renewal
+      hint: Today's date
+      type: date
+      options: []
+      required: true

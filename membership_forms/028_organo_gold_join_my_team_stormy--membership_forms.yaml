@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: organo_gold_join_my_team_stormy
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Team Lead''}'
+      - '{''id'': 20, ''label'': ''Team Member''}'
+      - '{''id'': 30, ''label'': ''Team Lead - Stormy''}'
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false

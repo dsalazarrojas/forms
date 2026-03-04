@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Perfectionism Questionnaire
+    pages:
+    - id: 1
+      name: questionnaire_intro
+      label: Clinical Perfectionism Questionnaire
+      hint: This questionnaire assesses perfectionism tendencies over the past month.
+        Answer honestly based on your experience.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      label: I have had a strong desire to achieve high standards
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 8
+      name: question_2
+      label: I have been overly concerned about making mistakes
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 9
+      name: question_3
+      label: I have felt upset when things did not go perfectly
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 10
+      name: question_4
+      label: I have pushed myself very hard to meet my goals
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 11
+      name: question_5
+      label: I have been critical of myself when I did not meet my standards
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 12
+      name: question_6
+      label: I have felt that I have not succeeded in important areas of my life
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 13
+      name: question_7
+      label: I have been concerned about not meeting my standards
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 14
+      name: question_8
+      label: I have felt dissatisfied with my performance even when I did well
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 15
+      name: question_9
+      label: I have avoided tasks where I might not excel
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 16
+      name: question_10
+      label: I have spent excessive time checking my work for errors
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 17
+      name: question_11
+      label: I have felt that others expected too much from me
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 18
+      name: question_12
+      label: I have procrastinated because I was afraid of not doing well enough
+      hint: Over the past month
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Moderately
+      - Significantly
+      - Very significantly
+      required: true
+    - id: 19
+      name: impact_on_work
+      label: How Much Has Perfectionism Impacted Your Work
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 20
+      name: impact_on_relationships
+      label: How Much Has Perfectionism Impacted Your Relationships
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 21
+      name: impact_on_wellbeing
+      label: How Much Has Perfectionism Impacted Your Mental Wellbeing
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 22
+      name: coping_strategies
+      label: Do You Use Any Coping Strategies
+      hint: null
+      type: select_one
+      options:
+      - Yes effective strategies
+      - Yes but not very effective
+      - No but trying to develop
+      - No not currently
+      required: false
+    - id: 23
+      name: previous_therapy
+      label: Have You Received Therapy for Perfectionism
+      hint: null
+      type: select_one
+      options:
+      - Yes currently
+      - Yes in the past
+      - No never
+      required: false
+    - id: 24
+      name: goals_for_change
+      label: What Are Your Goals Regarding Perfectionism
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: clinician_use_score
+      label: Clinician Use Only - Total Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: clinician_notes
+      label: Clinician Notes
+      hint: null
+      type: text
+      options: []
+      required: false

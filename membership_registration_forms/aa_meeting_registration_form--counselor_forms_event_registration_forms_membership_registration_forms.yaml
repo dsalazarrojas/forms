@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AA Meeting Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred name
+      hint: Use the name you would like others to use (optional)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: Optional — used for age-appropriate referrals
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: Enter age in years
+      type: integer
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: Used for meeting updates and resources
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: Preferred contact number (optional)
+      type: phone
+      options: []
+      required: false
+    - id: 8
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, state, postal code (optional)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_emergency
+      label: '--- Emergency Contact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Person to contact in case of emergency (optional)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Best phone number for emergency contact
+      type: phone
+      options: []
+      required: false
+    - id: 12
+      name: section_header_preferences
+      label: '--- Meeting Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: meeting_format
+      label: Preferred meeting format
+      hint: Choose the format you prefer for regular attendance
+      type: select_one
+      options:
+      - In-person
+      - Online (Zoom)
+      - Phone meeting
+      - Outdoor / Park meeting
+      required: true
+    - id: 14
+      name: meeting_days
+      label: Which days can you usually attend?
+      hint: Select all days you are typically available
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 15
+      name: meeting_time
+      label: Preferred time of day
+      hint: Select the best time window for you
+      type: select_one
+      options:
+      - Early morning (6am-9am)
+      - Morning (9am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-8pm)
+      - Late night (8pm-12am)
+      required: false
+    - id: 16
+      name: sobriety_length
+      label: Length of continuous sobriety (if comfortable sharing)
+      hint: Leave blank if you prefer not to say
+      type: select_one
+      options:
+      - Newcomer (0-30 days)
+      - Early recovery (1-12 months)
+      - 1-5 years
+      - 5+ years
+      - Prefer not to say
+      required: false
+    - id: 17
+      name: section_header_support
+      label: '--- Support & Resources ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_sponsor
+      label: Do you currently have a sponsor? (name)
+      hint: Enter sponsor name or leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_services
+      label: Support services you are using / interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Individual counseling
+      - Group therapy
+      - Medication-assisted treatment
+      - Peer support / sponsor
+      - None currently
+      - Other
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Relevant medical or mental health conditions
+      hint: Optional — share anything the meeting coordinator should know
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_accommodations
+      label: Accessibility needs or accommodations
+      hint: E.g., mobility access, hearing support, language needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_consent
+      label: '--- Consent & Confidentiality ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: consent_agreement
+      label: Agreement to meeting guidelines and confidentiality policy
+      hint: Required to register
+      type: select_one
+      options:
+      - I have read and agree to abide by meeting guidelines and confidentiality policy
+      - I have read the policy but prefer to discuss concerns with staff first
+      - I do not agree to the policy (contact will be required)
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Use this space for anything else you'd like organizers to know
+      type: text
+      options: []
+      required: false

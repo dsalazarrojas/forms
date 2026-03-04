@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Order Form Template
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_city
+      label: Shipping City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_state
+      label: Shipping State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_zip
+      label: Shipping ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: candy_item_1
+      label: First Candy Item
+      hint: Select product
+      type: select_one
+      options:
+      - Chocolate truffles - 12 pack
+      - Gummy bears - 8 oz
+      - Lollipops - 10 pack
+      - Caramel candies - 6 oz
+      - Hard candies - 8 oz
+      - Taffy assortment - 10 oz
+      - Fudge square - 4 oz
+      - Licorice twists - 6 oz
+      required: true
+    - id: 14
+      name: quantity_item_1
+      label: Quantity for First Item
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: candy_item_2
+      label: Second Candy Item
+      hint: Select product
+      type: select_one
+      options:
+      - Chocolate truffles - 12 pack
+      - Gummy bears - 8 oz
+      - Lollipops - 10 pack
+      - Caramel candies - 6 oz
+      - Hard candies - 8 oz
+      - Taffy assortment - 10 oz
+      - Fudge square - 4 oz
+      - Licorice twists - 6 oz
+      - None
+      required: false
+    - id: 16
+      name: quantity_item_2
+      label: Quantity for Second Item
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: candy_item_3
+      label: Third Candy Item
+      hint: Select product
+      type: select_one
+      options:
+      - Chocolate truffles - 12 pack
+      - Gummy bears - 8 oz
+      - Lollipops - 10 pack
+      - Caramel candies - 6 oz
+      - Hard candies - 8 oz
+      - Taffy assortment - 10 oz
+      - Fudge square - 4 oz
+      - Licorice twists - 6 oz
+      - None
+      required: false
+    - id: 18
+      name: quantity_item_3
+      label: Quantity for Third Item
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: gift_wrapping
+      label: Gift Wrapping Option
+      hint: Add gift wrap
+      type: select_one
+      options:
+      - Yes - standard gift box
+      - Yes - premium gift box
+      - No - standard packaging
+      required: true
+    - id: 20
+      name: gift_message
+      label: Gift Message
+      hint: Include a message
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery speed
+      type: select_one
+      options:
+      - Standard shipping - 5 to 7 days
+      - Expedited shipping - 2 to 3 days
+      - Express shipping - 1 to 2 days
+      - Store pickup
+      required: true
+    - id: 22
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 24
+      name: promo_code
+      label: Promo Code
+      hint: Discount code if any
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 27
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true

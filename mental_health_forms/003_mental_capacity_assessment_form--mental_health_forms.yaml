@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Capacity Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: capacity_assessment
+      label: capacity_assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''competent'', ''value'': ''competent''}'
+      - '{''id'': 2, ''name'': ''not_competent'', ''value'': ''not_competent''}'
+      required: false
+    - id: 3
+      name: cognitive_status
+      label: cognitive_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''normal'', ''value'': ''normal''}'
+      - '{''id'': 2, ''name'': ''impaired'', ''value'': ''impaired''}'
+      required: false
+    - id: 4
+      name: capacity_to_concentrate
+      label: capacity_to_concentrate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mental_state
+      label: mental_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physical_health
+      label: physical_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_capacitor
+      label: mental_capacitor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 11
+      name: capacity_level
+      label: capacity_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 12
+      name: capacity_level_2
+      label: capacity_level_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 13
+      name: capacity_level_3
+      label: capacity_level_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 14
+      name: capacity_level_4
+      label: capacity_level_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 15
+      name: capacity_level_5
+      label: capacity_level_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 16
+      name: capacity_level_6
+      label: capacity_level_6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 17
+      name: capacity_level_7
+      label: capacity_level_7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 18
+      name: capacity_level_8
+      label: capacity_level_8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 19
+      name: capacity_level_9
+      label: capacity_level_9
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 20
+      name: capacity_level_10
+      label: capacity_level_10
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 21
+      name: capacity_level_11
+      label: capacity_level_11
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 22
+      name: capacity_level_12
+      label: capacity_level_12
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 23
+      name: capacity_level_13
+      label: capacity_level_13
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 24
+      name: capacity_level_14
+      label: capacity_level_14
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 25
+      name: capacity_level_15
+      label: capacity_level_15
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 3, ''name'': ''moderate'', ''value'': ''moderate''}'
+      - '{''id'': 4, ''name'': ''unknown'', ''value'': ''unknown''}'
+      required: false

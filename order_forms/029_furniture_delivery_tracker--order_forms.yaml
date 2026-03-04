@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Delivery Tracker
+    pages:
+    - id: 1
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Delivered
+      - Delayed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 2
+      name: retailer_confirmation
+      label: Retailer Confirmation
+      hint: Confirm receipt at retailer
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: warehouse_confirmation
+      label: Warehouse Confirmation
+      hint: Confirm receipt at warehouse
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_team_confirmation
+      label: Delivery Team Confirmation
+      hint: Confirm delivery completion
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_delivery
+      label: Date of Delivery
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_delivery
+      label: Time of Delivery
+      hint: "hh:mm"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_delivery_notes
+      label: Date of Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false

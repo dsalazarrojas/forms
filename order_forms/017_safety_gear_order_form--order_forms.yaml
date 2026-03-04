@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Gear Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_type
+      label: product type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: order_notes
+      label: order notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_status
+      label: order status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: safety_inspection_required
+      label: safety inspection required
+      hint: null
+      type: text
+      options: []
+      required: false

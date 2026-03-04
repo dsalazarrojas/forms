@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Concert Tickets Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Concert Ticket Order --
+      hint: Secure your spot at the next big event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fan_name
+      label: Fan Name
+      hint: Name of the primary ticket holder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_email
+      label: Email for Digital Delivery
+      hint: Your tickets will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: concert_date_city
+      label: Concert Date and City
+      hint: Select your preferred show
+      type: select_one
+      options:
+      - New York - August 15
+      - Los Angeles - August 20
+      - Chicago - August 25
+      - Austin - September 1
+      - Miami - September 5
+      required: true
+    - id: 5
+      name: ticket_type
+      label: Ticket Type - VIP, General Admission, etc.
+      hint: Choose your experience level
+      type: select_one
+      options:
+      - General Admission
+      - Reserved Seating
+      - VIP Backstage Pass
+      - Early Entry
+      - Family Pack (4 tickets)
+      required: true
+    - id: 6
+      name: ticket_quantity
+      label: Number of Tickets
+      hint: Maximum 6 per customer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: delivery_header
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: how do you want your tickets delivered
+      type: select_one
+      options:
+      - Digital (Mobile App)
+      - Email (PDF Print-at-Home)
+      - Physical Mail
+      - Will Call (Pickup at Venue)
+      required: true
+    - id: 9
+      name: mailing_address
+      label: Physical Mailing Address - if applicable
+      hint: Leave blank for digital delivery
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method - Afterpay Available
+      hint: pay in 4 interest-free installments with Afterpay
+      type: select_one
+      options:
+      - Afterpay
+      - Visa / Mastercard
+      - American Express
+      - PayPal
+      required: true
+    - id: 11
+      name: total_amount
+      label: Total Transaction Amount
+      hint: Includes service fees and taxes
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: accessibility_needs
+      label: Any special accessibility requirements
+      hint: e.g., Wheelchair seating needed
+      type: text
+      options: []
+      required: false

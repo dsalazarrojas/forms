@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Special Batch Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: membership_status
+      label: Membership Status
+      hint: Are you a member
+      type: select_one
+      options:
+      - Platinum member
+      - Gold member
+      - Silver member
+      - Bronze member
+      - Non-member
+      required: true
+    - id: 5
+      name: special_batch_name
+      label: Special Batch Name
+      hint: Name of the limited release
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: release_date
+      label: Expected Release Date
+      hint: When will this be available
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: batch_details
+      label: Batch Details
+      hint: Description of this special batch
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity_ordered
+      label: Quantity to Pre-Order
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: package_type
+      label: Package Type
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - 6-pack cans
+      - 12-pack cans
+      - Case of 24 cans
+      - Single bottles
+      - Mixed case
+      - Growler fill
+      required: true
+    - id: 10
+      name: estimated_price
+      label: Price Per Unit
+      hint: Cost per unit
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_cost
+      label: Estimated Total Cost
+      hint: Total for your pre-order
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pickup_delivery
+      label: Pickup or Delivery
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Brewery pickup
+      - Home delivery
+      - Local delivery
+      - Shipping
+      required: true
+    - id: 13
+      name: pickup_date
+      label: Preferred Pickup Date
+      hint: When would you like to pick up
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: pickup_time
+      label: Preferred Pickup Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: false
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery is selected
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_notes
+      label: Delivery Special Instructions
+      hint: Any delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - In-person payment
+      required: true
+    - id: 18
+      name: payment_timing
+      label: When Will You Pay
+      hint: Payment schedule
+      type: select_one
+      options:
+      - Full payment now
+      - Deposit now, balance at pickup
+      - Pay at pickup
+      - Pay at delivery
+      required: true
+    - id: 19
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: Agree to terms
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need clarification
+      required: true
+    - id: 20
+      name: notification_preference
+      label: How Would You Like Updates
+      hint: Stay informed about your order
+      type: select_multiple
+      options:
+      - Email updates
+      - SMS text messages
+      - Phone calls
+      - In-person notification
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

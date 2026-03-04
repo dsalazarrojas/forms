@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Readmission Rate Report Form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_admitted
+      label: date_admitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Neurology
+      - Oncology
+      - Pulmonology
+      - Radiology
+      - Urology
+      - Cardiac Unit
+      - Medical ICU
+      - Surgical Unit
+      - NICU
+      - Neuro ICU
+      - Medical Ward
+      - Surgical Ward
+      - General Ward
+      - Pediatric Unit
+      required: false
+    - id: 4
+      name: date_discharged
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: days_in_hospital
+      label: hospital_days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: readmission_within_30_days
+      label: within_30_days
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: readmission_within_90_days
+      label: within_90_days
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: readmission_within_180_days
+      label: within_180_days
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: readmission_within_one_year
+      label: within_one_year
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: readmission_within_six_months
+      label: within_six_months
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

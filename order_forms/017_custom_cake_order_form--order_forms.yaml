@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cake Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cake_size
+      label: cake size
+      hint: null
+      type: select_one
+      options:
+      - large
+      - medium
+      - small
+      required: false
+    - id: 9
+      name: cake_design
+      label: cake design
+      hint: null
+      type: select_multiple
+      options:
+      - classic
+      - cartoon
+      - wedding
+      required: false
+    - id: 10
+      name: special_message
+      label: special message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cake_type
+      label: cake type
+      hint: null
+      type: select_one
+      options:
+      - chocolate
+      - vanilla
+      - red velvet
+      required: false
+    - id: 12
+      name: flavor
+      label: flavor
+      hint: null
+      type: select_multiple
+      options:
+      - strawberry
+      - blueberry
+      - lemon
+      required: false

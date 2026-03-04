@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospice_care_checklist
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Medication''}'
+      - '{''label'': ''Palliative''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: emotional_support
+      label: Emotional Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 11
+      name: spiritual_support
+      label: Spiritual Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cancer''}'
+      - '{''label'': ''Heart Failure''}'
+      - '{''label'': "Alzheimer''s"}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: relationship_to_caregiver
+      label: Relationship to Caregiver
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Child''}'
+      - '{''label'': ''Other Family Member''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: care_plan
+      label: Care Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: hospice_type
+      label: Hospice Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''General Inpatient''}'
+      - '{''label'': ''Palliative Care''}'
+      - '{''label'': ''Respite Care''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: hospice_location
+      label: Hospice Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hospice_service_agreement
+      label: Hospice Service Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 21
+      name: hospice_service_start
+      label: Hospice Service Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: hospice_service_end
+      label: Hospice Service End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: hospice_service_duration
+      label: Hospice Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: hospice_service_status
+      label: Hospice Service Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Discharged''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: hospice_service_notes
+      label: Hospice Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false

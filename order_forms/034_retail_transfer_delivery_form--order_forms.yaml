@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_transfer_delivery_form
+    pages:
+    - id: 1
+      name: origin_store
+      label: origin_store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination_store
+      label: destination_store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transfer_time
+      label: transfer_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: transfer_type
+      label: transfer_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Stock Transfer''}'
+      - '{''value'': ''Transfer from another warehouse''}'
+      - '{''value'': ''Transfer from another location''}'
+      required: false
+    - id: 6
+      name: transfer_details
+      label: transfer_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_items
+      label: total_items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: item_value
+      label: item_value
+      hint: null
+      type: number
+      options: []
+      required: false

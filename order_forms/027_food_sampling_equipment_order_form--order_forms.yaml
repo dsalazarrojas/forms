@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Sampling Equipment Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_selected
+      label: equipment_selected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sampling_tool_quantity
+      label: sample_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sampling_tool_selected
+      label: sample_tool_selected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: lab_equipment_selected
+      label: lab_equipment_selected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sample_delivery_method
+      label: sample_delivery_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: orderer
+      label: orderer
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: orderer_email
+      label: orderer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: orderer_phone
+      label: orderer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: orderer
+      label: orderer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: orderer_phone
+      label: orderer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: orderer_address
+      label: orderer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: equipment_selected_2
+      label: equipment_selected_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: sampling_tool_selected_2
+      label: sampling_tool_selected_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: sample_quantity_2
+      label: sample_quantity_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sample_delivery_method_2
+      label: sample_delivery_method_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: delivery_date_2
+      label: delivery_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: shipping_method_2
+      label: shipping_method_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

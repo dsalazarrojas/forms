@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Renewal Form
+    pages:
+    - id: 1
+      name: member_name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_start_date
+      label: membership_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: membership_end_date
+      label: membership_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: member_since_date
+      label: member_since_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: member_since_month
+      label: member_since_month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: member_since_year
+      label: member_since_year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

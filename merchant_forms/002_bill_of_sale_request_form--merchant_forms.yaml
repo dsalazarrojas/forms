@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bill Of Sale Request Form
+    pages:
+    - id: 1
+      name: section_seller_information
+      label: -- Seller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_full_name
+      label: Seller Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_business_name
+      label: Business Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seller_email
+      label: Email Address
+      hint: Contact email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: seller_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: seller_address
+      label: Address
+      hint: Street address for seller
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_buyer_information
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: buyer_full_name
+      label: Buyer Full Name
+      hint: Purchaser's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer_email
+      label: Buyer Email Address
+      hint: Contact email for buyer
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: buyer_phone
+      label: Buyer Phone Number
+      hint: Buyer's contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: buyer_address
+      label: Buyer Address
+      hint: Buyer's street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_goods_description
+      label: -- Goods Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: item_description
+      label: Item Description
+      hint: Detailed description of goods being sold
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_quantity
+      label: Quantity
+      hint: Number of items being sold
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: item_category
+      label: Item Category
+      hint: Type of goods
+      type: select_one
+      options:
+      - Electronics
+      - Furniture
+      - Vehicles
+      - Equipment
+      - Merchandise
+      - Other
+      required: true
+    - id: 16
+      name: item_condition
+      label: Item Condition
+      hint: Current condition of goods
+      type: select_one
+      options:
+      - Brand New
+      - Like New
+      - Excellent
+      - Good
+      - Fair
+      - Used
+      required: true
+    - id: 17
+      name: section_transaction_details
+      label: -- Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: sale_price
+      label: Sale Price
+      hint: Total purchase price in dollars
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How payment will be made
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank Transfer
+      - Credit Card
+      - Other
+      required: true
+    - id: 20
+      name: sale_date
+      label: Date of Sale
+      hint: When the transaction occurs
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: delivery_date
+      label: Delivery/Pickup Date
+      hint: When buyer will receive goods
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: return_policy
+      label: Return Policy
+      hint: Are returns allowed
+      type: select_one
+      options:
+      - No Returns
+      - 7 Days
+      - 14 Days
+      - 30 Days
+      - As Is Sale
+      required: true
+    - id: 24
+      name: warranty_included
+      label: Warranty Included
+      hint: Does purchase include warranty
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I acknowledge and agree to the terms of this bill of sale
+      hint: Check to confirm agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

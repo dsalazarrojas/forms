@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sickness Monitoring Invitation
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sickness_type
+      label: Sickness Type
+      hint: null
+      type: select_one
+      options:
+      - Common Cold
+      - Flu
+      - Allergy
+      - Fever
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_attention
+      label: Medical Attention
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sickness_description
+      label: Sickness Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 12
+      name: date_returned_to_work
+      label: Date Returned To Work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: returned_to_work_status
+      label: Returned To Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: sickness_severity
+      label: Sickness Severity
+      hint: null
+      type: select_multiple
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 15
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sickness_duration
+      label: Sickness Duration
+      hint: null
+      type: number
+      options: []
+      required: false

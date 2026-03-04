@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meat Order Form
+    pages:
+    - id: 1
+      name: meat_order_form
+      label: Meat Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meat_type
+      label: Meat Type
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Poultry
+      - Seafood
+      required: false
+    - id: 3
+      name: meat_sub_type
+      label: Meat Sub Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Steak
+      - Roast
+      - Grill
+      required: false
+    - id: 4
+      name: meat_cut
+      label: Meat Cut
+      hint: null
+      type: select_multiple
+      options:
+      - Rib
+      - Loin
+      - Rump
+      - Round
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sub_total
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

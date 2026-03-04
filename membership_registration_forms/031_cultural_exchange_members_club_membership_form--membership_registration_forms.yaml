@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Exchange Members Club Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Member''}'
+      - '{''value'': ''Sponsor''}'
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 12
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement_terms
+      label: Agreement and Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_terms
+      label: Confirm Agreement and Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Agree''}'
+      - '{''value'': ''Disagree''}'
+      required: true
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Save and Continue''}'
+      required: true
+    - id: 16
+      name: save_and_continue
+      label: Save and Continue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: save_and_edit
+      label: Save and Edit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: save_and_exit
+      label: Save and Exit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

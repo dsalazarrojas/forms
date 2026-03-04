@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dev Onboarding Survey Instant Scripts
+    pages:
+    - id: 1
+      name: onboarding_survey_form
+      label: Onboarding Survey Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: instant_scripts
+      label: Instant Scripts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: onboarding_form
+      label: Onboarding Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: category_id
+      label: Category ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

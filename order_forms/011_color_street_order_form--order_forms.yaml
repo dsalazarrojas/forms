@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sets_selection
+      label: List the sets you would like to order
+      hint: Include set name and quantity
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_sets_count
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: is_this_a_gift
+      label: Is this order a gift?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: gift_message
+      label: Gift Message
+      hint: If yes, enter your message here
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_checkout
+      label: -- Checkout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_choice
+      label: How would you like to pay?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Facebook Pay
+      required: true
+    - id: 12
+      name: payment_id
+      label: Payment ID/Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Anything else I should know?
+      hint: null
+      type: text
+      options: []
+      required: false

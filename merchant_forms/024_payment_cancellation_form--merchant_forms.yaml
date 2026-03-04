@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Cancellation Form
+    pages:
+    - id: 1
+      name: merchant_forms_payment_cancellation_form
+      label: payment_cancellation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: merchant_forms_payment_cancellation_form_details
+      label: cancel_payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: merchant_forms_payment_details_date
+      label: cancel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: merchant_forms_payment_details_time
+      label: payment_cancellation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: merchant_forms_payment_cancellation_form_reason
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: merchant_forms_payment_details_amount
+      label: cancellation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: merchant_forms_payment_cancellation_form_agree
+      label: agree_to_cancellation
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 8
+      name: merchant_forms_payment_details_note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

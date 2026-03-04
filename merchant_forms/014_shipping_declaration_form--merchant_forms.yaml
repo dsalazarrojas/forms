@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Declaration Form
+    pages:
+    - id: 1
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: shipper_company
+      label: Shipper Company
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: package_description
+      label: Package Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: package_weight
+      label: Package Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: package_value
+      label: Package Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipper_city
+      label: Shipper City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipper_state
+      label: Shipper State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipper_postcode
+      label: Shipper Postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipper_country
+      label: Shipper Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: package_contents
+      label: Package Contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: package_length
+      label: Package Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: package_width
+      label: Package Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: package_height
+      label: Package Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipper_note
+      label: Shipper Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: package_date_shipped
+      label: Package Date Shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: package_time_shipped
+      label: Package Time Shipped
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: package_id
+      label: Package ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: package_serial_number
+      label: Package Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: package_type_serial_number
+      label: Package Type Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: package_tracking_number
+      label: Package Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false

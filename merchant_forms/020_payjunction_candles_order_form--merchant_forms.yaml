@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payjunction Candles Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_note
+      label: customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Stripe
+      required: false
+    - id: 6
+      name: order_notes
+      label: order notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_quantity
+      label: order quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_total_price
+      label: order total price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_details
+      label: shipping details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_instructions
+      label: customer instructions
+      hint: null
+      type: text
+      options: []
+      required: false

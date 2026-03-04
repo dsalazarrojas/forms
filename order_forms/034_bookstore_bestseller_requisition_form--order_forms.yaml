@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookstore Bestseller Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department_store
+      label: Department or Store Location
+      hint: Which store or department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requisition_date
+      label: Requisition Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: book_author
+      label: Author Name
+      hint: Author or authors
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: isbn_number
+      label: ISBN Number
+      hint: ISBN-13
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: edition_type
+      label: Edition Type
+      hint: Hardcover, paperback, etc.
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - Oversized
+      - Limited edition
+      - Special edition
+      required: true
+    - id: 9
+      name: quantity_requested
+      label: Quantity Requested
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly is this needed
+      type: select_one
+      options:
+      - Rush
+      - High priority
+      - Standard
+      - Not urgent
+      required: true
+    - id: 11
+      name: target_event
+      label: Is this for a specific event
+      hint: Book signing, display, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: target_event_date
+      label: Target Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: display_location
+      label: Planned Display Location
+      hint: Where will books be displayed
+      type: select_one
+      options:
+      - Front display
+      - Window display
+      - Staff picks
+      - Themed section
+      - Best sellers section
+      - Other location
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special handling or notes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approval_status
+      label: Manager Approval
+      hint: Has a manager approved this
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not required
+      required: true

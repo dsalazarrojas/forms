@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Party Membership Application
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''full_member''}'
+      - '{''value'': ''affiliate_member''}'
+      - '{''value'': ''supporting_member''}'
+      required: true
+    - id: 7
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      required: true
+    - id: 8
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: text
+      options: []
+      required: false

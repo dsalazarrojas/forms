@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Recognition Plaque Order Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plaque_text
+      label: Plaque Text
+      hint: This will be the text that will appear on the plaque.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: The date of the order
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price_per_item
+      label: Price Per Item
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Cheque
+      - Other
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false

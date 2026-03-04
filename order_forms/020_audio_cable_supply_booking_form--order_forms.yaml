@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Cable Supply Booking Form
+    pages:
+    - id: 1
+      name: renter_details_section
+      label: -- Renter Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_org_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: booking_schedule_section
+      label: -- Booking Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: inventory_section
+      label: -- Inventory Needed --
+      hint: Enter quantities for each type
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: xlr_quantity
+      label: XLR Cables (Microphone)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trs_quantity
+      label: 1-4 inch TRS Cables (Instrument)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: hdmi_quantity
+      label: HDMI Cables
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: power_con_quantity
+      label: PowerCon/IEC Cables
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: stage_snake_needed
+      label: Stage Snake Needed?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - 8-Channel
+      - 16-Channel
+      - 24-Channel
+      required: true
+    - id: 16
+      name: delivery_pref_section
+      label: -- Delivery and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - Customer Pickup
+      - Local Delivery (Fee applies)
+      - On-site Setup required
+      required: true
+    - id: 18
+      name: damage_waiver
+      label: I accept responsibility for lost or damaged equipment
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Decline
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

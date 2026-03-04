@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Reward Request Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: customer_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: customer_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loyalty_program
+      label: loyalty_program
+      hint: null
+      type: select_one
+      options:
+      - Loyalty Program
+      - Another Loyalty Program
+      - More Options
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task 1.1 Meal Price Calculator
+    pages:
+    - id: 1
+      name: meal_price_calculator
+      label: Meal Price Calculator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meal_price
+      label: Meal Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: meal_price_after_discount
+      label: Meal Price After Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false

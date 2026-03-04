@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Food Request Form
+    pages:
+    - id: 1
+      name: meeting_food_request_form
+      label: Meeting Food Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Beverage
+      - Snack
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Beverage
+      - Snack
+      required: false
+    - id: 3
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - vegetarian
+      - vegan
+      - gluten-free
+      - nuts-free
+      - dairy-free
+      required: false
+    - id: 4
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - meat
+      - fish
+      - chicken
+      - vegan
+      - vegetarian
+      required: false
+    - id: 5
+      name: food_allergies
+      label: Food Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

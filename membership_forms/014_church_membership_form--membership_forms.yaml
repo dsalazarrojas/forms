@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Membership Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Legal Name
+      hint: First, middle, and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_name
+      label: Preferred Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 8
+      name: spouse_name
+      label: Spouse Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: children
+      label: Do You Have Children
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: children_details
+      label: Children Names and Ages
+      hint: If yes, please list
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: baptism_status
+      label: Have You Been Baptized
+      hint: null
+      type: select_one
+      options:
+      - Yes, at this church
+      - Yes, at another church
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 12
+      name: previous_church
+      label: Previous Church Affiliation
+      hint: Name and location
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: membership_date
+      label: Desired Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: how_heard
+      label: How Did You Hear About Our Church
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - Website
+      - Social media
+      - Drive by
+      - Community event
+      - Pastor referral
+      - Other
+      required: true
+    - id: 15
+      name: faith_journey
+      label: Tell Us About Your Faith Journey
+      hint: Brief testimony
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: membership_class
+      label: Have You Completed Membership Class
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, but planning to
+      - No, need information
+      required: true
+    - id: 17
+      name: spiritual_gifts
+      label: What Are Your Spiritual Gifts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Teaching
+      - Serving
+      - Giving
+      - Leadership
+      - Encouragement
+      - Hospitality
+      - Music
+      - Prayer
+      - Not sure yet
+      required: false
+    - id: 18
+      name: volunteer_interest
+      label: Volunteer Interests
+      hint: Where would you like to serve
+      type: select_multiple
+      options:
+      - Worship team
+      - Children's ministry
+      - Youth ministry
+      - Hospitality
+      - Outreach
+      - Technical support
+      - Prayer ministry
+      - Not sure
+      required: true
+    - id: 19
+      name: small_group
+      label: Would You Like to Join a Small Group
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, not at this time
+      required: true
+    - id: 20
+      name: tithing
+      label: Do You Practice Tithing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Working on it
+      required: false
+    - id: 21
+      name: statement_of_faith
+      label: Do You Agree with Our Statement of Faith
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - I have questions
+      - false
+      required: true
+    - id: 22
+      name: covenant_agreement
+      label: Do You Agree to Our Church Covenant
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - I need to review it
+      - false
+      required: true
+    - id: 23
+      name: signature
+      label: Your Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

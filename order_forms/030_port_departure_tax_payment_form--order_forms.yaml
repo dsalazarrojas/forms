@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Port Departure Tax Payment Form
+    pages:
+    - id: 1
+      name: port_departure_tax_payment_form
+      label: Port Departure Tax Payment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: port_voyage_details
+      label: Voyage Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: port_payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Online Payment
+      - Bank Transfer
+      - Bank Draft
+      required: true
+    - id: 4
+      name: port_payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: port_payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: port_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

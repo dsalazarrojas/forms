@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Safety Plan
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_status
+      label: Mental Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - Depression
+      - Anxiety
+      - Bipolar
+      - Trauma
+      - Substance Abuse
+      - Other
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Family History
+      - Social Isolation
+      - Lack of Support
+      - Lack of Resources
+      - Poor Health
+      - Other
+      required: false
+    - id: 4
+      name: coping_mech
+      label: Coping Mechanisms
+      hint: null
+      type: select_one
+      options:
+      - Mindfulness
+      - Exercise
+      - Journaling
+      - Meditation
+      - Support Groups
+      - Other
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter at least one contact person and their relationship
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_person
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_provider
+      label: Mental Health Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: How often do you need help?
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_location
+      label: Follow Up Location
+      hint: Where do you want to be contacted?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: crisis_hotline
+      label: Crisis Hotline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: crisis_hotline_phone
+      label: Crisis Hotline Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: crisis_hotline_email
+      label: Crisis Hotline Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: emergency_services
+      label: Emergency Services
+      hint: List emergency services you need
+      type: select_multiple
+      options:
+      - 24/7 Crisis Line
+      - Support Groups
+      - Counseling
+      - Medical Care
+      - Other
+      required: false
+    - id: 18
+      name: crisis_planning
+      label: Crisis Planning
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: crisis_response_plan
+      label: Crisis Response Plan
+      hint: Describe your crisis response plan
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mental_health_support
+      label: Mental Health Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mental_health_support_person
+      label: Mental Health Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mental_health_support_relationship
+      label: Relationship to Mental Health Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mental_health_support_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: mental_health_support_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: mental_health_status_change
+      label: Mental Health Status Change
+      hint: null
+      type: select_multiple
+      options:
+      - Better
+      - Same
+      - Worse
+      - Other
+      required: false

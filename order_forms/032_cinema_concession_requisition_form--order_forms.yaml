@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cinema Concession Requisition Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Full Name
+        hint: Staff member making request
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: location
+        label: Cinema Location
+        hint: Which theater location
+        type: select_one
+        options:
+          - Downtown Location
+          - Mall Location
+          - Suburban Location
+          - Drive-In Location
+        required: true
+      - id: 4
+        name: concession_stand
+        label: Concession Stand Number
+        hint: Which stand needs restocking
+        type: select_one
+        options:
+          - Stand 1 - Main Lobby
+          - Stand 2 - Theater A-C
+          - Stand 3 - Theater D-F
+          - Stand 4 - VIP Lounge
+          - Stand 5 - Outdoor Area
+        required: true
+      - id: 5
+        name: request_date
+        label: Date of Request
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this request
+        type: select_one
+        options:
+          - Low - Routine restock
+          - Medium - Getting low
+          - High - Almost empty
+          - Critical - Out of stock
+        required: true
+      - id: 7
+        name: popcorn_needed
+        label: Popcorn Supplies
+        hint: Select all needed items
+        type: select_multiple
+        options:
+          - Popcorn kernels
+          - Popcorn oil
+          - Popcorn salt
+          - Butter topping
+          - Popcorn bags (small)
+          - Popcorn bags (medium)
+          - Popcorn bags (large)
+          - None needed
+        required: true
+      - id: 8
+        name: beverages_needed
+        label: Beverage Supplies
+        hint: Select all needed items
+        type: select_multiple
+        options:
+          - Soda syrup - Cola
+          - Soda syrup - Lemon-Lime
+          - Soda syrup - Orange
+          - Soda syrup - Root Beer
+          - Cup lids (small)
+          - Cup lids (medium)
+          - Cup lids (large)
+          - Straws
+          - Ice
+          - None needed
+        required: true
+      - id: 9
+        name: candy_needed
+        label: Candy Supplies
+        hint: Select all needed items
+        type: select_multiple
+        options:
+          - Chocolate bars
+          - Gummy candy
+          - Hard candy
+          - Licorice
+          - Jelly beans
+          - Caramel popcorn
+          - None needed
+        required: true
+      - id: 10
+        name: snacks_needed
+        label: Snack Supplies
+        hint: Select all needed items
+        type: select_multiple
+        options:
+          - Nacho chips
+          - Nacho cheese
+          - Jalapenos
+          - Hot dog buns
+          - Hot dogs
+          - Pretzels
+          - Ice cream
+          - None needed
+        required: true
+      - id: 11
+        name: condiments_needed
+        label: Condiment Supplies
+        hint: Select all needed items
+        type: select_multiple
+        options:
+          - Ketchup
+          - Mustard
+          - Mayo
+          - Hot sauce
+          - Napkins
+          - Wet wipes
+          - None needed
+        required: true
+      - id: 12
+        name: packaging_needed
+        label: Packaging Supplies
+        hint: Select all needed items
+        type: select_multiple
+        options:
+          - Drink cups (small)
+          - Drink cups (medium)
+          - Drink cups (large)
+          - Food trays
+          - Carry bags
+          - Serving trays
+          - None needed
+        required: true
+      - id: 13
+        name: current_inventory
+        label: Current Inventory Level
+        hint: Approximate percentage remaining
+        type: select_one
+        options:
+          - 0-25%
+          - 26-50%
+          - 51-75%
+          - 76-100%
+        required: true
+      - id: 14
+        name: expected_delivery
+        label: When Do You Need This Delivery
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: special_instructions
+        label: Special Instructions or Notes
+        hint: Any specific requirements
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: equipment_issues
+        label: Any Equipment Issues to Report
+        hint: Popcorn machine, soda fountain, etc.
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: manager_approval
+        label: Manager Approval Status
+        hint: null
+        type: select_one
+        options:
+          - Approved
+          - Pending
+          - Needs review
+        required: true
+      - id: 18
+        name: delivery_confirmation
+        label: Delivery Confirmation
+        hint: To be completed upon delivery
+        type: select_one
+        options:
+          - Delivered complete
+          - Delivered partial
+          - Not yet delivered
+        required: false

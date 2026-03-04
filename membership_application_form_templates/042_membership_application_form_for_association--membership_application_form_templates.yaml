@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Application Form For Association
+    pages:
+    - id: 1
+      name: membership_application_form_for_association_first_page
+      label: membership_application_form_for_association_first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: membership_application_form_for_association_first_name
+      label: membership_application_form_for_association_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_application_form_for_association_last_name
+      label: membership_application_form_for_association_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_application_form_for_association_email
+      label: membership_application_form_for_association_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: membership_application_form_for_association_phone
+      label: membership_application_form_for_association_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_application_form_for_association_membership_type
+      label: membership_application_form_for_association_membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Regular''}'
+      - Business
+      - Student
+      required: false
+    - id: 7
+      name: membership_application_form_for_association_additional_info
+      label: membership_application_form_for_association_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

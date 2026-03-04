@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checkout Form
+    pages:
+    - id: 1
+      name: section_shipping_info
+      label: -- Shipping Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address_street
+      label: Shipping Address
+      hint: Street Address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address_state
+      label: State / Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address_zip
+      label: Zip / Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_country_name
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_billing_pref
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: billing_same_as_shipping
+      label: Billing address is same as shipping
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_payment_method
+      label: -- Payment and Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: selected_payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit / Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank Transfer
+      required: true
+    - id: 13
+      name: applied_promo_code
+      label: Promo Code
+      hint: Enter your discount code here
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_total_amount
+      label: Order Total ($)
+      hint: Includes taxes and shipping
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: special_delivery_instructions
+      label: Delivery Instructions
+      hint: e.g. leave at front door
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: terms_conditions_agreement
+      label: I agree to the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: privacy_policy_agreement
+      label: I agree to the Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

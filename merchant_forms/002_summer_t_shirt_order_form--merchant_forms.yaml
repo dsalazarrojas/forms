@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_page
+      label: order_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_select
+      label: t_shirt_select
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shipping
+      label: shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment
+      label: payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm
+      label: confirm
+      hint: null
+      type: text
+      options: []
+      required: true

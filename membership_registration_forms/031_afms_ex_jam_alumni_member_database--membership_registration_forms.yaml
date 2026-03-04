@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afms Ex Jam Alumni Member Database
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name
+      hint: Name you prefer to be called (if different from legal name)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Primary email for alumni communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: afms_membership_details_section
+      label: AFMS Membership Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: afms_member_id
+      label: AFMS Member ID
+      hint: Your AFMS member identification number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ex_jam_group
+      label: EX-JAM Group
+      hint: Which EX-JAM group were you part of?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: membership_years
+      label: Years of Membership
+      hint: What years were you a member of AFMS?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rank_attained
+      label: Highest Rank Attained
+      hint: What was the highest rank you attained in AFMS?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: positions_held
+      label: Positions Held
+      hint: What leadership positions did you hold in AFMS?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: achievements_recognitions
+      label: Achievements and Recognitions
+      hint: Any notable achievements or recognitions received in AFMS
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_information_section
+      label: Current Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_address
+      label: Current Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city_state_country
+      label: City, State, Country
+      hint: City, state, and country of your current address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: postal_code
+      label: Postal Code
+      hint: Postal or zip code of your current address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: alternate_email
+      label: Alternate Email
+      hint: Alternate email address for backup contact
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: professional_information_section
+      label: Professional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_occupation
+      label: Current Occupation
+      hint: Your current job title or profession
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employer_organization
+      label: Employer or Organization
+      hint: Name of your current employer or organization
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: industry_sector
+      label: Industry Sector
+      hint: What industry sector do you work in?
+      type: select_one
+      options:
+      - Healthcare
+      - Education
+      - Government
+      - Private Sector
+      - Military
+      - Non-profit
+      - Other
+      required: true
+    - id: 24
+      name: professional_specialization
+      label: Professional Specialization
+      hint: Your area of professional specialization
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: alma_mater
+      label: Alma Mater
+      hint: Name of the school you graduated from
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation from your alma mater
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: alumni_engagement_section
+      label: Alumni Engagement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: interest_in_alumni_events
+      label: Interest in Alumni Events
+      hint: Are you interested in attending alumni events?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 29
+      name: preferred_communication_frequency
+      label: Preferred Communication Frequency
+      hint: How often would you like to receive alumni communications?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Only for major events
+      required: true
+    - id: 30
+      name: volunteer_opportunities_interest
+      label: Interest in Volunteer Opportunities
+      hint: Are you interested in volunteering for alumni activities?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: volunteer_interest_areas
+      label: Areas of Volunteer Interest
+      hint: What types of volunteer activities interest you?
+      type: select_multiple
+      options:
+      - Event Planning
+      - Fundraising
+      - Mentoring
+      - Communications
+      - Website/Social Media
+      - Newsletter
+      - Other
+      required: false
+    - id: 32
+      name: additional_information_section
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and contact information for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm your alumni registration
+      type: text
+      options: []
+      required: true

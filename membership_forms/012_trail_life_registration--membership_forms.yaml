@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trail Life Registration
+    pages:
+    - id: 1
+      name: family_name
+      label: Family Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_email
+      label: Family Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: family_phone
+      label: Family Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interested_leadership
+      label: Interested in Leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: family_interests
+      label: Family Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: family_type
+      label: Family Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: family_relationship
+      label: Family Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: youth_age
+      label: Youth Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: youth_interests
+      label: Youth Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: youth_notes
+      label: Youth Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: youth_leadership
+      label: Youth Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: family_leadership
+      label: Family Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: false
+    - id: 21
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: time_submitted_am_pm
+      label: Time Submitted AM/PM
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

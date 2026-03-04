@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: ready_to_make_a_lifestyle_change
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_goals
+      label: Health goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 3
+      name: exercise_frequency
+      label: Exercise frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: available_time
+      label: Available time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goal_duration
+      label: Goal duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: current_level
+      label: Current level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: goal_priority
+      label: Goal priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: available_money
+      label: Available money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: available_money_other
+      label: Available money other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streetwear Order Form Template
+    pages:
+    - id: 1
+      name: user_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_country
+      label: shipping_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Discover
+      - Amex
+      - Payoneer
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false

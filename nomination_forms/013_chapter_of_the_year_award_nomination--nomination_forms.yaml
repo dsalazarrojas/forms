@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter of the Year Award Nomination
+    pages:
+    - id: 1
+      name: section_nominator_info
+      label: -- Nominator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email_address
+      label: Nominator Email Address
+      hint: For nomination confirmation and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone_number
+      label: Nominator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_relationship_to_chapter
+      label: Your Relationship to the Chapter
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Active Member
+      - Chapter Officer
+      - Regional Representative
+      - National Representative
+      - Community Partner
+      required: true
+    - id: 6
+      name: section_chapter_nominated
+      label: -- Chapter Being Nominated --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: chapter_full_legal_name
+      label: Chapter Full Legal Name
+      hint: Enter the formal name as registered with the national body
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: chapter_identifier_id
+      label: Chapter ID or Code
+      hint: Unique code assigned to the chapter
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: chapter_region_location
+      label: Chapter Region or Location
+      hint: Select the geographical region of the chapter
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia-Pacific
+      - Latin America and Caribbean
+      - Middle East and Africa
+      required: true
+    - id: 10
+      name: chapter_officer_full_name
+      label: Chapter President or Lead Officer
+      hint: Main point of contact for the chapter
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_nomination_rationale
+      label: -- Nomination Rationale and Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: chapter_membership_growth_data
+      label: Membership Growth in the Past Year
+      hint: Brief summary of recruitment and retention successes
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: community_impact_summary
+      label: Community Impact and Service Projects
+      hint: List major service contributions and their outcomes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: innovation_and_engagement_examples
+      label: Examples of Innovation and Engagement
+      hint: How has the chapter innovated its programming?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: financial_responsibility_and_fundraising
+      label: Financial Responsibility and Fundraising
+      hint: Brief summary of the chapter's fiscal health and fundraising success
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: overall_excellence_statement
+      label: Statement of Overall Excellence
+      hint: Why should this chapter be named Chapter of the Year?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_supporting_documents
+      label: -- Supporting Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: upload_supporting_evidence_links
+      label: Links to Supporting Evidence
+      hint: Provide links to photos, press releases, or digital portfolios
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: endorsement_from_regional_leader
+      label: Regional Leader Endorsement
+      hint: Do you have an endorsement from your regional lead?
+      type: select_one
+      options:
+      - Yes - Endorsement Attached
+      - No - Endorsement Not Required
+      required: true
+    - id: 20
+      name: section_nomination_confirmation
+      label: -- Nomination Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accuracy_confirmation_nominator
+      label: Confirmation of Accuracy
+      hint: I confirm that the information provided is accurate and true
+      type: select_one
+      options:
+      - I Confirm and Agree
+      - Other
+      required: true
+    - id: 22
+      name: date_of_nomination_submission
+      label: Nomination Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments_nomination
+      label: Additional Comments or Information
+      hint: null
+      type: text
+      options: []
+      required: false

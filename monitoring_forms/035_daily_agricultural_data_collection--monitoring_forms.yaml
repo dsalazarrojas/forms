@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Agricultural Data Collection
+    pages:
+    - id: 1
+      name: farm_details
+      label: Farm Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crop_info
+      label: Crop Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: farm_equipment
+      label: Farm Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Tractor
+      - Hoe
+      - Till
+      - Rake
+      - Other
+      required: false
+    - id: 6
+      name: labor_force
+      label: Labor Force
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: weather_conditions_2
+      label: Weather
+      hint: null
+      type: select_one
+      options:
+      - Sunny
+      - Cloudy
+      - Rain
+      - Wind
+      - Thunderstorm
+      - Fog
+      - Snow
+      - Hail
+      - Freezing
+      - Heatwave
+      required: false

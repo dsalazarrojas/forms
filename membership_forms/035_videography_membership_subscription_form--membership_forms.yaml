@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Videography Membership Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Please select a payment method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: payment_method_other
+      label: Other (Specify)
+      hint: Please enter payment method
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: plan
+      label: Plan
+      hint: Please select a plan
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: plan_other
+      label: Other (Specify)
+      hint: Please enter a plan
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_cycle
+      label: Billing Cycle
+      hint: Please select a billing cycle
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: billing_cycle_other
+      label: Other (Specify)
+      hint: Please enter a billing cycle
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Please select a payment frequency
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: payment_frequency_other
+      label: Other (Specify)
+      hint: Please enter a payment frequency
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: Please select payment terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: payment_terms_other
+      label: Other (Specify)
+      hint: Please enter payment terms
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: business_url
+      label: Business URL
+      hint: null
+      type: text
+      options: []
+      required: false

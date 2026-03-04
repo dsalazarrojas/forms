@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Services Billing Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorize.net
+      required: false
+    - id: 7
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

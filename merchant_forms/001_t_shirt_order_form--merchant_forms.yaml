@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Order Form
+    pages:
+    - id: 1
+      name: t_shirt_order_form_page_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_order_form_page_1_first_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: t_shirt_order_form_page_2
+      label: T-Shirt Details
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      required: false
+    - id: 4
+      name: t_shirt_order_form_page_3
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 5
+      name: t_shirt_order_form_page_2_t_shirt_details
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: t_shirt_order_form_page_4
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: t_shirt_order_form_page_5
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: t_shirt_order_form_page_4_shipping_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: t_shirt_order_form_page_5_phone_number
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: t_shirt_order_form_page_6
+      label: Order Summary
+      hint: null
+      type: note
+      options: []
+      required: false

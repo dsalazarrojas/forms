@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Needs Assessment Form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''beginner''}'
+      - '{''value'': ''intermediate''}'
+      - '{''value'': ''advanced''}'
+      required: false
+    - id: 5
+      name: physical_characteristics
+      label: Physical Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: body_fat_percentage
+      label: bodyfat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: physical_health
+      label: Physical Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: health_history
+      label: health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: injury_status
+      label: Injury Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitted_by_role
+      label: Submitted By Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: submitted_by_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Surgical Care Checklist Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_surgery
+      label: Date of Surgery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: surgical_site
+      label: Surgical Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: anesthesia_type
+      label: Anesthesia Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: antibiotics
+      label: Antibiotics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: nausea
+      label: Nausea
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: patient_vital_signs
+      label: Patient Vital Signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: post_surgical_instructions
+      label: Post Surgical Instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: post_surgical_comments
+      label: Post Surgical Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: patient_medication_allergies
+      label: Patient Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: surgical_team
+      label: Surgical Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: post_surgical_complications
+      label: Post Surgical Complications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: post_surgical_care_checklist
+      label: Post Surgical Care Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: post_surgical_care_provider
+      label: Post Surgical Care Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: post_surgical_care_date
+      label: Post Surgical Care Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: post_surgical_care_time
+      label: Post Surgical Care Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: post_surgical_care_notes
+      label: Post Surgical Care Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Management System Handoff
+    pages:
+    - id: 1
+      name: education_transfer
+      label: Education Transfer
+      hint: Transfer education details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_transfer
+      label: Training Transfer
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: data_collection
+      label: Data Collection
+      hint: Centralize data collection in Jotform
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: admin_change
+      label: Administrator Change
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Date of transfer
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: Time of transfer
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: Detailed description of transfer
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: Category of transfer
+      type: select_one
+      options:
+      - Onboarding Forms
+      - IT Forms
+      - Security Forms
+      required: true
+    - id: 12
+      name: form_type
+      label: Form Type
+      hint: Type of form
+      type: select_one
+      options:
+      - Onboarding Form
+      - IT Form
+      - Security Form
+      required: true
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_category
+      label: Form Category
+      hint: Category of form
+      type: select_multiple
+      options:
+      - Onboarding Forms
+      - IT Forms
+      - Security Forms
+      required: true
+    - id: 15
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: true
+    - id: 22
+      name: version
+      label: Version
+      hint: null
+      type: select_one
+      options:
+      - '1.0'
+      - '2.0'
+      - '3.0'
+      required: true
+    - id: 23
+      name: custom
+      label: Custom
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true

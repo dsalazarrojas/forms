@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Program Leadership Award Nomination Form
+    pages:
+    - id: 1
+      name: award_intro_note
+      label: -- Community Leadership Award Nominations --
+      hint: Nominate an outstanding individual who has made a difference in our community!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Nominator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_phone
+      label: Nominator Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_full_name
+      label: Nominee Full Name
+      hint: The person you are nominating.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_organization_role
+      label: Nominee Organization or Community Role
+      hint: e.g. Volunteer Coordinator - Local School Board Member.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_email
+      label: Nominee Email Address
+      hint: Optional.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee_phone
+      label: Nominee Phone Number
+      hint: Optional.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominee_service_years
+      label: Nominee - s Years of Service in the Community
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-10 years
+      - More than 10 years
+      required: true
+    - id: 10
+      name: leadership_qualities_desc
+      label: Describe the nominee - s leadership qualities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specific_project_initiative
+      label: Describe a specific project or initiative led by the nominee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: community_impact_desc
+      label: How has the nominee impacted the community?
+      hint: Focus on the tangible results of their work.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: testimonial_willingness_check
+      label: Would you be willing to provide a verbal testimonial?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: relationship_to_nominee_check
+      label: Are you related to the nominee?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: nomination_deadline_note
+      label: -- Nomination Deadline --
+      hint: Nominations must be submitted by Nov 30th.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

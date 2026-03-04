@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Community Network Membership Form
+    pages:
+    - id: 1
+      name: membership_form_1
+      label: Welcome to the Gaming Community
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: password
+      label: Password
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Not Member
+      - Member in Progress
+      required: true
+    - id: 8
+      name: gaming_experience
+      label: Gaming Experience
+      hint: null
+      type: select_one
+      options:
+      - 1-2 years
+      - 3-5 years
+      - More than 5 years
+      - Not a gamer
+      required: true
+    - id: 9
+      name: gaming_experience
+      label: Gaming Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: game
+      label: Favorite Game
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: game
+      label: Favorite Game
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: game_genre
+      label: Favorite Game Genre
+      hint: null
+      type: select_one
+      options:
+      - RPG
+      - FPS
+      - RTS
+      - Strategy
+      - Sports
+      required: false
+    - id: 13
+      name: game_genre
+      label: Favorite Game Genre
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: role
+      label: Role in the Gaming Community
+      hint: null
+      type: select_one
+      options:
+      - Leader
+      - Moderator
+      - Member
+      - Other
+      required: false
+    - id: 15
+      name: role
+      label: Role in the Gaming Community
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: gaming_community
+      label: Gaming Community
+      hint: null
+      type: select_one
+      options:
+      - Community1
+      - Community2
+      - Community3
+      required: false
+    - id: 17
+      name: gaming_community
+      label: Gaming Community
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: join_date
+      label: Join Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: join_date
+      label: Join Date
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Supplies Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name or Salon Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_order_details
+      label: -- Product Selection --
+      hint: Specify quantities for each item
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shampoo_qty
+      label: Professional Shampoo (Liters) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: conditioner_qty
+      label: Professional Conditioner (Liters) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hair_color_tubes_qty
+      label: Hair Color Tubes (Assorted) - Quantity
+      hint: Please list shades in notes
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: developer_qty
+      label: Developer / Activator (Bottles) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: facial_cleanser_qty
+      label: Professional Facial Cleanser - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: disposable_gloves_qty
+      label: Disposable Gloves (Box of 100) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_shade_notes
+      label: Specific Shades or Product Variants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_payment_shipping
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground (3-5 days)
+      - Expedited (2 days)
+      - Overnight
+      - Local Pickup
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - Bank Transfer
+      - Pay on Delivery (Approved Accounts)
+      - On Account (Monthly Billing)
+      required: true
+    - id: 17
+      name: special_instructions
+      label: Special Shipping or Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

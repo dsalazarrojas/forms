@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Club Membership Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gaming_hobby
+      label: Gaming Hobby
+      hint: null
+      type: select_multiple
+      options:
+      - Gaming
+      - Esports
+      - PC Gaming
+      - Console Gaming
+      - Tabletop Gaming
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_available
+      label: Date Available
+      hint: Select a specific date you are available
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_available
+      label: Time Available
+      hint: Select a specific time you are available
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

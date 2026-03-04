@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Innovation Award Nomination Form
+    pages:
+    - id: 1
+      name: financial_innovation_award_nomination_form
+      label: Financial Industry Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: nomination_form_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nomination_form_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nomination_form_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: financial_innovation_award_category
+      label: Financial Innovation Award Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nomination_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nomination_form_file_upload
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_score_3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: nomination_form_additional_files
+      label: Additional Files
+      hint: null
+      type: text
+      options: []
+      required: false

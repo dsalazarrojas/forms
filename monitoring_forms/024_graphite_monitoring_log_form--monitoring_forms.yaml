@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphite Monitoring Log Form
+    pages:
+    - id: 1
+      name: graphite_monitoring_log_form_1
+      label: graphite_monitoring_log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: graphite_monitoring_log_2
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: graphite_monitoring_log_3
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: graphite_monitoring_log_4
+      label: graphite_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: graphite_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: graphite_monitoring_log_6
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: graphite_monitoring_log_7
+      label: graphite_monitoring
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: graphite_monitoring_log_8
+      label: graphite_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graphite_monitoring_log_9
+      label: graphite_monitoring_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

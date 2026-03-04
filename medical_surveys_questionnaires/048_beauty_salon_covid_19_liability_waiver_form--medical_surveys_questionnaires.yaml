@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon COVID 19 Liability Waiver Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: appointment_header
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Hair
+      - Makeup
+      - Nails
+      - Waxing
+      - Skincare
+      - Other
+      required: true
+    - id: 10
+      name: health_questionnaire_header
+      label: -- Health Questionnaire --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: covid_positive
+      label: Have You Tested Positive for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Prefer Not to Say
+      required: true
+    - id: 12
+      name: covid_positive_date
+      label: If Yes - When
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: recent_symptoms
+      label: Recent COVID-19 Symptoms (Last 14 Days)
+      hint: Fever, cough, fatigue, loss of taste/smell, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: close_contact
+      label: Close Contact with COVID-19 Positive Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: travel_header
+      label: -- Travel and Exposure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: recent_travel
+      label: Recent Travel to High-Risk Areas
+      hint: Last 14 days
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: work_in_healthcare
+      label: Do You Work in Healthcare or High-Risk Setting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: risk_factors_header
+      label: -- Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: underlying_conditions
+      label: Underlying Health Conditions
+      hint: Diabetes, heart disease, respiratory issues, immunocompromised, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: age_65_plus
+      label: Are You 65 Years or Older
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: waiver_acknowledgment_header
+      label: -- Waiver Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: understand_covid_risk
+      label: I Understand the Risks of COVID-19 in Salon Settings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: acknowledge_precautions
+      label: I Acknowledge All Precautions Explained
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: accept_risk
+      label: I Accept the Risk and Assume Full Responsibility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: hold_harmless
+      label: I Hold the Salon Harmless from Any COVID-19 Related Claims
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: signature
+      label: Client Signature
+      hint: By typing here you confirm this waiver
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

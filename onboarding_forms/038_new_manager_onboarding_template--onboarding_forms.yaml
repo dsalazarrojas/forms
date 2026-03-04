@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_manager_onboarding_template
+    pages:
+    - id: 1
+      name: new_manager_onboarding
+      label: New Manager Onboarding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_manager_id
+      label: Reporting Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reporting_manager_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leadership_preferences
+      label: Leadership Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 11
+      name: leadership_preferences_other
+      label: Leadership Preferences Other
+      hint: null
+      type: text
+      options: []
+      required: false

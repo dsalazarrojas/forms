@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_sample_reorder_request_form
+    pages:
+    - id: 1
+      name: product_sample_reorder_request_form
+      label: Product Sample Reorder Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reorder_type
+      label: Reorder Type
+      hint: null
+      type: select_one
+      options:
+      - Reorder Samples
+      - Reorder Stock
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reorder_date
+      label: Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reorder_time
+      label: Reorder Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: false

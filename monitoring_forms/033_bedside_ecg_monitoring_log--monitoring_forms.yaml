@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bedside ECG Monitoring Log
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient and Unit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_mrn
+      label: Medical Record Number (MRN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: room_bed_number
+      label: Room and Bed Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clinical_unit
+      label: Clinical Unit
+      hint: null
+      type: select_one
+      options:
+      - ICU
+      - CCU
+      - Telemetry
+      - Med-Surg
+      - ER
+      - Recovery
+      required: true
+    - id: 6
+      name: section_monitoring_data
+      label: -- ECG Monitoring Data --
+      hint: To be completed by nursing or telemetry staff
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recording_timestamp
+      label: Date and Time of Recording
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recording_time_only
+      label: Time of Recording
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: heart_rate_bpm
+      label: Heart Rate (BPM)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cardiac_rhythm_type
+      label: Observed Cardiac Rhythm
+      hint: null
+      type: select_one
+      options:
+      - Normal Sinus Rhythm (NSR)
+      - Sinus Bradycardia
+      - Sinus Tachycardia
+      - Atrial Fibrillation (A-Fib)
+      - Atrial Flutter
+      - Ventricular Tachycardia (V-Tach)
+      - PVCs Present
+      - Other
+      required: true
+    - id: 11
+      name: pr_interval_ms
+      label: PR Interval (ms)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: qrs_duration_ms
+      label: QRS Duration (ms)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: qt_interval_ms
+      label: QT Interval (ms)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: st_segment_changes
+      label: ST Segment Changes Observed
+      hint: Elevation or Depression
+      type: select_one
+      options:
+      - No Changes
+      - ST Elevation
+      - ST Depression
+      - T-Wave Inversion
+      required: true
+    - id: 15
+      name: patient_symptoms_during_ecg
+      label: Patient Symptoms During Recording
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Asymptomatic
+      - Chest Pain / Pressure
+      - Shortness of Breath
+      - Palpitations
+      - Dizziness / Lightheadedness
+      - Diaphoresis
+      required: true
+    - id: 16
+      name: section_provider_info
+      label: -- Provider and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: healthcare_provider_notified
+      label: Was the physician or provider notified?
+      hint: Required for significant rhythm changes
+      type: select_one
+      options:
+      - true
+      - No - Routine Monitoring
+      required: true
+    - id: 18
+      name: staff_member_name
+      label: Name of Staff Member Completing Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: clinical_notes
+      label: Additional Clinical Observations
+      hint: null
+      type: text
+      options: []
+      required: false

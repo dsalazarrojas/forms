@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Visit Report Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - Nursing Visit
+      - Medication Review
+      - Lab Test
+      - Medical Procedure
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: List the medications given to the patient
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

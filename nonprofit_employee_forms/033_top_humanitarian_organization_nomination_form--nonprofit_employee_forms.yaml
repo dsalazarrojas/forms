@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Top Humanitarian Organization Nomination Form
+    pages:
+    - id: 1
+      name: user_nominant
+      label: Nominate User
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: organization_nominated
+      label: Nominated Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_nomination
+      label: Reason For Nomination
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      - '{''option4'': None}'
+      - '{''option5'': None}'
+      - '{''option6'': None}'
+      - '{''option7'': None}'
+      - '{''option8'': None}'
+      - '{''option9'': None}'
+      - '{''option10'': None}'
+      required: false
+    - id: 5
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_address
+      label: Nominee Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 8
+      name: nominee_position
+      label: Nominee Position
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 9
+      name: nominee_category
+      label: Nominee Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 10
+      name: organization_category
+      label: Organization Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 11
+      name: organization_nature
+      label: Organization Nature
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 12
+      name: region_served
+      label: Region Served
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 13
+      name: nominee_nature
+      label: Nominee Nature
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 14
+      name: nominee_type
+      label: Nominee Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 15
+      name: nominee_education
+      label: Nominee Education
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 16
+      name: years_nominated
+      label: Number of Years Nominated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: nominee_awards
+      label: Nominee Awards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 18
+      name: nominee_languages
+      label: Nominee Languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: region_of_service
+      label: Region Of Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: nominee_organizations_served
+      label: Nominee Organizations Served
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

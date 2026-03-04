@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_membership_renewal_form
+    pages:
+    - id: 1
+      name: membership_number
+      label: Membership Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_status
+      label: Membership Status
+      hint: Select status of membership
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: renewal_fee
+      label: Renewal Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

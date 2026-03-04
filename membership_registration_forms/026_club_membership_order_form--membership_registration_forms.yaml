@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Membership Order Form
+    pages:
+    - id: 1
+      name: member_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: Select the membership level
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - VIP
+      - Family
+      - Student
+      required: true
+    - id: 11
+      name: membership_duration
+      label: Membership Duration
+      hint: Choose your membership term
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Lifetime
+      required: true
+    - id: 12
+      name: membership_cost
+      label: Membership Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 14
+      name: interests
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sports
+      - Arts and Culture
+      - Technology
+      - Community Service
+      - Social Events
+      - Professional Development
+      required: false
+    - id: 15
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Word of Mouth
+      - Social Media
+      - Website
+      - Email
+      - Event
+      - Other
+      required: false
+    - id: 16
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: Must agree to complete registration
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

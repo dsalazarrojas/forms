@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Purchase Payment Form
+    pages:
+    - id: 1
+      name: hardware_purchase_payment_form
+      label: hardware_purchase_payment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash'', ''type'': ''text''}'
+      - '{''label'': ''Credit Card'', ''type'': ''text''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''type'': ''text''}'
+      - '{''label'': ''Paid'', ''type'': ''text''}'
+      - '{''label'': ''Partially Paid'', ''type'': ''text''}'
+      - '{''label'': ''Failed'', ''type'': ''text''}'
+      required: false
+    - id: 13
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false

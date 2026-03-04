@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Feedback Consent Form
+    pages:
+    - id: 1
+      name: session_info
+      label: Session Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: therapist_rating
+      label: Therapist
+      hint: Rate your therapist
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: share_session_info
+      label: Would you like to share your session info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: Check if you have given consent
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

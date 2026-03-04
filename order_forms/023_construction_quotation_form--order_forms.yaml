@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Quotation Form
+    pages:
+    - id: 1
+      name: quotation_date
+      label: Quotation Date
+      hint: Date of this quotation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: quotation_number
+      label: Quotation Number
+      hint: Unique quotation reference
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Client or company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_company
+      label: Customer Company
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: Name of project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: Where work will be done
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed description of work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_1_description
+      label: Item 1 Description
+      hint: First line item description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: Quantity or hours
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_1_unit
+      label: Item 1 Unit
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Hours
+      - Days
+      - Square Feet
+      - Linear Feet
+      - Cubic Yards
+      - Lump Sum
+      required: true
+    - id: 14
+      name: item_1_unit_price
+      label: Item 1 Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: item_1_total
+      label: Item 1 Total
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: item_2_description
+      label: Item 2 Description
+      hint: Second line item
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_2_unit_price
+      label: Item 2 Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: item_2_total
+      label: Item 2 Total
+      hint: Line total
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: item_3_description
+      label: Item 3 Description
+      hint: Third line item
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: item_3_unit_price
+      label: Item 3 Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: item_3_total
+      label: Item 3 Total
+      hint: Line total
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all line items
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: tax_rate
+      label: Tax Rate
+      hint: Sales tax percentage
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: tax_amount
+      label: Tax Amount
+      hint: Total tax
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: discount
+      label: Discount
+      hint: Any discount applied
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: total_amount
+      label: Total Amount
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15 Days
+      - Net 30 Days
+      - 50% Deposit, 50% Completion
+      - Progress Payments
+      - Other
+      required: true
+    - id: 30
+      name: quotation_valid_until
+      label: Quotation Valid Until
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: delivery_timeline
+      label: Delivery or Completion Timeline
+      hint: Estimated time to complete
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Any special terms
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: prepared_by
+      label: Prepared By
+      hint: Name of person preparing quote
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

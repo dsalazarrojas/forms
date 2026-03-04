@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Architect Onboarding Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: First day of employment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_contact
+      label: -- Contact Information --
+      hint: How to reach the employee
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Work Email Address
+      hint: Assigned corporate email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Work Phone Number
+      hint: Desk phone extension
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: office_location
+      label: Office Location
+      hint: Primary work location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_department
+      label: -- Department Information --
+      hint: Team and reporting structure
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: Cloud Architecture or related
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_name
+      label: Direct Manager Name
+      hint: Name of supervisor
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: Manager's email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: team_members
+      label: Will work with which team members
+      hint: List key teammates
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_position
+      label: -- Position Details --
+      hint: Role-specific information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: Cloud Architect or specific role
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reporting_relationship
+      label: Reporting Relationship
+      hint: Direct report to manager
+      type: select_one
+      options:
+      - Direct report
+      - Matrix reporting
+      - Dotted line relationship
+      required: true
+    - id: 16
+      name: responsibilities
+      label: Primary Responsibilities
+      hint: Key job duties and focus areas
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_skills
+      label: -- Skills and Expertise --
+      hint: Areas of technical focus
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_cloud_platforms
+      label: Primary Cloud Platforms for Role
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud Platform
+      - Hybrid cloud
+      - Multi-cloud
+      - Other
+      required: true
+    - id: 19
+      name: key_expertise_areas
+      label: Key Areas of Expertise Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Security architecture
+      - Infrastructure design
+      - Database architecture
+      - DevOps and CI/CD
+      - Microservices
+      - Cost optimization
+      - Disaster recovery
+      - Compliance
+      required: false
+    - id: 20
+      name: section_access
+      label: -- System Access Requirements --
+      hint: What systems they need access to
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: systems_access
+      label: Systems Requiring Access
+      hint: null
+      type: select_multiple
+      options:
+      - AWS Management Console
+      - Azure Portal
+      - GCP Console
+      - Version control (Git)
+      - Project management tools
+      - Documentation wiki
+      - Design tools
+      - Monitoring dashboards
+      - Other
+      required: true
+    - id: 22
+      name: section_equipment
+      label: -- Equipment and Resources --
+      hint: Hardware and tools needed
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Laptop, monitors, etc.
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: security_clearance
+      label: Security Clearance Required
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic background check
+      - Standard security clearance
+      - Top secret clearance
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Onboarding Notes
+      hint: Special accommodations or requirements
+      type: text
+      options: []
+      required: false

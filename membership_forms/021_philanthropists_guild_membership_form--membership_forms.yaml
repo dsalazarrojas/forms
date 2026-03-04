@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Philanthropists Guild Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: how_much_do_you_want_to_donate
+      label: How much do you want to donate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: frequency_of_dues
+      label: Frequency of Dues
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Once
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Check
+      - PayPal
+      - Cash
+      required: true
+    - id: 15
+      name: how_long_have_you_been_supporting_us
+      label: How long have you been supporting us?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 16
+      name: what_do_you_value_most
+      label: What do you value most about our organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Helping others
+      - Education
+      - Research
+      - Community Service
+      required: false
+    - id: 17
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_multiple
+      options:
+      - Google
+      - Social Media
+      - Referral
+      - Online Search
+      required: false

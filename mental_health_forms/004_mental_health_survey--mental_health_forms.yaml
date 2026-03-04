@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_survey
+    pages:
+    - id: 1
+      name: mental_health_survey_page
+      label: mental_health_survey_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: how_am_i_doing
+      label: how_am_i_doing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: get_thoughts_flowin
+      label: get_thoughts_flowin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mental_health_survey_page_2
+      label: mental_health_survey_page_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: how_am_i_feeling
+      label: how_am_i_feeling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: what_can_help
+      label: what_can_help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: time
+      options: []
+      required: false

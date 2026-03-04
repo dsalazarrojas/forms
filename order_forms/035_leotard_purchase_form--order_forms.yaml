@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leotard Purchase Form
+    pages:
+    - id: 1
+      name: leotard_size
+      label: leotard_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leotard_color
+      label: leotard_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: leotard_size_option
+      label: leotard_size_option
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: leotard_color_option
+      label: leotard_color_option
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_country_code
+      label: customer_country_code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

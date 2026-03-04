@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AF Fitness Training Freeze Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Member Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name as it appears on your membership
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_id
+      label: Member ID
+      hint: Your unique membership identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: section_header_freeze_request
+      label: '--- Freeze Request Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: freeze_start_date
+      label: Start date of freeze
+      hint: When should the freeze begin?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: freeze_end_date
+      label: Expected end date of freeze
+      hint: When do you expect to return to training?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: freeze_duration
+      label: Duration of freeze (weeks)
+      hint: Calculated based on selected dates
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: freeze_reason
+      label: Reason for freeze
+      hint: Select the primary reason for requesting the freeze
+      type: select_one
+      options:
+      - Medical reasons
+      - Vacation/travel
+      - Work commitment
+      - Financial hardship
+      - Relocation
+      - Other
+      required: true
+    - id: 11
+      name: freeze_reason_other
+      label: Specify other reason
+      hint: Please describe if you selected "Other" above
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_health
+      label: '--- Health Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_clearance
+      label: Do you need medical clearance to resume training?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 14
+      name: health_restrictions
+      label: Any health restrictions we should be aware of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_membership
+      label: '--- Membership Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: membership_type
+      label: Current membership type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - VIP
+      - Student
+      - Senior
+      required: true
+    - id: 17
+      name: trainer_assigned
+      label: Current assigned trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special requests for when you return
+      hint: Any changes you'd like to make to your program upon return
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 21
+      name: terms_acknowledged
+      label: I acknowledge the freeze policy and terms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like to share
+      type: text
+      options: []
+      required: false

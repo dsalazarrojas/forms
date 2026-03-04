@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Football Club Membership Form Template
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_details
+      label: player_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: emergency_contact
+      hint: Who is your emergency contact?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: payment_info
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - '{''label'': ''Membership Fee'', ''value'': ''membership_fee''}'
+      - '{''label'': ''Subscription Fee'', ''value'': ''subscription_fee''}'
+      - '{''label'': ''Both'', ''value'': ''both''}'
+      required: false
+    - id: 6
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 8
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual'', ''value'': ''individual''}'
+      - '{''label'': ''Family'', ''value'': ''family''}'
+      - '{''label'': ''Group'', ''value'': ''group''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

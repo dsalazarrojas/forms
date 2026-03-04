@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wabc | Membership Form 2020 2021
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_level
+      label: Membership level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Elite
+      required: false
+    - id: 4
+      name: membership_status
+      label: Membership status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: join_date
+      label: Join date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address_3
+      label: Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address_4
+      label: Address 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: post_code
+      label: Post code
+      hint: null
+      type: select_one
+      options:
+      - London
+      - Birmingham
+      - Leeds
+      - Other
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

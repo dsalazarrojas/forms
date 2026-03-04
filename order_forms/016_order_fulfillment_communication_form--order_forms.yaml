@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Fulfillment Communication Form
+    pages:
+    - id: 1
+      name: order_fulfillment_communication_form
+      label: Order Fulfillment Communication Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''fulfilled''}'
+      - '{''id'': 3, ''name'': ''cancelled''}'
+      required: false
+    - id: 5
+      name: fulfillment_date
+      label: Fulfillment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_comment
+      label: Order Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_comment
+      label: Employee Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''email''}'
+      - '{''id'': 2, ''name'': ''phone''}'
+      - '{''id'': 3, ''name'': ''in-app''}'
+      required: false
+    - id: 13
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: upload_attachment
+      label: Upload Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_message
+      label: Employee Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_fulfillment_status
+      label: Order Fulfillment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''fulfilled''}'
+      - '{''id'': 3, ''name'': ''cancelled''}'
+      required: false
+    - id: 18
+      name: employee_message_type
+      label: Employee Message Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''text''}'
+      - '{''id'': 2, ''name'': ''call''}'
+      - '{''id'': 3, ''name'': ''email''}'
+      - '{''id'': 4, ''name'': ''in-app''}'
+      required: false
+    - id: 19
+      name: customer_phone_type
+      label: Customer Phone Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''voice''}'
+      - '{''id'': 2, ''name'': ''video''}'
+      - '{''id'': 3, ''name'': ''voice_and_video''}'
+      required: false
+    - id: 20
+      name: customer_phone_number
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_message_type
+      label: Customer Message Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''text''}'
+      - '{''id'': 2, ''name'': ''email''}'
+      - '{''id'': 3, ''name'': ''in-app''}'
+      - '{''id'': 4, ''name'': ''file''}'
+      required: false
+    - id: 22
+      name: employee_phone_number
+      label: Employee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_message_type
+      label: Employee Message Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''text''}'
+      - '{''id'': 2, ''name'': ''call''}'
+      - '{''id'': 3, ''name'': ''email''}'
+      - '{''id'': 4, ''name'': ''in-app''}'
+      required: false
+    - id: 24
+      name: order_fulfillment_date
+      label: Order Fulfillment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: employee_message
+      label: Employee Message
+      hint: null
+      type: text
+      options: []
+      required: false

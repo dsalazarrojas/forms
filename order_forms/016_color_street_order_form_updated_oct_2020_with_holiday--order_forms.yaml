@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Form - Updated Oct 2020 With Holiday
+    pages:
+    - id: 1
+      name: section_holiday_welcome
+      label: -- 2020 Holiday Season Collection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: holiday_customer_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: holiday_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: holiday_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_halloween
+      label: -- Halloween Collection 2020 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: halloween_sets
+      label: Select Halloween Sets
+      hint: null
+      type: select_multiple
+      options:
+      - Oh My Gourd
+      - Buggin' Out
+      - Web of Lies
+      - Bad Blood
+      - Ghostess with the Mostest
+      required: false
+    - id: 7
+      name: section_thanksgiving
+      label: -- Thanksgiving Collection 2020 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: thanksgiving_sets
+      label: Select Thanksgiving Sets
+      hint: null
+      type: select_multiple
+      options:
+      - Gratitude is Everything
+      - Feast Mode
+      - Turkey Trot
+      - Give Thanks
+      required: false
+    - id: 9
+      name: section_christmas
+      label: -- Christmas/Winter Collection 2020 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: christmas_sets
+      label: Select Winter/Holiday Sets
+      hint: null
+      type: select_multiple
+      options:
+      - Ice to Meet You
+      - Snow Biz
+      - Under the Mistletoe
+      - What a Catch
+      - Blitzen
+      required: false
+    - id: 11
+      name: section_regular_stock
+      label: -- Regular Stock and Deals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: standard_sets_list
+      label: List any Standard Sets (Solids, Glitters, etc.)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: b3g1_holiday
+      label: Is this order for a B3G1 Deal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: total_sets_holiday
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payment_handle_holiday
+      label: Payment Method and Username
+      hint: e.g., Venmo @User
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_choice_holiday
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - Standard ($3.50)
+      - Priority ($8.50)
+      required: true
+    - id: 17
+      name: host_name_holiday
+      label: Host Name (If for a party)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes_holiday
+      label: Holiday Wishes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

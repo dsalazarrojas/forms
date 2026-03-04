@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: CE Meeting
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_meeting_details
+      label: -- Meeting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: Preferred Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: meeting_time
+      label: Preferred Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: meeting_duration
+      label: Expected Meeting Duration
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: meeting_type
+      label: Type of Meeting
+      hint: null
+      type: select_one
+      options:
+      - Continuing Education
+      - Training Session
+      - Professional Development
+      - Certification Review
+      - Compliance Training
+      - Conference
+      - Workshop
+      - Other
+      required: true
+    - id: 12
+      name: section_topic_info
+      label: -- Topic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: meeting_topic
+      label: Meeting Topic or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: topic_description
+      label: Topic Description
+      hint: What will be discussed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: ce_credits
+      label: CE Credits Available
+      hint: Number of credit hours offered
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_meeting_details_extended
+      label: -- Meeting Format and Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: meeting_format
+      label: Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual - Zoom
+      - Virtual - Teams
+      - Virtual - Other Platform
+      - Hybrid
+      required: true
+    - id: 18
+      name: meeting_location
+      label: Meeting Location
+      hint: City, venue, or virtual platform details
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_attendance
+      label: -- Attendance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attendee_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Confirmed
+      - Tentative
+      - Waitlisted
+      - Will Attend
+      required: true
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Accessibility, materials, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_meeting_notes
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What you hope to gain from this meeting
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Phone Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - In Stock
+      - Out of Stock
+      - Backorder
+      required: true
+    - id: 7
+      name: product_selection
+      label: Product Selection
+      hint: null
+      type: select_multiple
+      options:
+      - iPhone 13
+      - Samsung Galaxy
+      - Google Pixel
+      required: false
+    - id: 8
+      name: phone_color
+      label: Phone Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Gray
+      required: true
+    - id: 9
+      name: storage_capacity
+      label: Storage Capacity
+      hint: null
+      type: select_one
+      options:
+      - 32GB
+      - 64GB
+      - 128GB
+      required: true
+    - id: 10
+      name: screen_size
+      label: Screen Size
+      hint: null
+      type: select_one
+      options:
+      - '5.5'
+      - '6.1'
+      - '6.5'
+      required: true
+    - id: 11
+      name: phone_model
+      label: Phone Model
+      hint: null
+      type: select_one
+      options:
+      - iPhone 13
+      - Samsung Galaxy
+      - Google Pixel
+      required: true
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter customer phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false

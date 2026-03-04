@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: scaffolding_quote_request_form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quote_request
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quote_request_date
+      label: Quote Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scaffolding_type
+      label: Scaffolding Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

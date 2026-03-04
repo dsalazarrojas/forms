@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_precision_cutting_blade_order_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''value1''}'
+      - '{''option2'': ''value2''}'
+      required: false
+    - id: 6
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

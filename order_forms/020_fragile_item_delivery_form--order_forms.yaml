@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: fragile_item_delivery_form
+    pages:
+    - id: 1
+      name: item_details
+      label: Item Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Provide detailed instructions for delivery staff
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_staff_name
+      label: Delivery Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_staff_contact
+      label: Delivery Staff Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fragile_item_value
+      label: Fragile Item Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Credit/Debit Card
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Failed
+      required: false
+    - id: 14
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 15
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_staff_signature
+      label: Delivery Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: item_description
+      label: Item Description
+      hint: Provide detailed description of the item being delivered
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: item_insurance_value
+      label: Item Insurance Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: item_insurance_type
+      label: Item Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Partial
+      required: false
+    - id: 21
+      name: shipping_insurance
+      label: Shipping Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

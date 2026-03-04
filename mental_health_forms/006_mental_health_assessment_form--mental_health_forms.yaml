@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Assessment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_state
+      label: mental_state
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: anxiety_level
+      label: anxiety_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: depression_level
+      label: depression_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: substance_use
+      label: substance_use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      required: false
+    - id: 6
+      name: suicidal_tendencies
+      label: suicidal_tendencies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Often''}'
+      required: true
+    - id: 7
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_provider
+      label: mental_health_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mental_health_professional
+      label: mental_health_professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_facility
+      label: mental_health_facility
+      hint: null
+      type: text
+      options: []
+      required: false

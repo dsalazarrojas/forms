@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pacemaker Device Check Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_follow_ups
+      label: Device Follow-ups
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes'', ''label'': ''Yes''}'
+      - '{''value'': ''No'', ''label'': ''No''}'
+      required: false
+    - id: 4
+      name: device_model
+      label: Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_type
+      label: Device Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_follow_up
+      label: Date of Last Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_last_follow_up
+      label: Time of Last Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: device_manufacturer
+      label: Device Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: device_software_version
+      label: Device Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: device_hardware_version
+      label: Device Hardware Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: device_battery_charge
+      label: Device Battery Charge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: device_status
+      label: Device Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Functional'', ''label'': ''Functional''}'
+      - '{''value'': ''Nonfunctional'', ''label'': ''Nonfunctional''}'
+      required: false
+    - id: 15
+      name: device_replacement_status
+      label: Device Replacement Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes'', ''label'': ''Yes''}'
+      - '{''value'': ''No'', ''label'': ''No''}'
+      required: false
+    - id: 16
+      name: device_next_follow_up
+      label: Device Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: device_last_battery_charge
+      label: Device Last Battery Charge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: device_last_software_update
+      label: Device Last Software Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: device_last_hardware_update
+      label: Device Last Hardware Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: device_next_battery_charge
+      label: Device Next Battery Charge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_conversation
+      label: Patient Conversation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_counseling
+      label: Patient Counseling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: device_reprogramming
+      label: Device Reprogramming
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: device_reprogramming_notes
+      label: Device Reprogramming Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: device_check_complete
+      label: Device Check Complete
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes'', ''label'': ''Yes''}'
+      - '{''value'': ''No'', ''label'': ''No''}'
+      required: false

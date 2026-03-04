@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Curator Onboarding Form
+    pages:
+      - id: 1
+        name: new_hire_name
+        label: New hire name
+        hint: Full name of curator
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: start_date
+        label: Start date
+        hint: Official start date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Curatorial education outreach or exhibitions
+        type: select_one
+        options: [Curatorial, Education, Outreach, Exhibitions]
+        required: true
+      - id: 4
+        name: mentor_assigned
+        label: Mentor assigned
+        hint: Primary onboarding mentor
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: required_documents
+        label: Required documents
+        hint: List documents to submit
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: access_credentials
+        label: Access credentials needed
+        hint: Systems and keys required
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: training_schedule
+        label: Training schedule
+        hint: Planned onboarding sessions
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone number
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: equipment_issued
+        label: Equipment issued
+        hint: Laptop phone or keys issued
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: hr_notes
+        label: HR notes
+        hint: For HR use only
+        type: note
+        options: []
+        required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live In Care Induction Confirmation
+    pages:
+    - id: 1
+      name: live_in_care_induction_confirmation_form
+      label: live_in_care_induction_confirmation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: client_email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: care_agency_training
+      label: care_agency_training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: care_provider_training
+      label: care_provider_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: carer_training_completed
+      label: carer_training_completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: live_in_care_induction_confirmation_agency
+      label: live_in_care_induction_confirmation_agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: live_in_care_induction_confirmation_provider
+      label: live_in_care_induction_confirmation_provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: training_acknowledgement
+      label: training_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_acknowledgement_agency
+      label: training_acknowledgement_agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: training_acknowledgement_provider
+      label: training_acknowledgement_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: acknowledgement_agency
+      label: acknowledgement_agency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: acknowledgement_provider
+      label: acknowledgement_provider
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: carer_name
+      label: carer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: carer_role
+      label: carer_role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: agency
+      label: agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_acknowledgement_agency_issued
+      label: training_acknowledgement_agency_issued
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: training_acknowledgement_provider_issued
+      label: training_acknowledgement_provider_issued
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: acknowledgement_date
+      label: acknowledgement_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: acknowledgement_time
+      label: acknowledgement_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: acknowledgement_by
+      label: acknowledgement_by
+      hint: null
+      type: text
+      options: []
+      required: true

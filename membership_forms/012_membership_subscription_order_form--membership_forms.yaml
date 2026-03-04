@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Subscription Order Form
+    pages:
+    - id: 1
+      name: membership_subscription_order
+      label: membership_subscription_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_plan
+      label: membership_plan
+      hint: Select a membership plan
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 3
+      name: subscription_duration
+      label: subscription_duration
+      hint: Select a subscription duration
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 12 months
+      required: true
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check Payment
+      - Online Payment
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_status
+      label: membership_status
+      hint: Select a membership status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: membership_type
+      label: membership_type
+      hint: Select a membership type
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true

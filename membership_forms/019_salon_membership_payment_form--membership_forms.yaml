@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Membership Payment Form
+    pages:
+    - id: 1
+      name: salon_membership_payment_form_1
+      label: Salon Membership Details
+      hint: Salon membership details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_membership_payment_2
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''paypal'', ''label'': ''Paypal''}'
+      - '{''value'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 3
+      name: salon_membership_payment_form_3
+      label: Amount
+      hint: Membership amount
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: salon_membership_payment_4
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly'', ''label'': ''Monthly Membership''}'
+      - '{''value'': ''yearly'', ''label'': ''Yearly Membership''}'
+      - '{''value'': ''one_time'', ''label'': ''One-Time Membership''}'
+      required: false
+    - id: 5
+      name: salon_membership_payment_form_5
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: salon_membership_payment_6
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: salon_membership_payment_7
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: salon_membership_payment_form_8
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: salon_membership_payment_9
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: salon_membership_payment_form_10
+      label: salon_membership_payment_form_10
+      hint: null
+      type: note
+      options: []
+      required: false

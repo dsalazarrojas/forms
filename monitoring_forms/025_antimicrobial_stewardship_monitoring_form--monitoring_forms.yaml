@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antimicrobial Stewardship Monitoring Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: Name of healthcare facility
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: Type of healthcare facility
+      type: select_one
+      options:
+      - Acute care hospital
+      - Long-term care facility
+      - Outpatient clinic
+      - Urgent care
+      - Critical access hospital
+      - Children's hospital
+      - Other
+      required: true
+    - id: 3
+      name: monitoring_period_start
+      label: Monitoring Period Start
+      hint: Beginning date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: monitoring_period_end
+      label: Monitoring Period End
+      hint: Ending date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of person completing form
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reviewer_role
+      label: Reviewer Role
+      hint: Job title
+      type: select_one
+      options:
+      - Physician
+      - Pharmacist
+      - Infection preventionist
+      - Nurse
+      - Quality improvement
+      - Administrator
+      - Other
+      required: true
+    - id: 7
+      name: patient_count
+      label: Total Patients Reviewed
+      hint: Number of patient records
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: antibiotic_prescriptions
+      label: Total Antibiotic Prescriptions
+      hint: Number of prescriptions
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: stewardship_program
+      label: Stewardship Program Status
+      hint: Does facility have a program
+      type: select_one
+      options:
+      - Comprehensive program
+      - Basic program
+      - Developing program
+      - No program
+      required: true
+    - id: 10
+      name: stewardship_team
+      label: Stewardship Team Composition
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Infectious disease physician
+      - Clinical pharmacist
+      - Microbiologist
+      - Infection preventionist
+      - Information technology
+      - Laboratory personnel
+      - No formal team
+      required: true
+    - id: 11
+      name: core_elements_section
+      label: -- Core Elements Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: leadership_commitment
+      label: Leadership Commitment
+      hint: Is there executive support
+      type: select_one
+      options:
+      - Strong commitment
+      - Moderate commitment
+      - Limited commitment
+      - No commitment
+      required: true
+    - id: 13
+      name: accountability
+      label: Accountability Assigned
+      hint: Is there a program leader
+      type: select_one
+      options:
+      - Yes, physician leader
+      - Yes, pharmacist leader
+      - Yes, other leader
+      - No designated leader
+      required: true
+    - id: 14
+      name: drug_expertise
+      label: Drug Expertise Available
+      hint: Is pharmacy expertise available
+      type: select_one
+      options:
+      - Full-time ID pharmacist
+      - Part-time ID pharmacist
+      - General pharmacist
+      - No pharmacy expertise
+      required: true
+    - id: 15
+      name: action_taken
+      label: Action Implemented
+      hint: Are interventions performed
+      type: select_one
+      options:
+      - Prospective audit and feedback
+      - Pre-authorization
+      - Both
+      - Neither
+      required: true
+    - id: 16
+      name: tracking
+      label: Tracking System
+      hint: Is antibiotic use tracked
+      type: select_one
+      options:
+      - Comprehensive tracking
+      - Basic tracking
+      - Limited tracking
+      - No tracking
+      required: true
+    - id: 17
+      name: reporting
+      label: Reporting to Stakeholders
+      hint: Are reports generated
+      type: select_one
+      options:
+      - Regular reports
+      - Occasional reports
+      - Rare reports
+      - No reports
+      required: true
+    - id: 18
+      name: education
+      label: Education Programs
+      hint: Is staff educated
+      type: select_one
+      options:
+      - Regular education
+      - Occasional education
+      - New hire only
+      - No education
+      required: true
+    - id: 19
+      name: prescribing_patterns
+      label: -- Prescribing Patterns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: most_prescribed_antibiotic
+      label: Most Prescribed Antibiotic
+      hint: Which is most common
+      type: select_one
+      options:
+      - Ceftriaxone
+      - Vancomycin
+      - Piperacillin-tazobactam
+      - Ciprofloxacin
+      - Azithromycin
+      - Amoxicillin
+      - Other
+      required: true
+    - id: 21
+      name: broad_spectrum_percentage
+      label: Broad Spectrum Antibiotic Percentage
+      hint: Approximate percentage
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: guideline_concordance
+      label: Guideline Concordance Rate
+      hint: Percentage following guidelines
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: culture_before_antibiotic
+      label: Cultures Obtained Before Antibiotics
+      hint: Percentage of cases
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: de_escalation_rate
+      label: De-escalation Rate
+      hint: Percentage de-escalated
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: iv_to_oral_conversion
+      label: IV to Oral Conversion Rate
+      hint: Percentage converted
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: appropriate_duration
+      label: Appropriate Duration Rate
+      hint: Percentage with correct duration
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: outcomes_section
+      label: -- Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: clostridioides_difficile_cases
+      label: C. difficile Cases
+      hint: Number of cases in period
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: adverse_drug_events
+      label: Adverse Drug Events
+      hint: Number of ADEs
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: resistance_patterns
+      label: Resistance Pattern Changes
+      hint: Any notable changes
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: interventions_section
+      label: -- Interventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: total_interventions
+      label: Total Interventions Made
+      hint: Number of stewardship interventions
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: interventions_accepted
+      label: Interventions Accepted
+      hint: Number accepted by providers
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: intervention_types
+      label: Types of Interventions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dose optimization
+      - De-escalation
+      - IV to oral conversion
+      - Duration reduction
+      - Discontinuation
+      - Switch to narrower agent
+      - Other
+      required: true
+    - id: 35
+      name: cost_savings
+      label: Estimated Cost Savings
+      hint: Dollar amount saved
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: challenges
+      label: Challenges Encountered
+      hint: What barriers exist
+      type: select_multiple
+      options:
+      - Provider resistance
+      - Limited resources
+      - Lack of IT support
+      - Insufficient staffing
+      - Limited diagnostics
+      - Patient expectations
+      - None
+      - Other
+      required: true
+    - id: 37
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What needs work
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: goals_next_period
+      label: Goals for Next Period
+      hint: Objectives for improvement
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: overall_rating
+      label: Overall Stewardship Rating
+      hint: Program effectiveness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 40
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: completion_date
+      label: Completion Date
+      hint: Date form completed
+      type: date
+      options: []
+      required: true

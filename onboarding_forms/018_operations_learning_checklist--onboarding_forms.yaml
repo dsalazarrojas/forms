@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operations Learning Checklist
+    pages:
+    - id: 1
+      name: onboarding_form
+      label: Onboarding Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: supervisor_feedback
+      label: Supervisor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: progress_status
+      label: Progress Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: training_confidence
+      label: Training Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_progress
+      label: Training Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

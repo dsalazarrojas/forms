@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Based Milk Order Form
+    pages:
+    - id: 1
+      name: order_page
+      label: Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: type_select
+      label: Select milk type
+      hint: null
+      type: select_one
+      options:
+      - almond
+      - oat
+      - coconut
+      required: false
+    - id: 3
+      name: quantity_select
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_option
+      label: Delivery options
+      hint: null
+      type: select_multiple
+      options:
+      - home_delivery
+      - office pickup
+      - store pickup
+      required: false
+    - id: 5
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city_input
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state_input
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_input
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: order_note
+      label: Order note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: home_delivery_option
+      label: Home delivery
+      hint: null
+      type: select_multiple
+      options:
+      - Mon to Fri
+      - Sat and Sun
+      required: false
+    - id: 17
+      name: store_pickup_option
+      label: Store pickup
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekend
+      required: false
+    - id: 18
+      name: office_pickup_option
+      label: Office pickup
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekend
+      required: false
+    - id: 19
+      name: weekday_option
+      label: Weekdays
+      hint: null
+      type: select_one
+      options:
+      - Mon to Fri
+      - Weekend
+      required: false
+    - id: 20
+      name: weekend_option
+      label: Weekend
+      hint: null
+      type: select_one
+      options:
+      - Sat and Sun
+      - Weekdays
+      required: false
+    - id: 21
+      name: delivery_time
+      label: Delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_phone
+      label: Delivery phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: delivery_email
+      label: Delivery email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

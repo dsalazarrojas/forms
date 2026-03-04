@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Card Seller Agreement
+    pages:
+    - id: 1
+      name: seller_details
+      label: Seller Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participation_agreement
+      label: Participation Agreement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gift_card_seller_programs
+      label: Gift Card Seller Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Card 1
+      - Card 2
+      required: false
+    - id: 5
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gift_card_programs_details
+      label: Gift Card Programs Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_and_conditions_signature
+      label: Terms and Conditions Signature
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 12
+      name: terms_and_conditions_date
+      label: Terms and Conditions Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: program_terms_acceptance
+      label: Program Terms Acceptance
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false

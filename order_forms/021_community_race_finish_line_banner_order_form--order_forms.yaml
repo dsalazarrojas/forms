@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Race Finish Line Banner Order Form
+    pages:
+    - id: 1
+      name: order_intro_note
+      label: -- Race Finish Line Banner Order Form --
+      hint: Please provide the details below to order your custom event banner.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: race_event_name
+      label: Race Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: race_event_date
+      label: Date of the Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ordering_organization
+      label: Ordering Organization or Individual Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: banner_size_selection
+      label: Banner Size Selection
+      hint: null
+      type: select_one
+      options:
+      - Small - 6ft x 2ft
+      - Medium - 8ft x 3ft
+      - Large - 10ft x 4ft
+      required: true
+    - id: 8
+      name: banner_material_selection
+      label: Banner Material Selection
+      hint: null
+      type: select_one
+      options:
+      - Heavy Duty Vinyl
+      - Lightweight Mesh
+      - Weatherproof Fabric
+      required: true
+    - id: 9
+      name: banner_main_text
+      label: Main Text for the Banner
+      hint: Exactly how you want it to appear.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: include_logo_check
+      label: Would you like to include an organization logo?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: logo_description_info
+      label: Logo Description or Placement Instruction
+      hint: Describe what your logo looks like if not providing a file here.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: color_scheme_selection
+      label: Preferred Color Scheme
+      hint: Select one or choose Custom.
+      type: select_multiple
+      options:
+      - Blue and White
+      - Red and White
+      - Green and White
+      - Black and Yellow
+      - Custom Colors
+      required: true
+    - id: 13
+      name: custom_colors_desc
+      label: Custom Color Description
+      hint: Specify HEX codes or specific shades.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: banner_order_quantity
+      label: Total Number of Banners to Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: shipping_method_choice
+      label: Delivery or Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping - 7 Days
+      - Express Shipping - 3 Days
+      - In-Store Pick-up
+      required: true
+    - id: 16
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: At least 10 days before the event.
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: pricing_payment_note
+      label: -- Pricing and Payment --
+      hint: Final pricing depends on size and quantity. We will email an invoice once
+        we review your order.
+      type: note
+      options: []
+      required: false

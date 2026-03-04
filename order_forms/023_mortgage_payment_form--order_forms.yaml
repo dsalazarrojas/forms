@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Payment Form
+    pages:
+    - id: 1
+      name: home_owner
+      label: home_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_address
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: mortgage_provider
+      label: mortgage_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

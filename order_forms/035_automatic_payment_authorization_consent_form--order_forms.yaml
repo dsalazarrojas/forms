@@ -1,0 +1,472 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automatic Payment Authorization Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automatic Payment Authorization Consent Form
+      hint: Please read and provide consent for automatic payments
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_id
+      label: Customer ID
+      hint: Account number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_info
+      label: Order Information
+      hint: Order details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: order_number
+      label: Order Number
+      hint: Your order number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: order_date
+      label: Order Date
+      hint: When placed
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: product_service
+      label: Product or Service
+      hint: What you ordered
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: total_amount
+      label: Total Amount
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_schedule
+      label: Payment Schedule
+      hint: How payments work
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_type
+      label: Payment Type
+      hint: Type of automatic payment
+      type: select_one
+      options:
+      - One-Time Payment
+      - Recurring Monthly
+      - Recurring Weekly
+      - Recurring Bi-Weekly
+      - Installment Plan
+      - Subscription
+      required: true
+    - id: 19
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount to charge
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often
+      type: select_one
+      options:
+      - One-Time
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 21
+      name: first_payment_date
+      label: First Payment Date
+      hint: When to start
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: last_payment_date
+      label: Last Payment Date
+      hint: When to end
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: number_of_payments
+      label: Number of Payments
+      hint: Total payments
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account
+      - PayPal
+      - Other
+      required: true
+    - id: 25
+      name: card_info
+      label: Card Information
+      hint: If paying by card
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 27
+      name: card_number
+      label: Card Number
+      hint: XXXX-XXXX-XXXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: expiration_month
+      label: Expiration Month
+      hint: MM
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 08
+      - 09
+      - 10
+      - 11
+      - 12
+      required: false
+    - id: 30
+      name: expiration_year
+      label: Expiration Year
+      hint: YYYY
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - 2028
+      - 2029
+      - 2030
+      - 2031
+      - 2032
+      required: false
+    - id: 31
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: ZIP for card
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: bank_info
+      label: Bank Account Information
+      hint: If paying by bank
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: bank_name
+      label: Bank Name
+      hint: Your bank
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: account_type
+      label: Account Type
+      hint: Checking or Savings
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Not Applicable
+      required: false
+    - id: 36
+      name: routing_number
+      label: Routing Number
+      hint: 9-digit number
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: account_number
+      label: Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: authorization_terms
+      label: Authorization Terms
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: understand_terms
+      label: Understand Terms
+      hint: Do you understand
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not
+      required: true
+    - id: 40
+      name: authorize_payment
+      label: Authorize Automatic Payments
+      hint: Do you authorize
+      type: select_one
+      options:
+      - Yes I Authorize
+      - No I Do Not Authorize
+      required: true
+    - id: 41
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: You may cancel anytime
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 42
+      name: cancellation_method
+      label: How to Cancel
+      hint: Methods available
+      type: select_one
+      options:
+      - Online
+      - Phone
+      - Email
+      - Written Notice
+      - Any Method
+      required: false
+    - id: 43
+      name: notice_period
+      label: Cancellation Notice Period
+      hint: How much notice
+      type: select_one
+      options:
+      - Immediate
+      - 24 Hours
+      - 3 Days
+      - 7 Days
+      - Per Terms
+      required: false
+    - id: 44
+      name: notification_preferences
+      label: Notification Preferences
+      hint: How to notify
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: payment_notifications
+      label: Payment Notifications
+      hint: Receive notifications
+      type: select_one
+      options:
+      - Yes Email Before Each Payment
+      - Yes Email After Each Payment
+      - Yes Both
+      - No Thank You
+      required: true
+    - id: 46
+      name: receipt_delivery
+      label: Receipt Delivery
+      hint: How to send receipts
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Online Account
+      - No Receipts
+      required: true
+    - id: 47
+      name: failed_payment
+      label: Failed Payment Policy
+      hint: Understanding of failed payments
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 48
+      name: retry_attempts
+      label: Retry Attempts
+      hint: How many retries
+      type: select_one
+      options:
+      - 1 Attempt
+      - 2 Attempts
+      - 3 Attempts
+      - Per Terms
+      required: false
+    - id: 49
+      name: data_security
+      label: Data Security
+      hint: Your data is secure
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 50
+      name: privacy_policy
+      label: Privacy Policy
+      hint: Have you read
+      type: select_one
+      options:
+      - Yes I Have Read
+      - No I Have Not Read
+      required: true
+    - id: 51
+      name: additional_authorization
+      label: Additional Authorization
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 54
+      name: ip_address
+      label: IP Address
+      hint: Recorded automatically
+      type: text
+      options: []
+      required: false

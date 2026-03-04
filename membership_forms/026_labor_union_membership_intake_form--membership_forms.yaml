@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: labor_union_membership_intake_form
+    pages:
+    - id: 1
+      name: labor_union_member_info
+      label: New Member Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: labor_union_work_history
+      label: Work History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: labor_union_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active Non-active Retired Terminated
+      - Other
+      required: true
+    - id: 4
+      name: labor_union_benefits
+      label: Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: labor_union_dues_status
+      label: Dues Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Pending Payment
+      required: true
+    - id: 6
+      name: labor_union_savings_status
+      label: Savings Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Non-active
+      - Retired
+      required: false
+    - id: 7
+      name: labor_union_savings_amount
+      label: Savings Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: labor_union_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: labor_union_agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: labor_union_agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: labor_union_agreement_signatory
+      label: Agreement Signatory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: labor_union_agreement_signed_by
+      label: Signed by
+      hint: null
+      type: text
+      options: []
+      required: false

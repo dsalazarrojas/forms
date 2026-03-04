@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_monitoring_consent_form
+    pages:
+    - id: 1
+      name: employee_monitoring_consent
+      label: employee_monitoring_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_activities
+      label: monitoring_activities
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''monitoring_activity_1''}'
+      - '{''id'': 2, ''value'': ''monitoring_activity_2''}'
+      - '{''id'': 3, ''value'': ''monitoring_activity_3''}'
+      required: false
+    - id: 3
+      name: monitoring_frequency
+      label: monitoring_frequency
+      hint: null
+      type: number
+      options: []
+      required: false

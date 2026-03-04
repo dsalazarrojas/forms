@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: membership_subscription_order_form
+    pages:
+    - id: 1
+      name: membership_subscription
+      label: Membership Subscription Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: membership_plan
+      label: membership_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''yearly''}'
+      - '{''value'': ''biyearly''}'
+      required: false
+    - id: 3
+      name: plan_duration
+      label: Plan Duration (in months)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: subscription_fee
+      label: Subscription Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''stripe''}'
+      - '{''value'': ''paypal''}'
+      - '{''value'': ''bank_transfer''}'
+      required: false
+    - id: 9
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''stripe_payments''}'
+      - '{''value'': ''paypal_payments''}'
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

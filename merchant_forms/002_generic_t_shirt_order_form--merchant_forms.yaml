@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic T Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      required: true
+    - id: 3
+      name: tshirt_color
+      label: T-Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 4
+      name: customer_tshirt_size
+      label: Customer T-Shirt Size
+      hint: Enter T-Shirt size here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_tshirt_color
+      label: Customer T-Shirt Color
+      hint: Enter T-Shirt color here
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: Enter order details here
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_details
+      label: Shipping Details
+      hint: Enter shipping details here
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_notes
+      label: Customer Notes
+      hint: Enter customer notes here
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment Details
+      hint: Enter payment details here
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: $0.00
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      required: true
+    - id: 12
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Delivered
+      required: true
+    - id: 13
+      name: customer_id
+      label: Customer ID
+      hint: Enter Customer ID here
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: order_id
+      label: Order ID
+      hint: Enter Order ID here
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: time_shipped
+      label: Time Shipped
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: date_shipped
+      label: Date Shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: order_comments
+      label: Order Comments
+      hint: Enter Order Comments here
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_created
+      label: Order Created
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: order_updated
+      label: Order Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_closed
+      label: Order Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: order_opened
+      label: Order Opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Failed
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Enter notes here
+      type: text
+      options: []
+      required: false

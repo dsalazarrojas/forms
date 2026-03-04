@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher-gift-certificate-order-form
+    pages:
+    - id: 1
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_email
+      label: recipient-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: gift_amount
+      label: Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

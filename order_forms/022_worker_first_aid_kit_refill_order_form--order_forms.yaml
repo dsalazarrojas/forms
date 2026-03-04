@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker First Aid Kit Refill Order Form
+    pages:
+    - id: 1
+      name: work_location_id
+      label: Work Location
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: first_aid_kit_type_id
+      label: First Aid Kit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: first_aid_kit_size_id
+      label: First Aid Kit Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: first_aids_quantity_id
+      label: First Aids Quantity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: order_frequency_id
+      label: Order Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

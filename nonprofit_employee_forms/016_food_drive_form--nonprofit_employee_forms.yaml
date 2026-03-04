@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Drive Form
+    pages:
+    - id: 1
+      name: food_drive_form_1
+      label: Food
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: toiletries
+      label: Toiletries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: baby_items
+      label: Baby
+      hint: null
+      type: select_one
+      options:
+      - Baby food
+      - Baby wipes
+      - Diapers
+      - Formula
+      - Pacifiers
+      - Pacifier refills
+      required: true
+    - id: 4
+      name: non_food_drives
+      label: Non-Food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: non_food_drives_1
+      label: Personal Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: other_items
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: non_food_drives_2
+      label: Toiletries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

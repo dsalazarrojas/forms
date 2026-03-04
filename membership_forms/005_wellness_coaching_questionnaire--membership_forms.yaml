@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: wellness_coaching_questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: What is your current fitness level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: health_goals
+      label: What are your health and fitness goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Do you have any medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fitness_history
+      label: Do you have any fitness history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_workout
+      label: What is your current workout routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: available_time
+      label: How many hours do you have available per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: current_diet
+      label: What is your current diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exercise_frequency
+      label: How often do you exercise per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sleep_schedule
+      label: How many hours do you sleep per night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_water_intake
+      label: How many cups of water do you drink per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: stress_level
+      label: What is your stress level on scale of 0-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: current_occupation
+      label: What is your current occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Do you have any medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supplements
+      label: Do you take any supplements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Do you take any medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family_history
+      label: Do you have any family health history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_professional
+      label: Do you see a medical professional regularly
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_insurance
+      label: What type of insurance do you have
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Is there an emergency contact person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: How would you describe the relationship between you and your emergency
+        contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: What is the phone number of your emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_email
+      label: What is the email of your emergency contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_address
+      label: What is the address of your emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_professional_name
+      label: What is the name of your medical professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_professional_phone
+      label: What is the phone number of your medical professional
+      hint: null
+      type: text
+      options: []
+      required: false

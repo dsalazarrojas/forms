@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Sports Clinic Enrollment Form
+    pages:
+    - id: 1
+      name: user_info
+      label: Enter your information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_name
+      label: Guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_phone
+      label: Guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sport
+      label: Sports
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Volleyball
+      - Soccer
+      - Softball
+      - Tennis
+      - Track
+      - Gymnastics
+      - Golf
+      - Swim
+      - Dance
+      - Cheer
+      required: true
+    - id: 8
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Boys
+      - Girls
+      - Co-Ed
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Choose a payment method to use when signing up
+      type: select_one
+      options:
+      - Online Payment
+      - Cash
+      - Check
+      required: true
+    - id: 10
+      name: payment_schedule
+      label: Payment schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

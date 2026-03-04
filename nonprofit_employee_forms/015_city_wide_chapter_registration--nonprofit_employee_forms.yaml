@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Wide Chapter Registration
+    pages:
+    - id: 1
+      name: chapter_name
+      label: Chapter name
+      hint: Local chapter or group name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_organization
+      label: Parent organization
+      hint: National or coordinating body
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Chapter coordinator or president
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For onboarding communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: number_of_members
+      label: Number of members
+      hint: Estimated membership count
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: city_areas_served
+      label: City areas served
+      hint: Neighborhoods or wards
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: chapter_goals
+      label: Chapter goals and activities
+      hint: Key planned activities
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: compliance_acknowledgement
+      label: Compliance with organization policies
+      hint: Agreement required to register
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 9
+      name: support_needed
+      label: Support needed from central office
+      hint: Training funding materials
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

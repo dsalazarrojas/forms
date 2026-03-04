@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Work Week Registration Form
+    pages:
+    - id: 1
+      name: volunteer_work_week_registration_form
+      label: volunteer_work_week_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_work_week_ending_date
+      label: volunteer_work_week_ending_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_work_week_starting_date
+      label: volunteer_work_week_starting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_work_week_days
+      label: volunteer_work_week_days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: volunteer_work_week_ending_time
+      label: volunteer_work_week_ending_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_work_week_starting_time
+      label: volunteer_work_week_starting_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: temperature-controlled-delivery-form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time_zone
+      label: Delivery Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - 00:00
+      - 01:00
+      - 02:00
+      - 03:00
+      - 04:00
+      - 05:00
+      - 06:00
+      - 07:00
+      - 08:00
+      - 09:00
+      - '10:00'
+      - '11:00'
+      - '12:00'
+      - '13:00'
+      - '14:00'
+      - '15:00'
+      - '16:00'
+      - '17:00'
+      - '18:00'
+      - '19:00'
+      - '20:00'
+      - '21:00'
+      - '22:00'
+      - '23:00'
+      required: false
+    - id: 4
+      name: delivery_time_period
+      label: Delivery Time Period
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: false
+    - id: 5
+      name: package_temperature
+      label: Package Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: package_weight
+      label: Package Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: package_length
+      label: Package Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shipping_email
+      label: Shipping Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Transit
+      - Delivered
+      - Cancelled
+      required: false
+    - id: 13
+      name: delivery_temperature_range
+      label: Delivery Temperature Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recognition Order Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department_id
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - IT
+      - Customer Support
+      required: false
+    - id: 3
+      name: award_type
+      label: Award Type
+      hint: Select an award to give
+      type: select_multiple
+      options:
+      - Gold Medal
+      - Plaque
+      - Crystal
+      required: false
+    - id: 4
+      name: date_of_award
+      label: Date of Award
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_award
+      label: Reason for Award
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominees
+      label: Nominees prophets
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      - John Doe
+      required: false
+    - id: 7
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      - John Doe
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: order_note
+      label: Order Note
+      hint: Add a note about this order
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: Phone number to be contacted
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

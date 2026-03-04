@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Expectations Acknowledgment
+    pages:
+      - id: 1
+        name: board_member_name
+        label: Board Member Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: board_position
+        label: Board Position
+        hint: Your designated role
+        type: select_one
+        options:
+          - Board Chair
+          - Vice Chair
+          - Secretary
+          - Treasurer
+          - Board Member
+          - Committee Chair
+          - Committee Member
+        required: true
+      - id: 3
+        name: start_date
+        label: Board Service Start Date
+        hint: When does your term begin?
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: term_length
+        label: Term Length
+        hint: Duration of your term
+        type: select_one
+        options:
+          - 1 Year
+          - 2 Years
+          - 3 Years
+          - 4 Years
+          - 5 Years
+          - Until Successor Appointed
+        required: true
+      - id: 5
+        name: meeting_attendance_expectation
+        label: Meeting Attendance Expectation
+        hint: Required attendance percentage
+        type: select_one
+        options:
+          - 75% minimum
+          - 80% minimum
+          - 90% minimum
+          - 100% expected
+        required: true
+      - id: 6
+        name: committee_service_expectation
+        label: Committee Service Expectation
+        hint: Committee participation requirement
+        type: select_one
+        options:
+          - Serve on at least one committee
+          - Serve on two committees
+          - Chair one committee
+          - No committee requirement
+        required: true
+      - id: 7
+        name: fundraising_expectation
+        label: Fundraising Expectation
+        hint: Annual fundraising commitment
+        type: select_one
+        options:
+          - Personal donation only
+          - Donate and solicit others
+          - No fundraising requirement
+          - To be discussed
+        required: true
+      - id: 8
+        name: expected_annual_contribution
+        label: Expected Annual Contribution
+        hint: Minimum donation amount if applicable
+        type: select_one
+        options:
+          - Under $1,000
+          - $1,000 - $5,000
+          - $5,001 - $10,000
+          - $10,001 - $25,000
+          - Over $25,000
+          - Not specified
+        required: false
+      - id: 9
+        name: fiduciary_responsibility
+        label: Fiduciary Responsibility Acknowledgment
+        hint: Do you understand your fiduciary duties?
+        type: select_one
+        options:
+          - Yes, I understand
+          - I need clarification
+        required: true
+      - id: 10
+        name: confidentiality_agreement
+        label: Confidentiality Agreement
+        hint: I agree to maintain confidentiality
+        type: select_one
+        options:
+          - Yes, I Agree
+          - No, I Do Not Agree
+        required: true
+      - id: 11
+        name: conflict_of_interest
+        label: Conflict of Interest Policy
+        hint: I have read and understand the policy
+        type: select_one
+        options:
+          - Yes, I Understand
+          - I Need to Review
+        required: true
+      - id: 12
+        name: actual_conflicts
+        label: Actual Conflicts of Interest
+        hint: Disclose any potential conflicts
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: time_commitment_understanding
+        label: Time Commitment Understanding
+        hint: Do you understand the time required?
+        type: select_one
+        options:
+          - Yes, fully understand
+          - Generally understand
+          - Need more information
+        required: true
+      - id: 14
+        name: expected_hours_per_month
+        label: Expected Hours Per Month
+        hint: Estimated time commitment
+        type: select_one
+        options:
+          - 1-5 hours
+          - 6-10 hours
+          - 11-20 hours
+          - 20+ hours
+        required: true
+      - id: 15
+        name: orientation_completion
+        label: Orientation Completion
+        hint: Have you completed board orientation?
+        type: select_one
+        options:
+          - Yes, completed
+          - Scheduled
+          - Not yet scheduled
+        required: true
+      - id: 16
+        name: bylaws_received
+        label: Bylaws Received
+        hint: Have you received the bylaws?
+        type: select_one
+        options:
+          - Yes, received and reviewed
+          - Yes, not yet reviewed
+          - No, not received
+        required: true
+      - id: 17
+        name: expectations_acknowledged
+        label: Expectations Acknowledgment
+        hint: I acknowledge and accept these expectations
+        type: select_one
+        options:
+          - Yes, I Acknowledge and Accept
+          - No, I Do Not Accept
+        required: true
+      - id: 18
+        name: member_signature
+        label: Member Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: signature_date
+        label: Signature Date
+        hint: Date of acknowledgment
+        type: date
+        options: []
+        required: true
+      - id: 20
+        name: board_chair_signature
+        label: Board Chair Signature
+        hint: Board chair acknowledgment
+        type: text
+        options: []
+        required: false

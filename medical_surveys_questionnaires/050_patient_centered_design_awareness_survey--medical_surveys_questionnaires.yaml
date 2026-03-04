@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Centered Design Awareness Survey
+    pages:
+    - id: 1
+      name: page_one
+      label: What do you know about patient centered design principles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: Which of the following statements are true about patient centered design
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': "Patient-centered design emphasizes the patient''s needs and
+        preferences"}'
+      - '{''value'': ''Patient-centered design is a design approach that prioritizes
+        the needs of the healthcare organization''}'
+      - '{''value'': ''Patient-centered design is the current state of the art in
+        healthcare''}'
+      required: true
+    - id: 3
+      name: page_three
+      label: How often do you use patient centered design principles in your daily
+        work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: page_four
+      label: What is the main goal of using patient centered design in healthcare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_five
+      label: Which of the following are key components of patient centered design
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Patient-centered approach''}'
+      - '{''value'': ''Collaboration between patients and healthcare providers''}'
+      - '{''value'': ''Involvement of family members''}'
+      - '{''value'': ''Use of technology''}'
+      required: false
+    - id: 6
+      name: page_six
+      label: How would you rate your current level of patient centered design knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: page_seven
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_eight
+      label: Page 8
+      hint: null
+      type: time
+      options: []
+      required: false

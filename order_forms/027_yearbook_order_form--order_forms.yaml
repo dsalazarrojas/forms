@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yearbook Order Form
+    pages:
+    - id: 1
+      name: yearbook_order_form_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_information
+      label: student_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_school
+      label: student_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit
+      - Online
+      required: false
+    - id: 9
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: yearbook_type
+      label: yearbook_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: yearbook_order_comments
+      label: yearbook_order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_notes
+      label: shipping_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: yearbook_status
+      label: yearbook_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: yearbook_comments
+      label: yearbook_comments
+      hint: null
+      type: note
+      options: []
+      required: false

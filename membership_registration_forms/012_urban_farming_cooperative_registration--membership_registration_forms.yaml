@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Farming Cooperative Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Urban Farming
+      - Organic Gardening
+      - Permaculture
+      - Community Gardens
+      - Urban Agriculture
+      - Greenhouse Gas
+      - Food Security
+      - Local Food Systems
+      - Climate Change
+      - Food Sovereignty
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

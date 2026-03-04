@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Member Fitness Assessment Form
+    pages:
+    - id: 1
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: blood_pressure_systolic
+      label: blood_pressure_systolic
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: blood_pressure_diastolic
+      label: blood_pressure_diastolic
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resting_heart_rate
+      label: resting_heart_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exercise_heart_rate
+      label: exercise_heart_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resting_blood_pressure
+      label: resting_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: exercise_blood_pressure
+      label: exercise_blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: blood_cholesterol
+      label: blood_cholesterol
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: smoker
+      label: smoker
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: alcohol_user
+      label: alcohol_user
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''hypertension'', ''value'': ''hypertension''}'
+      - '{''label'': ''diabetes'', ''value'': ''diabetes''}'
+      - '{''label'': ''heart_disease'', ''value'': ''heart_disease''}'
+      - '{''label'': ''high_cholesterol'', ''value'': ''high_cholesterol''}'
+      - '{''label'': ''stroke'', ''value'': ''stroke''}'
+      required: false
+    - id: 14
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''statins'', ''value'': ''statins''}'
+      - '{''label'': ''beta_blockers'', ''value'': ''beta_blockers''}'
+      - '{''label'': ''diuretics'', ''value'': ''diuretics''}'
+      - '{''label'': ''pain_relievers'', ''value'': ''pain_relievers''}'
+      - '{''label'': ''blood_pressure_meds'', ''value'': ''blood_pressure_meds''}'
+      - '{''label'': ''blood_thinners'', ''value'': ''blood_thinners''}'
+      - '{''label'': ''insulin'', ''value'': ''insulin''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 15
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''peanuts'', ''value'': ''peanuts''}'
+      - '{''label'': ''shellfish'', ''value'': ''shellfish''}'
+      - '{''label'': ''dairy'', ''value'': ''dairy''}'
+      - '{''label'': ''gluten'', ''value'': ''gluten''}'
+      - '{''label'': ''shellfish'', ''value'': ''shellfish''}'
+      - '{''label'': ''soy'', ''value'': ''soy''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''mom'', ''value'': ''mom''}'
+      - '{''label'': ''dad'', ''value'': ''dad''}'
+      - '{''label'': ''brother'', ''value'': ''brother''}'
+      - '{''label'': ''sister'', ''value'': ''sister''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 17
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''daily'', ''value'': ''daily''}'
+      - '{''label'': ''weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''never'', ''value'': ''never''}'
+      required: false
+    - id: 19
+      name: exercise_duration
+      label: exercise_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: exercise_type
+      label: exercise_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''cardio'', ''value'': ''cardio''}'
+      - '{''label'': ''strength_training'', ''value'': ''strength_training''}'
+      - '{''label'': ''flexibility'', ''value'': ''flexibility''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 21
+      name: blood_glucose
+      label: blood_glucose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: resting_heart_rate_2
+      label: resting_heart_rate_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: exercise_heart_rate_2
+      label: exercise_heart_rate_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: resting_blood_pressure_2
+      label: resting_blood_pressure_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: exercise_blood_pressure_2
+      label: exercise_blood_pressure_2
+      hint: null
+      type: number
+      options: []
+      required: false

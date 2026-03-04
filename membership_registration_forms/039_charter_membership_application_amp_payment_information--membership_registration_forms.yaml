@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charter Membership Application and Payment Information
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: Charter membership tier
+      type: select_one
+      options:
+      - Founding Member
+      - Regular Member
+      - Student Member
+      - Corporate Member
+      required: true
+    - id: 9
+      name: membership_duration
+      label: Membership Duration
+      hint: Length of membership commitment
+      type: select_one
+      options:
+      - 9 Months
+      - 1 Year
+      - 2 Years
+      - Lifetime
+      required: true
+    - id: 10
+      name: section_benefits
+      label: -- Member Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: benefits_interest
+      label: What Benefits Are You Most Interested In
+      hint: Select benefits that matter to you
+      type: select_multiple
+      options:
+      - Training Programs
+      - Networking Events
+      - Mentorship
+      - Resources Library
+      - Leadership Opportunities
+      required: false
+    - id: 12
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: monthly_fee
+      label: Monthly Membership Fee
+      hint: Cost per month
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_payment
+      label: Total Payment Amount
+      hint: Total for full membership period
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 16
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card or bank account
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: card_type
+      label: Card Type
+      hint: Visa, Mastercard, American Express, etc
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Other
+      required: false
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: Address for billing
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Monthly or annual payments
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 20
+      name: section_terms
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: agree_to_terms
+      label: I Agree to Membership Terms and Conditions
+      hint: Accept all terms
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 22
+      name: application_date
+      label: Application Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

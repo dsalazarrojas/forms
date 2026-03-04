@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_wallet_authorization_form
+    pages:
+    - id: 1
+      name: e_wallet_authorization_form
+      label: E-Wallet Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Order Forms''}'
+      - Other
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_wallet_form_type
+      label: E-Wallet Form Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Payment''}'
+      - '{''value'': 2, ''label'': ''Refund''}'
+      required: false
+    - id: 5
+      name: merchant_info
+      label: E-Wallet Merchant Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Test''}'
+      - '{''value'': 2, ''label'': ''Live''}'
+      required: false
+    - id: 6
+      name: e_wallet_form_id
+      label: E-Wallet Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: e_wallet_version
+      label: E-Wallet Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: e_wallet_versioned
+      label: E-Wallet Versioned
+      hint: null
+      type: number
+      options: []
+      required: false

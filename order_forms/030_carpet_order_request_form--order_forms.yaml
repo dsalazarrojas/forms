@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpet Order Request Form
+    pages:
+    - id: 1
+      name: section_customer_details
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: full street address for invoice
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: leave blank if same as billing
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_product
+      label: -- Product Selection --
+      hint: choose your carpet materials
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_id
+      label: Carpet Product ID or SKU
+      hint: found on the sample or catalog
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: quantity_ordered_sqyd
+      label: Quantity Ordered (Square Yards)
+      hint: numeric value only
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: roll_width
+      label: Roll Width Preference
+      hint: null
+      type: select_one
+      options:
+      - 12ft
+      - 13ft 6in
+      - 15ft
+      - Other
+      required: true
+    - id: 11
+      name: carpet_color
+      label: Selected Color Name
+      hint: confirm the color name from the sample
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_padding
+      label: -- Padding and Accessories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: padding_sku
+      label: Padding Product SKU
+      hint: choose the appropriate padding
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: padding_quantity_sqyd
+      label: Padding Quantity (Square Yards)
+      hint: usually same as carpet quantity
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: installation_kit
+      label: Include Installation Kit?
+      hint: tacks, glue, and tape
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_order_options
+      label: -- Order Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: order_type
+      label: Order Type
+      hint: how will you handle installation?
+      type: select_one
+      options:
+      - Materials Only
+      - Materials and Installation
+      - Samples Only
+      required: true
+    - id: 18
+      name: custom_cutting_required
+      label: Custom cutting required?
+      hint: special cuts per floor plan
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs Discussion
+      required: true
+    - id: 19
+      name: section_payment_shipping
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Financing
+      - Pay on Delivery
+      required: true
+    - id: 21
+      name: shipping_method
+      label: Shipping Method
+      hint: how do you want the product delivered?
+      type: select_one
+      options:
+      - Standard Freight
+      - Priority
+      - Customer Pickup
+      required: true
+    - id: 22
+      name: estimated_delivery_date
+      label: Target Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: additional_instructions
+      label: Special delivery instructions
+      hint: gate codes, access issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_ack
+      label: I confirm my order details and agree to the sales terms
+      hint: Type name as digital signature
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

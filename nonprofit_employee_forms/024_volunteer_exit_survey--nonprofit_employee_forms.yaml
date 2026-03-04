@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Exit Survey
+    pages:
+    - id: 1
+      name: volunteer_exit_survey
+      label: volunteer_exit_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: area_of_improvement
+      label: area_of_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: open_endorsment
+      label: open_endorsement
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: select_one
+      options:
+      - 123-456-7890
+      - 098-765-4321
+      required: false
+    - id: 7
+      name: date_of_departure
+      label: date_of_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_departure
+      label: time_of_departure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

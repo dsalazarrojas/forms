@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_heat_monitoring_report
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_info
+      label: Asset
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''asset1''}'
+      - '{''id'': 2, ''label'': ''asset2''}'
+      - '{''id'': 3, ''label'': ''asset3''}'
+      required: true
+    - id: 3
+      name: temperature_readings
+      label: Temperature Readings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: issue_info
+      label: Issue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''problem1''}'
+      - '{''id'': 2, ''label'': ''problem2''}'
+      - '{''id'': 3, ''label'': ''problem3''}'
+      required: true
+    - id: 5
+      name: issue_evidence
+      label: Issue Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

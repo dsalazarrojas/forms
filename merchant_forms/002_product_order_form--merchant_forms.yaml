@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_name
+      label: billing_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_city
+      label: billing_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_state
+      label: billing_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_zip
+      label: billing_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''credit_card''}'
+      - '{''id'': 2, ''label'': ''paypal''}'
+      - '{''id'': 3, ''label'': ''bank_transfer''}'
+      required: true
+    - id: 15
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false

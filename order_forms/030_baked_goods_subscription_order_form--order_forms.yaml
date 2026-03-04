@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baked Goods Subscription Order Form
+    pages:
+      - id: 1
+        name: section_customer
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: customer_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: customer_type
+        Label: New or Returning Customer
+        hint: null
+        type: select_one
+        options:
+          - New Customer
+          - Returning Customer
+        required: true
+      - id: 6
+        name: section_subscription
+        label: -- Subscription Plan --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: subscription_frequency
+        Label: Delivery Frequency
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Custom Schedule
+        required: true
+      - id: 8
+        name: subscription_duration
+        Label: Subscription Duration
+        hint: null
+        type: select_one
+        options:
+          - 3 Months
+          - 6 Months
+          - 12 Months
+          - Ongoing
+        required: true
+      - id: 9
+        name: custom_schedule
+        Label: Custom Schedule (if selected)
+        hint: Specify your preferred delivery schedule
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_items
+        label: -- Baked Goods Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: bread_selection
+        Label: Bread Items
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Sourdough
+          - Whole Wheat
+          - Rye
+          - Ciabatta
+          - Focaccia
+          - None
+        required: false
+      - id: 12
+        name: pastry_selection
+        Label: Pastry Items
+        hint: null
+        type: select_multiple
+        options:
+          - Croissants
+          - Danish
+          - Cinnamon Rolls
+          - Bagels
+          - Scones
+          - None
+        required: false
+      - id: 13
+        name: cake_selection
+        Label: Cake Options
+        hint: null
+        type: select_multiple
+        options:
+          - Chocolate Cake
+          - Vanilla Cake
+          - Carrot Cake
+          - Red Velvet
+          - Specialty Cakes
+          - None
+        required: false
+      - id: 14
+        name: cookie_brownie_selection
+        Label: Cookies and Brownies
+        hint: null
+        type: select_multiple
+        options:
+          - Chocolate Chip
+          - Oatmeal
+          - Sugar Cookies
+          - Brownies
+          - Specialty Flavors
+          - None
+        required: false
+      - id: 15
+        name: custom_items
+        Label: Custom or Special Requests
+        hint: Any specific items or dietary needs?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_quantities
+        label: -- Quantities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: items_per_delivery
+        Label: Number of Items Per Delivery
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 18
+        name: section_dietary
+        label: -- Dietary Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: dietary_restrictions
+        Label: Dietary Restrictions or Allergies
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: vegan_preference
+        Label: Vegan Options Needed?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 21
+        name: section_delivery
+        label: -- Delivery Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: delivery_address
+        Label: Delivery Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: delivery_date_preference
+        Label: Preferred Delivery Day
+        hint: null
+        type: select_one
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: false
+      - id: 24
+        name: delivery_time_preference
+        Label: Preferred Delivery Time
+        hint: Morning, afternoon, or evening
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: subscription_confirmation
+        Label: I Agree to the Subscription Terms and Conditions
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true

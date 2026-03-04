@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Monitoring Refusal Form
+    pages:
+    - id: 1
+      name: monitoring_refusal_form_data
+      label: Monitoring Refusal Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - '{''label'': ''Not Known'', ''value'': ''not_known''}'
+      - '{''label'': ''Refusal'', ''value'': ''refusal''}'
+      required: false
+    - id: 3
+      name: reason_note
+      label: reason_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Closed'', ''value'': ''closed''}'
+      - '{''label'': ''Refused'', ''value'': ''refused''}'
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_user
+      label: follow_up_user
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1'', ''value'': ''user_1''}'
+      - '{''label'': ''User 2'', ''value'': ''user_2''}'
+      required: false
+    - id: 10
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Call'', ''value'': ''call''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''SMS'', ''value'': ''sms''}'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

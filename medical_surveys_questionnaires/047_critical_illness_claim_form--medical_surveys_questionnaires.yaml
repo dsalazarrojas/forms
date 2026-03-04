@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Illness Claim Form
+    pages:
+    - id: 1
+      name: illness_type
+      label: Illness Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: condition_date
+      label: Condition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_id
+      label: Provider ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_provider
+      label: Policy Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: policy_provider_id
+      label: Policy Provider ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_effective_date
+      label: Policy Efficacy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: provider_license
+      label: Provider License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: policy_group
+      label: Policy Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claim_reason
+      label: Claim Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: note
+      options: []
+      required: false

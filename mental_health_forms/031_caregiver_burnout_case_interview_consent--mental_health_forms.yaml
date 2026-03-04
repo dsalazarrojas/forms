@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Burnout Case Interview Consent
+    pages:
+    - id: 1
+      name: study_title
+      label: Study or Research Title
+      hint: Name of the research project
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: study_date
+      label: Study Date and Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: researcher_name
+      label: Researcher or Clinician Name
+      hint: Principal investigator or interviewer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: researcher_title
+      label: Researcher Title and Affiliation
+      hint: PhD, MSW, organization, etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: Full name of interviewee
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: study_purpose
+      label: Purpose of Study
+      hint: Understand caregiver burnout and its impacts
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participation_understanding
+      label: I Understand the Purpose of This Research
+      hint: Do you understand why this interview is being conducted?
+      type: select_one
+      options:
+      - Yes - clearly understand
+      - Yes - mostly understand
+      - Somewhat - have questions
+      - No - unclear
+      required: true
+    - id: 13
+      name: participation_voluntary
+      label: Voluntary Participation Acknowledgment
+      hint: You can decline or withdraw at any time
+      type: select_one
+      options:
+      - Yes, I understand participation is voluntary
+      - No, I do not understand
+      required: true
+    - id: 14
+      name: confidentiality_agreement
+      label: Confidentiality and Privacy Protection
+      hint: Your information will be kept private
+      type: select_one
+      options:
+      - Yes, I understand confidentiality protections
+      - No, I have concerns about privacy
+      required: true
+    - id: 15
+      name: data_storage
+      label: Understanding of Data Storage and Use
+      hint: Data will be stored securely and used for research
+      type: select_one
+      options:
+      - Yes, I understand how data will be stored
+      - No, I want more information
+      required: true
+    - id: 16
+      name: interview_recording
+      label: Permission to Record Interview
+      hint: Audio or video recording for accuracy
+      type: select_one
+      options:
+      - Yes - allow recording
+      - Yes - but audio only, no video
+      - No - prefer not to be recorded
+      required: true
+    - id: 17
+      name: recording_storage
+      label: Recording Storage and Destruction
+      hint: Recording will be securely stored and eventually destroyed
+      type: select_one
+      options:
+      - Yes, I agree to recording storage terms
+      - No, I have concerns
+      required: false
+    - id: 18
+      name: transcript_review
+      label: Right to Review Transcript
+      hint: You may review and correct transcript
+      type: select_one
+      options:
+      - Yes, I may review my interview
+      - Decline review
+      required: false
+    - id: 19
+      name: interview_duration
+      label: Expected Interview Duration
+      hint: Approximately 60-90 minutes
+      type: select_one
+      options:
+      - Acceptable
+      - Have time constraints
+      - Too long - prefer shorter
+      required: true
+    - id: 20
+      name: interview_location
+      label: Preferred Interview Location
+      hint: Where should interview take place?
+      type: select_one
+      options:
+      - In-person at facility
+      - Phone interview
+      - Video conference
+      - Participant's home or location
+      - No preference
+      required: true
+    - id: 21
+      name: sensitive_topics
+      label: Acknowledgment of Sensitive Topics
+      hint: Interview will address burnout and mental health
+      type: select_one
+      options:
+      - Yes - understand sensitive topics will be discussed
+      - Have concerns about sensitive topics
+      required: true
+    - id: 22
+      name: distress_support
+      label: Understanding of Support Services
+      hint: Available if interview causes distress
+      type: select_one
+      options:
+      - Yes - aware of support services
+      - Would like information about services
+      - Declining support services
+      required: true
+    - id: 23
+      name: risks_understanding
+      label: Understanding of Potential Risks and Benefits
+      hint: Minimal risks, potential to help others
+      type: select_one
+      options:
+      - Yes - understand risks and benefits
+      - Have questions
+      required: true
+    - id: 24
+      name: compensation
+      label: Compensation or Incentive Information
+      hint: Gift card, payment, or other compensation
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: results_access
+      label: Access to Research Results
+      hint: Will you receive a summary of findings?
+      type: select_one
+      options:
+      - Yes - request summary of findings
+      - No - do not want results
+      required: false
+    - id: 26
+      name: contact_info_storage
+      label: Contact Information Storage
+      hint: Keep contact info for future contact?
+      type: select_one
+      options:
+      - Yes - may contact for follow-up
+      - No - do not contact again
+      required: true
+    - id: 27
+      name: data_sharing
+      label: Permission for Data Sharing
+      hint: Data may be shared with other researchers
+      type: select_one
+      options:
+      - Yes - allow data sharing
+      - No - restrict data sharing
+      required: false
+    - id: 28
+      name: questions_answered
+      label: All My Questions Have Been Answered
+      hint: Researcher addressed your concerns
+      type: select_one
+      options:
+      - Yes - all questions answered
+      - No - still have questions
+      required: true
+    - id: 29
+      name: consent_final
+      label: I Voluntarily Consent to Participate in This Interview
+      hint: Final agreement to proceed
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

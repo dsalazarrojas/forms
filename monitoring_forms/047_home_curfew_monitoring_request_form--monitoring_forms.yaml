@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Curfew Monitoring Request Form
+    pages:
+    - id: 1
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_location
+      label: monitoring_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      - '{''id'': 3, ''label'': ''Location 3''}'
+      - '{''id'': 4, ''label'': ''Location 4''}'
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In Person''}'
+      required: false
+    - id: 11
+      name: scheduled_time
+      label: scheduled_time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ASAP''}'
+      - '{''id'': 2, ''label'': 1}'
+      - '{''id'': 3, ''label'': 2}'
+      - '{''id'': 4, ''label'': 3}'
+      - '{''id'': 5, ''label'': 4}'
+      required: true
+    - id: 12
+      name: scheduled_duration
+      label: scheduled_duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      - '{''id'': 6, ''label'': 6}'
+      - '{''id'': 7, ''label'': 7}'
+      - '{''id'': 8, ''label'': 8}'
+      - '{''id'': 9, ''label'': 9}'
+      - '{''id'': 10, ''label'': 10}'
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person_name
+      label: contact_person_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_person_phone
+      label: contact_person_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_person_email
+      label: contact_person_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: agency_id
+      label: agency_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: monitoring_request
+      label: monitoring_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: scheduled_date
+      label: scheduled_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: scheduled_time
+      label: scheduled_time
+      hint: null
+      type: time
+      options: []
+      required: false

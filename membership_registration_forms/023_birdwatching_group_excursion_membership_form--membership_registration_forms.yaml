@@ -1,0 +1,328 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birdwatching Group Excursion Membership Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: member_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_address
+      label: Mailing Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type
+      hint: Choose your membership level
+      type: select_one
+      options:
+      - Annual Individual
+      - Annual Family
+      - Monthly
+      - Student
+      - Lifetime
+      - Guest
+      required: true
+    - id: 9
+      name: membership_renewal
+      label: New Member or Renewal
+      hint: Is this new or renewing
+      type: select_one
+      options:
+      - New Member
+      - Renewal
+      - Upgrade
+      required: true
+    - id: 10
+      name: section_experience
+      label: -- Birdwatching Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: experience_level
+      label: Birdwatching Experience Level
+      hint: What is your experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 12
+      name: favorite_birds
+      label: Favorite Bird Species to Observe
+      hint: Which birds interest you most
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: binoculars_equipment
+      label: Do You Have Binoculars and Equipment
+      hint: Do you have observation gear
+      type: select_one
+      options:
+      - Yes, Have Good Equipment
+      - Yes, Have Basic Equipment
+      - No, But Plan to Get
+      - false
+      required: true
+    - id: 14
+      name: section_excursion_interest
+      label: -- Excursion Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: interested_in_excursions
+      label: Interested in Group Excursions
+      hint: Would you participate in field trips
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Interested
+      - Maybe
+      - Not Interested
+      required: true
+    - id: 16
+      name: preferred_excursion_type
+      label: Preferred Excursion Type
+      hint: What kind of trips
+      type: select_multiple
+      options:
+      - Local Parks
+      - Hiking Trails
+      - Wetlands and Water Areas
+      - Mountain Regions
+      - Coastal Areas
+      - Early Morning Walks
+      - Weekend Trips
+      - Multi-Day Trips
+      required: false
+    - id: 17
+      name: mobility_considerations
+      label: Mobility Considerations
+      hint: Any special access needs
+      type: select_one
+      options:
+      - No Special Considerations
+      - Prefer Shorter Walks
+      - Need Wheelchair Access
+      - Other Accommodations Needed
+      required: true
+    - id: 18
+      name: section_availability
+      label: -- Availability for Excursions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: weekend_availability
+      label: Weekend Availability
+      hint: Can you participate on weekends
+      type: select_one
+      options:
+      - Available Most Weekends
+      - Available Some Weekends
+      - Limited Availability
+      - Mostly Unavailable
+      required: true
+    - id: 20
+      name: weekday_availability
+      label: Weekday Availability
+      hint: Can you participate weekdays
+      type: select_one
+      options:
+      - Available Weekdays
+      - Available Some Weekdays
+      - Limited Availability
+      - Not Available Weekdays
+      required: true
+    - id: 21
+      name: early_morning_preference
+      label: Comfortable with Early Morning Starts
+      hint: Many excursions start at dawn
+      type: select_one
+      options:
+      - Yes, Prefer Early
+      - Yes, Can Do Early
+      - Prefer Later
+      - Not Possible
+      required: true
+    - id: 22
+      name: overnight_trip_interest
+      label: Interest in Overnight Trips
+      hint: Multi-day excursions
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Interested
+      - Maybe
+      - Not Interested
+      required: false
+    - id: 23
+      name: section_interests
+      label: -- Group Interests and Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: club_interest_areas
+      label: Areas of Interest in Birdwatching
+      hint: What appeals to you
+      type: select_multiple
+      options:
+      - Species Identification
+      - Photography
+      - Behavioral Observation
+      - Bird Conservation
+      - Sound Recording
+      - Scientific Research
+      - Social Enjoyment
+      required: false
+    - id: 25
+      name: willing_to_lead_trips
+      label: Willing to Lead Group Excursions
+      hint: Can you help organize trips
+      type: select_one
+      options:
+      - Yes, Very Willing
+      - Willing to Help
+      - Maybe
+      - false
+      required: false
+    - id: 26
+      name: willing_to_volunteer
+      label: Interested in Volunteering
+      hint: Help with club activities
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Interested
+      - Maybe
+      - false
+      required: false
+    - id: 27
+      name: volunteer_areas
+      label: Volunteer Areas of Interest
+      hint: What would you like to help with
+      type: select_multiple
+      options:
+      - Event Coordination
+      - Habitat Conservation
+      - Education
+      - Data Collection
+      - Social Media
+      - Member Communications
+      required: false
+    - id: 28
+      name: section_emergency
+      label: -- Emergency and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact if needed
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Their phone number
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: medical_conditions
+      label: Medical Conditions We Should Know About
+      hint: Any conditions affecting hiking
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: liability_acknowledgment
+      label: I acknowledge the risks of outdoor activities
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 33
+      name: section_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How we should contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS Text
+      - Mail
+      required: true
+    - id: 35
+      name: newsletter_consent
+      label: I want to receive club newsletters and updates
+      hint: Stay informed about activities
+      type: select_one
+      options:
+      - Yes, Subscribe
+      - No, Thank You
+      required: false

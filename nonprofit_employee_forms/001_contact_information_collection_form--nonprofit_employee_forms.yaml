@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Collection Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your nonprofit or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address, P.O. box, or physical address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_postal_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Mexico
+      - Other
+      required: true
+    - id: 11
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How would you like us to contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text Message
+      required: true
+    - id: 12
+      name: purpose_of_contact
+      label: Purpose of Contact Information
+      hint: Why are you providing your contact information?
+      type: select_one
+      options:
+      - Website Registration
+      - Event Sign-up
+      - Newsletter Subscription
+      - Volunteer Interest
+      - Donation Inquiry
+      - General Information
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_communicate
+      label: Consent to Receive Communications
+      hint: I agree to receive communications from this organization
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

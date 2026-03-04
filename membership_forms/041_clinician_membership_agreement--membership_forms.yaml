@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinician Membership Agreement
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinician Membership Agreement
+      hint: Complete this form to apply for membership with our healthcare organization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: credentials
+      label: Professional Credentials
+      hint: MD DO NP PA etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_number
+      label: Professional License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_state
+      label: License State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_expiry
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Family Medicine
+      - Internal Medicine
+      - Pediatrics
+      - Emergency Medicine
+      - Surgery
+      - Cardiology
+      - Oncology
+      - Neurology
+      - Psychiatry
+      - Other
+      required: true
+    - id: 11
+      name: board_certification
+      label: Board Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Board Certified
+      - Board Eligible
+      - Not Applicable
+      required: true
+    - id: 12
+      name: board_certification_details
+      label: Board Certification Details
+      hint: Board name and year
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dea_number
+      label: DEA Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: npn_number
+      label: NPI Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: malpractice_carrier
+      label: Malpractice Insurance Carrier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: malpractice_policy_number
+      label: Malpractice Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: malpractice_coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: select_one
+      options:
+      - $100000/$300000
+      - $200000/$600000
+      - $300000/$900000
+      - $1000000/$3000000
+      - Other
+      required: true
+    - id: 18
+      name: malpractice_expiry
+      label: Malpractice Insurance Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: hospital_privileges
+      label: Current Hospital Privileges
+      hint: List hospitals
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: years_in_practice
+      label: Years in Practice
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20+ years
+      required: true
+    - id: 21
+      name: practice_setting
+      label: Current Practice Setting
+      hint: null
+      type: select_one
+      options:
+      - Private Practice
+      - Hospital Employed
+      - Academic Medical Center
+      - Group Practice
+      - Government
+      - Other
+      required: true
+    - id: 22
+      name: availability
+      label: Availability
+      hint: Days and hours available
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: membership_type
+      label: Membership Type Requested
+      hint: null
+      type: select_one
+      options:
+      - Full Active
+      - Associate
+      - Affiliate
+      - Locum Tenens
+      - Telemedicine
+      required: true
+    - id: 24
+      name: references
+      label: Professional References
+      hint: Names and contact information
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: disciplinary_history
+      label: Any Disciplinary History
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: disciplinary_details
+      label: Disciplinary History Details
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: criminal_history
+      label: Any Criminal History
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: criminal_details
+      label: Criminal History Details
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: health_status
+      label: Are You Able to Perform Essential Functions
+      hint: With or without accommodation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: terms_accepted
+      label: I Accept Membership Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 31
+      name: bylaws_acknowledged
+      label: I Have Read and Agree to Abide by Bylaws
+      hint: null
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - No I Do Not Acknowledge
+      required: true
+    - id: 32
+      name: signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: App User Onboarding Survey
+    pages:
+    - id: 1
+      name: section_onboarding
+      label: -- Onboarding Experience --
+      hint: Collect first time user impressions about onboarding flow
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_role
+      label: User role
+      hint: Role such as admin power user or end user
+      type: select_one
+      options:
+      - Admin
+      - Power user
+      - End user
+      - Other
+      required: false
+    - id: 3
+      name: time_to_first_success
+      label: Time to first success
+      hint: Estimate minutes to complete initial setup
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: onboarding_clarity
+      label: Onboarding clarity rating
+      hint: How clear were the instructions
+      type: select_one
+      options:
+      - Very unclear
+      - Somewhat unclear
+      - Neutral
+      - Clear
+      - Very clear
+      required: true
+    - id: 5
+      name: obstacles_encountered
+      label: Obstacles encountered during onboarding
+      hint: Select common issues experienced
+      type: select_multiple
+      options:
+      - Account verification
+      - Feature discovery
+      - Technical errors
+      - Lack of guidance
+      - None
+      required: false
+    - id: 6
+      name: support_used
+      label: Did you use support resources
+      hint: Help center chat or tutorials
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: suggested_improvements
+      label: Suggested improvements to onboarding
+      hint: Provide concrete suggestions if any
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: DSWD Form Template
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Case Management
+      - Intake/Assessment
+      - Service Plan
+      - Case Planning
+      - Case Review
+      - Other
+      required: false
+    - id: 2
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_worker
+      label: Case Worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_services_provider
+      label: Social Services Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location_of_service
+      label: Location of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: case_manager_email
+      label: Case Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: case_manager_phone
+      label: Case Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_manager_address
+      label: Case Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_provider_email
+      label: Service Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: service_provider_phone
+      label: Service Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: service_provider_address
+      label: Service Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: case_review
+      label: Case Review
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: other_service
+      label: Other Service
+      hint: null
+      type: text
+      options: []
+      required: false

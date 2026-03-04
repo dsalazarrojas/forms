@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Background Check Form
+    pages:
+    - id: 1
+      name: header_personal_identity
+      label: -- Personal Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_legal_name
+      label: Full Legal Name
+      hint: Including middle name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maiden_other_names
+      label: Maiden or Other Names Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identity verification only
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ssn
+      label: Social Security Number
+      hint: Securely collected for background screening
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driver_license_number
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: driver_license_state
+      label: State of Issuance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: header_residence
+      label: -- Residence History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_address
+      label: Current Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: length_of_residence
+      label: How long have you lived at this address?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_addresses
+      label: List previous addresses for the last 7 years
+      hint: Include City, State, and Dates
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: header_disclosure
+      label: -- Criminal History Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: criminal_conviction_disclosure
+      label: Have you ever been convicted of a crime?
+      hint: Other than minor traffic violations
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: conviction_details
+      label: If yes - please provide details
+      hint: Date, location, and nature of offense
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: authorization_consent
+      label: I authorize the church to conduct a criminal background check
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 16
+      name: fair_credit_reporting_act_ack
+      label: I acknowledge receipt of the Summary of Rights under the FCRA
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 17
+      name: applicant_signature_name
+      label: Electronic Signature (Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automatic Thought Observation Form
+    pages:
+    - id: 1
+      name: section_header_session
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observation_date
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: observation_time
+      label: Time of Observation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: therapist_name
+      label: Therapist or Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_trigger
+      label: -- Trigger and Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: triggering_event
+      label: Triggering Event or Situation
+      hint: What happened that sparked the thought?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emotional_context
+      label: Emotional Context
+      hint: What emotions were present?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Where Did This Occur
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_thought
+      label: -- Automatic Thought --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: automatic_thought
+      label: Automatic Thought
+      hint: Record the exact thought as it occurred
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: thought_clarity
+      label: Thought Clarity
+      hint: How clear was this thought?
+      type: select_one
+      options:
+      - Crystal Clear
+      - Clear
+      - Somewhat Clear
+      - Vague
+      - Fleeting
+      required: true
+    - id: 13
+      name: thought_accuracy
+      label: Initial Belief in Thought (0-100%)
+      hint: How much did you believe this thought?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_emotion
+      label: -- Emotional Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_emotion
+      label: Primary Emotion
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Sadness
+      - Anger
+      - Fear
+      - Shame
+      - Guilt
+      - Frustration
+      - Other
+      required: true
+    - id: 16
+      name: emotion_intensity
+      label: Emotion Intensity (0-10)
+      hint: How strong was the emotion?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: physical_response
+      label: Physical Sensations
+      hint: Any physical reactions?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_analysis
+      label: -- Thought Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: evidence_for
+      label: Evidence Supporting the Thought
+      hint: What supports this thought?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: evidence_against
+      label: Evidence Against the Thought
+      hint: What contradicts this thought?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: section_header_alternative
+      label: -- Alternative Perspectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: alternative_thought_1
+      label: Alternative Thought 1
+      hint: What else could be true?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: alternative_thought_2
+      label: Alternative Thought 2
+      hint: Another way to view this?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: revised_emotion_intensity
+      label: Emotion Intensity After Analysis (0-10)
+      hint: How strong is the emotion now?
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: insights_and_learning
+      label: Key Insights and Learning Points
+      hint: What did you learn from this exercise?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Title Insurance Request Form
+    pages:
+    - id: 1
+      name: title_insurance_request_form
+      label: Title Insurance Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: true
+    - id: 6
+      name: shipment_method
+      label: shipment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Mail
+      required: true
+    - id: 7
+      name: title_insurer
+      label: title_insurer
+      hint: null
+      type: select_one
+      options:
+      - Title Company A
+      - Title Company B
+      required: true
+    - id: 8
+      name: insurance_amount
+      label: insurance_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: insurance_type
+      label: insurance_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

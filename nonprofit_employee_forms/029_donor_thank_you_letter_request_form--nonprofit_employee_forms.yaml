@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Thank You Letter Request Form
+    pages:
+    - id: 1
+      name: doner_request
+      label: Doner Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doner_name
+      label: Doner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''mail''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''in_person''}'
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_zip
+      label: Delivery Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_country
+      label: Delivery Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''appreciation''}'
+      - '{''value'': ''milestone''}'
+      - '{''value'': ''birthday''}'
+      required: false
+    - id: 12
+      name: doner_email
+      label: Doner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: doner_phone
+      label: Doner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doner_message
+      label: Doner Message
+      hint: null
+      type: text
+      options: []
+      required: false

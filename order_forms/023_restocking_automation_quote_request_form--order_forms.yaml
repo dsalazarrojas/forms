@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restocking Automation Quote Request Form
+    pages:
+    - id: 1
+      name: restocking_service_request
+      label: Requesting Restocking Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: automated_restocking_service_id
+      label: Automated Restocking Service ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2''}'
+      - '{''id'': 3, ''label'': ''Service 3''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reorder_frequency
+      label: Reorder Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: automated_restocking_service_notes
+      label: Automated Restocking Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

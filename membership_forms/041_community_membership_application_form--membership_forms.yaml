@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Membership Application Form
+    pages:
+    - id: 1
+      name: membership_header
+      label: -- Membership Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name for membership record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For membership confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership type
+      hint: Select membership tier
+      type: select_one
+      options:
+      - Regular
+      - Student
+      - Senior
+      - Organizational
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Mailing address for membership materials
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interests
+      label: Areas of interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Volunteering
+      - Events
+      - Advocacy
+      - Newsletter
+      required: false
+    - id: 8
+      name: agree_to_code_of_conduct
+      label: Agree to code of conduct
+      hint: Confirm adherence to community rules
+      type: select_one
+      options:
+      - Agree
+      - Do not agree
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact details
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for membership
+      type: text
+      options: []
+      required: false

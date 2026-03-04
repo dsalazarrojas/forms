@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothes Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Your Name
+      hint: Full name of donor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_donation
+      label: -- Donation Details --
+      hint: Information about your donation
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: When are you donating
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: donation_type
+      label: Type of Donation
+      hint: What are you donating
+      type: select_one
+      options:
+      - Single item
+      - Multiple items
+      - Bag or bundle
+      - Large collection
+      - Seasonal items
+      - Work wardrobe
+      other: true
+      required: true
+    - id: 7
+      name: quantity
+      label: Number of Items
+      hint: How many pieces of clothing
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_clothing
+      label: -- Clothing Categories --
+      hint: Types of clothing items
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: clothing_categories
+      label: Select clothing categories included
+      hint: null
+      type: select_multiple
+      options:
+      - Dresses
+      - Pants or Jeans
+      - Shirts or Blouses
+      - Skirts
+      - Jackets or Coats
+      - Sweaters
+      - Suits
+      - Activewear
+      - Undergarments
+      - Accessories
+      required: true
+    - id: 10
+      name: sizes
+      label: Clothing Sizes
+      hint: Size range of donated items
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_condition
+      label: -- Item Condition --
+      hint: Condition of the clothing
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: item_condition
+      label: Overall Condition of Items
+      hint: null
+      type: select_one
+      options:
+      - Like new, never worn
+      - Excellent condition
+      - Good condition
+      - Fair condition
+      - Mixed condition
+      required: true
+    - id: 13
+      name: damage_description
+      label: Any damage, stains, or wear
+      hint: Describe condition concerns
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cleaning_status
+      label: Have items been cleaned
+      hint: null
+      type: select_one
+      options:
+      - Yes, freshly cleaned
+      - Yes, previously cleaned
+      - No, not cleaned
+      - Unknown
+      required: true
+    - id: 15
+      name: section_location
+      label: -- Pickup and Delivery --
+      hint: How will donation be transferred
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_method
+      label: How are you delivering the donation
+      hint: null
+      type: select_one
+      options:
+      - Dropping off in person
+      - Requesting pickup
+      - Shipping
+      - Other
+      required: true
+    - id: 17
+      name: address
+      label: Pickup or Delivery Address
+      hint: Where items are located
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Availability for Pickup
+      hint: Best times to pick up
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_purpose
+      label: -- Donation Purpose --
+      hint: How will the items be used
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: intended_purpose
+      label: Intended use for donated items
+      hint: Career support, general distribution, etc.
+      type: select_one
+      options:
+      - Career wear for individuals in transition
+      - General community distribution
+      - Specific population served
+      - Auction or sale
+      - Other
+      required: false
+    - id: 21
+      name: tax_receipt
+      label: Do you need a tax receipt
+      hint: For donation deduction
+      type: select_one
+      options:
+      - Yes, I need a receipt
+      - No, not needed
+      - Will ask later
+      required: false
+    - id: 22
+      name: donor_address
+      label: Donor Address
+      hint: Your address for receipt
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Any special handling requests
+      hint: Storage, hanging, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: donor_notes
+      label: Additional comments or notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I confirm all items are my property to donate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

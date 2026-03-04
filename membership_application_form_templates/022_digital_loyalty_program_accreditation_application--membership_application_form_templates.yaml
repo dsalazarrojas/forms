@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Loyalty Program Accreditation Application
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: program_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: program_url
+      label: Program URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: certification_body
+      label: Certification Body
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: certification_expiration_date
+      label: Certification Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false

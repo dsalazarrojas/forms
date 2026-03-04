@@ -1,0 +1,256 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cigar Survey
+    pages:
+      - id: 1
+        name: section_header_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 5
+        name: gender
+        label: Gender
+        hint: null
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+        required: false
+      - id: 6
+        name: section_header_cigar_experience
+        label: -- Cigar Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: years_smoking_cigars
+        label: How Long Have You Been Smoking Cigars
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - More than 10 years
+        required: true
+      - id: 8
+        name: smoking_frequency
+        label: How Often Do You Smoke Cigars
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Weekly
+          - Monthly
+          - Occasionally
+          - Special occasions only
+        required: true
+      - id: 9
+        name: experience_level
+        label: Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Novice
+          - Intermediate
+          - Advanced
+          - Connoisseur
+        required: true
+      - id: 10
+        name: section_header_preferences
+        label: -- Cigar Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: favorite_cigar_type
+        label: Favorite Cigar Type
+        hint: null
+        type: select_one
+        options:
+          - Full bodied
+          - Medium bodied
+          - Light bodied
+          - No preference
+        required: true
+      - id: 12
+        name: favorite_origin
+        label: Favorite Cigar Origin Country
+        hint: null
+        type: select_one
+        options:
+          - Cuba
+          - Dominican Republic
+          - Nicaragua
+          - Honduras
+          - Brazil
+          - Other
+        required: true
+      - id: 13
+        name: favorite_size
+        label: Preferred Cigar Size
+        hint: null
+        type: select_one
+        options:
+          - Panetela
+          - Corona
+          - Robusto
+          - Toro
+          - Churchill
+          - Double Corona
+          - No preference
+        required: false
+      - id: 14
+        name: price_preference
+        label: Typical Price Range per Cigar
+        hint: null
+        type: select_one
+        options:
+          - Under $5
+          - $5-$10
+          - $10-$15
+          - $15-$25
+          - $25-$50
+          - Over $50
+        required: true
+      - id: 15
+        name: section_header_brands
+        label: -- Brand Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: favorite_brands
+        label: Your Top Three Favorite Cigar Brands
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: brand_loyalty
+        label: How Loyal Are You to Your Favorite Brands
+        hint: null
+        type: select_one
+        options:
+          - Very loyal
+          - Somewhat loyal
+          - Neutral
+          - Open to trying new brands
+          - Always trying new brands
+        required: false
+      - id: 18
+        name: section_header_purchase
+        label: -- Purchase Behavior --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: purchase_location
+        label: Where Do You Typically Purchase Cigars
+        hint: null
+        type: select_one
+        options:
+          - Local cigar shop
+          - Online retailer
+          - Tobacco shop
+          - Premium retailer
+          - Multiple sources
+        required: true
+      - id: 20
+        name: purchasing_factors
+        label: Factors That Influence Your Purchase (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - Price
+          - Brand reputation
+          - Origin or blend
+          - Size or shape
+          - Reviews or recommendations
+          - Availability
+          - Packaging
+        required: false
+      - id: 21
+        name: section_header_satisfaction
+        label: -- Satisfaction and Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: overall_satisfaction
+        label: Overall Satisfaction with Cigars You Smoke
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 23
+        name: product_improvements
+        label: What Improvements Would You Like to See in Cigar Products
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: interested_in_newsletter
+        label: Interested in Receiving Cigar News and Promotions
+        hint: null
+        type: select_one
+        options:
+          - 'Yes'
+          - 'No'
+        required: false

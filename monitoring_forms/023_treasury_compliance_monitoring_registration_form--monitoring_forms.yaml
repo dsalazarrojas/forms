@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Compliance Monitoring Registration Form
+    pages:
+    - id: 1
+      name: monitoring_form
+      label: Monitoring Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entity_type
+      label: Entity Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type A'', ''value'': ''A''}'
+      - '{''label'': ''Type B'', ''value'': ''B''}'
+      required: false
+    - id: 7
+      name: entity_name
+      label: Entity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_start_date
+      label: Monitoring Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: monitoring_end_date
+      label: Monitoring End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily'', ''value'': ''Daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''Monthly''}'
+      required: false
+    - id: 11
+      name: monitoring_status
+      label: Monitoring Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Equipment Grounding Kit Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: equipment_size
+      label: Equipment Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: grounding_type
+      label: Grounding Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_email
+      label: Shipping Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: company_zip
+      label: Company Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: company_country
+      label: Company Country
+      hint: null
+      type: text
+      options: []
+      required: true

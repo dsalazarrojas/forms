@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Shoes Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Footwear Order Form --
+      hint: Buy now and pay later with Afterpay
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order tracking
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shoe_header
+      label: -- Shoe Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: brand_model
+      label: Brand and Model
+      hint: e.g., Nike Air Max 270
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: size_system
+      label: Shoe Size - US Men, US Women, EU
+      hint: select the sizing system
+      type: select_one
+      options:
+      - US Men
+      - US Women
+      - EU / International
+      - UK Sizing
+      required: true
+    - id: 9
+      name: size_value
+      label: Size Value - e.g., 10.5
+      hint: enter the numerical size
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: colorway
+      label: Colorway
+      hint: select the preferred color
+      type: select_one
+      options:
+      - All White
+      - Black / Red
+      - Navy Blue
+      - Charcoal Grey
+      - Forest Green
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: item_price
+      label: Price
+      hint: per pair
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method - Afterpay, Card
+      hint: choose your checkout method
+      type: select_one
+      options:
+      - Afterpay
+      - Visa
+      - Mastercard
+      - American Express
+      required: true

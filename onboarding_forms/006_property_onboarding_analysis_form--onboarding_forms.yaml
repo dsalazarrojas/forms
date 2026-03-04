@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Onboarding Analysis Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: property_year_renovated
+      label: Property Year Renovated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: property_address_2
+      label: Second Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_phone
+      label: Property Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_email
+      label: Property Email
+      hint: null
+      type: email
+      options: []
+      required: false

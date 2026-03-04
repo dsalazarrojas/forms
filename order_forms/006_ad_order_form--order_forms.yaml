@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Order Form
+    pages:
+    - id: 1
+      name: advertiser_name
+      label: Advertiser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: advertiser_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: advertiser_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ad_type
+      label: Advertisement Type
+      hint: null
+      type: select_one
+      options:
+      - Classified
+      - Display
+      - Announcement
+      - Legal Notice
+      - Obituary
+      - Directory
+      required: true
+    - id: 10
+      name: publication_date
+      label: Desired Publication Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: run_frequency
+      label: Run Frequency
+      hint: How many times should the ad run
+      type: select_one
+      options:
+      - One-Time Publication
+      - Weekly for 4 weeks
+      - Weekly for 8 weeks
+      - Monthly for 3 months
+      - Monthly for 6 months
+      - Monthly for 12 months
+      required: true
+    - id: 12
+      name: word_count
+      label: Word Count
+      hint: Number of words in your advertisement
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: ad_copy
+      label: Advertisement Copy
+      hint: Enter the text of your advertisement
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: heading
+      label: Heading or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: phone_number_in_ad
+      label: Contact Number to Display
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Real Estate
+      - Jobs
+      - For Sale
+      - Services
+      - Notices
+      - Announcements
+      - Other
+      required: false
+    - id: 17
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Calculated based on word count and frequency
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      - Invoice
+      required: true
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Bold, italics, or other formatting
+      type: text
+      options: []
+      required: false

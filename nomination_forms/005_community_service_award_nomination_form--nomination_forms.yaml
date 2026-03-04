@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Award Nomination Form
+    pages:
+    - id: 1
+      name: nominee_name
+      label: Nominee full name
+      hint: Person being nominated for the award
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_contact
+      label: Nominee contact email
+      hint: Email for confirmation if needed
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: nominator_name
+      label: Nominator full name
+      hint: Person submitting this nomination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_email
+      label: Nominator email address
+      hint: For follow up and verification
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: award_category
+      label: Award category
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - Outstanding Volunteer
+      - Community Leader
+      - Youth Service
+      - Lifetime Achievement
+      required: true
+    - id: 6
+      name: nomination_justification
+      label: Justification for nomination
+      hint: Describe achievements and impact in detail
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_of_service
+      label: Years of service
+      hint: Approximate number of years involved in community service
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: Supporting documents summary
+      hint: List any attachments you will provide
+      type: text
+      options: []
+      required: false

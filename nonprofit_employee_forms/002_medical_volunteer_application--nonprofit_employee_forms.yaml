@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Volunteer Application
+    pages:
+    - id: 1
+      name: medical_volunteer_application
+      label: Medical Volunteer Application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiac
+      - Pediatric
+      - Emergency
+      - General
+      required: false
+    - id: 9
+      name: medical_school_graduation_year
+      label: Medical School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: certification_year
+      label: Certification Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: medical_volunteer_certification_number
+      label: Medical Volunteer Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: expiration_date_2
+      label: Expiration Date 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: emergency_response
+      label: Emergency Response
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Mandarin
+      required: false
+    - id: 16
+      name: medical_volunteer_agreement
+      label: Medical Volunteer Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_license_expiration_date
+      label: Medical License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_expiration_date_2
+      label: Medical License Expiration Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: medical_license_number_2
+      label: Medical License Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_volunteer_status
+      label: Medical Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true

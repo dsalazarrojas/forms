@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Painting, quote and estimation form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2''}'
+      - '{''id'': 3, ''label'': ''Service 3''}'
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''AM''}'
+      - '{''id'': 2, ''label'': ''PM''}'
+      - '{''id'': 3, ''label'': ''24/7''}'
+      required: false
+    - id: 7
+      name: contact_time
+      label: Contact time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_details
+      label: Project details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_comments
+      label: Customer comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Apparel Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_type
+      label: Customer Type
+      hint: Are you student or alumni
+      type: select_one
+      options:
+      - Current Student
+      - Prospective Student
+      - Alumni
+      - Faculty or Staff
+      - Parent
+      - Fan
+      - Other
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: graduation_year
+      label: Graduation Year
+      hint: If alumni
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country name
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Other
+      required: true
+    - id: 12
+      name: item_category
+      label: Item Category
+      hint: Type of apparel
+      type: select_one
+      options:
+      - T-Shirts
+      - Polo Shirts
+      - Hoodies and Sweatshirts
+      - Jackets
+      - Hats and Caps
+      - Sweatpants
+      - Shorts
+      - Jerseys
+      - Other
+      required: true
+    - id: 13
+      name: item_name
+      label: Item Name
+      hint: Specific product
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_color
+      label: Color
+      hint: Primary color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Gray
+      - Navy Blue
+      - Royal Blue
+      - Red
+      - Maroon
+      - Green
+      - Gold
+      - Other
+      required: true
+    - id: 15
+      name: size
+      label: Size
+      hint: Apparel size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: additional_items
+      label: Additional Items
+      hint: Want to add more items
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: item_2_name
+      label: Second Item Name
+      hint: If ordering more
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_2_color
+      label: Second Item Color
+      hint: Color choice
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_2_size
+      label: Second Item Size
+      hint: Size choice
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_2_quantity
+      label: Second Item Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customization
+      label: Customization Needed
+      hint: Name or number
+      type: select_one
+      options:
+      - Yes Add Name
+      - Yes Add Number
+      - Yes Add Both
+      - No Thanks
+      required: true
+    - id: 23
+      name: custom_name
+      label: Name to Add
+      hint: For customization
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: custom_number
+      label: Number to Add
+      hint: Jersey number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: gift_wrapping
+      label: Gift Wrapping
+      hint: Is this a gift
+      type: select_one
+      options:
+      - Yes Please Wrap
+      - No Thank You
+      required: true
+    - id: 26
+      name: gift_message
+      label: Gift Message
+      hint: Message to include
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery speed
+      type: select_one
+      options:
+      - Standard 5-7 Days
+      - Express 2-3 Days
+      - Overnight
+      - Store Pickup
+      required: true
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Campus Account
+      - Other
+      required: true
+    - id: 29
+      name: card_number
+      label: Card Number
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: card_expiry
+      label: Expiry Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: card_cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: special_instructions
+      label: Special Instructions
+      hint: Any requests
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true

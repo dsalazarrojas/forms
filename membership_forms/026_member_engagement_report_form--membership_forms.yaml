@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Engagement Report Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_last_contacted
+      label: Date Last Contacted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - inactive pending
+      required: false

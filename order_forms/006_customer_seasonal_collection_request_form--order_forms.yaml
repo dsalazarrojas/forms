@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Seasonal Collection Request Form
+    pages:
+    - id: 1
+      name: customer_seasonal_collection_request_form_page_1
+      label: customer seasonal collection request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: pickup requests
+      hint: null
+      type: select_one
+      options:
+      - request pickup requests
+      - request pickup requests
+      required: false
+    - id: 3
+      name: pickup_requests
+      label: pickup requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pickup_request_description
+      label: pickup request description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collection_date
+      label: collection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: collection_time
+      label: collection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_seasonal_collection_request_form_page_8
+      label: seasonal collection schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seasonal_schedule
+      label: seasonal schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_seasonal_collection_request_form_page_10
+      label: seasonal collections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collections
+      label: collections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: seasonal_collections_description
+      label: seasonal collections description
+      hint: null
+      type: text
+      options: []
+      required: false

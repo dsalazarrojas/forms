@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Monitoring Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_department
+      label: Requester Department
+      hint: Your department
+      type: select_one
+      options:
+      - Marketing
+      - Content
+      - Legal
+      - Compliance
+      - Brand Management
+      - Public Relations
+      - Management
+      - Other
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this monitoring request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: content_type
+      label: Content Type to Monitor
+      hint: What type of content needs monitoring?
+      type: select_one
+      options:
+      - Social Media Posts
+      - Blog Articles
+      - Video Content
+      - Website Content
+      - Email Campaigns
+      - Advertisements
+      - Press Releases
+      - User-Generated Content
+      required: true
+    - id: 7
+      name: monitoring_scope
+      label: Monitoring Scope
+      hint: What is the scope of monitoring?
+      type: select_one
+      options:
+      - Single Platform
+      - Multiple Platforms
+      - All Digital Channels
+      - Specific Campaign
+      - Ongoing Brand Monitoring
+      required: true
+    - id: 8
+      name: platforms_to_monitor
+      label: Platforms to Monitor
+      hint: Which platforms should be monitored?
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - YouTube
+      - TikTok
+      - Reddit
+      - News Sites
+      - Blogs
+      - Review Sites
+      required: true
+    - id: 9
+      name: content_urls
+      label: Content URLs
+      hint: Specific URLs to monitor
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: keywords_to_track
+      label: Keywords to Track
+      hint: What keywords or phrases should be tracked?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: brand_mentions
+      label: Brand Mentions
+      hint: Should brand mentions be tracked?
+      type: select_one
+      options:
+      - Yes, all mentions
+      - Yes, negative mentions only
+      - Yes, positive mentions only
+      - false
+      required: true
+    - id: 12
+      name: competitor_monitoring
+      label: Competitor Monitoring
+      hint: Should competitors also be monitored?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: competitor_names
+      label: Competitor Names
+      hint: List competitors to monitor
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: monitoring_purpose
+      label: Monitoring Purpose
+      hint: Why is this monitoring needed?
+      type: select_one
+      options:
+      - Brand Reputation
+      - Compliance Check
+      - Content Performance
+      - Crisis Management
+      - Competitive Analysis
+      - Campaign Tracking
+      - Quality Assurance
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Low Priority
+      - Medium Priority
+      - High Priority
+      - Critical
+      required: true
+    - id: 16
+      name: monitoring_start_date
+      label: Monitoring Start Date
+      hint: When should monitoring begin?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: monitoring_end_date
+      label: Monitoring End Date
+      hint: When should monitoring end?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: How often should reports be generated?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - On-Demand
+      required: true
+    - id: 19
+      name: report_recipients
+      label: Report Recipients
+      hint: Who should receive monitoring reports?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: alert_threshold
+      label: Alert Threshold
+      hint: When should immediate alerts be sent?
+      type: select_one
+      options:
+      - Any Negative Mention
+      - Multiple Negative Mentions
+      - Viral Content
+      - Crisis Level Issues
+      - No Immediate Alerts
+      required: true
+    - id: 21
+      name: specific_concerns
+      label: Specific Concerns
+      hint: Are there specific issues to watch for?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other monitoring requirements
+      type: text
+      options: []
+      required: false

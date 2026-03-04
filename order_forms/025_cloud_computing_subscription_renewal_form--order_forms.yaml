@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Computing Subscription Renewal Form
+    pages:
+    - id: 1
+      name: section_account
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Existing subscription account ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_holder
+      label: Account Holder Name
+      hint: Primary account contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Billing contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_subscription
+      label: -- Current Subscription Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_service
+      label: Current Cloud Service
+      hint: Name and type
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_plan
+      label: Current Subscription Plan
+      hint: Basic, Standard, Premium, etc
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: renewal_date
+      label: Current Renewal Date
+      hint: When does current subscription expire?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_monthly_cost
+      label: Current Monthly Cost - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_renewal
+      label: -- Renewal Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: renewal_choice
+      label: Renewal Plan Choice
+      hint: Continue current or change plan?
+      type: select_one
+      options:
+      - Continue current plan
+      - Upgrade to higher plan
+      - Downgrade to lower plan
+      - Switch to different service
+      - Cancel subscription
+      required: true
+    - id: 13
+      name: new_plan
+      label: New Plan if Changing
+      hint: If different from current
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: renewal_term
+      label: Renewal Term Length
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - 2 years
+      - 3 years
+      required: true
+    - id: 15
+      name: estimated_new_cost
+      label: Estimated New Cost - USD per month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_features
+      label: -- Service Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: required_features
+      label: Required features for renewal
+      hint: null
+      type: select_multiple
+      options:
+      - Storage increase
+      - Bandwidth increase
+      - User seats increase
+      - Advanced support
+      - Premium features
+      - API access
+      - Analytics
+      - Same as current
+      required: true
+    - id: 18
+      name: users_count
+      label: Number of Users - Seats
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: storage_needed
+      label: Storage Capacity Needed - GB
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: billing_contact
+      label: Billing Contact Name
+      hint: Person responsible for payments
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_email
+      label: Billing Email Address
+      hint: Invoices sent to this address
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Purchase order
+      - Other
+      required: true
+    - id: 24
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special requests or comments
+      hint: Any specific requirements or notes
+      type: text
+      options: []
+      required: false

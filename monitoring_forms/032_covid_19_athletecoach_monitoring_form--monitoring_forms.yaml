@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 AthleteCoach Monitoring Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Athlete or coach name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role
+      label: Role
+      hint: Are you athlete or coach
+      type: select_one
+      options:
+      - Athlete
+      - Coach
+      - Support Staff
+      required: true
+    - id: 3
+      name: sport
+      label: Sport
+      hint: Your sport or activity
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: Your team or club
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: monitoring_date
+      label: Monitoring Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_temperature
+      label: Current Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: feeling_well
+      label: Are You Feeling Well Today
+      hint: Overall wellness
+      type: select_one
+      options:
+      - Yes - Feeling well
+      - No - Not feeling well
+      - Unsure
+      required: true
+    - id: 11
+      name: symptoms_present
+      label: Any COVID-19 Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea
+      required: true
+    - id: 12
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: recent_test
+      label: Recent COVID-19 Test
+      hint: Have you been tested
+      type: select_one
+      options:
+      - Yes - Positive
+      - Yes - Negative
+      - No - Not tested
+      - Pending results
+      required: true
+    - id: 14
+      name: test_date
+      label: Test Date
+      hint: When was test
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 16
+      name: cleared_for_activity
+      label: Cleared for Activity
+      hint: Can you participate
+      type: select_one
+      options:
+      - Yes - Fully cleared
+      - Yes - With restrictions
+      - No - Not cleared
+      - Pending medical evaluation
+      required: true
+    - id: 17
+      name: activity_restrictions
+      label: Activity Restrictions
+      hint: If any limitations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_sports
+      label: Participating in Contact Sports
+      hint: Will you have close contact
+      type: select_one
+      options:
+      - true
+      - false
+      - Modified contact
+      required: true
+    - id: 19
+      name: mask_required
+      label: Mask Required
+      hint: During activity
+      type: select_one
+      options:
+      - Yes - Always
+      - Yes - When not actively playing
+      - No - During activity only
+      - No - Not required
+      required: true
+    - id: 20
+      name: travel_for_competition
+      label: Travel for Competition
+      hint: Upcoming travel
+      type: select_one
+      options:
+      - Yes - Out of state
+      - Yes - Out of country
+      - No - Local only
+      required: false
+    - id: 21
+      name: household_members_symptomatic
+      label: Household Members Symptomatic
+      hint: Anyone at home sick
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: work_outside_home
+      label: Work Outside Home
+      hint: Other exposure risk
+      type: select_one
+      options:
+      - Yes - High risk setting
+      - Yes - Low risk setting
+      - No - Work from home
+      - Not applicable
+      required: false
+    - id: 23
+      name: health_insurance
+      label: Health Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: That may affect participation
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: trainer_notes
+      label: Trainer or Coach Notes
+      hint: Observations
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: clearance_provider
+      label: Clearing Provider Name
+      hint: Healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

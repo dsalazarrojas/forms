@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Quotation Update Contact Form
+    pages:
+    - id: 1
+      name: supplier_quotation_update_contact_form
+      label: supplier_quotation_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: updated_quotation
+      label: updated_quotation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quotation_date
+      label: quotation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: updated_quotation_price
+      label: updated_quotation_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: updated_quotation_total
+      label: updated_quotation_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supplier_update_reason
+      label: supplier_update_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supplier_update_comment
+      label: supplier_update_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_contact
+      label: supplier_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

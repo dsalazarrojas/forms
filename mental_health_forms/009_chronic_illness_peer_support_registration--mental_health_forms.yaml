@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Peer Support Registration
+    pages:
+    - id: 1
+      name: header_contact_info
+      label: -- Participant Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 6
+      name: header_medical_context
+      label: -- Health Context (Optional) --
+      hint: Information provided helps us match you with relevant peers
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_condition
+      label: Primary Chronic Condition(s)
+      hint: Example - Multiple Sclerosis, Lupus, Chronic Fatigue Syndrome
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_since_diagnosis
+      label: Years Since Diagnosis
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: support_goals
+      label: What do you hope to gain from peer support?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emotional Support
+      - Practical Coping Strategies
+      - Social Connection
+      - Information Sharing
+      - Reduced Isolation
+      required: true
+    - id: 10
+      name: session_format_preference
+      label: Preferred Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person Group
+      - Virtual (Video Call)
+      - One-on-One Peer Match
+      - Text-based Online Chat
+      required: true
+    - id: 11
+      name: time_availability
+      label: Generally Available for Meetings
+      hint: Select your typical availability
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: true
+    - id: 12
+      name: header_background
+      label: -- Experience and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: previous_group_experience
+      label: Have you participated in a support group before?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Facilitated
+      - Yes - Informal
+      - false
+      required: true
+    - id: 14
+      name: peer_mentor_interest
+      label: Are you interested in training to become a Peer Mentor?
+      hint: Usually requires 2+ years of living with the condition
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe in the future
+      required: true
+    - id: 15
+      name: accessibility_needs
+      label: Specific Accessibility Requirements
+      hint: e.g., Closed captioning, wheelchair access, low-light environment
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confidentiality_agreement
+      label: I agree to maintain member confidentiality
+      hint: Respecting the privacy of all group participants
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

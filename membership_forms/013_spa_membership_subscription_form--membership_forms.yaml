@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Membership Subscription Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_details
+      label: Subscription Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Stripe
+      type: select_one
+      options:
+      - Stripe
+      - Square
+      - Authorize.net
+      required: false
+    - id: 5
+      name: plan
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 7
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 8
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Elite
+      required: false
+    - id: 16
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Couple
+      required: false
+    - id: 17
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: member_email
+      label: Member Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Failed
+      required: false
+    - id: 24
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 25
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_training_cancellation_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Fitness Training Cancellation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Membership Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: information
+      label: Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancel_reason
+      label: Cancel Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cancel_session
+      label: Cancel Session
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true
+    - id: 9
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: further_action
+      label: Further Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: ITIN Preparation Service Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name_control
+      label: Business Name Control
+      hint: null
+      type: select_one
+      options:
+      - Business Name
+      - Other
+      - None
+      required: false
+    - id: 6
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth_control
+      label: Date of Birth Control
+      hint: null
+      type: select_multiple
+      options:
+      - 02/15/1999
+      - 12/01/1999
+      - 01/05/1999
+      - 03/10/1999
+      - 02/15/1999
+      required: false
+    - id: 11
+      name: tin_status
+      label: TIN Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Invalid
+      - Not Active
+      - None
+      required: false
+    - id: 12
+      name: tin_number
+      label: TIN Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_application
+      label: Reason for Application
+      hint: null
+      type: select_multiple
+      options:
+      - Taxpayer Identification Number
+      - W-2
+      - Other
+      required: false
+    - id: 14
+      name: reason_for_inactivation
+      label: Reason for Inactivation
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Taxpayer Identification Number
+      - None
+      required: false
+    - id: 15
+      name: itin_application_date
+      label: ITIN Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: itin_preparation_date
+      label: ITIN Preparation Date
+      hint: null
+      type: date
+      options: []
+      required: false

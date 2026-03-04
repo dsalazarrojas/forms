@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gun Transfer Form
+    pages:
+    - id: 1
+      name: gun_transfer_form_section_1
+      label: First Name
+      hint: First name is required
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gun_type
+      label: Gun Type
+      hint: What kind of gun is this?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gun_model
+      label: Gun Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transfer_to
+      label: Transfer To
+      hint: Select the transfer recipient
+      type: select_multiple
+      options:
+      - Friend
+      - Family
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Address of the recipient
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of the recipient
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transfer_date
+      label: Transfer Date
+      hint: Transfer date is required
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_recipient
+      label: Signature of Transfer Recipient
+      hint: null
+      type: note
+      options: []
+      required: false

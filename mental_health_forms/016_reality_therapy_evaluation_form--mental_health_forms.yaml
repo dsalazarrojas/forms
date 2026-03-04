@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: reality-therapy-evaluation-form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_notes
+      label: Session Notes
+      hint: Briefly describe the session.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_goals
+      label: Session Goals
+      hint: Describe the goals set for the session.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_outcomes
+      label: Session Outcomes
+      hint: Describe the outcomes of the session.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: select_one
+      options:
+      - No Plan Established
+      - Short-term Follow-up in 1-2 weeks
+      - Short-term Follow-up in 2-4 weeks
+      - Short-term Follow-up in 4-6 weeks
+      - Short-term Follow-up in 6-8 weeks
+      - Long-term Follow-up in 4-6 months
+      - Long-term Follow-up in 6-8 months
+      - Long-term Follow-up in 8-10 months
+      - Long-term Follow-up in 10-12 months
+      - Long-term Follow-up in 1-2 years
+      - Long-term Follow-up in 2-3 years
+      - Long-term Follow-up in 3-4 years
+      - Long-term Follow-up in 4-5 years
+      - Long-term Follow-up in 5-6 years
+      - Long-term Follow-up in 6-8 years
+      - Long-term Follow-up in 8-10 years
+      - Long-term Follow-up in more than 10 years
+      required: false
+    - id: 8
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_session_goals
+      label: Next Session Goals
+      hint: Describe the goals to be achieved in the next session.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_session_notes
+      label: Next Session Notes
+      hint: Briefly describe the next session.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_session_outcomes
+      label: Next Session Outcomes
+      hint: Describe the outcomes of the next session.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_outcomes
+      label: Overall Outcomes
+      hint: Describe overall progress and any significant events.
+      type: text
+      options: []
+      required: false

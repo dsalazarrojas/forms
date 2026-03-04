@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid PCR Test Order Form
+    pages:
+    - id: 1
+      name: contact_person
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_facility
+      label: Company or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_addr
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pcr_unit_qty
+      label: Rapid PCR Test Kit Quantity
+      hint: Kits are sold in boxes of 10
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_option
+      label: Preferred Payment Method
+      hint: Secure payment will be processed after submission
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      - Square
+      - Purchase Order
+      required: true
+    - id: 6
+      name: shipping_speed_pref
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - Standard (3-5 days)
+      - Expedited (2 days)
+      - Overnight
+      required: true
+    - id: 7
+      name: billing_email
+      label: Billing Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: billing_phone
+      label: Billing Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tax_id_no
+      label: Tax ID Number
+      hint: For business orders
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_auth_cert
+      label: I am authorized to place this order on behalf of the organization
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I am authorized
+      required: true
+    - id: 11
+      name: terms_agreement_ack
+      label: I agree to the terms of sale and refund policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

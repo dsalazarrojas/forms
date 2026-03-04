@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catered Lunch Form
+    pages:
+      - id: 1
+        name: student_staff_info_header
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role_type
+        label: Role
+        hint: null
+        type: select_one
+        options:
+          - "Student"
+          - "Staff/Teacher"
+          - "Guest/Volunteer"
+        required: true
+      - id: 4
+        name: grade_department
+        label: Grade or Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: school_location
+        label: Select School Location
+        hint: null
+        type: select_one
+        options:
+          - "North Campus Academy"
+          - "South Campus Elementary"
+          - "East Side Middle School"
+          - "West View High School"
+        required: true
+      - id: 6
+        name: section_order_details
+        label: -- Order Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: lunch_date
+        label: Date for Catered Lunch
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: main_course_choice
+        label: Main Course Selection
+        hint: null
+        type: select_one
+        options:
+          - "Menu A - Grilled Chicken with Rice"
+          - "Menu B - Beef Lasagna"
+          - "Menu C - Mediterranean Pasta (Vegetarian)"
+          - "Menu D - Turkey and Swiss Wrap"
+        required: true
+      - id: 9
+        name: beverage_choice
+        label: Beverage Selection
+        hint: null
+        type: select_one
+        options:
+          - "Bottled Water"
+          - "Apple Juice"
+          - "Orange Juice"
+          - "Low-fat Milk"
+          - "Iced Tea"
+        required: true
+      - id: 10
+        name: sides_selection
+        label: Select Your Sides
+        hint: Choose up to two
+        type: select_multiple
+        options:
+          - "Seasonal Fruit Cup"
+          - "Mixed Green Salad"
+          - "Steamed Vegetables"
+          - "Yogurt Parfait"
+          - "Baked Chips"
+        required: true
+      - id: 11
+        name: portion_size
+        label: Portion Size
+        hint: null
+        type: select_one
+        options:
+          - "Standard"
+          - "Large (Adult)"
+        required: true
+      - id: 12
+        name: section_dietary
+        label: -- Dietary Restrictions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: allergy_declaration
+        label: Does the participant have any food allergies
+        hint: null
+        type: select_one
+        options:
+          - "No known allergies"
+          - "Peanut/Tree Nut"
+          - "Dairy/Lactose"
+          - "Gluten/Celiac"
+          - "Egg"
+          - "Shellfish"
+        required: true
+      - id: 14
+        name: allergy_details
+        label: Provide details on the severity or other allergies
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: payment_status
+        label: Payment Method
+        hint: null
+        type: select_one
+        options:
+          - "Pre-paid Meal Plan"
+          - "Pay on Delivery"
+          - "Staff Payroll Deduction"
+        required: true
+      - id: 16
+        name: additional_requests
+        label: Special Instructions for the Kitchen
+        hint: null
+        type: text
+        options: []
+        required: false

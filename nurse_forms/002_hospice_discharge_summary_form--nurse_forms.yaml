@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Discharge Summary Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: treatment_outcomes
+      label: Treatment Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hospice_care
+      label: Hospice Care
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 6
+      name: physician_info
+      label: Physician Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_discharge
+      label: Time of Discharge
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hospice_id
+      label: Hospice ID
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 11
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 12
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_family_member
+      label: Patient Family Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hospice_care_plan
+      label: Hospice Care Plan
+      hint: null
+      type: text
+      options: []
+      required: false

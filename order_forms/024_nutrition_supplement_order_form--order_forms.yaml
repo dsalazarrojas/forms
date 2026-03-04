@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Supplement Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supplement_type
+      label: Supplement Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Supplement 1'', ''value'': ''supplement_1''}'
+      - '{''label'': ''Supplement 2'', ''value'': ''supplement_2''}'
+      - '{''label'': ''Supplement 3'', ''value'': ''supplement_3''}'
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 10
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Paid'', ''value'': ''paid''}'
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Refunded'', ''value'': ''refunded''}'
+      required: false

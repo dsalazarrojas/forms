@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Pre Order Form Template
+    pages:
+    - id: 1
+      name: merchant_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: merchant_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: merchant_form_3
+      label: t_shirt_size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: merchant_form_4
+      label: t_shirt_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: merchant_form_5
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: merchant_form_6
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: merchant_form_7
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

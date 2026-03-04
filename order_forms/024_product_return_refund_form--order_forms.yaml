@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Return Refund Form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - Defective
+      - Not as described
+      - Other
+      required: false
+    - id: 4
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Order Forms
+      - Return Refund Forms
+      - Product Forms
+      required: true
+    - id: 13
+      name: customer_category
+      label: Customer Category
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Consumer
+      - Other
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: category_2
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Order Forms
+      - Return Refund Forms
+      - Product Forms
+      required: false
+    - id: 18
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Processing
+      - Completed
+      - Voided
+      required: false
+    - id: 24
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pended
+      required: true
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true

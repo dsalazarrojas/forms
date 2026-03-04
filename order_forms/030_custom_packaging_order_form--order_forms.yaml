@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Packaging Order Form
+    pages:
+    - id: 1
+      name: custom_packaging_specifications
+      label: custom-packaging-specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: order-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: payment-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: packaging_materials
+      label: packaging-materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: custom_packaging_options
+      label: custom-packaging-options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_info
+      label: customer-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_gateway
+      label: payment-gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: packaging_type
+      label: packaging-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: order_time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: order_note
+      label: order-note
+      hint: null
+      type: note
+      options: []
+      required: false

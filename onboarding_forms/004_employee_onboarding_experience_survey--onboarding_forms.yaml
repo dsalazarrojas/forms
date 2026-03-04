@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Onboarding Experience Survey
+    pages:
+    - id: 1
+      name: employee_onboarding_experience_survey
+      label: New Hire Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_onboarding_experience_survey_questions
+      label: Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: onboarding_start_date
+      label: Onboarding Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: onboarding_end_date
+      label: Onboarding End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: manager_first_name
+      label: Manager First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_last_name
+      label: Manager Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: completed_onboarding_form
+      label: Completed Onboarding Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: completed_onboarding_form_date
+      label: Completed Onboarding Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: onboarding_feedback
+      label: Onboarding Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: onboarding_experience
+      label: Onboarding Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback_for_improvement
+      label: Feedback For Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: onboarding_process_score
+      label: Onboarding Process Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: onboarding_support_score
+      label: Onboarding Support Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: onboarding_documentation_score
+      label: Onboarding Documentation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: onboarding_experience_score
+      label: Onboarding Experience Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: onboarding_suggestions
+      label: Onboarding Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

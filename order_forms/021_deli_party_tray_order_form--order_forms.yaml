@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deli Party Tray Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_tray
+      label: Party Tray
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: party_tray_type
+      label: party_tray_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hot''}'
+      - '{''value'': ''Cold''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: party_tray_size
+      label: party_tray_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Small''}'
+      - '{''value'': ''Large''}'
+      - '{''value'': ''Extra Large''}'
+      required: false
+    - id: 5
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Delivery''}'
+      - '{''value'': ''Pickup''}'
+      required: false
+    - id: 9
+      name: party_tray_note
+      label: party_tray_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

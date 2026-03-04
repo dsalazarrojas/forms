@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Requisition Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: furniture_name
+      label: furniture_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: request_date_time
+      label: request_date_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: furniture_price
+      label: furniture_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: select_option1
+      label: select_option1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: select_option2
+      label: select_option2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: employee_note
+      label: employee_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_department
+      label: manager_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: request_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inventory_status
+      label: inventory_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 25
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false

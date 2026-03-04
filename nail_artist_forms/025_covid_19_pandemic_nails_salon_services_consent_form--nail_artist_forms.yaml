@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pandemic Nails Salon Services Consent Form
+    pages:
+    - id: 1
+      name: section_client_details
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Manicure
+      - Pedicure
+      - Gel nails
+      - Acrylic nails
+      - Nail art
+      - Nail extensions
+      - Nail repair
+      - Other
+      required: true
+    - id: 9
+      name: special_requests
+      label: Any Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_health_declaration
+      label: -- Health Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: covid_symptoms
+      label: I do not have any COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: no_covid_diagnosis
+      label: I have not been diagnosed with COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: no_close_contact
+      label: I have not been in close contact with a confirmed COVID-19 case
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: no_fever
+      label: I do not have a fever or chills
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_allergy_info
+      label: -- Allergy Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: product_allergies
+      label: Do you have allergies to nail salon products?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: allergy_list
+      label: If yes, list allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: skin_conditions
+      label: Do you have any skin or nail conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 19
+      name: condition_details
+      label: Describe conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_understanding_risks
+      label: -- Understanding of COVID-19 Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: understand_transmission
+      label: I understand how COVID-19 is transmitted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: understand_safety_measures
+      label: I understand the salon safety measures
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: section_consent
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: consent_service
+      label: I consent to receive the requested nail services
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 25
+      name: accept_risk
+      label: I accept the potential COVID-19 transmission risks
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 26
+      name: release_salon
+      label: I release the salon from liability related to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 27
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

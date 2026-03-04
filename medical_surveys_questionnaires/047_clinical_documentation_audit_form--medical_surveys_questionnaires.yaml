@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Documentation Audit Form
+    pages:
+    - id: 1
+      name: audit_section
+      label: -- Audit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department Audited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: record_section
+      label: -- Record Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: record_date
+      label: Date of Record
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: documentation_section
+      label: -- Documentation Completeness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: history_present_illness
+      label: History of Present Illness documented
+      hint: null
+      type: select_one
+      options:
+      - Not documented
+      - Incomplete
+      - Complete
+      - Comprehensive
+      required: true
+    - id: 12
+      name: review_systems
+      label: Review of Systems documented
+      hint: null
+      type: select_one
+      options:
+      - Not documented
+      - Incomplete
+      - Complete
+      - Comprehensive
+      required: true
+    - id: 13
+      name: physical_exam
+      label: Physical Examination documented
+      hint: null
+      type: select_one
+      options:
+      - Not documented
+      - Incomplete
+      - Complete
+      - Comprehensive
+      required: true
+    - id: 14
+      name: assessment_plan
+      label: Assessment and Plan documented
+      hint: null
+      type: select_one
+      options:
+      - Not documented
+      - Incomplete
+      - Complete
+      - Comprehensive
+      required: true
+    - id: 15
+      name: quality_section
+      label: -- Documentation Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accuracy
+      label: Documentation accuracy
+      hint: null
+      type: select_one
+      options:
+      - Inaccurate
+      - Mostly accurate
+      - Accurate
+      - Highly accurate
+      required: true
+    - id: 17
+      name: clarity
+      label: Clarity of documentation
+      hint: null
+      type: select_one
+      options:
+      - Unclear
+      - Somewhat unclear
+      - Clear
+      - Very clear
+      required: true
+    - id: 18
+      name: organization
+      label: Organization and structure
+      hint: null
+      type: select_one
+      options:
+      - Disorganized
+      - Somewhat organized
+      - Well organized
+      - Excellently organized
+      required: true
+    - id: 19
+      name: timeliness
+      label: Documentation timeliness
+      hint: null
+      type: select_one
+      options:
+      - Late
+      - Delayed
+      - Timely
+      - Immediate
+      required: true
+    - id: 20
+      name: compliance_section
+      label: -- Compliance Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: coding_accuracy
+      label: Diagnostic and procedure coding accuracy
+      hint: null
+      type: select_one
+      options:
+      - Multiple errors
+      - Some errors
+      - Mostly accurate
+      - Fully accurate
+      required: true
+    - id: 22
+      name: compliance_violations
+      label: Compliance violations noted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recommendations_section
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: improvements_needed
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: strengths_noted
+      label: Documentation strengths
+      hint: null
+      type: text
+      options: []
+      required: false

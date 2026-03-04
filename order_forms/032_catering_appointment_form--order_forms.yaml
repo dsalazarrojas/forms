@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Appointment Form
+    pages:
+    - id: 1
+      name: client_basics_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_org_name
+      label: Company or Organization Name
+      hint: Leave blank for private events
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_appointment
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_appointment_date
+      label: Requested Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: Appointments are typically 45 minutes
+      type: select_one
+      options:
+      - Morning (9:00 AM - 11:00 AM)
+      - Lunchtime (12:00 PM - 1:00 PM)
+      - Afternoon (2:00 PM - 4:00 PM)
+      - Late Afternoon (4:00 PM - 5:30 PM)
+      required: true
+    - id: 9
+      name: appointment_type
+      label: Purpose of the Appointment
+      hint: null
+      type: select_one
+      options:
+      - Initial Consultation
+      - Menu Tasting
+      - Venue Site Visit
+      - Final Logistics Meeting
+      - Contract Signing
+      required: true
+    - id: 10
+      name: section_event_details
+      label: -- Preliminary Event Details --
+      hint: Help us prepare for the meeting
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: estimated_event_date
+      label: Estimated Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Gala
+      - Business Lunch/Meeting
+      - Birthday/Private Party
+      - Memorial Service
+      - Other
+      required: true
+    - id: 13
+      name: expected_guest_count
+      label: Estimated Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: budget_estimate
+      label: Estimated Catering Budget
+      hint: Optional
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: venue_name_location
+      label: Event Venue (if already booked)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specific_meeting_goals
+      label: What would you like to focus on during this meeting
+      hint: null
+      type: text
+      options: []
+      required: false

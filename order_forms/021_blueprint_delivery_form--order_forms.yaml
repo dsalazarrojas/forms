@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blueprint Delivery Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Delivery Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name for contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project name
+      hint: Reference project identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery address
+      hint: Where blueprints should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_copies
+      label: Number of copies
+      hint: Whole number of copies required
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: paper_type
+      label: Paper type
+      hint: Choose paper specification
+      type: select_one
+      options:
+      - Standard bond
+      - Heavy duty
+      - Waterproof
+      required: true
+    - id: 7
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Date for delivery
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for delivery queries
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any special handling instructions
+      type: text
+      options: []
+      required: false

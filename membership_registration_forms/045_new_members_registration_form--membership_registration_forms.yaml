@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Members Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter your first name.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_type
+      label: Member Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: member_since
+      label: Member Since
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: Please enter any additional information.
+      type: note
+      options: []
+      required: false

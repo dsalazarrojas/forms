@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Rewards Program Enrollment
+    pages:
+    - id: 1
+      name: program_title
+      label: travel_rewards_program_enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_opt_in
+      label: receive_travel_updates
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 6
+      name: preferred_travel_frequency
+      label: how_often_travel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''daily'', ''label'': ''daily''}'
+      - '{''value'': ''weekly'', ''label'': ''weekly''}'
+      - '{''value'': ''monthly'', ''label'': ''monthly''}'
+      - '{''value'': ''quarterly'', ''label'': ''quarterly''}'
+      - '{''value'': ''yearly'', ''label'': ''yearly''}'
+      required: true
+    - id: 7
+      name: program_segment
+      label: what_segment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''loyalty'', ''label'': ''loyalty''}'
+      - '{''value'': ''referral'', ''label'': ''referral''}'
+      - '{''value'': ''partner'', ''label'': ''partner''}'
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: travel_preferences
+      label: travel_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''beach'', ''label'': ''beach''}'
+      - '{''value'': ''city'', ''label'': ''city''}'
+      - '{''value'': ''cultural'', ''label'': ''cultural''}'
+      - '{''value'': ''nature'', ''label'': ''nature''}'
+      - '{''value'': ''adventure'', ''label'': ''adventure''}'
+      - '{''value'': ''history'', ''label'': ''history''}'
+      required: false
+    - id: 13
+      name: other_travel_preferences
+      label: other_travel_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''foodie'', ''label'': ''foodie''}'
+      - '{''value'': ''shopping'', ''label'': ''shopping''}'
+      - '{''value'': ''sports'', ''label'': ''sports''}'
+      - '{''value'': ''outdoor'', ''label'': ''outdoor''}'
+      - '{''value'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 14
+      name: travel_style
+      label: travel_style
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''luxury'', ''label'': ''luxury''}'
+      - '{''value'': ''budget'', ''label'': ''budget''}'
+      - '{''value'': ''adventure'', ''label'': ''adventure''}'
+      - '{''value'': ''relaxation'', ''label'': ''relaxation''}'
+      - '{''value'': ''cultural'', ''label'': ''cultural''}'
+      - '{''value'': ''nature'', ''label'': ''nature''}'
+      required: true

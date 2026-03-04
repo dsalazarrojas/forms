@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: RBA Business Card Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_multiple
+      options:
+      - Card Type
+      - Card Size
+      - Card Material
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: color
+      label: card_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Color
+      required: false
+    - id: 10
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - Custom
+      - Standard
+      required: false
+    - id: 11
+      name: custom_image
+      label: custom_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: custom_message
+      label: custom_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: custom_image_url
+      label: custom_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - Custom
+      - Standard
+      required: false
+    - id: 15
+      name: card_size
+      label: card_size
+      hint: null
+      type: select_one
+      options:
+      - US Business
+      - Square
+      - Standard
+      required: false
+    - id: 16
+      name: card_material
+      label: card_material
+      hint: null
+      type: select_one
+      options:
+      - Plastic
+      - PVC
+      - Paper
+      required: false
+    - id: 17
+      name: finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - Glossy
+      - Matte
+      - Embossed
+      required: false
+    - id: 18
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - In Review
+      - In progress
+      - Completed
+      required: false
+    - id: 19
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false

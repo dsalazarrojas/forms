@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Box Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_info
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: box_type
+      label: Christmas Box Type
+      hint: null
+      type: select_one
+      options:
+      - Classic Gift Box
+      - Deluxe Holiday Bundle
+      - Gourmet Treats Box
+      - DIY Craft Kit
+      - Family Entertainment Box
+      - Premium Selection
+      required: true
+    - id: 15
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: customization
+      label: Box Customization Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personalized message card
+      - Gift wrapping
+      - Express shipping
+      - Theme-specific items
+      - Eco-friendly packaging
+      required: false
+    - id: 17
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Any dietary restrictions or allergies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: gift_message
+      label: Gift Message
+      hint: Max 200 characters
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_info
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Other
+      required: true

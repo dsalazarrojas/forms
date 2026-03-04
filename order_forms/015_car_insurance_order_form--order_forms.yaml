@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Order Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_dob
+      label: Date of Birth
+      hint: To determine age-based rates
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: For policy delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: Primary contact for the order
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model_order
+      label: Car Make and Model
+      hint: Describe your car
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year_order
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_vin_order
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_vehicle_use
+      label: Primary Vehicle Use
+      hint: How is the vehicle used?
+      type: select_one
+      options:
+      - Personal/Commute
+      - Business
+      - Rideshare
+      - Pleasure/Weekend
+      required: true
+    - id: 11
+      name: annual_mileage_estimate
+      label: Estimated Annual Mileage
+      hint: How many miles do you drive per year?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: coverage_options_header
+      label: -- Coverage Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: coverage_level_preference
+      label: Desired Coverage Level
+      hint: Select your preferred level of coverage
+      type: select_one
+      options:
+      - Liability Only
+      - Standard Full Coverage
+      - Premium Full Coverage
+      - Comprehensive Only
+      required: true
+    - id: 14
+      name: deductible_preference
+      label: Preferred Deductible Amount
+      hint: Select your preferred deductible
+      type: select_one
+      options:
+      - $250
+      - $500
+      - $1,000
+      - $2,500
+      required: true
+    - id: 15
+      name: additional_coverage_options
+      label: Additional Coverage Options
+      hint: Select any additional coverage options
+      type: select_multiple
+      options:
+      - Roadside Assistance
+      - Rental Car Reimbursement
+      - Gap Insurance
+      - Glass Protection
+      required: false
+    - id: 16
+      name: order_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: order_acknowledgement
+      label: I acknowledge the insurance order terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: signature_confirmation_order
+      label: Type your name for insurance order confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_order_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the order
+      type: text
+      options: []
+      required: false

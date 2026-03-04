@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Charger Installation Order Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Company Name
+      hint: Enter company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Enter contact name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Enter company address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: Enter contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: installation_date
+      label: Installation Date
+      hint: Enter installation date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Enter vehicle make
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Enter vehicle model
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: charger_type
+      label: Charger Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter additional comments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: charger_rating
+      label: Charger Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_signature
+      label: Customer Signature
+      hint: Enter customer signature
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: company_signature
+      label: Company Signature
+      hint: Enter company signature
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Done
+      required: true
+    - id: 19
+      name: installation_comments
+      label: Installation Comments
+      hint: Enter installation comments
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: charger_notes
+      label: Charger Notes
+      hint: Enter charger notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_rating
+      label: Customer Rating
+      hint: Enter customer rating
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: charger_status
+      label: Charger Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 23
+      name: installation_date_range
+      label: Installation Date Range
+      hint: Enter installation date range
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

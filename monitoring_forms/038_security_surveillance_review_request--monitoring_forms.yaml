@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Surveillance Review Request
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: request_video_review
+      label: Request Video Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: video_location
+      label: Video Location
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_requestor
+      label: Review Requestor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: review_requestor_note
+      label: Review Requestor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_note
+      label: Reviewer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: security_teams
+      label: Security Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: offices
+      label: Offices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: campuses
+      label: Campuses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: facilities_note
+      label: Facilities Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: offices_note
+      label: Offices Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: campuses_note
+      label: Campuses Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: incident_subcategory
+      label: Incident Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

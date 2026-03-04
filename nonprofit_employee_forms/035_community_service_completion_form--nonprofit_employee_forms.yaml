@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Completion Form
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_info
+      label: Service Information
+      hint: Details about your service
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: organization_name
+      label: Organization Name
+      hint: Where you served
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Who supervised you
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Community Outreach
+      - Environmental Cleanup
+      - Food Service
+      - Youth Mentoring
+      - Senior Assistance
+      - Healthcare Support
+      - Education Support
+      - Animal Care
+      - Disaster Relief
+      - Other
+      required: true
+    - id: 18
+      name: service_description
+      label: Service Description
+      hint: What did you do
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: hours_section
+      label: Service Hours
+      hint: Track your time
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: total_hours
+      label: Total Hours Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: schedule
+      label: Service Schedule
+      hint: When did you serve
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday
+      - Sunday
+      required: false
+    - id: 24
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Partially Completed
+      - Discontinued
+      required: true
+    - id: 25
+      name: performance_rating
+      label: Supervisor Performance Rating
+      hint: To be completed by supervisor
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 26
+      name: skills_demonstrated
+      label: Skills Demonstrated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leadership
+      - Teamwork
+      - Communication
+      - Problem Solving
+      - Time Management
+      - Initiative
+      - Reliability
+      - Compassion
+      required: false
+    - id: 27
+      name: reflection
+      label: What Did You Learn from This Experience
+      hint: Your reflection
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: would_continue
+      label: Would You Continue Volunteering
+      hint: null
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Yes - Possibly
+      - Not Sure
+      - Probably Not
+      - false
+      required: false
+    - id: 29
+      name: recommend_others
+      label: Would You Recommend This to Others
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 30
+      name: verification
+      label: Verification
+      hint: Signatures
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: volunteer_signature
+      label: Volunteer Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type supervisor full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: supervisor_date
+      label: Supervisor Date
+      hint: null
+      type: date
+      options: []
+      required: true

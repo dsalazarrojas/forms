@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Shop Tasting Membership Form
+    pages:
+    - id: 1
+      name: section_member
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For membership communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_membership
+      label: -- Membership Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_tier
+      label: Membership Tier
+      hint: Choose your membership level
+      type: select_one
+      options:
+      - Silver - Quarterly Tastings
+      - Gold - Monthly Tastings
+      - Platinum - Exclusive Monthly
+      - Premium - Weekly Access
+      required: true
+    - id: 9
+      name: start_date
+      label: Membership Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: duration
+      label: Membership Duration
+      hint: null
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - Ongoing
+      required: true
+    - id: 11
+      name: section_preferences
+      label: -- Tasting Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coffee_experience
+      label: Coffee Experience Level
+      hint: Your familiarity with coffee
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Connoisseur
+      required: true
+    - id: 13
+      name: roast_preferences
+      label: Roast Preferences
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Light Roast
+      - Medium Roast
+      - Dark Roast
+      - All equally
+      required: true
+    - id: 14
+      name: origin_preferences
+      label: Preferred Origins
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Latin America
+      - Africa
+      - Asia-Pacific
+      - Single Origin
+      - Blends
+      required: true
+    - id: 15
+      name: section_notes
+      label: -- Tasting Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: flavor_interest
+      label: Flavor Profiles of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Fruity
+      - Chocolate
+      - Nutty
+      - Floral
+      - Spicy
+      - Earthy
+      - Sweet
+      - Bold
+      required: true
+    - id: 17
+      name: section_schedule
+      label: -- Schedule Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: tasting_day_preference
+      label: Preferred Tasting Day
+      hint: null
+      type: select_one
+      options:
+      - Weekday morning
+      - Weekday afternoon
+      - Weekend morning
+      - Weekend afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 19
+      name: group_size
+      label: Will you attend alone or with others
+      hint: null
+      type: select_one
+      options:
+      - Alone
+      - With 1 other person
+      - Small group (3-4 people)
+      - Larger group
+      required: false
+    - id: 20
+      name: section_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: membership_goals
+      label: What are your membership goals
+      hint: null
+      type: select_multiple
+      options:
+      - Learn about coffee origins
+      - Improve tasting skills
+      - Discover new favorites
+      - Social engagement
+      - Educational development
+      required: true
+    - id: 22
+      name: section_allergies
+      label: -- Special Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies or Restrictions
+      hint: Any dietary or health considerations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Monthly Billing
+      required: true

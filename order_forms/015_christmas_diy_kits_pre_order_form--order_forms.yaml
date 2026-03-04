@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas DIY Kits Pre Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_section
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: kit_selection
+      label: -- DIY Kit Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: kit_type
+      label: DIY Kit Type
+      hint: null
+      type: select_one
+      options:
+      - Ornament Making Kit
+      - Wreath Assembly Kit
+      - Cookie Decorating Kit
+      - Candle Making Kit
+      - Holiday Craft Bundle
+      - Premium Kit Collection
+      required: true
+    - id: 14
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Family-friendly
+      required: true
+    - id: 15
+      name: quantity
+      label: Quantity to Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: personalization
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: personalize
+      label: Would you like to personalize this kit?
+      hint: null
+      type: select_one
+      options:
+      - Yes, with custom name
+      - Yes, with custom message
+      - No personalization needed
+      required: false
+    - id: 18
+      name: custom_text
+      label: Custom Text or Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: color_preference
+      label: Color Preferences
+      hint: null
+      type: select_one
+      options:
+      - Traditional red and green
+      - Silver and gold
+      - Blue and white
+      - Multi-color
+      - No preference
+      required: false
+    - id: 20
+      name: delivery_section
+      label: -- Delivery & Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Overnight
+      - Local pickup
+      required: true
+    - id: 23
+      name: gift_wrapping
+      label: Gift Wrapping Service
+      hint: null
+      type: select_one
+      options:
+      - Yes, standard wrapping
+      - Yes, premium wrapping
+      - No, thank you
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      required: true

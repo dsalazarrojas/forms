@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soundproofing Material Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: material_amount
+      label: material_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material_unit
+      label: material_unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''credit_card''}'
+      - '{''id'': 2, ''label'': ''bank_transfer''}'
+      - '{''id'': 3, ''label'': ''cash''}'
+      required: false
+    - id: 10
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''paid''}'
+      - '{''id'': 2, ''label'': ''unpaid''}'
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: customer_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: customer_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: customer_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions_2
+      label: special_instructions_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_ship_to
+      label: ship_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: beer_style_1
+      label: Beer Style - First Selection
+      hint: null
+      type: select_one
+      options:
+      - IPA
+      - Lager
+      - Stout
+      - Porter
+      - Wheat Beer
+      - Pilsner
+      - Amber Ale
+      - Blonde Ale
+      - Sour Beer
+      - Other
+      required: true
+    - id: 8
+      name: beer_brand_1
+      label: Beer Brand - First Selection
+      hint: Brewery or brand name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: package_type_1
+      label: Package Type - First Selection
+      hint: null
+      type: select_one
+      options:
+      - 6-Pack Cans
+      - 12-Pack Cans
+      - 6-Pack Bottles
+      - 12-Pack Bottles
+      - Case (24)
+      - Keg
+      - Other
+      required: true
+    - id: 10
+      name: quantity_1
+      label: Quantity - First Selection
+      hint: Number of packages
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: beer_style_2
+      label: Beer Style - Second Selection
+      hint: null
+      type: select_one
+      options:
+      - IPA
+      - Lager
+      - Stout
+      - Porter
+      - Wheat Beer
+      - Pilsner
+      - Amber Ale
+      - Blonde Ale
+      - Sour Beer
+      - Other
+      required: false
+    - id: 12
+      name: beer_brand_2
+      label: Beer Brand - Second Selection
+      hint: Brewery or brand name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: package_type_2
+      label: Package Type - Second Selection
+      hint: null
+      type: select_one
+      options:
+      - 6-Pack Cans
+      - 12-Pack Cans
+      - 6-Pack Bottles
+      - 12-Pack Bottles
+      - Case (24)
+      - Keg
+      - Other
+      required: false
+    - id: 14
+      name: quantity_2
+      label: Quantity - Second Selection
+      hint: Number of packages
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Temperature requirements, handling notes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: age_verification
+      label: I confirm that all recipients are 21 years or older
+      hint: Required by law
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Cash on Delivery
+      required: true

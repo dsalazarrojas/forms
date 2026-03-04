@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Flower Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_amount
+      label: Product Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tax
+      label: Tax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Phone
+      required: true
+    - id: 13
+      name: order_method
+      label: Order Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Phone
+      - In-person
+      required: true
+    - id: 14
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - NY
+      - TX
+      required: true
+    - id: 20
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

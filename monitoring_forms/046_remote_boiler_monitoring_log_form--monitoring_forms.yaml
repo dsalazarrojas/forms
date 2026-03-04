@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Boiler Monitoring Log Form
+    pages:
+    - id: 1
+      name: remote_boiler_monitoring_log_form_page_1
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: boiler_id
+      label: Boiler
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      required: true
+    - id: 3
+      name: location_id
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: check_interval
+      label: Check Interval
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_assigned
+      label: Form Assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: boiler_name
+      label: Boiler Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: location_code
+      label: Location Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: building_code
+      label: Building Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
+      - '{''label'': ''Pending'', ''value'': ''Pending''}'
+      required: true
+    - id: 21
+      name: active_status
+      label: Active Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: active_status_notes
+      label: Active Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: active_status_notes
+      label: Active Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: active_status_reason
+      label: Active Status Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: active_status_notes_reason
+      label: Active Status Reason Notes
+      hint: null
+      type: note
+      options: []
+      required: false

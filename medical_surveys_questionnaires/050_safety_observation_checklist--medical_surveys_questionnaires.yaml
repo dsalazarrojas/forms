@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Observation Checklist
+    pages:
+    - id: 1
+      name: patient_handling
+      label: Patient Handling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: observation_method
+      label: Observation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Direct Observation''}'
+      - '{''label'': ''Review of Record''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Conducted''}'
+      - '{''label'': ''Not Conducted''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 5
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: vital_signs_trend
+      label: Vital Signs Trend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medication_refilled
+      label: Medication Refilled
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 9
+      name: medication_status
+      label: Medication Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Administered''}'
+      - '{''label'': ''Not Administered''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 10
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Stable''}'
+      - '{''label'': ''Unstable''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 11
+      name: patient_risks
+      label: Patient Risks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Stable''}'
+      - '{''label'': ''Unstable''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 12
+      name: patient_care
+      label: Patient Care
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Complete''}'
+      - '{''label'': ''Not Started''}'
+      required: false
+    - id: 13
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stable''}'
+      - '{''label'': ''Stable''}'
+      - '{''label'': ''Unstable''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 14
+      name: patient_condition_trend
+      label: Patient Condition Trend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medication_administered_trend
+      label: Medication Administered Trend
+      hint: null
+      type: number
+      options: []
+      required: false

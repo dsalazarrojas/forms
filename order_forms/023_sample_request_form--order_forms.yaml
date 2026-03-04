@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: example_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: product_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_3
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: example_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: example_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: example_request_note
+      hint: null
+      type: note
+      options: []
+      required: false

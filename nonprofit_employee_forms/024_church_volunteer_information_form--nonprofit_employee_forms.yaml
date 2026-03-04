@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Volunteer Information Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_volunteer_info
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: volunteer_commitment
+      label: Volunteer Commitment Level
+      hint: null
+      type: select_one
+      options:
+      - Long-term
+      - Seasonal
+      - Occasional
+      - One-time event
+      - Flexible
+      required: true
+    - id: 19
+      name: hours_per_week
+      label: Anticipated Hours per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_header_skills
+      label: -- Skills and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_skills
+      label: Skills and Talents (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching
+      - Music
+      - Counseling
+      - Event planning
+      - Construction or repairs
+      - Childcare
+      - Administrative work
+      - Cooking
+      - Hospitality
+      - Other
+      required: false
+    - id: 22
+      name: previous_volunteer_experience
+      label: Previous Volunteer or Ministry Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_ministry_interests
+      label: -- Ministry Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: ministry_areas
+      label: Areas of Ministry Interest (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Worship and music
+      - Youth ministry
+      - Children's ministry
+      - Adult education
+      - Community outreach
+      - Hospitality
+      - Administration
+      - Facilities maintenance
+      - Pastoral care
+      - Mission work
+      required: true
+    - id: 25
+      name: specific_role_interest
+      label: Specific Role or Position Interested In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: reference_1_name
+      label: Reference Name 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: reference_1_phone
+      label: Reference Phone 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: reference_1_relationship
+      label: Reference Relationship 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_header_agreements
+      label: -- Agreements and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: background_check_consent
+      label: Consent to Background Check (if required)
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      - Not applicable
+      required: true

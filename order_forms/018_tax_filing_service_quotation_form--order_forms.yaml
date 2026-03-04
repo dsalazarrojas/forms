@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Service Quotation Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: tax_professional_name
+      label: Tax Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_quote
+      label: Service Quote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: client_service_quote_type
+      label: Client Service Quote Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      required: false
+    - id: 11
+      name: service_quote
+      label: Service Quote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: service_quote_breakdown
+      label: Service Quote Breakdown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

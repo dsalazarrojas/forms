@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Receipt Form
+    pages:
+    - id: 1
+      name: merchant_forms_refund_receipt_form
+      label: Refund Receipt Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_refund_amount
+      label: Customer Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: merchant_refund_amount
+      label: Merchant Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_refund_method
+      label: Refund Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: merchant_notes
+      label: Merchant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: merchant_comments
+      label: Merchant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: refund_id
+      label: Refund ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: merchant_name
+      label: Merchant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_order_id
+      label: Customer Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: customer_ip
+      label: Customer IP
+      hint: null
+      type: text
+      options: []
+      required: false

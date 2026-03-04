@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_holder_information_form
+    pages:
+    - id: 1
+      name: cardholder_info
+      label: credit_card_holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credit_card_number
+      label: credit_card_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 4
+      name: expiration_year
+      label: expiration_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cvv
+      label: cvv
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cvv_confirmation
+      label: cvv_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: card_type
+      label: card_type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Diners Club
+      - Discover
+      - JCB
+      - Maestro
+      - SOLO
+      - Union Pay
+      - Electron
+      - Other
+      required: false

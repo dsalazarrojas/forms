@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Onboarding Questionnaire
+    pages:
+    - id: 1
+      name: supplier_details
+      label: Supplier Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_status
+      label: onboarding-status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_id
+      label: tax-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: business-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Company''}'
+      - '{''id'': 2, ''label'': ''Individual''}'
+      - '{''id'': 3, ''label'': ''Partnership''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Landline''}'
+      - '{''id'': 2, ''label'': ''Mobile''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false

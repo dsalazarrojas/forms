@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moving Service Pre Screening Form
+    pages:
+    - id: 1
+      name: moving_service_pre_screening_form
+      label: Moving Service Pre Screening Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: move_type
+      label: Type of Move
+      hint: null
+      type: select_one
+      options:
+      - in-house move
+      - out-of-state move
+      - out-of-country move
+      required: true
+    - id: 4
+      name: move_details
+      label: Move Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: moving_dates
+      label: Moving Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: moving_times
+      label: Moving Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: moving_from
+      label: Moving From
+      hint: null
+      type: select_multiple
+      options:
+      - apartment
+      - house
+      - condo
+      required: true
+    - id: 8
+      name: moving_to
+      label: Moving To
+      hint: null
+      type: select_multiple
+      options:
+      - apartment
+      - house
+      - condo
+      required: true
+    - id: 9
+      name: moving_distance
+      label: Moving Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: moving_estimate
+      label: Moving Estimate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      required: true
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: move_date
+      label: Move Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: move_time
+      label: Move Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: move_comments
+      label: Move Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: move_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: move_building
+      label: Building
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: move_room
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: move_floor
+      label: Floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: move_elevator
+      label: Elevator
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: move_stairs
+      label: Stairs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: move_elevator_access
+      label: Elevator Access
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: move_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: moving_company
+      label: Moving Company
+      hint: null
+      type: select_one
+      options:
+      - ABC Movers
+      - DEF Movers
+      - GHI Movers
+      required: true

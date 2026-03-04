@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: diamond jewelry order form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - mastercard
+      - paypal
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: direct_debit_authorization_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_instructions
+      label: Form Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: branch_number
+      label: Branch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Savings/Check
+      required: false
+    - id: 12
+      name: account_ending
+      label: Account Ending
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 13
+      name: debit_amount
+      label: Debit Amount
+      hint: null
+      type: select_multiple
+      options:
+      - '10'
+      - '20'
+      - '30'
+      required: false
+    - id: 14
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: recurring_frequency
+      label: Recurring Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 17
+      name: bank_transit
+      label: Bank Transit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: routing_number_ending
+      label: Routing Number Ending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: bank_name_ending
+      label: Bank Name Ending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_email_ending
+      label: Email Ending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_phone_ending
+      label: Phone Ending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: account_number_ending
+      label: Account Number Ending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: account_type_ending
+      label: Account Type Ending
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

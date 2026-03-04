@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_meal_kit_delivery_subscription_form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_city
+      label: User City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_state
+      label: User State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_zip
+      label: User Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_country
+      label: User Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meal_type
+      label: Meal Type
+      hint: null
+      type: select_multiple
+      options:
+      - Meal Kit
+      - Food Box
+      - Grocery Box
+      - Other
+      required: false
+    - id: 9
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Weekly
+      - Weekly
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit/Debit
+      - Cash
+      required: false
+    - id: 14
+      name: payment_cycle
+      label: Payment Cycle
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Monthly
+      - Bi-Monthly
+      required: false
+    - id: 16
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Trial
+      required: false
+    - id: 17
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

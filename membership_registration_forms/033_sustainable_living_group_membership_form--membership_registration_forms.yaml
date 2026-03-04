@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Living Group Membership Form
+    pages:
+    - id: 1
+      name: member_details
+      label: Membership Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sustainable_practices
+      label: Sustainable Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_groups
+      label: Member Groups
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signup_time
+      label: Signup Time
+      hint: null
+      type: time
+      options: []
+      required: false

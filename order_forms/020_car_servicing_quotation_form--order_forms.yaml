@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Servicing Quotation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_details
+      label: -- VEHICLE DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: registration_number
+      label: Registration number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_mileage
+      label: Current mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: servicing_request
+      label: -- SERVICING REQUEST --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_type
+      label: Type of service required
+      hint: null
+      type: select_one
+      options:
+      - Minor Service
+      - Major Service
+      - Interim Service
+      - Engine Overhaul
+      - Transmission Service
+      - Brake Service
+      - Full Inspection
+      - Other
+      required: true
+    - id: 13
+      name: specific_issues
+      label: Specific issues or concerns
+      hint: Any problems you have noticed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: service_history
+      label: Last service date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: parts_replacement_needed
+      label: Any parts replacement needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 16
+      name: parts_details
+      label: Details of parts needing replacement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fluids_check
+      label: Fluid checks and refills required?
+      hint: Oil, coolant, brake fluid, etc.
+      type: select_one
+      options:
+      - Yes - All
+      - Yes - Specific
+      - false
+      - Not Sure
+      required: false
+    - id: 18
+      name: warranty_coverage
+      label: Warranty coverage status
+      hint: null
+      type: select_one
+      options:
+      - Under Warranty
+      - Out of Warranty
+      - Extended Warranty
+      - Unknown
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Service urgency
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Standard
+      - Routine
+      - Flexible
+      required: false
+    - id: 20
+      name: preferred_completion_date
+      label: Preferred completion date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: quotation_details
+      label: -- QUOTATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estimated_labor_cost
+      label: Estimated labor cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: estimated_parts_cost
+      label: Estimated parts cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: additional_fees
+      label: Any additional fees or charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: quotation_validity
+      label: Quotation validity period
+      hint: How long is this quote valid?
+      type: select_one
+      options:
+      - 7 days
+      - 14 days
+      - 30 days
+      - 60 days
+      - Custom
+      required: false

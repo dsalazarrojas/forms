@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: STRENGTH EMPIRE Consult Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Welcome to Strength Empire Consult Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goal
+      label: What are your goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: goal_date
+      label: When do you want to achieve them by?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: goal_frequency
+      label: How often do you train?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1-2 times a week
+      - Less than once a week
+      - Never
+      required: true
+    - id: 8
+      name: training_type
+      label: What type of training do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - Strength
+      - Cardio
+      - Endurance
+      - Flexibility
+      - Other
+      required: true
+    - id: 9
+      name: training_level
+      label: What level of training experience do you have?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      required: true
+    - id: 10
+      name: available_time
+      label: What time of day do you have available?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: availability
+      label: How many hours a week are you willing to commit?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Is there anything else you'd like to add?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: goal_frequency_2
+      label: How many times a week do you work out?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 2
+      - 2-3 times
+      - 3-4 times
+      - 4-5 times
+      required: true
+    - id: 14
+      name: training_level_2
+      label: What level of training experience do you have?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      - Other
+      required: true
+    - id: 15
+      name: notes_2
+      label: Any additional thoughts?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_2
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone_2
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: goal_2
+      label: Goal 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: goal_date_2
+      label: Goal 2 Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: goal_frequency_2
+      label: Goal 2 Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1-2 times a week
+      - Less than once a week
+      - Never
+      required: true
+    - id: 21
+      name: goal_frequency_3
+      label: Frequency 3
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1-2 times a week
+      - Less than once a week
+      - Never
+      required: true
+    - id: 22
+      name: goal_frequency_4
+      label: Frequency 4
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1-2 times a week
+      - Less than once a week
+      - Never
+      required: true
+    - id: 23
+      name: goal_frequency_5
+      label: Frequency 5
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1-2 times a week
+      - Less than once a week
+      - Never
+      required: true
+    - id: 24
+      name: goal_frequency_6
+      label: Frequency 6
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - 1-2 times a week
+      - Less than once a week
+      - Never
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

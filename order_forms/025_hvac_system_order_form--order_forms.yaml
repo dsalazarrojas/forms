@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_system_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_address
+      label: Job Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: Briefly describe the job
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: heating_or_cooling_systems
+      label: Heating or Cooling Systems
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: heating_systems
+      label: Heating Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cooling_systems
+      label: Cooling Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: hvac_type
+      label: Type of HVAC System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: hvac_size
+      label: HVAC System Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: system_components
+      label: System Components
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: heating_components
+      label: Heating Components
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: cooling_components
+      label: Cooling Components
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: job_date
+      label: Job Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: job_time
+      label: Job Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: job_priority
+      label: Job Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: hvac_job_type
+      label: HVAC Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: job_subtype
+      label: Job Subtype
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: job_subsubtype
+      label: Job Subtype
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

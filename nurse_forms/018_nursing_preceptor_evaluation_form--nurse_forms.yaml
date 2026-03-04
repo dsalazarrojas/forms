@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Preceptor Evaluation Form
+    pages:
+    - id: 1
+      name: new_nurse_evaluation
+      label: New Nurse Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preceptor_support
+      label: Does the preceptor provide adequate support for the new nurse?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preceptor_effectiveness
+      label: Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      required: false
+    - id: 5
+      name: new_nurse_care
+      label: New Nurse's Care
+      hint: null
+      type: select_multiple
+      options:
+      - Safe
+      - Needs Improvement
+      - Needs a Lot of Improvement
+      required: false
+    - id: 6
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preceptor_suggestions
+      label: Preceptor Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preceptor_performance_comments
+      label: Preceptor Performance Comments
+      hint: null
+      type: note
+      options: []
+      required: false

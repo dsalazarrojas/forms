@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Select Your Internet Data Bundle
+    pages:
+    - id: 1
+      name: form_select_your_internet_data_bundle
+      label: Choose A Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Gigabytes 100
+      - Gigabytes 1000
+      - Gigabytes 10
+      - Gigabytes 1
+      required: false
+    - id: 2
+      name: form_plan_type
+      label: Select Your Plan Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      required: false
+    - id: 3
+      name: form_data_bundle
+      label: Data Bundle
+      hint: null
+      type: select_multiple
+      options:
+      - 1 Month
+      - 2 Months
+      - 3 Months
+      - 4 Months
+      - 5 Months
+      - 6 Months
+      - 7 Months
+      - 8 Months
+      - 9 Months
+      - 10 Months
+      - 11 Months
+      - 12 Months
+      required: false
+    - id: 4
+      name: form_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Management Audit Form
+    pages:
+    - id: 1
+      name: volunteer_programs
+      label: Volunteer Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_areas
+      label: Program Areas
+      hint: What program areas are you involved in?
+      type: select_one
+      options:
+      - '{''option_1'': None}'
+      - '{''option_2'': None}'
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: positive_experience
+      label: Positive Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false

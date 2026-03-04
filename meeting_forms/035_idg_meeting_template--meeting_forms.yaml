@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: idg_meeting_template
+    pages:
+    - id: 1
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: meeting_time
+      label: meeting_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: goal_of_meeting
+      label: goal_of_meeting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: action_item
+      label: action_item
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      required: true
+    - id: 10
+      name: action_item_note
+      label: action_item_note
+      hint: null
+      type: text
+      options: []
+      required: false

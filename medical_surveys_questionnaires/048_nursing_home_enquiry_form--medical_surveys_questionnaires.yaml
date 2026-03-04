@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Home Enquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: enquiry_time
+      label: Best Time to Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: type_of_enquiry
+      label: Type of Enquiry
+      hint: null
+      type: select_one
+      options:
+      - New enquiry
+      - Follow-up enquiry
+      - Other
+      required: false
+    - id: 6
+      name: message
+      label: Customer's Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: signal_quality_assessment_form
+    pages:
+    - id: 1
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: signal_strength
+      label: signal_strength
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: noise_level
+      label: noise_level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 5
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location_coordinates
+      label: Location Coordinates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renal Function Exam Intake Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical record number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone_number
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: goals_for_visit
+      label: Goals for visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_condition
+      label: Medical condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: medical_condition_other
+      label: Other medical condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: question
+      label: Question
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: insurance_provider
+      label: Insurance provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: insurance_number
+      label: Insurance number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: insurance_dentist
+      label: Insurance dentist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_relationship
+      label: Contact relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: blood_test
+      label: Blood test
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: blood_test_date
+      label: Blood test date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: blood_test_results
+      label: Blood test results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: kidney_function_test_date
+      label: Kidney function test date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: kidney_function_test_results
+      label: Kidney function test results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

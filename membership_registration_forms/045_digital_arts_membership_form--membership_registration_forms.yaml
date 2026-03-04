@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Arts Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Arts Member
+      - Patron Member
+      required: false
+    - id: 7
+      name: join_date
+      label: Join Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: artist_statement
+      label: Artist Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: artist_statement_length
+      label: Artist Statement Length
+      hint: null
+      type: select_one
+      options:
+      - 1-1000 words
+      - 1-500 words
+      - 500-1000 words
+      required: false
+    - id: 10
+      name: art_form_submissions
+      label: Art Form Submissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: art_submission_date
+      label: Art Submisssion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

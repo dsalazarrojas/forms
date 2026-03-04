@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Rotary Club Membership Application Form
+    pages:
+    - id: 1
+      name: application_reason
+      label: Application Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: previous_affiliations
+      label: Previous Affiliations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_joining
+      label: Reason for Joining
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Membership benefits''}'
+      - '{''label'': ''Volunteer opportunities''}'
+      - '{''label'': ''Networking''}'
+      required: false
+    - id: 4
+      name: privileges
+      label: Privileges
+      hint: You will have the opportunity to participate in community service projects,
+        leadership development, and networking events.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: responsibilities
+      label: Responsibilities
+      hint: You are expected to pay dues, attend regular meetings, and participate
+        in club events.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''name'', ''label'': ''Name'', ''value'': ''name''}'
+      - '{''name'': ''email'', ''label'': ''Email'', ''value'': ''email''}'
+      - '{''name'': ''phone'', ''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 7
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

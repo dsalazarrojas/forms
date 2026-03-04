@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Party Membership Form
+    pages:
+    - id: 1
+      name: new_member
+      label: New Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: party_info
+      label: Party Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Volunteer
+      - Officer
+      required: true
+    - id: 8
+      name: member_since
+      label: Member Since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Full Member
+      - Associate Member
+      required: true
+    - id: 11
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bronze
+      - Silver
+      required: true
+    - id: 12
+      name: membership_notes
+      label: Membership Notes
+      hint: null
+      type: note
+      options: []
+      required: false

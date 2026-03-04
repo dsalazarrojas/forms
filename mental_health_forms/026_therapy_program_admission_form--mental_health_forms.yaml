@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Program Admission Form
+    pages:
+    - id: 1
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: therapist_phone
+      label: Therapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: practice_address
+      label: Practice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: practice_phone
+      label: Practice Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_consent
+      label: Patient Consent
+      hint: Please sign below to confirm your agreement
+      type: select_one
+      options:
+      - I understand and accept the above terms
+      - I do not understand the above terms
+      - I need help understanding the above terms
+      required: false
+    - id: 16
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Please read and sign below
+      - Please do not sign below
+      - I need help reading the above
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: therapist_agreement
+      label: Therapist Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Please read and sign
+      - Please do not sign
+      - I need help reading the above
+      required: false
+    - id: 22
+      name: practice_agreement
+      label: Practice Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Please read and sign
+      - Please do not sign
+      - I need help reading the above
+      required: false
+    - id: 23
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Please read and sign
+      - Please do not sign
+      - I need help reading the above
+      required: false
+    - id: 24
+      name: email_consent
+      label: Email Consent
+      hint: Please enter your email
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - I need help understanding the above
+      required: false
+    - id: 25
+      name: email_agreement
+      label: Email Agreement
+      hint: Please enter your email address
+      type: text
+      options: []
+      required: false

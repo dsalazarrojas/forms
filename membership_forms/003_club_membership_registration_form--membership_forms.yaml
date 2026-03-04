@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Membership Registration Form
+    pages:
+    - id: 1
+      name: member_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: Email Address
+      hint: Primary contact email for club communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_postal_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: Select the membership level you want
+      type: select_one
+      options:
+      - Basic Member
+      - Premium Member
+      - VIP Member
+      - Student Member
+      - Senior Member
+      - Family Membership
+      - Corporate Membership
+      required: true
+    - id: 11
+      name: membership_duration
+      label: Membership Duration
+      hint: How long do you want your membership
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Lifetime
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: interests
+      label: Club Interests
+      hint: Select activities you are interested in
+      type: select_multiple
+      options:
+      - Social Events
+      - Sports Activities
+      - Educational Workshops
+      - Networking
+      - Volunteer Opportunities
+      - Cultural Events
+      - Outdoor Adventures
+      - Arts and Crafts
+      required: false
+    - id: 16
+      name: how_heard_about_club
+      label: How Did You Hear About Us
+      hint: Help us improve our outreach
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Website
+      - Flyer or Poster
+      - Event
+      - Online Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or dietary needs for events
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For club merchandise
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not Applicable
+      required: false
+    - id: 19
+      name: terms_conditions
+      label: I Agree to Club Terms and Conditions
+      hint: By accepting you agree to follow club rules
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 20
+      name: privacy_policy
+      label: I Accept the Privacy Policy
+      hint: Your data will be used for club purposes only
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 21
+      name: newsletter_subscription
+      label: Subscribe to Newsletter
+      hint: Receive club updates and news
+      type: select_one
+      options:
+      - Yes Subscribe Me
+      - No Thanks
+      required: false
+    - id: 22
+      name: registration_date
+      label: Registration Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true

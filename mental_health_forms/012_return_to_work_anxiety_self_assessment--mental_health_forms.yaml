@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To Work Anxiety Self Assessment
+    pages:
+    - id: 1
+      name: return_to_work_anxiety_self_assessment_form
+      label: return_to_work_anxiety_self_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: anxiety_level
+      label: anxiety_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: anxiety_level_score
+      label: anxiety_level_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: anxiety_score
+      label: anxiety_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: return_to_work_anxiety
+      label: return_to_work_anxiety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concerns
+      label: concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Fear
+      - Stress
+      - Fatigue
+      - Insomnia
+      - Concentration
+      - Memory
+      - Sleep
+      - Irritability
+      - Mood
+      - Focus
+      - Motivation
+      - Self-esteem
+      - Self-confidence
+      required: true
+    - id: 7
+      name: return_to_work_support_needs
+      label: return_to_work_support_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Work-life balance
+      - Communication
+      - Social support
+      - Relaxation
+      - Mindfulness
+      - Physical activity
+      - Sleep hygiene
+      - Healthy eating
+      - Goal setting
+      - Time management
+      - Boundary setting
+      - Self-esteem
+      - Confidence
+      - Mindfulness
+      - Mindfulness and self-compassion
+      required: true
+    - id: 8
+      name: work_environment
+      label: work_environment
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home office
+      - Flexible work hours
+      - Work from home
+      - On-site
+      - Off-site
+      required: true
+    - id: 9
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Remote
+      - On-site
+      required: true
+    - id: 10
+      name: work_scheduling
+      label: work_scheduling
+      hint: null
+      type: select_one
+      options:
+      - Fixed hours
+      - Variable hours
+      - Flexible hours
+      - Flexible days
+      - Flexible weeks
+      required: true
+    - id: 11
+      name: work_location
+      label: work_location
+      hint: null
+      type: select_one
+      options:
+      - Office building
+      - Home office
+      - On-site
+      - Off-site
+      required: true
+    - id: 12
+      name: work_supervision
+      label: work_supervision
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - Colleague
+      - Manager
+      - None
+      required: true
+    - id: 13
+      name: support_team
+      label: support_team
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Manager
+      - Colleague
+      - Mental Health Team
+      - Other
+      required: true
+    - id: 14
+      name: return_to_work_anxiety_support_needed
+      label: return_to_work_anxiety_support_needed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: mental_health_referral
+      label: mental_health_referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 16
+      name: return_to_work_concerns
+      label: return_to_work_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Work schedule
+      - Workload
+      - Office noise
+      - Colleague relationships
+      - Office layout
+      - Office equipment
+      - Office climate
+      - Other
+      required: true
+    - id: 17
+      name: return_to_work_support_plan
+      label: return_to_work_support_plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

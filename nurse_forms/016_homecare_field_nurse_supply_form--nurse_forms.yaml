@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homecare Field Nurse Supply Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: form_page_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_supplies
+      label: medical_supplies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: agency_name
+      label: agency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nurse_signature
+      label: nurse_signature
+      hint: null
+      type: text
+      options: []
+      required: false

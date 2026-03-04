@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: customs_declaration_release_form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipper_details
+      label: Shipper Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customs_officials
+      label: Customs Officials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - in transit
+      - in transit
+      - delivered
+      - customs cleared
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

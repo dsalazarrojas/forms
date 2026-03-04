@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Termination Acknowledgment
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 5
+      name: confirmation_date
+      label: Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: termination_reasons
+      label: Termination Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Inactivity
+      - Financial
+      - Academic
+      - Other
+      required: true
+    - id: 7
+      name: termination_date_2
+      label: Termination Date 2
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: ASSP Toastmasters Club Member Survey Sep 2021
+    pages:
+    - id: 1
+      name: survey_intro
+      label: ASSP Toastmasters Club Member Survey September 2021
+      hint: Your feedback helps us improve our club experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_id
+      label: Member ID
+      hint: Enter your unique member identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_duration
+      label: How long have you been a member of our Toastmasters club
+      hint: Select the approximate duration of your membership
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 4
+      name: meeting_attendance
+      label: On average, how many meetings do you attend per month
+      hint: Select your typical monthly attendance
+      type: select_one
+      options:
+      - None
+      - 1-2
+      - 3-4
+      - All meetings
+      required: true
+    - id: 5
+      name: meeting_format_preference
+      label: Which meeting format do you prefer
+      hint: Select your preferred meeting format
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      - No preference
+      required: true
+    - id: 6
+      name: speech_opportunities_rating
+      label: How satisfied are you with the number of speaking opportunities at meetings
+      hint: Rate your satisfaction level from 1 (very dissatisfied) to 5 (very satisfied)
+      type: select_one
+      options:
+      - 1 - Very dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very satisfied
+      required: true
+    - id: 7
+      name: evaluation_quality_rating
+      label: How would you rate the quality of evaluations you receive
+      hint: Rate the quality of feedback from 1 (very poor) to 5 (excellent)
+      type: select_one
+      options:
+      - 1 - Very poor
+      - 2 - Poor
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 8
+      name: educational_value_rating
+      label: How valuable do you find the educational aspects of our club
+      hint: Rate the educational value from 1 (not valuable) to 5 (very valuable)
+      type: select_one
+      options:
+      - 1 - Not valuable
+      - 2 - Slightly valuable
+      - 3 - Moderately valuable
+      - 4 - Very valuable
+      - 5 - Extremely valuable
+      required: true
+    - id: 9
+      name: leadership_opportunities
+      label: Are you satisfied with the leadership opportunities available
+      hint: Select your level of satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: club_atmosphere_rating
+      label: How would you rate the overall atmosphere and culture of our club
+      hint: Rate the club atmosphere from 1 (poor) to 5 (excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: meeting_times_satisfaction
+      label: Are you satisfied with the current meeting times
+      hint: Select your satisfaction level
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: workshop_interest
+      label: Would you be interested in attending special workshops or training sessions
+      hint: Select your interest level
+      type: select_one
+      options:
+      - true
+      - definitely
+      - true
+      - possibly
+      - false
+      - not interested
+      required: true
+    - id: 13
+      name: improvement_areas
+      label: What areas would you like to see improved in our club (select all that
+        apply)
+      hint: Select the areas you think need improvement
+      type: select_multiple
+      options:
+      - Meeting structure
+      - Guest speakers
+      - Networking opportunities
+      - Meeting length
+      - Meeting location
+      - Communication
+      - Educational content
+      - Leadership development
+      required: false
+    - id: 14
+      name: online_resources_utilization
+      label: How often do you use Toastmasters International online resources
+      hint: Select your usage frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 15
+      name: mentor_assignment
+      label: Are you currently paired with a mentor
+      hint: Select if you have an assigned mentor
+      type: select_one
+      options:
+      - true
+      - false
+      - Not interested
+      required: false
+    - id: 16
+      name: mentoring_interest
+      label: Would you be interested in a mentoring program
+      hint: Select if you'd like to participate in mentoring
+      type: select_one
+      options:
+      - true
+      - as a mentee
+      - true
+      - as a mentor
+      - true
+      - as both
+      - false
+      required: false
+    - id: 17
+      name: special_interest_groups
+      label: Would you be interested in joining special interest groups
+      hint: Select the topics you're interested in
+      type: select_multiple
+      options:
+      - Leadership
+      - Storytelling
+      - Business presentations
+      - Technical speaking
+      - Humorous speaking
+      - Table Topics
+      - Advanced communication
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Share any other thoughts about our club
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommend_likelihood
+      label: How likely are you to recommend our club to others
+      hint: Rate likelihood from 0 (not at all likely) to 10 (extremely likely)
+      type: number
+      options: []
+      required: true

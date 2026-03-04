@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Accuracy Complaint Form
+    pages:
+    - id: 1
+      name: order_accuracy_complaint_form_1
+      label: Order accuracy form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_id
+      label: order id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: complaint_description
+      label: complaint description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_type
+      label: issue type
+      hint: null
+      type: select_one
+      options:
+      - Order was not received
+      - Product was not as expected
+      - Product is missing
+      - Product was damaged
+      - Other
+      required: false
+    - id: 10
+      name: issue_description
+      label: issue description
+      hint: Please describe your issue
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resolution_status
+      label: resolution status
+      hint: null
+      type: select_one
+      options:
+      - Not resolved
+      - Partially resolved
+      - Resolved
+      - On hold
+      required: false
+    - id: 12
+      name: resolution_details
+      label: resolution details
+      hint: Describe how it was resolved
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_actions
+      label: follow up actions
+      hint: null
+      type: select_multiple
+      options:
+      - Call customer
+      - Send follow-up email
+      - Schedule follow-up call
+      - Escalate issue
+      required: false
+    - id: 14
+      name: resolution_date
+      label: resolution date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: resolution_time
+      label: resolution time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: business_response
+      label: business response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_response
+      label: customer response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_details
+      label: follow up details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time
+      label: follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: business_response_status
+      label: business response status
+      hint: null
+      type: select_one
+      options:
+      - Not responded
+      - Responded
+      required: false
+    - id: 22
+      name: business_response_date
+      label: business response date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: customer_response_status
+      label: customer response status
+      hint: null
+      type: select_one
+      options:
+      - Not responded
+      - Responded
+      required: false
+    - id: 24
+      name: customer_response_date
+      label: customer response date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Business
+      required: false
+    - id: 26
+      name: submitted_by_name
+      label: submitted by name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submitted_by_email
+      label: submitted by email
+      hint: null
+      type: email
+      options: []
+      required: false

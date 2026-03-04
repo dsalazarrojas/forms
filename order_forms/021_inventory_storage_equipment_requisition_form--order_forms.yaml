@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Storage Equipment Requisition Form
+    pages:
+    - id: 1
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - 001-Warehouse
+      - 002-Meeting Room
+      - 003-Vault
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Pallet
+      - Crate
+      - Box
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - General Use
+      - Warehouse
+      - Special Use
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_location
+      label: Approver Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: approve_date
+      label: Approve Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: reject_date
+      label: Reject Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_status
+      label: Submitter Status
+      hint: null
+      type: text
+      options: []
+      required: false

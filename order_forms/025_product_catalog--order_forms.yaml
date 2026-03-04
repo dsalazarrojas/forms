@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Catalog
+    pages:
+    - id: 1
+      name: product_list
+      label: Product List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false

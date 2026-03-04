@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fencing Material Order Form
+    pages:
+    - id: 1
+      name: material_type
+      label: What type of material do you need?
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Vinyl
+      required: false
+    - id: 2
+      name: material_width
+      label: What is the material width?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: material_length
+      label: What is the material length?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material_height
+      label: What is the material height?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_ordered
+      label: How many pieces do you need?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: What is your business name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: material_description
+      label: What is the material description?
+      hint: null
+      type: text
+      options: []
+      required: false

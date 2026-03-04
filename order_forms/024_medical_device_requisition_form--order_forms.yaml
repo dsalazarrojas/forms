@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Requisition Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_device_details
+      label: medical_device_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_device_quantity
+      label: medical_device_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false

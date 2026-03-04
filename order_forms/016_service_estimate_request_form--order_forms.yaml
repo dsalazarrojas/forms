@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Estimate Request Form
+    pages:
+    - id: 1
+      name: service_estimate_request_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_requirements
+      label: Project Requirements
+      hint: null
+      type: text
+      options: []
+      required: true

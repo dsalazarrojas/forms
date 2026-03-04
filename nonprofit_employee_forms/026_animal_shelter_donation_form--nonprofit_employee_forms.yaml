@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Donation Form
+    pages:
+    - id: 1
+      name: donor_full_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount_usd
+      label: Donation Amount - USD
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_frequency_type
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Gift
+      - Monthly Recurring
+      - Quarterly Recurring
+      - Annual Recurring
+      required: true
+    - id: 5
+      name: payment_method_choice
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      - Check by Mail
+      required: true
+    - id: 6
+      name: donation_fund_allocation
+      label: Dedicated To
+      hint: Where should your donation be used?
+      type: select_one
+      options:
+      - General Shelter Operations
+      - Critical Medical Fund
+      - Food and Essential Supplies
+      - Building Expansion and Repairs
+      - Education and Outreach
+      required: true
+    - id: 7
+      name: tribute_gift_info
+      label: In Honor or Memory Of
+      hint: Enter the name of the person or pet
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employer_matching_status
+      label: Matching Gift from Employer
+      hint: Will your company match this donation?
+      type: select_one
+      options:
+      - true
+      - false
+      - I am not sure
+      required: false
+    - id: 9
+      name: newsletter_subscription
+      label: Subscribe to our Newsletter
+      hint: Stay updated on our rescues
+      type: select_one
+      options:
+      - Yes - please sign me up
+      - No - thanks
+      required: true
+    - id: 10
+      name: mailing_address_tax
+      label: Mailing Address for Tax Receipt
+      hint: Required for donations over 25 USD
+      type: text
+      options: []
+      required: true

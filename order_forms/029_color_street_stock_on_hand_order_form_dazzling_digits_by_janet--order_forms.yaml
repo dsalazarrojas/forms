@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Stock On Hand Order Form - Dazzling Digits By Janet
+    pages:
+    - id: 1
+      name: section_janet_welcome
+      label: -- Dazzling Digits By Janet - Stock Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: janet_customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: janet_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: janet_shipping
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: janet_phone
+      label: Phone (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_janet_stock
+      label: -- Select from Janet's Stock --
+      hint: Please list set names exactly as shown in the album
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: janet_sets_ordered
+      label: Sets Requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: janet_total_sets
+      label: Total number of sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: janet_b3g1_check
+      label: Is this a Buy 3 Get 1 order?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_janet_payment
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: janet_pay_type
+      label: How would you like to pay Janet?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Cash
+      required: true
+    - id: 12
+      name: janet_pay_user
+      label: Payment Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: janet_shipping_type
+      label: Delivery Choice
+      hint: null
+      type: select_one
+      options:
+      - Standard ($4.00)
+      - Priority ($8.50)
+      - Janet's Porch Pick-up (Free)
+      required: true
+    - id: 14
+      name: janet_hostess
+      label: Party Hostess (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: janet_notes
+      label: Personal Message for Janet
+      hint: null
+      type: text
+      options: []
+      required: false

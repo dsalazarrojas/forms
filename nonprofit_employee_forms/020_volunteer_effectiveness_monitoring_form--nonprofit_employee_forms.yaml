@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Effectiveness Monitoring Form
+    pages:
+    - id: 1
+      name: volunteer_effectiveness_monitoring_form
+      label: Volunteer Effectiveness Monitoring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_contribution_type
+      label: Volunteer Contribution Type
+      hint: null
+      type: select_one
+      options:
+      - Administrative and Office Tasks
+      - Fundraising and Events
+      - Programs and Services
+      required: false
+    - id: 3
+      name: volunteer_dedication_level
+      label: Volunteer Dedication Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_performance_indicators
+      label: Volunteer Performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - Demonstrates a strong commitment to the organization
+      - Is able to work independently
+      - Is able to work effectively in a team
+      - Is able to communicate effectively
+      - Is able to follow instructions
+      - Is able to take initiative
+      - Is able to work in a fast-paced environment
+      required: false
+    - id: 5
+      name: volunteer_value_added
+      label: Volunteer Value Added
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_comments
+      label: Volunteer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_hours_worked
+      label: Volunteer Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_submission_user
+      label: Form Submission User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_ip_address
+      label: Form Submission IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_user_agent
+      label: Form Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submission_user_id
+      label: Form Submission User ID
+      hint: null
+      type: text
+      options: []
+      required: false

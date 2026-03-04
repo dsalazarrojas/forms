@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Membership Growth Report Form
+    pages:
+    - id: 1
+      name: library_membership_growth_report_form_1
+      label: Membership Growth Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: library_membership_growth_report_form_2
+      label: Select a Date
+      hint: null
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-02-01'
+      - '2024-03-01'
+      required: false
+    - id: 3
+      name: library_membership_growth_report_form_3
+      label: Number of Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: library_membership_growth_report_form_4
+      label: Membership Growth Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: library_membership_growth_report_form_5
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 6
+      name: library_membership_growth_report_form_6
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: false

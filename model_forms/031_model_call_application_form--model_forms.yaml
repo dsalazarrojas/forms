@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Call Application Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Model Call Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: model_type
+      label: Model Type
+      hint: null
+      type: select_one
+      options:
+      - Model A
+      - Model B
+      - Model C
+      required: false
+    - id: 3
+      name: call_details
+      label: Call Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: call_location
+      label: Call Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location A
+      - Location B
+      required: false
+    - id: 5
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: call_time
+      label: Call Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: call_duration
+      label: Call Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool A
+      - Tool B
+      required: false
+    - id: 9
+      name: model_status
+      label: Model Status
+      hint: null
+      type: select_one
+      options:
+      - Status A
+      - Status B
+      - Status C
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

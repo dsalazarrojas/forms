@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Volunteer Recruitment Form
+    pages:
+    - id: 1
+      name: volunteer_form
+      label: volunteer_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_interest
+      label: volunteer_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_role
+      label: volunteer_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_experience
+      label: volunteer_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_agreement
+      label: volunteer_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

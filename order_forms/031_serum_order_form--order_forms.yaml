@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Serum Order Form
+    pages:
+    - id: 1
+      name: serum_order_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: serum_order_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: serum_order_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: serum_order_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: serum_order_form_product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: serum_report_submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

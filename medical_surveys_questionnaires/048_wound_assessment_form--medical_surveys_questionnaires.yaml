@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Assessment Form
+    pages:
+    - id: 1
+      name: wound_location
+      label: Wound Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wound_type
+      label: Wound Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wound_depth
+      label: Wound Depth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wound_length
+      label: Wound Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wound_width
+      label: Wound Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wound_area
+      label: Wound Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wound_surface_area
+      label: Wound Surface Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: wound_description
+      label: Wound Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: wound_pain_level
+      label: Wound Pain Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: wound_pain_location
+      label: Wound Pain Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: first_opening_date
+      label: First Opening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: first_treatment_date
+      label: First Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: next_treatment_date
+      label: Next Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: wound_closure_date
+      label: Wound Closure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: closure_method
+      label: Closure Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: wound_complications
+      label: Wound Complications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: wound_care
+      label: Wound Care
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: wound_rehabilitation
+      label: Wound Rehabilitation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: wound_suture_type
+      label: Wound Suture Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: wound_infection_status
+      label: Wound Infection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

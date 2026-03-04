@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Storage Installation Quotation Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Installation Quotation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Company or individual requesting installation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project address
+      hint: Installation location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: installation_scope
+      label: Installation scope
+      hint: Describe required work
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_start_date
+      label: Preferred start date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: estimated_volume
+      label: Estimated storage volume cubic meters
+      hint: Numeric value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: onsite_requirements
+      label: Onsite requirements
+      hint: Power, access, permits
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: For site coordination
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budget_range
+      label: Budget range
+      hint: Estimate for budgeting
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other considerations
+      type: text
+      options: []
+      required: false

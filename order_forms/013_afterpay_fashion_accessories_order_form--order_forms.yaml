@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Fashion Accessories Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Fashion Accessories Order --
+      hint: Style your outfit with our latest accessories
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: For order updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full postal address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: details_header
+      label: -- Accessory Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: accessory_type
+      label: Accessory Type - Watch, Jewelry, Handbag, etc.
+      hint: select the category
+      type: select_one
+      options:
+      - Luxury Watch
+      - Fine Jewelry
+      - Designer Handbag
+      - Leather Belt
+      - Sunglasses
+      required: true
+    - id: 7
+      name: item_name_code
+      label: Item Name or Code
+      hint: Refer to our online catalog
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: material_finish
+      label: Material or Finish - Gold, Silver, Leather, etc.
+      hint: Choose your preferred finish
+      type: select_one
+      options:
+      - 14k Gold
+      - Sterling Silver
+      - Genuine Leather
+      - Rose Gold
+      - Stainless Steel
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: gift_wrap
+      label: Gift Wrap Option
+      hint: Would you like complimentary gift wrapping
+      type: select_one
+      options:
+      - No Gift Wrap
+      - Standard Gift Wrap
+      - Premium Gift Box (extra $5)
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method - Afterpay Available
+      hint: Select Afterpay to pay in 4 installments
+      type: select_one
+      options:
+      - Afterpay
+      - Visa
+      - Mastercard
+      - PayPal
+      required: true
+    - id: 12
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true

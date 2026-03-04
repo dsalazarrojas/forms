@@ -1,0 +1,339 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bird Rescue Adoption Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_dob
+      label: Date of Birth
+      hint: Your age to verify legal adult status
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_household
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: household_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: household_type
+      label: Housing Type
+      hint: Where do you live
+      type: select_one
+      options:
+      - House with Yard
+      - Apartment
+      - Condo
+      - Mobile Home
+      - Other
+      required: true
+    - id: 10
+      name: housing_owned_rented
+      label: Do You Own or Rent
+      hint: Ownership status
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Other
+      required: true
+    - id: 11
+      name: landlord_approval
+      label: If Renting - Landlord Allows Pets
+      hint: Confirm landlord approval
+      type: select_one
+      options:
+      - Yes, Approved
+      - Not Applicable - Own Home
+      - Need to Check
+      - No - Not Allowed
+      required: true
+    - id: 12
+      name: household_members
+      label: Number of People in Household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: children_ages
+      label: Ages of Children in Home
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_bird_experience
+      label: -- Bird Experience and Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: bird_experience
+      label: Prior Bird Ownership Experience
+      hint: Have you owned birds before
+      type: select_one
+      options:
+      - Yes, Multiple Birds
+      - Yes, One Bird
+      - Yes, Had Bird as Child
+      - No Experience
+      required: true
+    - id: 16
+      name: bird_types_owned
+      label: Types of Birds Previously Owned
+      hint: List bird species owned
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: bird_care_duration
+      label: How Long Did You Keep Your Bird
+      hint: Duration of past bird ownership
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bird_care_knowledge
+      label: Knowledge of Bird Care Requirements
+      hint: Rate your knowledge
+      type: select_one
+      options:
+      - Extensive Knowledge
+      - Good Knowledge
+      - Moderate Knowledge
+      - Limited Knowledge
+      - No Knowledge
+      required: true
+    - id: 19
+      name: reason_wanted_bird
+      label: Why Do You Want to Adopt a Bird
+      hint: Describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_lifestyle
+      label: -- Lifestyle and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: daily_work_hours
+      label: Hours Spent Away from Home Daily
+      hint: Work schedule impact
+      type: select_one
+      options:
+      - Less than 4 Hours
+      - 4-6 Hours
+      - 6-8 Hours
+      - Over 8 Hours
+      - Work from Home
+      required: true
+    - id: 22
+      name: ability_provide_attention
+      label: Ability to Provide Daily Attention
+      hint: Time available for bird interaction
+      type: select_one
+      options:
+      - Several Hours Daily
+      - 1-2 Hours Daily
+      - 30 Minutes to 1 Hour
+      - Less than 30 Minutes
+      - Very Limited
+      required: true
+    - id: 23
+      name: travel_plans
+      label: Frequency of Travel or Vacations
+      hint: How often are you away
+      type: select_one
+      options:
+      - Rarely Travel
+      - Few Times per Year
+      - Monthly
+      - Frequently
+      required: true
+    - id: 24
+      name: vacation_bird_care
+      label: Plans for Bird Care During Vacations
+      hint: How will bird be cared for
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: section_facilities
+      label: -- Home Facilities and Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: cage_space
+      label: Adequate Space and Setup for Cage
+      hint: Can you accommodate proper cage size
+      type: select_one
+      options:
+      - Yes, Ample Space
+      - Yes, Adequate Space
+      - Possibly, Need to Check
+      - No, Space Constrained
+      required: true
+    - id: 27
+      name: safe_environment
+      label: Home is Safe for Birds
+      hint: Confirm no hazards
+      type: select_one
+      options:
+      - Yes - Completely Safe
+      - Mostly Safe
+      - Some Hazards Present
+      - Significant Hazards
+      required: true
+    - id: 28
+      name: household_hazards
+      label: Potential Hazards to Address
+      hint: Describe any safety concerns
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_existing_pets
+      label: -- Existing Pets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: other_pets
+      label: Do You Have Other Pets
+      hint: Dogs, cats, other animals
+      type: select_one
+      options:
+      - No Other Pets
+      - Yes - Dogs
+      - Yes - Cats
+      - Yes - Other Animals
+      - Yes - Multiple Types
+      required: true
+    - id: 31
+      name: pet_temperament
+      label: Temperament of Other Pets
+      hint: Will they be safe with a bird
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_financial
+      label: -- Financial Responsibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: veterinary_care
+      label: Able to Provide Veterinary Care
+      hint: Can afford vet expenses
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Yes, Probably
+      - Maybe
+      - Uncertain
+      - false
+      required: true
+    - id: 34
+      name: financial_commitment
+      label: Commitment to Bird Care Expenses
+      hint: Food, toys, veterinary costs
+      type: select_one
+      options:
+      - Prepared for All Costs
+      - Reasonably Prepared
+      - Understand Some Costs
+      - Unsure of Costs
+      required: true
+    - id: 35
+      name: section_references
+      label: -- References and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: veterinary_reference
+      label: Veterinary Reference
+      hint: Name and contact of your vet
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: personal_reference
+      label: Personal Reference
+      hint: Someone who can speak to your care
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: agreement
+      label: I understand and agree to bird care responsibilities
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 39
+      name: followup_consent
+      label: I consent to follow-up contact and home visits
+      hint: Confirm willingness for check-ins
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Budget Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Person submitting the budget request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department or ministry
+      hint: Which ministry or department is requesting funds
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_title
+      label: Project title
+      hint: Short project or expense name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: amount_requested
+      label: Amount requested
+      hint: Whole dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purpose_description
+      label: Purpose description
+      hint: Explain how funds will be used
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_category
+      label: Budget category
+      hint: Select the category that best fits the expense
+      type: select_one
+      options:
+      - Operations
+      - Outreach
+      - Facilities
+      - Events
+      - Mission
+      required: true
+    - id: 7
+      name: proposed_timeline
+      label: Proposed timeline
+      hint: Start and end dates or null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_needed
+      label: Approval needed by
+      hint: Name or role of approver required for this request or null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachments
+      label: Attachments links
+      hint: Links to quotes invoices or supporting documents or null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: finance_contact
+      label: Finance contact notified
+      hint: Has finance been consulted
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

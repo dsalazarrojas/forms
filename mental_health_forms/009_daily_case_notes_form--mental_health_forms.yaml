@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Case Notes Form
+    pages:
+    - id: 1
+      name: client_session_notes
+      label: Client Session Notes
+      hint: Brief notes about the client's session
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_duration
+      label: Session Duration
+      hint: Session length in minutes
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_progress
+      label: Client Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: counselor_notes
+      label: Counselor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: Brief notes about next steps
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

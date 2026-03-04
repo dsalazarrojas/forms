@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Dues Renewal
+    pages:
+    - id: 1
+      name: membership_dues_renewal_form
+      label: Renew
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: membership_dues_renewal_membership_id
+      label: Membership ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shoes Order Form
+    pages:
+    - id: 1
+      name: design
+      label: design
+      hint: null
+      type: select_one
+      options:
+      - Sneakers
+      - Loafers
+      - Boots
+      required: true
+    - id: 2
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: further_requests
+      label: further requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 12
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: order_note
+      label: order note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: special_requests
+      label: special requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: shipping_details
+      label: shipping details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_city
+      label: shipping city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_state
+      label: shipping state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_zip
+      label: shipping zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: shipping_country
+      label: shipping country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: merchant_signature
+      label: merchant signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: further_requests_2
+      label: further requests 2
+      hint: null
+      type: text
+      options: []
+      required: false

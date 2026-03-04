@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: donation_form_paypal_checkout
+    pages:
+    - id: 1
+      name: form_submission
+      label: Donation Form PayPal Checkout
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: non_field_label
+      label: Non-Field Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: non_field_note
+      label: Non-Field Note
+      hint: null
+      type: note
+      options: []
+      required: false

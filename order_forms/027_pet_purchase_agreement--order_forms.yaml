@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Purchase Agreement
+    pages:
+    - id: 1
+      name: pet_purchase_agreement_form
+      label: Pet Purchase Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_breeder_details
+      label: Pet Breeder Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pet_buyer_details
+      label: Pet Buyer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pet_health_guarantee
+      label: Pet Health Guarantee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_warranty
+      label: Pet Warranty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_return_policy
+      label: Pet Return Policy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

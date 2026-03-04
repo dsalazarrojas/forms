@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Rental Approval Form
+    pages:
+    - id: 1
+      name: rental_form
+      label: rental form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_details
+      label: equipment details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rental_date
+      label: rental date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rental_start
+      label: start date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: rental_duration
+      label: rental duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: equipment_condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - new
+      - used
+      - certified
+      - refurbished
+      required: true
+    - id: 7
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - general
+      - specific
+      required: true
+    - id: 8
+      name: customer
+      label: customer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''name'', ''label'': ''name''}'
+      - '{''name'': ''email'', ''label'': ''email''}'
+      - '{''name'': ''phone'', ''label'': ''phone''}'
+      required: false
+    - id: 9
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''name'', ''label'': ''name''}'
+      - '{''name'': ''role'', ''label'': ''role''}'
+      - '{''name'': ''phone'', ''label'': ''phone''}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Client Dietary Information Form
+    pages:
+    - id: 1
+      name: event_info_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: host_name
+      label: Primary Host/Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guest_details_header
+      label: -- Guest Dietary Profile --
+      hint: Please fill out one form per guest with restrictions
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guest_full_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dietary_restrictions_list
+      label: Dietary Restrictions or Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free/Lactose Intolerant
+      - Halal
+      - Kosher
+      - Low Sodium
+      - No Sugar Added
+      required: true
+    - id: 8
+      name: food_allergies_list
+      label: Severe Food Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Peanuts
+      - Tree Nuts
+      - Shellfish
+      - Fish
+      - Eggs
+      - Soy
+      - Wheat
+      - Sesame
+      required: false
+    - id: 9
+      name: allergy_severity
+      label: Severity of Allergy
+      hint: null
+      type: select_one
+      options:
+      - Mild - Avoidance only
+      - Moderate - Possible reaction
+      - Severe - Anaphylactic risk
+      required: true
+    - id: 10
+      name: carries_epipen
+      label: Does the guest carry an EpiPen or medication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: false
+    - id: 11
+      name: alternative_meal_pref
+      label: Alternative Meal Preference (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: chef_notes
+      label: Additional Notes for the Chef
+      hint: e.g. Cross-contamination concerns, specific ingredients to avoid
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_for_clarification
+      label: Guest Contact Phone Number
+      hint: If our kitchen team needs to clarify details
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: information_accuracy_ack
+      label: I certify that the dietary information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: form_completed_by
+      label: Form completed by
+      hint: If different from guest
+      type: text
+      options: []
+      required: true

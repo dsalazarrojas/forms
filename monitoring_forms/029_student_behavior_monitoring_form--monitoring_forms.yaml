@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Behavior Monitoring Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: behavior_notes
+      label: Behavior Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_time_observed
+      label: Date/Time Observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: behavior_risk
+      label: Behavior Risk
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 8
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_concerns
+      label: Parent Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_concerns
+      label: Teacher Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_concerns
+      label: Other Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_last_updated
+      label: Date Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: date_last_updated_by
+      label: Date Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

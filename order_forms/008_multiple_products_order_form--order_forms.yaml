@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Products Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: products
+      label: products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

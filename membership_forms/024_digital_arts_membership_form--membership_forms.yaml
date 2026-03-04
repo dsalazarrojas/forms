@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Arts Membership Form
+    pages:
+    - id: 1
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_one
+      options:
+      - Artist/Artisan
+      - Creative Community
+      - Arts Organization
+      - Other
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: how_did_you_know_us
+      label: How did you know us
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Event/Festival
+      - Artist/Community
+      - Word of mouth
+      - Other
+      required: false
+    - id: 9
+      name: how_did_you_hear
+      label: How did you hear
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend
+      - Family
+      - Online Search
+      - Other
+      required: false
+    - id: 10
+      name: why_member
+      label: Why Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Associate
+      - Student
+      - Lifetime
+      required: false

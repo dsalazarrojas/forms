@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Size And Quantity Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: apparel_details
+      label: -- Apparel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: select_one
+      options:
+      - Classic T-Shirt
+      - V-Neck T-Shirt
+      - Polo Shirt
+      - Long Sleeve Shirt
+      - Hoodie
+      - Sweatshirt
+      required: true
+    - id: 7
+      name: xs_quantity
+      label: Extra Small (XS) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: s_quantity
+      label: Small (S) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: m_quantity
+      label: Medium (M) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: l_quantity
+      label: Large (L) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: xl_quantity
+      label: Extra Large (XL) - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: xxl_quantity
+      label: 2XL - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: xxxl_quantity
+      label: 3XL - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: color_options
+      label: -- Color Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: product_color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy Blue
+      - Red
+      - Blue
+      - Green
+      - Gray
+      required: true
+    - id: 16
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - 100 percent Cotton
+      - Cotton Blend
+      - Polyester
+      - Performance Fabric
+      required: false
+    - id: 17
+      name: delivery_information
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: delivery_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true

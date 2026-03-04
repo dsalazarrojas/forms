@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: landscape_service_work_order
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Tomorrow
+      - Next 7 Days
+      required: false
+    - id: 5
+      name: work_order_description
+      label: Work Order Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 7
+      name: service_request_details
+      label: Service Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: schedule_status
+      label: Schedule Status
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Not Scheduled
+      - Rescheduled
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

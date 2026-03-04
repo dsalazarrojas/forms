@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Printing Order Form
+    pages:
+    - id: 1
+      name: printing_info
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: printing_type
+      label: What do you want to print?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A5''}'
+      - '{''label'': ''A6''}'
+      - '{''label'': ''A7''}'
+      - '{''label'': ''A8''}'
+      - '{''label'': ''A10''}'
+      required: false
+    - id: 3
+      name: printing_size
+      label: Print size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: color_mode
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Color''}'
+      - '{''label'': ''Black and White''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: paper_quality
+      label: Paper quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Glossy''}'
+      - '{''label'': ''Matte''}'
+      - '{''label'': ''Matte and Glossy''}'
+      required: false
+    - id: 7
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cardstock''}'
+      - '{''label'': ''Cotton''}'
+      - '{''label'': ''Vellum''}'
+      required: false
+    - id: 8
+      name: paper_type
+      label: Paper type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''8.5 x 11''}'
+      - '{''label'': ''8.5 x 14''}'
+      - '{''label'': ''Letter''}'
+      required: false
+    - id: 9
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: text
+      options: []
+      required: false

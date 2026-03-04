@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Order Form
+    pages:
+    - id: 1
+      name: party_package_type
+      label: Party Package Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Triple
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: party_size
+      label: Party Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 6
+      name: party_package_details
+      label: Party Package Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false

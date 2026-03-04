@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_employee_onboarding_form
+    pages:
+    - id: 1
+      name: setup_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_tasks_status
+      label: Onboarding Tasks Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: completed_onboarding_tasks
+      label: Completed Onboarding Tasks
+      hint: null
+      type: note
+      options: []
+      required: false

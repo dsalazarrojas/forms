@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Organizer Check Out Form
+    pages:
+    - id: 1
+      name: order_summary
+      label: Order Summary
+      hint: Review your ticket order before checkout
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_selection
+      label: Select Event
+      hint: Choose the concert you are attending
+      type: select_one
+      options:
+      - Summer Music Festival
+      - Classical Evening
+      - Rock Concert Series
+      - Jazz Night
+      - Pop Music Showcase
+      - Country Music Weekend
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ticket_quantity
+      label: Number of Tickets
+      hint: How many tickets do you need
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your preferred seating category
+      type: select_one
+      options:
+      - General Admission
+      - Reserved Seating
+      - Premium Seating
+      - VIP Package
+      - Box Seats
+      required: true
+    - id: 6
+      name: price_per_ticket
+      label: Price Per Ticket
+      hint: Automatic calculation based on selection
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: Total amount before taxes and fees
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: attendee_details
+      label: Attendee Details
+      hint: Information for all attendees
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_attendee_name
+      label: Primary Attendee Name
+      hint: Full name of ticket purchaser
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_attendee_email
+      label: Primary Attendee Email
+      hint: Email for ticket delivery
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: primary_attendee_phone
+      label: Primary Attendee Phone
+      hint: Contact number for updates
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_attendees
+      label: Additional Attendee Names
+      hint: Names of other ticket holders
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: Seating preferences or accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: add_ons
+      label: Add-On Services
+      hint: Optional extras for your order
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: parking_pass
+      label: Parking Pass
+      hint: Add parking for the venue
+      type: select_one
+      options:
+      - No Thanks
+      - Yes Add Parking
+      required: false
+    - id: 16
+      name: merchandise_package
+      label: Merchandise Package
+      hint: Add concert merchandise bundle
+      type: select_one
+      options:
+      - No Thanks
+      - Basic Package
+      - Premium Package
+      - VIP Merchandise Bundle
+      required: false
+    - id: 17
+      name: program_booklet
+      label: Program Booklet
+      hint: Printed concert program
+      type: select_one
+      options:
+      - No Thanks
+      - Yes Add Program
+      required: false
+    - id: 18
+      name: payment_information
+      label: Payment Information
+      hint: Secure payment details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: Choose how to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 20
+      name: card_number
+      label: Card Number
+      hint: Enter card details securely
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_expiry
+      label: Card Expiry Date
+      hint: MM slash YY format
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_cvv
+      label: Card CVV
+      hint: 3 digit security code
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Please read and accept our terms
+      type: select_one
+      options:
+      - I accept the terms and conditions
+      - I do not accept
+      required: true
+    - id: 25
+      name: confirmation_email
+      label: Send Confirmation Email
+      hint: Receive order confirmation
+      type: select_one
+      options:
+      - Yes Send Confirmation
+      - No Do Not Send
+      required: true

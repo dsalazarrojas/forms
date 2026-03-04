@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Distribution Efficiency Audit Form
+    pages:
+    - id: 1
+      name: donor_programs
+      label: Donor Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: distribution_channels
+      label: Distribution Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Channel A
+      - Channel B
+      - Channel C
+      required: false
+    - id: 3
+      name: distribution_periods
+      label: Distribution Periods
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: distribution_frequency
+      label: Distribution Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 5
+      name: distribution_method
+      label: Distribution Method
+      hint: null
+      type: select_multiple
+      options:
+      - Method A
+      - Method B
+      - Method C
+      required: false
+    - id: 6
+      name: distribution_value
+      label: Distribution Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: distribution_location
+      label: Distribution Location
+      hint: null
+      type: text
+      options: []
+      required: false

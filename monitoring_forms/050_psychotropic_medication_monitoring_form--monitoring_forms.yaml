@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Psychotropic Medication Monitoring Form
+    pages:
+    - id: 1
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medication_dose
+      label: Medication Dose
+      hint: Please enter the dosage information for the medication.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: administration_frequency
+      label: Administration Frequency
+      hint: null
+      type: select_one
+      options:
+      - DAILY
+      - WEEKLY
+      - MONTHLY
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: stop_date
+      label: Stop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_stopping
+      label: Reason for Stopping
+      hint: Provide a reason for stopping the medication.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: monitoring_status
+      label: Monitoring Status
+      hint: null
+      type: select_one
+      options:
+      - ACTIVE
+      - INACTIVE
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: monitoring_status_reason
+      label: Reason for Monitoring Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: Describe any known side effects of the medication.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: monitoring_status_change
+      label: Monitoring Status Change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medication_frequency_change
+      label: Medication Frequency Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false

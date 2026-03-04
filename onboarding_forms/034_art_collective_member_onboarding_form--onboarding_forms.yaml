@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Collective Member Onboarding Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_professional
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_medium
+      label: Primary Artistic Medium
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Artistic Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: artistic_statement
+      label: Artistic Statement or Bio
+      hint: Brief description of your artistic practice
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_portfolio
+      label: -- Portfolio and Links --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_url
+      label: Portfolio Website or Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: instagram_handle
+      label: Instagram Handle or Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: portfolio_images
+      label: Portfolio Images or Links
+      hint: URLs to your work
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: why_join
+      label: Why Are You Interested in Joining
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: collaboration_interests
+      label: Areas of Interest for Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Group exhibitions
+      - Shared studio space
+      - Joint projects
+      - Cross-medium collaboration
+      - Community outreach
+      - Mentorship
+      required: false
+    - id: 18
+      name: section_availability
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: meeting_availability
+      label: Meeting and Event Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Weekday evenings
+      - Weekday mornings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 20
+      name: commitment_level
+      label: Commitment Level
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Occasional
+      required: true
+    - id: 21
+      name: studio_space_available
+      label: Can you contribute studio or exhibition space
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Possibly
+      required: false
+    - id: 22
+      name: section_agreement
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: acknowledge_bylaws
+      label: I have read and agree to the collective bylaws
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 24
+      name: acknowledge_dues
+      label: I understand membership dues and fees
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - I need more information
+      required: true
+    - id: 25
+      name: membership_date
+      label: Desired Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

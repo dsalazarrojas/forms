@@ -1,0 +1,53 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Onboarding Form
+    pages:
+    - id: 1
+      name: new_nurse_details
+      label: New Nurse Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credentials
+      label: Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certifications
+      label: Certifications
+      hint: Please list any certifications relevant to your job
+      type: select_multiple
+      options:
+      - Certified Registered Nurse (RN)
+      - Certified Licensed Practical Nurse (LPN)
+      - Certified Nursing Assistant (CNA)
+      - Other
+      required: true
+    - id: 4
+      name: onboarding_acknowledgement
+      label: Onboarding Acknowledgement
+      hint: None
+      type: select_multiple
+      options:
+      - I understand that the onboarding process can take 2-3 hours
+      - I am aware that I will need to complete all sections on this form
+      - I am aware that my credentials will be verified and may be subject to background
+        check
+      - Other
+      required: true

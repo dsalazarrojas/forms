@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Tracking Survey
+    pages:
+    - id: 1
+      name: donor_tracking_survey_page_1
+      label: Donor Information
+      hint: Enter donor information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donor_frequency
+      label: donor_frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Never
+      required: false
+    - id: 7
+      name: first_interaction
+      label: first_interaction
+      hint: null
+      type: select_one
+      options:
+      - First time donor
+      - Referred
+      - Social media
+      - Online ad
+      - Word of mouth
+      - Other
+      required: false
+    - id: 8
+      name: donor_value
+      label: donor_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: survey_comments
+      label: survey_comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Renovation Support Application Form
+    pages:
+    - id: 1
+      name: shelter_renovation_request
+      label: Shelter Renovation Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shelter_name
+      label: Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: budget_requested
+      label: Budget Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shelter_type
+      label: Shelter Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Large
+      - Both
+      required: true
+    - id: 7
+      name: shelter_description
+      label: Shelter Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: prophets_of_visit
+      label: Prophets of Visit
+      hint: null
+      type: select_multiple
+      options:
+      - Prophet 1
+      - Prophet 2
+      - Prophet 3
+      required: false
+    - id: 11
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shelter_address
+      label: Shelter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shelter_phone
+      label: Shelter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shelter_email
+      label: Shelter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Shelter Director
+      - Shelter Manager
+      required: false
+    - id: 25
+      name: submitter_organization_2
+      label: Submitter Organization 2
+      hint: null
+      type: text
+      options: []
+      required: false

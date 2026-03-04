@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Clothing Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - T-Shirt
+      - Towel
+      - Phone Case
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: merchant_note
+      label: Merchant Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stripe_token
+      label: Stripe Token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Equipment Check Out Form
+    pages:
+    - id: 1
+      name: production_equipment_check_out_form
+      label: production_equipment_check_out_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_start_date
+      label: rental_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_start_time
+      label: rental_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: rental_end_date
+      label: rental_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rental_end_time
+      label: rental_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rental_duration
+      label: rental_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rental_status
+      label: rental_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

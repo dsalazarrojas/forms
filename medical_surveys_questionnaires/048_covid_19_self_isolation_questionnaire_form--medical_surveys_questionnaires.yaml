@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Isolation Questionnaire Form
+    pages:
+    - id: 1
+      name: person_name_full
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: person_dob_val
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: isolation_address_text
+      label: Isolation Address
+      hint: Where will you be staying for the duration?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: household_count_val
+      label: Total Number of Household Members
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: vulnerable_in_house_yn
+      label: Are there any vulnerable or elderly individuals in your household?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: last_exposure_date_val
+      label: Date of Last Known Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: current_symptoms_list
+      label: Current Symptoms
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Loss of taste/smell
+      - Body aches
+      - Fatigue
+      - None
+      required: true
+    - id: 8
+      name: temp_record_val
+      label: Current Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: resource_access_yn
+      label: Do you have adequate access to groceries and essential medicine?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need Assistance
+      required: true
+    - id: 10
+      name: mental_health_support_yn
+      label: Would you like to be contacted for mental health or emotional support?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: check_in_time_pref
+      label: Preferred Daily Check-in Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_text
+      label: Emergency Contact (Name and Phone)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: questionnaire_auth_cert
+      label: I certify the information provided is correct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

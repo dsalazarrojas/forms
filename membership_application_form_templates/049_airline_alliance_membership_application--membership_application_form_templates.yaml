@@ -1,0 +1,313 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Alliance Membership Application
+    pages:
+    - id: 1
+      name: airline_name
+      label: Airline Name
+      hint: Full airline name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: airline_code
+      label: Airline Code
+      hint: IATA code
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: icao_code
+      label: ICAO Code
+      hint: ICAO identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: country_of_registration
+      label: Country of Registration
+      hint: Home country
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: headquarters_address
+      label: Headquarters Address
+      hint: Main office address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website
+      label: Website
+      hint: Airline website
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ceo_name
+      label: CEO Name
+      hint: Chief executive officer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ceo_email
+      label: CEO Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Application contact person
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: alliance_applied
+      label: Alliance Applied For
+      hint: Which alliance
+      type: select_one
+      options:
+      - Star Alliance
+      - SkyTeam
+      - Oneworld
+      - Other
+      required: true
+    - id: 15
+      name: membership_type
+      label: Membership Type
+      hint: Type of membership
+      type: select_one
+      options:
+      - Full member
+      - Associate member
+      - Affiliate member
+      - Connecting partner
+      required: true
+    - id: 16
+      name: fleet_size
+      label: Fleet Size
+      hint: Total aircraft
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: destinations_served
+      label: Destinations Served
+      hint: Total destinations
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: countries_served
+      label: Countries Served
+      hint: Number of countries
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: annual_passengers
+      label: Annual Passengers (millions)
+      hint: Yearly passenger count
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: year_established
+      label: Year Established
+      hint: Founding year
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: iata_member
+      label: IATA Member
+      hint: Are you IATA member
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: iosaa_certified
+      label: IOSA Certified
+      hint: IATA Operational Safety Audit
+      type: select_one
+      options:
+      - Yes, current
+      - Yes, expired
+      - false
+      - In progress
+      required: true
+    - id: 23
+      name: safety_rating
+      label: Safety Rating
+      hint: Airline safety rating
+      type: select_one
+      options:
+      - 7-star
+      - 6-star
+      - 5-star
+      - 4-star
+      - 3-star
+      - Not rated
+      required: true
+    - id: 24
+      name: codeshare_agreements
+      label: Current Codeshare Agreements
+      hint: Number of partners
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: existing_alliance_memberships
+      label: Existing Alliance Memberships
+      hint: Current memberships
+      type: select_multiple
+      options:
+      - None
+      - Star Alliance
+      - SkyTeam
+      - Oneworld
+      - Other regional
+      required: true
+    - id: 26
+      name: frequent_flyer_program
+      label: Frequent Flyer Program
+      hint: Program name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: ffp_members
+      label: FFP Members (millions)
+      hint: Loyalty program size
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: lounge_count
+      label: Airport Lounges
+      hint: Number of lounges
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: hub_airports
+      label: Hub Airports
+      hint: Primary hubs
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: strategic_fit
+      label: Strategic Fit Rationale
+      hint: Why join this alliance
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: benefits_expected
+      label: Expected Benefits
+      hint: What do you hope to gain
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: financial_stability
+      label: Financial Stability
+      hint: Current financial status
+      type: select_one
+      options:
+      - Profitable
+      - Break-even
+      - Loss, recovering
+      - Restructuring
+      required: true
+    - id: 33
+      name: references
+      label: Alliance References
+      hint: Current members who support
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Are documents attached
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: document_types
+      label: Document Types
+      hint: What is attached
+      type: select_multiple
+      options:
+      - Financial statements
+      - Safety certificates
+      - Operating license
+      - Fleet information
+      - Route map
+      - Other
+      required: false
+    - id: 36
+      name: airline_signature
+      label: Airline Authorized Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_title
+      label: Signatory Title
+      hint: Title of signer
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: application_status
+      label: Application Status
+      hint: Current status
+      type: select_one
+      options:
+      - Submitted
+      - Under review
+      - Pending documentation
+      - Approved
+      - Denied
+      required: true

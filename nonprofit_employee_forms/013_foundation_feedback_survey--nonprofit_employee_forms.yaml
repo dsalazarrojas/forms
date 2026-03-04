@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: foundation_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Foundation Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: What category of feedback would you like to provide?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: question1
+      label: How would you rate the quality of service provided by the foundation?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: What would you like the foundation to do better next time?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question3
+      label: Foundation Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: 'Format: johndoe@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: 'Format: 2022-02-15'
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: 'Format: 14:30'
+      type: time
+      options: []
+      required: false

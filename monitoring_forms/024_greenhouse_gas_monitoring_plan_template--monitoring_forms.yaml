@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Greenhouse Gas Monitoring Plan Template
+    pages:
+    - id: 1
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gas_type
+      label: Gas Type
+      hint: Select the type of gas monitored
+      type: select_multiple
+      options:
+      - Natural Gas
+      - Carbon Dioxide
+      - Methane
+      - Other (Specify)
+      required: false
+    - id: 5
+      name: gas_type_other
+      label: Gas Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sampling_frequency
+      label: Sampling Frequency
+      hint: How often will you be sampling?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: sampling_location
+      label: Sampling Location
+      hint: Where will you be sampling?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_equipment
+      label: Monitoring Equipment
+      hint: What equipment will you be using?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_reporting_frequency
+      label: Data Reporting Frequency
+      hint: How often will you report your data?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: data_reporting_method
+      label: Data Reporting Method
+      hint: How will you report your data?
+      type: select_multiple
+      options:
+      - Email
+      - CSV
+      - Excel
+      required: false
+    - id: 11
+      name: ownership
+      label: Ownership
+      hint: Who is the owner of this form?
+      type: select_one
+      options:
+      - Facility Manager
+      - Team Lead
+      - Operator
+      required: false
+    - id: 12
+      name: reviewer
+      label: Reviewer
+      hint: Who is the reviewer of this form?
+      type: select_one
+      options:
+      - Facility Manager
+      - Team Lead
+      - Operator
+      required: false
+    - id: 13
+      name: review_frequency
+      label: Review Frequency
+      hint: How often will you review your data?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false

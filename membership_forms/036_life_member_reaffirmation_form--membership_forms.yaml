@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: life-member-reaffirmation-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: How do you want to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - By Phone
+      - By Email
+      - By Both
+      required: true
+    - id: 6
+      name: select_one_2
+      label: How will you use this information?
+      hint: null
+      type: select_one
+      options:
+      - For Marketing Purposes
+      - For Research
+      - For Both
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false

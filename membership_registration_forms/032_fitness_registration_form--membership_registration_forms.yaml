@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: motivation
+      label: Why Fitness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sport_background
+      label: Sport
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Soccer
+      - Swimming
+      required: false
+    - id: 9
+      name: fitness_background
+      label: Fitness
+      hint: null
+      type: select_multiple
+      options:
+      - Aerobics
+      - Bodybuilding
+      - Weightlifting
+      - Yoga
+      required: false
+    - id: 10
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: nutrition_background
+      label: Nutrition
+      hint: null
+      type: select_multiple
+      options:
+      - Balanced
+      - High
+      - Low
+      - Vegetarian
+      - Vegan
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

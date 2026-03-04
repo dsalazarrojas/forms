@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentsy Monthly Pre Order
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one_product
+      label: Select a product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product A''}'
+      - '{''id'': 2, ''name'': ''Product B''}'
+      - '{''id'': 3, ''name'': ''Product C''}'
+      required: true
+    - id: 7
+      name: select_multiple_products
+      label: Select multiple products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Product D''}'
+      - '{''id'': 2, ''name'': ''Product E''}'
+      - '{''id'': 3, ''name'': ''Product F''}'
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

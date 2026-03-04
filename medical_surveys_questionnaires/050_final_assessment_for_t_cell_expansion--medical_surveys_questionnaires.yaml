@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Assessment For T Cell Expansion
+    pages:
+    - id: 1
+      name: form_title
+      label: Final Assessment For T Cell Expansion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_identifier
+      label: patient_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tcell_expansion_count
+      label: tcell_expansion_count
+      hint: Number of T cells expanded (x10^6)
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tcell_viability
+      label: tcell_viability
+      hint: Viability as a % (x10^6)
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tcell_methods
+      label: tcell_methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tcell_observations
+      label: tcell_observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: method_used
+      label: method_used
+      hint: null
+      type: select_one
+      options:
+      - Cell Culture
+      - Flow Cytometry
+      - ELISA
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false

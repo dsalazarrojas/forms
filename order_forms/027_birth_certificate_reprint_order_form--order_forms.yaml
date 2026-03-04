@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Certificate Reprint Order Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Certificate Reprint Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Use this form to request a duplicate birth certificate
+      hint: Complete all required information
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: requester_relationship
+      label: Relationship to Certificate Holder
+      hint: How are you related
+      type: select_one
+      options:
+      - Self - Certificate Holder
+      - Parent
+      - Guardian
+      - Legal Representative
+      - Other Authorized Person
+      required: true
+    - id: 5
+      name: requester_first_name
+      label: Your First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_last_name
+      label: Your Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Your Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requester_email
+      label: Your Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: section_certificate_holder
+      label: -- Certificate Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: holder_first_name
+      label: Certificate Holder First Name
+      hint: First name on certificate
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: holder_middle_name
+      label: Certificate Holder Middle Name
+      hint: Middle name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: holder_last_name
+      label: Certificate Holder Last Name
+      hint: Last name on certificate
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: holder_dob
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: holder_sex
+      label: Sex at Birth
+      hint: Male or Female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 15
+      name: holder_mothers_name
+      label: Mother's Full Name at Birth
+      hint: Mother's name as appears on certificate
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: holder_fathers_name
+      label: Father's Full Name
+      hint: Father's name if on certificate
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_location
+      label: -- Birth Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: birth_location
+      label: Place of Birth
+      hint: City or county where born
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: birth_state_country
+      label: State or Country of Birth
+      hint: State or country
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: number_of_copies
+      label: Number of Copies Needed
+      hint: How many duplicate certificates
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: certificate_type
+      label: Type of Certificate Needed
+      hint: What format do you need
+      type: select_one
+      options:
+      - Certified Copy
+      - Certified Abstract
+      - Short Form
+      - Full Certificate
+      required: true
+    - id: 23
+      name: section_delivery
+      label: -- Delivery Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should we send the certificate
+      type: select_one
+      options:
+      - Standard Mail
+      - Expedited Mail
+      - Email
+      - In-Person Pickup
+      required: true
+    - id: 25
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address for mail
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: delivery_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: delivery_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: delivery_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: certificate_fee
+      label: Certificate Fee
+      hint: Cost per copy
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: shipping_fee
+      label: Shipping Fee
+      hint: Cost for shipping
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: total_cost
+      label: Total Cost
+      hint: Total amount due
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Money Order
+      - Online Payment
+      - In-Person Cash
+      required: true
+    - id: 34
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: identity_verification
+      label: Identity Verification Method
+      hint: How will you prove identity
+      type: select_one
+      options:
+      - Driver's License
+      - Passport
+      - Government ID
+      - Birth Certificate
+      - Other Valid ID
+      required: true
+    - id: 36
+      name: id_number
+      label: ID Number
+      hint: Your ID number
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: authorization_signature
+      label: I certify that information is accurate and complete
+      hint: Confirm accuracy
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true

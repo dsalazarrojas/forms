@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Relief Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_experience
+      label: What is your volunteer experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills
+      label: Skills
+      hint: What skills do you have that would be valuable to us?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Child
+      - Brother
+      - Sister
+      - Grandparent
+      - Grandchild
+      - Friend
+      - Other
+      required: false
+    - id: 8
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tnc_agreement
+      label: Terms and Conditions
+      hint: I understand and agree to the terms and conditions.
+      type: select_multiple
+      options:
+      - I have read and agreed to the terms and conditions.
+      - I disagree with the terms and conditions.
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

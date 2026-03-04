@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: social media package selector form
+    pages:
+    - id: 1
+      name: social_media_service
+      label: What is the social media service needed?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - TikTok
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: Client Email (if applicable)
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: goal
+      label: What is the client's social media goal?
+      hint: null
+      type: select_multiple
+      options:
+      - Increase followers
+      - Increase engagement
+      - Increase brand awareness
+      - Increase sales
+      - Other
+      required: false
+    - id: 5
+      name: package
+      label: Select a package
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      required: false
+    - id: 6
+      name: package_details
+      label: Package Details
+      hint: Please enter package details in the comments section
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: How would you like to pay?
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: Any other relevant information you'd like to add
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: package_notes
+      label: Package Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Have you read and agreed to our terms and conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
